@@ -7,7 +7,7 @@ source_license: "NLOD 2.0"
 
 # Sentrale forskrifter
 
-_5148 current documents_
+_5149 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -1942,6 +1942,7 @@ _5148 current documents_
 - [forskrift-om-endring-i-forskrift-om-opptak-eksamen-og-sensur-for-fagskolen-møre-og-romsdal](forskrift-om-endring-i-forskrift-om-opptak-eksamen-og-sensur-for-fagskolen-møre-og-romsdal.md) — Forskrift om endring i forskrift om opptak, eksamen og sensur for Fagskolen Møre og Romsdal
 - [forskrift-om-endring-i-forskrift-om-opptak-studier-og-eksamen-ved-fagskolen-viken](forskrift-om-endring-i-forskrift-om-opptak-studier-og-eksamen-ved-fagskolen-viken.md) — Forskrift om endring i forskrift om opptak, studier og eksamen ved Fagskolen Viken
 - [forskrift-om-endring-i-forskrift-om-opptak-studier-og-eksamen-ved-handelshøyskolen-bi](forskrift-om-endring-i-forskrift-om-opptak-studier-og-eksamen-ved-handelshøyskolen-bi.md) — Forskrift om endring i forskrift om opptak, studier og eksamen ved Handelshøyskolen BI
+- [forskrift-om-endring-i-forskrift-om-opptak-studier-og-eksamen-ved-universitetet-i-innlandet](forskrift-om-endring-i-forskrift-om-opptak-studier-og-eksamen-ved-universitetet-i-innlandet.md) — Forskrift om endring i forskrift om opptak, studier og eksamen ved Universitetet i Innlandet
 - [forskrift-om-endring-i-forskrift-om-overføring-av-myndighet-til-kommunen-statsforvalteren-landbruksdirektoratet-og-direktoratet-for-mineralforvaltning-etter-konsesjonsloven-jordlova-og-odelsloven](forskrift-om-endring-i-forskrift-om-overføring-av-myndighet-til-kommunen-statsforvalteren-landbruksdirektoratet-og-direktoratet-for-mineralforvaltning-etter-konsesjonsloven-jordlova-og-odelsloven.md) — Forskrift om endring i forskrift om overføring av myndighet til kommunen, statsforvalteren, Landbruksdirektoratet og Direktoratet for mineralforvaltning etter konsesjonsloven, jordlova og odelsloven
 - [forskrift-om-endring-i-forskrift-om-prisnedskriving-ved-salg-til-spesialmarkeder](forskrift-om-endring-i-forskrift-om-prisnedskriving-ved-salg-til-spesialmarkeder.md) — Forskrift om endring i forskrift om prisnedskriving ved salg til spesialmarkeder
 - [forskrift-om-endring-i-forskrift-om-reduksjon-av-uførepensjon-fra-lovfestet-offentlig-tjenestepensjonsordning-på-grunn-av-inntekt-og-om-etteroppgjør](forskrift-om-endring-i-forskrift-om-reduksjon-av-uførepensjon-fra-lovfestet-offentlig-tjenestepensjonsordning-på-grunn-av-inntekt-og-om-etteroppgjør.md) — Forskrift om endring i forskrift om reduksjon av uførepensjon fra lovfestet offentlig tjenestepensjonsordning på grunn av inntekt og om etteroppgjør

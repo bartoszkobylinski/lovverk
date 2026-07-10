@@ -2,6 +2,16 @@
   "doc_id": "sf-20200415-0798",
   "events": [
     {
+      "commit": "cb1bb4e",
+      "date": "2026-07-10",
+      "from_path": null,
+      "lines_added": 125,
+      "lines_removed": 18,
+      "subject": "update(forskrift): forskrift-om-utdanningsstøtte",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "9a62444",
       "date": "2026-05-30",
       "from_path": null,
@@ -29,7 +39,7 @@
       "lines_removed": 1,
       "subject": "migration: backfill eu_basis for 4523 documents",
       "to_path": null,
-      "type": "renamed"
+      "type": "updated"
     },
     {
       "commit": "072b50c",
@@ -48,7 +58,7 @@
       "lines_added": 2,
       "lines_removed": 1,
       "subject": "migration: rename 4522 documents to slug-based filenames",
-      "to_path": "\"forskrifter/forskrift-om-utdanningsst\\303\\270tte.md\"",
+      "to_path": "forskrifter/forskrift-om-utdanningsstøtte.md",
       "type": "renamed"
     },
     {

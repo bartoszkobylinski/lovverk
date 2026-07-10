@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260617-1511",
+  "events": [
+    {
+      "commit": "8c7ea9f",
+      "date": "2026-07-10",
+      "from_path": null,
+      "lines_added": 91,
+      "lines_removed": 0,
+      "subject": "add(forskrift): forskrift-om-endring-i-forskrift-om-opptak-studier-og-eksamen-ved-universitetet-i-innlandet",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-endring-i-forskrift-om-opptak-studier-og-eksamen-ved-universitetet-i-innlandet"
+}
