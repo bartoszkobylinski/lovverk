@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-luftfartsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-luftfartsloven — Change history
 
 _1 events; doc_id `sf-19991210-1273`._

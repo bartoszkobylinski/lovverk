@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "skatteloven-sktl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # skatteloven-sktl — Change history
 
 _6 events; doc_id `nl-19990326-014`._
@@ -17,7 +24,7 @@ Lines: +4 -4.
 Subject: `update(lov): skatteloven-sktl`
 Commit: `38f720d`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

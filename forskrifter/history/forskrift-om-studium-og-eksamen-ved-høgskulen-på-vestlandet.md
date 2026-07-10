@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-studium-og-eksamen-ved-høgskulen-på-vestlandet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-studium-og-eksamen-ved-høgskulen-på-vestlandet — Change history
 
-_2 events; doc_id `sf-20250612-1547`._
+_3 events; doc_id `sf-20250612-1547`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20250612-1547.md` → `"forskrifter/forskrift-om-studium-og-eksamen-ved-h\303\270gskulen-p\303\245-vestlandet.md"`.
+Renamed: `forskrifter/sf-20250612-1547.md` → `forskrifter/forskrift-om-studium-og-eksamen-ved-høgskulen-på-vestlandet.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

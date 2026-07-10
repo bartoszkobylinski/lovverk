@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "lov-om-eksportavgift-på-fiskevarer-fiskekspal"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # lov-om-eksportavgift-på-fiskevarer-fiskekspal — Change history
 
-_2 events; doc_id `nl-20000707-068`._
+_3 events; doc_id `nl-20000707-068`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `lover/nl-20000707-068.md` → `"lover/lov-om-eksportavgift-p\303\245-fiskevarer-fiskekspal.md"`.
+Renamed: `lover/nl-20000707-068.md` → `lover/lov-om-eksportavgift-på-fiskevarer-fiskekspal.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

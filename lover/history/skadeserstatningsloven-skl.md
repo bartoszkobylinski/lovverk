@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "skadeserstatningsloven-skl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # skadeserstatningsloven-skl — Change history
 
 _4 events; doc_id `nl-19690613-026`._
@@ -7,7 +14,7 @@ Lines: +3 -3.
 Subject: `update(lov): skadeserstatningsloven-skl`
 Commit: `6541ecf`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

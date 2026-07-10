@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-del-ang-ingeniør-kunstskoler"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-del-ang-ingeniør-kunstskoler — Change history
 
 _1 events; doc_id `sf-19770107-3540`._

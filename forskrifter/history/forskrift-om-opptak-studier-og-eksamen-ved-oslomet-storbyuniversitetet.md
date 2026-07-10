@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-opptak-studier-og-eksamen-ved-oslomet-storbyuniversitetet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-opptak-studier-og-eksamen-ved-oslomet-storbyuniversitetet — Change history
 
 _1 events; doc_id `sf-20260508-1479`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "helseregisterloven-hregl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # helseregisterloven-hregl — Change history
 
 _4 events; doc_id `nl-20140620-043`._
@@ -7,7 +14,7 @@ Lines: +5 -5.
 Subject: `update(lov): helseregisterloven-hregl`
 Commit: `b3fdb0b`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

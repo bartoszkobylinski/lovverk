@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-stønad-til-dekning-av-utgifter-til-undersøkelse-og-behandling-hos-logoped-og-audiopedagog"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-stønad-til-dekning-av-utgifter-til-undersøkelse-og-behandling-hos-logoped-og-audiopedagog — Change history
 
 _5 events; doc_id `sf-20211217-3709`._
@@ -12,13 +19,13 @@ Lines: +4 -4.
 Subject: `update(forskrift): forskrift-om-stønad-til-dekning-av-utgifter-til-undersøkelse-og-behandling-hos-logoped-og-audiopedagog`
 Commit: `53cfa65`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20211217-3709.md` → `"forskrifter/forskrift-om-st\303\270nad-til-dekning-av-utgifter-til-unders\303\270kelse-og-behandling-hos-logoped-og-audiopedagog.md"`.
+Renamed: `forskrifter/sf-20211217-3709.md` → `forskrifter/forskrift-om-stønad-til-dekning-av-utgifter-til-undersøkelse-og-behandling-hos-logoped-og-audiopedagog.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

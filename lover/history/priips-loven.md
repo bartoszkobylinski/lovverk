@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "priips-loven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # priips-loven — Change history
 
 _5 events; doc_id `nl-20240621-040`._
@@ -12,7 +19,7 @@ Lines: +10 -2.
 Subject: `update(lov): priips-loven`
 Commit: `20a6e71`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +6 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

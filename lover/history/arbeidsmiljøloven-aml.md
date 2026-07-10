@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "arbeidsmiljøloven-aml"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # arbeidsmiljøloven-aml — Change history
 
 _5 events; doc_id `nl-20050617-062`._
@@ -12,13 +19,13 @@ Lines: +4 -4.
 Subject: `update(lov): arbeidsmiljøloven-aml`
 Commit: `c025719`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `lover/nl-20050617-062.md` → `"lover/arbeidsmilj\303\270loven-aml.md"`.
+Renamed: `lover/nl-20050617-062.md` → `lover/arbeidsmiljøloven-aml.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

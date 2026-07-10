@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-høyere-yrkesfaglig-utdanning-for-tisip-fagskole"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-høyere-yrkesfaglig-utdanning-for-tisip-fagskole — Change history
 
-_2 events; doc_id `sf-20201012-2054`._
+_3 events; doc_id `sf-20201012-2054`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20201012-2054.md` → `"forskrifter/forskrift-om-h\303\270yere-yrkesfaglig-utdanning-for-tisip-fagskole.md"`.
+Renamed: `forskrifter/sf-20201012-2054.md` → `forskrifter/forskrift-om-høyere-yrkesfaglig-utdanning-for-tisip-fagskole.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

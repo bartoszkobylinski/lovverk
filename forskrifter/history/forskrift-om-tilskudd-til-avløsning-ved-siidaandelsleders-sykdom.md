@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-tilskudd-til-avløsning-ved-siidaandelsleders-sykdom"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-tilskudd-til-avløsning-ved-siidaandelsleders-sykdom — Change history
 
 _1 events; doc_id `sf-20260622-1183`._

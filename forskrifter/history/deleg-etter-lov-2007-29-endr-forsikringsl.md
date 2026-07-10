@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-etter-lov-2007-29-endr-forsikringsl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-etter-lov-2007-29-endr-forsikringsl — Change history
 
 _1 events; doc_id `sf-20070615-0651`._

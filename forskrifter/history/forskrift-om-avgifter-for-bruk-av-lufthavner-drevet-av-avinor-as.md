@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "forskrift-om-avgifter-for-bruk-av-lufthavner-drevet-av-avinor-as"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-avgifter-for-bruk-av-lufthavner-drevet-av-avinor-as — Change history
 
-_2 events; doc_id `sf-20191220-2137`._
+_3 events; doc_id `sf-20191220-2137`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20191220-2137.md` → `forskrifter/forskrift-om-avgifter-for-bruk-av-lufthavner-drevet-av-avinor-as.md`.

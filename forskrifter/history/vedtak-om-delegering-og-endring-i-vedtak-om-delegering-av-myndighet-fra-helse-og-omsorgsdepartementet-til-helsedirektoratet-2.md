@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtak-om-delegering-og-endring-i-vedtak-om-delegering-av-myndighet-fra-helse-og-omsorgsdepartementet-til-helsedirektoratet-2"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtak-om-delegering-og-endring-i-vedtak-om-delegering-av-myndighet-fra-helse-og-omsorgsdepartementet-til-helsedirektoratet-2 — Change history
 
 _2 events; doc_id `sf-20260623-1249`._

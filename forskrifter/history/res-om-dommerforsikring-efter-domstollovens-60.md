@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "res-om-dommerforsikring-efter-domstollovens-60"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # res-om-dommerforsikring-efter-domstollovens-60 — Change history
 
-_2 events; doc_id `sf-19270610-0003`._
+_3 events; doc_id `sf-19270610-0003`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-19270610-0003.md` → `forskrifter/res-om-dommerforsikring-efter-domstollovens-60.md`.

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "arveloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # arveloven — Change history
 
 _4 events; doc_id `nl-20190614-021`._
@@ -7,7 +14,7 @@ Lines: +6 -2.
 Subject: `update(lov): arveloven`
 Commit: `0ee74a2`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

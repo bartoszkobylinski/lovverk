@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "organisasjonsplan-for-redningstjenesten"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # organisasjonsplan-for-redningstjenesten — Change history
 
 _1 events; doc_id `sf-20191206-1740`._

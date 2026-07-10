@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "midlertidig-endringslov-ankomst-av-fordrevne-fra-ukraina"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # midlertidig-endringslov-ankomst-av-fordrevne-fra-ukraina — Change history
 
 _3 events; doc_id `nl-20260612-022`._

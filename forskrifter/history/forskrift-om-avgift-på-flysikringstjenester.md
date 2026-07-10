@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-avgift-på-flysikringstjenester"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-avgift-på-flysikringstjenester — Change history
 
-_2 events; doc_id `sf-20141219-1847`._
+_3 events; doc_id `sf-20141219-1847`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20141219-1847.md` → `"forskrifter/forskrift-om-avgift-p\303\245-flysikringstjenester.md"`.
+Renamed: `forskrifter/sf-20141219-1847.md` → `forskrifter/forskrift-om-avgift-på-flysikringstjenester.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

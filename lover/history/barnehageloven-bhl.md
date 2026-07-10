@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "barnehageloven-bhl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # barnehageloven-bhl — Change history
 
 _8 events; doc_id `nl-20050617-064`._
@@ -27,7 +34,7 @@ Lines: +4 -4.
 Subject: `update(lov): barnehageloven-bhl`
 Commit: `eeef6d3`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

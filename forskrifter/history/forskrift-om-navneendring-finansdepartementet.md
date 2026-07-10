@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-navneendring-finansdepartementet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-navneendring-finansdepartementet — Change history
 
 _1 events; doc_id `sf-19991203-1203`._

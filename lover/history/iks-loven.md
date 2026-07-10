@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "iks-loven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # iks-loven — Change history
 
 _4 events; doc_id `nl-19990129-006`._
@@ -7,7 +14,7 @@ Lines: +4 -2.
 Subject: `update(lov): iks-loven`
 Commit: `811b6ca`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

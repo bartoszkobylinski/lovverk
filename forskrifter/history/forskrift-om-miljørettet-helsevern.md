@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-miljørettet-helsevern"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-miljørettet-helsevern — Change history
 
 _4 events; doc_id `sf-20030425-0486`._
@@ -7,13 +14,13 @@ Lines: +5 -5.
 Subject: `update(forskrift): forskrift-om-miljørettet-helsevern`
 Commit: `5f56f81`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20030425-0486.md` → `"forskrifter/forskrift-om-milj\303\270rettet-helsevern.md"`.
+Renamed: `forskrifter/sf-20030425-0486.md` → `forskrifter/forskrift-om-miljørettet-helsevern.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

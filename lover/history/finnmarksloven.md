@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "finnmarksloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # finnmarksloven — Change history
 
 _5 events; doc_id `nl-20050617-085`._
@@ -12,7 +19,7 @@ Lines: +4 -4.
 Subject: `update(lov): finnmarksloven`
 Commit: `e4c2ba6`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

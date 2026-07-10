@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-statlige-fartsgrenser-på-sjøen"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-statlige-fartsgrenser-på-sjøen — Change history
 
-_2 events; doc_id `sf-20211216-3622`._
+_3 events; doc_id `sf-20211216-3622`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20211216-3622.md` → `"forskrifter/forskrift-om-statlige-fartsgrenser-p\303\245-sj\303\270en.md"`.
+Renamed: `forskrifter/sf-20211216-3622.md` → `forskrifter/forskrift-om-statlige-fartsgrenser-på-sjøen.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-bufa-etter-ekteskapsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-bufa-etter-ekteskapsloven — Change history
 
 _1 events; doc_id `sf-20020401-1090`._

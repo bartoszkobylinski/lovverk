@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-mattilsynet-etter-matloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-mattilsynet-etter-matloven — Change history
 
 _1 events; doc_id `sf-20040505-0884`._

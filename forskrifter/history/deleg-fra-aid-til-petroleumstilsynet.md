@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-fra-aid-til-petroleumstilsynet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-fra-aid-til-petroleumstilsynet — Change history
 
 _1 events; doc_id `sf-20031219-1948`._

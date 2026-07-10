@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ekomforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ekomforskriften — Change history
 
 _5 events; doc_id `sf-20241220-3410`._
@@ -12,7 +19,7 @@ Lines: +5 -5.
 Subject: `update(forskrift): ekomforskriften`
 Commit: `c2874ba`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

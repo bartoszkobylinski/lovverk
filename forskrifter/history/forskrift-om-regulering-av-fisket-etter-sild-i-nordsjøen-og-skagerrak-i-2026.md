@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-regulering-av-fisket-etter-sild-i-nordsjøen-og-skagerrak-i-2026"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-regulering-av-fisket-etter-sild-i-nordsjøen-og-skagerrak-i-2026 — Change history
 
 _7 events; doc_id `sf-20251219-2828`._
@@ -22,13 +29,13 @@ Lines: +27 -13.
 Subject: `update(forskrift): forskrift-om-regulering-av-fisket-etter-sild-i-nordsjøen-og-skagerrak-i-2026`
 Commit: `a845a29`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20251219-2828.md` → `"forskrifter/forskrift-om-regulering-av-fisket-etter-sild-i-nordsj\303\270en-og-skagerrak-i-2026.md"`.
+Renamed: `forskrifter/sf-20251219-2828.md` → `forskrifter/forskrift-om-regulering-av-fisket-etter-sild-i-nordsjøen-og-skagerrak-i-2026.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

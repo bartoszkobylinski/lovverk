@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "kornforvaltningsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # kornforvaltningsloven — Change history
 
-_2 events; doc_id `nl-20000121-007`._
+_3 events; doc_id `nl-20000121-007`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `lover/nl-20000121-007.md` → `lover/kornforvaltningsloven.md`.

@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-felles-sikkerhetsmål-for-jernbanesystemet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-felles-sikkerhetsmål-for-jernbanesystemet — Change history
 
-_2 events; doc_id `sf-20130313-0280`._
+_3 events; doc_id `sf-20130313-0280`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20130313-0280.md` → `"forskrifter/forskrift-om-felles-sikkerhetsm\303\245l-for-jernbanesystemet.md"`.
+Renamed: `forskrifter/sf-20130313-0280.md` → `forskrifter/forskrift-om-felles-sikkerhetsmål-for-jernbanesystemet.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

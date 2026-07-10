@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-til-anvendelse-av-fullmaktsbestemmelsene-i-helseberedskapsloven-koronavirus"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-til-anvendelse-av-fullmaktsbestemmelsene-i-helseberedskapsloven-koronavirus — Change history
 
 _1 events; doc_id `sf-20200309-0302`._

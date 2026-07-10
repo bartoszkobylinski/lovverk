@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "regnskapsførerforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # regnskapsførerforskriften — Change history
 
-_2 events; doc_id `sf-20221216-2270`._
+_3 events; doc_id `sf-20221216-2270`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20221216-2270.md` → `"forskrifter/regnskapsf\303\270rerforskriften.md"`.
+Renamed: `forskrifter/sf-20221216-2270.md` → `forskrifter/regnskapsførerforskriften.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

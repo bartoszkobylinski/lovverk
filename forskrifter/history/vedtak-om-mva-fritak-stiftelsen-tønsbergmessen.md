@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtak-om-mva-fritak-stiftelsen-tønsbergmessen"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtak-om-mva-fritak-stiftelsen-tønsbergmessen — Change history
 
 _1 events; doc_id `sf-20120702-0904`._

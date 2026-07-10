@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-fiske-i-statsløse-områder-2"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-fiske-i-statsløse-områder-2 — Change history
 
-_2 events; doc_id `sf-19990630-1499`._
+_3 events; doc_id `sf-19990630-1499`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-19990630-1499.md` → `"forskrifter/forskrift-om-fiske-i-statsl\303\270se-omr\303\245der-2.md"`.
+Renamed: `forskrifter/sf-19990630-1499.md` → `forskrifter/forskrift-om-fiske-i-statsløse-områder-2.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

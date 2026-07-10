@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "eøs-høringsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # eøs-høringsloven — Change history
 
-_2 events; doc_id `nl-20041217-101`._
+_3 events; doc_id `nl-20041217-101`._
+
+## 2026-04-29 — Content updated
+Lines: +7 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `lover/nl-20041217-101.md` → `"lover/e\303\270s-h\303\270ringsloven.md"`.
+Renamed: `lover/nl-20041217-101.md` → `lover/eøs-høringsloven.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

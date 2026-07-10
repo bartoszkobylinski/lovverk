@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-årsregnskap-for-banker-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-årsregnskap-for-banker-mv — Change history
 
-_2 events; doc_id `sf-19981216-1240`._
+_3 events; doc_id `sf-19981216-1240`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-19981216-1240.md` → `"forskrifter/forskrift-om-\303\245rsregnskap-for-banker-mv.md"`.
+Renamed: `forskrifter/sf-19981216-1240.md` → `forskrifter/forskrift-om-årsregnskap-for-banker-mv.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

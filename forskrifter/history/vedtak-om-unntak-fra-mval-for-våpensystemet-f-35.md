@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtak-om-unntak-fra-mval-for-våpensystemet-f-35"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtak-om-unntak-fra-mval-for-våpensystemet-f-35 — Change history
 
 _1 events; doc_id `sf-20170130-0103`._

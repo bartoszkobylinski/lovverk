@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtekter-for-norges-forskningsråd"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtekter-for-norges-forskningsråd — Change history
 
 _1 events; doc_id `sf-20160610-0658`._

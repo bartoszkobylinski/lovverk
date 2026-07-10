@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-innsamling-og-overføring-av-molekylære-analytiske-data-ved-utbrudd-knyttet-til-næringsmidler"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-innsamling-og-overføring-av-molekylære-analytiske-data-ved-utbrudd-knyttet-til-næringsmidler — Change history
 
-_2 events; doc_id `sf-20260317-0426`._
+_3 events; doc_id `sf-20260317-0426`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20260317-0426.md` → `"forskrifter/forskrift-om-innsamling-og-overf\303\270ring-av-molekyl\303\246re-analytiske-data-ved-utbrudd-knyttet-til-n\303\246ringsmidler.md"`.
+Renamed: `forskrifter/sf-20260317-0426.md` → `forskrifter/forskrift-om-innsamling-og-overføring-av-molekylære-analytiske-data-ved-utbrudd-knyttet-til-næringsmidler.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

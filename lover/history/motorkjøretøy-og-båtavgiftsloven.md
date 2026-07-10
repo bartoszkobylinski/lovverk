@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "motorkjøretøy-og-båtavgiftsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # motorkjøretøy-og-båtavgiftsloven — Change history
 
 _4 events; doc_id `nl-19590619-002`._
@@ -7,13 +14,13 @@ Lines: +2 -2.
 Subject: `update(lov): motorkjøretøy-og-båtavgiftsloven`
 Commit: `36fa793`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `lover/nl-19590619-002.md` → `"lover/motorkj\303\270ret\303\270y-og-b\303\245tavgiftsloven.md"`.
+Renamed: `lover/nl-19590619-002.md` → `lover/motorkjøretøy-og-båtavgiftsloven.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

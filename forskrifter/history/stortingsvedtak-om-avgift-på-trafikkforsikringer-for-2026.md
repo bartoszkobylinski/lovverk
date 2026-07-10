@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "stortingsvedtak-om-avgift-på-trafikkforsikringer-for-2026"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # stortingsvedtak-om-avgift-på-trafikkforsikringer-for-2026 — Change history
 
 _1 events; doc_id `sf-20251218-2756`._

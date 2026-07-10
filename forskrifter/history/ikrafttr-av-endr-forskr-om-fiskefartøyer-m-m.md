@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "ikrafttr-av-endr-forskr-om-fiskefartøyer-m-m"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ikrafttr-av-endr-forskr-om-fiskefartøyer-m-m — Change history
 
-_2 events; doc_id `sf-19950509-0466`._
+_3 events; doc_id `sf-19950509-0466`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-19950509-0466.md` → `"forskrifter/ikrafttr-av-endr-forskr-om-fiskefart\303\270yer-m-m.md"`.
+Renamed: `forskrifter/sf-19950509-0466.md` → `forskrifter/ikrafttr-av-endr-forskr-om-fiskefartøyer-m-m.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

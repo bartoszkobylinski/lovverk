@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-nasjonal-retningslinje-for-operasjonssykepleierutdanning"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-nasjonal-retningslinje-for-operasjonssykepleierutdanning — Change history
 
 _4 events; doc_id `sf-20250905-1830`._
@@ -7,7 +14,7 @@ Lines: +0 -197.
 Subject: `sync: 2 new, 20 changed, 30 renamed, 373 removed`
 Commit: `5511aa4`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

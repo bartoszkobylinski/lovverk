@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-fagskoleutdanning-ved-medlearn-as"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-fagskoleutdanning-ved-medlearn-as — Change history
 
 _4 events; doc_id `sf-20211124-3371`._
@@ -7,7 +14,7 @@ Lines: +3 -3.
 Subject: `update(forskrift): forskrift-om-fagskoleutdanning-ved-medlearn-as`
 Commit: `5aab047`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

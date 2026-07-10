@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endringslov-til-konkursloven-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endringslov-til-konkursloven-mv — Change history
 
 _2 events; doc_id `nl-20260619-048`._

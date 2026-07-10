@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-lønn-1-og-17-mai"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-lønn-1-og-17-mai — Change history
 
-_2 events; doc_id `sf-19470426-0001`._
+_3 events; doc_id `sf-19470426-0001`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-19470426-0001.md` → `"forskrifter/forskrift-om-l\303\270nn-1-og-17-mai.md"`.
+Renamed: `forskrifter/sf-19470426-0001.md` → `forskrifter/forskrift-om-lønn-1-og-17-mai.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "lov-om-avgift-på-utslipp-av-co2"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # lov-om-avgift-på-utslipp-av-co2 — Change history
 
-_2 events; doc_id `nl-19901221-072`._
+_3 events; doc_id `nl-19901221-072`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `lover/nl-19901221-072.md` → `"lover/lov-om-avgift-p\303\245-utslipp-av-co2.md"`.
+Renamed: `lover/nl-19901221-072.md` → `lover/lov-om-avgift-på-utslipp-av-co2.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

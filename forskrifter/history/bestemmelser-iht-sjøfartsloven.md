@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "bestemmelser-iht-sjøfartsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # bestemmelser-iht-sjøfartsloven — Change history
 
 _1 events; doc_id `sf-19670505-0001`._

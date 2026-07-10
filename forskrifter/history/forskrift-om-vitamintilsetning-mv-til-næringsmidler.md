@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-vitamintilsetning-mv-til-næringsmidler"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-vitamintilsetning-mv-til-næringsmidler — Change history
 
 _5 events; doc_id `sf-20100226-0247`._
@@ -12,13 +19,13 @@ Lines: +3 -3.
 Subject: `update(forskrift): forskrift-om-vitamintilsetning-mv-til-næringsmidler`
 Commit: `41d46d9`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20100226-0247.md` → `"forskrifter/forskrift-om-vitamintilsetning-mv-til-n\303\246ringsmidler.md"`.
+Renamed: `forskrifter/sf-20100226-0247.md` → `forskrifter/forskrift-om-vitamintilsetning-mv-til-næringsmidler.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

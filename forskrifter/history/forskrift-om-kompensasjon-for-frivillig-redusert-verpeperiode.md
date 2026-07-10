@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "forskrift-om-kompensasjon-for-frivillig-redusert-verpeperiode"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-kompensasjon-for-frivillig-redusert-verpeperiode — Change history
 
-_2 events; doc_id `sf-20200622-1397`._
+_3 events; doc_id `sf-20200622-1397`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20200622-1397.md` → `forskrifter/forskrift-om-kompensasjon-for-frivillig-redusert-verpeperiode.md`.

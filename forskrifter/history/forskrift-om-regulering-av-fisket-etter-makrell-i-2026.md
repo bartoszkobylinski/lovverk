@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-regulering-av-fisket-etter-makrell-i-2026"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-regulering-av-fisket-etter-makrell-i-2026 — Change history
 
 _5 events; doc_id `sf-20251219-2821`._
@@ -12,7 +19,7 @@ Lines: +27 -21.
 Subject: `update(forskrift): forskrift-om-regulering-av-fisket-etter-makrell-i-2026`
 Commit: `2757849`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

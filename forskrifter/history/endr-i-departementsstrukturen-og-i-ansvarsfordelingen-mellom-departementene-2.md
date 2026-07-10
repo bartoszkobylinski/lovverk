@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endr-i-departementsstrukturen-og-i-ansvarsfordelingen-mellom-departementene-2"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endr-i-departementsstrukturen-og-i-ansvarsfordelingen-mellom-departementene-2 — Change history
 
 _1 events; doc_id `sf-20190503-0560`._

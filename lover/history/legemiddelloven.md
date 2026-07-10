@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "legemiddelloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # legemiddelloven — Change history
 
 _8 events; doc_id `nl-19921204-132`._
@@ -27,7 +34,7 @@ Lines: +4 -4.
 Subject: `update(lov): legemiddelloven`
 Commit: `37483e7`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +3 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

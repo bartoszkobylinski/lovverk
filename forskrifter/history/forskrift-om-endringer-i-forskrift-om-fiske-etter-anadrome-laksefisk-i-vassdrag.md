@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "forskrift-om-endringer-i-forskrift-om-fiske-etter-anadrome-laksefisk-i-vassdrag"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endringer-i-forskrift-om-fiske-etter-anadrome-laksefisk-i-vassdrag — Change history
 
-_2 events; doc_id `sf-20240520-1548`._
+_3 events; doc_id `sf-20240520-1548`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20240520-1548.md` → `forskrifter/forskrift-om-endringer-i-forskrift-om-fiske-etter-anadrome-laksefisk-i-vassdrag.md`.

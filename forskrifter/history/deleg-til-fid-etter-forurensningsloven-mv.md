@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-fid-etter-forurensningsloven-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-fid-etter-forurensningsloven-mv — Change history
 
 _1 events; doc_id `sf-20021220-1805`._

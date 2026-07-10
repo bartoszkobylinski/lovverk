@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtak-om-opprettelse-av-petroleumstilsynet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtak-om-opprettelse-av-petroleumstilsynet — Change history
 
 _1 events; doc_id `sf-20031219-1592`._

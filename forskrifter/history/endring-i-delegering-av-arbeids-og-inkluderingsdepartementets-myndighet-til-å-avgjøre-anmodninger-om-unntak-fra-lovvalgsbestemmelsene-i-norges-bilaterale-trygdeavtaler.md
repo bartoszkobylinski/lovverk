@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endring-i-delegering-av-arbeids-og-inkluderingsdepartementets-myndighet-til-å-avgjøre-anmodninger-om-unntak-fra-lovvalgsbestemmelsene-i-norges-bilaterale-trygdeavtaler"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endring-i-delegering-av-arbeids-og-inkluderingsdepartementets-myndighet-til-å-avgjøre-anmodninger-om-unntak-fra-lovvalgsbestemmelsene-i-norges-bilaterale-trygdeavtaler — Change history
 
 _1 events; doc_id `sf-20240628-1390`._

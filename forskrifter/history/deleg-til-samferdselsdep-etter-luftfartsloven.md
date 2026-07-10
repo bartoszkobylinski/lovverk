@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-samferdselsdep-etter-luftfartsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-samferdselsdep-etter-luftfartsloven — Change history
 
 _1 events; doc_id `sf-20000915-0905`._

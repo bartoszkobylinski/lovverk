@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "forskrift-om-velferd-for-produksjonsdyr"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-velferd-for-produksjonsdyr — Change history
 
-_2 events; doc_id `sf-20060703-0885`._
+_3 events; doc_id `sf-20060703-0885`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20060703-0885.md` → `forskrifter/forskrift-om-velferd-for-produksjonsdyr.md`.

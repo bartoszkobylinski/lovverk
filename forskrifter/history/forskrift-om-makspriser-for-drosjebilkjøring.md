@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-makspriser-for-drosjebilkjøring"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-makspriser-for-drosjebilkjøring — Change history
 
-_2 events; doc_id `sf-20100930-1307`._
+_3 events; doc_id `sf-20100930-1307`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20100930-1307.md` → `"forskrifter/forskrift-om-makspriser-for-drosjebilkj\303\270ring.md"`.
+Renamed: `forskrifter/sf-20100930-1307.md` → `forskrifter/forskrift-om-makspriser-for-drosjebilkjøring.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

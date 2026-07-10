@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "lov-om-offentliggjøring-av-bærekraftsinformasjon-i-finanssektoren-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # lov-om-offentliggjøring-av-bærekraftsinformasjon-i-finanssektoren-mv — Change history
 
-_2 events; doc_id `nl-20211222-161`._
+_3 events; doc_id `nl-20211222-161`._
+
+## 2026-04-29 — Content updated
+Lines: +4 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `lover/nl-20211222-161.md` → `"lover/lov-om-offentliggj\303\270ring-av-b\303\246rekraftsinformasjon-i-finanssektoren-mv.md"`.
+Renamed: `lover/nl-20211222-161.md` → `lover/lov-om-offentliggjøring-av-bærekraftsinformasjon-i-finanssektoren-mv.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

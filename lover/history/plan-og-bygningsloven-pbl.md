@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "plan-og-bygningsloven-pbl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # plan-og-bygningsloven-pbl — Change history
 
 _7 events; doc_id `nl-20080627-071`._
@@ -22,7 +29,7 @@ Lines: +4 -4.
 Subject: `update(lov): plan-og-bygningsloven-pbl`
 Commit: `6aac380`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

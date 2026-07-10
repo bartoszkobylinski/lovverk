@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "meddelelse-om-ikrafts-av-lov-2019-17-endr-i-svalbardloven-m-m"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # meddelelse-om-ikrafts-av-lov-2019-17-endr-i-svalbardloven-m-m — Change history
 
 _1 events; doc_id `sf-20191021-1402`._

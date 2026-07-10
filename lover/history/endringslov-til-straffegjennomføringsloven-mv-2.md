@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endringslov-til-straffegjennomføringsloven-mv-2"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endringslov-til-straffegjennomføringsloven-mv-2 — Change history
 
 _2 events; doc_id `nl-20260512-018`._

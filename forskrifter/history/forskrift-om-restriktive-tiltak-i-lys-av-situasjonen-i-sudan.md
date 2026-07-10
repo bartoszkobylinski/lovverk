@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "forskrift-om-restriktive-tiltak-i-lys-av-situasjonen-i-sudan"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-restriktive-tiltak-i-lys-av-situasjonen-i-sudan — Change history
 
-_2 events; doc_id `sf-20060602-0573`._
+_3 events; doc_id `sf-20060602-0573`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20060602-0573.md` → `forskrifter/forskrift-om-restriktive-tiltak-i-lys-av-situasjonen-i-sudan.md`.

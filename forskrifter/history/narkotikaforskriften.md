@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "narkotikaforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # narkotikaforskriften — Change history
 
 _6 events; doc_id `sf-20130214-0199`._
@@ -17,7 +24,7 @@ Lines: +3 -3.
 Subject: `update(forskrift): narkotikaforskriften`
 Commit: `f8a630d`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

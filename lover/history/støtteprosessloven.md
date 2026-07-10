@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "støtteprosessloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # støtteprosessloven — Change history
 
 _7 events; doc_id `nl-20220304-007`._
@@ -22,13 +29,13 @@ Lines: +8 -2.
 Subject: `update(lov): støtteprosessloven`
 Commit: `718cb96`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `lover/nl-20220304-007.md` → `"lover/st\303\270tteprosessloven.md"`.
+Renamed: `lover/nl-20220304-007.md` → `lover/støtteprosessloven.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

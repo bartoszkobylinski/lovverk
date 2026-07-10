@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "utlendingsloven-utlendl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # utlendingsloven-utlendl — Change history
 
 _9 events; doc_id `nl-20080515-035`._
@@ -32,7 +39,7 @@ Lines: +87 -71.
 Subject: `update(lov): utlendingsloven-utlendl`
 Commit: `f31983a`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +3 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

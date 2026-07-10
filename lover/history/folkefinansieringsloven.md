@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "folkefinansieringsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # folkefinansieringsloven — Change history
 
 _6 events; doc_id `nl-20260206-002`._
@@ -17,7 +24,7 @@ Lines: +8 -2.
 Subject: `update(lov): folkefinansieringsloven`
 Commit: `b02131d`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +3 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

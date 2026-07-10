@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-departementet-etter-sameloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-departementet-etter-sameloven — Change history
 
 _1 events; doc_id `sf-20041210-1607`._

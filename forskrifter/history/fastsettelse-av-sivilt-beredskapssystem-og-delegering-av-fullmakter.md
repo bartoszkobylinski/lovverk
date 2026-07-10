@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "fastsettelse-av-sivilt-beredskapssystem-og-delegering-av-fullmakter"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # fastsettelse-av-sivilt-beredskapssystem-og-delegering-av-fullmakter — Change history
 
 _1 events; doc_id `sf-20250912-1841`._

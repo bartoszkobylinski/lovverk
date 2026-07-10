@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "angrerettloven-angrl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # angrerettloven-angrl — Change history
 
 _5 events; doc_id `nl-20140620-027`._
@@ -12,7 +19,7 @@ Lines: +13 -5.
 Subject: `update(lov): angrerettloven-angrl`
 Commit: `77df5e8`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +8 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

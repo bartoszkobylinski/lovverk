@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-volumstørrelser-alkoholprodukter"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-volumstørrelser-alkoholprodukter — Change history
 
-_2 events; doc_id `sf-20080918-1079`._
+_3 events; doc_id `sf-20080918-1079`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20080918-1079.md` → `"forskrifter/forskrift-om-volumst\303\270rrelser-alkoholprodukter.md"`.
+Renamed: `forskrifter/sf-20080918-1079.md` → `forskrifter/forskrift-om-volumstørrelser-alkoholprodukter.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

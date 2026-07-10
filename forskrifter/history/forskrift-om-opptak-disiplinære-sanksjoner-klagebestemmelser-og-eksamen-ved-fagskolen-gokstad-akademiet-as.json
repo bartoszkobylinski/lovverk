@@ -19,7 +19,7 @@
       "lines_removed": 1,
       "subject": "migration: backfill eu_basis for 4523 documents",
       "to_path": null,
-      "type": "renamed"
+      "type": "updated"
     },
     {
       "commit": "3dddeca",
@@ -28,7 +28,7 @@
       "lines_added": 2,
       "lines_removed": 1,
       "subject": "migration: rename 4522 documents to slug-based filenames",
-      "to_path": "\"forskrifter/forskrift-om-opptak-disiplin\\303\\246re-sanksjoner-klagebestemmelser-og-eksamen-ved-fagskolen-gokstad-akademiet-as.md\"",
+      "to_path": "forskrifter/forskrift-om-opptak-disiplinære-sanksjoner-klagebestemmelser-og-eksamen-ved-fagskolen-gokstad-akademiet-as.md",
       "type": "renamed"
     },
     {

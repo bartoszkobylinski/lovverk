@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "lov-om-infrastruktur-for-alternativt-drivstoff"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # lov-om-infrastruktur-for-alternativt-drivstoff — Change history
 
 _4 events; doc_id `nl-20200619-095`._
@@ -7,7 +14,7 @@ Lines: +2 -2.
 Subject: `update(lov): lov-om-infrastruktur-for-alternativt-drivstoff`
 Commit: `3af1ffa`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +3 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

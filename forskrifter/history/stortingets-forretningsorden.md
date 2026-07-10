@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "stortingets-forretningsorden"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # stortingets-forretningsorden — Change history
 
 _1 events; doc_id `sf-20120607-0518`._

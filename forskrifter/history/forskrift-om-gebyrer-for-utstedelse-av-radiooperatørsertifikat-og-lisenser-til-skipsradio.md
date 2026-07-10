@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-gebyrer-for-utstedelse-av-radiooperatørsertifikat-og-lisenser-til-skipsradio"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-gebyrer-for-utstedelse-av-radiooperatørsertifikat-og-lisenser-til-skipsradio — Change history
 
-_2 events; doc_id `sf-20251210-2852`._
+_3 events; doc_id `sf-20251210-2852`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20251210-2852.md` → `"forskrifter/forskrift-om-gebyrer-for-utstedelse-av-radiooperat\303\270rsertifikat-og-lisenser-til-skipsradio.md"`.
+Renamed: `forskrifter/sf-20251210-2852.md` → `forskrifter/forskrift-om-gebyrer-for-utstedelse-av-radiooperatørsertifikat-og-lisenser-til-skipsradio.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

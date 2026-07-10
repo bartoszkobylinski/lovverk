@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "byggteknisk-forskrift-tek17"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # byggteknisk-forskrift-tek17 — Change history
 
 _6 events; doc_id `sf-20170619-0840`._
@@ -17,7 +24,7 @@ Lines: +13 -3.
 Subject: `update(forskrift): byggteknisk-forskrift-tek17`
 Commit: `404fa8d`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "instruks-for-statsforvalteren-og-sysselmesteren-på-svalbard-sitt-arbeid-med-samfunnssikkerhet-beredskap-og-krisehåndtering"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # instruks-for-statsforvalteren-og-sysselmesteren-på-svalbard-sitt-arbeid-med-samfunnssikkerhet-beredskap-og-krisehåndtering — Change history
 
 _1 events; doc_id `sf-20150619-0703`._

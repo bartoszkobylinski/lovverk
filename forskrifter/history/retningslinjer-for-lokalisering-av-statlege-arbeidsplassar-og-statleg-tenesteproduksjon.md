@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "retningslinjer-for-lokalisering-av-statlege-arbeidsplassar-og-statleg-tenesteproduksjon"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # retningslinjer-for-lokalisering-av-statlege-arbeidsplassar-og-statleg-tenesteproduksjon — Change history
 
 _1 events; doc_id `sf-20240927-2305`._

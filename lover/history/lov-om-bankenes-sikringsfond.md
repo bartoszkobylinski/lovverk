@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "lov-om-bankenes-sikringsfond"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # lov-om-bankenes-sikringsfond — Change history
 
 _6 events; doc_id `nl-20180323-003`._
@@ -17,7 +24,7 @@ Lines: +6 -2.
 Subject: `update(lov): lov-om-bankenes-sikringsfond`
 Commit: `d42d709`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

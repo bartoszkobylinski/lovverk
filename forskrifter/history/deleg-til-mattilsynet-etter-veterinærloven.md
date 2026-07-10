@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-mattilsynet-etter-veterinærloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-mattilsynet-etter-veterinærloven — Change history
 
 _1 events; doc_id `sf-20040116-0219`._

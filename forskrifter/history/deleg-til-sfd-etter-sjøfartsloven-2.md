@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-sfd-etter-sjøfartsloven-2"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-sfd-etter-sjøfartsloven-2 — Change history
 
 _1 events; doc_id `sf-19721110-4695`._

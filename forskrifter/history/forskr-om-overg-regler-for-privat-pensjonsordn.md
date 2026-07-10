@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "forskr-om-overg-regler-for-privat-pensjonsordn"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskr-om-overg-regler-for-privat-pensjonsordn — Change history
 
-_2 events; doc_id `sf-20001222-1412`._
+_3 events; doc_id `sf-20001222-1412`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20001222-1412.md` → `forskrifter/forskr-om-overg-regler-for-privat-pensjonsordn.md`.

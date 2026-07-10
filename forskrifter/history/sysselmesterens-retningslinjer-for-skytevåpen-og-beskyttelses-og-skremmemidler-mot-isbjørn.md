@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "sysselmesterens-retningslinjer-for-skytevåpen-og-beskyttelses-og-skremmemidler-mot-isbjørn"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # sysselmesterens-retningslinjer-for-skytevåpen-og-beskyttelses-og-skremmemidler-mot-isbjørn — Change history
 
 _1 events; doc_id `sf-20240513-0850`._

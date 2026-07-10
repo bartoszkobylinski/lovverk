@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endr-i-departementsstrukturen"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endr-i-departementsstrukturen — Change history
 
 _1 events; doc_id `sf-19901221-1022`._

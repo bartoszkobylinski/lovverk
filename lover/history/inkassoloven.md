@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "inkassoloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # inkassoloven — Change history
 
 _1 events; doc_id `nl-20260522-019`._

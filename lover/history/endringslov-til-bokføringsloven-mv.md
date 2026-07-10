@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endringslov-til-bokføringsloven-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endringslov-til-bokføringsloven-mv — Change history
 
 _3 events; doc_id `nl-20260619-039`._

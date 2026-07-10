@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-opptak-skikkethet-eksamen-og-klagebehandling-ved-sjøforsvarets-fagskole"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-opptak-skikkethet-eksamen-og-klagebehandling-ved-sjøforsvarets-fagskole — Change history
 
-_2 events; doc_id `sf-20220801-1410`._
+_3 events; doc_id `sf-20220801-1410`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20220801-1410.md` → `"forskrifter/forskrift-om-opptak-skikkethet-eksamen-og-klagebehandling-ved-sj\303\270forsvarets-fagskole.md"`.
+Renamed: `forskrifter/sf-20220801-1410.md` → `forskrifter/forskrift-om-opptak-skikkethet-eksamen-og-klagebehandling-ved-sjøforsvarets-fagskole.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

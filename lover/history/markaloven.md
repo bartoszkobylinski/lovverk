@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "markaloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # markaloven — Change history
 
 _4 events; doc_id `nl-20090605-035`._
@@ -7,7 +14,7 @@ Lines: +3 -3.
 Subject: `update(lov): markaloven`
 Commit: `2838786`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

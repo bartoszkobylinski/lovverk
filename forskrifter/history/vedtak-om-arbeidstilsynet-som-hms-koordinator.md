@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtak-om-arbeidstilsynet-som-hms-koordinator"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtak-om-arbeidstilsynet-som-hms-koordinator — Change history
 
 _1 events; doc_id `sf-20040917-1271`._

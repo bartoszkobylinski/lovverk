@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endringslov-til-verdipapirhandelloven-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endringslov-til-verdipapirhandelloven-mv — Change history
 
 _4 events; doc_id `nl-20260206-003`._
@@ -7,7 +14,7 @@ Lines: +4 -2.
 Subject: `update(lov): endringslov-til-verdipapirhandelloven-mv`
 Commit: `4fb5a3f`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +4 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

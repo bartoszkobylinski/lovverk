@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-departementets-myndighet-til-direktoratet-for-medisinske-produkter-etter-narkotikaforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-departementets-myndighet-til-direktoratet-for-medisinske-produkter-etter-narkotikaforskriften — Change history
 
 _1 events; doc_id `sf-20130305-1461`._

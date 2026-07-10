@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forsikringsformidlingsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forsikringsformidlingsloven — Change history
 
 _4 events; doc_id `nl-20211222-163`._
@@ -7,7 +14,7 @@ Lines: +16 -2.
 Subject: `update(lov): forsikringsformidlingsloven`
 Commit: `017c2ee`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +4 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

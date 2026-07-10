@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ikrafttr-av-lov-om-megling-i-konfliktråd"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ikrafttr-av-lov-om-megling-i-konfliktråd — Change history
 
 _1 events; doc_id `sf-19920813-0619`._

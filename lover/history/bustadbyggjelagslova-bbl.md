@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "bustadbyggjelagslova-bbl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # bustadbyggjelagslova-bbl — Change history
 
 _5 events; doc_id `nl-20030606-038`._
@@ -12,7 +19,7 @@ Lines: +9 -3.
 Subject: `update(lov): bustadbyggjelagslova-bbl`
 Commit: `73a9c10`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

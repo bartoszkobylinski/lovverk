@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "kontrollinstruks-for-animalske-produkter"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # kontrollinstruks-for-animalske-produkter — Change history
 
 _1 events; doc_id `sf-19991027-1166`._

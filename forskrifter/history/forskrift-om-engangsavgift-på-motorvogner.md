@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-engangsavgift-på-motorvogner"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-engangsavgift-på-motorvogner — Change history
 
-_2 events; doc_id `sf-20010319-0268`._
+_3 events; doc_id `sf-20010319-0268`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20010319-0268.md` → `"forskrifter/forskrift-om-engangsavgift-p\303\245-motorvogner.md"`.
+Renamed: `forskrifter/sf-20010319-0268.md` → `forskrifter/forskrift-om-engangsavgift-på-motorvogner.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

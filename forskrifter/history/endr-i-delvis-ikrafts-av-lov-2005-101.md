@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endr-i-delvis-ikrafts-av-lov-2005-101"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endr-i-delvis-ikrafts-av-lov-2005-101 — Change history
 
 _1 events; doc_id `sf-20091204-1453`._

@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-kontroll-av-rutegående-roro-og-hurtiggående-passasjerskip"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-kontroll-av-rutegående-roro-og-hurtiggående-passasjerskip — Change history
 
-_2 events; doc_id `sf-20250624-1308`._
+_3 events; doc_id `sf-20250624-1308`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20250624-1308.md` → `"forskrifter/forskrift-om-kontroll-av-ruteg\303\245ende-roro-og-hurtigg\303\245ende-passasjerskip.md"`.
+Renamed: `forskrifter/sf-20250624-1308.md` → `forskrifter/forskrift-om-kontroll-av-rutegående-roro-og-hurtiggående-passasjerskip.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-myndighet-etter-fjellova"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-myndighet-etter-fjellova — Change history
 
 _1 events; doc_id `sf-19760108-4297`._

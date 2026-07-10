@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-nhd-etter-foretaksregisterloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-nhd-etter-foretaksregisterloven — Change history
 
 _1 events; doc_id `sf-20110415-0402`._

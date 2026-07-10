@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vannressursloven-vrl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vannressursloven-vrl — Change history
 
 _5 events; doc_id `nl-20001124-082`._
@@ -12,7 +19,7 @@ Lines: +5 -3.
 Subject: `update(lov): vannressursloven-vrl`
 Commit: `9fbc299`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

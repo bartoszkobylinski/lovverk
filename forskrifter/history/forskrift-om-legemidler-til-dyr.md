@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-legemidler-til-dyr"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-legemidler-til-dyr — Change history
 
 _5 events; doc_id `sf-20220908-1573`._
@@ -12,7 +19,7 @@ Lines: +11 -5.
 Subject: `update(forskrift): forskrift-om-legemidler-til-dyr`
 Commit: `acf9680`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

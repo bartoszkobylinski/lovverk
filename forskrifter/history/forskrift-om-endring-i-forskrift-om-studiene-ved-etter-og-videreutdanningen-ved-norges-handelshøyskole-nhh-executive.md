@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-studiene-ved-etter-og-videreutdanningen-ved-norges-handelshøyskole-nhh-executive"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-studiene-ved-etter-og-videreutdanningen-ved-norges-handelshøyskole-nhh-executive — Change history
 
 _1 events; doc_id `sf-20260616-1097`._

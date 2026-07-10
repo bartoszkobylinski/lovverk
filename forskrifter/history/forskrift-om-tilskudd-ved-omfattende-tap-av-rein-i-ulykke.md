@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-tilskudd-ved-omfattende-tap-av-rein-i-ulykke"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-tilskudd-ved-omfattende-tap-av-rein-i-ulykke — Change history
 
 _1 events; doc_id `sf-20260622-1181`._

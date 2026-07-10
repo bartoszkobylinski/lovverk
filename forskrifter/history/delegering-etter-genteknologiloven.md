@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-genteknologiloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-genteknologiloven — Change history
 
 _1 events; doc_id `sf-19940211-0125`._

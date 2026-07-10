@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "forskrift-om-opptak-studium-og-eksamen-ved-skrivekunstakademiet-i-hordaland"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-opptak-studium-og-eksamen-ved-skrivekunstakademiet-i-hordaland — Change history
 
-_2 events; doc_id `sf-20170314-0324`._
+_3 events; doc_id `sf-20170314-0324`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20170314-0324.md` → `forskrifter/forskrift-om-opptak-studium-og-eksamen-ved-skrivekunstakademiet-i-hordaland.md`.

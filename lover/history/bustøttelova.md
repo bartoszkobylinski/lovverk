@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "bustøttelova"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # bustøttelova — Change history
 
 _5 events; doc_id `nl-20120824-064`._
@@ -12,13 +19,13 @@ Lines: +11 -3.
 Subject: `update(lov): bustøttelova`
 Commit: `f6d203f`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `lover/nl-20120824-064.md` → `"lover/bust\303\270ttelova.md"`.
+Renamed: `lover/nl-20120824-064.md` → `lover/bustøttelova.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

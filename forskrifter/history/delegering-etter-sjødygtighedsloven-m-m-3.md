@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-sjødygtighedsloven-m-m-3"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-sjødygtighedsloven-m-m-3 — Change history
 
 _1 events; doc_id `sf-19800108-0001`._

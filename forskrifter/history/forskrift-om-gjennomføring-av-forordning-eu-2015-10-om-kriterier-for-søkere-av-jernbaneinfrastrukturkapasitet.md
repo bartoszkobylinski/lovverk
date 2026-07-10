@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-gjennomføring-av-forordning-eu-2015-10-om-kriterier-for-søkere-av-jernbaneinfrastrukturkapasitet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-gjennomføring-av-forordning-eu-2015-10-om-kriterier-for-søkere-av-jernbaneinfrastrukturkapasitet — Change history
 
-_2 events; doc_id `sf-20210708-2366`._
+_3 events; doc_id `sf-20210708-2366`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20210708-2366.md` → `"forskrifter/forskrift-om-gjennomf\303\270ring-av-forordning-eu-2015-10-om-kriterier-for-s\303\270kere-av-jernbaneinfrastrukturkapasitet.md"`.
+Renamed: `forskrifter/sf-20210708-2366.md` → `forskrifter/forskrift-om-gjennomføring-av-forordning-eu-2015-10-om-kriterier-for-søkere-av-jernbaneinfrastrukturkapasitet.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

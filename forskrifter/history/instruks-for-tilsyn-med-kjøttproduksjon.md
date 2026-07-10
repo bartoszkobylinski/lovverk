@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "instruks-for-tilsyn-med-kjøttproduksjon"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # instruks-for-tilsyn-med-kjøttproduksjon — Change history
 
 _1 events; doc_id `sf-19990304-0289`._

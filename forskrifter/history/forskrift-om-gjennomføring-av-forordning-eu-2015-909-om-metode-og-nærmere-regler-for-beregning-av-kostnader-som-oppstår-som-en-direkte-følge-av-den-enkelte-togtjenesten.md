@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-gjennomføring-av-forordning-eu-2015-909-om-metode-og-nærmere-regler-for-beregning-av-kostnader-som-oppstår-som-en-direkte-følge-av-den-enkelte-togtjenesten"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-gjennomføring-av-forordning-eu-2015-909-om-metode-og-nærmere-regler-for-beregning-av-kostnader-som-oppstår-som-en-direkte-følge-av-den-enkelte-togtjenesten — Change history
 
-_2 events; doc_id `sf-20210708-2361`._
+_3 events; doc_id `sf-20210708-2361`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20210708-2361.md` → `"forskrifter/forskrift-om-gjennomf\303\270ring-av-forordning-eu-2015-909-om-metode-og-n\303\246rmere-regler-for-beregning-av-kostnader-som-oppst\303\245r-som-en-direkte-f\303\270lge-av-den-enkelte-togtjenesten.md"`.
+Renamed: `forskrifter/sf-20210708-2361.md` → `forskrifter/forskrift-om-gjennomføring-av-forordning-eu-2015-909-om-metode-og-nærmere-regler-for-beregning-av-kostnader-som-oppstår-som-en-direkte-følge-av-den-enkelte-togtjenesten.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

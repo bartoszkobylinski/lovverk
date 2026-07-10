@@ -2,13 +2,23 @@
   "doc_id": "nl-20250527-021",
   "events": [
     {
+      "commit": "3d499af",
+      "date": "2026-04-29",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 1,
+      "subject": "migration: backfill eu_basis for 4523 documents",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "3dddeca",
       "date": "2026-04-27",
       "from_path": "lover/nl-20250527-021.md",
       "lines_added": 2,
       "lines_removed": 1,
       "subject": "migration: rename 4522 documents to slug-based filenames",
-      "to_path": "\"lover/lov-om-bevaring-og-b\\303\\246rekraftig-bruk-av-marint-naturmangfold-i-omr\\303\\245der-utenfor-nasjonal-jurisdiksjon.md\"",
+      "to_path": "lover/lov-om-bevaring-og-bærekraftig-bruk-av-marint-naturmangfold-i-områder-utenfor-nasjonal-jurisdiksjon.md",
       "type": "renamed"
     },
     {

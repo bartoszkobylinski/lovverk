@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-forskriftskompetanse-etter-plan-og-bygningsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-forskriftskompetanse-etter-plan-og-bygningsloven — Change history
 
 _1 events; doc_id `sf-20170208-2182`._

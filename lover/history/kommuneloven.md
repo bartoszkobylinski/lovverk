@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "kommuneloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # kommuneloven — Change history
 
 _4 events; doc_id `nl-20180622-083`._
@@ -7,7 +14,7 @@ Lines: +4 -2.
 Subject: `update(lov): kommuneloven`
 Commit: `557c5e4`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

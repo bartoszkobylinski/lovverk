@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endringslov-til-vareførselsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endringslov-til-vareførselsloven — Change history
 
 _3 events; doc_id `nl-20260623-067`._

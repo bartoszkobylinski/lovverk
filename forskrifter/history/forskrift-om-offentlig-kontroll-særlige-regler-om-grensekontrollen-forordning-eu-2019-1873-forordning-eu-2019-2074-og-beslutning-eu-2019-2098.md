@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-offentlig-kontroll-særlige-regler-om-grensekontrollen-forordning-eu-2019-1873-forordning-eu-2019-2074-og-beslutning-eu-2019-2098"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-offentlig-kontroll-særlige-regler-om-grensekontrollen-forordning-eu-2019-1873-forordning-eu-2019-2074-og-beslutning-eu-2019-2098 — Change history
 
-_2 events; doc_id `sf-20200309-0712`._
+_3 events; doc_id `sf-20200309-0712`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20200309-0712.md` → `"forskrifter/forskrift-om-offentlig-kontroll-s\303\246rlige-regler-om-grensekontrollen-forordning-eu-2019-1873-forordning-eu-2019-2074-og-beslutning-eu-2019-2098.md"`.
+Renamed: `forskrifter/sf-20200309-0712.md` → `forskrifter/forskrift-om-offentlig-kontroll-særlige-regler-om-grensekontrollen-forordning-eu-2019-1873-forordning-eu-2019-2074-og-beslutning-eu-2019-2098.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

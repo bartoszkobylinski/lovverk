@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-til-kredittilsynet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-til-kredittilsynet — Change history
 
 _1 events; doc_id `sf-19980317-1566`._

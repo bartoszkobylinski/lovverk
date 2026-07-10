@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "endr-i-medisinsk-fødselsregisterforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endr-i-medisinsk-fødselsregisterforskriften — Change history
 
-_2 events; doc_id `sf-20210611-1877`._
+_3 events; doc_id `sf-20210611-1877`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20210611-1877.md` → `"forskrifter/endr-i-medisinsk-f\303\270dselsregisterforskriften.md"`.
+Renamed: `forskrifter/sf-20210611-1877.md` → `forskrifter/endr-i-medisinsk-fødselsregisterforskriften.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

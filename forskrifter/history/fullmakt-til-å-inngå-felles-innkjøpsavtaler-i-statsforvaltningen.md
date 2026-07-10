@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "fullmakt-til-å-inngå-felles-innkjøpsavtaler-i-statsforvaltningen"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # fullmakt-til-å-inngå-felles-innkjøpsavtaler-i-statsforvaltningen — Change history
 
 _1 events; doc_id `sf-20210903-2661`._

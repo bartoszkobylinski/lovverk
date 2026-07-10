@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "lov-om-utvalget-for-evaluering-av-eos-utvalget"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # lov-om-utvalget-for-evaluering-av-eos-utvalget — Change history
 
-_2 events; doc_id `nl-20150213-010`._
+_3 events; doc_id `nl-20150213-010`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `lover/nl-20150213-010.md` → `lover/lov-om-utvalget-for-evaluering-av-eos-utvalget.md`.

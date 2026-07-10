@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "lov-om-løysingsrettar-løysl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # lov-om-løysingsrettar-løysl — Change history
 
-_2 events; doc_id `nl-19941209-064`._
+_3 events; doc_id `nl-19941209-064`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `lover/nl-19941209-064.md` → `"lover/lov-om-l\303\270ysingsrettar-l\303\270ysl.md"`.
+Renamed: `lover/nl-19941209-064.md` → `lover/lov-om-løysingsrettar-løysl.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

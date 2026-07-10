@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "bestemmelser-om-medaljen-for-edel-dåd"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # bestemmelser-om-medaljen-for-edel-dåd — Change history
 
 _1 events; doc_id `sf-19580919-0008`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndighet-etter-lov-om-elektroniske-tillitstjenester"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndighet-etter-lov-om-elektroniske-tillitstjenester — Change history
 
 _1 events; doc_id `sf-20191108-1491`._

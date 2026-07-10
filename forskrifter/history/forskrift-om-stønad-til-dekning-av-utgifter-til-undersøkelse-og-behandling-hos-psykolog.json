@@ -29,7 +29,7 @@
       "lines_removed": 1,
       "subject": "migration: backfill eu_basis for 4523 documents",
       "to_path": null,
-      "type": "renamed"
+      "type": "updated"
     },
     {
       "commit": "3dddeca",
@@ -38,7 +38,7 @@
       "lines_added": 2,
       "lines_removed": 1,
       "subject": "migration: rename 4522 documents to slug-based filenames",
-      "to_path": "\"forskrifter/forskrift-om-st\\303\\270nad-til-dekning-av-utgifter-til-unders\\303\\270kelse-og-behandling-hos-psykolog.md\"",
+      "to_path": "forskrifter/forskrift-om-stønad-til-dekning-av-utgifter-til-undersøkelse-og-behandling-hos-psykolog.md",
       "type": "renamed"
     },
     {

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "husleieloven-husll"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # husleieloven-husll — Change history
 
 _6 events; doc_id `nl-19990326-017`._
@@ -17,7 +24,7 @@ Lines: +3 -3.
 Subject: `update(lov): husleieloven-husll`
 Commit: `8d636ea`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

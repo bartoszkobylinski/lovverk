@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-tilbakelån-av-arkivsaker"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-tilbakelån-av-arkivsaker — Change history
 
-_2 events; doc_id `sf-19800519-3564`._
+_3 events; doc_id `sf-19800519-3564`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-19800519-3564.md` → `"forskrifter/forskrift-om-tilbakel\303\245n-av-arkivsaker.md"`.
+Renamed: `forskrifter/sf-19800519-3564.md` → `forskrifter/forskrift-om-tilbakelån-av-arkivsaker.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ikrafttr-av-eierseksjonsloven-delegering"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ikrafttr-av-eierseksjonsloven-delegering — Change history
 
 _1 events; doc_id `sf-19971205-1256`._

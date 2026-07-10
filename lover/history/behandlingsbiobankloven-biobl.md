@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "behandlingsbiobankloven-biobl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # behandlingsbiobankloven-biobl — Change history
 
 _4 events; doc_id `nl-20030221-012`._
@@ -7,7 +14,7 @@ Lines: +5 -5.
 Subject: `update(lov): behandlingsbiobankloven-biobl`
 Commit: `670c6e7`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-pod-etter-passloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-pod-etter-passloven — Change history
 
 _1 events; doc_id `sf-20001116-1148`._

@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "endringslov-til-tobakksskadeloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endringslov-til-tobakksskadeloven — Change history
 
-_2 events; doc_id `nl-20170210-005`._
+_3 events; doc_id `nl-20170210-005`._
+
+## 2026-04-29 — Content updated
+Lines: +3 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `lover/nl-20170210-005.md` → `lover/endringslov-til-tobakksskadeloven.md`.

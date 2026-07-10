@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endr-i-departementsstruktur-og-ansvarsfordeling"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endr-i-departementsstruktur-og-ansvarsfordeling — Change history
 
 _1 events; doc_id `sf-20131213-1455`._

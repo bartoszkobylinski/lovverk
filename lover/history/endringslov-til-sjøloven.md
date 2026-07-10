@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "endringslov-til-sjøloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endringslov-til-sjøloven — Change history
 
-_2 events; doc_id `nl-20150512-030`._
+_3 events; doc_id `nl-20150512-030`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `lover/nl-20150512-030.md` → `"lover/endringslov-til-sj\303\270loven.md"`.
+Renamed: `lover/nl-20150512-030.md` → `lover/endringslov-til-sjøloven.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

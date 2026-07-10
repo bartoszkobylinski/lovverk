@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "forskrift-om-gsp-ved-import-fra-u-land"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-gsp-ved-import-fra-u-land — Change history
 
-_2 events; doc_id `sf-20080307-0228`._
+_3 events; doc_id `sf-20080307-0228`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20080307-0228.md` → `forskrifter/forskrift-om-gsp-ved-import-fra-u-land.md`.

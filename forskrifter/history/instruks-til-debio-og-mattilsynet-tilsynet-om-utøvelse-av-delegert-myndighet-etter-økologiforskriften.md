@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "instruks-til-debio-og-mattilsynet-tilsynet-om-utøvelse-av-delegert-myndighet-etter-økologiforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # instruks-til-debio-og-mattilsynet-tilsynet-om-utøvelse-av-delegert-myndighet-etter-økologiforskriften — Change history
 
 _1 events; doc_id `sf-20220705-1292`._

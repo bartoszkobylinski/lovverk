@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "se-loven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # se-loven — Change history
 
-_2 events; doc_id `nl-20050401-014`._
+_3 events; doc_id `nl-20050401-014`._
+
+## 2026-04-29 — Content updated
+Lines: +5 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `lover/nl-20050401-014.md` → `lover/se-loven.md`.

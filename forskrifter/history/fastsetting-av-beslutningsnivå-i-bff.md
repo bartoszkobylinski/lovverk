@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "fastsetting-av-beslutningsnivå-i-bff"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # fastsetting-av-beslutningsnivå-i-bff — Change history
 
 _1 events; doc_id `sf-20150410-0349`._

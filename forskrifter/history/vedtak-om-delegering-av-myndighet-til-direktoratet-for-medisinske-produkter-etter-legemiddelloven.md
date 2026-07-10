@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtak-om-delegering-av-myndighet-til-direktoratet-for-medisinske-produkter-etter-legemiddelloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtak-om-delegering-av-myndighet-til-direktoratet-for-medisinske-produkter-etter-legemiddelloven — Change history
 
 _1 events; doc_id `sf-20240214-0256`._

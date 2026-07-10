@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "midl-forskrift-om-unntak-fra-bestemmelsene-i-økologiforskriften-om-kontroll-av-produksjonen-av-økologiske-produkter-på-grunn-av-koronautbruddet-covid-19-forordning-eu-2020-977"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # midl-forskrift-om-unntak-fra-bestemmelsene-i-økologiforskriften-om-kontroll-av-produksjonen-av-økologiske-produkter-på-grunn-av-koronautbruddet-covid-19-forordning-eu-2020-977 — Change history
 
-_2 events; doc_id `sf-20200928-1914`._
+_3 events; doc_id `sf-20200928-1914`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20200928-1914.md` → `"forskrifter/midl-forskrift-om-unntak-fra-bestemmelsene-i-\303\270kologiforskriften-om-kontroll-av-produksjonen-av-\303\270kologiske-produkter-p\303\245-grunn-av-koronautbruddet-covid-19-forordning-eu-2020-977.md"`.
+Renamed: `forskrifter/sf-20200928-1914.md` → `forskrifter/midl-forskrift-om-unntak-fra-bestemmelsene-i-økologiforskriften-om-kontroll-av-produksjonen-av-økologiske-produkter-på-grunn-av-koronautbruddet-covid-19-forordning-eu-2020-977.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

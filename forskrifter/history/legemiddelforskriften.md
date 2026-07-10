@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "legemiddelforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # legemiddelforskriften — Change history
 
 _7 events; doc_id `sf-20091218-1839`._
@@ -22,7 +29,7 @@ Lines: +17 -11.
 Subject: `update(forskrift): legemiddelforskriften`
 Commit: `6077004`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

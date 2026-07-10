@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "forskrift-om-internasjonale-regnskapsstandarder"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-internasjonale-regnskapsstandarder — Change history
 
-_2 events; doc_id `sf-20041217-1852`._
+_3 events; doc_id `sf-20041217-1852`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20041217-1852.md` → `forskrifter/forskrift-om-internasjonale-regnskapsstandarder.md`.

@@ -19,7 +19,7 @@
       "lines_removed": 1,
       "subject": "migration: backfill eu_basis for 4523 documents",
       "to_path": null,
-      "type": "renamed"
+      "type": "updated"
     },
     {
       "commit": "3dddeca",
@@ -28,7 +28,7 @@
       "lines_added": 2,
       "lines_removed": 1,
       "subject": "migration: rename 4522 documents to slug-based filenames",
-      "to_path": "\"forskrifter/forskrift-om-regulering-av-fisket-etter-torsk-i-nordsj\\303\\270en-og-skagerrak-i-2026.md\"",
+      "to_path": "forskrifter/forskrift-om-regulering-av-fisket-etter-torsk-i-nordsjøen-og-skagerrak-i-2026.md",
       "type": "renamed"
     },
     {

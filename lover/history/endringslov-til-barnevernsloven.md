@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endringslov-til-barnevernsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endringslov-til-barnevernsloven — Change history
 
 _2 events; doc_id `nl-20260619-035`._

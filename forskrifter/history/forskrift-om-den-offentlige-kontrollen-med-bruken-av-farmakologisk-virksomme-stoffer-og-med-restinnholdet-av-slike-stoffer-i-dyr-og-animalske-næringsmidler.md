@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-den-offentlige-kontrollen-med-bruken-av-farmakologisk-virksomme-stoffer-og-med-restinnholdet-av-slike-stoffer-i-dyr-og-animalske-næringsmidler"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-den-offentlige-kontrollen-med-bruken-av-farmakologisk-virksomme-stoffer-og-med-restinnholdet-av-slike-stoffer-i-dyr-og-animalske-næringsmidler — Change history
 
-_2 events; doc_id `sf-20200304-0705`._
+_3 events; doc_id `sf-20200304-0705`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20200304-0705.md` → `"forskrifter/forskrift-om-den-offentlige-kontrollen-med-bruken-av-farmakologisk-virksomme-stoffer-og-med-restinnholdet-av-slike-stoffer-i-dyr-og-animalske-n\303\246ringsmidler.md"`.
+Renamed: `forskrifter/sf-20200304-0705.md` → `forskrifter/forskrift-om-den-offentlige-kontrollen-med-bruken-av-farmakologisk-virksomme-stoffer-og-med-restinnholdet-av-slike-stoffer-i-dyr-og-animalske-næringsmidler.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

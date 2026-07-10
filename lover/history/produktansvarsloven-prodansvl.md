@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "produktansvarsloven-prodansvl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # produktansvarsloven-prodansvl — Change history
 
 _5 events; doc_id `nl-19881223-104`._
@@ -12,7 +19,7 @@ Lines: +3 -3.
 Subject: `update(lov): produktansvarsloven-prodansvl`
 Commit: `2830d0a`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +3 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

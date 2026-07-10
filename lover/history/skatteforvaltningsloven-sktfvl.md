@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "skatteforvaltningsloven-sktfvl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # skatteforvaltningsloven-sktfvl — Change history
 
 _5 events; doc_id `nl-20160527-014`._
@@ -12,7 +19,7 @@ Lines: +12 -8.
 Subject: `update(lov): skatteforvaltningsloven-sktfvl`
 Commit: `e60902c`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

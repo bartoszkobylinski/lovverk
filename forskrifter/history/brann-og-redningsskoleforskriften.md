@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "brann-og-redningsskoleforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # brann-og-redningsskoleforskriften — Change history
 
-_2 events; doc_id `sf-20230130-0111`._
+_3 events; doc_id `sf-20230130-0111`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20230130-0111.md` → `forskrifter/brann-og-redningsskoleforskriften.md`.

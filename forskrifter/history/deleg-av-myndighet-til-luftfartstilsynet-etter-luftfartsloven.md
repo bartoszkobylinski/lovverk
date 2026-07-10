@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-til-luftfartstilsynet-etter-luftfartsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-til-luftfartstilsynet-etter-luftfartsloven — Change history
 
 _1 events; doc_id `sf-20170814-1639`._

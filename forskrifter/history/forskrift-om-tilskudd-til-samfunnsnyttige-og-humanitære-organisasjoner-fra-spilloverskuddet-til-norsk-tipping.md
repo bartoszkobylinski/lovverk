@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-tilskudd-til-samfunnsnyttige-og-humanitære-organisasjoner-fra-spilloverskuddet-til-norsk-tipping"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-tilskudd-til-samfunnsnyttige-og-humanitære-organisasjoner-fra-spilloverskuddet-til-norsk-tipping — Change history
 
-_2 events; doc_id `sf-20221205-2123`._
+_3 events; doc_id `sf-20221205-2123`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20221205-2123.md` → `"forskrifter/forskrift-om-tilskudd-til-samfunnsnyttige-og-humanit\303\246re-organisasjoner-fra-spilloverskuddet-til-norsk-tipping.md"`.
+Renamed: `forskrifter/sf-20221205-2123.md` → `forskrifter/forskrift-om-tilskudd-til-samfunnsnyttige-og-humanitære-organisasjoner-fra-spilloverskuddet-til-norsk-tipping.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

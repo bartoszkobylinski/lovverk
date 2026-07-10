@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "barnevernsloven-bvl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # barnevernsloven-bvl — Change history
 
 _7 events; doc_id `nl-20210618-097`._
@@ -22,7 +29,7 @@ Lines: +8 -8.
 Subject: `update(lov): barnevernsloven-bvl`
 Commit: `6692431`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

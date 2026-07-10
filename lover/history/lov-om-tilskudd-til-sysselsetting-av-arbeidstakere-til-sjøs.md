@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "lov-om-tilskudd-til-sysselsetting-av-arbeidstakere-til-sjøs"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # lov-om-tilskudd-til-sysselsetting-av-arbeidstakere-til-sjøs — Change history
 
 _5 events; doc_id `nl-20170522-028`._
@@ -12,13 +19,13 @@ Lines: +6 -2.
 Subject: `update(lov): lov-om-tilskudd-til-sysselsetting-av-arbeidstakere-til-sjøs`
 Commit: `7dfc61c`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `lover/nl-20170522-028.md` → `"lover/lov-om-tilskudd-til-sysselsetting-av-arbeidstakere-til-sj\303\270s.md"`.
+Renamed: `lover/nl-20170522-028.md` → `lover/lov-om-tilskudd-til-sysselsetting-av-arbeidstakere-til-sjøs.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtak-om-endring-i-stortingsvedtak-18-desember-2025-nr-2755-om-engangsavgift-på-motorvogner-mv-for-2026"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtak-om-endring-i-stortingsvedtak-18-desember-2025-nr-2755-om-engangsavgift-på-motorvogner-mv-for-2026 — Change history
 
 _1 events; doc_id `sf-20260619-1246`._

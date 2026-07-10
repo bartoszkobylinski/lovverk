@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-mattilsynet-etter-kosmetikklova"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-mattilsynet-etter-kosmetikklova — Change history
 
 _1 events; doc_id `sf-20051229-1770`._

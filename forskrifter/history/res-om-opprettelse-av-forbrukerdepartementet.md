@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "res-om-opprettelse-av-forbrukerdepartementet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # res-om-opprettelse-av-forbrukerdepartementet — Change history
 
 _1 events; doc_id `sf-19720505-8645`._

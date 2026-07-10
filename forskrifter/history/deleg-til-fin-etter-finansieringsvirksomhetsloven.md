@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-fin-etter-finansieringsvirksomhetsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-fin-etter-finansieringsvirksomhetsloven — Change history
 
 _1 events; doc_id `sf-20070525-0553`._

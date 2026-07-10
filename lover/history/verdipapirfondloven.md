@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "verdipapirfondloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # verdipapirfondloven — Change history
 
 _4 events; doc_id `nl-20111125-044`._
@@ -7,7 +14,7 @@ Lines: +4 -4.
 Subject: `update(lov): verdipapirfondloven`
 Commit: `3275dc3`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +5 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

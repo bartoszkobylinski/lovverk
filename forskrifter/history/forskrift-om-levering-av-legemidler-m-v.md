@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "forskrift-om-levering-av-legemidler-m-v"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-levering-av-legemidler-m-v — Change history
 
-_2 events; doc_id `sf-19760317-9444`._
+_3 events; doc_id `sf-19760317-9444`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-19760317-9444.md` → `forskrifter/forskrift-om-levering-av-legemidler-m-v.md`.

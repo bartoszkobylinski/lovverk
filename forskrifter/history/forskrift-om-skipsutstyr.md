@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-skipsutstyr"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-skipsutstyr — Change history
 
 _4 events; doc_id `sf-20160830-1042`._
@@ -7,7 +14,7 @@ Lines: +4 -4.
 Subject: `update(forskrift): forskrift-om-skipsutstyr`
 Commit: `29942ea`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

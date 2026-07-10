@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtak-om-supplering-av-verneplan-for-vassdrag"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtak-om-supplering-av-verneplan-for-vassdrag — Change history
 
 _1 events; doc_id `sf-20050218-0888`._

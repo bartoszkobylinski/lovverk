@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "forskrift-til-rammeplan-for-helsefremming"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-til-rammeplan-for-helsefremming — Change history
 
-_2 events; doc_id `sf-20051201-1382`._
+_3 events; doc_id `sf-20051201-1382`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20051201-1382.md` → `forskrifter/forskrift-til-rammeplan-for-helsefremming.md`.

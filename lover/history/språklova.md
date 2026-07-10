@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "språklova"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # språklova — Change history
 
-_2 events; doc_id `nl-20210521-042`._
+_3 events; doc_id `nl-20210521-042`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `lover/nl-20210521-042.md` → `"lover/spr\303\245klova.md"`.
+Renamed: `lover/nl-20210521-042.md` → `lover/språklova.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

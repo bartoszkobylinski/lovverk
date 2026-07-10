@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "forskrift-om-statens-finansfond"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-statens-finansfond — Change history
 
-_2 events; doc_id `sf-20090508-0495`._
+_3 events; doc_id `sf-20090508-0495`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20090508-0495.md` → `forskrifter/forskrift-om-statens-finansfond.md`.

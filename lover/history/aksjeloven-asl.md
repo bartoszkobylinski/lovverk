@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "aksjeloven-asl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # aksjeloven-asl — Change history
 
 _4 events; doc_id `nl-19970613-044`._
@@ -7,7 +14,7 @@ Lines: +9 -5.
 Subject: `update(lov): aksjeloven-asl`
 Commit: `062c435`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

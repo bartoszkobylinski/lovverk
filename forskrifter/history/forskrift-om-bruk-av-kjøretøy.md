@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-bruk-av-kjøretøy"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-bruk-av-kjøretøy — Change history
 
 _7 events; doc_id `sf-19900125-0092`._
@@ -22,13 +29,13 @@ Lines: +4 -4.
 Subject: `update(forskrift): forskrift-om-bruk-av-kjøretøy`
 Commit: `3172ef3`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-19900125-0092.md` → `"forskrifter/forskrift-om-bruk-av-kj\303\270ret\303\270y.md"`.
+Renamed: `forskrifter/sf-19900125-0092.md` → `forskrifter/forskrift-om-bruk-av-kjøretøy.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

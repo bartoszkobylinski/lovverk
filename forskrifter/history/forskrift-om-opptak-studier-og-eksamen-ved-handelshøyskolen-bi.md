@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-opptak-studier-og-eksamen-ved-handelshøyskolen-bi"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-opptak-studier-og-eksamen-ved-handelshøyskolen-bi — Change history
 
 _6 events; doc_id `sf-20180601-1546`._
@@ -17,13 +24,13 @@ Lines: +3 -3.
 Subject: `update(forskrift): forskrift-om-opptak-studier-og-eksamen-ved-handelshøyskolen-bi`
 Commit: `8361608`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20180601-1546.md` → `"forskrifter/forskrift-om-opptak-studier-og-eksamen-ved-handelsh\303\270yskolen-bi.md"`.
+Renamed: `forskrifter/sf-20180601-1546.md` → `forskrifter/forskrift-om-opptak-studier-og-eksamen-ved-handelshøyskolen-bi.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

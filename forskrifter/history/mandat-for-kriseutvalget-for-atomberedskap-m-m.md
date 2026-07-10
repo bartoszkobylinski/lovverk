@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "mandat-for-kriseutvalget-for-atomberedskap-m-m"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # mandat-for-kriseutvalget-for-atomberedskap-m-m — Change history
 
 _1 events; doc_id `sf-20130823-1023`._

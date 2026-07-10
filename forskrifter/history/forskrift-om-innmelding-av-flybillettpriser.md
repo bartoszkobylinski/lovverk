@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "forskrift-om-innmelding-av-flybillettpriser"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-innmelding-av-flybillettpriser — Change history
 
-_2 events; doc_id `sf-19981102-1050`._
+_3 events; doc_id `sf-19981102-1050`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-19981102-1050.md` → `forskrifter/forskrift-om-innmelding-av-flybillettpriser.md`.

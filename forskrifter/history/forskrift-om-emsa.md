@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "forskrift-om-emsa"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-emsa — Change history
 
-_2 events; doc_id `sf-20110311-0271`._
+_3 events; doc_id `sf-20110311-0271`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20110311-0271.md` → `forskrifter/forskrift-om-emsa.md`.

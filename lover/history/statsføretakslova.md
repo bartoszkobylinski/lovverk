@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "statsføretakslova"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # statsføretakslova — Change history
 
 _5 events; doc_id `nl-20250410-009`._
@@ -12,13 +19,13 @@ Lines: +4 -2.
 Subject: `update(lov): statsføretakslova`
 Commit: `252807e`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `lover/nl-20250410-009.md` → `"lover/statsf\303\270retakslova.md"`.
+Renamed: `lover/nl-20250410-009.md` → `lover/statsføretakslova.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

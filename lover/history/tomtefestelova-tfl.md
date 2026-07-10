@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "tomtefestelova-tfl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # tomtefestelova-tfl — Change history
 
-_2 events; doc_id `nl-19961220-106`._
+_3 events; doc_id `nl-19961220-106`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `lover/nl-19961220-106.md` → `lover/tomtefestelova-tfl.md`.

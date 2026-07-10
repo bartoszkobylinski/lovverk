@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "kryptoeiendelsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # kryptoeiendelsloven — Change history
 
 _4 events; doc_id `nl-20250527-020`._
@@ -7,7 +14,7 @@ Lines: +4 -2.
 Subject: `update(lov): kryptoeiendelsloven`
 Commit: `10d8b62`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +3 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

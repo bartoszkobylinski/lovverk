@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "endringslov-til-folketrygdloven-og-enkelte-andre-lover"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endringslov-til-folketrygdloven-og-enkelte-andre-lover — Change history
 
-_2 events; doc_id `nl-20191220-084`._
+_3 events; doc_id `nl-20191220-084`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `lover/nl-20191220-084.md` → `lover/endringslov-til-folketrygdloven-og-enkelte-andre-lover.md`.

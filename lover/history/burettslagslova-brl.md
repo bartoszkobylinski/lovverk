@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "burettslagslova-brl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # burettslagslova-brl — Change history
 
 _5 events; doc_id `nl-20030606-039`._
@@ -12,7 +19,7 @@ Lines: +6 -2.
 Subject: `update(lov): burettslagslova-brl`
 Commit: `d6950d1`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

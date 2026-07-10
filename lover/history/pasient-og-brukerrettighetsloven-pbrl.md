@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "pasient-og-brukerrettighetsloven-pbrl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # pasient-og-brukerrettighetsloven-pbrl — Change history
 
 _9 events; doc_id `nl-19990702-063`._
@@ -32,7 +39,7 @@ Lines: +6 -6.
 Subject: `update(lov): pasient-og-brukerrettighetsloven-pbrl`
 Commit: `9c9aa81`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

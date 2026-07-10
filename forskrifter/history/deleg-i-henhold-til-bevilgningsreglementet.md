@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-i-henhold-til-bevilgningsreglementet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-i-henhold-til-bevilgningsreglementet — Change history
 
 _1 events; doc_id `sf-20170113-0030`._

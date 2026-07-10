@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-sivil-statsluftfart-med-ubemannet-luftfartøy-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-sivil-statsluftfart-med-ubemannet-luftfartøy-mv — Change history
 
-_2 events; doc_id `sf-20260115-0048`._
+_3 events; doc_id `sf-20260115-0048`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20260115-0048.md` → `"forskrifter/forskrift-om-sivil-statsluftfart-med-ubemannet-luftfart\303\270y-mv.md"`.
+Renamed: `forskrifter/sf-20260115-0048.md` → `forskrifter/forskrift-om-sivil-statsluftfart-med-ubemannet-luftfartøy-mv.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

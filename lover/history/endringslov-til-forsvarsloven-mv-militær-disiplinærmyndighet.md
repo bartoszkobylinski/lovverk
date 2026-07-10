@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "endringslov-til-forsvarsloven-mv-militær-disiplinærmyndighet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endringslov-til-forsvarsloven-mv-militær-disiplinærmyndighet — Change history
 
-_2 events; doc_id `nl-20231124-084`._
+_3 events; doc_id `nl-20231124-084`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `lover/nl-20231124-084.md` → `"lover/endringslov-til-forsvarsloven-mv-milit\303\246r-disiplin\303\246rmyndighet.md"`.
+Renamed: `lover/nl-20231124-084.md` → `lover/endringslov-til-forsvarsloven-mv-militær-disiplinærmyndighet.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtak-om-mva-fritak-leie-av-forskningsskip"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtak-om-mva-fritak-leie-av-forskningsskip — Change history
 
 _1 events; doc_id `sf-20100506-0648`._

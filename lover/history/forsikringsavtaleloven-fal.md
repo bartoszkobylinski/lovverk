@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forsikringsavtaleloven-fal"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forsikringsavtaleloven-fal — Change history
 
 _4 events; doc_id `nl-19890616-069`._
@@ -7,7 +14,7 @@ Lines: +4 -4.
 Subject: `update(lov): forsikringsavtaleloven-fal`
 Commit: `3221d5a`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

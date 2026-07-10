@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-etter-lov-om-tekniske-kontrollorgan"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-etter-lov-om-tekniske-kontrollorgan — Change history
 
 _1 events; doc_id `sf-20180425-0633`._

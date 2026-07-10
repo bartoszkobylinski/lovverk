@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vareførselsloven-vfl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vareførselsloven-vfl — Change history
 
 _5 events; doc_id `nl-20220311-009`._
@@ -12,13 +19,13 @@ Lines: +7 -3.
 Subject: `update(lov): vareførselsloven-vfl`
 Commit: `9c10735`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `lover/nl-20220311-009.md` → `"lover/varef\303\270rselsloven-vfl.md"`.
+Renamed: `lover/nl-20220311-009.md` → `lover/vareførselsloven-vfl.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

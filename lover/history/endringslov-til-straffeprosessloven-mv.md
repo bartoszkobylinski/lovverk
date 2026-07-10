@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endringslov-til-straffeprosessloven-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endringslov-til-straffeprosessloven-mv — Change history
 
 _1 events; doc_id `nl-20260619-049`._

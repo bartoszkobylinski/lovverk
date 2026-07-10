@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "kretsmønsterloven-kretsml"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # kretsmønsterloven-kretsml — Change history
 
-_2 events; doc_id `nl-19900615-027`._
+_3 events; doc_id `nl-19900615-027`._
+
+## 2026-04-29 — Content updated
+Lines: +3 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `lover/nl-19900615-027.md` → `"lover/kretsm\303\270nsterloven-kretsml.md"`.
+Renamed: `lover/nl-19900615-027.md` → `lover/kretsmønsterloven-kretsml.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

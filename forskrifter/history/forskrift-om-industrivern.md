@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "forskrift-om-industrivern"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-industrivern — Change history
 
-_2 events; doc_id `sf-20111220-1434`._
+_3 events; doc_id `sf-20111220-1434`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20111220-1434.md` → `forskrifter/forskrift-om-industrivern.md`.

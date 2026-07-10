@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "forskrift-om-flymaskinistsertifikat-bsl-c-5-1a"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-flymaskinistsertifikat-bsl-c-5-1a — Change history
 
-_2 events; doc_id `sf-20001220-1638`._
+_3 events; doc_id `sf-20001220-1638`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20001220-1638.md` → `forskrifter/forskrift-om-flymaskinistsertifikat-bsl-c-5-1a.md`.

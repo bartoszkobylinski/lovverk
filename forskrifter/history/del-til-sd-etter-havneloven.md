@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "del-til-sd-etter-havneloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # del-til-sd-etter-havneloven — Change history
 
 _1 events; doc_id `sf-19960301-0227`._

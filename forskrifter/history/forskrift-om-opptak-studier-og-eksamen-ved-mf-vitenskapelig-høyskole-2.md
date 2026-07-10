@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-opptak-studier-og-eksamen-ved-mf-vitenskapelig-høyskole-2"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-opptak-studier-og-eksamen-ved-mf-vitenskapelig-høyskole-2 — Change history
 
 _1 events; doc_id `sf-20260609-1387`._

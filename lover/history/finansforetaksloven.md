@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "finansforetaksloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # finansforetaksloven — Change history
 
 _7 events; doc_id `nl-20150410-017`._
@@ -22,7 +29,7 @@ Lines: +133 -43.
 Subject: `update(lov): finansforetaksloven`
 Commit: `77a7772`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +9 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

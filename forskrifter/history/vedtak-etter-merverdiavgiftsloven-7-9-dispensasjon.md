@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtak-etter-merverdiavgiftsloven-7-9-dispensasjon"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtak-etter-merverdiavgiftsloven-7-9-dispensasjon — Change history
 
 _1 events; doc_id `sf-20170217-0210`._

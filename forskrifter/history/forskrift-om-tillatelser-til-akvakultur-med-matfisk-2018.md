@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "forskrift-om-tillatelser-til-akvakultur-med-matfisk-2018"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-tillatelser-til-akvakultur-med-matfisk-2018 — Change history
 
-_2 events; doc_id `sf-20180830-1323`._
+_3 events; doc_id `sf-20180830-1323`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20180830-1323.md` → `forskrifter/forskrift-om-tillatelser-til-akvakultur-med-matfisk-2018.md`.

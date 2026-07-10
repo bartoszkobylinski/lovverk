@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-forbud-mot-innførsel-av-dyr-og-smitteførende-gjenstander"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-forbud-mot-innførsel-av-dyr-og-smitteførende-gjenstander — Change history
 
-_2 events; doc_id `sf-19910702-0507`._
+_3 events; doc_id `sf-19910702-0507`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-19910702-0507.md` → `"forskrifter/forskrift-om-forbud-mot-innf\303\270rsel-av-dyr-og-smittef\303\270rende-gjenstander.md"`.
+Renamed: `forskrifter/sf-19910702-0507.md` → `forskrifter/forskrift-om-forbud-mot-innførsel-av-dyr-og-smitteførende-gjenstander.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

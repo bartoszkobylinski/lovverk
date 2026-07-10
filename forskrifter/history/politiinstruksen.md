@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "politiinstruksen"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # politiinstruksen — Change history
 
 _1 events; doc_id `sf-19900622-3963`._

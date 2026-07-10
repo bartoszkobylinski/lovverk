@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-tilskudd-til-å-styrke-kjønns-og-seksualitetsmangfold"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-tilskudd-til-å-styrke-kjønns-og-seksualitetsmangfold — Change history
 
-_2 events; doc_id `sf-20211013-3048`._
+_3 events; doc_id `sf-20211013-3048`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20211013-3048.md` → `"forskrifter/forskrift-om-tilskudd-til-\303\245-styrke-kj\303\270nns-og-seksualitetsmangfold.md"`.
+Renamed: `forskrifter/sf-20211013-3048.md` → `forskrifter/forskrift-om-tilskudd-til-å-styrke-kjønns-og-seksualitetsmangfold.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

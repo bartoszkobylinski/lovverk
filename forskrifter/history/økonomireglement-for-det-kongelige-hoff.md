@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "økonomireglement-for-det-kongelige-hoff"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # økonomireglement-for-det-kongelige-hoff — Change history
 
 _1 events; doc_id `sf-20020705-0717`._

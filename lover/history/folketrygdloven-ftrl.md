@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "folketrygdloven-ftrl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # folketrygdloven-ftrl — Change history
 
 _9 events; doc_id `nl-19970228-019`._
@@ -32,7 +39,7 @@ Lines: +2 -2.
 Subject: `update(lov): folketrygdloven-ftrl`
 Commit: `af3d62a`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +5 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

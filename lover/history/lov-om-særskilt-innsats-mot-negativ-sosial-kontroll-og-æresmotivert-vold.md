@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "lov-om-særskilt-innsats-mot-negativ-sosial-kontroll-og-æresmotivert-vold"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # lov-om-særskilt-innsats-mot-negativ-sosial-kontroll-og-æresmotivert-vold — Change history
 
 _2 events; doc_id `nl-20260612-025`._

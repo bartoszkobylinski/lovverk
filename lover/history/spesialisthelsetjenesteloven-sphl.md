@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "spesialisthelsetjenesteloven-sphl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # spesialisthelsetjenesteloven-sphl — Change history
 
 _9 events; doc_id `nl-19990702-061`._
@@ -32,7 +39,7 @@ Lines: +3 -3.
 Subject: `update(lov): spesialisthelsetjenesteloven-sphl`
 Commit: `fa25529`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

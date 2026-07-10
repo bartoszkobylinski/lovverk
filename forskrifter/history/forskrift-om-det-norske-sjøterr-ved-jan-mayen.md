@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-det-norske-sjøterr-ved-jan-mayen"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-det-norske-sjøterr-ved-jan-mayen — Change history
 
-_2 events; doc_id `sf-20020830-0943`._
+_3 events; doc_id `sf-20020830-0943`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20020830-0943.md` → `"forskrifter/forskrift-om-det-norske-sj\303\270terr-ved-jan-mayen.md"`.
+Renamed: `forskrifter/sf-20020830-0943.md` → `forskrifter/forskrift-om-det-norske-sjøterr-ved-jan-mayen.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "film-og-videogramlova-filml"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # film-og-videogramlova-filml — Change history
 
-_2 events; doc_id `nl-19870515-021`._
+_3 events; doc_id `nl-19870515-021`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `lover/nl-19870515-021.md` → `lover/film-og-videogramlova-filml.md`.

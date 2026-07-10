@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "forskrift-om-opplysningsplikt-svalbard"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-opplysningsplikt-svalbard — Change history
 
-_2 events; doc_id `sf-20060609-0602`._
+_3 events; doc_id `sf-20060609-0602`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20060609-0602.md` → `forskrifter/forskrift-om-opplysningsplikt-svalbard.md`.

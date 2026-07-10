@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtak-om-endring-i-mandat-for-forvaltningen-av-statens-pensjonsfond-norge"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtak-om-endring-i-mandat-for-forvaltningen-av-statens-pensjonsfond-norge — Change history
 
 _1 events; doc_id `sf-20260618-1206`._

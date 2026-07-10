@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "finanstilsynsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # finanstilsynsloven — Change history
 
 _6 events; doc_id `nl-20240621-041`._
@@ -17,7 +24,7 @@ Lines: +10 -2.
 Subject: `update(lov): finanstilsynsloven`
 Commit: `804c8a1`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +7 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

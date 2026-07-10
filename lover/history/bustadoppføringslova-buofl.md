@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "bustadoppføringslova-buofl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # bustadoppføringslova-buofl — Change history
 
-_2 events; doc_id `nl-19970613-043`._
+_3 events; doc_id `nl-19970613-043`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `lover/nl-19970613-043.md` → `"lover/bustadoppf\303\270ringslova-buofl.md"`.
+Renamed: `lover/nl-19970613-043.md` → `lover/bustadoppføringslova-buofl.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

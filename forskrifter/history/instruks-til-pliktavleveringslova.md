@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "instruks-til-pliktavleveringslova"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # instruks-til-pliktavleveringslova — Change history
 
 _1 events; doc_id `sf-19900525-4696`._

@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "forskrift-om-sikkerhet-ved-elektriske-anlegg"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-sikkerhet-ved-elektriske-anlegg — Change history
 
-_2 events; doc_id `sf-20060428-0458`._
+_3 events; doc_id `sf-20060428-0458`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20060428-0458.md` → `forskrifter/forskrift-om-sikkerhet-ved-elektriske-anlegg.md`.

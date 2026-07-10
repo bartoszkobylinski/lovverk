@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ikrafts-av-plan-og-bygningsloven-delegering"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ikrafts-av-plan-og-bygningsloven-delegering — Change history
 
 _1 events; doc_id `sf-20100618-0896`._

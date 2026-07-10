@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delvis-ikrafttr-viltloven-delegering"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delvis-ikrafttr-viltloven-delegering — Change history
 
 _1 events; doc_id `sf-19820402-0592`._

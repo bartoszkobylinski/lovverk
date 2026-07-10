@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-etter-grenseloven-5-6-7-10-11-12-13-og-25-til-justis-og-beredskapsdepartementet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-etter-grenseloven-5-6-7-10-11-12-13-og-25-til-justis-og-beredskapsdepartementet — Change history
 
 _1 events; doc_id `sf-20201211-2705`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ikrafts-av-lov-2018-38-personopplysningsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ikrafts-av-lov-2018-38-personopplysningsloven — Change history
 
 _1 events; doc_id `sf-20180615-0875`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "luftfartsloven-luftl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # luftfartsloven-luftl — Change history
 
 _5 events; doc_id `nl-19930611-101`._
@@ -12,7 +19,7 @@ Lines: +7 -5.
 Subject: `update(lov): luftfartsloven-luftl`
 Commit: `e743abc`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +7 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

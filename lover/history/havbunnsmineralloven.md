@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "havbunnsmineralloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # havbunnsmineralloven — Change history
 
 _4 events; doc_id `nl-20190322-007`._
@@ -7,7 +14,7 @@ Lines: +6 -2.
 Subject: `update(lov): havbunnsmineralloven`
 Commit: `9da445e`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

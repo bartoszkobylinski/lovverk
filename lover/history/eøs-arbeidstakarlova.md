@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "eøs-arbeidstakarlova"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # eøs-arbeidstakarlova — Change history
 
-_2 events; doc_id `nl-20121214-081`._
+_3 events; doc_id `nl-20121214-081`._
+
+## 2026-04-29 — Content updated
+Lines: +4 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `lover/nl-20121214-081.md` → `"lover/e\303\270s-arbeidstakarlova.md"`.
+Renamed: `lover/nl-20121214-081.md` → `lover/eøs-arbeidstakarlova.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

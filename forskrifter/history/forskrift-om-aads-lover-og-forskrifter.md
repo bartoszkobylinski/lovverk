@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-aads-lover-og-forskrifter"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-aads-lover-og-forskrifter — Change history
 
 _1 events; doc_id `sf-19980101-0001`._

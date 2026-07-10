@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-pod-etter-vegtrafikkloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-pod-etter-vegtrafikkloven — Change history
 
 _1 events; doc_id `sf-20001116-1150`._

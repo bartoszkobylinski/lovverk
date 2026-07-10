@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "forskrift-om-lufthavnrelaterte-tjenester"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-lufthavnrelaterte-tjenester — Change history
 
-_2 events; doc_id `sf-20001103-1096`._
+_3 events; doc_id `sf-20001103-1096`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20001103-1096.md` → `forskrifter/forskrift-om-lufthavnrelaterte-tjenester.md`.

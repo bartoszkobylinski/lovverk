@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "instruks-for-jernbanedirektoratet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # instruks-for-jernbanedirektoratet — Change history
 
 _1 events; doc_id `sf-20210310-1311`._

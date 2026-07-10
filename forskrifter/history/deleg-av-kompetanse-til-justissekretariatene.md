@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-kompetanse-til-justissekretariatene"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-kompetanse-til-justissekretariatene — Change history
 
 _1 events; doc_id `sf-20061221-1524`._

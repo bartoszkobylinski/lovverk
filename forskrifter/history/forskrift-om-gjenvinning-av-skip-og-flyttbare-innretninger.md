@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "forskrift-om-gjenvinning-av-skip-og-flyttbare-innretninger"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-gjenvinning-av-skip-og-flyttbare-innretninger — Change history
 
-_2 events; doc_id `sf-20181206-1813`._
+_3 events; doc_id `sf-20181206-1813`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20181206-1813.md` → `forskrifter/forskrift-om-gjenvinning-av-skip-og-flyttbare-innretninger.md`.

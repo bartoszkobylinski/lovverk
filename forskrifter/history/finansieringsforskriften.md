@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "finansieringsforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # finansieringsforskriften — Change history
 
 _5 events; doc_id `sf-20260323-0454`._
@@ -12,7 +19,7 @@ Lines: +11 -3.
 Subject: `update(forskrift): finansieringsforskriften`
 Commit: `1b88094`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

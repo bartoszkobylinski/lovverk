@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-overføring-av-myndighet-til-kommunen-statsforvalteren-landbruksdirektoratet-og-direktoratet-for-mineralforvaltning-etter-konsesjonsloven-jordlova-og-odelsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-overføring-av-myndighet-til-kommunen-statsforvalteren-landbruksdirektoratet-og-direktoratet-for-mineralforvaltning-etter-konsesjonsloven-jordlova-og-odelsloven — Change history
 
-_2 events; doc_id `sf-20241210-3031`._
+_3 events; doc_id `sf-20241210-3031`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20241210-3031.md` → `"forskrifter/forskrift-om-endring-i-forskrift-om-overf\303\270ring-av-myndighet-til-kommunen-statsforvalteren-landbruksdirektoratet-og-direktoratet-for-mineralforvaltning-etter-konsesjonsloven-jordlova-og-odelsloven.md"`.
+Renamed: `forskrifter/sf-20241210-3031.md` → `forskrifter/forskrift-om-endring-i-forskrift-om-overføring-av-myndighet-til-kommunen-statsforvalteren-landbruksdirektoratet-og-direktoratet-for-mineralforvaltning-etter-konsesjonsloven-jordlova-og-odelsloven.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

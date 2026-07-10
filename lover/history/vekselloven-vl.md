@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vekselloven-vl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vekselloven-vl — Change history
 
 _5 events; doc_id `nl-19320527-002`._
@@ -12,7 +19,7 @@ Lines: +5 -5.
 Subject: `update(lov): vekselloven-vl`
 Commit: `99c80ae`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

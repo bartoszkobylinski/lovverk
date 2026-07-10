@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "endringslov-til-kringkastingsloven-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endringslov-til-kringkastingsloven-mv — Change history
 
-_2 events; doc_id `nl-20250228-002`._
+_3 events; doc_id `nl-20250228-002`._
+
+## 2026-04-29 — Content updated
+Lines: +3 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `lover/nl-20250228-002.md` → `lover/endringslov-til-kringkastingsloven-mv.md`.

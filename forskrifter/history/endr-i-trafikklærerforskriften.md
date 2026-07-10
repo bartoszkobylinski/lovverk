@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endr-i-trafikklærerforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endr-i-trafikklærerforskriften — Change history
 
 _1 events; doc_id `sf-20260622-1210`._

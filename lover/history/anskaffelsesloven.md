@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "anskaffelsesloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # anskaffelsesloven — Change history
 
 _5 events; doc_id `nl-20160617-073`._
@@ -12,7 +19,7 @@ Lines: +156 -28.
 Subject: `sync: 8 new, 220 changed, 3 renamed, 77 removed`
 Commit: `2032c09`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +6 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

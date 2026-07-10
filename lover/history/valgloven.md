@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "valgloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # valgloven — Change history
 
 _4 events; doc_id `nl-20230616-062`._
@@ -7,7 +14,7 @@ Lines: +4 -2.
 Subject: `update(lov): valgloven`
 Commit: `0540101`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

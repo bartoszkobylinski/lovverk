@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "midlertidig-forskrift-om-støtte-som-følge-av-ekstraordinære-utgifter-til-elektrisk-kraft-for-jordbruksforetak-veksthus-og-vanningslag"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # midlertidig-forskrift-om-støtte-som-følge-av-ekstraordinære-utgifter-til-elektrisk-kraft-for-jordbruksforetak-veksthus-og-vanningslag — Change history
 
-_2 events; doc_id `sf-20220630-1273`._
+_3 events; doc_id `sf-20220630-1273`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20220630-1273.md` → `"forskrifter/midlertidig-forskrift-om-st\303\270tte-som-f\303\270lge-av-ekstraordin\303\246re-utgifter-til-elektrisk-kraft-for-jordbruksforetak-veksthus-og-vanningslag.md"`.
+Renamed: `forskrifter/sf-20220630-1273.md` → `forskrifter/midlertidig-forskrift-om-støtte-som-følge-av-ekstraordinære-utgifter-til-elektrisk-kraft-for-jordbruksforetak-veksthus-og-vanningslag.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

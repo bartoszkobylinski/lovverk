@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-medisinske-undersøkelser-bsl-c-1-2"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-medisinske-undersøkelser-bsl-c-1-2 — Change history
 
-_2 events; doc_id `sf-20010823-1067`._
+_3 events; doc_id `sf-20010823-1067`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20010823-1067.md` → `"forskrifter/forskrift-om-medisinske-unders\303\270kelser-bsl-c-1-2.md"`.
+Renamed: `forskrifter/sf-20010823-1067.md` → `forskrifter/forskrift-om-medisinske-undersøkelser-bsl-c-1-2.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

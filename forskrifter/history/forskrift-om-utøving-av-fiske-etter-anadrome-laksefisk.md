@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-utøving-av-fiske-etter-anadrome-laksefisk"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-utøving-av-fiske-etter-anadrome-laksefisk — Change history
 
 _1 events; doc_id `sf-20260518-0859`._

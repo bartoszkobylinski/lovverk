@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-etter-svalbardloven-4-til-justis-og-beredskapsdepartementet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-etter-svalbardloven-4-til-justis-og-beredskapsdepartementet — Change history
 
 _1 events; doc_id `sf-20200619-1290`._

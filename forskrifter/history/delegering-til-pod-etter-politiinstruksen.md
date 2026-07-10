@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-pod-etter-politiinstruksen"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-pod-etter-politiinstruksen — Change history
 
 _1 events; doc_id `sf-20001116-1154`._

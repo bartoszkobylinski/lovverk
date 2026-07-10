@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-etter-kommuneloven-inndelingslova-og-forvaltningsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-etter-kommuneloven-inndelingslova-og-forvaltningsloven — Change history
 
 _1 events; doc_id `sf-20190830-1096`._

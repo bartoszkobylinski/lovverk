@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endringslov-til-folketrygdloven-mv-2"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endringslov-til-folketrygdloven-mv-2 — Change history
 
 _2 events; doc_id `nl-20260612-024`._

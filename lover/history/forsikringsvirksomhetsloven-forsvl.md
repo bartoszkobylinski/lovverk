@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forsikringsvirksomhetsloven-forsvl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forsikringsvirksomhetsloven-forsvl — Change history
 
 _8 events; doc_id `nl-20050610-044`._
@@ -27,7 +34,7 @@ Lines: +14 -10.
 Subject: `update(lov): forsikringsvirksomhetsloven-forsvl`
 Commit: `682dc4c`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +4 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-fulltidsstudiene-ved-norges-handelshøyskole-nhh"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-fulltidsstudiene-ved-norges-handelshøyskole-nhh — Change history
 
 _1 events; doc_id `sf-20260616-1096`._

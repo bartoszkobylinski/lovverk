@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-til-justerdirektøren"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-til-justerdirektøren — Change history
 
 _1 events; doc_id `sf-20010912-1324`._

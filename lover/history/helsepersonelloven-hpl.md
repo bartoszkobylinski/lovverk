@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "helsepersonelloven-hpl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # helsepersonelloven-hpl — Change history
 
 _7 events; doc_id `nl-19990702-064`._
@@ -22,7 +29,7 @@ Lines: +20 -22.
 Subject: `update(lov): helsepersonelloven-hpl`
 Commit: `0d10682`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

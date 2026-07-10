@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-laste-og-losseinnr-på-skip"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-laste-og-losseinnr-på-skip — Change history
 
-_2 events; doc_id `sf-19780117-0004`._
+_3 events; doc_id `sf-19780117-0004`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-19780117-0004.md` → `"forskrifter/forskrift-om-laste-og-losseinnr-p\303\245-skip.md"`.
+Renamed: `forskrifter/sf-19780117-0004.md` → `forskrifter/forskrift-om-laste-og-losseinnr-på-skip.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

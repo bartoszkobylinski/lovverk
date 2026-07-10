@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "instruks-for-tilsyn-etter-forvareregelverket"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # instruks-for-tilsyn-etter-forvareregelverket — Change history
 
 _1 events; doc_id `sf-20010704-0820`._

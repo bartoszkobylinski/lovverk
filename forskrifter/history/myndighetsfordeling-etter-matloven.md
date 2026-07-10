@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "myndighetsfordeling-etter-matloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # myndighetsfordeling-etter-matloven — Change history
 
 _1 events; doc_id `sf-20031219-1790`._

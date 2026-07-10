@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-til-foretakspensjonsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-til-foretakspensjonsloven — Change history
 
 _4 events; doc_id `sf-20001201-1212`._
@@ -7,7 +14,7 @@ Lines: +13 -3.
 Subject: `sync: 8 new, 220 changed, 3 renamed, 77 removed`
 Commit: `2032c09`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

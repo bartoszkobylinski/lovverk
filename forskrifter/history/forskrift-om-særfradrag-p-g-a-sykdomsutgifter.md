@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-særfradrag-p-g-a-sykdomsutgifter"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-særfradrag-p-g-a-sykdomsutgifter — Change history
 
-_2 events; doc_id `sf-19880414-0295`._
+_3 events; doc_id `sf-19880414-0295`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-19880414-0295.md` → `"forskrifter/forskrift-om-s\303\246rfradrag-p-g-a-sykdomsutgifter.md"`.
+Renamed: `forskrifter/sf-19880414-0295.md` → `forskrifter/forskrift-om-særfradrag-p-g-a-sykdomsutgifter.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

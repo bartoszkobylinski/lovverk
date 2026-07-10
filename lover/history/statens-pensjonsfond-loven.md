@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "statens-pensjonsfond-loven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # statens-pensjonsfond-loven — Change history
 
-_2 events; doc_id `nl-20051221-123`._
+_3 events; doc_id `nl-20051221-123`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `lover/nl-20051221-123.md` → `lover/statens-pensjonsfond-loven.md`.

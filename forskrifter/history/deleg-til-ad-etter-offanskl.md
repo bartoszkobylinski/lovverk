@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-ad-etter-offanskl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-ad-etter-offanskl — Change history
 
 _1 events; doc_id `sf-20110211-0150`._

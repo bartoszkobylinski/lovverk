@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-krav-til-kjøretøy"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-krav-til-kjøretøy — Change history
 
-_2 events; doc_id `sf-19900125-0091`._
+_3 events; doc_id `sf-19900125-0091`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-19900125-0091.md` → `"forskrifter/forskrift-om-krav-til-kj\303\270ret\303\270y.md"`.
+Renamed: `forskrifter/sf-19900125-0091.md` → `forskrifter/forskrift-om-krav-til-kjøretøy.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

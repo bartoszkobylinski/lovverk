@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "instruks-for-arbeidet-med-forebyggende-objekt-og-infrastruktursikkerhet-for-departementsbygningene"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # instruks-for-arbeidet-med-forebyggende-objekt-og-infrastruktursikkerhet-for-departementsbygningene — Change history
 
 _1 events; doc_id `sf-20210205-0328`._

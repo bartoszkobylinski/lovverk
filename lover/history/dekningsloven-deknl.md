@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "dekningsloven-deknl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # dekningsloven-deknl — Change history
 
 _6 events; doc_id `nl-19840608-059`._
@@ -17,7 +24,7 @@ Lines: +32 -22.
 Subject: `update(lov): dekningsloven-deknl`
 Commit: `78d2151`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

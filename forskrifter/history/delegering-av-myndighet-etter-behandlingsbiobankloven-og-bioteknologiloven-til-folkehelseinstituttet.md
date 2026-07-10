@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndighet-etter-behandlingsbiobankloven-og-bioteknologiloven-til-folkehelseinstituttet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndighet-etter-behandlingsbiobankloven-og-bioteknologiloven-til-folkehelseinstituttet — Change history
 
 _1 events; doc_id `sf-20110627-0727`._

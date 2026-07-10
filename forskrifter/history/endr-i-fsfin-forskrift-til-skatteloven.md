@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "endr-i-fsfin-forskrift-til-skatteloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endr-i-fsfin-forskrift-til-skatteloven — Change history
 
-_2 events; doc_id `sf-20141219-1890`._
+_3 events; doc_id `sf-20141219-1890`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20141219-1890.md` → `forskrifter/endr-i-fsfin-forskrift-til-skatteloven.md`.

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-ansvaret-for-norsk-lovtidend"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-ansvaret-for-norsk-lovtidend — Change history
 
 _1 events; doc_id `sf-19920320-0176`._

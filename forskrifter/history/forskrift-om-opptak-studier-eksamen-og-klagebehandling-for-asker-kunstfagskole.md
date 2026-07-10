@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "forskrift-om-opptak-studier-eksamen-og-klagebehandling-for-asker-kunstfagskole"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-opptak-studier-eksamen-og-klagebehandling-for-asker-kunstfagskole — Change history
 
-_2 events; doc_id `sf-20191217-2134`._
+_3 events; doc_id `sf-20191217-2134`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20191217-2134.md` → `forskrifter/forskrift-om-opptak-studier-eksamen-og-klagebehandling-for-asker-kunstfagskole.md`.

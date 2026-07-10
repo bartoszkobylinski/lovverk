@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "rettsgebyrloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # rettsgebyrloven — Change history
 
 _5 events; doc_id `nl-19821217-086`._
@@ -12,7 +19,7 @@ Lines: +6 -6.
 Subject: `update(lov): rettsgebyrloven`
 Commit: `1c922d5`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

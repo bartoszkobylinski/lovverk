@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "instruks-om-kontroll-av-dyr-m-v-fra-eøs"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # instruks-om-kontroll-av-dyr-m-v-fra-eøs — Change history
 
 _1 events; doc_id `sf-20010201-1702`._

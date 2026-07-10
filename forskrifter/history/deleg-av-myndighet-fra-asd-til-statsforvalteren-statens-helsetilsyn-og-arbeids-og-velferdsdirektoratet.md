@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-fra-asd-til-statsforvalteren-statens-helsetilsyn-og-arbeids-og-velferdsdirektoratet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-fra-asd-til-statsforvalteren-statens-helsetilsyn-og-arbeids-og-velferdsdirektoratet — Change history
 
 _1 events; doc_id `sf-20180604-0810`._

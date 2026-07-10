@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-vegtrafikkloven-på-jan-mayen"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-vegtrafikkloven-på-jan-mayen — Change history
 
-_2 events; doc_id `sf-19931110-1019`._
+_3 events; doc_id `sf-19931110-1019`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-19931110-1019.md` → `"forskrifter/forskrift-om-vegtrafikkloven-p\303\245-jan-mayen.md"`.
+Renamed: `forskrifter/sf-19931110-1019.md` → `forskrifter/forskrift-om-vegtrafikkloven-på-jan-mayen.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

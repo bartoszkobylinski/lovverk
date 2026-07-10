@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-etter-forsvl-til-finansdepartementet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-etter-forsvl-til-finansdepartementet — Change history
 
 _1 events; doc_id `sf-20151113-1309`._

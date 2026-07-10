@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-fin-etter-bevilgningsreglementet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-fin-etter-bevilgningsreglementet — Change history
 
 _1 events; doc_id `sf-20051202-1359`._

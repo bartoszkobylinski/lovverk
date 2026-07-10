@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "lov-om-omdanning-til-postbanken-as-postbl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # lov-om-omdanning-til-postbanken-as-postbl — Change history
 
-_2 events; doc_id `nl-19990618-042`._
+_3 events; doc_id `nl-19990618-042`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `lover/nl-19990618-042.md` → `lover/lov-om-omdanning-til-postbanken-as-postbl.md`.

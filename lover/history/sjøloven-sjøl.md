@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "sjøloven-sjøl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # sjøloven-sjøl — Change history
 
 _5 events; doc_id `nl-19940624-039`._
@@ -12,13 +19,13 @@ Lines: +11 -5.
 Subject: `update(lov): sjøloven-sjøl`
 Commit: `0dfbdff`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +4 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `lover/nl-19940624-039.md` → `"lover/sj\303\270loven-sj\303\270l.md"`.
+Renamed: `lover/nl-19940624-039.md` → `lover/sjøloven-sjøl.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

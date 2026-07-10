@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-tilbakebetaling-av-utdanningslån-2020"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-tilbakebetaling-av-utdanningslån-2020 — Change history
 
-_2 events; doc_id `sf-20191217-1872`._
+_3 events; doc_id `sf-20191217-1872`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20191217-1872.md` → `"forskrifter/forskrift-om-tilbakebetaling-av-utdanningsl\303\245n-2020.md"`.
+Renamed: `forskrifter/sf-20191217-1872.md` → `forskrifter/forskrift-om-tilbakebetaling-av-utdanningslån-2020.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

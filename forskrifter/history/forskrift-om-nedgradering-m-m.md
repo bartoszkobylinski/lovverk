@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "forskrift-om-nedgradering-m-m"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-nedgradering-m-m — Change history
 
-_2 events; doc_id `sf-19881007-0835`._
+_3 events; doc_id `sf-19881007-0835`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-19881007-0835.md` → `forskrifter/forskrift-om-nedgradering-m-m.md`.

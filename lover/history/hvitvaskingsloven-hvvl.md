@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "hvitvaskingsloven-hvvl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # hvitvaskingsloven-hvvl — Change history
 
 _5 events; doc_id `nl-20180601-023`._
@@ -12,7 +19,7 @@ Lines: +5 -3.
 Subject: `update(lov): hvitvaskingsloven-hvvl`
 Commit: `b0c74b5`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +4 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endringslov-til-politiloven-og-tvangsfullbyrdelsesloven-m-m"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endringslov-til-politiloven-og-tvangsfullbyrdelsesloven-m-m — Change history
 
 _3 events; doc_id `nl-20260619-045`._

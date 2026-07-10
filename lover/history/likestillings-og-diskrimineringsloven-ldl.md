@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "likestillings-og-diskrimineringsloven-ldl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # likestillings-og-diskrimineringsloven-ldl — Change history
 
-_2 events; doc_id `nl-20170616-051`._
+_3 events; doc_id `nl-20170616-051`._
+
+## 2026-04-29 — Content updated
+Lines: +9 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `lover/nl-20170616-051.md` → `lover/likestillings-og-diskrimineringsloven-ldl.md`.

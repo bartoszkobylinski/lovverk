@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ekomloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ekomloven — Change history
 
 _5 events; doc_id `nl-20241213-076`._
@@ -12,7 +19,7 @@ Lines: +4 -2.
 Subject: `update(lov): ekomloven`
 Commit: `2809af2`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +9 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

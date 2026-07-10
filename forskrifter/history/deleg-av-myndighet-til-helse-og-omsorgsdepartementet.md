@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-til-helse-og-omsorgsdepartementet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-til-helse-og-omsorgsdepartementet — Change history
 
 _1 events; doc_id `sf-20150619-0676`._

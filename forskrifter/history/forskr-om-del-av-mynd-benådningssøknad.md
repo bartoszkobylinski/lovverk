@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskr-om-del-av-mynd-benådningssøknad"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskr-om-del-av-mynd-benådningssøknad — Change history
 
 _1 events; doc_id `sf-19810605-8703`._

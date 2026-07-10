@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-rammeplan-for-ingeniørutdanning"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-rammeplan-for-ingeniørutdanning — Change history
 
-_2 events; doc_id `sf-20180518-0870`._
+_3 events; doc_id `sf-20180518-0870`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20180518-0870.md` → `"forskrifter/forskrift-om-rammeplan-for-ingeni\303\270rutdanning.md"`.
+Renamed: `forskrifter/sf-20180518-0870.md` → `forskrifter/forskrift-om-rammeplan-for-ingeniørutdanning.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "kraftberedskapsforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # kraftberedskapsforskriften — Change history
 
 _5 events; doc_id `sf-20121207-1157`._
@@ -12,7 +19,7 @@ Lines: +3 -3.
 Subject: `update(forskrift): kraftberedskapsforskriften`
 Commit: `b85105f`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

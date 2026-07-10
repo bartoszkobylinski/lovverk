@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "meddelelse-om-ikrafttr-av-lov-2018-83-kommuneloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # meddelelse-om-ikrafttr-av-lov-2018-83-kommuneloven — Change history
 
 _1 events; doc_id `sf-20191003-1294`._

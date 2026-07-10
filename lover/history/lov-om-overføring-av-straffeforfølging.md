@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "lov-om-overføring-av-straffeforfølging"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # lov-om-overføring-av-straffeforfølging — Change history
 
-_2 events; doc_id `nl-19770325-022`._
+_3 events; doc_id `nl-19770325-022`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `lover/nl-19770325-022.md` → `"lover/lov-om-overf\303\270ring-av-straffeforf\303\270lging.md"`.
+Renamed: `lover/nl-19770325-022.md` → `lover/lov-om-overføring-av-straffeforfølging.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

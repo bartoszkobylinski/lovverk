@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-jd-etter-tinglysingsloven-m-v"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-jd-etter-tinglysingsloven-m-v — Change history
 
 _1 events; doc_id `sf-19721006-0003`._

@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-fiskefartøy-under-15-m"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-fiskefartøy-under-15-m — Change history
 
-_2 events; doc_id `sf-20131122-1404`._
+_3 events; doc_id `sf-20131122-1404`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20131122-1404.md` → `"forskrifter/forskrift-om-fiskefart\303\270y-under-15-m.md"`.
+Renamed: `forskrifter/sf-20131122-1404.md` → `forskrifter/forskrift-om-fiskefartøy-under-15-m.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

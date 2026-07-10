@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "lov-om-norgespris-og-strømstønad-til-husholdninger"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # lov-om-norgespris-og-strømstønad-til-husholdninger — Change history
 
-_2 events; doc_id `nl-20250620-044`._
+_3 events; doc_id `nl-20250620-044`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `lover/nl-20250620-044.md` → `"lover/lov-om-norgespris-og-str\303\270mst\303\270nad-til-husholdninger.md"`.
+Renamed: `lover/nl-20250620-044.md` → `lover/lov-om-norgespris-og-strømstønad-til-husholdninger.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

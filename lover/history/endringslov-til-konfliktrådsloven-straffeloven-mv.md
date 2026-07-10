@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "endringslov-til-konfliktrådsloven-straffeloven-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endringslov-til-konfliktrådsloven-straffeloven-mv — Change history
 
-_2 events; doc_id `nl-20231220-110`._
+_3 events; doc_id `nl-20231220-110`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `lover/nl-20231220-110.md` → `"lover/endringslov-til-konfliktr\303\245dsloven-straffeloven-mv.md"`.
+Renamed: `lover/nl-20231220-110.md` → `lover/endringslov-til-konfliktrådsloven-straffeloven-mv.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtak-om-fritak-fra-mva-for-våpensystemet-f-35"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtak-om-fritak-fra-mva-for-våpensystemet-f-35 — Change history
 
 _1 events; doc_id `sf-20170811-1243`._

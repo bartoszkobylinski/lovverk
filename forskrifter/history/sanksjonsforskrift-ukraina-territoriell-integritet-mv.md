@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "sanksjonsforskrift-ukraina-territoriell-integritet-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # sanksjonsforskrift-ukraina-territoriell-integritet-mv — Change history
 
 _4 events; doc_id `sf-20140815-1076`._
@@ -7,7 +14,7 @@ Lines: +80 -29.
 Subject: `update(forskrift): sanksjonsforskrift-ukraina-territoriell-integritet-mv`
 Commit: `bd26d2f`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

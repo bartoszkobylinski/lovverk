@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-sanksjoner-og-tiltak-mot-iran"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-sanksjoner-og-tiltak-mot-iran — Change history
 
 _4 events; doc_id `sf-20070209-0149`._
@@ -7,7 +14,7 @@ Lines: +430 -150.
 Subject: `update(forskrift): forskrift-om-sanksjoner-og-tiltak-mot-iran`
 Commit: `8be38ca`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

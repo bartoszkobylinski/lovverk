@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "lov-om-åpenhet-om-eierskap-i-medier"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # lov-om-åpenhet-om-eierskap-i-medier — Change history
 
-_2 events; doc_id `nl-20160617-064`._
+_3 events; doc_id `nl-20160617-064`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `lover/nl-20160617-064.md` → `"lover/lov-om-\303\245penhet-om-eierskap-i-medier.md"`.
+Renamed: `lover/nl-20160617-064.md` → `lover/lov-om-åpenhet-om-eierskap-i-medier.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

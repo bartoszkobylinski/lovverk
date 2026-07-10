@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-nhd-etter-skipssikkerhetsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-nhd-etter-skipssikkerhetsloven — Change history
 
 _1 events; doc_id `sf-20070216-0171`._

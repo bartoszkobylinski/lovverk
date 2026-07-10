@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "bistandsinstruksen"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # bistandsinstruksen — Change history
 
 _1 events; doc_id `sf-20170616-0789`._

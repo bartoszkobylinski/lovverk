@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "instruks-for-selkjøttkontroll"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # instruks-for-selkjøttkontroll — Change history
 
 _1 events; doc_id `sf-20030313-0292`._

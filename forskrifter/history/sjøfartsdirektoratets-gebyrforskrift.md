@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "sjøfartsdirektoratets-gebyrforskrift"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # sjøfartsdirektoratets-gebyrforskrift — Change history
 
-_2 events; doc_id `sf-19960202-0115`._
+_3 events; doc_id `sf-19960202-0115`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-19960202-0115.md` → `"forskrifter/sj\303\270fartsdirektoratets-gebyrforskrift.md"`.
+Renamed: `forskrifter/sf-19960202-0115.md` → `forskrifter/sjøfartsdirektoratets-gebyrforskrift.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

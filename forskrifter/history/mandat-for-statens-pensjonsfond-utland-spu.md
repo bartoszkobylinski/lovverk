@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "mandat-for-statens-pensjonsfond-utland-spu"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # mandat-for-statens-pensjonsfond-utland-spu — Change history
 
 _1 events; doc_id `sf-20101108-1414`._

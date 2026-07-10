@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "tsjernobylforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # tsjernobylforskriften — Change history
 
 _5 events; doc_id `sf-20200824-1675`._
@@ -12,7 +19,7 @@ Lines: +5 -3.
 Subject: `update(forskrift): tsjernobylforskriften`
 Commit: `2418d8f`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

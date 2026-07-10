@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-lmd-etter-odelslova"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-lmd-etter-odelslova — Change history
 
 _1 events; doc_id `sf-20110211-0137`._

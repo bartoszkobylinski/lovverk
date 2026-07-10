@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "forskrift-om-sektoravgift-og-gebyr-til-nasjonal-kommunikasjonsmyndigheit"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-sektoravgift-og-gebyr-til-nasjonal-kommunikasjonsmyndigheit — Change history
 
-_2 events; doc_id `sf-20240117-0079`._
+_3 events; doc_id `sf-20240117-0079`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20240117-0079.md` → `forskrifter/forskrift-om-sektoravgift-og-gebyr-til-nasjonal-kommunikasjonsmyndigheit.md`.

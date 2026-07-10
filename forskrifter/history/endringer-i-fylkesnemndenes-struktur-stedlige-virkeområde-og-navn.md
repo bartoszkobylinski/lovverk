@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endringer-i-fylkesnemndenes-struktur-stedlige-virkeområde-og-navn"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endringer-i-fylkesnemndenes-struktur-stedlige-virkeområde-og-navn — Change history
 
 _1 events; doc_id `sf-20191122-1547`._

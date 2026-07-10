@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-opptak-studier-og-eksamen-ved-fagskolen-viken"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-opptak-studier-og-eksamen-ved-fagskolen-viken — Change history
 
 _4 events; doc_id `sf-20210614-1978`._
@@ -7,7 +14,7 @@ Lines: +81 -27.
 Subject: `update(forskrift): forskrift-om-opptak-studier-og-eksamen-ved-fagskolen-viken`
 Commit: `10ad75f`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

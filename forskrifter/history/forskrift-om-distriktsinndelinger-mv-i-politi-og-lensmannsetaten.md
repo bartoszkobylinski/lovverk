@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-distriktsinndelinger-mv-i-politi-og-lensmannsetaten"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-distriktsinndelinger-mv-i-politi-og-lensmannsetaten — Change history
 
 _4 events; doc_id `sf-20170524-2480`._
@@ -7,7 +14,7 @@ Lines: +10 -17.
 Subject: `update(forskrift): forskrift-om-distriktsinndelinger-mv-i-politi-og-lensmannsetaten`
 Commit: `d5310b3`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

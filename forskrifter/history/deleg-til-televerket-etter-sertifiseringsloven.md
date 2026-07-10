@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-televerket-etter-sertifiseringsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-televerket-etter-sertifiseringsloven — Change history
 
 _1 events; doc_id `sf-19941017-4646`._

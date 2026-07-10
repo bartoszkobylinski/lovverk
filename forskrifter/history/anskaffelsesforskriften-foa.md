@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "anskaffelsesforskriften-foa"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # anskaffelsesforskriften-foa — Change history
 
 _6 events; doc_id `sf-20160812-0974`._
@@ -17,7 +24,7 @@ Lines: +3 -3.
 Subject: `update(forskrift): anskaffelsesforskriften-foa`
 Commit: `fb8c121`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ikrafttr-av-lov-om-fritaking-deleg"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ikrafttr-av-lov-om-fritaking-deleg — Change history
 
 _1 events; doc_id `sf-19660603-0005`._

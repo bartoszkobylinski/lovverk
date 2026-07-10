@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ikrafttr-av-endr-til-konsesjonsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ikrafttr-av-endr-til-konsesjonsloven — Change history
 
 _1 events; doc_id `sf-19840120-0213`._

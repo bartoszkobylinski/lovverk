@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "kjøretøyforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # kjøretøyforskriften — Change history
 
 _5 events; doc_id `sf-19941004-0918`._
@@ -12,13 +19,13 @@ Lines: +4 -4.
 Subject: `update(forskrift): kjøretøyforskriften`
 Commit: `191f083`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-19941004-0918.md` → `"forskrifter/kj\303\270ret\303\270yforskriften.md"`.
+Renamed: `forskrifter/sf-19941004-0918.md` → `forskrifter/kjøretøyforskriften.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

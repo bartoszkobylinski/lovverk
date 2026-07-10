@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "forskrift-for-badeanlegg-bassengbad-og-badstu"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-for-badeanlegg-bassengbad-og-badstu — Change history
 
-_2 events; doc_id `sf-19960613-0592`._
+_3 events; doc_id `sf-19960613-0592`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-19960613-0592.md` → `forskrifter/forskrift-for-badeanlegg-bassengbad-og-badstu.md`.

@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "forskrift-om-rovvilterstatning-for-husdyr"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-rovvilterstatning-for-husdyr — Change history
 
-_2 events; doc_id `sf-20140530-0677`._
+_3 events; doc_id `sf-20140530-0677`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20140530-0677.md` → `forskrifter/forskrift-om-rovvilterstatning-for-husdyr.md`.

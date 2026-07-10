@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-krav-til-klimagassintensitet-for-skip-som-brukes-i-forbindelse-med-petroleumsvirksomhet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-krav-til-klimagassintensitet-for-skip-som-brukes-i-forbindelse-med-petroleumsvirksomhet — Change history
 
 _1 events; doc_id `sf-20260512-0793`._

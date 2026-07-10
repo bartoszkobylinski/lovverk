@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "justering-av-statsadvokatembetene-som-følge-av-organisasjonsendringer-i-den-høyere-påtalemyndighet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # justering-av-statsadvokatembetene-som-følge-av-organisasjonsendringer-i-den-høyere-påtalemyndighet — Change history
 
 _1 events; doc_id `sf-20250620-1187`._

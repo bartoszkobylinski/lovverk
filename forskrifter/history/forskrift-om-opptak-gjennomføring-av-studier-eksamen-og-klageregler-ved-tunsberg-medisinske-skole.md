@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-opptak-gjennomføring-av-studier-eksamen-og-klageregler-ved-tunsberg-medisinske-skole"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-opptak-gjennomføring-av-studier-eksamen-og-klageregler-ved-tunsberg-medisinske-skole — Change history
 
-_2 events; doc_id `sf-20201203-2662`._
+_3 events; doc_id `sf-20201203-2662`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20201203-2662.md` → `"forskrifter/forskrift-om-opptak-gjennomf\303\270ring-av-studier-eksamen-og-klageregler-ved-tunsberg-medisinske-skole.md"`.
+Renamed: `forskrifter/sf-20201203-2662.md` → `forskrifter/forskrift-om-opptak-gjennomføring-av-studier-eksamen-og-klageregler-ved-tunsberg-medisinske-skole.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

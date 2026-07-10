@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "instruks-om-petroleumstilsynet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # instruks-om-petroleumstilsynet — Change history
 
 _1 events; doc_id `sf-20031219-1594`._

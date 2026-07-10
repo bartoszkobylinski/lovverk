@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "lov-om-røros-kobberverks-skogvæsen"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # lov-om-røros-kobberverks-skogvæsen — Change history
 
-_2 events; doc_id `nl-19010529-006`._
+_3 events; doc_id `nl-19010529-006`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `lover/nl-19010529-006.md` → `"lover/lov-om-r\303\270ros-kobberverks-skogv\303\246sen.md"`.
+Renamed: `lover/nl-19010529-006.md` → `lover/lov-om-røros-kobberverks-skogvæsen.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

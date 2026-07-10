@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "utvidelse-av-forsøk-akuttjeneste-for-barn-og-unge-i-kristiansand"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # utvidelse-av-forsøk-akuttjeneste-for-barn-og-unge-i-kristiansand — Change history
 
 _1 events; doc_id `sf-20160520-0508`._

@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-høyeste-midlertidige-grenseverdier-for-radioaktiv-forurensning-i-næringsmidler-og-f-r-som-omsettes-og-eventuelle-andre-nødvendige-restriksjoner-etter-matloven-som-følge-av-en"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-høyeste-midlertidige-grenseverdier-for-radioaktiv-forurensning-i-næringsmidler-og-f-r-som-omsettes-og-eventuelle-andre-nødvendige-restriksjoner-etter-matloven-som-følge-av-en — Change history
 
-_2 events; doc_id `sf-20220914-1580`._
+_3 events; doc_id `sf-20220914-1580`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20220914-1580.md` → `"forskrifter/forskrift-om-h\303\270yeste-midlertidige-grenseverdier-for-radioaktiv-forurensning-i-n\303\246ringsmidler-og-f-r-som-omsettes-og-eventuelle-andre-n\303\270dvendige-restriksjoner-etter-matloven-som-f\303\270lge-av-en.md"`.
+Renamed: `forskrifter/sf-20220914-1580.md` → `forskrifter/forskrift-om-høyeste-midlertidige-grenseverdier-for-radioaktiv-forurensning-i-næringsmidler-og-f-r-som-omsettes-og-eventuelle-andre-nødvendige-restriksjoner-etter-matloven-som-følge-av-en.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

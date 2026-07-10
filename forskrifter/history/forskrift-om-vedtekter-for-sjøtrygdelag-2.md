@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-vedtekter-for-sjøtrygdelag-2"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-vedtekter-for-sjøtrygdelag-2 — Change history
 
-_2 events; doc_id `sf-19561109-9388`._
+_3 events; doc_id `sf-19561109-9388`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-19561109-9388.md` → `"forskrifter/forskrift-om-vedtekter-for-sj\303\270trygdelag-2.md"`.
+Renamed: `forskrifter/sf-19561109-9388.md` → `forskrifter/forskrift-om-vedtekter-for-sjøtrygdelag-2.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

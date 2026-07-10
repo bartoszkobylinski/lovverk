@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "verdipapirhandelloven-vphl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # verdipapirhandelloven-vphl — Change history
 
 _6 events; doc_id `nl-20070629-075`._
@@ -17,7 +24,7 @@ Lines: +5 -5.
 Subject: `update(lov): verdipapirhandelloven-vphl`
 Commit: `d13f182`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +10 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

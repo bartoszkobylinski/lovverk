@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "lov-om-medisinsk-utstyr"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # lov-om-medisinsk-utstyr — Change history
 
 _6 events; doc_id `nl-20200507-037`._
@@ -17,7 +24,7 @@ Lines: +5 -3.
 Subject: `update(lov): lov-om-medisinsk-utstyr`
 Commit: `fb61bea`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +4 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

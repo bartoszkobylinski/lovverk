@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-for-graden-philosophiae-doctor-ved-høgskolen-i-molde-vitenskapelig-høgskole-i-logistikk"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-for-graden-philosophiae-doctor-ved-høgskolen-i-molde-vitenskapelig-høgskole-i-logistikk — Change history
 
-_2 events; doc_id `sf-20260128-0149`._
+_3 events; doc_id `sf-20260128-0149`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20260128-0149.md` → `"forskrifter/forskrift-for-graden-philosophiae-doctor-ved-h\303\270gskolen-i-molde-vitenskapelig-h\303\270gskole-i-logistikk.md"`.
+Renamed: `forskrifter/sf-20260128-0149.md` → `forskrifter/forskrift-for-graden-philosophiae-doctor-ved-høgskolen-i-molde-vitenskapelig-høgskole-i-logistikk.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

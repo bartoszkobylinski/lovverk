@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-behandling-av-akvakultursøknader"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-behandling-av-akvakultursøknader — Change history
 
-_2 events; doc_id `sf-20100518-0708`._
+_3 events; doc_id `sf-20100518-0708`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20100518-0708.md` → `"forskrifter/forskrift-om-behandling-av-akvakulturs\303\270knader.md"`.
+Renamed: `forskrifter/sf-20100518-0708.md` → `forskrifter/forskrift-om-behandling-av-akvakultursøknader.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

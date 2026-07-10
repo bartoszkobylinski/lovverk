@@ -4,11 +4,11 @@
     {
       "commit": "5244bff",
       "date": "2026-06-30",
-      "from_path": "\"forskrifter/forskrift-om-brannvern-p\\303\\245-svalbard.md\"",
+      "from_path": "forskrifter/forskrift-om-brannvern-på-svalbard.md",
       "lines_added": 2,
       "lines_removed": 2,
       "subject": "sync: 1693 new, 0 changed, 1 renamed, 0 removed",
-      "to_path": "\"forskrifter/forskrift-om-brannvern-p\\303\\245-svalbard-2.md\"",
+      "to_path": "forskrifter/forskrift-om-brannvern-på-svalbard-2.md",
       "type": "renamed"
     },
     {
@@ -19,7 +19,7 @@
       "lines_removed": 1,
       "subject": "migration: backfill eu_basis for 4523 documents",
       "to_path": null,
-      "type": "renamed"
+      "type": "updated"
     },
     {
       "commit": "3dddeca",
@@ -28,7 +28,7 @@
       "lines_added": 2,
       "lines_removed": 1,
       "subject": "migration: rename 4522 documents to slug-based filenames",
-      "to_path": "\"forskrifter/forskrift-om-brannvern-p\\303\\245-svalbard.md\"",
+      "to_path": "forskrifter/forskrift-om-brannvern-på-svalbard.md",
       "type": "renamed"
     },
     {

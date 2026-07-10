@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-til-helsedirektoratet-vedrørende-behov-for-endringer-i-spesialistforskriften-mfl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-til-helsedirektoratet-vedrørende-behov-for-endringer-i-spesialistforskriften-mfl — Change history
 
 _1 events; doc_id `sf-20200312-0399`._

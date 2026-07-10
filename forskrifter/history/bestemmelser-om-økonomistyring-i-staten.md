@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "bestemmelser-om-økonomistyring-i-staten"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # bestemmelser-om-økonomistyring-i-staten — Change history
 
 _1 events; doc_id `sf-20031212-1939`._

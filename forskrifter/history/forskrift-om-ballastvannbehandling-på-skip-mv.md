@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-ballastvannbehandling-på-skip-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-ballastvannbehandling-på-skip-mv — Change history
 
-_2 events; doc_id `sf-20170908-1368`._
+_3 events; doc_id `sf-20170908-1368`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20170908-1368.md` → `"forskrifter/forskrift-om-ballastvannbehandling-p\303\245-skip-mv.md"`.
+Renamed: `forskrifter/sf-20170908-1368.md` → `forskrifter/forskrift-om-ballastvannbehandling-på-skip-mv.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

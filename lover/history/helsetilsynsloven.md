@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "helsetilsynsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # helsetilsynsloven — Change history
 
 _5 events; doc_id `nl-20171215-107`._
@@ -12,7 +19,7 @@ Lines: +5 -5.
 Subject: `update(lov): helsetilsynsloven`
 Commit: `87268bf`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

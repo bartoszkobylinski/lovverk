@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-gebyr-ved-norges-utenriksstasjoner"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-gebyr-ved-norges-utenriksstasjoner — Change history
 
 _4 events; doc_id `sf-20140620-0780`._
@@ -7,7 +14,7 @@ Lines: +66 -2.
 Subject: `update(forskrift): forskrift-om-gebyr-ved-norges-utenriksstasjoner`
 Commit: `4ace8bd`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

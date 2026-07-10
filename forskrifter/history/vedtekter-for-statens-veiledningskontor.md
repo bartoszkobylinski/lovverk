@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtekter-for-statens-veiledningskontor"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtekter-for-statens-veiledningskontor — Change history
 
 _1 events; doc_id `sf-20010302-0245`._

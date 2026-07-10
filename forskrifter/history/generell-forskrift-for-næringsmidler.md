@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "generell-forskrift-for-næringsmidler"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # generell-forskrift-for-næringsmidler — Change history
 
-_2 events; doc_id `sf-19830708-1252`._
+_3 events; doc_id `sf-19830708-1252`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-19830708-1252.md` → `"forskrifter/generell-forskrift-for-n\303\246ringsmidler.md"`.
+Renamed: `forskrifter/sf-19830708-1252.md` → `forskrifter/generell-forskrift-for-næringsmidler.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

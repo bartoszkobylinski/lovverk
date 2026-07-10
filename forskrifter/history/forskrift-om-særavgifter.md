@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-særavgifter"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-særavgifter — Change history
 
 _6 events; doc_id `sf-20011211-1451`._
@@ -17,13 +24,13 @@ Lines: +28 -22.
 Subject: `sync: 2 new, 20 changed, 30 renamed, 373 removed`
 Commit: `5511aa4`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20011211-1451.md` → `"forskrifter/forskrift-om-s\303\246ravgifter.md"`.
+Renamed: `forskrifter/sf-20011211-1451.md` → `forskrifter/forskrift-om-særavgifter.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

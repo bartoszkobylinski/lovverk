@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "matkontaktforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # matkontaktforskriften — Change history
 
 _4 events; doc_id `sf-19931221-1381`._
@@ -7,7 +14,7 @@ Lines: +23 -25.
 Subject: `update(forskrift): matkontaktforskriften`
 Commit: `9869f3f`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "lov-om-reservasjonssystemer-for-flyreiser-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # lov-om-reservasjonssystemer-for-flyreiser-mv — Change history
 
-_2 events; doc_id `nl-20160909-080`._
+_3 events; doc_id `nl-20160909-080`._
+
+## 2026-04-29 — Content updated
+Lines: +3 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `lover/nl-20160909-080.md` → `lover/lov-om-reservasjonssystemer-for-flyreiser-mv.md`.

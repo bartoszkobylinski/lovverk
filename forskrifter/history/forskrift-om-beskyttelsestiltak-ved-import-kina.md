@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "forskrift-om-beskyttelsestiltak-ved-import-kina"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-beskyttelsestiltak-ved-import-kina — Change history
 
-_2 events; doc_id `sf-20040831-1229`._
+_3 events; doc_id `sf-20040831-1229`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20040831-1229.md` → `forskrifter/forskrift-om-beskyttelsestiltak-ved-import-kina.md`.

@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-fremgangsmåte-for-veterinærkontroll"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-fremgangsmåte-for-veterinærkontroll — Change history
 
-_2 events; doc_id `sf-20051130-1347`._
+_3 events; doc_id `sf-20051130-1347`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20051130-1347.md` → `"forskrifter/forskrift-om-fremgangsm\303\245te-for-veterin\303\246rkontroll.md"`.
+Renamed: `forskrifter/sf-20051130-1347.md` → `forskrifter/forskrift-om-fremgangsmåte-for-veterinærkontroll.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endringslov-til-helseforskningsloven-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endringslov-til-helseforskningsloven-mv — Change history
 
 _4 events; doc_id `nl-20250620-071`._
@@ -7,7 +14,7 @@ Lines: +2 -10.
 Subject: `update(lov): endringslov-til-helseforskningsloven-mv`
 Commit: `3bd7bcf`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

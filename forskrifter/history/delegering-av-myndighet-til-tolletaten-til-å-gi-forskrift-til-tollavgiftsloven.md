@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndighet-til-tolletaten-til-å-gi-forskrift-til-tollavgiftsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndighet-til-tolletaten-til-å-gi-forskrift-til-tollavgiftsloven — Change history
 
 _1 events; doc_id `sf-20221019-1760`._

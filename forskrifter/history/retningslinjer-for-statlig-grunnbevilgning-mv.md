@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "retningslinjer-for-statlig-grunnbevilgning-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # retningslinjer-for-statlig-grunnbevilgning-mv — Change history
 
 _1 events; doc_id `sf-20081219-1579`._

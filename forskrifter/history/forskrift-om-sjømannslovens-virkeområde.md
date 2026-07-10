@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-sjømannslovens-virkeområde"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-sjømannslovens-virkeområde — Change history
 
-_2 events; doc_id `sf-19860131-0222`._
+_3 events; doc_id `sf-19860131-0222`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-19860131-0222.md` → `"forskrifter/forskrift-om-sj\303\270mannslovens-virkeomr\303\245de.md"`.
+Renamed: `forskrifter/sf-19860131-0222.md` → `forskrifter/forskrift-om-sjømannslovens-virkeområde.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

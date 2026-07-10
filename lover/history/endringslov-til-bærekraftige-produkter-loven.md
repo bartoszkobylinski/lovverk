@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endringslov-til-bærekraftige-produkter-loven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endringslov-til-bærekraftige-produkter-loven — Change history
 
 _2 events; doc_id `nl-20260619-055`._

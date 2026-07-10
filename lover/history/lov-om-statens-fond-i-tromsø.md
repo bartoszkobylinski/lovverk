@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "lov-om-statens-fond-i-tromsø"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # lov-om-statens-fond-i-tromsø — Change history
 
-_2 events; doc_id `nl-20240625-067`._
+_3 events; doc_id `nl-20240625-067`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `lover/nl-20240625-067.md` → `"lover/lov-om-statens-fond-i-troms\303\270.md"`.
+Renamed: `lover/nl-20240625-067.md` → `lover/lov-om-statens-fond-i-tromsø.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

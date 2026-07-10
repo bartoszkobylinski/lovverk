@@ -2,13 +2,23 @@
   "doc_id": "nl-20090619-073",
   "events": [
     {
+      "commit": "3d499af",
+      "date": "2026-04-29",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 1,
+      "subject": "migration: backfill eu_basis for 4523 documents",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "3dddeca",
       "date": "2026-04-27",
       "from_path": "lover/nl-20090619-073.md",
       "lines_added": 2,
       "lines_removed": 1,
       "subject": "migration: rename 4522 documents to slug-based filenames",
-      "to_path": "\"lover/lov-om-unders\\303\\270kelsesutvalg-psykiske-lidelser.md\"",
+      "to_path": "lover/lov-om-undersøkelsesutvalg-psykiske-lidelser.md",
       "type": "renamed"
     },
     {

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-jakt-og-fangsttider-samt-sanking-av-egg-og-dun-for-jaktsesongene-fra-og-med-1-april-2022-til-og-med-31-mars-2028"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-jakt-og-fangsttider-samt-sanking-av-egg-og-dun-for-jaktsesongene-fra-og-med-1-april-2022-til-og-med-31-mars-2028 — Change history
 
 _4 events; doc_id `sf-20220121-0128`._
@@ -7,7 +14,7 @@ Lines: +7 -5.
 Subject: `sync: 8 new, 220 changed, 3 renamed, 77 removed`
 Commit: `2032c09`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

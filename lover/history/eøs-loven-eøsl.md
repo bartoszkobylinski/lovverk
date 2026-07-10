@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "eøs-loven-eøsl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # eøs-loven-eøsl — Change history
 
-_2 events; doc_id `nl-19921127-109`._
+_3 events; doc_id `nl-19921127-109`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `lover/nl-19921127-109.md` → `"lover/e\303\270s-loven-e\303\270sl.md"`.
+Renamed: `lover/nl-19921127-109.md` → `lover/eøs-loven-eøsl.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

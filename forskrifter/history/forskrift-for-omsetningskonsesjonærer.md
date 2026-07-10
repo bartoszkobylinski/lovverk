@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-for-omsetningskonsesjonærer"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-for-omsetningskonsesjonærer — Change history
 
 _4 events; doc_id `sf-19990311-0302`._
@@ -7,13 +14,13 @@ Lines: +5 -5.
 Subject: `update(forskrift): forskrift-for-omsetningskonsesjonærer`
 Commit: `9b976cf`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-19990311-0302.md` → `"forskrifter/forskrift-for-omsetningskonsesjon\303\246rer.md"`.
+Renamed: `forskrifter/sf-19990311-0302.md` → `forskrifter/forskrift-for-omsetningskonsesjonærer.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

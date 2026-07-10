@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "forskrift-om-menerstatning-ved-pasientskader"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-menerstatning-ved-pasientskader — Change history
 
-_2 events; doc_id `sf-20210301-0622`._
+_3 events; doc_id `sf-20210301-0622`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20210301-0622.md` → `forskrifter/forskrift-om-menerstatning-ved-pasientskader.md`.

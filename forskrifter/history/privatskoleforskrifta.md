@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "privatskoleforskrifta"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # privatskoleforskrifta — Change history
 
 _6 events; doc_id `sf-20240603-0901`._
@@ -17,7 +24,7 @@ Lines: +23 -3.
 Subject: `update(forskrift): privatskoleforskrifta`
 Commit: `5ef4dc4`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

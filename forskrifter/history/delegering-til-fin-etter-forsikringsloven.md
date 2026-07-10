@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-fin-etter-forsikringsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-fin-etter-forsikringsloven — Change history
 
 _1 events; doc_id `sf-20070615-0650`._

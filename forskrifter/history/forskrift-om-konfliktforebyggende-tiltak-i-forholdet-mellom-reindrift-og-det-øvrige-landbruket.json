@@ -8,7 +8,7 @@
       "lines_added": 27,
       "lines_removed": 25,
       "subject": "sync: 8 new, 220 changed, 3 renamed, 77 removed",
-      "to_path": "\"forskrifter/forskrift-om-konfliktforebyggende-tiltak-i-forholdet-mellom-reindrift-og-det-\\303\\270vrige-landbruket.md\"",
+      "to_path": "forskrifter/forskrift-om-konfliktforebyggende-tiltak-i-forholdet-mellom-reindrift-og-det-øvrige-landbruket.md",
       "type": "renamed"
     },
     {
@@ -29,7 +29,7 @@
       "lines_removed": 1,
       "subject": "migration: backfill eu_basis for 4523 documents",
       "to_path": null,
-      "type": "renamed"
+      "type": "updated"
     },
     {
       "commit": "3dddeca",

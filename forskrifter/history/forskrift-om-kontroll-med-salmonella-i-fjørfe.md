@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-kontroll-med-salmonella-i-fjørfe"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-kontroll-med-salmonella-i-fjørfe — Change history
 
-_2 events; doc_id `sf-20070608-0603`._
+_3 events; doc_id `sf-20070608-0603`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20070608-0603.md` → `"forskrifter/forskrift-om-kontroll-med-salmonella-i-fj\303\270rfe.md"`.
+Renamed: `forskrifter/sf-20070608-0603.md` → `forskrifter/forskrift-om-kontroll-med-salmonella-i-fjørfe.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

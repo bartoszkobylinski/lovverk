@@ -2,13 +2,23 @@
   "doc_id": "nl-20170616-064",
   "events": [
     {
+      "commit": "3d499af",
+      "date": "2026-04-29",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 1,
+      "subject": "migration: backfill eu_basis for 4523 documents",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "3dddeca",
       "date": "2026-04-27",
       "from_path": "lover/nl-20170616-064.md",
       "lines_added": 2,
       "lines_removed": 1,
       "subject": "migration: rename 4522 documents to slug-based filenames",
-      "to_path": "\"lover/lov-om-overf\\303\\270ring-av-ansvar-for-kollektivtransport.md\"",
+      "to_path": "lover/lov-om-overføring-av-ansvar-for-kollektivtransport.md",
       "type": "renamed"
     },
     {

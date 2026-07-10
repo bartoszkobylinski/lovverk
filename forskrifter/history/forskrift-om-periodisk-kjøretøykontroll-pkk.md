@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-periodisk-kjøretøykontroll-pkk"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-periodisk-kjøretøykontroll-pkk — Change history
 
 _4 events; doc_id `sf-20090513-0591`._
@@ -7,13 +14,13 @@ Lines: +8 -20.
 Subject: `update(forskrift): forskrift-om-periodisk-kjøretøykontroll-pkk`
 Commit: `ccb4da7`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20090513-0591.md` → `"forskrifter/forskrift-om-periodisk-kj\303\270ret\303\270ykontroll-pkk.md"`.
+Renamed: `forskrifter/sf-20090513-0591.md` → `forskrifter/forskrift-om-periodisk-kjøretøykontroll-pkk.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

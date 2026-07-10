@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endringslov-til-foretakspensjonsloven-og-forsikringsvirksomhetsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endringslov-til-foretakspensjonsloven-og-forsikringsvirksomhetsloven — Change history
 
 _4 events; doc_id `nl-20260507-016`._

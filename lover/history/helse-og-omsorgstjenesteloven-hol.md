@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "helse-og-omsorgstjenesteloven-hol"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # helse-og-omsorgstjenesteloven-hol — Change history
 
 _10 events; doc_id `nl-20110624-030`._
@@ -37,7 +44,7 @@ Lines: +3 -3.
 Subject: `update(lov): helse-og-omsorgstjenesteloven-hol`
 Commit: `bb60c55`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

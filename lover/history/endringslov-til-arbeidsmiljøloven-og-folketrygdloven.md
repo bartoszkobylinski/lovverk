@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endringslov-til-arbeidsmiljøloven-og-folketrygdloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endringslov-til-arbeidsmiljøloven-og-folketrygdloven — Change history
 
 _2 events; doc_id `nl-20260619-033`._

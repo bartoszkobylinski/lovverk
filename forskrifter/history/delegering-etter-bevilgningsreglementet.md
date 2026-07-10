@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-bevilgningsreglementet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-bevilgningsreglementet — Change history
 
 _1 events; doc_id `sf-20051205-1412`._

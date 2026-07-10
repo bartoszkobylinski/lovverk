@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "fullmakt-for-kmd-til-å-fastsette-designprogram-for-dep"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # fullmakt-for-kmd-til-å-fastsette-designprogram-for-dep — Change history
 
 _1 events; doc_id `sf-20150612-0649`._

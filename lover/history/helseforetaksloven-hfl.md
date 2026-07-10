@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "helseforetaksloven-hfl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # helseforetaksloven-hfl — Change history
 
 _5 events; doc_id `nl-20010615-093`._
@@ -12,7 +19,7 @@ Lines: +7 -5.
 Subject: `update(lov): helseforetaksloven-hfl`
 Commit: `78ec1ee`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

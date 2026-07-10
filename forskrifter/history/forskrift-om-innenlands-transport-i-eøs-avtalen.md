@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-innenlands-transport-i-eøs-avtalen"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-innenlands-transport-i-eøs-avtalen — Change history
 
-_2 events; doc_id `sf-19950811-0716`._
+_3 events; doc_id `sf-19950811-0716`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-19950811-0716.md` → `"forskrifter/forskrift-om-innenlands-transport-i-e\303\270s-avtalen.md"`.
+Renamed: `forskrifter/sf-19950811-0716.md` → `forskrifter/forskrift-om-innenlands-transport-i-eøs-avtalen.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

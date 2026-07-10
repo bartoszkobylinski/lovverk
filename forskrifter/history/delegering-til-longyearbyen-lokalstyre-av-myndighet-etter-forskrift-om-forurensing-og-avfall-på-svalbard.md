@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-longyearbyen-lokalstyre-av-myndighet-etter-forskrift-om-forurensing-og-avfall-på-svalbard"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-longyearbyen-lokalstyre-av-myndighet-etter-forskrift-om-forurensing-og-avfall-på-svalbard — Change history
 
 _1 events; doc_id `sf-20201222-3401`._

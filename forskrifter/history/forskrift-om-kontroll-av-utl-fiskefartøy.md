@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-kontroll-av-utl-fiskefartøy"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-kontroll-av-utl-fiskefartøy — Change history
 
-_2 events; doc_id `sf-20050719-1834`._
+_3 events; doc_id `sf-20050719-1834`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20050719-1834.md` → `"forskrifter/forskrift-om-kontroll-av-utl-fiskefart\303\270y.md"`.
+Renamed: `forskrifter/sf-20050719-1834.md` → `forskrifter/forskrift-om-kontroll-av-utl-fiskefartøy.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

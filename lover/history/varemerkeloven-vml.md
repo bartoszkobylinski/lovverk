@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "varemerkeloven-vml"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # varemerkeloven-vml — Change history
 
 _5 events; doc_id `nl-20100326-008`._
@@ -12,7 +19,7 @@ Lines: +3 -3.
 Subject: `update(lov): varemerkeloven-vml`
 Commit: `57902d5`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +3 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

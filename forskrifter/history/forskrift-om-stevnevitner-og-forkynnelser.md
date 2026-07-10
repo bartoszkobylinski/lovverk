@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "forskrift-om-stevnevitner-og-forkynnelser"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-stevnevitner-og-forkynnelser — Change history
 
-_2 events; doc_id `sf-19270624-9812`._
+_3 events; doc_id `sf-19270624-9812`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-19270624-9812.md` → `forskrifter/forskrift-om-stevnevitner-og-forkynnelser.md`.

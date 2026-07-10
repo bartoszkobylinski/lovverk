@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "opprettholdelse-av-delegering-petroleumsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # opprettholdelse-av-delegering-petroleumsloven — Change history
 
 _1 events; doc_id `sf-20071220-1791`._

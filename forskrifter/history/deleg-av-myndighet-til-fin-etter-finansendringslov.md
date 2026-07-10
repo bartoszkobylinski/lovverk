@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-til-fin-etter-finansendringslov"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-til-fin-etter-finansendringslov — Change history
 
 _1 events; doc_id `sf-20070316-0274`._

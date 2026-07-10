@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forurensningsloven-forurl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forurensningsloven-forurl — Change history
 
 _4 events; doc_id `nl-19810313-006`._
@@ -7,7 +14,7 @@ Lines: +11 -11.
 Subject: `update(lov): forurensningsloven-forurl`
 Commit: `d28b8e8`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +7 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

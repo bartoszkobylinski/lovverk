@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "markedsføringsloven-mfl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # markedsføringsloven-mfl — Change history
 
 _6 events; doc_id `nl-20090109-002`._
@@ -17,13 +24,13 @@ Lines: +3 -3.
 Subject: `update(lov): markedsføringsloven-mfl`
 Commit: `1f21ed4`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +11 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `lover/nl-20090109-002.md` → `"lover/markedsf\303\270ringsloven-mfl.md"`.
+Renamed: `lover/nl-20090109-002.md` → `lover/markedsføringsloven-mfl.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

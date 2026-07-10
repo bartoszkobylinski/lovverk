@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "direktiver-for-befal-mv-ved-angrep-på-norge"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # direktiver-for-befal-mv-ved-angrep-på-norge — Change history
 
 _1 events; doc_id `sf-19490610-0001`._

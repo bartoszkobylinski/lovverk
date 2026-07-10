@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtak-om-mva-fritak-redningsselskapet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtak-om-mva-fritak-redningsselskapet — Change history
 
 _1 events; doc_id `sf-20110302-0215`._

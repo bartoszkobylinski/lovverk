@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-forbud-mot-utslipp-av-kloakk-fra-fritidsbåter-i-oslofjorden"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-forbud-mot-utslipp-av-kloakk-fra-fritidsbåter-i-oslofjorden — Change history
 
-_2 events; doc_id `sf-20240531-0886`._
+_3 events; doc_id `sf-20240531-0886`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20240531-0886.md` → `"forskrifter/forskrift-om-forbud-mot-utslipp-av-kloakk-fra-fritidsb\303\245ter-i-oslofjorden.md"`.
+Renamed: `forskrifter/sf-20240531-0886.md` → `forskrifter/forskrift-om-forbud-mot-utslipp-av-kloakk-fra-fritidsbåter-i-oslofjorden.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

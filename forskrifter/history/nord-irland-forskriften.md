@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "nord-irland-forskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # nord-irland-forskriften — Change history
 
 _1 events; doc_id `sf-20260521-0960`._

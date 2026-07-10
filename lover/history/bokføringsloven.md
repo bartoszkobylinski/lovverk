@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "bokføringsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # bokføringsloven — Change history
 
 _5 events; doc_id `nl-20041119-073`._
@@ -12,13 +19,13 @@ Lines: +9 -5.
 Subject: `update(lov): bokføringsloven`
 Commit: `e1d517a`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `lover/nl-20041119-073.md` → `"lover/bokf\303\270ringsloven.md"`.
+Renamed: `lover/nl-20041119-073.md` → `lover/bokføringsloven.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

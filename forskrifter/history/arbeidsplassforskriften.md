@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "arbeidsplassforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # arbeidsplassforskriften — Change history
 
-_2 events; doc_id `sf-20111206-1356`._
+_3 events; doc_id `sf-20111206-1356`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20111206-1356.md` → `forskrifter/arbeidsplassforskriften.md`.

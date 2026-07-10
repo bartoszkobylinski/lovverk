@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "instruks-om-delegering-fra-namsretten"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # instruks-om-delegering-fra-namsretten — Change history
 
 _1 events; doc_id `sf-19900629-0486`._

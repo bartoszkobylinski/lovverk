@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "småbåtloven-småbåtl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # småbåtloven-småbåtl — Change history
 
 _5 events; doc_id `nl-19980626-047`._
@@ -12,13 +19,13 @@ Lines: +4 -4.
 Subject: `update(lov): småbåtloven-småbåtl`
 Commit: `4531b69`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `lover/nl-19980626-047.md` → `"lover/sm\303\245b\303\245tloven-sm\303\245b\303\245tl.md"`.
+Renamed: `lover/nl-19980626-047.md` → `lover/småbåtloven-småbåtl.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

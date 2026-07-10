@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-fisket-i-atlanterhavet-nafo-området"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-fisket-i-atlanterhavet-nafo-området — Change history
 
-_2 events; doc_id `sf-20091211-1507`._
+_3 events; doc_id `sf-20091211-1507`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20091211-1507.md` → `"forskrifter/forskrift-om-fisket-i-atlanterhavet-nafo-omr\303\245det.md"`.
+Renamed: `forskrifter/sf-20091211-1507.md` → `forskrifter/forskrift-om-fisket-i-atlanterhavet-nafo-området.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

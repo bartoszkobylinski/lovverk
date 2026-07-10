@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "endringslov-til-straffegjennomføringsloven-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endringslov-til-straffegjennomføringsloven-mv — Change history
 
-_2 events; doc_id `nl-20130614-044`._
+_3 events; doc_id `nl-20130614-044`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `lover/nl-20130614-044.md` → `"lover/endringslov-til-straffegjennomf\303\270ringsloven-mv.md"`.
+Renamed: `lover/nl-20130614-044.md` → `lover/endringslov-til-straffegjennomføringsloven-mv.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

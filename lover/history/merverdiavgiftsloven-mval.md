@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "merverdiavgiftsloven-mval"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # merverdiavgiftsloven-mval — Change history
 
 _6 events; doc_id `nl-20090619-058`._
@@ -17,7 +24,7 @@ Lines: +4 -4.
 Subject: `update(lov): merverdiavgiftsloven-mval`
 Commit: `e403cc6`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

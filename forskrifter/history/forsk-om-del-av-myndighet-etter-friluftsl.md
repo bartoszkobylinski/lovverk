@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forsk-om-del-av-myndighet-etter-friluftsl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forsk-om-del-av-myndighet-etter-friluftsl — Change history
 
 _1 events; doc_id `sf-19841126-1947`._

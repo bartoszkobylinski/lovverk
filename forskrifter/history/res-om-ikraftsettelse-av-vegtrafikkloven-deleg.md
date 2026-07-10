@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "res-om-ikraftsettelse-av-vegtrafikkloven-deleg"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # res-om-ikraftsettelse-av-vegtrafikkloven-deleg — Change history
 
 _1 events; doc_id `sf-19670317-3462`._

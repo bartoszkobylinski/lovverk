@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endringslov-til-støtteprosessloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endringslov-til-støtteprosessloven — Change history
 
 _2 events; doc_id `nl-20260619-062`._

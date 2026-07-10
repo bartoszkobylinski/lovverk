@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-forvaltningsloven-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-forvaltningsloven-mv — Change history
 
 _1 events; doc_id `sf-19691205-0002`._

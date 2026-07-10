@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-tilskudd-til-siidaandeler-og-reinlag"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-tilskudd-til-siidaandeler-og-reinlag — Change history
 
 _5 events; doc_id `sf-20190620-0865`._
@@ -12,7 +19,7 @@ Lines: +9 -5.
 Subject: `update(forskrift): forskrift-om-tilskudd-til-siidaandeler-og-reinlag`
 Commit: `bc25fed`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

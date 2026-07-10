@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "oreigningsforskrifta"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # oreigningsforskrifta — Change history
 
 _1 events; doc_id `sf-20260522-0870`._

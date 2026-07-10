@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "erstatning-til-statsansatte-ved-skade-på-eller-tap-av-private-eiendeler"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # erstatning-til-statsansatte-ved-skade-på-eller-tap-av-private-eiendeler — Change history
 
 _1 events; doc_id `sf-20171027-1667`._

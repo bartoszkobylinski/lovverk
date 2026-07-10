@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-postbankloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-postbankloven — Change history
 
 _1 events; doc_id `sf-19920605-0429`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "produktforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # produktforskriften — Change history
 
 _7 events; doc_id `sf-20040601-0922`._
@@ -22,7 +29,7 @@ Lines: +4 -4.
 Subject: `update(forskrift): produktforskriften`
 Commit: `8b8068c`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delv-ikrafttr-industrielt-rettsvern"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delv-ikrafttr-industrielt-rettsvern — Change history
 
 _1 events; doc_id `sf-19960329-0307`._

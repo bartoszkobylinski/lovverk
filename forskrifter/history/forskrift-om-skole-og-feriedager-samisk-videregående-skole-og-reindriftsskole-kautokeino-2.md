@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-skole-og-feriedager-samisk-videregående-skole-og-reindriftsskole-kautokeino-2"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-skole-og-feriedager-samisk-videregående-skole-og-reindriftsskole-kautokeino-2 — Change history
 
 _2 events; doc_id `sf-20260609-1072`._

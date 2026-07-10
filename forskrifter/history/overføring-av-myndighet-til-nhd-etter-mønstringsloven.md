@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overføring-av-myndighet-til-nhd-etter-mønstringsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overføring-av-myndighet-til-nhd-etter-mønstringsloven — Change history
 
 _1 events; doc_id `sf-19881125-0939`._

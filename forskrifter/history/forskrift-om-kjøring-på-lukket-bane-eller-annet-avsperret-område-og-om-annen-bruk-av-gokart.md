@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-kjøring-på-lukket-bane-eller-annet-avsperret-område-og-om-annen-bruk-av-gokart"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-kjøring-på-lukket-bane-eller-annet-avsperret-område-og-om-annen-bruk-av-gokart — Change history
 
-_2 events; doc_id `sf-20210618-2127`._
+_3 events; doc_id `sf-20210618-2127`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20210618-2127.md` → `"forskrifter/forskrift-om-kj\303\270ring-p\303\245-lukket-bane-eller-annet-avsperret-omr\303\245de-og-om-annen-bruk-av-gokart.md"`.
+Renamed: `forskrifter/sf-20210618-2127.md` → `forskrifter/forskrift-om-kjøring-på-lukket-bane-eller-annet-avsperret-område-og-om-annen-bruk-av-gokart.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "regnskapsførerloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # regnskapsførerloven — Change history
 
 _6 events; doc_id `nl-20221216-090`._
@@ -17,13 +24,13 @@ Lines: +6 -2.
 Subject: `update(lov): regnskapsførerloven`
 Commit: `9274c08`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `lover/nl-20221216-090.md` → `"lover/regnskapsf\303\270rerloven.md"`.
+Renamed: `lover/nl-20221216-090.md` → `lover/regnskapsførerloven.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

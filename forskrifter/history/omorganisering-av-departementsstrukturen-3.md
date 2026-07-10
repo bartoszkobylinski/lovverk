@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "omorganisering-av-departementsstrukturen-3"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # omorganisering-av-departementsstrukturen-3 — Change history
 
 _1 events; doc_id `sf-20011221-1485`._

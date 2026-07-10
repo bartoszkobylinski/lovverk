@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtak-etter-merverdiavgiftsloven-19-3-momarkedet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtak-etter-merverdiavgiftsloven-19-3-momarkedet — Change history
 
 _1 events; doc_id `sf-20120703-1480`._

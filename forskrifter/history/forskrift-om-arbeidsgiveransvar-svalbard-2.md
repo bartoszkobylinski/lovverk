@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "forskrift-om-arbeidsgiveransvar-svalbard-2"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-arbeidsgiveransvar-svalbard-2 — Change history
 
-_2 events; doc_id `sf-19291011-3280`._
+_3 events; doc_id `sf-19291011-3280`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-19291011-3280.md` → `forskrifter/forskrift-om-arbeidsgiveransvar-svalbard-2.md`.

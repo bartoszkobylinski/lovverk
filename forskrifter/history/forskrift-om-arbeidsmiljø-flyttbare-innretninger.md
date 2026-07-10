@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-arbeidsmiljø-flyttbare-innretninger"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-arbeidsmiljø-flyttbare-innretninger — Change history
 
-_2 events; doc_id `sf-19870904-0859`._
+_3 events; doc_id `sf-19870904-0859`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-19870904-0859.md` → `"forskrifter/forskrift-om-arbeidsmilj\303\270-flyttbare-innretninger.md"`.
+Renamed: `forskrifter/sf-19870904-0859.md` → `forskrifter/forskrift-om-arbeidsmiljø-flyttbare-innretninger.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

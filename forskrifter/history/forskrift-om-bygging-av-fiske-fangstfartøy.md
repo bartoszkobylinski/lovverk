@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-bygging-av-fiske-fangstfartøy"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-bygging-av-fiske-fangstfartøy — Change history
 
-_2 events; doc_id `sf-19830107-0012`._
+_3 events; doc_id `sf-19830107-0012`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-19830107-0012.md` → `"forskrifter/forskrift-om-bygging-av-fiske-fangstfart\303\270y.md"`.
+Renamed: `forskrifter/sf-19830107-0012.md` → `forskrifter/forskrift-om-bygging-av-fiske-fangstfartøy.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

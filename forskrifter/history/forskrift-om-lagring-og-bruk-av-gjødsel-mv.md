@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-lagring-og-bruk-av-gjødsel-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-lagring-og-bruk-av-gjødsel-mv — Change history
 
 _4 events; doc_id `sf-20250129-0115`._
@@ -7,13 +14,13 @@ Lines: +23 -11.
 Subject: `update(forskrift): forskrift-om-lagring-og-bruk-av-gjødsel-mv`
 Commit: `d415c20`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20250129-0115.md` → `"forskrifter/forskrift-om-lagring-og-bruk-av-gj\303\270dsel-mv.md"`.
+Renamed: `forskrifter/sf-20250129-0115.md` → `forskrifter/forskrift-om-lagring-og-bruk-av-gjødsel-mv.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

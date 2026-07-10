@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "merverdiavgiftsloven-6-37-og-7-10-lockheed-martin-vedtak-om-fritak-fra-merverdiavgift-for-omsetning-og-innførsel-tilknyttet-vedlikeholdsprogrammet-for-våpensystemet-f-35"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # merverdiavgiftsloven-6-37-og-7-10-lockheed-martin-vedtak-om-fritak-fra-merverdiavgift-for-omsetning-og-innførsel-tilknyttet-vedlikeholdsprogrammet-for-våpensystemet-f-35 — Change history
 
 _1 events; doc_id `sf-20170130-0104`._

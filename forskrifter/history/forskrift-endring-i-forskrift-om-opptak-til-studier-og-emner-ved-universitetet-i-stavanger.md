@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-endring-i-forskrift-om-opptak-til-studier-og-emner-ved-universitetet-i-stavanger"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-endring-i-forskrift-om-opptak-til-studier-og-emner-ved-universitetet-i-stavanger — Change history
 
 _1 events; doc_id `sf-20260519-1415`._

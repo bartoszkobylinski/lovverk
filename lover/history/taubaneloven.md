@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "taubaneloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # taubaneloven — Change history
 
 _4 events; doc_id `nl-20170522-029`._
@@ -7,7 +14,7 @@ Lines: +5 -5.
 Subject: `update(lov): taubaneloven`
 Commit: `5a646dc`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

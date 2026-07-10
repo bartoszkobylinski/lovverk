@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "svalbardloven-svalbl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # svalbardloven-svalbl — Change history
 
 _5 events; doc_id `nl-19250717-011`._
@@ -12,7 +19,7 @@ Lines: +3 -3.
 Subject: `update(lov): svalbardloven-svalbl`
 Commit: `6203c1d`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

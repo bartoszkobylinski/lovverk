@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "lov-om-registrering-av-råoljehandel-råolregl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # lov-om-registrering-av-råoljehandel-råolregl — Change history
 
-_2 events; doc_id `nl-19990625-054`._
+_3 events; doc_id `nl-19990625-054`._
+
+## 2026-04-29 — Content updated
+Lines: +3 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `lover/nl-19990625-054.md` → `"lover/lov-om-registrering-av-r\303\245oljehandel-r\303\245olregl.md"`.
+Renamed: `lover/nl-19990625-054.md` → `lover/lov-om-registrering-av-råoljehandel-råolregl.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

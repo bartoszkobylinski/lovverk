@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "instruks-for-regjeringsadvokaten"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # instruks-for-regjeringsadvokaten — Change history
 
 _1 events; doc_id `sf-19620509-0001`._

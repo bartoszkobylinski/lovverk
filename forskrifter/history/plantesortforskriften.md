@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "plantesortforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # plantesortforskriften — Change history
 
 _5 events; doc_id `sf-19991001-1069`._
@@ -12,7 +19,7 @@ Lines: +3 -3.
 Subject: `update(forskrift): plantesortforskriften`
 Commit: `95f9fcd`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

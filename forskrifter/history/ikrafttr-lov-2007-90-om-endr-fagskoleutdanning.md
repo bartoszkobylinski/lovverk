@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ikrafttr-lov-2007-90-om-endr-fagskoleutdanning"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ikrafttr-lov-2007-90-om-endr-fagskoleutdanning — Change history
 
 _1 events; doc_id `sf-20070629-0759`._

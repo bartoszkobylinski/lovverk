@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-om-utenlandsk-vigsel"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-om-utenlandsk-vigsel — Change history
 
 _1 events; doc_id `sf-19601216-0002`._

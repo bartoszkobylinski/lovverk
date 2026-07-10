@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "dora-loven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # dora-loven — Change history
 
 _6 events; doc_id `nl-20250527-018`._
@@ -17,7 +24,7 @@ Lines: +6 -2.
 Subject: `update(lov): dora-loven`
 Commit: `478ea94`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +4 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

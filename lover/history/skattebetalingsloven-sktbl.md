@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "skattebetalingsloven-sktbl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # skattebetalingsloven-sktbl — Change history
 
 _6 events; doc_id `nl-20050617-067`._
@@ -17,7 +24,7 @@ Lines: +27 -13.
 Subject: `update(lov): skattebetalingsloven-sktbl`
 Commit: `5509a71`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

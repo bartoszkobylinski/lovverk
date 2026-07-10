@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "forskrift-om-videretransport-av-fisk"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-videretransport-av-fisk — Change history
 
-_2 events; doc_id `sf-20060421-0433`._
+_3 events; doc_id `sf-20060421-0433`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20060421-0433.md` → `forskrifter/forskrift-om-videretransport-av-fisk.md`.

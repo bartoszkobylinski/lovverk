@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-grenser-for-krigshavnsområder"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-grenser-for-krigshavnsområder — Change history
 
-_2 events; doc_id `sf-19500217-3575`._
+_3 events; doc_id `sf-19500217-3575`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-19500217-3575.md` → `"forskrifter/forskrift-om-grenser-for-krigshavnsomr\303\245der.md"`.
+Renamed: `forskrifter/sf-19500217-3575.md` → `forskrifter/forskrift-om-grenser-for-krigshavnsområder.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

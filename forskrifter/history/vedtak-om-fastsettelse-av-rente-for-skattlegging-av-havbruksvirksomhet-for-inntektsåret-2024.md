@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "vedtak-om-fastsettelse-av-rente-for-skattlegging-av-havbruksvirksomhet-for-inntektsåret-2024"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtak-om-fastsettelse-av-rente-for-skattlegging-av-havbruksvirksomhet-for-inntektsåret-2024 — Change history
 
-_2 events; doc_id `sf-20250124-0066`._
+_3 events; doc_id `sf-20250124-0066`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20250124-0066.md` → `"forskrifter/vedtak-om-fastsettelse-av-rente-for-skattlegging-av-havbruksvirksomhet-for-inntekts\303\245ret-2024.md"`.
+Renamed: `forskrifter/sf-20250124-0066.md` → `forskrifter/vedtak-om-fastsettelse-av-rente-for-skattlegging-av-havbruksvirksomhet-for-inntektsåret-2024.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

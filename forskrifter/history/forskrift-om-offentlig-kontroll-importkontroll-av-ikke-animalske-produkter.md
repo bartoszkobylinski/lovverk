@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-offentlig-kontroll-importkontroll-av-ikke-animalske-produkter"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-offentlig-kontroll-importkontroll-av-ikke-animalske-produkter — Change history
 
 _6 events; doc_id `sf-20200309-0717`._
@@ -17,7 +24,7 @@ Lines: +5 -3.
 Subject: `update(forskrift): forskrift-om-offentlig-kontroll-importkontroll-av-ikke-animalske-produkter`
 Commit: `20d6cdd`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

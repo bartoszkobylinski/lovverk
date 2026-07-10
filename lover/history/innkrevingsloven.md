@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "innkrevingsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # innkrevingsloven — Change history
 
 _6 events; doc_id `nl-20250425-012`._
@@ -17,7 +24,7 @@ Lines: +4 -2.
 Subject: `update(lov): innkrevingsloven`
 Commit: `9630b90`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

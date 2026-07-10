@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endr-i-opplæringsforskrifta-og-privatskoleforskrifta"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endr-i-opplæringsforskrifta-og-privatskoleforskrifta — Change history
 
 _4 events; doc_id `sf-20260218-0235`._
@@ -7,13 +14,13 @@ Lines: +0 -49.
 Subject: `sync: 2 new, 20 changed, 30 renamed, 373 removed`
 Commit: `5511aa4`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20250907-1787.md` → `"forskrifter/endr-i-oppl\303\246ringsforskrifta-og-privatskoleforskrifta.md"`.
+Renamed: `forskrifter/sf-20250907-1787.md` → `forskrifter/endr-i-opplæringsforskrifta-og-privatskoleforskrifta.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

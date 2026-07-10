@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "nettinntektsforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # nettinntektsforskriften — Change history
 
 _4 events; doc_id `sf-20250114-0050`._
@@ -7,7 +14,7 @@ Lines: +4 -2.
 Subject: `update(forskrift): nettinntektsforskriften`
 Commit: `8648c97`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

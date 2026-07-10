@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overføring-av-ansvarsområder-del-av-myndighet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overføring-av-ansvarsområder-del-av-myndighet — Change history
 
 _1 events; doc_id `sf-20001215-1263`._

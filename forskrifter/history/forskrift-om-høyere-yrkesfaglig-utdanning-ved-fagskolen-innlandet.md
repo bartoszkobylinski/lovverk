@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-høyere-yrkesfaglig-utdanning-ved-fagskolen-innlandet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-høyere-yrkesfaglig-utdanning-ved-fagskolen-innlandet — Change history
 
-_2 events; doc_id `sf-20231204-2342`._
+_3 events; doc_id `sf-20231204-2342`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20231204-2342.md` → `"forskrifter/forskrift-om-h\303\270yere-yrkesfaglig-utdanning-ved-fagskolen-innlandet.md"`.
+Renamed: `forskrifter/sf-20231204-2342.md` → `forskrifter/forskrift-om-høyere-yrkesfaglig-utdanning-ved-fagskolen-innlandet.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

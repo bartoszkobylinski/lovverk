@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "endringslov-til-veglova-mv-overføring-av-fylkesveiadministrasjon"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endringslov-til-veglova-mv-overføring-av-fylkesveiadministrasjon — Change history
 
-_2 events; doc_id `nl-20190621-068`._
+_3 events; doc_id `nl-20190621-068`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `lover/nl-20190621-068.md` → `"lover/endringslov-til-veglova-mv-overf\303\270ring-av-fylkesveiadministrasjon.md"`.
+Renamed: `lover/nl-20190621-068.md` → `lover/endringslov-til-veglova-mv-overføring-av-fylkesveiadministrasjon.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

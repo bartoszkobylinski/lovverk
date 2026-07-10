@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "avtaleloven-avtl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # avtaleloven-avtl — Change history
 
 _4 events; doc_id `nl-19180531-004`._
@@ -7,7 +14,7 @@ Lines: +6 -6.
 Subject: `update(lov): avtaleloven-avtl`
 Commit: `6c7c1a9`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +3 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

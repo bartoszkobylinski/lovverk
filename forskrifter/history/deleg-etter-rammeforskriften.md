@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-etter-rammeforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-etter-rammeforskriften — Change history
 
 _1 events; doc_id `sf-20110922-0966`._

@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "forskrift-for-graden-philosophiae-doctor-ved-universitetet-i-agder"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-for-graden-philosophiae-doctor-ved-universitetet-i-agder — Change history
 
-_2 events; doc_id `sf-20220201-1149`._
+_3 events; doc_id `sf-20220201-1149`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20220201-1149.md` → `forskrifter/forskrift-for-graden-philosophiae-doctor-ved-universitetet-i-agder.md`.

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "samvirkelova"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # samvirkelova — Change history
 
 _5 events; doc_id `nl-20070629-081`._
@@ -12,7 +19,7 @@ Lines: +8 -4.
 Subject: `update(lov): samvirkelova`
 Commit: `ab51ba6`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

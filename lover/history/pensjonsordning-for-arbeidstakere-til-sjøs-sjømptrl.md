@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "pensjonsordning-for-arbeidstakere-til-sjøs-sjømptrl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # pensjonsordning-for-arbeidstakere-til-sjøs-sjømptrl — Change history
 
-_2 events; doc_id `nl-19481203-007`._
+_3 events; doc_id `nl-19481203-007`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `lover/nl-19481203-007.md` → `"lover/pensjonsordning-for-arbeidstakere-til-sj\303\270s-sj\303\270mptrl.md"`.
+Renamed: `lover/nl-19481203-007.md` → `lover/pensjonsordning-for-arbeidstakere-til-sjøs-sjømptrl.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

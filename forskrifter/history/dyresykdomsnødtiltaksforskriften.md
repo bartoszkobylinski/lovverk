@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "dyresykdomsnødtiltaksforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # dyresykdomsnødtiltaksforskriften — Change history
 
-_2 events; doc_id `sf-20210505-1407`._
+_3 events; doc_id `sf-20210505-1407`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20210505-1407.md` → `"forskrifter/dyresykdomsn\303\270dtiltaksforskriften.md"`.
+Renamed: `forskrifter/sf-20210505-1407.md` → `forskrifter/dyresykdomsnødtiltaksforskriften.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

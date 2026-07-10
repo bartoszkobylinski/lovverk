@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "dataforvaltningsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # dataforvaltningsloven — Change history
 
 _1 events; doc_id `nl-20260619-036`._

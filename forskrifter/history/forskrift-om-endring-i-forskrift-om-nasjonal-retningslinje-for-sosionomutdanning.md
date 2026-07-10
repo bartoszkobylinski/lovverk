@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-nasjonal-retningslinje-for-sosionomutdanning"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-nasjonal-retningslinje-for-sosionomutdanning — Change history
 
 _1 events; doc_id `sf-20260619-1209`._

@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "lov-om-informasjonstilgang-m-m-for-koronautvalget-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # lov-om-informasjonstilgang-m-m-for-koronautvalget-mv — Change history
 
-_2 events; doc_id `nl-20221220-118`._
+_3 events; doc_id `nl-20221220-118`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `lover/nl-20221220-118.md` → `lover/lov-om-informasjonstilgang-m-m-for-koronautvalget-mv.md`.

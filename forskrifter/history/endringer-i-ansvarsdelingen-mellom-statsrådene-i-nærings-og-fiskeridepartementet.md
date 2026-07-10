@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endringer-i-ansvarsdelingen-mellom-statsrådene-i-nærings-og-fiskeridepartementet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endringer-i-ansvarsdelingen-mellom-statsrådene-i-nærings-og-fiskeridepartementet — Change history
 
 _1 events; doc_id `sf-20211022-3073`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "psykisk-helsevernloven-phvl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # psykisk-helsevernloven-phvl — Change history
 
 _5 events; doc_id `nl-19990702-062`._
@@ -12,7 +19,7 @@ Lines: +47 -27.
 Subject: `update(lov): psykisk-helsevernloven-phvl`
 Commit: `ae7f52d`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

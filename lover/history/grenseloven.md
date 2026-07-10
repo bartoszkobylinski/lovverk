@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "grenseloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # grenseloven — Change history
 
 _7 events; doc_id `nl-20180420-008`._
@@ -22,7 +29,7 @@ Lines: +44 -6.
 Subject: `update(lov): grenseloven`
 Commit: `dad9419`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

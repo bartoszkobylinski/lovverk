@@ -2,13 +2,23 @@
   "doc_id": "sf-20191018-1385",
   "events": [
     {
+      "commit": "3d499af",
+      "date": "2026-04-29",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 1,
+      "subject": "migration: backfill eu_basis for 4523 documents",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "3dddeca",
       "date": "2026-04-27",
       "from_path": "forskrifter/sf-20191018-1385.md",
       "lines_added": 2,
       "lines_removed": 1,
       "subject": "migration: rename 4522 documents to slug-based filenames",
-      "to_path": "\"forskrifter/forskrift-om-forbud-mot-h\\303\\270sting-av-haneskjell-og-sj\\303\\270p\\303\\270lse.md\"",
+      "to_path": "forskrifter/forskrift-om-forbud-mot-høsting-av-haneskjell-og-sjøpølse.md",
       "type": "renamed"
     },
     {

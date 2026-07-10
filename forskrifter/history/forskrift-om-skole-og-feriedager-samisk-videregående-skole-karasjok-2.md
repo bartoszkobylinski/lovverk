@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-skole-og-feriedager-samisk-videregående-skole-karasjok-2"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-skole-og-feriedager-samisk-videregående-skole-karasjok-2 — Change history
 
 _1 events; doc_id `sf-20260609-1029`._

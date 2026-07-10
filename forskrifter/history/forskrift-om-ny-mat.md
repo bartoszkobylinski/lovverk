@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-ny-mat"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-ny-mat — Change history
 
 _4 events; doc_id `sf-20170725-1215`._
@@ -7,7 +14,7 @@ Lines: +10 -7.
 Subject: `update(forskrift): forskrift-om-ny-mat`
 Commit: `fdbe8c6`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

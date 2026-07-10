@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "lov-om-ledsagerpensjon-i-utenrikstjenesten"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # lov-om-ledsagerpensjon-i-utenrikstjenesten — Change history
 
-_2 events; doc_id `nl-19990115-001`._
+_3 events; doc_id `nl-19990115-001`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `lover/nl-19990115-001.md` → `lover/lov-om-ledsagerpensjon-i-utenrikstjenesten.md`.

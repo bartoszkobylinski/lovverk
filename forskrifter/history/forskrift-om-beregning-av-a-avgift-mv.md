@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "forskrift-om-beregning-av-a-avgift-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-beregning-av-a-avgift-mv — Change history
 
-_2 events; doc_id `sf-19971202-1385`._
+_3 events; doc_id `sf-19971202-1385`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-19971202-1385.md` → `forskrifter/forskrift-om-beregning-av-a-avgift-mv.md`.

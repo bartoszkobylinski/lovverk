@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "justering-av-statsadvokatdistriktene"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # justering-av-statsadvokatdistriktene — Change history
 
 _1 events; doc_id `sf-20160930-1137`._

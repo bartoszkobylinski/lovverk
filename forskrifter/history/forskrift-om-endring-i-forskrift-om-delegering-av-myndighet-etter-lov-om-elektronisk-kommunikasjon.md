@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-endring-i-forskrift-om-delegering-av-myndighet-etter-lov-om-elektronisk-kommunikasjon"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-endring-i-forskrift-om-delegering-av-myndighet-etter-lov-om-elektronisk-kommunikasjon — Change history
 
 _1 events; doc_id `sf-20251223-2896`._

@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-påvirkning-av-andre-rusmidler-enn-alkohol"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-påvirkning-av-andre-rusmidler-enn-alkohol — Change history
 
-_2 events; doc_id `sf-20120120-0085`._
+_3 events; doc_id `sf-20120120-0085`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20120120-0085.md` → `"forskrifter/forskrift-om-p\303\245virkning-av-andre-rusmidler-enn-alkohol.md"`.
+Renamed: `forskrifter/sf-20120120-0085.md` → `forskrifter/forskrift-om-påvirkning-av-andre-rusmidler-enn-alkohol.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

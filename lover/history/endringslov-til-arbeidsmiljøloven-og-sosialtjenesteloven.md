@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "endringslov-til-arbeidsmiljøloven-og-sosialtjenesteloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endringslov-til-arbeidsmiljøloven-og-sosialtjenesteloven — Change history
 
-_2 events; doc_id `nl-20150424-020`._
+_3 events; doc_id `nl-20150424-020`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `lover/nl-20150424-020.md` → `"lover/endringslov-til-arbeidsmilj\303\270loven-og-sosialtjenesteloven.md"`.
+Renamed: `lover/nl-20150424-020.md` → `lover/endringslov-til-arbeidsmiljøloven-og-sosialtjenesteloven.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

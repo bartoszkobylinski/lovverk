@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "abortloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # abortloven — Change history
 
 _4 events; doc_id `nl-20241220-096`._
@@ -7,7 +14,7 @@ Lines: +6 -6.
 Subject: `sync: 8 new, 220 changed, 3 renamed, 77 removed`
 Commit: `2032c09`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

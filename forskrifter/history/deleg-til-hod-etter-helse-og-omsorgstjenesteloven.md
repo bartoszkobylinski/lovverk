@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-hod-etter-helse-og-omsorgstjenesteloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-hod-etter-helse-og-omsorgstjenesteloven — Change history
 
 _1 events; doc_id `sf-20111216-1253`._

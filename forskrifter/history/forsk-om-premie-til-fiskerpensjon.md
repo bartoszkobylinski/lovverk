@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "forsk-om-premie-til-fiskerpensjon"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forsk-om-premie-til-fiskerpensjon — Change history
 
-_2 events; doc_id `sf-19701230-9395`._
+_3 events; doc_id `sf-19701230-9395`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-19701230-9395.md` → `forskrifter/forsk-om-premie-til-fiskerpensjon.md`.

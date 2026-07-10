@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "allmennaksjeloven-asal"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # allmennaksjeloven-asal — Change history
 
 _4 events; doc_id `nl-19970613-045`._
@@ -7,7 +14,7 @@ Lines: +9 -5.
 Subject: `update(lov): allmennaksjeloven-asal`
 Commit: `6326bce`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-melde-og-rapporteringsplikt-til-sjøs"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-melde-og-rapporteringsplikt-til-sjøs — Change history
 
-_2 events; doc_id `sf-20080627-0744`._
+_3 events; doc_id `sf-20080627-0744`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20080627-0744.md` → `"forskrifter/forskrift-om-melde-og-rapporteringsplikt-til-sj\303\270s.md"`.
+Renamed: `forskrifter/sf-20080627-0744.md` → `forskrifter/forskrift-om-melde-og-rapporteringsplikt-til-sjøs.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

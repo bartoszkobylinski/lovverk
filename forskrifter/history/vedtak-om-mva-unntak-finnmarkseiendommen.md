@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtak-om-mva-unntak-finnmarkseiendommen"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtak-om-mva-unntak-finnmarkseiendommen — Change history
 
 _1 events; doc_id `sf-20110608-0579`._

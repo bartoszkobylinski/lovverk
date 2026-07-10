@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "rekonstruksjonsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # rekonstruksjonsloven — Change history
 
 _5 events; doc_id `nl-20200507-038`._
@@ -12,7 +19,7 @@ Lines: +4 -6.
 Subject: `update(lov): rekonstruksjonsloven`
 Commit: `a4def7e`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

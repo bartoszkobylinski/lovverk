@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "instruks-om-sikkerhetstjeneste-i-forsvarssektoren"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # instruks-om-sikkerhetstjeneste-i-forsvarssektoren — Change history
 
 _1 events; doc_id `sf-20180703-2337`._

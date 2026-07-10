@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "petroleumsloven-petrl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # petroleumsloven-petrl — Change history
 
 _4 events; doc_id `nl-19961129-072`._
@@ -7,7 +14,7 @@ Lines: +7 -3.
 Subject: `update(lov): petroleumsloven-petrl`
 Commit: `f61e48b`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +4 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

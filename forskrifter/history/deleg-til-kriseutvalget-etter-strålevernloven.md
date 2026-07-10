@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-kriseutvalget-etter-strålevernloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-kriseutvalget-etter-strålevernloven — Change history
 
 _1 events; doc_id `sf-20130823-1024`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-kkd-etter-kringkastingsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-kkd-etter-kringkastingsloven — Change history
 
 _1 events; doc_id `sf-20010706-0823`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "straffeprosessloven-strpl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # straffeprosessloven-strpl — Change history
 
 _8 events; doc_id `nl-19810522-025`._
@@ -27,7 +34,7 @@ Lines: +3 -3.
 Subject: `update(lov): straffeprosessloven-strpl`
 Commit: `6bbde93`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

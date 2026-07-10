@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "straffegjennomføringsloven-strgjfl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # straffegjennomføringsloven-strgjfl — Change history
 
 _4 events; doc_id `nl-20010518-021`._
@@ -7,13 +14,13 @@ Lines: +54 -10.
 Subject: `update(lov): straffegjennomføringsloven-strgjfl`
 Commit: `079c38d`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `lover/nl-20010518-021.md` → `"lover/straffegjennomf\303\270ringsloven-strgjfl.md"`.
+Renamed: `lover/nl-20010518-021.md` → `lover/straffegjennomføringsloven-strgjfl.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

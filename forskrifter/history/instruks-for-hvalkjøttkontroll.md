@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "instruks-for-hvalkjøttkontroll"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # instruks-for-hvalkjøttkontroll — Change history
 
 _1 events; doc_id `sf-20030508-0594`._

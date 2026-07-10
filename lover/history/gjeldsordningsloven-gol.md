@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "gjeldsordningsloven-gol"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # gjeldsordningsloven-gol — Change history
 
 _6 events; doc_id `nl-19920717-099`._
@@ -17,7 +24,7 @@ Lines: +29 -27.
 Subject: `update(lov): gjeldsordningsloven-gol`
 Commit: `537b481`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

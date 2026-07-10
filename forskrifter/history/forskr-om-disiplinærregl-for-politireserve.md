@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskr-om-disiplinærregl-for-politireserve"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskr-om-disiplinærregl-for-politireserve — Change history
 
 _1 events; doc_id `sf-19530731-0001`._

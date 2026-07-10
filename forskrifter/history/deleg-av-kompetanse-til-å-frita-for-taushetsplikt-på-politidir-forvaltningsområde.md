@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-kompetanse-til-å-frita-for-taushetsplikt-på-politidir-forvaltningsområde"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-kompetanse-til-å-frita-for-taushetsplikt-på-politidir-forvaltningsområde — Change history
 
 _1 events; doc_id `sf-20190618-1118`._

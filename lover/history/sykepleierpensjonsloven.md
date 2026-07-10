@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "sykepleierpensjonsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # sykepleierpensjonsloven — Change history
 
 _6 events; doc_id `nl-19620622-012`._
@@ -17,7 +24,7 @@ Lines: +5 -5.
 Subject: `update(lov): sykepleierpensjonsloven`
 Commit: `728048a`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

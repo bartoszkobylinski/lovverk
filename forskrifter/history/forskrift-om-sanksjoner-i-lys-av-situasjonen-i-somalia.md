@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "forskrift-om-sanksjoner-i-lys-av-situasjonen-i-somalia"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-sanksjoner-i-lys-av-situasjonen-i-somalia — Change history
 
-_2 events; doc_id `sf-19920207-0077`._
+_3 events; doc_id `sf-19920207-0077`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-19920207-0077.md` → `forskrifter/forskrift-om-sanksjoner-i-lys-av-situasjonen-i-somalia.md`.

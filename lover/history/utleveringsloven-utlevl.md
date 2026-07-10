@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "utleveringsloven-utlevl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # utleveringsloven-utlevl — Change history
 
 _7 events; doc_id `nl-19750613-039`._
@@ -22,7 +29,7 @@ Lines: +21 -11.
 Subject: `update(lov): utleveringsloven-utlevl`
 Commit: `b41ef04`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

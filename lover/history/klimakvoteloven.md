@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "klimakvoteloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # klimakvoteloven — Change history
 
 _4 events; doc_id `nl-20041217-099`._
@@ -7,7 +14,7 @@ Lines: +12 -12.
 Subject: `update(lov): klimakvoteloven`
 Commit: `2704a59`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +5 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

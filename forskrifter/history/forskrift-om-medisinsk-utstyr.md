@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-medisinsk-utstyr"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-medisinsk-utstyr — Change history
 
 _6 events; doc_id `sf-20210509-1476`._
@@ -17,7 +24,7 @@ Lines: +5 -5.
 Subject: `update(forskrift): forskrift-om-medisinsk-utstyr`
 Commit: `6be3a30`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.
