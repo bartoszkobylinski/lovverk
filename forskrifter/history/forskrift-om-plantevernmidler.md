@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-plantevernmidler"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-plantevernmidler — Change history
 
 _5 events; doc_id `sf-20150506-0455`._
@@ -12,7 +19,7 @@ Lines: +14 -8.
 Subject: `update(forskrift): forskrift-om-plantevernmidler`
 Commit: `09e2e1c`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

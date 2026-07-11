@@ -1,13 +1,25 @@
+---
+type: "history"
+slug: "forskrift-om-kosmetikk-og-kroppspleieprodukter"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-kosmetikk-og-kroppspleieprodukter — Change history
 
-_4 events; doc_id `sf-20130408-0391`._
+_5 events; doc_id `sf-20130408-0391`._
+
+## 2026-07-11 — Content updated
+Lines: +33978 -167.
+Subject: `update(forskrift): forskrift-om-kosmetikk-og-kroppspleieprodukter`
+Commit: `0973175`.
 
 ## 2026-07-01 — Content updated
 Lines: +2 -2.
 Subject: `sync: 8 new, 220 changed, 3 renamed, 77 removed`
 Commit: `2032c09`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

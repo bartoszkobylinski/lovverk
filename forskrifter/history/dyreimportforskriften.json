@@ -2,6 +2,16 @@
   "doc_id": "sf-20220406-0633",
   "events": [
     {
+      "commit": "216c342",
+      "date": "2026-07-11",
+      "from_path": null,
+      "lines_added": 1987,
+      "lines_removed": 382,
+      "subject": "update(forskrift): dyreimportforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "d39d154",
       "date": "2026-07-02",
       "from_path": null,
@@ -109,7 +119,7 @@
       "lines_removed": 1,
       "subject": "migration: backfill eu_basis for 4523 documents",
       "to_path": null,
-      "type": "renamed"
+      "type": "updated"
     },
     {
       "commit": "c0351b3",

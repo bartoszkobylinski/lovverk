@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "forskrift-om-offentlig-kontroll-krav-til-transporten-ved-import-og-transitt-forordning-eu-2019-1666-forordning-eu-2019-2124-og-forordning-eu-2019-2128"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-offentlig-kontroll-krav-til-transporten-ved-import-og-transitt-forordning-eu-2019-1666-forordning-eu-2019-2124-og-forordning-eu-2019-2128 — Change history
 
-_2 events; doc_id `sf-20200309-0711`._
+_3 events; doc_id `sf-20200309-0711`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20200309-0711.md` → `forskrifter/forskrift-om-offentlig-kontroll-krav-til-transporten-ved-import-og-transitt-forordning-eu-2019-1666-forordning-eu-2019-2124-og-forordning-eu-2019-2128.md`.

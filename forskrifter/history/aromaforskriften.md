@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "aromaforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # aromaforskriften — Change history
 
 _4 events; doc_id `sf-20110606-0669`._
@@ -7,7 +14,7 @@ Lines: +10 -8.
 Subject: `update(forskrift): aromaforskriften`
 Commit: `6ab2b60`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

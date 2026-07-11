@@ -2,6 +2,16 @@
   "doc_id": "sf-20130408-0391",
   "events": [
     {
+      "commit": "0973175",
+      "date": "2026-07-11",
+      "from_path": null,
+      "lines_added": 33978,
+      "lines_removed": 167,
+      "subject": "update(forskrift): forskrift-om-kosmetikk-og-kroppspleieprodukter",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "2032c09",
       "date": "2026-07-01",
       "from_path": null,
@@ -19,7 +29,7 @@
       "lines_removed": 1,
       "subject": "migration: backfill eu_basis for 4523 documents",
       "to_path": null,
-      "type": "renamed"
+      "type": "updated"
     },
     {
       "commit": "3dddeca",

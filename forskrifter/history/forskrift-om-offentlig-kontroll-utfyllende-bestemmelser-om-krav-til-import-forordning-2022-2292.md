@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "forskrift-om-offentlig-kontroll-utfyllende-bestemmelser-om-krav-til-import-forordning-2022-2292"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-offentlig-kontroll-utfyllende-bestemmelser-om-krav-til-import-forordning-2022-2292 — Change history
 
-_2 events; doc_id `sf-20231227-2337`._
+_3 events; doc_id `sf-20231227-2337`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20231227-2337.md` → `forskrifter/forskrift-om-offentlig-kontroll-utfyllende-bestemmelser-om-krav-til-import-forordning-2022-2292.md`.

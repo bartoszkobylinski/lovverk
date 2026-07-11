@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "dyreimportforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # dyreimportforskriften — Change history
 
-_14 events; doc_id `sf-20220406-0633`._
+_15 events; doc_id `sf-20220406-0633`._
+
+## 2026-07-11 — Content updated
+Lines: +1987 -382.
+Subject: `update(forskrift): dyreimportforskriften`
+Commit: `216c342`.
 
 ## 2026-07-02 — Content updated
 Lines: +13 -7.
@@ -52,7 +64,7 @@ Lines: +14 -74.
 Subject: `update(forskrift): dyreimportforskriften`
 Commit: `8e32186`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.
