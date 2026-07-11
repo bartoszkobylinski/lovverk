@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2026-01-01"
-last_change_in_force: "2026-06-16"
+last_change_in_force: "2026-07-08"
 last_updated: null
-xml_hash: "715abcfda15337478fd0ec7d73244bedf393d16efc889b06492c9d80c147ff7f"
+xml_hash: "961a852a7c158406b43af963fe496c7caa35e1bd97e8a79bfe2593b05c3fba9e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-18T08:43:09.372724+00:00"
+retrieved_at: "2026-07-11T06:10:43.704935+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -32,29 +32,31 @@ Det er forbudt for norske fartøy å fiske og lande makrell i 2026.
 
 Uten hinder av forbudet i [§ 1](forskrift/2025-12-19-2821/§1) kan norske fartøy med adgang til å delta, fiske og lande inntil 81 375 tonn makrell i Norges territorialfarvann, Norges økonomiske sone, fiskerisonen ved Jan Mayen, fiskevernsonen ved Svalbard og i internasjonalt farvann. Av dette kvantumet avsettes 955 tonn til forsknings- og undervisningskvoter, 1 300 tonn til agn og 323 tonn til rekrutteringskvoter for fartøy i lukket kystgruppe og 200 tonn til rekrutteringskvoter for fartøy i åpen kystgruppe.
 
-Av totalkvoten kan 33 154 tonn fiskes i Storbritannias økonomiske sone.
+Av totalkvoten kan 47 363 tonn fiskes i Storbritannias økonomiske sone.
 
 Fiskeridirektoratet kan differensiere kvoter fastsatt i forskriften for fiske i Færøyenes fiskerisone.
 
-> Endret ved forskrift [13 mai 2026 nr. 866](forskrift/2026-05-13-866).
+> Endret ved forskrifter [13 mai 2026 nr. 866](forskrift/2026-05-13-866), [8 juli 2026 nr. 1530](forskrift/2026-07-08-1530).
 
 ### § 3. Gruppekvoter for ringnotfartøy
 
-Fartøy med ringnottillatelse kan fiske og lande inntil 45 265 tonn makrell, hvorav 21 858 tonn kan fiskes i Storbritannias økonomiske sone.
+Fartøy med ringnottillatelse kan fiske og lande inntil 45 265 tonn makrell, hvorav 27 166 tonn kan fiskes i Storbritannias økonomiske sone.
 
-Små ringnotfartøy kan fiske og lande inntil 4 188 tonn makrell, hvorav 1 978 tonn kan fiskes i Storbritannias økonomiske sone.
+Små ringnotfartøy kan fiske og lande inntil 4 188 tonn makrell, hvorav 2 513 tonn kan fiskes i Storbritannias økonomiske sone.
 
-> Endret ved forskrifter [29 jan 2026 nr. 137](forskrift/2026-01-29-137), [13 mai 2026 nr. 866](forskrift/2026-05-13-866).
+> Endret ved forskrifter [29 jan 2026 nr. 137](forskrift/2026-01-29-137), [13 mai 2026 nr. 866](forskrift/2026-05-13-866), [8 juli 2026 nr. 1530](forskrift/2026-07-08-1530).
 
 ### § 4. Gruppekvote for trålfartøy
 
-Fartøy med makrelltråltillatelse kan fiske og lande inntil 3 144 tonn makrell til konsum, hvorav 1 318 tonn kan fiskes i Storbritannias økonomiske sone.
+Fartøy med makrelltråltillatelse kan fiske og lande inntil 3 144 tonn makrell til konsum, hvorav 1 887 tonn kan fiskes i Storbritannias økonomiske sone.
 
-> Endret ved forskrift [13 mai 2026 nr. 866](forskrift/2026-05-13-866).
+> Endret ved forskrifter [13 mai 2026 nr. 866](forskrift/2026-05-13-866), [8 juli 2026 nr. 1530](forskrift/2026-07-08-1530).
 
 ### § 5. Gruppekvoter for kystfartøy
 
-Fartøy med adgang til å delta i kystfartøygruppen og ikke-merkeregistrerte fartøy med adgang til å delta i fisket med landnot kan fiske og lande inntil 26 323 tonn makrell, hvorav:fartøy med adgang til å delta i lukket gruppe kan fiske og lande inntil 25 573 tonn, hvorav 8 000 tonn kan fiskes i Storbritannias økonomiske sone. Gruppekvoten inkluderer 323 tonn til rekrutteringsordningen.fartøy med adgang til å delta i åpen gruppe kan fiske og lande innenfor en avsetning på 650 tonn.Ikke-merkeregistrerte fartøy med adgang til å delta i fiske med landnot, kan fiske og lande inntil 100 tonn.
+Fartøy med adgang til å delta i kystfartøygruppen og ikke-merkeregistrerte fartøy med adgang til å delta i fisket med landnot kan fiske og lande inntil 26 323 tonn makrell, hvorav:fartøy med adgang til å delta i lukket gruppe kan fiske og lande inntil 25 573 tonn, hvorav 15 798 tonn kan fiskes i Storbritannias økonomiske sone. Gruppekvoten inkluderer 323 tonn til rekrutteringsordningen.fartøy med adgang til å delta i åpen gruppe kan fiske og lande innenfor en avsetning på 650 tonn.Ikke-merkeregistrerte fartøy med adgang til å delta i fiske med landnot, kan fiske og lande inntil 100 tonn.
+
+> Endret ved forskrift [8 juli 2026 nr. 1530](forskrift/2026-07-08-1530).
 
 ### § 6. Kvotefleksibilitet over årsskiftet på gruppenivå
 
@@ -87,11 +89,11 @@ For små ringnotfartøy med hjemmelslengde mellom 21,35 og 28 meter legges fasts
 
 Kvoten til det enkelte fartøyet beregnes ved å multiplisere fartøyets kvotefaktorer med en kvoteenhet fastsatt av Fiskeridirektoratet.
 
-Kvoteenheten for fartøy med ringnottillatelse er 1,0946 tonn. Av den totale fartøykvoten kan en maksimalkvote beregnet på grunnlag av en delkvoteenhet på 0,5290 tonn fiskes i Storbritannias økonomiske sone.
+Kvoteenheten for fartøy med ringnottillatelse er 1,0946 tonn. Av den totale fartøykvoten kan en maksimalkvote beregnet på grunnlag av en delkvoteenhet på 0,6339 tonn fiskes i Storbritannias økonomiske sone.
 
-Kvoteenheten for små ringnotfartøy er 0,8511 tonn. Av den totale fartøykvoten kan en maksimalkvote beregnet på grunnlag av en delkvoteenhet på 0,4907 tonn fiskes i Storbritannias økonomiske sone.
+Kvoteenheten for små ringnotfartøy er 0,8511 tonn. Av den totale fartøykvoten kan en maksimalkvote beregnet på grunnlag av en delkvoteenhet på 0,5986 tonn fiskes i Storbritannias økonomiske sone.
 
-> Endret ved forskrifter [29 jan 2026 nr. 137](forskrift/2026-01-29-137), [2 feb 2026 nr. 138](forskrift/2026-02-02-138), [13 mai 2026 nr. 866](forskrift/2026-05-13-866).
+> Endret ved forskrifter [29 jan 2026 nr. 137](forskrift/2026-01-29-137), [2 feb 2026 nr. 138](forskrift/2026-02-02-138), [13 mai 2026 nr. 866](forskrift/2026-05-13-866), [8 juli 2026 nr. 1530](forskrift/2026-07-08-1530).
 
 ### § 8. Kvotefleksibilitet over årsskiftet på fartøynivå
 
@@ -117,11 +119,11 @@ Ved beregning av fartøyets kvotefaktor gjelder tonnasje i henhold til Skipskont
 
 Kvoten til det enkelte fartøyet beregnes ved å multiplisere fartøyets kvotefaktorer med en kvoteenhet fastsatt av Fiskeridirektoratet.
 
-Kvoteenheten er 0,2572 tonn. Av den totale fartøykvoten kan en maksimalkvote beregnet på grunnlag av en delkvoteenhet på 0,1207 tonn fiskes i Storbritannias økonomiske sone.
+Kvoteenheten er 0,2572 tonn. Av den totale fartøykvoten kan en maksimalkvote beregnet på grunnlag av en delkvoteenhet på 0,1639 tonn fiskes i Storbritannias økonomiske sone.
 
 Fartøy med makrelltråltillatelse som deltar som ringnotfartøy eller som kystfartøy, kan ikke delta i trålgruppens fiske etter makrell.
 
-> Endret ved forskrifter [2 feb 2026 nr. 138](forskrift/2026-02-02-138), [13 mai 2026 nr. 866](forskrift/2026-05-13-866).
+> Endret ved forskrifter [2 feb 2026 nr. 138](forskrift/2026-02-02-138), [13 mai 2026 nr. 866](forskrift/2026-05-13-866), [8 juli 2026 nr. 1530](forskrift/2026-07-08-1530).
 
 ### § 10. Kvotefleksibilitet over årsskiftet på fartøynivå
 
@@ -154,9 +156,9 @@ Fartøy med adgang til å delta i lukket gruppe kan fiske og lande følgende kva
 | 18–21,35 | Garn og snøre | 2,8847 |  | 45,143 |
 | Not | 11,0682 |  | 173,206 |  |
 
-Kvoten til det enkelte fartøy beregnes ved å multiplisere fartøyets kvotefaktorer med en kvoteenhet. Kvoteenheten for beregning av fartøykvoten for fartøy med største lengde på eller over 15 meter og hjemmelslengde under 15 meter, samt fartøy med hjemmelslengde på eller over 15 meter, er 15,6489 tonn. Kvoteenheten for fartøy med største lengde og hjemmelslengde under 15 meter er 11,4715 tonn. Av den totale fartøykvoten kan en maksimalkvote beregnet på grunnlag av en delkvoteenhet på 4,8657 tonn fiskes i Storbritannias økonomiske sone.
+Kvoten til det enkelte fartøy beregnes ved å multiplisere fartøyets kvotefaktorer med en kvoteenhet. Kvoteenheten for beregning av fartøykvoten for fartøy med største lengde på eller over 15 meter og hjemmelslengde under 15 meter, samt fartøy med hjemmelslengde på eller over 15 meter, er 15,6489 tonn. Kvoteenheten for fartøy med største lengde og hjemmelslengde under 15 meter er 11,4715 tonn. Av den totale fartøykvoten kan en maksimalkvote beregnet på grunnlag av en delkvoteenhet på 14,5 tonn fiskes i Storbritannias økonomiske sone.
 
-> Endret ved forskrift [13 mai 2026 nr. 866](forskrift/2026-05-13-866).
+> Endret ved forskrifter [13 mai 2026 nr. 866](forskrift/2026-05-13-866), [8 juli 2026 nr. 1530](forskrift/2026-07-08-1530).
 
 ### § 13. Kvotefleksibilitet over årsskiftet på fartøynivå
 
