@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2022-04-28"
 last_change_in_force: "2023-11-10"
 last_updated: "2022-06-16"
-xml_hash: "ffec3508810ddb3fb23b32e944bdd862feb30c73ef56910cebee0a0c4132cfaa"
+xml_hash: "35de7c7d842b9e4d326bed1ef46502ea4c2e2ed51fd7968a0a0024d2c1562df0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-11T14:44:44.915821+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -142,12 +142,26 @@ For å gjøre det lett å finne frem til ordlyden i de forordningene som blir gj
 
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2020/686](eu/32020r0686). Dette er grunnrettsakten. Grunnrettsakten er endret ved forordning [(EU) 2021/880](eu/32021r0880) og forordning [(EU) 2023/647](eu/32023r0647). Alle endringer av grunnrettsakten samt de endringer og tillegg som følger av EØS-tilpasningen av grunnrettsakten i samsvar med vedlegg I, er innarbeidet nedenfor.
 
+►**B** Forordning [(EU) 2020/686](eu/32020r0686) om utfylling av Europaparlaments- og Rådsforordning (EU) 2016/429 med hensyn til godkjenning av anlegg for avlsmateriale og krav til sporbarhet og dyrehelse ved forflytning innenfor Unionen av avlsmateriale fra visse holdte landdyr
+
+► EØS Tilpasning som følge av [EØS-avtalen vedlegg I](avtale/avt-1992-05-02-1-v1), JCD 2/2021
+
+Som endret ved:
+
 - ►**M1** Forordning [(EU) 2021/880](eu/32021r0880) av 5. mars 2021
 - ►**M2** Forordning [(EU) 2023/647](eu/32023r0647) av 13. Januar 2023
 
 ### Delegert kommisjonsforordning [(EU) 2020/686](eu/32020r0686)
 av 17. desember 2019
 om utfylling av europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) med hensyn til godkjenning av anlegg for avlsmateriale og krav til sporbarhet og dyrehelse ved forflytning innenfor Unionen av avlsmateriale fra visse holdte landdyr
+
+EUROPAKOMMISJONEN HAR
+
+under henvisning til traktaten om Den europeiske unions virkemåte,
+
+under henvisning til europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) av 9. mars 2016 om smittsomme dyresykdommer og om endring og oppheving av visse rettsakter på dyrehelseområdet («dyrehelseforordningen»)1, særlig artikkel 94 nr. 3, artikkel 97 nr. 2, artikkel 101 nr. 3, artikkel 106 nr. 1, artikkel 122 nr. 1 og 2, artikkel 131 nr. 1, artikkel 160 nr. 1 og 2, artikkel 161 nr. 6, artikkel 162 nr. 3 og 4, artikkel 163 nr. 5, artikkel 164 nr. 2, artikkel 165 nr. 3 og artikkel 279 nr. 2, og
+
+ut fra følgende betraktninger:
 
 1. Forordning [(EU) 2016/429](eu/32016r0429) fastsetter regler for forebygging og bekjempelse av dyresykdommer som kan overføres til dyr eller mennesker. Disse reglene fastsetter blant annet registrering og godkjenning av anlegg for avlsmateriale og krav til sporbarhet og dyrehelse ved forflytning av forsendelser av avlsmateriale innenfor Unionen. Forordning [(EU) 2016/429](eu/32016r0429) gir også Kommisjonen myndighet til å vedta regler for å utfylle visse ikke-grunnleggende bestemmelser i nevnte forordning ved hjelp av delegerte rettsakter. Det bør derfor vedtas slike regler for å sikre at systemet i den nye rettslige rammen fastsatt i forordning [(EU) 2016/429](eu/32016r0429) fungerer på en tilfredsstillende måte.
 2. Reglene fastsatt i denne forordningen kreves for å utfylle reglene fastsatt i kapittel 1, 2 og 5 i avdeling I i del IV i forordning [(EU) 2016/429](eu/32016r0429) med hensyn til godkjenning av anlegg for avlsmateriale, registrene over anlegg for avlsmateriale som skal føres av vedkommende myndigheter, driftsansvarliges plikt til å føre journaler, kravene til sporbarhet og dyrehelse og kravene til utstedelse av helsesertifikat og melding ved forflytning innenfor Unionen av forsendelser av avlsmateriale fra visse holdte landdyr for å hindre spredning av smittsomme dyresykdommer innenfor Unionen gjennom slikt materiale.
@@ -189,33 +203,67 @@ om utfylling av europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r04
 38. For å sikre en smidig overgang når det gjelder avlsmateriale som er tatt ut og produsert før denne forordningens anvendelsesdato, bør strå og annen emballasje som sæd, oocytter eller embryoer plasseres, lagres og transporteres i, uavhengig av om de er delt inn i enkeltdoser eller ikke, og som er merket før 21. april 2021 i samsvar med regelverket vedtatt i henhold til direktiv [88/407/EØF](eu/31988l0407), [89/556/EØF](eu/31989l0556), [90/429/EØF](eu/31990l0429) og [92/65/EØF](eu/31992l0065), anses å være merket i samsvar med denne forordningen og kunne flyttes mellom medlemsstater.
 39. Denne forordningen bør få anvendelse fra 21. april 2021 i samsvar med anvendelsesdatoen for forordning [(EU) 2016/429](eu/32016r0429).
 
+1 EUT L 84 av 31.3.2016, s. 1.
+
+2 Rådsdirektiv [88/407/EØF](eu/31988l0407) av 14. juni 1988 om fastsettelse av krav til dyrehelse ved handel med sæd fra storfe innenfor Fellesskapet og innførsel av slik sæd (EFT L 194 av 22.7.1988, s. 10).
+
+3 Rådsdirektiv [89/556/EØF](eu/31989l0556) av 25. september 1989 om krav til dyrehelse ved handel med embryoer fra storfe innenfor Fellesskapet og innførsel av slike embryoer fra tredjestater (EFT L 302 av 19.10.1989, s. 1).
+
+4 Rådsdirektiv [90/429/EØF](eu/31990l0429) av 26. juni 1990 om fastsettelse av krav til dyrehelse ved handel med rånesæd innenfor Fellesskapet og innførsel av rånesæd (EFT L 224 av 18.8.1990, s. 62).
+
+5 Rådsdirektiv [92/65/EØF](eu/31992l0065) av 13. juli 1992 om fastsettelse av krav til dyrehelse ved handel innenfor Fellesskapet med dyr, sæd, egg og embryoer som ikke omfattes av kravene til dyrehelse fastsatt i de særlige fellesskapsregler oppført i vedlegg A del I til direktiv [90/425/EØF](eu/31990l0425), og ved innførsel av nevnte dyr, sæd, egg og embryoer til Fellesskapet (EFT L 268 av 14.9.1992, s. 54).
+
+6[http://www.oie.int/index.php?id=169&L=0&htmfile=chapitre_coll_semen.htm](https://www.oie.int/index.php?id=169&L=0&htmfile=chapitre_coll_semen.htm)
+
+7 Europaparlaments- og rådsforordning [(EF) nr. 1069/2009](eu/32009r1069) av 21. oktober 2009 om fastsettelse av hygieneregler for animalske biprodukter og avledede produkter som ikke er beregnet på konsum, og om oppheving av forordning [(EF) nr. 1774/2002](eu/32002r1774) (forordningen om animalske biprodukter) (EUT L 300 av 14.11.2009, s. 1).
+
+8 [https://www.icar.org](https://www.icar.org/)/
+
+9 Kommisjonsvedtak [2003/24/EF](eu/32003d0024) av 30. desember 2002 om utvikling av et integrert datasystem for veterinærmyndighetene (EFT L 8 av 14.1.2003, s. 44).
+
+10 Kommisjonsvedtak [2004/292/EF](eu/32004d0292) av 30. mars 2004 om innføring av TRACES-systemet og endring av vedtak [92/486/EØF](eu/31992d0486) (EUT L 94 av 31.3.2004, s. 63).
+
+11 Europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) av 15. mars 2017 om offentlig kontroll og annen offentlig virksomhet som gjennomføres for å sikre anvendelsen av næringsmiddel- og fôrvareregelverket samt regler for dyrs helse og velferd, plantehelse og plantevernmidler, om endring av europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999), [(EF) nr. 396/2005](eu/32005r0396), [(EF) nr. 1069/2009](eu/32009r1069), [(EF) nr. 1107/2009](eu/32009r1107), [(EU) nr. 1151/2012](eu/32012r1151), [(EU) nr. 652/2014](eu/32014r0652), [(EU) 2016/429](eu/32016r0429) og [(EU) 2016/2031](eu/32016r2031), rådsforordning (EF) nr. 1/2005 og [(EF) nr. 1099/2009](eu/32009r1099) samt rådsdirektiv [98/58/EF](eu/31998l0058), [1999/74/EF](eu/31999l0074), [2007/43/EF](eu/32007l0043), [2008/119/EF](eu/32008d0119) og [2008/120/EF](eu/32008r0120) og om oppheving av europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854) og [(EF) nr. 882/2004](eu/32004r0882), rådsdirektiv [89/608/EØF](eu/31989l0608), [89/662/EØF](eu/31989l0662), [90/425/EØF](eu/31990l0425), [91/496/EØF](eu/31991l0496), [96/23/EF](eu/31996l0023), [96/93/EF](eu/31996l0093) og [97/78/EF](eu/31997r0078) og rådsvedtak [92/438/EØF](eu/31992d0438) (forordningen om offentlig kontroll) (EUT L 95 av 7.4.2017, s. 1).
+
+12 Europaparlaments- og rådsforordning [(EU) 2016/1012](eu/32016r1012) av 8. juni 2016 om avlstekniske vilkår og avstamningsvilkår for avl, handel med og innførsel til Unionen av renrasede avlsdyr, hybridavlsdyr av svin og formeringsmateriale fra dem og om endring av forordning [(EU) nr. 652/2014](eu/32014r0652), rådsdirektiv [89/608/EØF](eu/31989l0608) og [90/425/EØF](eu/31990l0425) og om oppheving av visse rettsakter med hensyn til dyreavl («dyreavlsforordningen») (EUT L 171 av 29.6.2016, s. 66).
+
+13 Kommisjonens gjennomføringsforordning [(EU) 2018/1882](eu/32018r1882) av 3. desember 2018 om anvendelsen av visse regler for forebygging og bekjempelse av sykdom som skal gjelde for kategorier av listeførte sykdommer, og om opprettelse av en liste over arter og grupper av arter som utgjør en betydelig risiko for spredning av disse listeførte sykdommene (EUT L 308 av 4.12.2018, s. 21).
+
+14 Delegert kommisjonsforordning [(EU) 2019/2035](eu/32019r2035) av 28. juni 2019 om utfylling av europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) med hensyn til regler for anlegg for landdyr og rugerier, samt sporing av visse holdte landdyr og rugeegg (EUT L 314 av 5.12.2019, s. 115).
+
+15 Delegert kommisjonsforordning [(EU) 2020/689](eu/32020r0689) av 17. desember 2019 om utfylling av europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) med hensyn til overvåkingsregler, utryddelsesprogrammer og sykdomsfri status for visse listeførte og nye sykdommer (EUT L 174 av 3.6.2020, s. 211).
+
+16 Delegert kommisjonsforordning [(EU) 2020/688](eu/32020r0688) av 17. desember 2019 om utfylling av europaparlaments- og rådsforordning [(EU) nr. 2016/429](eu/32016r0429) med hensyn til krav til dyrehelse ved forflytning av landdyr og rugeegg innenfor Unionen (EUT L 174 av 3.6.2020, s. 140).
+
+VEDTATT DENNE FORORDNINGEN:
+
 ### DEL I
 FORMÅL, VIRKEOMRÅDE OG DEFINISJONER
 
 ### Artikkel 1. Formål og virkeområde
 
-1. Ved denne forordningen utfylles reglene fastsatt i forordning [(EU) 2016/429](eu/32016r0429) med hensyn til registrerte og godkjente anlegg for avlsmateriale og krav til sporbarhet og dyrehelse ved forflytning innenfor Unionen av avlsmateriale fra visse holdte landdyr.
+1\. Ved denne forordningen utfylles reglene fastsatt i forordning [(EU) 2016/429](eu/32016r0429) med hensyn til registrerte og godkjente anlegg for avlsmateriale og krav til sporbarhet og dyrehelse ved forflytning innenfor Unionen av avlsmateriale fra visse holdte landdyr.
 
-2. I kapittel 1 i del II fastsettes kravene til godkjenning av anlegg for avlsmateriale fra storfe, svin, sau, geit og hestedyr, som avlsmateriale fra disse dyrene flyttes fra til en annen medlemsstat, med hensyn til►**M2**
+2\. I kapittel 1 i del II fastsettes kravene til godkjenning av anlegg for avlsmateriale fra storfe, svin, sau, geit og hestedyr, som avlsmateriale fra disse dyrene flyttes fra til en annen medlemsstat, med hensyn til►**M2**
 ◄**M2**overvåkingskrav,fasiliteter og utstyr,personalets og veterinærenes ansvarsområder, kompetanse og spesialiserte opplæring for aktiviteter i anlegg for avlsmateriale,ansvarsområder for vedkommende myndighet som godkjenner anlegg for avlsmateriale,særlige regler for opphør av virksomhet på disse anleggene for avlsmateriale.
 
-3. I kapittel 2 i del II fastsettes kravene tilhvilke opplysninger vedkommende myndighet skal ta inn i registeret over registrerte anlegg for avlsmateriale,hvilke opplysninger vedkommende myndighet skal ta inn i registeret over godkjente anlegg for avlsmateriale fra storfe, svin, sau, geit og hestedyr, og reglene for offentlighetens tilgang til dette registeret når avlsmateriale fra slike dyr skal flyttes mellom medlemsstater.
+3\. I kapittel 2 i del II fastsettes kravene tilhvilke opplysninger vedkommende myndighet skal ta inn i registeret over registrerte anlegg for avlsmateriale,hvilke opplysninger vedkommende myndighet skal ta inn i registeret over godkjente anlegg for avlsmateriale fra storfe, svin, sau, geit og hestedyr, og reglene for offentlighetens tilgang til dette registeret når avlsmateriale fra slike dyr skal flyttes mellom medlemsstater.
 
-4. I kapittel 3 i del II fastsettesreglene for plikten som driftsansvarlige for godkjente anlegg for avlsmateriale fra storfe, svin, sau, geit og hestedyr har til å føre journaler, og kravene til journalføring med hensyn til avlsmateriale som er tatt ut, produsert eller bearbeidet i et slikt anlegg etter at dets virksomhet har opphørt,sporbarhetskravene til avlsmateriale frastorfe, svin, sau, geit og hestedyr,hunder (*Canis lupus familiaris*) og katter (*Felis silvestris catus*),andre landdyr enn storfe, svin, sau, geit og hestedyr som holdes i avgrensede anlegg,dyr av familiene *Camelidae* og *Cervidae*.
+4\. I kapittel 3 i del II fastsettesreglene for plikten som driftsansvarlige for godkjente anlegg for avlsmateriale fra storfe, svin, sau, geit og hestedyr har til å føre journaler, og kravene til journalføring med hensyn til avlsmateriale som er tatt ut, produsert eller bearbeidet i et slikt anlegg etter at dets virksomhet har opphørt,sporbarhetskravene til avlsmateriale frastorfe, svin, sau, geit og hestedyr,hunder (*Canis lupus familiaris*) og katter (*Felis silvestris catus*),andre landdyr enn storfe, svin, sau, geit og hestedyr som holdes i avgrensede anlegg,dyr av familiene *Camelidae* og *Cervidae*.
 
-5. I kapittel 1 i del III fastsettes kravene til dyrehelse, herunder unntak, ved forflytning mellom medlemsstater av avlsmateriale fra storfe, svin, sau, geit og hestedyr, med angivelse avreglene for uttak, produksjon, bearbeiding og lagring av avlsmateriale i de godkjente anleggene for avlsmateriale,kravene til dyrehelse for donordyr som avlsmaterialet er tatt ut fra, og med hensyn til isolasjon eller karantene for slike dyr,laboratorieundersøkelser og andre tester som skal utføres på donordyr og avlsmateriale,kravene til dyrehelse ved uttak, produksjon, bearbeiding, lagring og andre prosedyrer samt transport av avlsmateriale.
+5\. I kapittel 1 i del III fastsettes kravene til dyrehelse, herunder unntak, ved forflytning mellom medlemsstater av avlsmateriale fra storfe, svin, sau, geit og hestedyr, med angivelse avreglene for uttak, produksjon, bearbeiding og lagring av avlsmateriale i de godkjente anleggene for avlsmateriale,kravene til dyrehelse for donordyr som avlsmaterialet er tatt ut fra, og med hensyn til isolasjon eller karantene for slike dyr,laboratorieundersøkelser og andre tester som skal utføres på donordyr og avlsmateriale,kravene til dyrehelse ved uttak, produksjon, bearbeiding, lagring og andre prosedyrer samt transport av avlsmateriale.
 
-6. I kapittel 2 i del III fastsettes med hensyn til forflytning mellom medlemsstater av avlsmateriale fra storfe, svin, sau, geit og hestedyrreglene for utstedelse av helsesertifikat,hvilke opplysninger som skal inntas i helsesertifikatet,kravene som gjelder egenerklæringsdokumentet,meldingskravene.
+6\. I kapittel 2 i del III fastsettes med hensyn til forflytning mellom medlemsstater av avlsmateriale fra storfe, svin, sau, geit og hestedyrreglene for utstedelse av helsesertifikat,hvilke opplysninger som skal inntas i helsesertifikatet,kravene som gjelder egenerklæringsdokumentet,meldingskravene.
 
-7. I kapittel 3 i del III fastsettes kravene til dyrehelse, sertifiseringskravene og meldingskravene ved forflytning mellom medlemsstater av avlsmateriale frahunder og katter,andre landdyr enn storfe, svin, sau, geit og hestedyr som holdes i avgrensede anlegg,dyr av familiene *Camelidae* og *Cervidae*.
+7\. I kapittel 3 i del III fastsettes kravene til dyrehelse, sertifiseringskravene og meldingskravene ved forflytning mellom medlemsstater av avlsmateriale frahunder og katter,andre landdyr enn storfe, svin, sau, geit og hestedyr som holdes i avgrensede anlegg,dyr av familiene *Camelidae* og *Cervidae*.
 
-8. I kapittel 4 i del III fastsettes reglene for vedkommende myndigheters innrømmelse av unntak for forflytning mellom medlemsstater av avlsmateriale beregnet på vitenskapelige formål og avlsmateriale som er lagret i genbanker.
+8\. I kapittel 4 i del III fastsettes reglene for vedkommende myndigheters innrømmelse av unntak for forflytning mellom medlemsstater av avlsmateriale beregnet på vitenskapelige formål og avlsmateriale som er lagret i genbanker.
 
-9. I del IV fastsettes visse overgangstiltak med hensyn til direktiv [88/407/EØF](eu/31988l0407), [89/556/EØF](eu/31989l0556), [90/429/EØF](eu/31990l0429) og [92/65/EØF](eu/31992l0065) i forbindelse medgodkjenning av sædstasjoner, sædlagre, embryouttaksgrupper og embryoproduksjonsgrupper,
+9\. I del IV fastsettes visse overgangstiltak med hensyn til direktiv [88/407/EØF](eu/31988l0407), [89/556/EØF](eu/31989l0556), [90/429/EØF](eu/31990l0429) og [92/65/EØF](eu/31992l0065) i forbindelse medgodkjenning av sædstasjoner, sædlagre, embryouttaksgrupper og embryoproduksjonsgrupper,
 ►**M1**merking av strå og annen emballasje som sæd, oocytter eller embryoer plasseres, lagres eller transporteres i,bruk av helsesertifikater utstedt før 21. april 2021,forflytningene mellom medlemsstater av sæd, oocytter og embryoer som er tatt ut, produsert, bearbeidet og lagret før 21. april 2021.
 ◄**M1**
 
-10. Denne forordningen får ikke anvendelse på avlsmateriale fra viltlevende dyr.
+10\. Denne forordningen får ikke anvendelse på avlsmateriale fra viltlevende dyr.
 
 ### Artikkel 2. Definisjoner
 
@@ -231,68 +279,116 @@ GODKJENNING AV ANLEGG FOR AVLSMATERIALE, REGISTRE, JOURNALFØRING OG SPORBARHET
 ### KAPITTEL 1
 Godkjenning av anlegg for avlsmateriale
 
+###### Artikkel 3
+
+Krav til godkjenning av anlegg for avlsmateriale fra storfe, svin, sau, geit og hestedyr
+
 Driftsansvarlige for følgende anlegg for avlsmateriale fra storfe, svin, sau, geit og hestedyr skal i samsvar med artikkel 94 nr. 1 bokstav b) i forordning [(EU) 2016/429](eu/32016r0429) søke vedkommende myndighet om godkjenning til å flytte forsendelser av avlsmateriale fra slike dyr til andre medlemsstater:Anlegg der sæd fra storfe, svin, sau, geit eller hestedyr tas ut, bearbeides og lagres, for godkjenning som en sædstasjon.
 ►**M2**Gruppe av fagpersoner eller en bygning som overvåkes av en gruppeveterinær som er kvalifisert til å ta ut, bearbeide og lagre oocytter eller embryoer fra storfe, svin, sau, geit eller hestedyr, for godkjenning som en embryouttaksgruppe.
 ◄**M2**Gruppe av fagpersoner eller en bygning som overvåkes av en gruppeveterinær som er kvalifisert til å ta ut, bearbeide og lagre oocytter og produsere, bearbeide og lagre embryoer fra storfe, svin, sau, geit eller hestedyr, for godkjenning som en embryoproduksjonsgruppe.Anlegg der fersk, kjølt eller fryst sæd eller ferske, kjølte eller fryste oocytter eller embryoer fra storfe, svin, sau, geit eller hestedyr bearbeides og lagres, for godkjenning som et bearbeidingsanlegg for avlsmateriale.Anlegg der fersk, kjølt eller fryst sæd eller ferske, kjølte eller fryste oocytter eller embryoer fra storfe, svin, sau, geit eller hestedyr lagres, for godkjenning som et lager for avlsmateriale.
 
-1. Vedkommende myndighet skal ikke godkjenne et anlegg for avlsmateriale fra storfe, svin, sau, geit eller hestedyr som nevnt i artikkel 97 i forordning [(EU) 2016/429](eu/32016r0429) før den har sikret at anlegget oppfyller følgende krav:Den driftsansvarlige har utnevnten stasjonsveterinær som er ansvarlig for virksomhet fastsatt inr. 1 i del 1 i vedlegg I, når det gjelder søknad om godkjenning av et anlegg for avlsmateriale nevnt i artikkel 3 bokstav a) som en sædstasjon,nr. 1 i del 4 i vedlegg I, når det gjelder søknad om godkjenning av et anlegg for avlsmateriale nevnt i artikkel 3 bokstav d) som et bearbeidingsanlegg for avlsmateriale,nr. 1 i del 5 i vedlegg I, når det gjelder søknad om godkjenning av et anlegg for avlsmateriale nevnt i artikkel 3 bokstav e) som et lager for avlsmateriale, elleren gruppeveterinær som er ansvarlig for virksomhet fastsatt inr. 1 i del 2 i vedlegg I, når det gjelder søknad om godkjenning av et anlegg for avlsmateriale nevnt i artikkel 3 bokstav b) som en embryouttaksgruppe,nr. 1 i del 3 i vedlegg I, når det gjelder søknad om godkjenning av et anlegg for avlsmateriale nevnt i artikkel 3 bokstav c) som en embryoproduksjonsgruppe.Lokalene, utstyret og driftsrutinene for den aktuelle virksomheten oppfyller kravene fastsatt inr. 2 i del 1 i vedlegg I når det gjelder uttak, bearbeiding, lagring og transport av sæd fra storfe, svin, sau, geit eller hestedyr,
+###### Artikkel 4
+
+Vedkommende myndighets godkjenning av anlegg for avlsmateriale fra storfe, svin, sau, geit og hestedyr
+
+1\. Vedkommende myndighet skal ikke godkjenne et anlegg for avlsmateriale fra storfe, svin, sau, geit eller hestedyr som nevnt i artikkel 97 i forordning [(EU) 2016/429](eu/32016r0429) før den har sikret at anlegget oppfyller følgende krav:Den driftsansvarlige har utnevnten stasjonsveterinær som er ansvarlig for virksomhet fastsatt inr. 1 i del 1 i vedlegg I, når det gjelder søknad om godkjenning av et anlegg for avlsmateriale nevnt i artikkel 3 bokstav a) som en sædstasjon,nr. 1 i del 4 i vedlegg I, når det gjelder søknad om godkjenning av et anlegg for avlsmateriale nevnt i artikkel 3 bokstav d) som et bearbeidingsanlegg for avlsmateriale,nr. 1 i del 5 i vedlegg I, når det gjelder søknad om godkjenning av et anlegg for avlsmateriale nevnt i artikkel 3 bokstav e) som et lager for avlsmateriale, elleren gruppeveterinær som er ansvarlig for virksomhet fastsatt inr. 1 i del 2 i vedlegg I, når det gjelder søknad om godkjenning av et anlegg for avlsmateriale nevnt i artikkel 3 bokstav b) som en embryouttaksgruppe,nr. 1 i del 3 i vedlegg I, når det gjelder søknad om godkjenning av et anlegg for avlsmateriale nevnt i artikkel 3 bokstav c) som en embryoproduksjonsgruppe.Lokalene, utstyret og driftsrutinene for den aktuelle virksomheten oppfyller kravene fastsatt inr. 2 i del 1 i vedlegg I når det gjelder uttak, bearbeiding, lagring og transport av sæd fra storfe, svin, sau, geit eller hestedyr,
 ►**M2**[nr. 2 i del 2](forskrift/2022-04-06-630/del2/nummer/2) i [vedlegg I](forskrift/2022-04-06-630/vedleggI) når det gjelder uttak, bearbeiding, lagring og transport av oocytter eller embryoer fra storfe, svin, sau, geit eller hestedyr,
 ◄**M2**nr. 2 i del 3 i vedlegg I når det gjelder uttak av oocytter og produksjon, bearbeiding, lagring og transport av embryoer fra storfe, svin, sau, geit eller hestedyr, herunder bearbeiding og lagring av sæd og oocytter som brukes til embryoproduksjon,nr. 2 i del 4 i vedlegg I når det gjelder bearbeiding, lagring og transport av fersk, kjølt eller fryst sæd eller ferske, kjølte eller fryste oocytter eller embryoer fra storfe, svin, sau, geit eller hestedyr,nr. 2 i del 5 i vedlegg I når det gjelder lagring og transport av fersk, kjølt eller fryst sæd eller ferske, kjølte eller fryste oocytter eller embryoer fra storfe, svin, sau, geit eller hestedyr.
 
-2. Når vedkommende myndighet godkjenner et anlegg for avlsmateriale fra storfe, svin, sau, geit og hestedyr som nevnt i artikkel 97 og 99 i forordning [(EU) 2016/429](eu/32016r0429), skal den tildele anlegget et unikt godkjenningsnummer som skal inneholde landkoden på to bokstaver i samsvar med ISO-standard 3166-1 for landet der godkjenningen er gitt.
+2\. Når vedkommende myndighet godkjenner et anlegg for avlsmateriale fra storfe, svin, sau, geit og hestedyr som nevnt i artikkel 97 og 99 i forordning [(EU) 2016/429](eu/32016r0429), skal den tildele anlegget et unikt godkjenningsnummer som skal inneholde landkoden på to bokstaver i samsvar med ISO-standard 3166-1 for landet der godkjenningen er gitt.
 
-1. Dersom den driftsansvarlige for et anlegg for avlsmateriale fra storfe, svin, sau, geit og hestedyr opphører virksomheten, skal vedkommende driftsansvarlige sikre at alle forsendelser av sæd, oocytter eller embryoer som er tatt ut eller produsert og lagret i dette anlegget for avlsmateriale, før datoen for tilbakekalling av godkjenningen er flyttettil et lager for avlsmateriale for videre lagring, ellerfor reproduksjonsformål til et anlegg der det holdes storfe, svin, sau, geit eller hestedyr, ellerfor trygg destruksjon eller bruk som animalske biprodukter i samsvar med artikkel 13 i forordning (EF) nr. 1069/2009.
+###### Artikkel 5
 
-2. Dersom forsendelsene av sæd, oocytter eller embryoer ikke flyttes fra det godkjente anlegget for avlsmateriale før datoen for tilbakekalling som nevnt i nr. 1, skal slike forsendelser ikke flyttes til en annen medlemsstat.
+Særlige regler ved opphør av virksomhet i godkjente anlegg for avlsmateriale fra storfe, svin, sau, geit og hestedyr
+
+1\. Dersom den driftsansvarlige for et anlegg for avlsmateriale fra storfe, svin, sau, geit og hestedyr opphører virksomheten, skal vedkommende driftsansvarlige sikre at alle forsendelser av sæd, oocytter eller embryoer som er tatt ut eller produsert og lagret i dette anlegget for avlsmateriale, før datoen for tilbakekalling av godkjenningen er flyttettil et lager for avlsmateriale for videre lagring, ellerfor reproduksjonsformål til et anlegg der det holdes storfe, svin, sau, geit eller hestedyr, ellerfor trygg destruksjon eller bruk som animalske biprodukter i samsvar med artikkel 13 i forordning (EF) nr. 1069/2009.
+
+2\. Dersom forsendelsene av sæd, oocytter eller embryoer ikke flyttes fra det godkjente anlegget for avlsmateriale før datoen for tilbakekalling som nevnt i nr. 1, skal slike forsendelser ikke flyttes til en annen medlemsstat.
 
 ### KAPITTEL 2
 Registre over registrerte og godkjente anlegg for avlsmateriale som skal føres av vedkommende myndighet
 
-1. Vedkommende myndighet skal opprette og ajourføre et register over registrerte anlegg for avlsmateriale.
+###### Artikkel 6
 
-2. Vedkommende myndighet skal innta minst følgende opplysninger i registeret nevnt i nr. 1 for hvert enkelt registrert anlegg for avlsmateriale:Navn, kontaktopplysninger og eventuelt nettadressen (URL) til nettstedet for det registrerte anlegget for avlsmateriale.Adressen til det registrerte anlegget for avlsmateriale.Typen avlsmateriale og dyreartene det er registrert for.Det unike registreringsnummeret som er tildelt av vedkommende myndighet samt registreringsdatoen.Dersom virksomheten i det registrerte anlegget for avlsmateriale har opphørt, datoen for opphør av denne virksomheten.
+Registre over registrerte anlegg for avlsmateriale som skal føres av vedkommende myndighet
 
-1. Vedkommende myndighet skal opprette og ajourføre et register over godkjente anlegg for avlsmateriale fra storfe, svin, sau, geit og hestedyr.
+1\. Vedkommende myndighet skal opprette og ajourføre et register over registrerte anlegg for avlsmateriale.
 
-2. Vedkommende myndighet skal innta minst følgende opplysninger i registeret nevnt i nr. 1 for hvert enkelt godkjent anlegg for avlsmateriale:Navn, kontaktopplysninger og eventuelt nettadressen (URL) til nettstedet for det godkjente anlegget for avlsmateriale.Adressen til anlegget for avlsmateriale.Stasjonsveterinærens eller gruppeveterinærens navn.Typen avlsmateriale, typen anlegg for avlsmateriale og dyreartene det er gitt godkjenning for.Det unike godkjenningsnummeret som er tildelt av vedkommende myndighet samt godkjenningsdatoen.
+2\. Vedkommende myndighet skal innta minst følgende opplysninger i registeret nevnt i nr. 1 for hvert enkelt registrert anlegg for avlsmateriale:Navn, kontaktopplysninger og eventuelt nettadressen (URL) til nettstedet for det registrerte anlegget for avlsmateriale.Adressen til det registrerte anlegget for avlsmateriale.Typen avlsmateriale og dyreartene det er registrert for.Det unike registreringsnummeret som er tildelt av vedkommende myndighet samt registreringsdatoen.Dersom virksomheten i det registrerte anlegget for avlsmateriale har opphørt, datoen for opphør av denne virksomheten.
 
-3. Dersom, basert på kravene fastsatt i artikkel 4, et bearbeidingsanlegg for avlsmateriale eller et lager for avlsmateriale er godkjent av vedkommende myndighet for lagring og, når det gjelder bearbeidingsanlegget for avlsmateriale, bearbeiding av avlsmateriale av mer enn én type eller fra mer enn én dyreart, skal vedkommende myndighet innta opplysninger om typen avlsmateriale og hvilke dyrearter det kommer fra, som er lagret og eventuelt bearbeidet i det godkjente anlegget for avlsmateriale, i sitt register over godkjente anlegg for avlsmateriale.
+###### Artikkel 7
 
-4. Dersom vedkommende myndighet har suspendert eller tilbakekalt godkjenningen av et godkjent anlegg for avlsmateriale i samsvar med artikkel 100 nr. 2 i forordning [(EU) 2016/429](eu/32016r0429), skal det uten unødig oppholdangi denne suspensjonen eller tilbakekallingen i sitt register over godkjente anlegg for avlsmateriale,når det gjelder suspensjon av godkjenningen, angi start- og sluttdatoen, og når det gjelder tilbakekalling, angi datoen for tilbakekalling av godkjenningen.
+Registre over godkjente anlegg for avlsmateriale fra storfe, svin, sau, geit og hestedyr, som skal føres av vedkommende myndighet
 
-5. Dersom et godkjent anlegg for avlsmateriale har opphørt virksomheten som nevnt i artikkel 5, skal vedkommende myndighet uten unødig opphold angi datoen for opphør av denne virksomheten i sitt register over godkjente anlegg for avlsmateriale.
+1\. Vedkommende myndighet skal opprette og ajourføre et register over godkjente anlegg for avlsmateriale fra storfe, svin, sau, geit og hestedyr.
 
-6. Vedkommende myndighet skal offentliggjøre registeret nevnt i nr. 1 på sitt nettsted dersom avlsmateriale skal flyttes mellom medlemsstater, og den skal gi Kommisjonen melding om nettadressen (URL) til dette nettstedet.Dersom nettadressen til vedkommende myndighets nettsted er endret, skal den uten unødig opphold gi Kommisjonen melding om den nye nettadressen til dette nettstedet.
+2\. Vedkommende myndighet skal innta minst følgende opplysninger i registeret nevnt i nr. 1 for hvert enkelt godkjent anlegg for avlsmateriale:Navn, kontaktopplysninger og eventuelt nettadressen (URL) til nettstedet for det godkjente anlegget for avlsmateriale.Adressen til anlegget for avlsmateriale.Stasjonsveterinærens eller gruppeveterinærens navn.Typen avlsmateriale, typen anlegg for avlsmateriale og dyreartene det er gitt godkjenning for.Det unike godkjenningsnummeret som er tildelt av vedkommende myndighet samt godkjenningsdatoen.
+
+3\. Dersom, basert på kravene fastsatt i artikkel 4, et bearbeidingsanlegg for avlsmateriale eller et lager for avlsmateriale er godkjent av vedkommende myndighet for lagring og, når det gjelder bearbeidingsanlegget for avlsmateriale, bearbeiding av avlsmateriale av mer enn én type eller fra mer enn én dyreart, skal vedkommende myndighet innta opplysninger om typen avlsmateriale og hvilke dyrearter det kommer fra, som er lagret og eventuelt bearbeidet i det godkjente anlegget for avlsmateriale, i sitt register over godkjente anlegg for avlsmateriale.
+
+4\. Dersom vedkommende myndighet har suspendert eller tilbakekalt godkjenningen av et godkjent anlegg for avlsmateriale i samsvar med artikkel 100 nr. 2 i forordning [(EU) 2016/429](eu/32016r0429), skal det uten unødig oppholdangi denne suspensjonen eller tilbakekallingen i sitt register over godkjente anlegg for avlsmateriale,når det gjelder suspensjon av godkjenningen, angi start- og sluttdatoen, og når det gjelder tilbakekalling, angi datoen for tilbakekalling av godkjenningen.
+
+5\. Dersom et godkjent anlegg for avlsmateriale har opphørt virksomheten som nevnt i artikkel 5, skal vedkommende myndighet uten unødig opphold angi datoen for opphør av denne virksomheten i sitt register over godkjente anlegg for avlsmateriale.
+
+6\. Vedkommende myndighet skal offentliggjøre registeret nevnt i nr. 1 på sitt nettsted dersom avlsmateriale skal flyttes mellom medlemsstater, og den skal gi Kommisjonen melding om nettadressen (URL) til dette nettstedet.Dersom nettadressen til vedkommende myndighets nettsted er endret, skal den uten unødig opphold gi Kommisjonen melding om den nye nettadressen til dette nettstedet.
 
 ### KAPITTEL 3
 Journalføring og sporbarhet
 
-1. Driftsansvarlige for godkjente anlegg for avlsmateriale fra storfe, svin, sau, geit og hestedyr skal føre og oppbevare journaler som inneholder minst følgende opplysninger:For en sædstasjon:Art, rase, fødselsdato og identifikasjon for hvert donordyr som finnes på sædstasjonen.Datoene for eventuell forflytning av donordyr til og fra sædstasjonen og, dersom disse dyrene ledsages av dokumenter, henvisning til disse dokumentene.Helsestatus, resultater fra kliniske og diagnostiske tester og hvilke laboratorieteknikker som er brukt, behandling og vaksinasjon som er uført på donordyr.Datoen for sæduttak og, dersom det er relevant, datoen og stedet for bearbeiding av sæden.Identifikasjon av sæden og opplysninger om dens bestemmelsessted.For en embryouttaksgruppe, en embryoproduksjonsgruppe eller en embryouttaks- og embryoproduksjonsgruppe:Art, rase, fødselsdato og identifikasjon for hvert donordyr som oocytter eller embryoer ble tatt ut fra.Helsestatus, resultater fra kliniske og diagnostiske tester og hvilke laboratorieteknikker som er brukt, behandling og vaksinasjon som er uført på donordyr som oocytter eller embryoer ble tatt ut fra.Datoen og stedet for uttak, undersøkelse og bearbeiding av oocytter eller embryoer.Identifikasjon av oocytter eller embryoer og opplysninger om deres bestemmelsessted.Dersom det utføres mikromanipulering av embryoene, opplysninger om mikromanipuleringsteknikker som innebærer gjennomtrengning av *zona pellucida* eller, når det gjelder embryoer fra hestedyr, embryonisk kapsel.Opprinnelsen til sæden som brukes til inseminering av donordyr, eller til å befrukte oocytter for *in vitro*-produksjon av embryoer.For et bearbeidingsanlegg for avlsmateriale eller et lager for avlsmateriale:Typen avlsmateriale som er enten bearbeidet og lagret eller lagret i det godkjente anlegget for avlsmateriale, med henvisning til donordyrets art.Datoene for forflytning av avlsmateriale til og fra det godkjente anlegget for avlsmateriale, med henvisning til dokumentene som ledsaget dette avlsmaterialet.Dokumentene, herunder et helsesertifikat og et egenerklæringsdokument, som bekrefter at helsestatusen til donordyrene hvis avlsmateriale er enten bearbeidet og lagret eller lagret i det godkjente anlegget for avlsmateriale, oppfyller kravene i denne forordningen.Identifikasjon av avlsmateriale som er enten bearbeidet og lagret eller lagret i det godkjente anlegget for avlsmateriale.
+###### Avsnitt 1
 
-2. Dersom et anlegg for avlsmateriale nevnt i nr. 1 bokstav c) er godkjent av vedkommende myndighet til enten bearbeiding og lagring eller lagring av avlsmateriale av mer enn én type eller fra mer enn én dyreart, skal den driftsansvarlige føre og oppbevare journaler atskilt for hver type avlsmateriale og avlsmateriale fra hver enkelt dyreart, som er enten bearbeidet og lagret, eller lagret.
+Journalføring
 
-1. Dersom et anlegg for avlsmateriale fra storfe, svin, sau, geit og hestedyr opphører virksomheten som nevnt i artikkel 5, skal den driftsansvarlige for dette anlegget bare flytte forsendelser av lagret avlsmateriale til et lager for avlsmateriale dersom slike forsendelser ledsages av originaleksemplarer eller kopier av de journalene som kreves i samsvar med artikkel 8 nr. 1.
+###### Artikkel 8
 
-2. Den driftsansvarlige for lageret for avlsmateriale som mottar forsendelsen av avlsmateriale fra anlegget hvor virksomheten har opphørt som nevnt i nr. 1, skal journalføre innførselen av og opplysningene om avlsmaterialet basert på de ledsagende journalene som kreves i samsvar med artikkel 8 nr. 1 bokstav c).
+Journalføringsplikt for driftsansvarlige for godkjente anlegg for avlsmateriale fra storfe, svin, sau, geit og hestedyr
 
-1. Driftsansvarlige som tar ut, produserer, bearbeider eller lagrer avlsmateriale fra storfe, svin, sau, geit eller hestedyr, skal merke hvert strå eller annen emballasje som sæd, oocytter eller embryoer plasseres, lagres og transporteres i, uavhengig av om de er delt inn i enkeltdoser, på en slik måte at følgende opplysninger enkelt kan fastslås:Uttaksdato eller produksjonsdato for dette avlsmaterialet.Art og identifikasjon av donordyret/-dyrene.Det unike godkjenningsnummeret for anlegget for avlsmateriale der uttak eller produksjon, bearbeiding og lagring av dette avlsmaterialet finner sted.Eventuelle andre relevante opplysninger.
+1\. Driftsansvarlige for godkjente anlegg for avlsmateriale fra storfe, svin, sau, geit og hestedyr skal føre og oppbevare journaler som inneholder minst følgende opplysninger:For en sædstasjon:Art, rase, fødselsdato og identifikasjon for hvert donordyr som finnes på sædstasjonen.Datoene for eventuell forflytning av donordyr til og fra sædstasjonen og, dersom disse dyrene ledsages av dokumenter, henvisning til disse dokumentene.Helsestatus, resultater fra kliniske og diagnostiske tester og hvilke laboratorieteknikker som er brukt, behandling og vaksinasjon som er uført på donordyr.Datoen for sæduttak og, dersom det er relevant, datoen og stedet for bearbeiding av sæden.Identifikasjon av sæden og opplysninger om dens bestemmelsessted.For en embryouttaksgruppe, en embryoproduksjonsgruppe eller en embryouttaks- og embryoproduksjonsgruppe:Art, rase, fødselsdato og identifikasjon for hvert donordyr som oocytter eller embryoer ble tatt ut fra.Helsestatus, resultater fra kliniske og diagnostiske tester og hvilke laboratorieteknikker som er brukt, behandling og vaksinasjon som er uført på donordyr som oocytter eller embryoer ble tatt ut fra.Datoen og stedet for uttak, undersøkelse og bearbeiding av oocytter eller embryoer.Identifikasjon av oocytter eller embryoer og opplysninger om deres bestemmelsessted.Dersom det utføres mikromanipulering av embryoene, opplysninger om mikromanipuleringsteknikker som innebærer gjennomtrengning av *zona pellucida* eller, når det gjelder embryoer fra hestedyr, embryonisk kapsel.Opprinnelsen til sæden som brukes til inseminering av donordyr, eller til å befrukte oocytter for *in vitro*-produksjon av embryoer.For et bearbeidingsanlegg for avlsmateriale eller et lager for avlsmateriale:Typen avlsmateriale som er enten bearbeidet og lagret eller lagret i det godkjente anlegget for avlsmateriale, med henvisning til donordyrets art.Datoene for forflytning av avlsmateriale til og fra det godkjente anlegget for avlsmateriale, med henvisning til dokumentene som ledsaget dette avlsmaterialet.Dokumentene, herunder et helsesertifikat og et egenerklæringsdokument, som bekrefter at helsestatusen til donordyrene hvis avlsmateriale er enten bearbeidet og lagret eller lagret i det godkjente anlegget for avlsmateriale, oppfyller kravene i denne forordningen.Identifikasjon av avlsmateriale som er enten bearbeidet og lagret eller lagret i det godkjente anlegget for avlsmateriale.
 
-2. Dersom et avlsmateriale bearbeides ved et annet anlegg for avlsmateriale enn der uttaket finner sted, skal den driftsansvarlige ved bearbeidingsanlegget supplere opplysningene nevnt i nr. 1 med opplysninger som gjør det mulig å identifisere det unike godkjenningsnummeret for anlegget der avlsmaterialet er blitt bearbeidet.
+2\. Dersom et anlegg for avlsmateriale nevnt i nr. 1 bokstav c) er godkjent av vedkommende myndighet til enten bearbeiding og lagring eller lagring av avlsmateriale av mer enn én type eller fra mer enn én dyreart, skal den driftsansvarlige føre og oppbevare journaler atskilt for hver type avlsmateriale og avlsmateriale fra hver enkelt dyreart, som er enten bearbeidet og lagret, eller lagret.
 
-3. Dersom et enkelt strå eller annen emballasje inneholder sæd fra storfe, svin, sau eller geit som er tatt ut fra mer enn ett donordyr, skal den driftsansvarlige sikre at opplysningene nevnt i nr. 1 gjør det mulig å identifisere alle donordyr som har bidratt til den sæddosen som brukes til inseminering.
+###### Artikkel 9
 
-4. Som unntak fra nr. 1 kan, dersom sæden fra sau eller geit erfryst i pelleter, den driftsansvarlige merke begeret som inneholder sædpelletene fra en enkelt donor, i stedet for å merke hver enkelt pellet i det aktuelle begeret,fersk eller kjølt sæd, den driftsansvarlige merke begeret som inneholder rørene eller stråene med sæd fra en enkelt donor, i stedet for å merke hvert enkelt rør eller strå i det aktuelle begeret.
+Journalføringsplikt for driftsansvarlige for godkjente anlegg for avlsmateriale fra storfe, svin, sau, geit og hestedyr hvor virksomheten opphører
 
-5. Som unntak fra nr. 1 bokstav c) skal den driftsansvarlige sikre at merkingen av hvert strå eller annen emballasje som sæd, oocytter eller embryoer plasseres, lagres og transporteres i, utføres på slik måte at det er mulig å identifiserenår det gjelder sæd fra sau og geit som er tatt ut i anlegget der donordyrene holdes, som nevnt i artikkel 13, det unike registreringsnummeret for dette anlegget, ellernår det gjelder avlsmateriale fra storfe, svin, sau, geit eller hestedyr som er tatt ut eller produsert i et avgrenset anlegg nevnt i artikkel 14, det unike godkjenningsnummeret for dette avgrensede anlegget.
+1\. Dersom et anlegg for avlsmateriale fra storfe, svin, sau, geit og hestedyr opphører virksomheten som nevnt i artikkel 5, skal den driftsansvarlige for dette anlegget bare flytte forsendelser av lagret avlsmateriale til et lager for avlsmateriale dersom slike forsendelser ledsages av originaleksemplarer eller kopier av de journalene som kreves i samsvar med artikkel 8 nr. 1.
 
-1. Driftsansvarlige som tar ut, bearbeider eller lagrer avlsmateriale fra hunder eller katter, fra andre landdyr enn storfe, svin, sau, geit eller hestedyr som holdes i avgrensede anlegg, eller fra dyr av familiene *Camelidae* eller *Cervidae*, skal merke hvert strå eller annen emballasje som sæd, oocytter eller embryoer plasseres, lagres og transporteres i, uavhengig av om de er delt inn i enkeltdoser, på en slik måte at følgende opplysninger enkelt kan fastslås:Uttaksdato eller produksjonsdato for dette avlsmaterialet.Art, om nødvendig underart, og identifikasjon av donordyret/-dyrene.
+2\. Den driftsansvarlige for lageret for avlsmateriale som mottar forsendelsen av avlsmateriale fra anlegget hvor virksomheten har opphørt som nevnt i nr. 1, skal journalføre innførselen av og opplysningene om avlsmaterialet basert på de ledsagende journalene som kreves i samsvar med artikkel 8 nr. 1 bokstav c).
+
+###### Avsnitt 2
+
+Sporbarhet
+
+###### Artikkel 10
+
+Sporbarhetskrav til avlsmateriale fra storfe, svin, sau, geit og hestedyr
+
+1\. Driftsansvarlige som tar ut, produserer, bearbeider eller lagrer avlsmateriale fra storfe, svin, sau, geit eller hestedyr, skal merke hvert strå eller annen emballasje som sæd, oocytter eller embryoer plasseres, lagres og transporteres i, uavhengig av om de er delt inn i enkeltdoser, på en slik måte at følgende opplysninger enkelt kan fastslås:Uttaksdato eller produksjonsdato for dette avlsmaterialet.Art og identifikasjon av donordyret/-dyrene.Det unike godkjenningsnummeret for anlegget for avlsmateriale der uttak eller produksjon, bearbeiding og lagring av dette avlsmaterialet finner sted.Eventuelle andre relevante opplysninger.
+
+►**M2**
+
+2\. Dersom et avlsmateriale bearbeides ved et annet anlegg for avlsmateriale enn der uttaket finner sted, skal den driftsansvarlige ved bearbeidingsanlegget supplere opplysningene nevnt i nr. 1 med opplysninger som gjør det mulig å identifisere det unike godkjenningsnummeret for anlegget der avlsmaterialet er blitt bearbeidet.
+
+◄**M2**
+
+3\. Dersom et enkelt strå eller annen emballasje inneholder sæd fra storfe, svin, sau eller geit som er tatt ut fra mer enn ett donordyr, skal den driftsansvarlige sikre at opplysningene nevnt i nr. 1 gjør det mulig å identifisere alle donordyr som har bidratt til den sæddosen som brukes til inseminering.
+
+4\. Som unntak fra nr. 1 kan, dersom sæden fra sau eller geit erfryst i pelleter, den driftsansvarlige merke begeret som inneholder sædpelletene fra en enkelt donor, i stedet for å merke hver enkelt pellet i det aktuelle begeret,fersk eller kjølt sæd, den driftsansvarlige merke begeret som inneholder rørene eller stråene med sæd fra en enkelt donor, i stedet for å merke hvert enkelt rør eller strå i det aktuelle begeret.
+
+5\. Som unntak fra nr. 1 bokstav c) skal den driftsansvarlige sikre at merkingen av hvert strå eller annen emballasje som sæd, oocytter eller embryoer plasseres, lagres og transporteres i, utføres på slik måte at det er mulig å identifiserenår det gjelder sæd fra sau og geit som er tatt ut i anlegget der donordyrene holdes, som nevnt i artikkel 13, det unike registreringsnummeret for dette anlegget, ellernår det gjelder avlsmateriale fra storfe, svin, sau, geit eller hestedyr som er tatt ut eller produsert i et avgrenset anlegg nevnt i artikkel 14, det unike godkjenningsnummeret for dette avgrensede anlegget.
+
+###### Artikkel 11
+
+Sporbarhetskrav til avlsmateriale fra hunder og katter, fra andre landdyr enn storfe, svin, sau, geit og hestedyr som holdes i avgrensede anlegg, og fra dyr av familiene *Camelidae* og *Cervidae*
+
+1\. Driftsansvarlige som tar ut, bearbeider eller lagrer avlsmateriale fra hunder eller katter, fra andre landdyr enn storfe, svin, sau, geit eller hestedyr som holdes i avgrensede anlegg, eller fra dyr av familiene *Camelidae* eller *Cervidae*, skal merke hvert strå eller annen emballasje som sæd, oocytter eller embryoer plasseres, lagres og transporteres i, uavhengig av om de er delt inn i enkeltdoser, på en slik måte at følgende opplysninger enkelt kan fastslås:Uttaksdato eller produksjonsdato for dette avlsmaterialet.Art, om nødvendig underart, og identifikasjon av donordyret/-dyrene.
 ►**M1**Ett av følgende:Dersom anlegget der dette avlsmaterialet tas ut eller produseres, bearbeides og lagres, er tildelt et unikt registreringsnummer, det unike registreringsnummeret, som skal inneholde landkoden på to bokstaver i samsvar med ISO-standard 3166-1 for landet der anlegget er registrert.Dersom anlegget der dette avlsmaterialet tas ut eller produseres, bearbeides og lagres, er et avgrenset anlegg, det unike registreringsnummeret, som skal inneholde landkoden på to bokstaver i samsvar med ISO-standard 3166-1 for landet der godkjenningen er gitt.◄**M1**Eventuelle andre opplysninger.
 
-2. Ved kjønnssortering av sæd i et annet anlegg enn anlegget der uttak eller produksjon finner sted, skal den driftsansvarlige for anlegget der uttak eller produksjon av denne sæden finner sted, supplere opplysningene nevnt i nr. 1 med opplysninger som gjør det mulig å identifisere anlegget der denne sæden ble kjønnssortert.
+2\. Ved kjønnssortering av sæd i et annet anlegg enn anlegget der uttak eller produksjon finner sted, skal den driftsansvarlige for anlegget der uttak eller produksjon av denne sæden finner sted, supplere opplysningene nevnt i nr. 1 med opplysninger som gjør det mulig å identifisere anlegget der denne sæden ble kjønnssortert.
 
-3. Som unntak fra nr. 1 kan, dersom sæden fra dyrene nevnt i nr. 1 er fryst i pelleter, den driftsansvarlige merke begeret som inneholder sædpelletene fra en enkelt donor, i stedet for å merke hver enkelt pellet i det aktuelle begeret.
+3\. Som unntak fra nr. 1 kan, dersom sæden fra dyrene nevnt i nr. 1 er fryst i pelleter, den driftsansvarlige merke begeret som inneholder sædpelletene fra en enkelt donor, i stedet for å merke hver enkelt pellet i det aktuelle begeret.
 
-4. Dersom et enkelt strå eller annen emballasje inneholder sæd som er tatt ut fra mer enn ett donordyr, skal den driftsansvarlige sikre at opplysningene nevnt i nr. 1 omfatter identifikasjon av alle donordyr.
+4\. Dersom et enkelt strå eller annen emballasje inneholder sæd som er tatt ut fra mer enn ett donordyr, skal den driftsansvarlige sikre at opplysningene nevnt i nr. 1 omfatter identifikasjon av alle donordyr.
 
 ### DEL III
 FORFLYTNING AV AVLSMATERIALE MELLOM MEDLEMSSTATER
@@ -300,163 +396,391 @@ FORFLYTNING AV AVLSMATERIALE MELLOM MEDLEMSSTATER
 ### KAPITTEL 1
 Krav til dyrehelse ved forflytning av avlsmateriale fra storfe, svin, sau, geit og hestedyr
 
+###### Avsnitt 1
+
+Regler for uttak, produksjon, bearbeiding og lagring av avlsmateriale fra storfe, svin, sau, geit og hestedyr i godkjente anlegg for avlsmateriale
+
+###### Artikkel 12
+
+Regler for forflytning til andre medlemsstater av avlsmateriale fra storfe, svin, sau, geit og hestedyr fra godkjente anlegg for avlsmateriale
+
 Driftsansvarlige skal bare flytte til andre medlemsstater sæd, oocytter og embryoer fra storfe, svin, sau, geit og hestedyr som er tatt ut, produsert, bearbeidet og lagret i godkjente anlegg for avlsmateriale.
+
+###### Artikkel 13
+
+Unntak for forflytning til andre medlemsstater av sæd fra sau og geit fra godkjente anlegg der slike dyr holdes
 
 Som unntak fra artikkel 12 kan driftsansvarlige flytte forsendelser av sæd fra sau og geit som er tatt ut, bearbeidet og lagret på anlegget der disse donordyrene holdes, til andre medlemsstater forutsatt at disse driftsansvarligeinnhenter forhåndssamtykke fra vedkommende myndighet i bestemmelsesmedlemsstaten om å motta forsendelsen,sikrer at donordyrene er klinisk undersøkt av en veterinær før sæduttak og ikke viste noen symptomer som tyder på forekomst av noen av kategori D-sykdommene eller de nye sykdommene som er relevante for sau og geit, eller kliniske symptomer på slike kategori D-sykdommer eller nye sykdommer den dagen sæden ble tatt ut,sikrer at donordyrene kommer fra anlegg som oppfyller kravene til dyrehelse fastsatt i artikkel 15 nr. 1, 2, 3 og 4 i delegert forordning [(EU) 2020/688](eu/32020r0688),sikrer at donordyrene har gjennomgått følgende tester utført med negativt resultat på prøver som er tatt i løpet av isolasjonsperioden, som skal starte minst 30 dager før datoen for sæduttaket:En serologisk test nevnt i nr. 1 i del 1 i vedlegg I til delegert forordning [(EU) 2020/688](eu/32020r0688) for infeksjon med *Brucella abortus, Brucella melitensis* og *Brucella suis.*Når det gjelder sauer, en serologisk test for epididymitt hos sau (*Brucella ovis*).Når det gjelder geiter som holdes sammen med sauer, en serologisk test for epididymitt hos sau (*Brucella ovis*),sikrer at donordyrene er identifisert i samsvar med artikkel 45 nr. 2 eller 4 eller artikkel 46 nr. 1, 2 eller 3 i forordning [(EU) 2019/2035](eu/32019r2035),sikrer at sæden er merket i samsvar med kravene fastsatt i artikkel 10,fører journaler i anlegget som minst skal inneholde opplysningene fastsatt i artikkel 8 nr. 1 bokstav a),
 ►**M1**sikrer at forsendelsen av sæd transporteres i samsvar med artikkel 28 og 29,sikrer at donordyrene ikke ble brukt til naturlig bedekning minst de siste 30 dagene før datoen for første uttak av sæd som er beregnet på forflytning mellom medlemsstater, og i den perioden denne sæden ble tatt ut.
 ◄**M1**
 
+###### Artikkel 14
+
+Unntak for forflytning til andre medlemsstater av avlsmateriale fra storfe, svin, sau, geit og hestedyr som holdes i avgrensede anlegg
+
 Som unntak fra artikkel 12 kan driftsansvarlige for avgrensede anlegg flytte forsendelser av sæd, oocytter og embryoer som er tatt ut i slike anlegg fra storfe, svin, sau, geit og hestedyr, til andre medlemsstater forutsatt at disse driftsansvarligebare flytter forsendelser av dette avlsmaterialet til et annet avgrenset anlegg,sikrer at donordyreneikke kommer fra, og heller ikke har vært i kontakt med dyr fra, et anlegg som ligger i en restriksjonssone som er opprettet på grunn av forekomst av en kategori A-sykdom eller en ny sykdom som er relevant for storfe, svin, sau, geit eller hestedyr,kommer fra et anlegg der ingen av kategori D-sykdommene som er relevante for storfe, svin, sau, geit eller hestedyr, er rapportert i løpet av minst de siste 30 dagene før datoen for uttak av sæd, oocytter eller embryoer,har oppholdt seg i ett enkelt avgrenset opprinnelsesanlegg i minst de siste 30 dagene før datoen for uttak av sæd, ooocytter eller embryoer,er klinisk undersøkt av anleggets veterinær som er ansvarlig for virksomheten som utføres i et avgrenset anlegg, og ikke viste noen symptomer som tyder på forekomst av noen av kategori D-sykdommene nevnt i punkt ii) eller de nye sykdommene eller kliniske symptomer på slike sykdommer den dagen sæden, oocyttene eller embryoene ble tatt ut,i så stor grad som mulig ikke er brukt til naturlig bedekning minst de siste 30 dagene før datoen for første uttak og i det tidsrommet uttaket av sæd, oocytter eller embryoer som er beregnet på forflytning til en annen medlemsstat, ble utført,er identifisert i samsvar med kravene fastsatt i forordning [(EU) 2019/2035](eu/32019r2035)når det gjelder storfe, i artikkel 38,når det gjelder svin, i artikkel 52 nr. 1 eller artikkel 54 nr. 2,når det gjelder sau og geit, i artikkel 45 nr. 2 eller 4, eller artikkel 46 nr. 1, 2 eller 3,når det gjelder hestedyr, i artikkel 58 nr. 1, artikkel 59 nr. 1 eller artikkel 62 nr. 1,sikrer at avlsmaterialet er merket i samsvar med kravene fastsatt i artikkel 10,sikrer at avlsmaterialet transporteres i samsvar med artikkel 28 og 29.
+
+###### Avsnitt 2
+
+Krav til dyrehelse for donordyr som avlsmateriale er uttatt fra, og krav til isolasjon eller karantene for slike dyr
+
+###### Underavsnitt I
+
+Allmenne krav til dyrehelse for donordyr av storfe, svin, sau, geit og hestefamilien
+
+###### Artikkel 15
+
+Driftsansvarliges ansvar for oppfyllelse av kravene til dyrehelse for donordyr av storfe, svin, sau, geit og hestefamilien som avlsmateriale er uttatt fra
 
 Driftsansvarlige skal bare flytte til andre medlemsstater forsendelser av sæd, oocytter og embryoer fra storfe, svin, sau, geit og hestedyr som oppfyller følgende krav:Avlsmaterialet er tatt fra dyr som ikke hadde symptomer eller viste kliniske tegn på smittsomme sykdommer på uttaksdagen.Forflytningen var godkjent av henholdsvis stasjonsveterinæren eller gruppeveterinæren.
 
+###### Artikkel 16
+
+Stasjonsveterinærers og gruppeveterinærers ansvar for oppfyllelse av kravene til dyrehelse for donordyr av storfe, svin, sau, geit og hestefamilien som avlsmateriale er tatt fra
+
 Stasjonsveterinærer, når det gjelder donorer av sæd, eller gruppeveterinærer, når det gjelder donorer av oocytter og embryoer, skal sikre at donordyrene av storfe, svin, sau, geit og hestefamilien oppfyller følgende krav:De er født i og har siden fødselen oppholdt seg i Unionen, eller de er innført til Unionen i samsvar med kravene som gjelder ved innførsel til Unionen.De kommer fra anlegg i en medlemsstat eller en sone i denne eller fra anlegg som er under offentlig kontroll av vedkommende myndighet i et tredjeland eller territorium, eller en sone av dette, og hvert av disse anleggene oppfyller kravene til dyrehelse fastsatt i delegert forordning [(EU) 2020/688](eu/32020r0688)når det gjelder storfe, i artikkel 10 nr. 1, artikkel 11 nr. 1, 2 og 3 og artikkel 12 nr. 1, 2 og 3,når det gjelder svin, i artikkel 19 nr. 1 og artikkel 20 nr. 1 og 2,når det gjelder sau og geit, i artikkel 15 nr. 1, 2, 3 og 4,når det gjelder hestedyr, i artikkel 22 nr. 1 og 2.De er identifisert i samsvar med kravene fastsatt i forordning [(EU) 2019/2035](eu/32019r2035)når det gjelder storfe, i artikkel 38,når det gjelder svin, i artikkel 52 nr. 1 eller artikkel 54 nr. 2,når det gjelder sau og geit, i artikkel 45 nr. 2 eller 4, eller artikkel 46 nr. 1, 2 eller 3,når det gjelder hestedyr, i artikkel 58 nr. 1, artikkel 59 nr. 1 eller artikkel 62 nr. 1.I minst de siste 30 dagene før datoen for første uttak av avlsmateriale og i uttaksperiodenhar de vært holdt i anlegg som ikke ligger i en restriksjonssone som er opprettet på grunn av forekomst hos storfe, svin, sau, geit eller hestedyr av en kategori A-sykdom eller en ny sykdom som er relevant for slike dyr,har de vært holdt i anlegg der ingen kategori D-sykdommer som er relevante for slike dyr, er rapportert,har de ikke vært i kontakt med dyr fra anlegg som ligger i en restriksjonssone nevnt i punkt i), eller fra anlegg som ikke oppfyller kravene nevnt i punkt ii),har de ikke vært brukt til naturlig bedekning.De viste verken symptomer eller kliniske tegn på noen av kategori D-sykdommene nevnt i bokstav d) ii) eller de nye sykdommene den dagen sæden, oocyttene eller embryoene ble tatt ut.De oppfyller de ytterligere kravene til dyrehelse fastsattnår det gjelder storfe, i artikkel 20 og i vedlegg II del 1 og del 5 kapittel I, II og III,når det gjelder svin, i artikkel 21 og i vedlegg II del 2 og del 5 kapittel I og IV,når det gjelder sau og geit, i artikkel 22 og i vedlegg II del 3 og del 5 kapittel I, II og III,når det gjelder hestedyr, i artikkel 23 og i vedlegg II del 4.
+
+###### Artikkel 17
+
+Stasjonsveterinærers og gruppeveterinærers ansvar for oppfyllelse av kravene til dyrehelse for donordyr av storfe, svin, sau, geit og hestefamilien som avlsmateriale er tatt ut fra, og som kommer fra anlegg som er underlagt forflytningsrestriksjoner av dyrehelsemessige årsaker
 
 Stasjonsveterinærer, når det gjelder donorer av sæd, eller gruppeveterinærer, når det gjelder donorer av oocytter og embryoer, skal sikre at sæd, oocytter og embryoer som er tatt ut på enten en sædstasjon eller et anlegg som er underlagt forflytningsrestriksjoner av dyrehelsemessige årsaker med hensyn til sykdommene nevnt i artikkel 16 bokstav b), artikkel 20, 21, 22 eller 23, oppfyller følgende krav:Det skal lagres separat
 ►**M1**Det skal ikke flyttes mellom medlemsstater før vedkommende myndigheter har opphevet forflytningsrestriksjonene som er pålagt enten sædstasjonen eller anlegget der sæden, oocyttene eller embryoene er tatt ut.
 ◄**M1**Sæden, oocyttene og embryoene som er lagret, skal ha gjennomgått relevante offisielle undersøkelser for å utelukke at sæden, oocyttene og embryoene inneholder patogener som forårsaker de sykdommene som forflytningsrestriksjonene ble innført for.
 
+###### Artikkel 18
+
+Ytterligere ansvarsområder for stasjonsveterinærer med hensyn til oppfyllelse av kravene til dyrehelse for donordyr av storfe, svin, sau, geit og hestefamilien som sæd er tatt ut fra
+
 Stasjonsveterinærer skal sikre at donordyrene av storfe, svin, sau, geit og hestefamilien oppfyller følgende krav:De viste verken symptomer eller kliniske tegn på noen av kategori D-sykdommene nevnt i artikkel 16 bokstav d) ii) den dagen de ble tatt inn på en sædstasjon.Når det gjelder donordyr av storfe, svin, sau og geit, ble de før den dagen de ble tatt inn på en sædstasjon, holdt i et karantenelokale som på denne dagen oppfylte følgende krav:Ingen kategori D-sykdommer som er relevant for storfe, svin, sau eller geit, er rapportert i løpet av minst de siste 30 dagene.Det lå ikke i en restriksjonssone som er opprettet på grunn av forekomst hos storfe, svin, sau eller geit av en kategori A-sykdom eller en ny sykdom som er relevant for slike dyr.De holdes på en sædstasjon somi en periode på minst 30 dager før datoen for sæduttak og minst 30 dager etter datoen for sæduttak, eller når det gjelder fersk sæd, fram til avsendelsesdatoen for forsendelsen av sæd, ikke er rapportert noen kategori D-sykdommer som er relevant for storfe, svin, sau, geit eller hestedyr,ikke ligger i en restriksjonssone som er opprettet på grunn av forekomst hos storfe, svin, sau, geit eller hestedyr av en kategori A-sykdom eller en ny sykdom som er relevant for slike dyr.
 
-1. Som unntak fra artikkel 18 bokstav b) kan driftsansvarlige flytte donordyr av storfe, svin, sau og geit og donordyr av hestefamilien som er omfattet av prøveprogrammet for visse sykdommer som nevnt i vedlegg II del 4 kapittel I nr. 1 bokstav b) i), direkte fra en sædstasjon til en annenuten karantene eller testing før og etter forflytning, som nevnt i vedlegg II for følgende dyr:Når det gjelder storfe, i nevnte vedleggs del 1 og del 5 kapittel I, II og III.Når det gjelder svin, i nevnte vedleggs del 2 og del 5 kapittel I og IV.Når det gjelder sau og geit, i nevnte vedleggs del 3 og del 5 kapittel I, II og III.Når det gjelder hestedyr, i nevnte vedleggs del 4 kapittel I nr. 1 bokstav a), ogforutsatt at donordyreneikke viste sykdomssymptomer eller tegn på noen av kategori D-sykdommene som er relevante for storfe, svin, sau, geit eller hestedyr den dagen forflytningen foregikk,før denne forflytningen hadde oppholdt seg permanent på sædstasjonen siden den datoen de ble tatt inn på den, og gjennomgikk med negativt resultat følgende tester som er relevante for storfe, svin, sau, geit eller hestedyr nevnt i nr. 1 bokstav a):Alle obligatoriske rutineundersøkelser nevnt i vedlegg II i løpet av de siste tolv månedene før datoen forflytningen foregikk, ellerdersom det ennå ikke er utført obligatoriske rutineundersøkelser på sædstasjonen, alle tester som kreves før inntak på en sædstasjon, utført i perioden umiddelbart før karantenen og i karantenetiden.
+###### Artikkel 19
 
-2. Driftsansvarlige skal bare flytte donordyr, som nevnt i den innledende teksten i nr. 1, dersom stasjonsveterinæren på bestemmelsessædstasjonen på forhånd har gitt sitt samtykke.
+Unntak fra kravene til dyrehelse for donordyr av storfe, svin, sau, geit og hestefamilien som flyttes mellom sædstasjoner
 
-3. Driftsansvarlige skal sikre at donordyr nevnt i den innledende teksten i nr. 1 ikke kommer i direkte eller indirekte kontakt med dyr med lavere helsestatus under forflytningen, og at transportmiddelet som brukes, er rengjort og desinfisert før bruk.
+1\. Som unntak fra artikkel 18 bokstav b) kan driftsansvarlige flytte donordyr av storfe, svin, sau og geit og donordyr av hestefamilien som er omfattet av prøveprogrammet for visse sykdommer som nevnt i vedlegg II del 4 kapittel I nr. 1 bokstav b) i), direkte fra en sædstasjon til en annenuten karantene eller testing før og etter forflytning, som nevnt i vedlegg II for følgende dyr:Når det gjelder storfe, i nevnte vedleggs del 1 og del 5 kapittel I, II og III.Når det gjelder svin, i nevnte vedleggs del 2 og del 5 kapittel I og IV.Når det gjelder sau og geit, i nevnte vedleggs del 3 og del 5 kapittel I, II og III.Når det gjelder hestedyr, i nevnte vedleggs del 4 kapittel I nr. 1 bokstav a), ogforutsatt at donordyreneikke viste sykdomssymptomer eller tegn på noen av kategori D-sykdommene som er relevante for storfe, svin, sau, geit eller hestedyr den dagen forflytningen foregikk,før denne forflytningen hadde oppholdt seg permanent på sædstasjonen siden den datoen de ble tatt inn på den, og gjennomgikk med negativt resultat følgende tester som er relevante for storfe, svin, sau, geit eller hestedyr nevnt i nr. 1 bokstav a):Alle obligatoriske rutineundersøkelser nevnt i vedlegg II i løpet av de siste tolv månedene før datoen forflytningen foregikk, ellerdersom det ennå ikke er utført obligatoriske rutineundersøkelser på sædstasjonen, alle tester som kreves før inntak på en sædstasjon, utført i perioden umiddelbart før karantenen og i karantenetiden.
 
-4. Driftsansvarlige for bestemmelsessædstasjoner skal la donordyr nevnt i den innledende teksten i nr. 1 gjennomgå alle obligatoriske rutineundersøkelser nevnt i nr. 1 bokstav a) senest tolv måneder etter den datoen da de siste obligatoriske rutineundersøkelsene av disse dyrene ble utført.
+►**M2**
 
-1. Stasjonsveterinæren, når det gjelder donorer av sæd, eller gruppeveterinæren, når det gjelder donorer av oocytter og embryoer, skal sikre at donordyrene av storfe oppfyller følgende krav:Når det gjelder donorer av sæd, kom de før de ble satt inn i et karantenelokale, fra et anlegg som var fritt for følgende sykdommer, og at har aldri tidligere vært holdt i et anlegg med lavere helsestatus:Infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae* og *M. tuberculosis*).Infeksjon med *Brucella abortus, Brucella melitensis* og *Brucella suis*.Enzootisk bovin leukose.Infeksiøs bovin rhinotrakeitt/infeksiøs pustuløs vulvovaginitt.De oppfyller de ytterligere kravene til dyrehelse fastsatt i vedlegg II del 1 og del 5 kapittel I, II og III.
+2\. Driftsansvarlige skal bare flytte donordyr, som nevnt i den innledende teksten i nr. 1, dersom stasjonsveterinæren på bestemmelsessædstasjonen på forhånd har gitt sitt samtykke.
 
-2. Som unntak fra nr. 1 bokstav a) iii) kan stasjonsveterinæren godta at en sæddonor kom fra et anlegg som ikke var fritt for enzootisk bovin leukose, forutsatt at dyret entener yngre enn to år og stammer fra et mordyr som med negativt resultat har gjennomgått en serologisk test for enzootisk bovin leukose etter at dyret er skilt fra mordyret, ellerhar nådd en alder på to år, og har med negativt resultat gjennomgått en serologisk test for enzootisk bovin leukose.
+◄**M2**
 
-3. Som unntak fra nr. 1 bokstav a) iii) kan gruppeveterinæren godta en donor av oocytter og embryoer som kom fra et anlegg som ikke var fritt for enzootisk bovin leukose, forutsatt at den offentlige veterinæren som er ansvarlig for opprinnelsesanlegget, har bekreftet at det ikke har forekommet noe klinisk tilfelle av enzootisk bovin leukose i løpet av minst de siste tre årene.
+3\. Driftsansvarlige skal sikre at donordyr nevnt i den innledende teksten i nr. 1 ikke kommer i direkte eller indirekte kontakt med dyr med lavere helsestatus under forflytningen, og at transportmiddelet som brukes, er rengjort og desinfisert før bruk.
 
-4. Som unntak fra nr. 1 bokstav a) iv)kan stasjonsveterinæren, når det gjelder donorer av sæd, godta et donordyr som kom fra et anlegg som ikke var fritt for infeksiøs bovin rhinotrakeitt/infeksiøs pustuløs vulvovaginitt, forutsatt at dyret har gjennomgått testen som kreves i samsvar med nr. 1 bokstav b) iv) i kapittel I i del 1 i vedlegg II, ellerkan gruppeveterinæren, når det gjelder donorer av oocytter og embryoer, godta et donordyr som kom fra et anlegg som ikke var fritt for infeksiøs bovin rhinotrakeitt/infeksiøs pustuløs vulvovaginitt, forutsatt at den offentlige veterinæren som er ansvarlig for opprinnelsesanlegget, har bekreftet at det ikke har forekommet noe klinisk tilfelle av infeksiøs bovin rhinotrakeitt/infeksiøs pustuløs vulvovaginitt i løpet av minst de siste tolv månedene.
+4\. Driftsansvarlige for bestemmelsessædstasjoner skal la donordyr nevnt i den innledende teksten i nr. 1 gjennomgå alle obligatoriske rutineundersøkelser nevnt i nr. 1 bokstav a) senest tolv måneder etter den datoen da de siste obligatoriske rutineundersøkelsene av disse dyrene ble utført.
 
-1. Stasjonsveterinæren, når det gjelder donorer av sæd, eller gruppeveterinæren, når det gjelder donorer av oocytter og embryoer, skal sikre at donordyrene av svin oppfyller følgende krav:Når det gjelder donorer av sæd, kom de før de ble satt inn i et karantenelokale, fra et anlegg der det ikke er påvist noe klinisk, serologisk, virologisk eller patologisk tegn på infeksjon med pseudorabiesvirus i løpet av minst de siste tolv månedene.De oppfyller de ytterligere kravene til dyrehelse fastsatt i vedlegg II del 2 og del 5 kapittel I og IV.
+###### Underavsnitt II
 
-2. Stasjonsveterinæren skal sikre at donordyr av svin som donerer sæd, oppfyller følgende krav:Før de ble satt inn i et karantenelokale, kom de fra et anlegg som var fritt for infeksjon med *Brucella abortus, Brucella melitensis* og *Brucella suis* i samsvar med kravene fastsatt i vedlegg II del 5 kapittel IV.De er holdt i et karantenelokale som på den datoen de ble satt inn, hadde vært fritt for infeksjon med *Brucella abortus*, *Brucella melitensis* og *Brucella suis* i minst de tre siste månedene før denne datoen.De er holdt på en sædstasjon der det ikke er rapportert noe klinisk, serologisk, virologisk eller patologisk tegn på infeksjon med pseudorabiesvirus i løpet av minst de siste 30 dagene før den datoen de ble tatt inn, og minst 30 dager umiddelbart før uttaksdatoen.De er ikke vaksinert mot infeksjon med reproduksjons- og respirasjonssyndromvirus hos svin, og er holdt, siden fødselen eller minst tre måneder før datoen for ankomst til karantenelokalet, i et anlegg der ingen dyr er vaksinert mot infeksjon med reproduksjons- og respirasjonssyndromvirus hos svin, og det ble ikke påvist infeksjon med reproduksjons- og respirasjonssyndromvirus hos svin i løpet av dette tidsrommet.
+Ytterligere krav til dyrehelse for visse arter av hov- og klovdyr
+
+###### Artikkel 20
+
+Ytterligere krav til dyrehelse for donordyr av storfe som sæd, oocytter og embryoer ble tatt ut fra
+
+1\. Stasjonsveterinæren, når det gjelder donorer av sæd, eller gruppeveterinæren, når det gjelder donorer av oocytter og embryoer, skal sikre at donordyrene av storfe oppfyller følgende krav:Når det gjelder donorer av sæd, kom de før de ble satt inn i et karantenelokale, fra et anlegg som var fritt for følgende sykdommer, og at har aldri tidligere vært holdt i et anlegg med lavere helsestatus:Infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae* og *M. tuberculosis*).Infeksjon med *Brucella abortus, Brucella melitensis* og *Brucella suis*.Enzootisk bovin leukose.Infeksiøs bovin rhinotrakeitt/infeksiøs pustuløs vulvovaginitt.De oppfyller de ytterligere kravene til dyrehelse fastsatt i vedlegg II del 1 og del 5 kapittel I, II og III.
+
+2\. Som unntak fra nr. 1 bokstav a) iii) kan stasjonsveterinæren godta at en sæddonor kom fra et anlegg som ikke var fritt for enzootisk bovin leukose, forutsatt at dyret entener yngre enn to år og stammer fra et mordyr som med negativt resultat har gjennomgått en serologisk test for enzootisk bovin leukose etter at dyret er skilt fra mordyret, ellerhar nådd en alder på to år, og har med negativt resultat gjennomgått en serologisk test for enzootisk bovin leukose.
+
+►**M1**
+
+3\. Som unntak fra nr. 1 bokstav a) iii) kan gruppeveterinæren godta en donor av oocytter og embryoer som kom fra et anlegg som ikke var fritt for enzootisk bovin leukose, forutsatt at den offentlige veterinæren som er ansvarlig for opprinnelsesanlegget, har bekreftet at det ikke har forekommet noe klinisk tilfelle av enzootisk bovin leukose i løpet av minst de siste tre årene.
+
+◄**M1**
+
+4\. Som unntak fra nr. 1 bokstav a) iv)kan stasjonsveterinæren, når det gjelder donorer av sæd, godta et donordyr som kom fra et anlegg som ikke var fritt for infeksiøs bovin rhinotrakeitt/infeksiøs pustuløs vulvovaginitt, forutsatt at dyret har gjennomgått testen som kreves i samsvar med nr. 1 bokstav b) iv) i kapittel I i del 1 i vedlegg II, ellerkan gruppeveterinæren, når det gjelder donorer av oocytter og embryoer, godta et donordyr som kom fra et anlegg som ikke var fritt for infeksiøs bovin rhinotrakeitt/infeksiøs pustuløs vulvovaginitt, forutsatt at den offentlige veterinæren som er ansvarlig for opprinnelsesanlegget, har bekreftet at det ikke har forekommet noe klinisk tilfelle av infeksiøs bovin rhinotrakeitt/infeksiøs pustuløs vulvovaginitt i løpet av minst de siste tolv månedene.
+
+###### Artikkel 21
+
+Ytterligere krav til dyrehelse for donordyr av svin som sæd, oocytter og embryoer ble tatt ut fra
+
+1\. Stasjonsveterinæren, når det gjelder donorer av sæd, eller gruppeveterinæren, når det gjelder donorer av oocytter og embryoer, skal sikre at donordyrene av svin oppfyller følgende krav:Når det gjelder donorer av sæd, kom de før de ble satt inn i et karantenelokale, fra et anlegg der det ikke er påvist noe klinisk, serologisk, virologisk eller patologisk tegn på infeksjon med pseudorabiesvirus i løpet av minst de siste tolv månedene.De oppfyller de ytterligere kravene til dyrehelse fastsatt i vedlegg II del 2 og del 5 kapittel I og IV.
+
+2\. Stasjonsveterinæren skal sikre at donordyr av svin som donerer sæd, oppfyller følgende krav:Før de ble satt inn i et karantenelokale, kom de fra et anlegg som var fritt for infeksjon med *Brucella abortus, Brucella melitensis* og *Brucella suis* i samsvar med kravene fastsatt i vedlegg II del 5 kapittel IV.De er holdt i et karantenelokale som på den datoen de ble satt inn, hadde vært fritt for infeksjon med *Brucella abortus*, *Brucella melitensis* og *Brucella suis* i minst de tre siste månedene før denne datoen.De er holdt på en sædstasjon der det ikke er rapportert noe klinisk, serologisk, virologisk eller patologisk tegn på infeksjon med pseudorabiesvirus i løpet av minst de siste 30 dagene før den datoen de ble tatt inn, og minst 30 dager umiddelbart før uttaksdatoen.De er ikke vaksinert mot infeksjon med reproduksjons- og respirasjonssyndromvirus hos svin, og er holdt, siden fødselen eller minst tre måneder før datoen for ankomst til karantenelokalet, i et anlegg der ingen dyr er vaksinert mot infeksjon med reproduksjons- og respirasjonssyndromvirus hos svin, og det ble ikke påvist infeksjon med reproduksjons- og respirasjonssyndromvirus hos svin i løpet av dette tidsrommet.
+
+###### Artikkel 22
+
+Ytterligere krav til dyrehelse for donordyr av sau og geit som sæd, oocytter og embryoer ble tatt ut fra
 
 Stasjonsveterinæren, når det gjelder donorer av sæd, eller gruppeveterinæren, når det gjelder donorer av oocytter og embryoer, skal sikre at donordyrene av sau og geit oppfyller følgende krav:
 
+►**M1**
+
 1. utgår
+
+◄**M1**
 
 1. Når det gjelder donorer av sæd, kom de før de ble satt inn i et karantenelokale, fra et anlegg som var fritt for *Brucella abortus, Brucella melitensis* og *Brucella suis*, og har aldri tidligere vært holdt i et anlegg med lavere helsestatus.
 2. De oppfyller de ytterligere kravene til dyrehelse fastsatt i vedlegg II del 3 og del 5 kapittel I, II og III.
 
-1. Stasjonsveterinæren skal sikre at hestedyr som tas inn på en sædstasjon, og gruppeveterinæren skal sikre at hestedyr som brukes til uttak av oocytter og embryoer eller produksjon av embryoer, oppfyller følgende krav før uttak av avlsmateriale:De kommer fra et anleggder det ikke er rapportert om surra (*Trypanosoma evansi*) i løpet av de siste 30 dagene, eller dersom det er rapportert om surra (*Trypanosoma evansi*) i løpet av de siste to årene, har det rammede anlegget etter det siste utbruddet vært underlagt forflytningsrestriksjoner fram tilde smittede dyrene ble fjernet fra anlegget, ogde gjenværende dyrene i anlegget gjennomgikk en test for surra (*Trypanosoma evansi*) ved hjelp av en av de diagnostiske metodene som er angitt i del 3 i vedlegg I til delegert forordning [(EU) 2020/688](eu/32020r0688), utført med negativt resultat på prøver som er tatt minst seks måneder etter at det siste smittede dyret ble fjernet fra anlegget,der det ikke er rapportert om ondartet beskjelersyke i løpet av de siste seks månedene, eller dersom det er rapportert om ondartet beskjelersyke i løpet av de siste to årene, har det rammede anlegget etter det siste utbruddet vært underlagt forflytningsrestriksjoner fram tilde smittede dyrene ble avlivet og destruert eller slaktet, eller de smittede ukastrerte hanndyrene av hestefamilien ble kastrert, ogde gjenværende hestedyrene i anlegget, med unntak av de kastrerte hanndyrene av hestefamilien nevnt i første strekpunkt som ble holdt atskilt fra hunndyr av hestefamilien, gjennomgikk en test for ondartet beskjelersyke ved hjelp av en av de diagnostiske metodene som er angitt i del 8 i vedlegg I til delegert forordning [(EU) 2020/688](eu/32020r0688), utført med negativt resultat på prøver som er tatt minst seks måneder etter at tiltakene beskrevet i første strekpunkt var avsluttet,der det ikke er rapportert om infeksiøs anemi hos hest i løpet av de siste 90 dagene, eller dersom det er rapportert om infeksiøs anemi hos hest i løpet av de siste tolv månedene, har det rammede anlegget etter det siste utbruddet vært underlagt forflytningsrestriksjoner fram tilde smittede dyrene ble avlivet og destruert eller slaktet, ogde gjenværende hestedyrene i anlegget gjennomgikk en test for infeksiøs anemi hos hest ved hjelp av en av de diagnostiske metodene som er angitt i del 9 i vedlegg I til delegert forordning [(EU) 2020/688](eu/32020r0688), utført med negativt resultat på prøver som er tatt ved to anledninger med et mellomrom på minst tre måneder etter at tiltakene som er beskrevet i første strekpunkt var avsluttet, og anlegget var rengjort og desinfisert.Når det gjelder sæddonorer, er de i de siste 30 dagene før datoen for sæduttak holdt i anlegg der ingen dyr av hestefamilien i denne perioden har vist kliniske tegn på infeksjon med virusarteritt hos hest eller smittsom metritt hos hoppe.De oppfyller de ytterligere kravene til dyrehelse fastsatt i vedlegg II del 4.
+###### Artikkel 23
 
-2. Som unntak fra nr. 1 bokstav a) skal forflytningsrestriksjonene nevnt i nr. 1 bokstav a) i)–iii) fortsatt gjelde i minst 30 dager regnet fra den dagen alle dyrene i anlegget av listeførte arter for den respektive sykdommen nevnt i nr. 1 bokstav a) i)–iii) enten ble avlivet og destruert eller slaktet, dersom dette er tillatt i samsvar med nr. 1 bokstav b), og anlegget ble rengjort og desinfisert.
+Ytterligere krav til dyrehelse for donordyr av hestefamilien som sæd, oocytter og embryoer ble tatt ut fra
+
+1\. Stasjonsveterinæren skal sikre at hestedyr som tas inn på en sædstasjon, og gruppeveterinæren skal sikre at hestedyr som brukes til uttak av oocytter og embryoer eller produksjon av embryoer, oppfyller følgende krav før uttak av avlsmateriale:De kommer fra et anleggder det ikke er rapportert om surra (*Trypanosoma evansi*) i løpet av de siste 30 dagene, eller dersom det er rapportert om surra (*Trypanosoma evansi*) i løpet av de siste to årene, har det rammede anlegget etter det siste utbruddet vært underlagt forflytningsrestriksjoner fram tilde smittede dyrene ble fjernet fra anlegget, ogde gjenværende dyrene i anlegget gjennomgikk en test for surra (*Trypanosoma evansi*) ved hjelp av en av de diagnostiske metodene som er angitt i del 3 i vedlegg I til delegert forordning [(EU) 2020/688](eu/32020r0688), utført med negativt resultat på prøver som er tatt minst seks måneder etter at det siste smittede dyret ble fjernet fra anlegget,der det ikke er rapportert om ondartet beskjelersyke i løpet av de siste seks månedene, eller dersom det er rapportert om ondartet beskjelersyke i løpet av de siste to årene, har det rammede anlegget etter det siste utbruddet vært underlagt forflytningsrestriksjoner fram tilde smittede dyrene ble avlivet og destruert eller slaktet, eller de smittede ukastrerte hanndyrene av hestefamilien ble kastrert, ogde gjenværende hestedyrene i anlegget, med unntak av de kastrerte hanndyrene av hestefamilien nevnt i første strekpunkt som ble holdt atskilt fra hunndyr av hestefamilien, gjennomgikk en test for ondartet beskjelersyke ved hjelp av en av de diagnostiske metodene som er angitt i del 8 i vedlegg I til delegert forordning [(EU) 2020/688](eu/32020r0688), utført med negativt resultat på prøver som er tatt minst seks måneder etter at tiltakene beskrevet i første strekpunkt var avsluttet,der det ikke er rapportert om infeksiøs anemi hos hest i løpet av de siste 90 dagene, eller dersom det er rapportert om infeksiøs anemi hos hest i løpet av de siste tolv månedene, har det rammede anlegget etter det siste utbruddet vært underlagt forflytningsrestriksjoner fram tilde smittede dyrene ble avlivet og destruert eller slaktet, ogde gjenværende hestedyrene i anlegget gjennomgikk en test for infeksiøs anemi hos hest ved hjelp av en av de diagnostiske metodene som er angitt i del 9 i vedlegg I til delegert forordning [(EU) 2020/688](eu/32020r0688), utført med negativt resultat på prøver som er tatt ved to anledninger med et mellomrom på minst tre måneder etter at tiltakene som er beskrevet i første strekpunkt var avsluttet, og anlegget var rengjort og desinfisert.Når det gjelder sæddonorer, er de i de siste 30 dagene før datoen for sæduttak holdt i anlegg der ingen dyr av hestefamilien i denne perioden har vist kliniske tegn på infeksjon med virusarteritt hos hest eller smittsom metritt hos hoppe.De oppfyller de ytterligere kravene til dyrehelse fastsatt i vedlegg II del 4.
+
+2\. Som unntak fra nr. 1 bokstav a) skal forflytningsrestriksjonene nevnt i nr. 1 bokstav a) i)–iii) fortsatt gjelde i minst 30 dager regnet fra den dagen alle dyrene i anlegget av listeførte arter for den respektive sykdommen nevnt i nr. 1 bokstav a) i)–iii) enten ble avlivet og destruert eller slaktet, dersom dette er tillatt i samsvar med nr. 1 bokstav b), og anlegget ble rengjort og desinfisert.
+
+###### Avsnitt 3
+
+Laboratorieundersøkelser og andre tester som skal utføres på holdte donordyr av storfe, svin, sau, geit og hestefamilien, og på avlsmateriale fra disse
+
+###### Artikkel 24
+
+Laboratorieundersøkelser og andre tester som skal utføres på donordyr av storfe, svin, sau, geit og hestefamilien, og på avlsmateriale fra disse
 
 De driftsansvarlige skal sikre atdonordyr hvis avlsmateriale skal flyttes til andre medlemsstater, har gjennomgått følgende tester:Når det gjelder storfe, i vedlegg II del 1 og eventuelt del 5 kapittel I, II og III.Når det gjelder svin, i vedlegg II del 2 og eventuelt del 5 kapittel I og IV.Når det gjelder sau og geit, i vedlegg II del 3 og eventuelt del 5 kapittel I, II og III.Når det gjelder hestedyr, i vedlegg II del 4.alle testene som er nevnt i bokstav a), utføres i offisielle laboratorier.
 
-1. Vedkommende myndighet kan tillate at følgende tester nevnt i vedlegg II utføres på prøver som er tatt i karantenelokalet:Når det gjelder storfe, testene nevnt i nevnte vedleggs del 1 kapittel I nr. 1 bokstav b).Når det gjelder svin, testene nevnt i nevnte vedleggs del 2 kapittel I nr. 1 bokstav b).Når det gjelder sau og geit, testene nevnt i nevnte vedleggs del 3 kapittel I nr. 1 bokstav c).
+###### Artikkel 25
 
-2. Dersom vedkommende myndighet har gitt tillatelsene nevnt i nr. 1, skal følgende vilkår være oppfylt:Karantenetiden i karantenelokalet skal ikke begynne før datoen for prøvetakingen som kreves for testingen nevnt i nr. 1 bokstav a), b) og c).Dersom resultatene fra noen av testene nevnt i nr. 1 er positive, skal vedkommende dyr umiddelbart fjernes fra karantenelokalet.Dersom en gruppe dyr er satt i karantene, og et dyr tester positivt ved en test nevnt i nr. 1, skal karantenen i karantenelokalet først begynne for de øvrige dyrene etter at det dyret som har testet positivt, er fjernet fra karantenelokalet.
+Tillatelse til å utføre laboratorieundersøkelser på donordyr av storfe, svin, sau og geit i et karantenelokale
+
+1\. Vedkommende myndighet kan tillate at følgende tester nevnt i vedlegg II utføres på prøver som er tatt i karantenelokalet:Når det gjelder storfe, testene nevnt i nevnte vedleggs del 1 kapittel I nr. 1 bokstav b).Når det gjelder svin, testene nevnt i nevnte vedleggs del 2 kapittel I nr. 1 bokstav b).Når det gjelder sau og geit, testene nevnt i nevnte vedleggs del 3 kapittel I nr. 1 bokstav c).
+
+2\. Dersom vedkommende myndighet har gitt tillatelsene nevnt i nr. 1, skal følgende vilkår være oppfylt:Karantenetiden i karantenelokalet skal ikke begynne før datoen for prøvetakingen som kreves for testingen nevnt i nr. 1 bokstav a), b) og c).Dersom resultatene fra noen av testene nevnt i nr. 1 er positive, skal vedkommende dyr umiddelbart fjernes fra karantenelokalet.Dersom en gruppe dyr er satt i karantene, og et dyr tester positivt ved en test nevnt i nr. 1, skal karantenen i karantenelokalet først begynne for de øvrige dyrene etter at det dyret som har testet positivt, er fjernet fra karantenelokalet.
+
+###### Avsnitt 4
+
+Krav til dyrehelse ved uttak, produksjon, bearbeiding, lagring og andre prosedyrer for avlsmateriale fra storfe, svin, sau, geit og hestedyr
+
+###### Artikkel 26
+
+Driftsansvarliges plikter med hensyn til krav til dyrehelse ved uttak, produksjon, bearbeiding og lagring av avlsmateriale fra storfe, svin, sau, geit og hestedyr
 
 Driftsansvarlige skal sikre at forsendelser av sæd, oocytter og embryoer fra storfe, svin, sau, geit og hestedyr bare flyttes til andre medlemsstater dersom disse forsendelsene oppfyller kravene til dyrehelse ved uttak, produksjon, bearbeiding og lagring av avlsmateriale angitt i vedlegg III.
 
-1. Dersom avlsmateriale fra storfe, svin, sau, geit og hestedyr flyttes til en annen medlemsstat eller til et bearbeidingsanlegg for avlsmateriale eller et lager for avlsmateriale i samme medlemsstat, skal stasjonsveterinæren eller gruppeveterinæren sikre attransportcontaineren er plombert og nummerert før avsendelse fra det godkjente anlegget for avlsmateriale,
+###### Avsnitt 5
+
+Krav til dyrehelse ved transport av avlsmateriale fra storfe, svin, sau, geit og hestedyr
+
+###### Artikkel 27
+
+Stasjonsveterinærers og gruppeveterinærers ansvar for oppfyllelse av kravene til dyrehelse ved transport av avlsmateriale fra storfe, svin, sau, geit og hestedyr
+
+1\. Dersom avlsmateriale fra storfe, svin, sau, geit og hestedyr flyttes til en annen medlemsstat eller til et bearbeidingsanlegg for avlsmateriale eller et lager for avlsmateriale i samme medlemsstat, skal stasjonsveterinæren eller gruppeveterinæren sikre attransportcontaineren er plombert og nummerert før avsendelse fra det godkjente anlegget for avlsmateriale,
 ►**M1**merkingen på strå eller annen emballasje, utført i samsvar med artikkel 10, og nummeret på plomben som er påsatt containeren som stråene eller annen emballasje transporteres i, tilsvarer merkingen og nummeret angitt enten i helsesertifikatet eller i egenerklæringsdokumentet.
 ◄**M1**
 
-2. Plomben nevnt i nr. 1 bokstav a), som er påsatt på stasjonsveterinærens eller gruppeveterinærens ansvar, kan erstattes av den offentlige veterinæren.
+2\. Plomben nevnt i nr. 1 bokstav a), som er påsatt på stasjonsveterinærens eller gruppeveterinærens ansvar, kan erstattes av den offentlige veterinæren.
 
-1. Driftsansvarlige skal bare flytte sæd, oocytter og embryoer fra storfe, svin, sau, geit og hestedyr til andre medlemsstater dersom følgende krav er oppfylt:Bare én type avlsmateriale fra én art er plassert i transportcontaineren.Transportcontaineren nevnt i bokstav a)er rengjort og enten desinfisert eller sterilisert før bruk, eller er en ny engangscontainer,er fylt med et frysemedium som ikke tidligere er brukt til andre produkter.
+###### Artikkel 28
 
-2. Som unntak fra nr. 1 kan driftsansvarlige plassere sæd, oocytter og embryoer fra samme art i en og samme transportcontainer, forutsatt atstrå eller annen emballasje som avlsmateriale plasseres i, er forsvarlig og hermetisk lukket,avlsmateriale av forskjellige typer er atskilt fra hverandre med fysiske avdelinger eller ved at de plasseres i doble beskyttelsesposer.
+Driftsansvarliges ansvar for oppfyllelse av kravene til dyrehelse ved transport av avlsmateriale fra storfe, svin, sau, geit og hestedyr
 
-3. Som unntak fra nr. 1 og 2 kan driftsansvarlige plassere sæd, oocytter og embryoer fra sau og geit i en og samme transportcontainer.
+1\. Driftsansvarlige skal bare flytte sæd, oocytter og embryoer fra storfe, svin, sau, geit og hestedyr til andre medlemsstater dersom følgende krav er oppfylt:Bare én type avlsmateriale fra én art er plassert i transportcontaineren.Transportcontaineren nevnt i bokstav a)er rengjort og enten desinfisert eller sterilisert før bruk, eller er en ny engangscontainer,er fylt med et frysemedium som ikke tidligere er brukt til andre produkter.
+
+2\. Som unntak fra nr. 1 kan driftsansvarlige plassere sæd, oocytter og embryoer fra samme art i en og samme transportcontainer, forutsatt atstrå eller annen emballasje som avlsmateriale plasseres i, er forsvarlig og hermetisk lukket,avlsmateriale av forskjellige typer er atskilt fra hverandre med fysiske avdelinger eller ved at de plasseres i doble beskyttelsesposer.
+
+3\. Som unntak fra nr. 1 og 2 kan driftsansvarlige plassere sæd, oocytter og embryoer fra sau og geit i en og samme transportcontainer.
+
+###### Artikkel 29
+
+Ytterligere ansvarsområder for driftsansvarlige ved transport av sæd fra storfe, svin, sau og geit
 
 Dersom driftsansvarlige flytter forsendelser av sæd fra storfe, svin, sau eller geit som er tatt ut fra mer enn ett donordyr og plassert i ett enkelt strå eller annen emballasje, til en annen medlemsstat, skal desikre at sæden er tatt ut på en enkelt sædstasjon og sendt fra den samme sædstasjonen eller, med hensyn til unntakene fastsatt i artikkel 13 og 14, det enkelte anlegget som den er tatt ut på,ha innført prosedyrer med hensyn til bearbeiding av denne sæden for å sikre at den kan spores i samsvar med artikkel 10 og 19.
 
 ### KAPITTEL 2
 Utstedelse av helsesertifikat, egenerklæring og melding om forflytning for avlsmateriale fra storfe, svin, sau, geit og hestedyr
 
-1. Før den offentlige veterinæren utsteder et helsesertifikat til bruk ved forflytning mellom medlemsstater av forsendelser av avlsmateriale fra storfe, svin, sau, geit og hestedyr, skal vedkommende utføreen visuell undersøkelse av transportcontaineren for å kontrollere om kravene nevnt i artikkel 28 er oppfylt, og for å kontrollereplomben og nummeret som stasjons- eller gruppeveterinæren har satt på transportcontaineren som nevnt i artikkel 27 nr. 1 bokstav a), ellerom nødvendig avlsmaterialet som er plassert i transportcontaineren, og plombere og nummerere transportcontaineren etter denne kontrollen,en dokumentkontroll av dataene som er framlagt av stasjons- eller gruppeveterinæren for å sikre atopplysningene som skal attesteres, kan bekreftes ved hjelp av journalene som er ført i samsvar med artikkel 8,merkingen på strå eller annen emballasje, utført i samsvar med artikkel 10, tilsvarer nummeret angitt i helsesertifikatet og på containeren de transporteres i,kravene nevnt i kapittel 1 i del III er oppfylt.
+###### Artikkel 30
 
-2. Den offentlige veterinæren skal utføre kontrollene og undersøkelsene fastsatt i nr. 1 og utstede helsesertifikatet i løpet av de siste 72 timene før avsendelse av forsendelsen av avlsmateriale.
+Regler for utstedelse av helsesertifikat
 
-3. Utgår
+1\. Før den offentlige veterinæren utsteder et helsesertifikat til bruk ved forflytning mellom medlemsstater av forsendelser av avlsmateriale fra storfe, svin, sau, geit og hestedyr, skal vedkommende utføreen visuell undersøkelse av transportcontaineren for å kontrollere om kravene nevnt i artikkel 28 er oppfylt, og for å kontrollereplomben og nummeret som stasjons- eller gruppeveterinæren har satt på transportcontaineren som nevnt i artikkel 27 nr. 1 bokstav a), ellerom nødvendig avlsmaterialet som er plassert i transportcontaineren, og plombere og nummerere transportcontaineren etter denne kontrollen,en dokumentkontroll av dataene som er framlagt av stasjons- eller gruppeveterinæren for å sikre atopplysningene som skal attesteres, kan bekreftes ved hjelp av journalene som er ført i samsvar med artikkel 8,merkingen på strå eller annen emballasje, utført i samsvar med artikkel 10, tilsvarer nummeret angitt i helsesertifikatet og på containeren de transporteres i,kravene nevnt i kapittel 1 i del III er oppfylt.
+
+2\. Den offentlige veterinæren skal utføre kontrollene og undersøkelsene fastsatt i nr. 1 og utstede helsesertifikatet i løpet av de siste 72 timene før avsendelse av forsendelsen av avlsmateriale.
+
+►**M1**
+
+3\. Utgår
+
+◄**M1**
+
+###### Artikkel 31
+
+Opplysninger som skal inntas i helsesertifikatet for avlsmateriale fra storfe, svin, sau, geit og hestedyr som flyttes mellom medlemsstater
 
 Helsesertifikater til bruk ved forflytning mellom medlemsstater av forsendelser av avlsmateriale fra storfe, svin, sau, geit og hestedyr skal inneholde minst de opplysningene som er angitt i nr. 1 i vedlegg IV.
 
-1. Dersom en driftsansvarlig for et godkjent anlegg for avlsmateriale fra storfe, svin, sau, geit og hestedyr legger til rette for bearbeiding av avlsmateriale i et bearbeidingsanlegg for avlsmateriale, skal vedkommende driftsansvarlige sikre at et egenerklæringsdokument ledsager forsendelsen av avlsmaterialet under transporten til og fra dette bearbeidingsanlegget for avlsmateriale.
+###### Artikkel 32
 
-2. En driftsansvarlig for et godkjent anlegg for avlsmateriale skal sikre at egenerklæringsdokumentet nevnt i nr. 1 inneholder minst følgende opplysninger:Navnet på og adressen til det godkjente anlegget for avlsmateriale der avlsmaterialet tas ut eller produseres.Navnet på og adressen til bearbeidingsanlegget for avlsmateriale som avlsmaterialet flyttes til med sikte på bearbeiding.Datoene forsendelsen av avlsmaterialet flyttes til og fra et bearbeidingsanlegg for avlsmateriale.Mengden og typen avlsmateriale.
+Krav til egenerklæringsdokumentet til bruk ved forflytning til og fra bearbeidingsanlegg for avlsmateriale av forsendelser av avlsmateriale fra storfe, svin, sau, geit og hestedyr
+
+1\. Dersom en driftsansvarlig for et godkjent anlegg for avlsmateriale fra storfe, svin, sau, geit og hestedyr legger til rette for bearbeiding av avlsmateriale i et bearbeidingsanlegg for avlsmateriale, skal vedkommende driftsansvarlige sikre at et egenerklæringsdokument ledsager forsendelsen av avlsmaterialet under transporten til og fra dette bearbeidingsanlegget for avlsmateriale.
+
+2\. En driftsansvarlig for et godkjent anlegg for avlsmateriale skal sikre at egenerklæringsdokumentet nevnt i nr. 1 inneholder minst følgende opplysninger:Navnet på og adressen til det godkjente anlegget for avlsmateriale der avlsmaterialet tas ut eller produseres.Navnet på og adressen til bearbeidingsanlegget for avlsmateriale som avlsmaterialet flyttes til med sikte på bearbeiding.Datoene forsendelsen av avlsmaterialet flyttes til og fra et bearbeidingsanlegg for avlsmateriale.Mengden og typen avlsmateriale.
 ►**M1**Merkingen av avlsmaterialet i samsvar med artikkel 10.Donordyrenes art.Nummeret på plomben som er påsatt transportcontaineren.Erklæringen om at forsendelsen oppfyller kravene til dyrehelse fastsatt i kapittel 1.
 ◄**M1**
 
+###### Artikkel 33
+
+Krav til forhåndsmelding fra driftsansvarlige om forflytning av forsendelser av avlsmateriale fra storfe, svin, sau, geit og hestedyr mellom medlemsstater
+
 Dersom forsendelser av avlsmateriale fra storfe, svin, sau, geit og hestedyr flyttes til en annen medlemsstat, skal driftsansvarlige for godkjente anlegg for avlsmateriale, anlegg der det holdes sauer og geiter som nevnt i artikkel 13, eller avgrensede anlegg som nevnt i artikkel 14, på forhånd gi vedkommende myndighet i sin opprinnelsesmedlemsstat melding om den planlagte forflytningen av disse forsendelsene av avlsmateriale.
+
+###### Artikkel 34
+
+Opplysninger som kreves ved melding om forflytning av forsendelser av avlsmateriale fra storfe, svin, sau, geit og hestedyr mellom medlemsstater
 
 Driftsansvarlige som gir vedkommende myndighet i sin opprinnelsesmedlemsstat melding i samsvar med artikkel 33, skal gi nevnte vedkommende myndighet opplysninger om hver forsendelse av avlsmateriale som skal flyttes til en annen medlemsstat, som fastsatt inr. 1 bokstav a)–f) i vedlegg IV dersom avlsmaterialet ledsages av et helsesertifikat, ellerartikkel 32 nr. 2 dersom avlsmaterialet ledsages av et egenerklæringsdokument.
 
-Ved strømbrudd og andre forstyrrelser i IMSOC skal vedkommende myndighet på opprinnelsesstedet for forsendelsen av avlsmateriale fra storfe, svin, sau, geit og hestedyr som skal flyttes mellom medlemsstater, overholde beredskapsplanene fastsatt i artikkel 46 i kommisjonens gjennomføringsforordning (EU) 2019/1715*.
+►**M1**
+
+###### Artikkel 35
+
+Nødrutiner for melding om forflytning av forsendelser av avlsmateriale fra storfe, svin, sau, geit og hestedyr mellom medlemsstater ved strømbrudd og andre forstyrrelser i IMSOC
+
+Ved strømbrudd og andre forstyrrelser i IMSOC skal vedkommende myndighet på opprinnelsesstedet for forsendelsen av avlsmateriale fra storfe, svin, sau, geit og hestedyr som skal flyttes mellom medlemsstater, overholde beredskapsplanene fastsatt i artikkel 46 i kommisjonens gjennomføringsforordning (EU) 2019/1715\*.
+
+\* Kommisjonens gjennomføringsforordning [(EU) 2019/1715](eu/32019r1715) av 30. september 2019 om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter («IMSOC-forordningen») (EUT L 261 av 14.10.2019, s. 37).
+
+◄**M1**
 
 ### KAPITTEL 3
 Krav til dyrehelse, utstedelse av helsesertifikat og melding for avlsmateriale fra andre dyr enn storfe, svin, sau, geit og hestedyr
 
+###### Artikkel 36
+
+►**M2**
+
+◄**M2**
+
+###### Artikkel 37
+
+Krav til dyrehelse ved forflytning til andre medlemsstater av avlsmateriale fra andre holdte landdyr enn storfe, svin, sau, geit og hestedyr mellom avgrensede anlegg
+
 Driftsansvarlige for avgrensede anlegg skal bare flytte avlsmateriale fra andre landdyr enn storfe, svin, sau, geit og hestedyr som holdes på slike anlegg, til avgrensede anlegg i andre medlemsstater dersom donordyreneer født i og siden fødselen har oppholdt seg i Unionen, eller er innført til Unionen i samsvar med kravene som gjelder ved innførsel til Unionen,har oppholdt seg i ett enkelt avgrenset opprinnelsesanlegg i minst de siste 30 dagene før datoen for uttak av sæd, ooocytter eller embryoer,ikke kommer fra, og heller ikke har vært i kontakt med dyr fra, et anlegg som ligger i en restriksjonssone som er opprettet på grunn av forekomst av en kategori A-sykdom eller en ny sykdom som er relevant for arten som disse holdte landdyrene tilhører,kommer fra et anlegg der ingen kategori D-sykdom som er relevant for denne arten, er rapportert i løpet av minst de siste 30 dagene før datoen for uttak av sæd, ooocytter eller embryoer,er identifisert og registrert i samsvar med reglene for dette avgrensede anlegget,i så stor grad som mulig ikke er brukt til naturlig bedekning minst de siste 30 dagene før datoen for første uttak og i det tidsrommet uttaket av sæd, oocytter eller embryoer som er beregnet på forflytning til en annen medlemsstat, ble utført,er undersøkt klinisk av anleggets veterinær som er ansvarlig for virksomheten som foretas på det avgrensede anlegget, og de hadde ingen sykdomssymptomer den dagen sæden, oocyttene eller embryoene ble tatt ut.
+
+###### Artikkel 38
+
+Krav til dyrehelse ved forflytning til andre medlemsstater av avlsmateriale fra dyr av familiene *Camelidae* og *Cervidae*
 
 Driftsansvarlige skal bare flytte til en annen medlemsstat avlsmateriale som er tatt ut fra dyr av familien *Camelidae* eller *Cervidae* somer født i og siden fødselen har oppholdt seg i Unionen, eller som er innført til Unionen i samsvar med kravene som gjelder ved innførsel til Unionen,har oppholdt seg i ett enkelt opprinnelsesanlegg i minst de siste 30 dagene før datoen for uttak av sæd, ooocytter eller embryoer,ikke kommer fra, og heller ikke har vært i kontakt med dyr fra, et anlegg som ligger i en restriksjonssone som er opprettet på grunn av forekomst av en kategori A-sykdom eller en ny sykdom som er relevant for arten som disse holdte landdyrene tilhører,kommer fra et anlegg der det i løpet av minst de siste tolv månedene før datoen for uttak av sæd, ooocytter eller embryoerer gjennomført et overvåkingsprogram for å påvise infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae* og *M. tuberculosis*) i samsvar med del 2 eller 3 i vedlegg II til delegert forordning [(EU) 2020/688](eu/32020r0688),ikke er tatt inn dyr av familien *Camelidae* eller *Cervidae* som ikke oppfyller kravene nevnt i punkt i),ved mistanke om infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae* og *M. tuberculosis*) er gjennomført undersøkelser, og sykdommen er blitt utelukket,kommer fra et anleggder infeksjon med *Brucella abortus, Brucella melitensis* og *Brucella suis* ikke er rapportert i løpet av minst de siste 42 dagene før datoen for uttak av sæd, ooocytter eller embryoer,der, når det gjelder dyr av familien *Camelidae*, alle dyr i anlegget har gjennomgått en test for infeksjon med *Brucella abortus, Brucella melitensis* og *Brucella suis* som nevnt i del 1 i vedlegg I til delegert forordning [(EU) 2020/688](eu/32020r0688), utført med negativt resultat på prøver som er tatt i løpet av de siste 30 dagene før datoen for uttak av sæd, ooocytter eller embryoer,kommer fra et anlegg der infeksiøs bovin rhinotrakeitt/infeksiøs pustuløs vulvovaginitt ikke er rapportert i løpet av minst de siste 30 dagene før datoen for uttak av sæd, ooocytter eller embryoer,kommer fra et anlegg der infeksjon med hemoragisk epizooti-virus ikke er rapportert innenfor en radius på 150 km rundt anlegget i løpet av minst de siste to årene før datoen for uttak av sæd, ooocytter eller embryoer,kommer fra et anlegg der infeksjon med rabiesvirus ikke er bekreftet i løpet av minst de siste 30 dagene før datoen for utak av avlsmaterialet,kommer fra et anlegg der miltbrann ikke er rapportert i løpet av minst de siste 15 dagene før datoen for uttak av sæd, ooocytter eller embryoer,kommer fra et anlegg der surra (*Trypanosoma evansi*)ikke er rapportert i løpet av minst de siste 30 dagene før datoen for uttak av sæd, ooocytter eller embryoer, ellerer bekreftet i løpet av de siste to årene, men etter det siste utbruddet av denne sykdommen har anlegget vært underlagt forflytningsrestriksjoner fram tilde smittede dyrene ble fjernet fra anlegget, ogde gjenværende dyrene i anlegget gjennomgikk en test for surra (*Trypanosoma evansi*) nevnt i del 3 i vedlegg I til delegert forordning [(EU) 2020/688](eu/32020r0688), utført med negativt resultat på prøver som er tatt minst seks måneder etter at de smittede dyrene ble fjernet fra anlegget,oppfyller kravene til dyrehelse med hensyn til infeksjon med blåtungevirus (serotype 1–24) fastsatt i kapittel II i del 5 i vedlegg II,ikke har vært i kontakt med dyr som ikke oppfylte kravene i bokstav a) og i bokstav c)–k) i løpet av oppholdsperioden på minst 30 dager angitt i bokstav b),er undersøkt klinisk av en veterinær og ikke viste sykdomssymptomer den dagen sæden, oocyttene eller embryoene ble tatt ut,er identifisert i samsvar med artikkel 73 nr. 1 eller 2 eller artikkel 74 i forordning [(EU) 2019/2035](eu/32019r2035),ikke er brukt til naturlig bedekning minst de siste 30 dagene før datoen for uttak av sæd, ooocytter eller embryoer og i det tidsrommet uttaket ble utført.
 
-1.
+###### Artikkel 39
 
-2. Før den offentlige veterinæren undertegner et helsesertifikat til bruk ved forflytning mellom medlemsstater av forsendelser av avlsmateriale fra andre landdyr enn storfe, svin, sau, geit eller hestedyr som holdes i avgrensede anlegg, skal vedkommende utføreen visuell undersøkelse av transportcontaineren for å kontrollereplomben og nummeret som anleggets veterinær som er ansvarlig for virksomheten som utføres i det avgrensede anlegget, har satt på transportcontaineren, ellerom nødvendig avlsmaterialet som er plassert i transportcontaineren, og plombere og nummerere transportcontaineren etter denne kontrollen,en dokumentkontroll av dataene som er framlagt av anleggets veterinær som er ansvarlig for virksomheten som utføres i det avgrensede anlegget, for å sikre atopplysningene som skal attesteres, kan bekreftes ved hjelp av journalene som er ført i det avgrensede anlegget,
+Regler for utstedelse av helsesertifikat
+
+1\.
+
+►**M2**
+
+◄**M2**
+
+2\. Før den offentlige veterinæren undertegner et helsesertifikat til bruk ved forflytning mellom medlemsstater av forsendelser av avlsmateriale fra andre landdyr enn storfe, svin, sau, geit eller hestedyr som holdes i avgrensede anlegg, skal vedkommende utføreen visuell undersøkelse av transportcontaineren for å kontrollereplomben og nummeret som anleggets veterinær som er ansvarlig for virksomheten som utføres i det avgrensede anlegget, har satt på transportcontaineren, ellerom nødvendig avlsmaterialet som er plassert i transportcontaineren, og plombere og nummerere transportcontaineren etter denne kontrollen,en dokumentkontroll av dataene som er framlagt av anleggets veterinær som er ansvarlig for virksomheten som utføres i det avgrensede anlegget, for å sikre atopplysningene som skal attesteres, kan bekreftes ved hjelp av journalene som er ført i det avgrensede anlegget,
 ►**M1**merkingen på strå eller annen emballasje, utført i samsvar med artikkel 11, og nummeret på plomben som er påsatt containeren som stråene eller annen emballasje transporteres i, tilsvarer merkingen og nummeret angitt i helsesertifikatet,
 ◄**M1**kravene nevnt i artikkel 37 er oppfylt.
 
-3. Før den offentlige veterinæren undertegner et helsesertifikat til bruk ved forflytning mellom medlemsstater av forsendelser av avlsmateriale fra dyr av familien *Camelidae* eller *Cervidae*, skal vedkommende utføreen visuell undersøkelse av transportcontaineren for å kontrollereplomben og nummeret som den driftsansvarlige har satt på transportcontaineren, ellerom nødvendig avlsmaterialet som er plassert i transportcontaineren, og plombere og nummerere transportcontaineren etter denne kontrollen,en dokumentkontroll av dataene som er framlagt av den driftsansvarlige for å sikre atopplysningene som skal attesteres, kan bekreftes ved hjelp av journalene som er ført i anlegget,
+3\. Før den offentlige veterinæren undertegner et helsesertifikat til bruk ved forflytning mellom medlemsstater av forsendelser av avlsmateriale fra dyr av familien *Camelidae* eller *Cervidae*, skal vedkommende utføreen visuell undersøkelse av transportcontaineren for å kontrollereplomben og nummeret som den driftsansvarlige har satt på transportcontaineren, ellerom nødvendig avlsmaterialet som er plassert i transportcontaineren, og plombere og nummerere transportcontaineren etter denne kontrollen,en dokumentkontroll av dataene som er framlagt av den driftsansvarlige for å sikre atopplysningene som skal attesteres, kan bekreftes ved hjelp av journalene som er ført i anlegget,
 ►**M1**merkingen på strå eller annen emballasje, utført i samsvar med artikkel 11, og nummeret på plomben som er påsatt containeren som stråene eller annen emballasje transporteres i, tilsvarer merkingen og nummeret angitt i helsesertifikatet,
 ◄**M1**kravene nevnt i artikkel 38 er oppfylt.
 
-4. Den offentlige veterinæren skal utføre kontrollene og undersøkelsene fastsatt i nr. 2 og 3 og utstede helsesertifikatet i løpet av de siste 72 timene før avsendelse av forsendelsen av avlsmateriale.
+►**M2**
 
-5. Utgår
+4\. Den offentlige veterinæren skal utføre kontrollene og undersøkelsene fastsatt i nr. 2 og 3 og utstede helsesertifikatet i løpet av de siste 72 timene før avsendelse av forsendelsen av avlsmateriale.
+
+◄**M2**
+
+►**M1**
+
+5\. Utgår
+
+◄**M1**
+
+►**M2**
+
+###### Artikkel 40
+
+Krav til utstedelse av helsesertifikat ved forflytning av forsendelser av avlsmateriale fra andre holdte landdyr enn storfe, svin, sau, geit og hestedyr mellom medlemsstater
 
 Helsesertifikater til bruk ved forflytning mellom medlemsstater av forsendelser av avlsmateriale fra andre landdyr enn storfe, svin, sau, geit eller hestedyr som holdes i avgrensede anlegg, og fra dyr av familien *Camelidae* eller *Cervidae* skal inneholde minst de opplysningene som er angitt i [nr. 2 i vedlegg IV](forskrift/2022-04-06-630/vedleggIV/nummer/2).
 
+###### Artikkel 41
+
+Krav til forhåndsmelding fra driftsansvarlige om forflytning av forsendelser av avlsmateriale fra andre holdte landdyr enn storfe, svin, sau, geit og hestedyr mellom medlemsstater
+
 Dersom forsendelser av avlsmateriale fra andre landdyr enn storfe, svin, sau, geit eller hestedyr som holdes i avgrensede anlegg, eller fra dyr av familien *Camelidae* eller *Cervidae* flyttes til en annen medlemsstat, skal den driftsansvarlige på forhånd gi vedkommende myndighet i forsendelsenes opprinnelsesmedlemsstat melding om den planlagte forflytningen av disse forsendelsene av avlsmateriale.
+
+◄**M2**
+
+###### Artikkel 42
+
+Opplysninger som kreves ved melding om forflytning av forsendelser av avlsmateriale fra andre holdte landdyr enn storfe, svin, sau, geit og hestedyr mellom medlemsstater
 
 Driftsansvarlige som er pålagt å gi vedkommende myndighet i forsendelsenes opprinnelsesmedlemsstat melding i samsvar med artikkel 41, skal gi nevnte vedkommende myndighet opplysninger om hver forsendelse av avlsmateriale som skal flyttes til en annen medlemsstat, som fastsatt i nr. 2 bokstav a)–f) i vedlegg IV.
 
+►**M1**
+
+###### Artikkel 43
+
+Nødrutiner for melding om forflytning av forsendelser av avlsmateriale fra andre holdte landdyr enn storfe, svin, sau, geit og hestedyr mellom medlemsstater ved strømbrudd og andre forstyrrelser i IMSOC
+
 Ved strømbrudd og andre forstyrrelser i IMSOC skal den vedkommende myndigheten på opprinnelsesstedet for forsendelsen av avlsmateriale fra andre holdte landdyr enn storfe, svin, sau, geit og hestedyr som skal flyttes mellom medlemsstater, overholde beredskapsplanene fastsatt i artikkel 46 i gjennomføringsforordning (EU) 2019/1715.
+
+◄**M1**
 
 ### KAPITTEL 4
 Ytterligere regler for vedkommende myndigheters innrømmelse av unntak for avlsmateriale
 
-1. Vedkommende myndigheter i opprinnelsesmedlemsstatene kan gi unntak for forflytning til en annen medlemsstat av avlsmateriale beregnet på vitenskapelige formål som ikke oppfyller kravene til dyrehelse fastsatt i kapittel 1 eller 3, forutsatt at den driftsansvarlige for avsenderanlegget har innhentet skriftlig forhåndssamtykke fra vedkommende myndighet i bestemmelsesmedlemsstaten om å motta forsendelsen av avlsmateriale.
+###### Artikkel 44
 
-2. Vedkommende myndighet i bestemmelsesmedlemsstaten skal bare samtykke i å motta forsendelsen av avlsmateriale nevnt i nr. 1 dersom den driftsansvarlige for bestemmelsesanlegget som skal motta dette avlsmaterialet, sikrer at avlsmaterialet bare brukes til vitenskapelige formål på vilkår som hindrer spredning av kategori D-sykdommer.
+Ytterligere regler for vedkommende myndigheters innrømmelse av unntak for avlsmateriale beregnet på vitenskapelige formål
 
-1. Vedkommende myndigheter i opprinnelsesmedlemsstatene kan gi unntak for forflytninger av avlsmateriale til genbanker i en annen medlemsstat, forutsatt at den driftsansvarlige for avsenderanlegget har innhentet skriftlig forhåndssamtykke fra vedkommende myndighet i bestemmelsesmedlemsstaten om å motta forsendelsen av avlsmateriale fradyr fra utryddelsestruede raser som ikke oppfyller kravene til dyrehelse fastsatt i kapittel 1, ellerandre landdyr enn storfe, svin, sau, geit og hestedyr som holdes i avgrensede anlegg, som ikke oppfyller kravene til dyrehelse fastsatt i artikkel 37.
+1\. Vedkommende myndigheter i opprinnelsesmedlemsstatene kan gi unntak for forflytning til en annen medlemsstat av avlsmateriale beregnet på vitenskapelige formål som ikke oppfyller kravene til dyrehelse fastsatt i kapittel 1 eller 3, forutsatt at den driftsansvarlige for avsenderanlegget har innhentet skriftlig forhåndssamtykke fra vedkommende myndighet i bestemmelsesmedlemsstaten om å motta forsendelsen av avlsmateriale.
 
-2. Vedkommende myndighet i bestemmelsesmedlemsstaten skal bare samtykke i å motta forsendelsen av avlsmateriale nevnt i nr. 1 dersomden driftsansvarlige for genbanken som skal motta dette avlsmaterialet, sikrer at avlsmaterialet bare brukes til *ex situ*-bevaring og bærekraftig bruk av holdte landdyrs genetiske ressurser som den mottakende genbanken ble opprettet for,den har nok opplysninger, herunder opplysninger fra vedkommende myndighet i opprinnelsesmedlemsstaten eller testresultater, eller behandler avlsmaterialet slik at den kan hindre spredning av munn- og klovsyke, infeksjon med kvegpestvirus og andre listeførte sykdommer.
+2\. Vedkommende myndighet i bestemmelsesmedlemsstaten skal bare samtykke i å motta forsendelsen av avlsmateriale nevnt i nr. 1 dersom den driftsansvarlige for bestemmelsesanlegget som skal motta dette avlsmaterialet, sikrer at avlsmaterialet bare brukes til vitenskapelige formål på vilkår som hindrer spredning av kategori D-sykdommer.
 
-1. Dersom avlsmateriale som er beregnet på vitenskapelige formål eller på lagring i genbanker, skal flyttes til en annen medlemsstat, skal den driftsansvarlige for avsenderanlegget sikre at et egenerklæringsdokument ledsager avlsmaterialet under transporten til bestemmelsesstedet.
+###### Artikkel 45
 
-2. Den driftsansvarlige for avsenderanlegget skal sikre at egenerklæringsdokumentet fastsatt i nr. 1 inneholder minst følgende opplysninger:Avsenderens og mottakerens navn og adresse.Avsenderstedets og bestemmelsesstedets navn og adresse.
+Ytterligere regler for vedkommende myndigheters innrømmelse av unntak for avlsmateriale som flyttes til genbanker i en annen medlemsstat
+
+1\. Vedkommende myndigheter i opprinnelsesmedlemsstatene kan gi unntak for forflytninger av avlsmateriale til genbanker i en annen medlemsstat, forutsatt at den driftsansvarlige for avsenderanlegget har innhentet skriftlig forhåndssamtykke fra vedkommende myndighet i bestemmelsesmedlemsstaten om å motta forsendelsen av avlsmateriale fradyr fra utryddelsestruede raser som ikke oppfyller kravene til dyrehelse fastsatt i kapittel 1, ellerandre landdyr enn storfe, svin, sau, geit og hestedyr som holdes i avgrensede anlegg, som ikke oppfyller kravene til dyrehelse fastsatt i artikkel 37.
+
+2\. Vedkommende myndighet i bestemmelsesmedlemsstaten skal bare samtykke i å motta forsendelsen av avlsmateriale nevnt i nr. 1 dersomden driftsansvarlige for genbanken som skal motta dette avlsmaterialet, sikrer at avlsmaterialet bare brukes til *ex situ*-bevaring og bærekraftig bruk av holdte landdyrs genetiske ressurser som den mottakende genbanken ble opprettet for,den har nok opplysninger, herunder opplysninger fra vedkommende myndighet i opprinnelsesmedlemsstaten eller testresultater, eller behandler avlsmaterialet slik at den kan hindre spredning av munn- og klovsyke, infeksjon med kvegpestvirus og andre listeførte sykdommer.
+
+###### Artikkel 46
+
+Regler om og opplysninger som skal inntas i egenerklæringsdokumentet for avlsmateriale som er beregnet på vitenskapelige formål, eller som skal flyttes til genbanker i en annen medlemsstat
+
+1\. Dersom avlsmateriale som er beregnet på vitenskapelige formål eller på lagring i genbanker, skal flyttes til en annen medlemsstat, skal den driftsansvarlige for avsenderanlegget sikre at et egenerklæringsdokument ledsager avlsmaterialet under transporten til bestemmelsesstedet.
+
+2\. Den driftsansvarlige for avsenderanlegget skal sikre at egenerklæringsdokumentet fastsatt i nr. 1 inneholder minst følgende opplysninger:Avsenderens og mottakerens navn og adresse.Avsenderstedets og bestemmelsesstedets navn og adresse.
 ►**M1**Avsendelsesdatoen for forsendelsen.
 ◄**M1**Typen avlsmateriale og donordyrenes art.Antall strå eller annen emballasje i forsendelsen som skal sendes.Følgende opplysninger som gjør det mulig å identifisere avlsmaterialet:Merkingen på strå eller annen emballasje.Sted og dato for uttak eller produksjon.►**M1**Tilgjengelige testresultater som nevnt i artikkel 45 nr. 2 bokstav b).Nummeret på plomben som er påsatt transportcontaineren.Erklæringen om at forsendelsen oppfyller kravene fastsatt i artikkel 44 eller 45, inkludert at det er innhentet skriftlige forhåndssamtykke fra den vedkommende myndigheten i bestemmelsesmedlemsstaten om å motta forsendelsen av avlsmateriale.
 ◄**M1**
 
+###### Artikkel 47
+
+Forhåndsmelding fra driftsansvarlige om forflytning mellom medlemsstater av avlsmateriale beregnet på vitenskapelige formål eller på genbanker
+
 Dersom avlsmateriale som er beregnet på vitenskapelige formål eller på lagring i genbanker, skal flyttes til en annen medlemsstat, skal den driftsansvarlige for avsenderanlegget på forhånd gi vedkommende myndighet i forsendelsens opprinnelsesmedlemsstat melding om den planlagte forflytningen av dette avlsmaterialet og gi opplysningene angitt i artikkel 46 nr. 2 bokstav a)–g).
 
+►**M1**
+
+###### Artikkel 48
+
+Nødrutiner for melding om forflytning mellom medlemsstater av avlsmateriale beregnet på vitenskapelige formål eller på lagring i genbanker ved strømbrudd og andre forstyrrelser i IMSOC
+
 Ved strømbrudd og andre forstyrrelser i IMSOC skal den vedkommende myndigheten på opprinnelsesstedet for forsendelsen av avlsmateriale beregnet på vitenskapelige formål eller på lagring i genbanker, som skal flyttes mellom medlemsstater, overholde beredskapsplanene fastsatt i artikkel 46 i gjennomføringsforordning (EU) 2019/1715.
+
+◄**M1**
 
 ### DEL IV
 SLUTTBESTEMMELSER
 
+►**M1**
+
 ### Artikkel 49. Overgangstiltak
 
-1. Sædstasjoner, sædlagre, embryouttaksgrupper og embryoproduksjonsgrupper som er godkjent før 21. april 2021 i samsvar med direktiv [88/407/EØF](eu/31988l0407), [89/556/EØF](eu/31989l0556), [90/429/EØF](eu/31990l0429) og [92/65/EØF](eu/31992l0065) nevnt i sjette, sjuende, åttende og tolvte strekpunkt i artikkel 270 nr. 2 første ledd i forordning [(EU) 2016/429](eu/32016r0429), skal anses å være godkjent i samsvar med artikkel 97 i forordning [(EU) 2016/429](eu/32016r0429) og artikkel 4 i denne forordningen.I alle andre henseender skal de være omfattet av reglene fastsatt i forordning [(EU) 2016/429](eu/32016r0429) og i denne forordningen.
+1\. Sædstasjoner, sædlagre, embryouttaksgrupper og embryoproduksjonsgrupper som er godkjent før 21. april 2021 i samsvar med direktiv [88/407/EØF](eu/31988l0407), [89/556/EØF](eu/31989l0556), [90/429/EØF](eu/31990l0429) og [92/65/EØF](eu/31992l0065) nevnt i sjette, sjuende, åttende og tolvte strekpunkt i artikkel 270 nr. 2 første ledd i forordning [(EU) 2016/429](eu/32016r0429), skal anses å være godkjent i samsvar med artikkel 97 i forordning [(EU) 2016/429](eu/32016r0429) og artikkel 4 i denne forordningen.I alle andre henseender skal de være omfattet av reglene fastsatt i forordning [(EU) 2016/429](eu/32016r0429) og i denne forordningen.
 
-2. Forflytning mellom medlemsstater av sæd, oocytter og embryoer som er tatt ut, produsert, bearbeidet og lagret før 21. april 2021 ►**EØS** eller ikrafttredelsesdatoen for EØS-komiteens beslutning nr. [2/2021](eu/22021d0002) av 5. februar 2021, alt etter hva som inntreffer sist, ◄**EØS** skal tillates, forutsatt at disse produktene når det gjelder uttak, produksjon, bearbeiding og lagring av avlsmateriale, krav til dyrehelse for donordyr og laboratorieundersøkelser og andre tester som utføres på donordyr og avlsmateriale, oppfyller kravene fastsatt i direktiv [88/407/EØF](eu/31988l0407), [89/556/EØF](eu/31989l0556), [90/429/EØF](eu/31990l0429) og [92/65/EØF](eu/31992l0065).
+2\. Forflytning mellom medlemsstater av sæd, oocytter og embryoer som er tatt ut, produsert, bearbeidet og lagret før 21. april 2021 ►**EØS** eller ikrafttredelsesdatoen for EØS-komiteens beslutning nr. [2/2021](eu/22021d0002) av 5. februar 2021, alt etter hva som inntreffer sist, ◄**EØS** skal tillates, forutsatt at disse produktene når det gjelder uttak, produksjon, bearbeiding og lagring av avlsmateriale, krav til dyrehelse for donordyr og laboratorieundersøkelser og andre tester som utføres på donordyr og avlsmateriale, oppfyller kravene fastsatt i direktiv [88/407/EØF](eu/31988l0407), [89/556/EØF](eu/31989l0556), [90/429/EØF](eu/31990l0429) og [92/65/EØF](eu/31992l0065).
 
-3. Strå og annen emballasje som sæd, oocytter eller embryoer plasseres, lagres og transporteres i, uavhengig av om de er delt inn i enkeltdoser, og som er merket før 21. april 2021 ► **EØS** eller ikrafttredelsesdatoen for EØS-komiteens beslutning nr. [2/2021](eu/22021d0002) av 5. februar 2021, alt etter hva som inntreffer sist, ◄ **EØS** i samsvar med direktiv [88/407/EØF](eu/31988l0407), [89/556/EØF](eu/31989l0556), [90/429/EØF](eu/31990l0429) og [92/65/EØF](eu/31992l0065), skal anses å være merket i samsvar med artikkel 121 i forordning [(EU) 2016/429](eu/32016r0429) og artikkel 10 i denne forordningen.
+3\. Strå og annen emballasje som sæd, oocytter eller embryoer plasseres, lagres og transporteres i, uavhengig av om de er delt inn i enkeltdoser, og som er merket før 21. april 2021 ► **EØS** eller ikrafttredelsesdatoen for EØS-komiteens beslutning nr. [2/2021](eu/22021d0002) av 5. februar 2021, alt etter hva som inntreffer sist, ◄ **EØS** i samsvar med direktiv [88/407/EØF](eu/31988l0407), [89/556/EØF](eu/31989l0556), [90/429/EØF](eu/31990l0429) og [92/65/EØF](eu/31992l0065), skal anses å være merket i samsvar med artikkel 121 i forordning [(EU) 2016/429](eu/32016r0429) og artikkel 10 i denne forordningen.
 
-4. Helsesertifikater som er utstedt før 21. april 2021 i samsvar med direktiv [88/407/EØF](eu/31988l0407), [89/556/EØF](eu/31989l0556), [90/429/EØF](eu/31990l0429) og [92/65/EØF](eu/31992l0065), skal anses å være utstedt i samsvar med artikkel 162 i forordning [(EU) 2016/429](eu/32016r0429) og artikkel 30 og 31 i denne forordningen
+4\. Helsesertifikater som er utstedt før 21. april 2021 i samsvar med direktiv [88/407/EØF](eu/31988l0407), [89/556/EØF](eu/31989l0556), [90/429/EØF](eu/31990l0429) og [92/65/EØF](eu/31992l0065), skal anses å være utstedt i samsvar med artikkel 162 i forordning [(EU) 2016/429](eu/32016r0429) og artikkel 30 og 31 i denne forordningen
+
+◄**M1**
 
 ### Artikkel 50. Ikrafttredelse og anvendelse
 
@@ -464,9 +788,15 @@ Denne forordningen trer i kraft den 20. dagen etter at den er kunngjort i *Den e
 
 Den får anvendelse fra 21. april 2021.
 
-Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
+Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.Utferdiget i Brussel 17. desember 2019.
 
-Utferdiget i Brussel 17. desember 2019.
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  |  |
+|  | Ursula von der Leyen |
+|  |  |
+|  | *President* |
 
 ### VEDLEGG I
 REGLER FOR UTTAK, PRODUKSJON, BEARBEIDING OG LAGRING AV AVLSMATERIALE FRA STORFE, SVIN, SAU, GEIT OG HESTEDYR SOM NEVNT I KAPITTEL 1 I DEL II
@@ -490,7 +820,11 @@ KRAV TIL GODKJENNING AV EN EMBRYOUTTAKSGRUPPE NEVNT I ARTIKKEL 4
 ►**M2**Merking av strå og annen emballasje som oocytter eller in vivo-produserte embryoer plasseres i, i samsvar med kravene fastsatt i artikkel 10 nr. 1 og 5.
 ◄**M2**Opplæring av medlemmene i embryouttaksgruppen med hensyn til desinfisering og hygiene for å hindre spredning av sykdommer.Gruppeveterinæren skal fastsette kravene til dyrehelse og biosikkerhet som gjelder for arbeidet i embryouttaksgruppen samt tiltakene som sikrer at disse kravene oppfylles, herunder analyse av prøver innenfor rammen av en kvalitetskontrollordning.
 
+►**M2**
+
 1. Fasiliteter, utstyr og prosedyrer for arbeidet i en embryouttaksgruppe, som nevnt i artikkel 4 nr. 1 bokstav b) ii), skal oppfylle kravene i bokstav a) og b) nedenfor:Embryouttaksgruppen skal ha tilgang til et laboratorium der oocytter eller in vivo-produserte embryoer kan undersøkes, bearbeides og emballeres med egnet utstyr, og dette laboratoriet skal være entenet stasjonært laboratorium som skal haet rom der oocytter eller in vivo-produserte embryoer kan bearbeides, og som er fysisk atskilt fra det området som benyttes til håndtering av donordyrene under uttaket,et rom eller område for rengjøring og sterilisering av instrumenter som brukes til uttak og bearbeiding av oocytter eller in vivo produserte embryoer, bortsett fra når bare nytt engangsutstyr brukes,et rom for lagring av oocytter eller in vivo-produserte embryoer,elleret mobilt laboratorium der det skalfinnes en spesialutstyrt del av kjøretøyet som består av to atskilte avdelinger: en avdeling for undersøkelse og bearbeiding av oocytter eller in vivo-produserte embryoer, som skal være den rene avdelingen, og en annen avdeling for oppbevaring av utstyr og materiell som kommer i kontakt med donordyr,brukes bare engangsutstyr, med mindre steriliseringen av utstyret og forsyningen av væsker og andre produkter som er nødvendige for uttak og bearbeiding av oocytter eller in vivio-produserte embryoer, utføres ved et stasjonært laboratorium.Laboratoriene nevnt i punkt i) og ii) skal være utformet og innrettet slik at det ikke skjer krysskontaminering av oocytter eller in vivo-produserte embryoer, og gruppen skal utføre sitt arbeid på en måte som hindrer krysskontaminering.Embryouttaksgruppen skal ha tilgang til lagerlokaler som oppfyller følgende vilkår:De har minst ett låsbart rom for lagring av oocytter eller in vivo-produserte embryoer.De skal være lette å rengjøre og desinfisere.De skal ha permanente journaler over alle inn- og utgående oocytter eller in vivo-produserte embryoer.De skal ha lagringscontainere for oocytter eller in vivo-produserte embryoer.
+
+◄**M2**
 
 ### DEL 3
 KRAV TIL GODKJENNING AV EN EMBRYOPRODUKSJONSGRUPPE NEVNT I ARTIKKEL 4
@@ -523,6 +857,10 @@ YTTERLIGERE KRAV TIL DYREHELSE FOR STORFE, SVIN, SAU, GEIT OG HESTEDYR SOM AVLSM
 ### DEL 1
 YTTERLIGERE KRAV TIL DYREHELSE FOR STORFE SOM AVLSMATERIALE ER TATT UT FRA, OG MED HENSYN TIL KARANTENE OG LABORATORIEUNDERSØKELSER ELLER ANDRE TESTER AV SLIKE DYR SOM NEVNT I ARTIKKEL 20
 
+###### Kapittel I
+
+Ytterligere krav til dyrehelse for storfe som sæd er tatt ut fra, og med hensyn til karantene og laboratorieundersøkelser eller andre tester av slike dyr
+
 1. Alt storfe som tas inn på en sædstasjon, skal oppfylle følgende krav:Dyrene skal ha vært i karantene i karantenelokaler der det bare befant seg andre klovdyr med minst like god helsestatus.I løpet av de siste 30 dagene før begynnelsen av karantenen nevnt i bokstav a) skal dyrene ha gjennomgått følgende tester med negativt resultat i hvert enkelt tilfelle, unntatt med hensyn til testen for påvisning av antistoffer mot bovin virusdiaré nevnt i punkt v):
 ►**M1**For infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae* og *M. tuberculosis*), en test nevnt i del 2 i vedlegg I til delegert forordning [(EU) 2020/688](eu/32020r0688).◄**M1**For infeksjon med *Brucella abortus, Brucella melitensis* og *Brucella suis*, en serologisk test nevnt i del 1 nr. 1 i vedlegg I til delegert forordning [(EU) 2020/688](eu/32020r0688).
 ►**M1**For enzootisk bovin leukose, en serologisk test nevnt i del 4 bokstav a) i vedlegg I til delegert forordning [(EU) 2020/688](eu/32020r0688), med mindre unntaket fastsatt i artikkel 20 nr. 2 bokstav a) i denne forordningen får anvendelse.
@@ -531,8 +869,16 @@ YTTERLIGERE KRAV TIL DYREHELSE FOR STORFE SOM AVLSMATERIALE ER TATT UT FRA, OG M
 ►**M1**For infeksjon med *Mycobacterium tuberculosis*-kompleks (*M. bovis, M. caprae* og *M. tuberculosis*), en test nevnt i del 2 i vedlegg I til delegert forordning [(EU) 2020/688](eu/32020r0688).◄**M1**For infeksjon med *Brucella abortus, Brucella melitensis* og *Brucella suis*, en serologisk test nevnt i del 1 nr. 1 i vedlegg I til delegert forordning [(EU) 2020/688](eu/32020r0688).For enzootisk bovin leukose, en serologisk test nevnt i del 4 bokstav a) i vedlegg I til delegert forordning [(EU) 2020/688](eu/32020r0688).For infeksiøs bovin rhinotrakeitt/infeksiøs pustuløs vulvovaginitt, en serologisk test (helvirus) utført på en blodprøve.For bovin virusdiaré, en serologisk test for påvisning av antistoff, som bare skal utføres på seronegative dyr.Dersom et dyr blir serologisk positivt, skal hvert ejakulat fra dette dyret som er tatt ut siden forrige negative test, enten kasseres eller testes for virus eller virusgenom med negativt resultat.For bovin genital campylobakteriose, en test utført på en forhudsprøve. Det er bare nødvendig å teste avlsokser som brukes til sædproduksjon eller som har kontakt med avlsokser som brukes til sædproduksjon. Avlsokser som etter en pause på mer enn seks måneder igjen skal brukes til sædproduksjon, skal testes i løpet av en periode på 30 dager før uttaket gjenopptas.For trichomoniasis, en test utført på en forhudsprøve. Det er bare nødvendig å teste avlsokser som brukes til sædproduksjon eller som har kontakt med avlsokser som brukes til sædproduksjon. Avlsokser som etter en pause på mer enn seks måneder igjen skal brukes til sædproduksjon, skal testes i løpet av en periode på 30 dager før uttaket gjenopptas.
 3. Dersom noen av testene nevnt i nr. 2 er positive, skal dyret isoleres, og sæden som er tatt ut fra det etter siste negative test, skal ikke flyttes til en annen medlemsstat, unntatt, med hensyn til bovin virusdiaré, når det gjelder sæd fra hvert ejakulat som har testet negativt for enten bovin virusdiaré-virus eller genom for bovin virusdiaré-virus.Dyret nevnt i første ledd skal fjernes fra sædstasjonen.Sæduttak fra alle andre dyr på sædstasjonen etter datoen for uttak av den siste prøven som ga negativt resultat i en av testene som er beskrevet i nr. 2, skal oppbevares atskilt og skal ikke flyttes mellom medlemsstater før sædstasjonens helsestatus er gjenopprettet og den lagrede sæden har gjennomgått relevante offisielle undersøkelser for å utelukke at sæden inneholder patogener som forårsaker sykdommer nevnt i nr. 2.
 
+###### Kapittel II
+
+Ytterligere krav til dyrehelse for storfe som er donorer av in vivo-produserte embryoer, og med hensyn til karantene for slike dyr
+
 1. Donordyr av storfe skal være undersøkt klinisk av gruppeveterinæren eller et gruppemedlem og være bekreftet fri for symptomer eller tegn på noen av kategori D-sykdommene som er relevante for storfe den dagen uttaket av embryoer foregikk.
 2. Sæd som brukes til inseminering av donordyr av storfe, skal være tatt ut, bearbeidet og lagret i samsvar med kravene i vedlegg II del 1 kapittel I og i vedlegg III del 1.
+
+###### Kapittel III
+
+Ytterligere krav til dyrehelse for storfe som oocytter til in vitro-produksjon av embryoer er tatt ut fra, og med hensyn til karantene for slike dyr
 
 1. Når det tas ut oocytter fra individuelle levende storfe (enten ved aspirasjon fra kirurgisk fjernede ovarier («ovariektomi») eller ved transvaginal ultralydveiledet aspirasjon («aspirasjon av egg – OPU»)), får kravene i kapittel II anvendelse på donorer av slike oocytter.
 2. Når det gjelder donordyr av storfe som det skal tas ut ovarier og annet vev fra etter slakting i et slakteri, skal disse dyrene ikke være utpekt til slakting som ledd i et godkjent utryddelsesprogram, og skal heller ikke ha kommet fra et anlegg som ligger i en restriksjonssone som er opprettet på grunn av et utbrudd av en kategori A-sykdom eller en ny sykdom i samsvar med artikkel 6 i forordning [(EU) 2016/429](eu/32016r0429) hos donordyr av storfe.
@@ -541,6 +887,10 @@ YTTERLIGERE KRAV TIL DYREHELSE FOR STORFE SOM AVLSMATERIALE ER TATT UT FRA, OG M
 
 ### DEL 2
 YTTERLIGERE KRAV TIL DYREHELSE FOR SVIN SOM AVLSMATERIALE ER TATT UT FRA, OG MED HENSYN TIL KARANTENE OG LABORATORIEUNDERSØKELSER ELLER ANDRE TESTER AV SLIKE DYR SOM NEVNT I ARTIKKEL 21
+
+###### Kapittel I
+
+Ytterligere krav til dyrehelse for svin som sæd er tatt ut fra, og med hensyn til karantene og laboratorieundersøkelser eller andre tester av slike dyr
 
 1. Alle svin som tas inn på en sædstasjon, skal oppfylle følgende krav:Dyrene skal ha vært i karantene i karantenelokaler der det bare var andre klovdyr med minst like god helsestatus.I løpet av de siste 30 dagene før dyrene ble satt inn i karantenelokalet nevnt i bokstav a) skal de ha gjennomgått følgende tester med negativt resultat:Når det gjelder infeksjon med *Brucella abortus, Brucella melitensis* og *Brucella suis*, en bufret brucella-antigentest (Rose Bengal-test), kompetitiv ELISA eller indirekte ELISA for påvisning av antistoffer mot glatte *Brucella*-arter.Dersom noen av dyrene tester positivt i de serologiske testene for påvisning av antistoffer mot glatte *Brucella*-arter (herunder *Brucella abortus, Brucella melitensis* og *Brucella suis*), skal dyr med negativt resultat i samme anlegg ikke settes inn i karantenelokalet før sykdomsfri status for infeksjon med *Brucella abortus, Brucella melitensis* og *Brucella suis* er bekreftet i opprinnelsesanleggene for de dyrene som testet positivt.Når det gjelder infeksjon med pseudorabiesvirus,hos uvaksinerte dyr, en ELISA-prøve for å påvise antistoffer mot hele pseudorabiesviruset eller virusets glykoprotein B (ADV-gB) eller glykoprotein D (ADV-gD), eller en serumnøytralisasjonstest,hos dyr som er vaksinert med en deletert gE-vaksine, en ELISA-prøve for å påvise antistoffer mot pseudorabiesvirusets glykoprotein E (ADV-gE).De serologiske testene for infeksjon med pseudorabiesvirus skal være i samsvar med standardene angitt i del 7 i vedlegg I til delegert forordning [(EU) 2020/688](eu/32020r0688).Når det gjelder klassisk svinepest, en ELISA-prøve for å påvise antistoffer eller en serumnøytralisasjonstest, hos dyr som kommer fra en medlemsstat eller en sone i denne der klassisk svinepest er rapportert, eller det er foretatt vaksinasjon mot denne sykdommen i løpet av de siste tolv månedene.Når det gjelder infeksjon med reproduksjons- og respirasjonssyndromvirus hos svin, en serologisk test (monolags immuno-peroksidaseprøve (IPMA), immunfluorescensprøve (IFA) eller ELISA).Dyrene har gjennomgått følgende tester utført på prøver som er tatt i løpet av et tidsrom på minst 21 dager etter innsetting i karantenelokalet nevnt i bokstav a):Når det gjelder infeksjon med *Brucella abortus, Brucella melitensis* og *Brucella suis*, en bufret brucella-antigentest (Rose Bengal-test), kompetitiv ELISA eller indirekte ELISA for påvisning av antistoffer mot glatte *Brucella*-arter.Dyr som har testet positivt i en test nevnt i første ledd, skal fjernes fra karantenelokalet med mindre mistanken om infeksjon med *Brucella abortus, Brucella melitensis* og *Brucella suis* er utelukket i samsvar med bokstav d).Når det gjelder infeksjon med pseudorabiesvirus,hos uvaksinerte dyr, en ELISA-prøve for å påvise antistoffer mot hele pseudorabiesviruset eller virusets glykoprotein B (ADV-gB) eller glykoprotein D (ADV-gD), eller en serumnøytralisasjonstest,hos dyr som er vaksinert med en deletert gE-vaksine, en ELISA-prøve for å påvise antistoffer mot pseudorabiesvirusets glykoprotein E (ADV-gE).Dersom noen av dyrene tester positivt ved testene for infeksjon med pseudorabiesvirus, skal disse dyrene umiddelbart fjernes fra karantenelokalet.
 ►**M2**◄**M2**
@@ -551,6 +901,10 @@ YTTERLIGERE KRAV TIL DYREHELSE FOR SVIN SOM AVLSMATERIALE ER TATT UT FRA, OG MED
 ellerminst25 % av dyrene på sædstasjonen hver tredje måned med sikte på testing for infeksjon med *Brucella abortus, Brucella melitensis* og *Brucella suis*, infeksjon med pseudorabiesvirus og klassisk svinepest, og fra minst 10 % av dyrene på sædstasjonen hver måned med sikte på infeksjon med reproduksjons- og respirasjonssyndromvirus hos svin,eller10 % av dyrene på sædstasjonen hver måned med sikte på testing for infeksjon med *Brucella abortus, Brucella melitensis* og *Brucella suis*, infeksjon med pseudorabiesvirus, klassisk svinepest og infeksjon med reproduksjons- og respirasjonssyndromvirus hos svin.Ved prøvetaking som foretas i samsvar med de to alternativene oppført i punkt ii), skal stasjonsveterinæren påse at dyrene det tas prøve av, er representative for stasjonens samlede populasjon, særlig med henblikk på aldersgrupper og lokaler.Når testingen utføres i samsvar med nr. 2 bokstav b) ii), skal stasjonsveterinæren sikre at alle dyr testes for sykdommene nevnt i nr. 2 bokstav a) minst hver tolvte måned regnet fra den datoen de ble tatt inn på sædstasjon.
 3. Dersom noen av testene angitt i nr. 2 bokstav a) er positive, skal dyret isoleres, og sæden som er tatt ut fra det etter siste negative test, skal ikke flyttes mellom medlemsstater.Dyret nevnt i første ledd skal umiddelbart fjernes fra sædstasjonen.Sæduttak fra alle andre dyr på sædstasjonen etter datoen for uttak av den siste prøven som ga negativt resultat i en av testene som er beskrevet i nr. 2 bokstav a), skal oppbevares atskilt og skal ikke flyttes mellom medlemsstater før sædstasjonens helsestatus er gjenopprettet og den lagrede sæden har gjennomgått relevante offisielle undersøkelser for å utelukke at sæden inneholder patogener som forårsaker sykdommer nevnt i nr. 2 bokstav a).
 
+###### Kapittel II
+
+Ytterligere krav til dyrehelse for svin som oocytter og embryoer er tatt ut fra, og med hensyn til karantene for slike dyr
+
 1. Donordyr av svin skal være undersøkt klinisk av gruppeveterinæren eller et gruppemedlem og være bekreftet fri for symptomer eller tegn på noen av kategori D-sykdommene som er relevante for svin den dagen uttaket av oocytter eller embryoer foregikk.
 2. I tillegg til kravene som er nevnt i nr. 1, skal donorpurker, unntatt donorer av *in vivo*-produserte embryoer som er behandlet med trypsin, komme fra en medlemsstat eller en sone i denne som er fri for infeksjon med pseudorabiesvirus, eller som har gjennomført et godkjent utryddelsesprogram mot infeksjon med pseudorabiesvirus.
 3. Når det gjelder infeksjon med reproduksjons- og respirasjonssyndromvirus hos svin, skal donorpurker for *in vivo*-produserte embryoer gjennomgå en serologisk test for reproduksjons- og respirasjonssyndromvirus hos svin med negativt resultat ved to anledninger med minst 21 dagers mellomrom, der den andre testen utføres i løpet av de siste 15 dagene før uttak av embryoer.
@@ -559,11 +913,19 @@ ellerminst25 % av dyrene på sædstasjonen hver tredje måned med sikte på tes
 ### DEL 3
 YTTERLIGERE KRAV TIL DYREHELSE FOR SAU OG GEIT SOM AVLSMATERIALE ER TATT UT FRA, OG MED HENSYN TIL KARANTENE OG LABORATORIEUNDERSØKELSER ELLER ANDRE TESTER AV SLIKE DYR SOM NEVNT I ARTIKKEL 22
 
+###### Kapittel I
+
+Ytterligere krav til dyrehelse for sau og geit som sæd er tatt ut fra, og med hensyn til karantene og laboratorieundersøkelser eller andre tester av slike dyr
+
 1. Alle sauer og geiter som tas inn på en sædstasjon, skal oppfylle følgende krav:Dyrene skal ha vært i karantene i karantenelokaler der det bare var andre klovdyr med minst like god helsestatus.
 ►**M1**Når det gjelder sauer, skal de komme fra et anlegg der de og eventuelle hanndyr av geit som holdes sammen med dem, i løpet av de siste 60 dagene før deres opphold i karantenelokalene nevnt i bokstav a) med negativt resultat har gjennomgått en serologisk test for epididymitt hos sau (*Brucella ovis*) eller en annen test for epididymitt hos sau (*Brucella ovis*) med tilsvarende dokumentert følsomhet og spesifisitet.Dyrene har gjennomgått følgende tester utført med negativt resultat på prøver som er tatt i løpet av de siste 30 dagene før begynnelsen av karantenetiden nevnt i bokstav a):For infeksjon med *Brucella abortus, Brucella melitensis* og *Brucella suis*, en serologisk test nevnt i del 1 nr. 1 i vedlegg I til delegert forordning [(EU) 2020/688](eu/32020r0688).Når det gjelder sauer og eventuelle hanndyr av geit som holdes sammen med dem, en serologisk test for epididymitt hos sau (*Brucella ovis*) eller en annen test for epididymitt hos sau (*Brucella ovis*) med tilsvarende dokumentert følsomhet og spesifisitet.Dyrene har gjennomgått følgende tester utført med negativt resultat på prøver som er tatt i løpet av karantenen nevnt i bokstav a), og i løpet av et tidsrom på minst 21 dager etter datoen da de ble satt inn i karantenelokalet:For infeksjon med *Brucella abortus, Brucella melitensis* og *Brucella suis*, en serologisk test nevnt i del 1 nr. 1 i vedlegg I til delegert forordning [(EU) 2020/688](eu/32020r0688).Når det gjelder sauer og eventuelle hanndyr av geit som holdes sammen med dem, en serologisk test for epididymitt hos sau (*Brucella ovis*) eller en annen test for epididymitt hos sau (*Brucella ovis*) med tilsvarende dokumentert følsomhet og spesifisitet.◄**M1**►**M1**
 2. Alle sauer og geiter som holdes på en sædstasjon, skal minst én gang per år gjennomgå følgende tester (obligatoriske rutineundersøkelser) med negativt resultat:
 ◄**M1**For infeksjon med *Brucella abortus, Brucella melitensis* og *Brucella suis*, en serologisk test nevnt i del 1 nr. 1 i vedlegg I til delegert forordning [(EU) 2020/688](eu/32020r0688).Når det gjelder sauer, for påvisning av epididymitt hos sau (*Brucella ovis*), en serologisk test eller en annen test med tilsvarende dokumentert følsomhet og spesifisitet.Når det gjelder sauer som holdes sammen med geiter, skal disse geitene også med negativt resultat gjennomgå en serologisk test for epididymitt hos sau (*Brucella ovis*).
 3. Dersom noen av testene beskrevet i nr. 2 er positive, skal dyret isoleres, og sæden som er tatt ut fra det etter datoen for siste negative test, skal ikke flyttes mellom medlemsstater.Dyret nevnt i første ledd skal fjernes fra sædstasjonen.Sæduttak fra alle andre dyr på sædstasjonen etter datoen for uttak av den siste prøven som ga negativt resultat i en av testene som er beskrevet i nr. 2, skal oppbevares atskilt og skal ikke flyttes mellom medlemsstater før sædstasjonens helsestatus er gjenopprettet og den lagrede sæden har gjennomgått relevante offisielle undersøkelser for å utelukke at sæden inneholder patogener som forårsaker sykdommer nevnt i nr. 2.
+
+###### Kapittel II
+
+Ytterligere krav til dyrehelse for sau og geit som oocytter og embryoer er tatt ut fra, og med hensyn til karantene for slike dyr
 
 1. Donordyr av sau og geit skal være undersøkt klinisk av gruppeveterinæren eller et gruppemedlem og være bekreftet fri for symptomer eller tegn på noen av kategori D-sykdommene som er relevante for sauer og geiter den dagen uttaket av oocytter eller embryoer foregikk.
 2. Sæd som brukes til inseminering av donordyr av sau og geit, skal være tatt ut, bearbeidet og lagret i samsvar med kravene i vedlegg II del 3 kapittel I og i vedlegg III del 1.
@@ -571,8 +933,16 @@ YTTERLIGERE KRAV TIL DYREHELSE FOR SAU OG GEIT SOM AVLSMATERIALE ER TATT UT FRA,
 ### DEL 4
 YTTERLIGERE KRAV TIL DYREHELSE FOR HESTEDYR SOM AVLSMATERIALE ER TATT UT FRA, OG MED HENSYN TIL KARANTENE OG LABORATORIEUNDERSØKELSER ELLER ANDRE TESTER AV SLIKE DYR SOM NEVNT I ARTIKKEL 23
 
+###### Kapittel I
+
+Ytterligere krav til dyrehelse for hestedyr som sæd er tatt ut fra, og med hensyn til karantene og laboratorieundersøkelser eller andre tester av slike dyr
+
 1. Donordyr av hestefamilien som skal brukes til uttak av sæd, skal etter stasjonsveterinærens bedømmelse oppfylle følgende krav:Dyret skal gjennomgå følgende tester i samsvar med ett av prøveprogrammene fastsatt i bokstav b):En agargel-immundiffusjonstest (Coggins-test) eller en ELISA-prøve for påvisning av infeksiøs anemi hos hest, med negativt resultat.En virusisolasjonstest for påvisning av virusarteritt hos hest eller påvisning av dets genom ved polymerasekjedereaksjon (PCR) eller sanntids-PCR, utført med negativt resultat på en delmengde av den samlede sæden til donorhingsten, med mindre den har gjennomgått en serumnøytralisasjonstest for påvisning av virusarteritt hos hest der det er oppnådd et negativt resultat ved en serumfortynning på 1:4.En test for identifisering av agens for smittsom metritt hos hoppe (*Taylorella equigenitalis*) utført med negativt resultat i hvert tilfelle på tre svaberprøver tatt fra donorhingsten ved to anledninger med minst sju dagers mellomrom, og ikke i noe tilfelle tidligere enn sju dager (systemisk behandling) eller 21 dager (lokal behandling) etter eventuell antimikrobiell behandling av donorhingsten, tatt fra minst følgende steder:Forhuden.Uretra.Fossa glandis.Prøvene skal plasseres i et transportmedium med aktivkull, for eksempel Amies medium, før avsendelse til laboratoriet.Prøvene skal gjennomgå minst én av følgende tester:Dyrking under mikroaerofile forhold i minst sju dager for isolering av *Taylorella equigenitalis*, påbegynt innen 24 timer etter at prøvene er tatt fra donordyret, eller innen 48 timer dersom prøvene oppbevares kjølig under transport.ellerPCR eller sanntids-PCR for påvisning av *Taylorella equigenitalis*-genom innen 48 timer etter at prøvene er tatt fra donordyret.Dyret skal ha gjennomgått ett av følgende prøveprogrammer:Dersom donorhingsten oppholder seg kontinuerlig på sædstasjonen i minst 30 dager før datoen for det første sæduttaket og i uttaksperioden, og ingen hestedyr på sædstasjonen kommer i direkte kontakt med hestedyr med lavere helsestatus enn donorhingsten, skal testene som kreves i samsvar med bokstav a), utføres på prøver som er tatt fra donorhingsten minst én gang i året (obligatoriske rutineundersøkelser) ved avlssesongens begynnelse eller før det første uttaket av sæd beregnet på forflytning til en annen medlemsstat som fersk, kjølt eller fryst sæd, og minst 14 dager etter starten på oppholdsperioden på minst 30 dager før datoen for det første sæduttaket.Dersom donorhingsten oppholder seg på sædstasjonen i minst 30 dager før datoen for det første sæduttaket og i uttaksperioden, men kan forlate sædstasjonen av og til på stasjonsveterinærens ansvar i en samlet periode på under 14 dager i uttaksperioden, eller andre hestedyr på sædstasjonen kommer i direkte kontakt med hestedyr med lavere helsestatus, skal testene som kreves i samsvar med bokstav a), utføres i henhold til følgende:Minst én gang i året på prøver som er tatt fra donorhingsten ved avlssesongens begynnelse eller før det første uttaket av sæd beregnet på forflytning til en annen medlemsstat som fersk, kjølt eller fryst sæd, og minst 14 dager etter starten på oppholdsperioden på minst 30 dager før datoen for det første sæduttaket,
 ogi perioden for uttak av sæd beregnet på forflytning til en annen medlemsstat som fersk, kjølt eller fryst sæd, i henhold til følgende:Når det gjelder testen som kreves i bokstav a) i), på prøver tatt høyst 90 dager før datoen for uttaket av sæd beregnet på forflytning til en annen medlemsstat.Når det gjelder testen som kreves i bokstav a) ii), på prøver tatt høyst 30 dager før datoen for uttaket av sæd beregnet på forflytning til en annen medlemsstat, med mindre det bekreftes at donorhingsten ikke utskiller virus ved en virusisolasjonstest, PCR eller sanntids-PCR som er utført på prøver av en delmengde av den samlede sæden tatt høyst seks måneder før datoen for uttaket av sæd beregnet på forflytning til en annen medlemsstat, og donorhingsten har gjennomgått en serumnøytralisasjonstest for påvisning av virusarteritt hos hest med et positivt resultat ved en serumfortynning på minst 1:4.Når det gjelder testen som kreves i bokstav a) iii), på prøver tatt høyst 60 dager før datoen for uttaket av sæd beregnet på forflytning til en annen medlemsstat, og som for PCR eller sanntids-PCR kan utføres på tre svaberprøver tatt ved én enkelt anledning.Dersom donorhingsten ikke oppfyller vilkårene i punkt i) og ii), og sæden tas ut med sikte på forflytning til en annen medlemsstat som fryst sæd, skal testene som kreves i samsvar med bokstav a), utføres på prøver som er tatt fra donorhingsten i henhold til følgende:Minst én gang i året ved avlssesongens begynnelse.I lagringsperioden fastsatt i del 1 nr. 2 bokstav b) i vedlegg III og før sæden fjernes fra sædstasjonen eller brukes, på prøver som er tatt tidligst 14 dager og senest 90 dager etter datoen for sæduttaket.Som unntak fra punkt iii) andre strekpunkt er prøvetaking etter sæduttak og testing for påvisning av virusarteritt hos hest som beskrevet i bokstav a) ii) ikke påkrevd dersom det bekreftes at en donorhingst som er seropositiv for virusarteritt hos hest, ikke utskiller virus ved en virusisolasjonstest, PCR eller sanntids-PCR som er utført med negativt resultat på prøver av en delmengde av den samlede sæden til donorhingsten tatt to ganger i året med minst fire måneders mellomrom, og donorhingsten har gjennomgått en serumnøytralisasjonstest for påvisning av virusarteritt hos hest med et positivt resultat ved en serumfortynning på minst 1:4.Dersom noen av testene fastsatt i bokstav b) er positive, skal donorhingsten isoleres, og sæden som er tatt ut fra den etter datoen for siste negative test, skal ikke flyttes mellom medlemsstater, unntatt når det gjelder sæd fra hvert ejakulat som har gjennomgått virusisolasjonstest for virusarteritt hos hest med negativt resultat.Sæduttak fra alle andre hingster på sædstasjonen etter datoen for uttak av den siste prøven som ga negativt resultat i en av testene fastsatt i bokstav b), skal oppbevares atskilt og skal ikke flyttes mellom medlemsstater før sædstasjonens helsestatus er gjenopprettet og den lagrede sæden har gjennomgått relevante offisielle undersøkelser for å utelukke at sæden inneholder patogener som forårsaker sykdommer nevnt i bokstav b).
+
+###### Kapittel II
+
+Ytterligere krav til dyrehelse for hestedyr som oocytter og embryoer er tatt ut fra, og med hensyn til karantene og laboratorieundersøkelser eller andre tester av slike dyr
 
 1. Donordyr av hestefamilien skal være undersøkt klinisk av gruppeveterinæren eller et gruppemedlem og være bekreftet fri for symptomer eller tegn på noen av kategori D-sykdommene som er relevante for hestedyr den dagen uttaket av oocytter eller embryoer foregikk.
 2. I tillegg til kravene som er nevnt i nr. 1 skal donordyrene av hestefamilienikke brukes til naturlig bedekning minst de siste 30 dagene før datoen for uttaket av oocytter eller embryoer samt mellom datoen for den første prøven nevnt i bokstav b) og c) og datoen for uttaket av oocytter og embryoer,gjennomgå en agargel-immundiffusjonstest (Coggins-test) eller en ELISA-prøve for påvisning av infeksiøs anemi hos hest, utført med negativt resultat på blodprøver som er tatt minst 14 dager etter starten på perioden på minst 30 dager nevnt i bokstav a), og høyst 90 dager før datoen for uttaket av oocytter eller embryoer beregnet på forflytning mellom medlemsstater,gjennomgå en test for identifisering av agens for smittsom metritt hos hoppe (*Taylorella equigenitalis*) utført med negativt resultat i hvert tilfelle på minst to svaberprøver tatt fra donordyret, ikke i noe tilfelle tidligere enn sju dager (systemisk behandling) eller 21 dager (lokal behandling) etter eventuell antimikrobiell behandling av donordyret, tatt fra minst følgende steder:Slimhinnen i fossa clitoridis.Sinus clitoridis.Prøvene skal tas i løpet av perioden på minst 30 dager nevnt i bokstav a) ved to anledninger med minst sju dagers mellomrom når det gjelder testen nevnt i punkt i) nedenfor, eller ved én anledning når det gjelder testen nevnt i punkt ii) nedenfor.Prøvene skal plasseres i et transportmedium med aktivkull, for eksempel Amies medium, før avsendelse til laboratoriet.Prøvene skal gjennomgå minst én av følgende tester:Dyrking under mikroaerofile forhold i minst sju dager for isolering av *Taylorella equigenitalis*, påbegynt innen 24 timer etter at prøvene er tatt fra donordyret, eller innen 48 timer dersom prøvene oppbevares kjølig under transport.
@@ -582,10 +952,20 @@ ellerPCR eller sanntids-PCR for påvisning av *Taylorella equigenitalis*-genom, 
 ### DEL 5
 ANDRE KRAV TIL DYREHELSE FOR STORFE, SVIN, SAU OG GEIT OG DYR AV FAMILIENE CAMELIDAE OG CERVIDAE SOM AVLSMATERIALE ER TATT UT FRA, OG MED HENSYN TIL KARANTENE OG LABORATORIEUNDERSØKELSER ELLER ANDRE TESTER AV SLIKE DYR SOM NEVNT I ARTIKKEL 20, 21, 22 OG 38
 
+###### Kapittel I
+
+Krav til storfe, svin, sau og geit med hensyn til munn- og klovsyke
+
 1. Storfe, svin, sau og geit som er donorer av sæd, oocytter eller embryoer, skalkomme fra anleggsom ligger i et område der det innenfor en radius på 10 km rundt anlegget ikke er rapportert om munn- og klovsyke minst de siste 30 dagene før datoen for uttak,der det ikke er rapportert om munn- og klovsyke i løpet av minst de siste tre månedene før datoen for uttak,ikke være vaksinert mot munn- og klovsyke i løpet av de siste tolv månedene før datoen for uttak.
 2. Stasjonsveterinæren skal sikre atstorfe, svin, sau og geit som er sæddonorer, bare tas inn på sædstasjonen etter å ha vært isolert i et karantenelokale som på den dagen dyrene tas inn på sædstasjonenskal ligge i et område der det innenfor en radius på 10 km rundt karantenelokalet ikke er rapportert om munn- og klovsyke på minst 30 dager,ikke skal ha hatt noe rapportert utbrudd av munn- og klovsyke i løpet av de siste tre månedene før den datoen dyrene tas inn på sædstasjonen,sæd bare flyttes til en annen medlemsstat dersom følgende vilkår er oppfylt:Sædstasjonen ligger i et område der det innenfor en radius på 10 km rundt sædstasjonen ikke er rapportert om munn- og klovsyke på minst 30 dager.Sædstasjonen har vært fri for munn- og klovsyke i minst tre måneder før og 30 dager etter datoen for uttak av sæd eller, når det gjelder fersk sæd, fram til avsendelsesdatoen for forsendelsen av sæd til en annen medlemsstat.Når det gjelder fersk sæd, er donordyret holdt på sædstasjonen nevnt i punkt i) i et sammenhengende tidsrom på minst 30 dager før datoen for uttak av sæd.
 3. Som unntak fra nr. 1 bokstav b) kan stasjonsveterinæren tillate at det sendes sæd som er tatt ut fra et holdt donordyr som er vaksinert mot munn- og klovsyke i løpet av de siste tolv månedene før datoen for uttak, forutsatt atdonordyret ikke er vaksinert mot munn- og klovsyke i løpet av de siste 30 dagene før datoen for uttak,5 % (og minst fem strå) av hver mengde sæd som tas fra et donordyr på et hvilket som helst tidspunkt, gjennomgår med negativt resultat en virusisolasjonstest for munn- og klovsyke.
 4. Som unntak fra nr. 1 bokstav b) kan gruppeveterinæren tillate at det til en annen medlemsstat sendes *in vivo*-produserte embryoer som er tatt ut fra et donordyr som er vaksinert mot munn- og klovsyke i løpet av de siste tolv månedene før datoen for uttak, forutsatt athunndonordyret ikke er vaksinert mot munn- og klovsyke i løpet av de siste 30 dagene før datoen for uttak,sæden som brukes til befruktning, er tatt ut fra et hanndonordyr som oppfyller vilkårene fastsatt i nr. 1 bokstav b), eller sæden oppfyller vilkårene fastsatt i nr. 2,embryoene før de fryses, er vasket med trypsin i samsvar med anbefalingene i IETS-håndboken18,embryoene lagres dypfryst i minst 30 dager regnet fra datoen for uttak, og i dette tidsrommet har donordyret ikke vist noen kliniske tegn på munn- og klovsyke.
+
+18 Manual of the International Embryo Transfer Society – A procedural guide and general information for the use of embryo transfer technology emphasising sanitary procedures, utgitt av International Embryo Transfer Society, 1 111 North Dunlap Avenue, Savoy, Illinois 874 USA ( [http://www.iets.org](/https://www.iets.org)/).
+
+###### Kapittel II
+
+Krav til storfe, sau og geit og dyr av familiene Camelidae og Cervidae med hensyn til infeksjon med blåtungevirus (serotype 1–24)
 
 1. Storfe, sau og geit og dyr av familiene *Camelidae* og *Cervidae* som er sæddonorer, skal oppfylle minst ett av følgende vilkår:
 ►**M1**De er i minst de siste 60 dagene før og under sæduttaket holdt i en medlemsstat eller en sone i denne som er fri for infeksjon med blåtungevirus (serotype 1–24) der det ikke har vært noe bekreftet tilfelle av infeksjon med blåtungevirus (serotype 1–24) i løpet av de siste 24 månedene i målpopulasjone.◄**M1**De er i en sesongmessig sykdomsfri periode holdt i en sesongmessig sykdomsfri sone i minst de siste 60 dagene før og under sæduttaket i en medlemsstat eller i en sone i dennemed et godkjent utryddelsesprogram mot infeksjon med blåtungevirus (serotype 1-24), ellerder vedkommende myndighet på opprinnelsesstedet for forsendelsen av sæd har innhentet forhåndssamtykke fra vedkommende myndighet i bestemmelsesmedlemsstaten om vilkårene for opprettelse av denne sesongmessig sykdomsfrie sonen og for mottak av forsendelsen av sæd.De er holdt i et vektorbeskyttet anlegg i minst de siste 60 dagene før og under sæduttaket.De har gjennomgått en serologisk test for påvisning av antistoffer mot blåtungevirus (serotype 1–24) utført med negativt resultat mellom 28 og 60 dager etter datoen for hvert uttak av sæd.De har gjennomgått en test for identifisering av agens for blåtungevirus (serotype 1–24) utført med negativt resultat på blodprøver som er tatt ved starten av sæduttaket, ved det siste sæduttaket og under sæduttaketminst hver sjuende dag, dersom det dreier seg om en virusisolasjonstest,ellerminst hver 28. dag, dersom det dreier seg om PCR.
@@ -593,10 +973,22 @@ ANDRE KRAV TIL DYREHELSE FOR STORFE, SVIN, SAU OG GEIT OG DYR AV FAMILIENE CAMEL
 ►**M1**De er i minst de siste 60 dagene før og under uttaket av oocytter eller embryoer holdt i en medlemsstat eller en sone i denne som er fri for infeksjon med blåtungevirus (serotype 1–24) der det ikke har vært noe bekreftet tilfelle av infeksjon med blåtungevirus (serotype 1–24) i løpet av de siste 24 månedene i målpopulasjonen.◄**M1**De er i en sesongmessig sykdomsfri periode holdt i en sesongmessig sykdomsfri sone i minst de siste 60 dagene før og under uttak av oocytter eller embryoer i en medlemsstat eller i en sone i dennemed et godkjent utryddelsesprogram mot infeksjon med blåtungevirus (serotype 1–24), ellerder vedkommende myndighet på opprinnelsesstedet for forsendelsen av oocytter eller embryoer har innhentet forhåndssamtykke fra vedkommende myndighet i bestemmelsesmedlemsstaten om vilkårene for opprettelse av denne sesongmessig sykdomsfrie sonen og for mottak av forsendelsen av oocytter eller embryoer.De er holdt i et vektorbeskyttet anlegg i minst de siste 60 dagene før og under uttak av oocytter eller embryoer.De har gjennomgått en serologisk test for påvisning av antistoffer mot blåtungevirus (serotype 1–24) utført med negativt resultat på en blodprøve som er tatt mellom 28 og 60 dager etter datoen for uttak av oocytter eller embryoer.De har gjennomgått en test for identifisering av agens for blåtungevirus (serotype 1–24) utført med negativt resultat på en blodprøve som er tatt på datoen for uttak av oocytter eller embryoer.
 3. Sæden som brukes til å befrukte oocyttene, skal være fra dyr som oppfyller kravene fastsatt i nr. 1.
 
+►**M2**
+
+###### Kapittel III.
+
+Krav til storfe, sau og geit med hensyn til infeksjon med hemoragisk epizooti-virus
+
 1. Storfe, sau og geit som er sæddonorer, skal oppfylle minst ett av følgende vilkår:De er i minst de siste 60 dagene før sæduttaket og under sæduttaket holdt i en medlemsstat eller en sone i denne der det innenfor en radius på 150 km rundt anlegget ikke er rapportert om infeksjon med hemoragisk epizooti-virus i løpet av minst de siste to årene.De er i minst de siste 60 dagene før sæduttaket og under sæduttaket holdt i en medlemsstat eller en sone i denne som er sesongmessig fri for infeksjon med hemoragisk epizooti-virus.De er holdt i et vektorbeskyttet anlegg i minst de siste 60 dagene før sæduttaket og under sæduttaket.De har gjennomgått en serologisk test for påvisning av antistoffer for infeksjon med hemoragisk epizooti-virus, med negativt resultat, minst hver 60. dag gjennom hele uttaksperioden, og mellom 28 og 60 dager etter datoen for det siste sæduttaket.De har gjennomgått en test for identifisering av agens for hemoragisk epizooti-virus, med negativt resultat, utført på blodprøver som er tatt ved starten av sæduttaket, ved det siste sæduttaket og med følgende mellomrom under sæduttaketminst hver 7. dag, dersom det dreier seg om en virusisolasjonstest,
 ellerminst hver 28. dag, dersom det dreier seg om PCR.
 2. Storfe, sauer og geiter som er donorer av oocytter for in vitro-produksjon av embryoer og donorer av in vivo-produserte embryoer, skal oppfylle minst ett av følgende vilkår:De er i minst de siste 60 dagene før uttaket av oocytter eller embryoer og under uttaket holdt i en medlemsstat eller sone i denne der det innenfor en radius på 150 km rundt anlegget ikke er rapportert om infeksjon med hemoragisk epizooti-virus i løpet av minst de siste to årene.De er i minst de siste 60 dagene før uttaket av oocytter eller embryoer og under uttaket holdt i en medlemsstat eller en sone i denne som er sesongmessig fri for infeksjon med hemoragisk epizooti-virus.De er holdt i et vektorbeskyttet anlegg i minst de siste 60 dagene før uttaket av oocytter eller embryoer og under uttaket.De har gjennomgått en serologisk test for påvisning av antistoffer mot infeksjon med hemoragisk epizooti-virus, med negativt resultat, utført på en blodprøve som er tatt mellom 28 og 60 dager etter datoen for uttak av oocytter eller embryoer.De har gjennomgått en test for identifisering av agens for infeksjon med hemoragisk epizooti-virus, med negativt resultat, utført på en blodprøve som er tatt på datoen for uttak av oocytter eller embryoer.
 3. Sæden som brukes til å befrukte oocyttene, skal være fra dyr som oppfyller kravene fastsatt i nr. 1.
+
+◄**M2**
+
+###### Kapittel IV
+
+Krav til et anlegg som skal anses som fritt for infeksjon med Brucella abortus, Brucella melitensis og Brucella suis hos svin
 
 For at et anlegg for svin skal kunne anses som fritt for infeksjon med *Brucella abortus, Brucella melitensis* og *Brucella suis*, skal det oppfylle følgende krav:Infeksjon med *Brucella abortus, Brucella melitensis* og *Brucella suis* skal være meldepliktig sykdom hos svin i medlemsstaten.Det har ikke vært noe bekreftet tilfelle av infeksjon med *Brucella abortus, Brucella melitensis* og *Brucella suis* i anlegget i løpet av minst de siste tre årene.Dyr som viser kliniske symptomer på infeksjon med *Brucella abortus, Brucella melitensis* og *Brucella suis*, for eksempel aborter eller betennelse i testiklene, har gjennomgått nødvendige diagnostiske tester med negativt resultat.Ingen svin som tilhører anlegget, er blitt vaksinert mot infeksjon med *Brucella abortus, Brucella melitensis* og *Brucella suis* i løpet av minst de siste tre årene.Svin som er tatt inn i anlegget,kommer enten fra anlegg som har vært fri for infeksjon med *Brucella abortus, Brucella melitensis* og *Brucella suis* i minst de siste tre årene, eller er med negativt resultat testet ved en prøve som er tatt i løpet av de siste 30 dagene før avsendelse,
 oger ikke blitt vaksinert mot infeksjon med *Brucella abortus, Brucella melitensis* og *Brucella suis* i løpet av minst de siste tre årene.I løpet av minst de siste tre årene er det ikke påvist noe tegn på infeksjon med *Brucella abortus, Brucella melitensis* og *Brucella suis* i andre epidemiologiske enheter i samme anlegg, eller det er truffet tiltak for å forebygge overføring av infeksjon med *Brucella abortus, Brucella melitensis* og *Brucella suis* fra disse andre epidemiologiske enhetene.
@@ -671,7 +1063,23 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2020/999
 av 9. juli 2020
 om fastsettelse av regler for anvendelse av europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) med hensyn til godkjenning av anlegg for avlsmateriale samt sporing av avlsmateriale fra storfe, svin, sau, geit og dyr av hestefamilien
 
+EUROPAKOMMISJONEN HAR
+
+under henvisning til traktaten om Den europeiske unions virkemåte,
+
+under henvisning til europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) av 9. mars 2016 om smittsomme dyresykdommer og om endring og oppheving av visse rettsakter på dyrehelseområdet («dyrehelseforordningen»)1, særlig artikkel 96 nr. 3 og artikkel 123, og
+
 ut fra følgende betraktninger:Forordning [(EU) 2016/429](eu/32016r0429) fastsetter regler for forebygging og bekjempelse av dyresykdommer som kan overføres til dyr eller mennesker. Disse reglene omfatter blant annet avlsmateriale fra holdte landdyr av artene storfe, svin, sau, geit og hestedyr og fra andre arter. Den fastsetter også regler for registrering og godkjenning av anlegg for avlsmateriale fra storfe, svin, sau, geit og hestedyr. I forordning [(EU) 2016/429](eu/32016r0429) er det også fastsatt regler for sporing og krav til dyrehelse ved forflytning av forsendelser av avlsmateriale innenfor Unionen. Den gir også Kommisjonen myndighet til å vedta delegerte rettsakter og gjennomføringsrettsakter for å sikre at den nye rettslige rammen fastsatt i nevnte forordning fungerer på en tilfredsstillende måte.I delegert kommisjonsforordning [(EU) 2020/686](eu/32020r0686)2 er det fastsatt regler som utfyller forordning [(EU) 2016/429](eu/32016r0429) med hensyn til godkjenning av anlegg for avlsmateriale og krav til sporbarhet og dyrehelse ved forflytning av forsendelser av avlsmateriale fra visse holdte landdyr innenfor Unionen.Det bør derfor fastsettes regler for en ensartet gjennomføring av kravene fastsatt i forordning [(EU) 2016/429](eu/32016r0429) og de utfyllende reglene fastsatt i delegert forordning [(EU) 2020/686](eu/32020r0686) med hensyn til de opplysningene som driftsansvarlige skal legge fram i sin søknad om godkjenning av anlegg for avlsmateriale fra storfe, svin, sau, geit og hestedyr, og for fristene for å legge fram disse opplysningene. Det bør også fastsettes regler med hensyn til de tekniske kravene og spesifikasjonene for merking av avlsmateriale fra storfe, svin, sau, geit og hestedyr, og de driftsmessige kravene til sporing av forsendelser av slikt avlsmateriale.I artikkel 96 nr. 3 i forordning [(EU) 2016/429](eu/32016r0429) er det fastsatt at Kommisjonen ved hjelp av gjennomføringsrettsakter kan fastsette regler for de opplysningene som driftsansvarlige skal legge fram i sin søknad om godkjenning av anlegg for avlsmateriale fra storfe, svin, sau, geit og hestedyr, som avlsmateriale fra disse dyrene skal flyttes fra til en annen medlemsstat, og for fristene for å legge fram disse opplysningene. Vedkommende myndighets tidsramme for å behandle slike søknader bør være tilstrekkelig lang til at den kan utføre en grundig analyse, men for å gi driftsansvarlige mulighet til å starte sin virksomhet innen rimelig tid, bør den ikke overstige 90 dager før driftsansvarliges planlagte startdato for virksomheten.Ettersom delegert forordning [(EU) 2020/686](eu/32020r0686) inneholder bestemmelser om fem forskjellige typer av godkjente anlegg for avlsmateriale, bør driftsansvarlige i sin søknad om godkjenning av anlegg for avlsmateriale fra storfe, svin, sau, geit og hestedyr angi hvilken type virksomhet de har planlagt å drive i anlegget. En slik søknad bør også inneholde biosikkerhetsplanen for driften av anlegget for avlsmateriale. Tatt i betraktning den viktige rollen til stasjonsveterinærene og gruppeveterinærene som er ansvarlig for virksomheten i anlegg for avlsmateriale, bør opplysninger om disse angis i søknadene om godkjenning av anlegg for avlsmateriale.Regler om merking av strå og annen emballasje som avlsmateriale fra storfe, svin, sau, geit og hestedyr plasseres i, bør fastsettes på unionsplan for å sikre sporbarhet. Når det skal fastsettes standarder for slik merking, bør det tas hensyn til praksis som allerede er gjennomført av medlemsstatene på dette området, og det bør også tas hensyn til anbefalingene fra Den internasjonale komité for kontroll av ytelse innen avl (ICAR)3. Dersom det er trykt en strekkode på et strå eller annen emballasje, anbefaler ICAR at den enten er av type 128C, eller dersom den er av en annen type, at tre eller flere sifre som tilsvarer den internasjonale koden for hvert anlegg for avlsmateriale som er registrert hos United States National Association of Animal Breeders (NAAB)4, tilføyes ved begynnelsen av den nasjonale strekkoden.Ettersom forordning [(EU) 2016/429](eu/32016r0429) får anvendelse fra 21. april 2021, bør denne forordningen også få anvendelse fra den datoen.Tiltakene fastsatt i denne forordningen er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr.
+
+1 EUT L 84 av 31.3.2016, s. 1.
+
+2 Delegert kommisjonsforordning [(EU) 2020/686](eu/32020r0686) av 17. desember 2019 om utfylling av europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) med hensyn til godkjenning av anlegg for avlsmateriale og krav til sporbarhet og dyrehelse ved forflytning innenfor Unionen av avlsmateriale fra visse holdte landdyr (EUT L 174 av 3.6.2020, s. 1).
+
+3 https://www.icar.org/
+
+4 https://www.naab-css.org/
+
+VEDTATT DENNE FORORDNINGEN:
 
 ### Artikkel 1. Formål og virkeområde
 
@@ -685,23 +1093,23 @@ I denne forordningen gjelder definisjonene i artikkel 2 i delegert forordning [(
 
 ### Artikkel 3. Opplysninger som driftsansvarlige skal legge fram i sin søknad om godkjenning av anlegg for avlsmateriale fra storfe, svin, sau, geit og hestedyr
 
-1. Driftsansvarlige som søker vedkommende myndighet om godkjenning av anlegg for avlsmateriale fra storfe, svin, sau, geit og hestedyr i samsvar med artikkel 94 nr. 1 bokstav b) i forordning [(EU) 2016/429](eu/32016r0429), skal ta med følgende opplysninger i søknaden:Navn på og adresse til den driftsansvarlige for anlegget for avlsmateriale.Følgende opplysninger om anlegget for avlsmateriale:Adressen.Navnet på stasjonsveterinæren eller gruppeveterinæren som er utnevnt av den driftsansvarlige i samsvar med artikkel 4 nr. 1 bokstav a) i delegert forordning [(EU) 2020/686](eu/32020r0686).Hvilke av følgende typer virksomhet som skal utføres i anlegget for avlsmateriale:Innsamling, bearbeiding og lagring av sæd.Uttak, bearbeiding og lagring av embryoer.Uttak, bearbeiding og lagring av oocytter og produksjon, bearbeiding og lagring av embryoer.Bearbeiding og lagring av fsæd, oocytter eller embryoer i fersk, kjølt eller fryst form.Lagring av sæd, oocytter eller embryoer i fersk, kjølt eller fryst form.En beskrivelse av hvordan bearbeidingen av avlsmateriale skal utføres, og dersom all bearbeidingen eller en del av den skal utføres i andre bearbeidingsanlegg for avlsmateriale, navnet på og kontaktopplysningene til disse bearbeidingsanleggene for avlsmateriale.Kravene til biosikkerhet for driften av anlegget for avlsmateriale, som skal omfatte opplysninger om minst følgende:Strukturell beskrivelse av og plan over anlegget for avlsmateriale.Standardiserte prosedyrer for innsamling, produksjon, bearbeiding, lagring og transport, alt etter hvilken type anlegg for avlsmateriale det dreier seg om.Stasjonsveterinæren eller gruppeveterinærens prosedyrer og instrukser med hensyn til gjennomføringen av kravene til dyrehelse og biosikkerhet i anlegget for avlsmateriale.En plan for bekjempelse av insekter og gnagere.Opplysninger om formatet på journaler som føres i samsvar med artikkel 8 i delegert forordning [(EU) 2020/686](eu/32020r0686).Prosedyrer for rengjøring og desinfisering av fasiliteter og utstyr.En beredskapsplan til bruk ved kliniske symptomer på listeførte sykdommer eller ved et positivt testresultat med hensyn til patogener som forårsaker listeførte sykdommer.En forpliktelse om å underrette vedkommende myndighet før det gjennomføres vesentlige endringer i tilknytning til kravene til biosikkerhet for driften av anlegget for avlsmateriale.Når det gjelder avlsmateriale,hvilken type avlsmateriale som skal innsamles, produseres, bearbeides eller lagres, med angivelse av om det er sæd, oocytter eller embryoer,donordyrenes art, med angivelse av om det er storfe, svin, sau, geit eller hestedyr,lagringsforholdene for avlsmaterialet, med angivelse av om det er ferskt, kjølt eller fryst.
+1\. Driftsansvarlige som søker vedkommende myndighet om godkjenning av anlegg for avlsmateriale fra storfe, svin, sau, geit og hestedyr i samsvar med artikkel 94 nr. 1 bokstav b) i forordning [(EU) 2016/429](eu/32016r0429), skal ta med følgende opplysninger i søknaden:Navn på og adresse til den driftsansvarlige for anlegget for avlsmateriale.Følgende opplysninger om anlegget for avlsmateriale:Adressen.Navnet på stasjonsveterinæren eller gruppeveterinæren som er utnevnt av den driftsansvarlige i samsvar med artikkel 4 nr. 1 bokstav a) i delegert forordning [(EU) 2020/686](eu/32020r0686).Hvilke av følgende typer virksomhet som skal utføres i anlegget for avlsmateriale:Innsamling, bearbeiding og lagring av sæd.Uttak, bearbeiding og lagring av embryoer.Uttak, bearbeiding og lagring av oocytter og produksjon, bearbeiding og lagring av embryoer.Bearbeiding og lagring av fsæd, oocytter eller embryoer i fersk, kjølt eller fryst form.Lagring av sæd, oocytter eller embryoer i fersk, kjølt eller fryst form.En beskrivelse av hvordan bearbeidingen av avlsmateriale skal utføres, og dersom all bearbeidingen eller en del av den skal utføres i andre bearbeidingsanlegg for avlsmateriale, navnet på og kontaktopplysningene til disse bearbeidingsanleggene for avlsmateriale.Kravene til biosikkerhet for driften av anlegget for avlsmateriale, som skal omfatte opplysninger om minst følgende:Strukturell beskrivelse av og plan over anlegget for avlsmateriale.Standardiserte prosedyrer for innsamling, produksjon, bearbeiding, lagring og transport, alt etter hvilken type anlegg for avlsmateriale det dreier seg om.Stasjonsveterinæren eller gruppeveterinærens prosedyrer og instrukser med hensyn til gjennomføringen av kravene til dyrehelse og biosikkerhet i anlegget for avlsmateriale.En plan for bekjempelse av insekter og gnagere.Opplysninger om formatet på journaler som føres i samsvar med artikkel 8 i delegert forordning [(EU) 2020/686](eu/32020r0686).Prosedyrer for rengjøring og desinfisering av fasiliteter og utstyr.En beredskapsplan til bruk ved kliniske symptomer på listeførte sykdommer eller ved et positivt testresultat med hensyn til patogener som forårsaker listeførte sykdommer.En forpliktelse om å underrette vedkommende myndighet før det gjennomføres vesentlige endringer i tilknytning til kravene til biosikkerhet for driften av anlegget for avlsmateriale.Når det gjelder avlsmateriale,hvilken type avlsmateriale som skal innsamles, produseres, bearbeides eller lagres, med angivelse av om det er sæd, oocytter eller embryoer,donordyrenes art, med angivelse av om det er storfe, svin, sau, geit eller hestedyr,lagringsforholdene for avlsmaterialet, med angivelse av om det er ferskt, kjølt eller fryst.
 
-2. Søknaden nevnt i nr. 1 skal være skriftlig og foreligge enten på papir eller i elektronisk form.
+2\. Søknaden nevnt i nr. 1 skal være skriftlig og foreligge enten på papir eller i elektronisk form.
 
 ### Artikkel 4. Driftsansvarliges frister for å legge fram opplysninger i søknader om godkjenning av anlegg for avlsmateriale fra storfe, svin, sau, geit og hestedyr, og om eventuelt opphør av virksomhet
 
-1. Hver enkelt medlemsstat skal fastsette frister for følgende:For driftsansvarlige til å legge fram for vedkommende myndighetopplysningene som kreves i samsvar med artikkel 3 nr. 1,opplysninger om eventuelt opphør av virksomhet i godkjente anlegg for avlsmateriale fra storfe, svin, sau, geit og hestedyr.For vedkommende myndighet til å underrette driftsansvarlige omplikten til å legge fram opplysningene som kreves i samsvar med artikkel 3 nr. 1,et eventuelt avslag på en søknad om godkjenning av et anlegg for avlsmateriale inngitt i samsvar med artikkel 3 i delegert forordning [(EU) 2020/686](eu/32020r0686).
+1\. Hver enkelt medlemsstat skal fastsette frister for følgende:For driftsansvarlige til å legge fram for vedkommende myndighetopplysningene som kreves i samsvar med artikkel 3 nr. 1,opplysninger om eventuelt opphør av virksomhet i godkjente anlegg for avlsmateriale fra storfe, svin, sau, geit og hestedyr.For vedkommende myndighet til å underrette driftsansvarlige omplikten til å legge fram opplysningene som kreves i samsvar med artikkel 3 nr. 1,et eventuelt avslag på en søknad om godkjenning av et anlegg for avlsmateriale inngitt i samsvar med artikkel 3 i delegert forordning [(EU) 2020/686](eu/32020r0686).
 
-2. Fristene nevnt i nr. 1 bokstav a) i) skal ikke overstige 90 dager før den driftsansvarliges planlagte startdato for virksomheten i anlegget for avlsmateriale.
+2\. Fristene nevnt i nr. 1 bokstav a) i) skal ikke overstige 90 dager før den driftsansvarliges planlagte startdato for virksomheten i anlegget for avlsmateriale.
 
-3. Med mindre vedkommende myndighet angir noe annet, skal en vesentlig endring i tilknytning til kravene til biosikkerhet for driften av anlegget for avlsmateriale nevnt i artikkel 3 nr. 1 bokstav b) v) åttende strekpunkt anses som godkjent når det har gått 90 dager regnet fra den datoen den driftsansvarlige ga melding om slik endring.
+3\. Med mindre vedkommende myndighet angir noe annet, skal en vesentlig endring i tilknytning til kravene til biosikkerhet for driften av anlegget for avlsmateriale nevnt i artikkel 3 nr. 1 bokstav b) v) åttende strekpunkt anses som godkjent når det har gått 90 dager regnet fra den datoen den driftsansvarlige ga melding om slik endring.
 
 ### Artikkel 5. Tekniske krav og spesifikasjoner for merking av avlsmateriale fra storfe, svin, sau, geit og hestedyr, og driftsmessige krav til sporing av disse
 
-1. Driftsansvarlige som merker avlsmateriale fra storfe, svin, sau, geit og hestedyr i samsvar med artikkel 121 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429), skal sikreat hvert strå eller annen emballasje som sæd, oocytter eller embryoer plasseres, lagres og transporteres i, uavhengig av om de er delt inn i enkeltdoser eller ikke, er merket i samsvar med sporbarhetskravene fastsatt i artikkel 10 i delegert forordning [(EU) 2020/686](eu/32020r0686) og de tekniske kravene og spesifikasjonene for merking fastsatt i del 1 i vedlegget til denne forordningen,at de driftsmessige kravene til sporing av avlsmateriale fastsatt i del 2 i vedlegget er oppfylt.
+1\. Driftsansvarlige som merker avlsmateriale fra storfe, svin, sau, geit og hestedyr i samsvar med artikkel 121 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429), skal sikreat hvert strå eller annen emballasje som sæd, oocytter eller embryoer plasseres, lagres og transporteres i, uavhengig av om de er delt inn i enkeltdoser eller ikke, er merket i samsvar med sporbarhetskravene fastsatt i artikkel 10 i delegert forordning [(EU) 2020/686](eu/32020r0686) og de tekniske kravene og spesifikasjonene for merking fastsatt i del 1 i vedlegget til denne forordningen,at de driftsmessige kravene til sporing av avlsmateriale fastsatt i del 2 i vedlegget er oppfylt.
 
-2. Hver medlemsstat skal på grunnlag av de tekniske kravene og spesifikasjonene for merking som er fastsatt i del 1 i vedlegget, fastsette regler for kjennetegnene ved og formen på den merkingen av strå og annen emballasje som avlsmaterialet plasseres, lagres og transporteres i, som brukes på sitt territorium, og skal oversende disse opplysningene til Kommisjonen og de øvrige medlemsstatene.
+2\. Hver medlemsstat skal på grunnlag av de tekniske kravene og spesifikasjonene for merking som er fastsatt i del 1 i vedlegget, fastsette regler for kjennetegnene ved og formen på den merkingen av strå og annen emballasje som avlsmaterialet plasseres, lagres og transporteres i, som brukes på sitt territorium, og skal oversende disse opplysningene til Kommisjonen og de øvrige medlemsstatene.
 
 ### Artikkel 6. Ikrafttredelse og anvendelse
 
@@ -713,7 +1121,13 @@ Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i a
 
 Utferdiget i Brussel 9. juli 2020.
 
-For KommisjonenUrsula VON DER LEYENPresident
+|  |  |
+| --- | --- |
+|  | For Kommisjonen |
+|  |  |
+|  | Ursula VON DER LEYEN |
+|  |  |
+|  | President |
 
 ### VEDLEGG
 Tekniske krav og spesifikasjoner for merking av strå og annen emballasje for avlsmateriale fra storfe, svin, sau, geit og hestedyr, og driftsmessige krav til sporing av disse, som nevnt i artikkel 5
@@ -721,27 +1135,29 @@ Tekniske krav og spesifikasjoner for merking av strå og annen emballasje for av
 ### Del 1
 Tekniske krav og spesifikasjoner for merking av strå og annen emballasje som sæd, oocytter eller embryoer plasseres, lagres eller transporteres i
 
-1. Merkingen på strå og annen emballasje skal være lett leselig, og alle opplysninger som merkingen inneholder, skal være påtrykt eller skrevet slik at hvert enkelt element framstår tydelig.
+1\. Merkingen på strå og annen emballasje skal være lett leselig, og alle opplysninger som merkingen inneholder, skal være påtrykt eller skrevet slik at hvert enkelt element framstår tydelig.
 
-2. Merkingen på strå og annen emballasje nevnt i nr. 1, uavhengig av om den er i kodeform eller ikke, skal inneholde følgende opplysninger:Datoen for innsamling eller produksjon av sæden, oocyttene eller embryoene angitt i ett av følgende formater: ddmmåå, ååmmdd, dd/mm/åå, åå/mm/dd, dd.mm.åå, åå.mm.dd eller, dersom vilkårene i nr. 2 i del 2 til enhver tid er oppfylt, antall dager etter en fastsatt dato uttrykt som en femsifret kode.Donordyrets/-dyrenes art.Donordyrets/-dyrenes identifikasjonskode(r) som definert i artikkel 2 nr. 18 i delegert kommisjonsforordning [(EU) 2019/2035](eu/32019r2035)5, eller, når det gjelder svin, minst det unike registreringsnummeret for anlegget der donordyret/-dyrene er født, som definert i artikkel 2 nr. 15 i nevnte delegerte forordning, eller, når det gjelder hestedyr, den unike koden som definert i artikkel 2 nr. 17 i nevnte delegerte forordning.Anleggets unike godkjenningsnummer eller unike registreringsnummer for enten innsamling eller produksjon, bearbeiding og lagring av sæd, oocytter eller embryoer, som skal inneholde navnet eller landkoden på to bokstaver i samsvar med ISO-standard 3166-1 for opprinnelseslandet.
+2\. Merkingen på strå og annen emballasje nevnt i nr. 1, uavhengig av om den er i kodeform eller ikke, skal inneholde følgende opplysninger:Datoen for innsamling eller produksjon av sæden, oocyttene eller embryoene angitt i ett av følgende formater: ddmmåå, ååmmdd, dd/mm/åå, åå/mm/dd, dd.mm.åå, åå.mm.dd eller, dersom vilkårene i nr. 2 i del 2 til enhver tid er oppfylt, antall dager etter en fastsatt dato uttrykt som en femsifret kode.Donordyrets/-dyrenes art.Donordyrets/-dyrenes identifikasjonskode(r) som definert i artikkel 2 nr. 18 i delegert kommisjonsforordning [(EU) 2019/2035](eu/32019r2035)5, eller, når det gjelder svin, minst det unike registreringsnummeret for anlegget der donordyret/-dyrene er født, som definert i artikkel 2 nr. 15 i nevnte delegerte forordning, eller, når det gjelder hestedyr, den unike koden som definert i artikkel 2 nr. 17 i nevnte delegerte forordning.Anleggets unike godkjenningsnummer eller unike registreringsnummer for enten innsamling eller produksjon, bearbeiding og lagring av sæd, oocytter eller embryoer, som skal inneholde navnet eller landkoden på to bokstaver i samsvar med ISO-standard 3166-1 for opprinnelseslandet.
 
-3. Opplysningene om donordyrets/-dyrenes art nevnt i nr. 2 bokstav b) kan utelates fra merkingen nevnt i nr. 1 dersom donordyrets/-dyrenes art kan fastsettes på grunnlag av opplysninger som er trykt eller skrevet på strået eller annen emballasje i forbindelse med entendet unike godkjenningsnummeret for anlegget for avlsmateriale for innsamling eller produksjon, bearbeiding og lagring av sæd, oocytter eller embryoer, eller anleggets unike registreringsnummer for innsamling, bearbeiding og lagring av sæd fra sau eller geit, ellerdonordyrets/-dyrenes rase.
+3\. Opplysningene om donordyrets/-dyrenes art nevnt i nr. 2 bokstav b) kan utelates fra merkingen nevnt i nr. 1 dersom donordyrets/-dyrenes art kan fastsettes på grunnlag av opplysninger som er trykt eller skrevet på strået eller annen emballasje i forbindelse med entendet unike godkjenningsnummeret for anlegget for avlsmateriale for innsamling eller produksjon, bearbeiding og lagring av sæd, oocytter eller embryoer, eller anleggets unike registreringsnummer for innsamling, bearbeiding og lagring av sæd fra sau eller geit, ellerdonordyrets/-dyrenes rase.
 
-4. Dersom et enkelt strå eller annen emballasje inneholder enten sæd som er innsamlet fra mer enn ett donordyr, eller embryoer, og det ikke er nok plass på strået eller annen emballasje til å trykke eller skrive hvert enkelt donordyrs identifikasjon, kan kodene eller numrene nevnt i nr. 2 bokstav c) angis i form av en numerisk kode.
+4\. Dersom et enkelt strå eller annen emballasje inneholder enten sæd som er innsamlet fra mer enn ett donordyr, eller embryoer, og det ikke er nok plass på strået eller annen emballasje til å trykke eller skrive hvert enkelt donordyrs identifikasjon, kan kodene eller numrene nevnt i nr. 2 bokstav c) angis i form av en numerisk kode.
 
-5. Merkingen på strå og annen emballasje nevnt i nr. 1 kan inneholde andre relevante opplysninger (for eksempel navnet på donordyret/-dyrene, rase, angivelse av kjønn for kjønnssortert sæd, eller det individuelle identifikasjonsnummeret for donordyr av svin).
+5\. Merkingen på strå og annen emballasje nevnt i nr. 1 kan inneholde andre relevante opplysninger (for eksempel navnet på donordyret/-dyrene, rase, angivelse av kjønn for kjønnssortert sæd, eller det individuelle identifikasjonsnummeret for donordyr av svin).
 
-6. Når det gjelder kjønnssortert sæd, skal, dersom sæden ble kjønnssortert i et bearbeidingsanlegg for avlsmateriale, merkingen på strå og annen emballasje nevnt i nr. 1 inneholde det unike godkjenningsnummeret for bearbeidingsanlegget for avlsmateriale der denne sæden ble kjønnssortert.Dersom det ikke er nok plass på strået eller annen emballasje til å trykke eller skrive det unike godkjenningsnummeret for bearbeidingsanlegget for avlsmateriale, kan dette unike godkjenningsnummeret angis i form av en numerisk kode.
+6\. Når det gjelder kjønnssortert sæd, skal, dersom sæden ble kjønnssortert i et bearbeidingsanlegg for avlsmateriale, merkingen på strå og annen emballasje nevnt i nr. 1 inneholde det unike godkjenningsnummeret for bearbeidingsanlegget for avlsmateriale der denne sæden ble kjønnssortert.Dersom det ikke er nok plass på strået eller annen emballasje til å trykke eller skrive det unike godkjenningsnummeret for bearbeidingsanlegget for avlsmateriale, kan dette unike godkjenningsnummeret angis i form av en numerisk kode.
 
-7. Alle eller deler av opplysningene nevnt i nr. 2-6 kan kodes elektronisk på stråene eller annen emballasje.
+7\. Alle eller deler av opplysningene nevnt i nr. 2-6 kan kodes elektronisk på stråene eller annen emballasje.
+
+5 Delegert kommisjonsforordning [(EU) 2019/2035](eu/32019r2035) av 28. juni 2019 om utfylling av europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) med hensyn til regler for anlegg for landdyr og rugerier, samt sporing av visse holdte landdyr og rugeegg (EUT L 314 av 5.12.2019, s. 115).
 
 ### Del 2
 Driftsmessige krav til sporing av sæd, oocytter eller embryoer
 
-1. Hver forsendelse av avlsmateriale skal ledsages av spesifikasjoner som forklarer merkingen som er trykt eller skrevet på stråene og annen emballasje som sæd, oocytter eller embryoer er plassert i.
+1\. Hver forsendelse av avlsmateriale skal ledsages av spesifikasjoner som forklarer merkingen som er trykt eller skrevet på stråene og annen emballasje som sæd, oocytter eller embryoer er plassert i.
 
-2. Systemet for å vise innsamlings- eller produksjonsdatoen for sæd, oocytter eller embryoer nevnt i nr. 2 bokstav a) i del 1 skal angis i spesifikasjonene nevnt i nr. 1 i denne delen.Dersom datoen vises som antall dager etter en fastsatt dato uttrykt som en femsifret kode, skal den fastsatte datoen angis.
+2\. Systemet for å vise innsamlings- eller produksjonsdatoen for sæd, oocytter eller embryoer nevnt i nr. 2 bokstav a) i del 1 skal angis i spesifikasjonene nevnt i nr. 1 i denne delen.Dersom datoen vises som antall dager etter en fastsatt dato uttrykt som en femsifret kode, skal den fastsatte datoen angis.
 
-3. Dersom merkingen på et strå eller annen emballasje inneholder en numerisk kode nevnt i nr. 4 eller nr. 6 andre strekpunkt i del 1, skal det i spesifikasjonene nevnt i nr. 1 i denne delen angis hvilke opplysninger som er kodet.
+3\. Dersom merkingen på et strå eller annen emballasje inneholder en numerisk kode nevnt i nr. 4 eller nr. 6 andre strekpunkt i del 1, skal det i spesifikasjonene nevnt i nr. 1 i denne delen angis hvilke opplysninger som er kodet.
 
-4. Dersom merkingen på et strå eller annen emballasje inneholder en elektronisk kode nevnt i nr. 7 i del 1, skal den driftsansvarlige som er ansvarlig for forsendelsen av avlsmateriale, framskaffe en leserenhet som gjør det mulig å dekode denne elektroniske koden.
+4\. Dersom merkingen på et strå eller annen emballasje inneholder en elektronisk kode nevnt i nr. 7 i del 1, skal den driftsansvarlige som er ansvarlig for forsendelsen av avlsmateriale, framskaffe en leserenhet som gjør det mulig å dekode denne elektroniske koden.
