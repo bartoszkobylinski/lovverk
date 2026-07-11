@@ -1360,7 +1360,9 @@ Personer som skal reise til utlandet kan kjøpe varer som ikke har gått over i 
 
 (1) En leverandør av produkter eller materialer til en eksportør som skal utstede opprinnelsesbevis, kan utstede nasjonal leverandørerklæring om opprinnelsesstatus for den enkelte vareleveransen. Erklæringen skal være påført eller vedlagt en faktura eller et annet handelsdokument. Leverandørerklæringen skal ha følgende ordlyd:
 
-«Leverandøren av produktene/materialene omfattet av dette dokumentet, erklærer at disse produktene/materialene, unntatt hvor annet er tydelig angitt, har norsk preferanseopprinnelse», alternativt «... EØS-preferanseopprinnelse».Alternativet EØS-preferanseopprinnelse skal brukes dersom produktet har opprinnelse i henhold til [EØS-avtalen](lov/1992-11-27-109/eøsl). Ved leveranse av produkt med opprinnelse i andre avtaleland, skal det respektive land angis som opprinnelsesland.
+«Leverandøren av produktene/materialene omfattet av dette dokumentet, erklærer at disse produktene/materialene, unntatt hvor annet er tydelig angitt, har norsk preferanseopprinnelse», alternativt «... EØS-preferanseopprinnelse».
+
+Alternativet EØS-preferanseopprinnelse skal brukes dersom produktet har opprinnelse i henhold til [EØS-avtalen](lov/1992-11-27-109/eøsl). Ved leveranse av produkt med opprinnelse i andre avtaleland, skal det respektive land angis som opprinnelsesland.
 
 (2) Hvis bearbeidingen eller foredlingen ikke er tilstrekkelig til å oppnå opprinnelsesstatus, kan leverandøren utstede en nasjonal erklæring som viser den bearbeidingen eller foredlingen som har vært foretatt, eller eventuell verdi som er tilført under bearbeidingen eller foredlingen.
 

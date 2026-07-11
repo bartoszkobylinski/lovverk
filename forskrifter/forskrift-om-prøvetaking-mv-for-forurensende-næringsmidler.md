@@ -2383,7 +2383,9 @@ Analysemetodene for det samlede innholdet av arsen er egnet for kontroll av innh
 
 ◄**M2**
 
-C.3.3.*Særlige krav*►**M1**
+C.3.3.*Særlige krav*
+
+►**M1**
 
 C.3.3.1.*Ytelseskriterier*
 

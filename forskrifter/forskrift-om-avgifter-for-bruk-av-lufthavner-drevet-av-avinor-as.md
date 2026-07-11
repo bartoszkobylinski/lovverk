@@ -15,7 +15,7 @@ xml_hash: "fe10634b0b2697250c84d11cd50f1aefcd88cd502be2fd429aebc171a4bd5e6a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-10T17:52:49.841668+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -402,7 +402,67 @@ Med virkning fra 1. mars 2020 skal [§ 23](forskrift/2019-12-20-2137/§23) bokst
 
 *DTS formatbeskrivelser*
 
-*Felt 1:* Recordtype = 5.*Felt 2:* Kallesignal.*Felt 3:* Dato avgang – UTC.*Felt 4:* Avgangsplass – DEP.*Felt 5:* STD – Scheduled Time of Departure – UTC.*Felt 6:* ATD – Actual Time of Departure/Off-block Time) – UTC.*Felt 7:* Forsinkelse.*Felt 8:* Dato ankomst – UTC.*Felt 9:* Destinasjon – ARR.*Felt 10:* STA – Scheduled Time of Arrival – UTC.*Felt 11:* ATA – UTC.*Felt 12:* Registreringsmerke.*Felt 13:* Flygningens art.*Felt 14:* Total Persons On Board.*Felt 15:* Crew, aktiv.*Felt 16:* Crew, passiv.*Felt 17:* Tjenestereisende.*Felt 18:* Infants.*Felt 19:* Passasjerer avreist fra avgangsplass (lokalt påstigende).*Felt 20:* Passasjerer avreist i transfer.*Felt 21:* Passasjerer avreist i transitt.*Felt 22:* Passasjerer ankommet destinasjon (Avstigende).*Felt 23:* Frakt lastet.*Felt 24:* Frakt losset.*Felt 25:* Post lastet.*Felt 26:* Post losset.*Felt 27:* International eller Domestic.*Felt 28:* Domestic leg of international flight.*Felt 29:* Passasjerer til utland.*Felt 30:* Kommentarer og diverse.*Felt 31:* Unik ID.
+*Felt 1:* Recordtype = 5.
+
+*Felt 2:* Kallesignal.
+
+*Felt 3:* Dato avgang – UTC.
+
+*Felt 4:* Avgangsplass – DEP.
+
+*Felt 5:* STD – Scheduled Time of Departure – UTC.
+
+*Felt 6:* ATD – Actual Time of Departure/Off-block Time) – UTC.
+
+*Felt 7:* Forsinkelse.
+
+*Felt 8:* Dato ankomst – UTC.
+
+*Felt 9:* Destinasjon – ARR.
+
+*Felt 10:* STA – Scheduled Time of Arrival – UTC.
+
+*Felt 11:* ATA – UTC.
+
+*Felt 12:* Registreringsmerke.
+
+*Felt 13:* Flygningens art.
+
+*Felt 14:* Total Persons On Board.
+
+*Felt 15:* Crew, aktiv.
+
+*Felt 16:* Crew, passiv.
+
+*Felt 17:* Tjenestereisende.
+
+*Felt 18:* Infants.
+
+*Felt 19:* Passasjerer avreist fra avgangsplass (lokalt påstigende).
+
+*Felt 20:* Passasjerer avreist i transfer.
+
+*Felt 21:* Passasjerer avreist i transitt.
+
+*Felt 22:* Passasjerer ankommet destinasjon (Avstigende).
+
+*Felt 23:* Frakt lastet.
+
+*Felt 24:* Frakt losset.
+
+*Felt 25:* Post lastet.
+
+*Felt 26:* Post losset.
+
+*Felt 27:* International eller Domestic.
+
+*Felt 28:* Domestic leg of international flight.
+
+*Felt 29:* Passasjerer til utland.
+
+*Felt 30:* Kommentarer og diverse.
+
+*Felt 31:* Unik ID.
 
 *IATA-meldinger*
 

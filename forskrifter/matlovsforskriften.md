@@ -17,7 +17,7 @@ xml_hash: "fda9f2c94749d8992aae8ac1e5a01f44d9c90ec437c28310cdd741ce958bb0ae"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-10T17:52:49.841668+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -68,7 +68,9 @@ Nedenfor gjengis til informasjon [EØS-avtalen vedlegg I kapittel I](avtale/avt-
 
 Forordning [(EF) nr. 178/2002](eu/32002r0178) er konsolidert til og med endringer gjennomført ved forordning [(EU) 2024/908](eu/32024r0908).
 
-► **B** Europaparlaments- og rådsforordnng (EF) [nr. 178/2002](eu/32002r0178) av 28. januar 2002som endret ved
+► **B** Europaparlaments- og rådsforordnng (EF) [nr. 178/2002](eu/32002r0178) av 28. januar 2002
+
+som endret ved
 
 - ► **M1** Europaparlaments- og rådsforordning [(EF) nr. 1642/2003](eu/32003r1642) av 22. juli 2003
 - ► **M2** Kommisjonsforordning [(EF) nr. 575/2006](eu/32006r0575) av 7. april 2006
@@ -177,7 +179,8 @@ Allment næringsmiddelregelverk
 ### Avsnitt 1
 Allmenne prinsipper i næringsmiddelregelverket
 
-Artikkel 5
+###### Artikkel 5
+
 Allmenne mål
 
 1\. Næringsmiddelregelverket skal bidra til å nå ett eller flere av de allmenne mål om et høyt vernenivå for menneskers liv og helse og vern av forbrukerinteresser, herunder god forretningsskikk innen handel med næringsmidler, samtidig som det om nødvendig tas hensyn til vern av dyrs helse og velferd, plantehelsen og miljøet.
@@ -186,7 +189,8 @@ Allmenne mål
 
 3\. Dersom internasjonale standarder finnes eller vil bli vedtatt om kort tid, skal de tas i betraktning ved utforming eller tilpasning av næringsmiddelregelverket, unntatt når slike standarder eller relevante deler av dem ville være et ineffektivt eller uhensiktsmessig middel til å nå næringsmiddelregelverkets legitime mål, eller det foreligger en vitenskapelig begrunnelse eller de ville føre til et annet vernenivå enn det som anses som hensiktsmessig i Fellesskapet.
 
-Artikkel 6
+###### Artikkel 6
+
 Risikoanalyse
 
 1\. For å nå det allmenne mål om et høyt vernenivå for menneskers liv og helse, skal næringsmiddelregelverket bygge på risikoanalyser, unntatt når dette ikke er hensiktsmessig på grunn av omstendighetene eller tiltakets [art](forskrift/2008-12-22-1620).
@@ -195,14 +199,16 @@ Risikoanalyse
 
 3\. Ved risikohåndteringen skal det tas hensyn til resultatene fra risikovurderingen, og særlig til uttalelsene fra myndigheten omhandlet i artikkel 22, andre faktorer av betydning for det aktuelle tilfellet og føre-var-prinsippet, når vilkårene fastsatt i artikkel 7 nr. 1 er relevante, med henblikk på å oppnå næringsmiddelregelverkets allmenne mål, som er fastsatt i artikkel 5.
 
-Artikkel 7
+###### Artikkel 7
+
 Føre-var-prinsippet
 
 1\. I særlige tilfeller der det på bakgrunn av en vurdering av tilgjengelige opplysninger påvises en mulighet for skadelige virkninger på helsen, men der det fortsatt råder vitenskapelig usikkerhet, kan det vedtas midlertidige risikohåndteringstiltak som er nødvendige for å sikre det høye helsevernnivået som Fellesskapet har valgt, i påvente av ytterligere vitenskapelige opplysninger med sikte på en mer omfattende risikovurdering.
 
 2\. Tiltak som vedtas i henhold til nr. 1, skal stå i forhold til målet og ikke hindre handelen mer enn nødvendig for å sikre det høye helsevernnivået som Fellesskapet har valgt, samtidig som det tas hensyn til teknisk og økonomisk gjennomførbarhet og andre faktorer som anses å være berettigede for den aktuelle saken. Tiltakene skal vurderes på nytt innen et rimelig tidsrom avhengig av arten av den risiko for liv og helse som er påvist, og typen vitenskapelige opplysninger som er nødvendige for å avklare den vitenskapelige usikkerheten og foreta en mer omfattende risikovurdering.
 
-Artikkel 8
+###### Artikkel 8
+
 Vern av forbrukerinteresser
 
 1\. Næringsmiddelregelverket skal ha som mål å verne forbrukerinteressene og gi forbrukerne et grunnlag for å foreta velbegrunnede valg med hensyn til de næringsmidlene de inntar. Det skal ha som mål å forebygge:bedragersk eller villedende praksis,forfalskning av næringsmidler ogenhver annen praksis som kan villede forbrukeren.
@@ -210,17 +216,20 @@ Vern av forbrukerinteresser
 ### ►**M4** Avsnitt 1a
 Risikokommunikasjon
 
-Artikkel 8a
+###### Artikkel 8a
+
 Mål for risikokommunikasjon
 
 Idet det tas hensyn til risikovurderernes og risikohåndterernes respektive roller, skal risikokommunikasjonen ta sikte på å oppfylle følgende mål:Øke bevisstheten om og forståelsen av de særlige spørsmålene som vurderes, også i tilfeller av avvik i den vitenskapelige vurderingen, under hele risikoanalyseprosessen.Sikre konsistens, innsyn og klarhet i utformingen av anbefalinger og beslutninger om risikohåndtering.Legge et solid grunnlag, ved behov også et vitenskapelig grunnlag, for å forstå beslutninger om risikohåndtering.Forbedre risikoanalysens generelle formålstjenlighet og effektivitet.Fremme offentlighetens forståelse av risikoanalysen, herunder risikovurderernes og risikohåndterernes respektive oppgaver og ansvarsområder for å øke tilliten til resultatet av den.Sikre at forbrukere, fôr- og næringsmiddelforetak, det akademiske miljøet og alle andre berørte parter deltar på en hensiktsmessig måte.Sikre hensiktsmessig og åpen utveksling av opplysninger med berørte parter om risikoer knyttet til næringsmiddelkjeden.Sikre at forbrukerne får opplysninger om risikoforebyggende strategier.Bidra til å bekjempe spredning av feilaktige opplysninger og kildene til disse.
 
-Artikkel 8b
+###### Artikkel 8b
+
 Allmenne prinsipper for risikokommunikasjon
 
 Idet det tas hensyn til risikovurderernes og risikohåndterernes respektive roller, skal risikokommunikasjonensikre at nøyaktige opplysninger og alle relevante opplysninger utveksles på en interaktiv og rettidig måte med alle berørte parter basert på prinsippene om innsyn, åpenhet og imøtekommenhet,gi åpen informasjon på hvert trinn i risikoanalyseprosessen, fra utarbeiding av anmodninger om vitenskapelige råd til utarbeiding av risikovurderinger og vedtakelse av beslutninger om risikohåndtering, herunder informasjon om hvordan beslutninger om risikohåndtering ble truffet og hvilke faktorer som ble vurdert,ta hensyn til alle berørte parters risikooppfatninger,lette forståelsen og dialogen blant alle berørte parter, ogvære klar og tilgjengelig, også overfor dem som ikke er direkte involvert i prosessen eller som ikke har en vitenskapelig bakgrunn, samtidig som gjeldende lovbestemmelser om fortrolig behandling og vern av personopplysninger overholdes.
 
-Artikkel 8c
+###### Artikkel 8c
+
 Generell plan for risikokommunikasjon
 
 1\. Kommisjonen skal ved hjelp av gjennomføringsrettsakter vedta en generell plan for risikokommunikasjon for å nå målene angitt i artikkel 8 i samsvar med de allmenne prinsippene i artikkel 8b. Kommisjonen skal oppdatere denne generelle planen, idet det tas hensyn til den tekniske og vitenskapelige utviklingen og de erfaringene som er gjort. Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten nevnt i artikkel 58 nr. 2. Når Kommisjonen utarbeider disse gjennomføringsrettsaktene, skal den rådføre seg med myndigheten.
@@ -232,12 +241,14 @@ Generell plan for risikokommunikasjon
 ### Avsnitt 2
 Prinsipper om åpenhet
 
-Artikkel 9
+###### Artikkel 9
+
 Offentlig høring
 
 Det skal gjennomføres en offentlig høring som er åpen og gir innsyn, direkte eller gjennom representative organer, i forbindelse med utarbeiding, vurdering og revisjon av næringsmiddelregelverket, med mindre dette ikke lar seg gjøre fordi saken haster.
 
-Artikkel 10
+###### Artikkel 10
+
 Informasjon til offentligheten
 
 Uten at det berører gjeldende regler i Fellesskapet og nasjonal lovgivning om tilgang til dokumenter, skal offentlige myndigheter når det er rimelig grunn til mistanke om at et næringsmiddel eller fôr kan utgjøre en risiko for menneskers eller dyrs helse, avhengig av risikoens art, grad og omfang, treffe hensiktsmessige tiltak for å informere offentligheten om helserisikoens art slik at det så utførlig som mulig opplyses om hvilket næringsmiddel eller fôr eller hvilken type næringsmiddel eller fôr som er berørt, risikoen det kan utgjøre og tiltakene som er truffet eller vil bli truffet for å forebygge, redusere eller fjerne denne risikoen.
@@ -245,12 +256,14 @@ Uten at det berører gjeldende regler i Fellesskapet og nasjonal lovgivning om t
 ### Avsnitt 3
 Allmenne forpliktelser ved handel med næringsmidler
 
-Artikkel 11
+###### Artikkel 11
+
 Næringsmidler og fôrvarer som importeres til Fellesskapet
 
 Næringsmidler og fôrvarer som importeres til og skal omsettes i Fellesskapet, skal oppfylle de relevante kravene i næringsmiddelregelverket eller vilkår som i Fellesskapet anses for å være minst likeverdige, eller, dersom det foreligger en særskilt avtale mellom Fellesskapet og eksportstaten, de kravene som inngår i denne.
 
-Artikkel 12
+###### Artikkel 12
+
 Næringsmidler og fôrvarer som eksporteres fra Fellesskapet
 
 1\. Næringsmidler og fôrvarer som eksporteres eller gjeneksporteres fra Fellesskapet for å omsettes i en tredjestat, skal oppfylle de relevante kravene i næringsmiddelregelverket, med mindre noe annet kreves av myndighetene i importstaten eller er fastsatt i lover, forskrifter, standarder, regler for god praksis og andre rettslige og forvaltningsmessige framgangsmåter som kan gjelde i importstaten.Under andre omstendigheter, unntatt når næringsmidler er helseskadelige eller fôrvarer ikke er trygge, kan næringsmidler og fôrvarer eksporteres eller gjeneksporteres bare dersom vedkommende myndigheter i bestemmelsesstaten uttrykkelig har godkjent dette etter å ha blitt fullt informert om årsakene og omstendighetene som gjorde at det aktuelle næringsmiddelet eller fôret ikke kunne omsettes i Fellesskapet.
@@ -262,7 +275,8 @@ Næringsmidler og fôrvarer som eksporteres fra Fellesskapet
 - *Artikkel 12 skal lyde:*
 - *EFTA-statenes lovgivning når det gjelder produksjon, import og markedsføring av næringsmidler og fôr skal oppfylle de relevante kravene i næringsmiddelregelverket, herunder effektive tiltak for å sikre at produkter som er trukket tilbake fra markedet i en EU-medlemsstat ikke kan eksporteres eller gjeneksporteres til et tredjeland via en EFTA-stat*.
 
-Artikkel 13
+###### Artikkel 13
+
 Internasjonale standarder
 
 Uten at det berører deres rettigheter og plikter skal Fellesskapet og medlemsstatene:bidra til utviklingen av internasjonale tekniske standarder for næringsmidler og fôr, samt helse- og plantehelsestandarder,fremme samordningen av arbeidet med næringsmiddel- og fôrstandarder som utføres av internasjonale statlige og ikke-statlige organisasjoner,når det er relevant og hensiktsmessig, bidra til utformingen av avtaler om anerkjennelse av likeverdigheten til særlige tiltak i tilknytning til næringsmidler og fôr,ta særlig hensyn til utviklingslandenes særlige utviklingsmessige, finansielle og handelsmessige behov for å sikre at internasjonale standarder ikke skaper unødvendige hindringer for eksport fra utviklingsland,fremme samsvar mellom internasjonale tekniske standarder og næringsmiddelregelverket, samtidig som det sikres at det høye vernenivået som er vedtatt i Fellesskapet, ikke senkes.
@@ -270,7 +284,8 @@ Uten at det berører deres rettigheter og plikter skal Fellesskapet og medlemsst
 ### Avsnitt 4
 Allmenne krav i næringsmiddelregelverket
 
-Artikkel 14
+###### Artikkel 14
+
 Krav til næringsmiddeltrygghet
 
 1\. Et næringsmiddel skal ikke omsettes dersom det ikke er trygt.
@@ -291,7 +306,8 @@ Krav til næringsmiddeltrygghet
 
 9\. Når det ikke finnes særlige fellesskapsbestemmelser, skal et næringsmiddel anses som trygt når det er i samsvar med de særlige bestemmelsene i den nasjonale næringsmiddellovgivningen i den medlemsstat på hvis territorium næringsmiddelet omsettes, idet disse bestemmelsene skal utformes og anvendes uten at det berører traktaten, særlig artikkel 28 og 30.
 
-Artikkel 15
+###### Artikkel 15
+
 Krav til fôrtrygghet
 
 1\. Fôr skal ikke omsettes eller gis til dyr bestemt til næringsmiddelproduksjon dersom det ikke er trygt.
@@ -306,19 +322,22 @@ Krav til fôrtrygghet
 
 6\. Når det ikke finnes særlige Fellesskapsbestemmelser, skal et fôr anses som trygt når det er i samsvar med de særlige bestemmelsene i den nasjonale lovgivning om fôrtrygghet i den Medlemsstat på hvis territorium fôret omsettes, idet disse bestemmelsene skal utformes og anvendes uten at det berører traktaten, særlig artikkel 28 og 30.
 
-Artikkel 16
+###### Artikkel 16
+
 Presentasjon
 
 Uten at det berører mer spesifikke bestemmelser i næringsmiddelregelverket, skal forbrukere ikke villedes av merking, reklame for og presentasjon av næringsmidler og fôr, herunder deres form, utseende eller emballasje, emballasjematerialene som brukes, måten de ordnes på og de omgivelsene de stilles ut i samt opplysninger som gis om dem, uansett medium.
 
-Artikkel 17
+###### Artikkel 17
+
 Ansvar
 
 1\. Driftsansvarlige for næringsmiddel- og fôrforetak skal i alle ledd av produksjon, bearbeiding og distribusjon i det foretak de har ansvar for, sikre at næringsmidler eller fôr oppfyller kravene i næringsmiddelregelverket som er relevante for deres virksomhet, og kontrollere at disse kravene overholdes.
 
 2\. Medlemsstatene skal håndheve næringsmiddelregelverket og overvåke og kontrollere at de relevante kravene i næringsmiddelregelverket overholdes av driftsansvarlige for næringsmiddel- og fôrforetak i alle ledd av produksjon, bearbeiding og distribusjon.For dette formål skal de opprettholde en ordning med offentlige kontroller og annen virksomhet som er hensiktsmessig etter omstendighetene, herunder informasjon til offentligheten om næringsmiddel- og fôrtrygghet og om risikoen ved næringsmidler og fôr samt overvåking av næringsmiddel- og fôrtrygghet og annen overvåking i alle ledd av produksjon, bearbeiding og distribusjon.Medlemsstatene skal også fastsette bestemmelser om tiltak og sanksjoner som skal gjelde ved overtredelser av næringsmiddel- og fôrvareregelverket. De fastsatte tiltakene og sanksjonene skal være virkningsfulle, stå i forhold til overtredelsen og virke avskrekkende.
 
-Artikkel 18
+###### Artikkel 18
+
 Sporbarhet
 
 1\. Næringsmidler, fôr, dyr bestemt til næringsmiddelproduksjon og alle andre stoffer som er bestemt til eller kan forventes å bli iblandet et næringsmiddel eller et fôr, skal kunne spores i alle ledd i produksjon, bearbeiding og distribusjon.
@@ -331,7 +350,8 @@ Sporbarhet
 
 5\. Bestemmelser om anvendelsen av kravene i denne artikkel på særlige områder kan vedtas etter framgangsmåten fastsatt i artikkel 58 nr. 2.
 
-Artikkel 19
+###### Artikkel 19
+
 Ansvar for næringsmidler: driftsansvarlige for næringsmiddelforetak
 
 1\. Dersom en driftsansvarlig for et næringsmiddelforetak anser, eller har grunn til å tro, at et næringsmiddel som foretaket har importert, produsert, bearbeidet, framstilt eller distribuert, ikke er i samsvar med kravene til næringsmiddeltrygghet, skal vedkommende umiddelbart treffe tiltak for å trekke det berørte næringsmiddelet tilbake fra markedet i de tilfellene der næringsmiddelet ikke lenger er under dette næringsmiddelforetakets umiddelbare kontroll, og underrette vedkommende myndigheter om dette. Dersom produktet kan ha nådd forbrukeren, skal den driftsansvarlige på en effektiv og nøyaktig måte opplyse forbrukerne om årsaken til at det trekkes tilbake, og om nødvendig trekke tilbake fra forbrukerne produkter som allerede er levert til dem, når andre tiltak ikke er tilstrekkelige til å oppnå et høyt helsevernnivå.
@@ -342,7 +362,8 @@ Ansvar for næringsmidler: driftsansvarlige for næringsmiddelforetak
 
 4\. Driftsansvarlige for næringsmiddelforetak skal samarbeide med vedkommende myndigheter om tiltak for å unngå eller redusere risikoene ved et næringsmiddel som de leverer eller har levert.
 
-Artikkel 20
+###### Artikkel 20
+
 Ansvar for fôr: driftsansvarlige for fôrforetak
 
 1\. Dersom en driftsansvarlig for et fôrforetak anser, eller har grunn til å tro, at et fôr som foretaket har importert, produsert, bearbeidet, framstilt eller distribuert, ikke oppfyller kravene til fôrtrygghet, skal vedkommende umiddelbart treffe tiltak for å trekke det berørte fôret tilbake fra markedet og underrette vedkommende myndigheter om dette. I disse tilfellene, og i tilfellet nevnt i artikkel 15 nr. 3, der et parti eller en forsendelse ikke oppfyller kravene til fôrtrygghet, skal fôret tilintetgjøres, med mindre vedkommende myndighet godtar en annen løsning. Den driftsansvarlige skal på en effektiv og nøyaktig måte opplyse brukerne av fôret om årsaken til at det trekkes tilbake, og om nødvendig trekke tilbake fra brukerne produkter som allerede er levert til dem, når andre tiltak ikke er tilstrekkelige til å oppnå et høyt helsevernnivå.
@@ -353,7 +374,8 @@ Ansvar for fôr: driftsansvarlige for fôrforetak
 
 4\. Driftsansvarlige for fôrforetak skal samarbeide med vedkommende myndigheter om tiltak for å unngå risikoene ved et fôr som de leverer eller har levert.
 
-Artikkel 21
+###### Artikkel 21
+
 Ansvar
 
 Bestemmelsene i dette kapittel berører ikke rådsdirektiv [85/374/EØF](eu/31985l0374*) av 25. juli 1985 om tilnærming av medlemsstatenes lover og forskrifter om produktansvar.1
@@ -366,7 +388,8 @@ Den europeiske myndighet for næringsmiddeltrygghet
 ### Avsnitt 1
 Oppdrag og oppgaver
 
-Artikkel 22
+###### Artikkel 22
+
 Myndighetens oppdrag
 
 1\. Det opprettes en europeisk myndighet for næringsmiddeltrygghet, heretter kalt «myndigheten».*EFTA-statene skal delta i arbeidet til Den europeiske myndighet for næringsmiddeltrygghet, heretter kalt «myndigheten», men uten stemmerett*.
@@ -387,7 +410,8 @@ Myndighetens oppdrag
 
 9\. Medlemsstatene skal samarbeide med myndigheten for å sikre at den kan utføre sitt oppdrag.
 
-Artikkel 23
+###### Artikkel 23
+
 Myndighetens oppgaver
 
 Myndigheten skal ha som oppgave å:avgi til Fellesskapets organer og medlemsstatene de best mulige vitenskapelige uttalelser i alle de tilfellene som er fastsatt i Fellesskapets regelverk, og om alle spørsmål som hører inn under dens oppdrag,fremme og samordne utviklingen av ensartede risikovurderingsmetoder på de områdene som oppdraget omfatter,yte vitenskapelig og teknisk bistand til Kommisjonen på de områdene som oppdraget omfatter og, på anmodning, med hensyn til fortolkning og vurdering av uttalelser om risikovurdering,bestille vitenskapelige undersøkelser som er nødvendige for å utføre oppdraget,finne, samle inn, sette sammen, analysere og oppsummere vitenskapelige og tekniske data på de områdene som oppdraget omfatter,treffe tiltak for å identifisere og beskrive nye risikoer på de områdene som oppdraget omfatter,opprette et system av nettverk bestående av organisasjoner som er virksomme på de områdene som oppdraget omfatter, og være ansvarlig for driften av nettverkene,yte vitenskapelig og teknisk bistand på Kommisjonens anmodning i forbindelse med framgangsmåtene for krisehåndtering som Kommisjonen gjennomfører med hensyn til næringsmiddel- og fôrtrygghet,yte vitenskapelig og teknisk bistand på Kommisjonens anmodning, med henblikk på å bedre samarbeidet mellom Fellesskapet, søkerstater, internasjonale organisasjoner og tredjestater på de områdene som oppdraget omfatter,sikre at offentligheten og de berørte partene mottar rask, pålitelig, objektiv og forståelig informasjon på de områdene som oppdraget omfatter,uavhengig gi uttrykk for sine egne konklusjoner og retningslinjer i spørsmål som oppdraget omfatter,utføre andre oppgaver som Kommisjonen pålegger den og som oppdraget omfatter.
@@ -395,12 +419,14 @@ Myndigheten skal ha som oppgave å:avgi til Fellesskapets organer og medlemsstat
 ### Avsnitt 2
 Organisasjon
 
-Artikkel 24
+###### Artikkel 24
+
 Myndighetens organer
 
 Myndigheten skal bestå av:et styre,en daglig leder samt personale,et rådgivende utvalg,en vitenskapskomité og vitenskapsgrupper.
 
-Artikkel 25
+###### Artikkel 25
+
 Styret
 
 ►**M4**
@@ -441,7 +467,8 @@ Med mindre annet er fastsatt, skal styret treffe sine beslutninger med et flerta
 
 1 EFT L 357 av 31.12.2002, s. 72; rettelse i EFT L 2 av 7.1.2003, s. 39.
 
-Artikkel 26
+###### Artikkel 26
+
 Daglig leder
 
 1\. Den daglige lederen skal utnevnes av styret for et tidsrom på fem år, som kan fornyes, på grunnlag av en liste over kandidater som Kommisjonen foreslår etter en åpen utvelgingsprøve, etter at en interessetegning er offentliggjort i *De Europeiske Fellesskaps Tidende* og andre steder. Før utnevnelsen skal kandidaten som er innstilt av styret, straks oppfordres til å avgi en erklæring til Europaparlamentet og svare på spørsmål fra denne institusjonens medlemmer. Den daglige lederen kan avsettes av et flertall i styret.
@@ -465,7 +492,8 @@ Daglig leder
 
 ◄ **M1**
 
-Artikkel 27
+###### Artikkel 27
+
 Rådgivende utvalg
 
 1\. Det rådgivende utvalget skal bestå av representanter fra vedkommende organer i medlemsstatene som utfører tilsvarende oppgaver som myndigheten, og hver medlemsstat skal utpeke én representant. Representantene kan erstattes av vararepresentanter som utnevnes samtidig.
@@ -482,7 +510,8 @@ Rådgivende utvalg
 
 7\. Representanter for Kommisjonens kontorer kan delta i det rådgivende utvalgets arbeid. Den daglige lederen kan innby representanter fra Europaparlamentet og andre relevante organer til å delta.Når det rådgivende utvalget drøfter de spørsmål som er nevnt i artikkel 22 nr. 5 bokstav b), kan representanter fra vedkommende organer i medlemsstatene som utfører oppgaver som tilsvarer dem som omtales i artikkel 22 nr. 5 bokstav b), delta i det rådgivende utvalgets arbeid, ved at én representant utpekes fra hver medlemsstat.
 
-Artikkel 28
+###### Artikkel 28
+
 Vitenskapskomité og vitenskapsgrupper
 
 1\. Vitenskapskomiteen og de faste vitenskapsgruppene skal, innenfor sine respektive ansvarsområder, være ansvarlige for å avgi myndighetens vitenskapelige uttalelser, og om nødvendig ha mulighet til å holde offentlige høringer.
@@ -542,7 +571,8 @@ På anmodning fra myndigheten kan Kommisjonen tilpasse antallet vitenskapsgruppe
 ### Avsnitt 3
 Virksomhet
 
-Artikkel 29
+###### Artikkel 29
+
 Vitenskapelige uttalelser
 
 1\. Myndigheten skal avgi vitenskapelige uttalelser:på anmodning fra Kommisjonen om spørsmål som hører inn under myndighetens oppdrag, og i alle de tilfeller der det i Fellesskapets regelverk er fastsatt at myndigheten skal høres,på eget initiativ om spørsmål som hører inn under myndighetens oppdrag.Europaparlamentet eller en medlemsstat kan be myndigheten om å avgi en vitenskapelig uttalelse om spørsmål som hører inn under dens oppdrag.
@@ -559,7 +589,8 @@ Vitenskapelige uttalelser
 
 7\. I myndighetens interne regler skal det angis hvilke krav som gjelder for format, begrunnelse og offentliggjøring av en vitenskapelig uttalelse.*En EFTA-stat kan be myndigheten avgi en vitenskapelig uttalelse om saker som hører inn under dens oppdrag. En slik anmodning skal i første instans rettes til Kommisjonen som, i tilfeller der den vurderer anmodningen å være av felles interesse, oversender den til myndigheten med henblikk på å innhente den ønskede uttalelse.**EFTAs overvåkningsorgan (ESA) kan be myndigheten avgi en vitenskapelig uttalelse. EFTAs overvåkningsorgan skal samarbeide med Kommisjonen for å sikre en harmonisert tilnærmingsmåte.*
 
-Artikkel 30
+###### Artikkel 30
+
 Avvikende vitenskapelige uttalelser
 
 1\. Myndigheten skal utvise årvåkenhet slik at den på et tidlig tidspunkt kan oppdage mulige kilder til avvik mellom myndighetens egne vitenskapelige uttalelser og vitenskapelige uttalelser som avgis av andre organer med tilsvarende oppgaver.
@@ -570,14 +601,16 @@ Avvikende vitenskapelige uttalelser
 
 4\. Dersom det oppdages et vesentlig avvik i vitenskapelige spørsmål og det berørte organet er et organ i en medlemsstat, er myndigheten og det nasjonale organet forpliktet til å samarbeide for enten å komme til enighet, eller utarbeide et felles dokument for å redegjøre for de omstridte vitenskapelige spørsmålene og fastslå relevante usikkerhetsmomenter i datamaterialet. Dette dokumentet skal offentliggjøres.
 
-Artikkel 31
+###### Artikkel 31
+
 Vitenskapelig og teknisk bistand
 
 1\. Kommisjonen kan anmode myndigheten om vitenskapelig eller teknisk bistand på de områdene som hører inn under myndighetens oppdrag. Oppgaven med å yte vitenskapelig og teknisk bistand skal bestå av vitenskapelig eller teknisk arbeid som bygger på anerkjente vitenskapelige eller tekniske prinsipper, som ikke krever at vitenskapskomiteen eller en vitenskapsgruppe foretar en vitenskapelig vurdering. Slike oppgaver kan særlig omfatte bistand til Kommisjonen ved fastsettelse eller vurdering av tekniske kriterier samt bistand til Kommisjonen ved utarbeiding av tekniske retningslinjer.
 
 2\. Når Kommisjonen retter en anmodning til myndigheten om vitenskapelig eller teknisk bistand, skal den, etter avtale med myndigheten, fastsette en frist for utføring av oppgaven.*EFTAs overvåkningsorgan (ESA) kan anmode myndigheten om vitenskapelig eller teknisk bistand som beskrevet i artikkel 31 om saker som hører inn under dens oppdrag i henhold til avtalen.*
 
-Artikkel 32
+###### Artikkel 32
+
 Vitenskapelige undersøkelser
 
 1\. Ved bruk av de beste uavhengige vitenskapelige ressurser som er tilgjengelige, skal myndigheten bestille de vitenskapelige undersøkelser som er nødvendige for å utføre oppdraget. Slike undersøkelser skal bestilles på en åpen måte som gir innsyn. Myndigheten skal forsøke å unngå overlapping med medlemsstatenes eller Fellesskapets forskningsprogrammer, og skal fremme samarbeid gjennom passende samordning.
@@ -586,14 +619,16 @@ Vitenskapelige undersøkelser
 
 ►**M4**
 
-Artikkel 32a
+###### Artikkel 32a
+
 Rådgivning før inngivelse
 
 1\. Dersom EU-retten inneholder bestemmelser om at myndigheten skal levere et vitenskapelig resultat, herunder en vitenskapelig uttalelse, skal myndighetens personale på anmodning fra en potensiell søker eller melder, gi råd om de reglene som gjelder for og det innholdet som kreves i søknaden eller meldingen, før den inngis. Slik rådgivning fra myndighetens personale skal ikke berøre og ikke være bindende med hensyn til en eventuell senere vurdering av søknader eller meldinger som foretas av vitenskapsgruppene. Myndighetens personale som gir slike råd, skal ikke delta i noe forberedende vitenskapelig eller teknisk arbeid som er direkte eller indirekte relevant for søknaden eller meldingen som er gjenstand for rådgivningen.
 
 2\. Myndigheten skal på sitt nettsted offentliggjøre generelle retningslinjer for de reglene som gjelder for og det innholdet som kreves i søknader eller meldinger, herunder eventuelt generelle retningslinjer for utformingen av nødvendige undersøkelser.
 
-Artikkel 32b
+###### Artikkel 32b
+
 Melding om undersøkelser
 
 1\. Myndigheten skal opprette og forvalte en database som inneholder undersøkelser som er bestilt eller utført av foretak for å støtte en søknad eller melding for hvilken EU-retten inneholder bestemmelser om at myndigheten skal levere vitenskapelige resultater, herunder en vitenskapelig uttalelse.
@@ -612,7 +647,8 @@ Melding om undersøkelser
 
 8\. Myndigheten skal fastsette hvordan bestemmelsene i denne artikkelen skal gjennomføres i praksis, herunder ordninger for å anmode om og offentliggjøre de gyldige begrunnelsene i tilfellene nevnt i nr. 4, 5 og 6. Disse ordningene skal være i samsvar med denne forordningen og annen relevant EU-rett.
 
-Artikkel 32c
+###### Artikkel 32c
+
 Høring av tredjeparter
 
 1\. Dersom relevant EU-rett fastsetter at en godkjenning eller en tillatelse, herunder ved hjelp av en melding, kan fornyes, skal den potensielle søkeren eller melderen om fornyelse underrette myndigheten om hvilke undersøkelser den har til hensikt å utføre for dette formål, herunder opplysninger om hvordan de forskjellige undersøkelsene skal utføres for å sikre at kravene i regelverket oppfylles. Etter en slik melding om undersøkelser skal myndigheten høre berørte parter og offentligheten om de planlagte undersøkelsene for fornyelse, også om den foreslåtte utformingen av undersøkelsene. Idet det tas hensyn til de mottatte kommentarene fra de berørte partene og offentligheten og som er relevante for risikovurderingen av den planlagte fornyelsen, skal myndigheten gi råd om innholdet i den planlagte søknaden eller meldingen om fornyelse, samt om utformingen av undersøkelsene. Rådene fra myndigheten skal ikke berøre og ikke være bindende med hensyn til vitenskapsgruppenes senere vurdering av søknadene eller meldingene om fornyelse.
@@ -621,14 +657,16 @@ Høring av tredjeparter
 
 3\. Myndigheten skal fastsette hvordan framgangsmåtene nevnt i denne artikkelen og artikkel 32a skal gjennomføres i praksis.
 
-Artikkel 32d
+###### Artikkel 32d
+
 Kontrollundersøkelser
 
 Uten at det berører søkernes plikt til å dokumentere tryggheten ved noe som er framlagt for en godkjenningsordning, kan Kommisjonen under uvanlige omstendigheter med alvorlige motsetninger eller motstridende resultater anmode myndigheten om å bestille vitenskapelige undersøkelser med det formål å kontrollere dokumentasjon som brukes i risikovurderingsprosessen. Undersøkelsene som er bestilt, kan være mer omfattende enn dokumentasjonen som kontrolleres.
 
 ◄**M4**
 
-Artikkel 33
+###### Artikkel 33
+
 Innsamling av data
 
 1\. Myndigheten skal finne, samle inn, sette sammen, analysere og oppsummere vitenskapelige og tekniske data på de områdene som oppdraget omfatter. Dette omfatter særlig innsamling av data om:forbruk av næringsmidler, og enkeltpersoners risikoeksponering i forbindelse med dette,biologiske risikoers insidens og prevalens,forurensende stoffer i næringsmidler og fôr,reststoffer.
@@ -643,7 +681,8 @@ Innsamling av data
 
 6\. Myndigheten skal sende resultatene av sitt arbeid i forbindelse med datainnsamling til Europaparlamentet, Kommisjonen og medlemsstatene. *EFTAs overvåkningsorgan (ESA) skal motta opplysningene.*
 
-Artikkel 34
+###### Artikkel 34
+
 Identifisering av nye risikoer
 
 1\. Myndigheten skal fastsette framgangsmåter for overvåking med henblikk på systematisk å finne, samle inn, sette sammen og analysere opplysninger og data for å identifisere nye risikoer på de områdene som hører inn under myndighetens oppdrag.
@@ -654,12 +693,14 @@ Identifisering av nye risikoer
 
 4\. Myndigheten skal oversende vurderingen og de opplysningene den har samlet inn om nye risikoer til Europaparlamentet, Kommisjonen og medlemsstatene. *EFTAs overvåkningsorgan (ESA) skal motta opplysningene.*
 
-Artikkel 35
+###### Artikkel 35
+
 Hurtigvarslingssystem
 
 For at myndigheten skal kunne utføre sin oppgave med overvåking av helserisikoer og ernæringsmessige risikoer i forbindelse med næringsmidler, skal den være mottaker av alle meldinger som sendes gjennom hurtigvarslingssystemet. Den skal analysere innholdet i disse meldingene for å gi Kommisjonen og medlemsstatene alle opplysninger som er nødvendige for risikoanalysen.
 
-Artikkel 36
+###### Artikkel 36
+
 Nettverk av organisasjoner som er virksomme på de områdene som hører inn under myndighetens oppdrag
 
 1\. Myndigheten skal fremme et europeisk nettverk av organisasjoner som er virksomme på de områdene som hører inn under myndighetens oppdrag. Målet med et slikt nettverk er særlig å fremme en ramme for vitenskapelig samarbeid gjennom å samordne virksomheten, utveksle opplysninger, utforme og gjennomføre felles prosjekter samt å utveksle sakkunnskap og beste praksis på de områdene som hører inn under myndighetens oppdrag.
@@ -673,7 +714,8 @@ Nettverk av organisasjoner som er virksomme på de områdene som hører inn unde
 ### Avsnitt 4
 Uavhengighet, innsyn, fortrolighet og informasjon
 
-Artikkel 37
+###### Artikkel 37
+
 Uavhengighet
 
 1\. Styremedlemmene, medlemmene av det rådgivende utvalget og den daglige lederen skal forplikte seg til å handle uavhengig og i offentlighetens interesse.For det formål skal de derfor avgi en forpliktelseserklæring og en interesseerklæring om at det enten ikke foreligger noen interesser som vil kunne anses å berøre deres uavhengighet, eller at det foreligger direkte eller indirekte interesser som vil kunne anses å berøre deres uavhengighet. Disse erklæringene skal avgis skriftlig hvert år.
@@ -682,7 +724,8 @@ Uavhengighet
 
 3\. Styremedlemmene, den daglige lederen, medlemmene av det rådgivende utvalget, medlemmene av vitenskapskomiteen og av vitenskapsgruppene samt eksterne sakkyndige som deltar i arbeidsgruppene, skal på hvert møte redegjøre for eventuelle interesser som vil kunne anses å berøre deres uavhengighet med hensyn til punktene på dagsordenen.
 
-Artikkel 38
+###### Artikkel 38
+
 Innsyn
 
 ►**M4**
@@ -701,7 +744,8 @@ Innsyn
 
 ►**M4**
 
-Artikkel 39
+###### Artikkel 39
+
 Fortrolighet
 
 1\. Som unntak fra artikkel 38 skal myndigheten ikke offentliggjøre opplysninger som det er anmodet om fortrolig behandling av på de vilkårene som er fastsatt i denne artikkelen.
@@ -712,14 +756,16 @@ Fortrolighet
 
 4\. Uten hensyn til nr. 2 og 3 gjelder følgende:Dersom hastetiltak er nødvendige for å beskytte menneskers eller dyrs helse eller miljøet, for eksempel i nødssituasjoner, kan myndigheten offentliggjøre opplysningene nevnt i nr. 2 og 3.Opplysninger som utgjør en del av konklusjonene i vitenskapelige resultater, herunder vitenskapelige uttalelser, som leveres av myndigheten, og som gjelder forventede virkninger på menneskers ellers dyrs helse eller miljøet, skal likevel offentliggjøres.
 
-Artikkel 39a
+###### Artikkel 39a
+
 Anmodning om fortrolighet
 
 1\. Når søkeren inngir en søknad, underbyggende vitenskapelige data og andre tilleggsopplysninger i samsvar med EU-retten, kan vedkommende anmode om at visse deler av opplysningene behandles som fortrolige i samsvar med artikkel 39 nr. 2 og 3. En slik anmodning skal ledsages av en etterprøvbar begrunnelse som dokumenterer hvordan offentliggjøring av de aktuelle opplysningene i vesentlig grad skader de berørte interessene i samsvar med artikkel 39 nr. 2 og 3.
 
 2\. Dersom en søker framsetter en anmodning om fortrolighet, skal vedkommende framlegge en ikke-fortrolig versjon og en fortrolig versjon av opplysningene som er inngitt i samsvar med standardiserte dataformater, dersom slike finnes, i henhold til artikkel 39f. Den ikke-fortrolige versjonen skal ikke inneholde opplysningene som søkeren anser som fortrolige på grunnlag av artikkel 39 nr. 2 og 3, og det skal angis hvor disse opplysningene er slettet. Den fortrolige versjonen skal inneholde alle opplysninger som er framlagt, herunder opplysningene som søkeren anser som fortrolige. Opplysninger som det anmodes om fortrolig behandling av i den fortrolige versjonen, skal være tydelig merket. Søkeren skal tydelig angi grunnene til at det anmodes om fortrolig behandling av de forskjellige delene av opplysningene.
 
-Artikkel 39b
+###### Artikkel 39b
+
 Beslutning om fortrolighet
 
 1\. Myndigheten skaloffentliggjøre den ikke-fortrolige versjonen av søknaden slik den er inngitt av søkeren umiddelbart etter at søknaden er ansett som gyldig eller godtakbar,umiddelbart foreta en konkret og individuell undersøkelse av anmodningen om fortrolighet i samsvar med denne artikkelen,underrette søkeren skriftlig om at den har til hensikt å offentliggjøre opplysningene samt grunnene til dette, før myndigheten formelt treffer en beslutning om anmodningen om fortrolighet; dersom søkeren er uenig i myndighetens vurdering, kan søkeren gi sine synspunkter eller trekke søknaden innen to uker etter datoen da vedkommende ble underrettet om myndighetens holdning,treffe en grunngitt beslutning om anmodningen om fortrolighet, idet det tas hensyn til søkerens synspunkter, innen ti uker etter datoen da anmodningen om fortrolighet ble mottatt når det gjelder søknader, og umiddelbart når det gjelder tilleggsdata- og opplysninger, underrette søkeren om sin beslutning og gi opplysninger om retten til å inngi en bekreftende søknad i samsvar med nr. 2, og eventuelt underrette Kommisjonen og medlemsstatene om sin beslutning, ogoffentliggjøre eventuelle tilleggsdata- og opplysninger som anmodningen om fortrolighet ikke er godtatt som berettiget for, tidligst to uker etter at søkeren er underrettet om beslutningen i henhold til bokstav d).
@@ -728,12 +774,14 @@ Beslutning om fortrolighet
 
 3\. Beslutninger som er truffet av myndigheten i henhold til denne artikkelen, kan klages inn for domstolen på vilkårene angitt i artikkel 263 og 278 i traktaten om Den europeiske unions virkemåte (TEUV).
 
-Artikkel 39c
+###### Artikkel 39c
+
 Gjennomgåelse av fortrolighet
 
 Før myndigheten leverer sine vitenskapelige resultater, herunder vitenskapelige uttalelser, skal den undersøke om opplysninger som tidligere er godtatt som fortrolige, likevel kan offentliggjøres i samsvar med artikkel 39 nr. 4 bokstav b). Dersom dette er tilfellet, skal myndigheten følge framgangsmåten i artikkel 39b, som gjelder tilsvarende med nødvendige endringer.
 
-Artikkel 39d
+###### Artikkel 39d
+
 Forpliktelser med hensyn til fortrolighet
 
 1\. Myndigheten skal på anmodning gi Kommisjonen og medlemsstatene alle opplysninger den har tilgang til vedrørende en søknad eller en anmodning fra Europaparlamentet, Kommisjonen eller medlemsstatene om vitenskapelige resultater, herunder en vitenskapelig uttalelse, med mindre annet er angitt i EU-retten.
@@ -746,7 +794,8 @@ Forpliktelser med hensyn til fortrolighet
 
 5\. Myndigheten skal i samråd med Kommisjonen fastsette hvordan fortrolighetsreglene fastsatt i artikkel 39, 39, 39b, 39e og i denne artikkelen skal anvendes i praksis, herunder regler for framsettelse og behandling av anmodninger om fortrolighet med hensyn til opplysninger som skal offentliggjøres i henhold til artikkel 38, og idet det tas hensyn til artikkel 39f og 39g. Når det gjelder artikkel 39b nr. 2, skal myndigheten sørge for hensiktsmessig atskillelse av oppgaver ved vurderingen av bekreftende søknader.
 
-Artikkel 39e
+###### Artikkel 39e
+
 Vern av personopplysninger
 
 1\. Når det gjelder anmodninger om vitenskapelige resultater, herunder vitenskapelige uttalelser i henhold til EU-retten, skal myndigheten alltid offentliggjøresøkerens navn og adresse,navnene på opphavere av offentliggjorte eller offentlig tilgjengelige undersøkelser som støtter slike anmodninger, ognavnene på alle deltakere og observatører på møter i vitenskapskomiteen og vitenskapsgruppene, deres arbeidsgrupper og eventuelle andre møter i adhocgrupper om emnet.
@@ -755,21 +804,24 @@ Vern av personopplysninger
 
 3\. Forordning [(EU) 2016/679](eu/32016r0679) og [(EU) 2018/1725](eu/32018r1725) skal anvendes på behandling av personopplysninger i henhold til denne forordningen. Alle personopplysninger som offentliggjøres i henhold til artikkel 38 i denne forordningen og i henhold til denne artikkelen, skal bare brukes til å sikre innsyn i risikovurderingen i henhold til denne forordningen, og skal ikke viderebehandles på en måte som er uforenlig med disse formålene, i samsvar med artikkel 5 nr. 1 bokstav b) i forordning (EU) 2016/679 og artikkel 4 nr. 1 i forordning (EU) 2018/1725, etter hva som er relevant.Europaparlaments- og rådsforordning (EU) 2016/679 av 27. april 2016 om vern av fysiske personer i forbindelse med behandling av personopplysninger og om fri utveksling av slike opplysninger samt om oppheving av direktiv 95/46/EF (generell personvernforordning) (EUT L 119 av 4.5.2016, s. 1).Europaparlaments- og rådsforordning (EU) 2018/1725 av 23. oktober 2018 om vern av fysiske personer i forbindelse med behandling av personopplysninger i Unionens institusjoner, organer, kontorer og byråer og om fri utveksling av slike opplysninger samt om oppheving av forordning (EF) nr. 45/2001 og beslutning nr. 1247/2002/EF (EUT L 295 av 21.11.2018, s. 39).
 
-Artikkel 39f
+###### Artikkel 39f
+
 Standardiserte dataformater
 
 1\. Med hensyn til artikkel 38 nr. 1 bokstav c) og for å sikre effektiv behandling av anmodninger til myndigheten om vitenskapelige resultater skal det vedtas standardiserte dataformater i samsvar med nr. 2 i denne artikkelen slik at det blir mulig å framlegge, søke i, kopiere og skrive ut dokumenter, samtidig som det sikres samsvar kravene fastsatt i EU-retten. Disse standardiserte dataformatene skalikke være basert på private standarder,sikre samvirkingsevne med eksisterende metoder for oversending av data i den grad det er mulig,være brukervennlige og tilpasset små og mellomstore bedrifters bruk.
 
 2\. Ved vedtakelsen av de standardiserte dataformater nevnt i nr. 1 skal følgende framgangsmåte følges:Myndigheten skal utarbeide utkast til standardiserte dataformater for de forskjellige framgangsmåtene for godkjenning og relevante anmodninger om vitenskapelige resultater fra Europaparlamentet, Kommisjonen og medlemsstatene,Kommisjonen skal, idet det tas hensyn til gjeldende krav i de forskjellige godkjenningsprosedyrene og andre rettslige rammer og etter eventuelle nødvendige tilpasninger, vedta standardiserte dataformater ved hjelp av gjennomføringsrettsakter. Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten nevnt i artikkel 58 nr. 2.Myndigheten skal gjøre de vedtatte standardiserte dataformatene tilgjengelige på sitt nettsted.Dersom det er vedtatt standardiserte dataformater i henhold til denne artikkelen, skal søknader samt anmodninger om vitenskapelige resultater, herunder en vitenskapelig uttalelse, fra Europaparlamentet, Kommisjonen og medlemsstatene bare inngis i samsvar med disse standardiserte dataformatene.
 
-Artikkel 39g
+###### Artikkel 39g
+
 Informasjonssystemer
 
 Myndighetenes informasjonssystemer for lagring av data, herunder fortrolige opplysninger og personopplysninger, skal utformes på en måte som garanterer at all tilgang er fullt ut kontrollerbar, og at høyest mulige sikkerhetsstandarder, som står i forhold de sikkerhetsrisikoene som foreligger, oppnås, idet det tas hensyn til artikkel 39–39f.
 
 ◄**M4**
 
-Artikkel 40
+###### Artikkel 40
+
 Informasjon fra myndigheten
 
 1\. Myndigheten skal på eget initiativ gi informasjon på de områdene som hører inn under oppdraget, uten at det berører Kommisjonens myndighet til å underrette om sine avgjørelser om risikohåndtering.
@@ -782,7 +834,8 @@ Informasjon fra myndigheten
 
 ► **M1**
 
-Artikkel 41
+###### Artikkel 41
+
 Tilgang til dokumenter
 
 ►**M4**
@@ -799,7 +852,8 @@ Tilgang til dokumenter
 
 ◄ **M1**
 
-Artikkel 42
+###### Artikkel 42
+
 Forbrukere, produsenter og andre berørte parter
 
 Myndigheten skal opprette effektive forbindelser med representanter for forbrukere og produsenter, bearbeidingsvirksomheter og andre berørte parter.
@@ -807,7 +861,8 @@ Myndigheten skal opprette effektive forbindelser med representanter for forbruke
 ### Avsnitt 5
 Finansielle bestemmelser
 
-Artikkel 43
+###### Artikkel 43
+
 Vedtakelse av myndighetens budsjett
 
 1\. Myndighetens inntekter skal bestå av et bidrag fra Fellesskapet og fra enhver stat som Fellesskapet har inngått avtaler med som nevnt i artikkel 49, samt avgifter for publikasjoner, konferanser, utdanning og all annen lignende virksomhet som myndigheten står for.*EFTA-statene skal bidra finansielt til myndighetens budsjett i samsvar med EØS-avtalens artikkel 82 nr. 1 bokstav a) og avtalens protokoll 32.*
@@ -832,7 +887,8 @@ Vedtakelse av myndighetens budsjett
 
 10\. Styret skal så snart som mulig underrette budsjettmyndigheten om sine planer om å gjennomføre eventuelle prosjekter som kan ha store økonomiske konsekvenser for finansieringen av budsjettet, særlig prosjekter som gjelder eiendom, som for eksempel leie eller kjøp av bygninger. Det skal underrette Kommisjonen om dette.Dersom en enhet innen budsjettmyndigheten har meddelt at den planlegger å avgi en uttalelse, skal den oversende sin uttalelse til styret innen seks uker etter at prosjektet ble meldt.
 
-Artikkel 44
+###### Artikkel 44
+
 Gjennomføring av myndighetens budsjett
 
 1\. Den daglige lederen skal gjennomføre myndighetens budsjett.
@@ -857,7 +913,8 @@ Gjennomføring av myndighetens budsjett
 
 ◄ **M1**
 
-Artikkel 45
+###### Artikkel 45
+
 Gebyrer som mottas av myndigheten
 
 Innen tre år etter at denne forordning har trådt i kraft, og etter samråd med myndigheten, medlemsstatene og de berørte parter, skal Kommisjonen offentliggjøre en rapport om hvorvidt det er mulig og tilrådelig å framlegge et forslag til regelverk i henhold til framgangsmåten for medbestemmelse og i samsvar med traktaten, om andre tjenester som ytes av myndigheten.
@@ -865,14 +922,16 @@ Innen tre år etter at denne forordning har trådt i kraft, og etter samråd med
 ### Avsnitt 6
 Alminnelige bestemmelser
 
-Artikkel 46
+###### Artikkel 46
+
 Rettslig status og privilegier
 
 1\. Myndigheten er et eget rettssubjekt. Den skal i hver medlemsstat ha den mest omfattende rettslige handleevne som lovgivningen innrømmer juridiske personer. Den kan særlig erverve og avhende fast eiendom og løsøre og være part i en rettssak.
 
 2\. Protokollen om De europeiske fellesskaps privilegier og immunitet skal gjelde for myndigheten.*EFTA-statene skal innrømme myndigheten de privilegier og den immunitet som tilsvarer det som er fastsatt i protokollen om De europeiske fellesskaps privilegier og immunitet*.
 
-Artikkel 47
+###### Artikkel 47
+
 Ansvar
 
 1\. Myndighetens ansvar i kontraktsforhold skal være underlagt den lov som gjelder for vedkommende kontrakt. De europeiske fellesskaps domstol skal ha myndighet til å treffe avgjørelse i henhold til enhver voldgiftsklausul i en kontrakt inngått av myndigheten.
@@ -881,14 +940,16 @@ Ansvar
 
 3\. De ansattes personlige ansvar overfor myndigheten skal være underlagt de relevante bestemmelsene som får anvendelse på myndighetens personale.
 
-Artikkel 48
+###### Artikkel 48
+
 Personale
 
 1\. De regler og forskrifter som gjelder for tjenestemenn og andre ansatte i De europeiske fellesskap, får anvendelse på myndighetens personale.
 
 2\. Myndigheten skal overfor sine ansatte utøve den myndighet som er tillagt ansettelsesmyndigheten.*Som unntak fra artikkel 12 nr. 2 bokstav a) i Tilsettingsvilkår for andre tjenestemenn i De europeiske fellesskap, kan statsborgere i EFTA-statene som nyter fulle borgerrettigheter, tilsettes på kontrakt av myndighetens daglige leder*.
 
-Artikkel 49
+###### Artikkel 49
+
 Tredjestaters deltaking
 
 Myndigheten skal være åpen for deltaking for stater som har inngått avtaler med Det europeiske fellesskap som innebærer at de har vedtatt og anvender Fellesskapets regelverk på det området som omfattes av denne forordning.
@@ -901,7 +962,8 @@ System for hurtig varsling, krisehåndtering og nødssituasjoner
 ### Avsnitt 1
 Hurtigvarslingssystem
 
-Artikkel 50
+###### Artikkel 50
+
 Hurtigvarslingssystem
 
 1\. Et hurtigvarslingssystem for melding om direkte eller indirekte helserisikoer for mennesker på grunn av næringsmidler eller fôr, opprettes i form av et nettverk. Det skal omfatte medlemsstatene, Kommisjonen og myndigheten. Medlemsstatene, Kommisjonen og myndigheten skal utpeke hvert sitt kontaktpunkt som skal være medlem av nettverket. Kommisjonen skal være ansvarlig for forvaltningen av nettverket.
@@ -916,12 +978,14 @@ Hurtigvarslingssystem
 
 6\. Hurtigvarslingssystemet kan utvides til å omfatte søkerstater, tredjestater eller internasjonale organisasjoner på grunnlag av avtaler mellom Fellesskapet og de berørte statene eller internasjonale organisasjonene, etter framgangsmåtene fastsatt i disse avtalene. Avtalene skal bygge på gjensidighet og inneholde bestemmelser om fortrolighet tilsvarende dem som får anvendelse i Fellesskapet.
 
-Artikkel 51
+###### Artikkel 51
+
 Gjennomføringstiltak
 
 Gjennomføringstiltakene for artikkel 50 skal vedtas av Kommisjonen etter drøftinger med myndigheten, etter framgangsmåten fastsatt i artikkel 58 nr. 2. I disse tiltakene skal det særlig angis hvilke særlige vilkår og framgangsmåter som gjelder for videreformidling av meldinger og tilleggsopplysninger.
 
-Artikkel 52
+###### Artikkel 52
+
 Fortrolighetsregler for hurtigvarslingssystemet
 
 1\. Opplysninger som er tilgjengelige for medlemmene av nettverket, om helserisikoer for mennesker ved næringsmidler og fôr, skal i alminnelighet være tilgjengelige for offentligheten i samsvar med informasjonsprinsippet i artikkel 10. Offentligheten skal i alminnelighet ha tilgang til opplysninger som gjør det mulig å identifisere produktet, samt opplysninger om risikoens art og de tiltak som er truffet.Medlemmene av nettverket skal imidlertid treffe de tiltak som er nødvendige for å sikre at deres ansatte ikke gir videre opplysninger som er innhentet for dette avsnitts formål, og som er av en slik art at de er underlagt taushetsplikt i behørig begrunnede tilfeller, med unntak av opplysninger som etter omstendighetene må gis videre for å verne menneskers helse.
@@ -931,14 +995,16 @@ Fortrolighetsregler for hurtigvarslingssystemet
 ### Avsnitt 2
 Nødssituasjoner
 
-Artikkel 53
+###### Artikkel 53
+
 Nødtiltak for næringsmidler og fôrvarer med opprinnelse i Fellesskapet eller importert fra en tredjestat
 
 1\. Dersom det er åpenbart at næringsmidler eller fôrvarer med opprinnelse i Fellesskapet eller importert fra en tredjestat sannsynligvis vil utgjøre en alvorlig risiko for menneskers og dyrs helse eller miljøet, og at en slik risiko ikke kan avverges på en tilfredsstillende måte ved hjelp av tiltak som treffes av den eller de berørte medlemsstater, skal Kommisjonen etter framgangsmåten fastsatt i artikkel 58 nr. 2, på eget initiativ eller på anmodning fra en medlemsstat, umiddelbart vedta ett eller flere av følgende tiltak, avhengig av hvor alvorlig situasjonen er:for næringsmidler eller fôrvarer med opprinnelse i Fellesskapet:utsettelse av omsetningen eller bruken av det berørte næringsmiddelet,utsettelse av omsetningen eller bruken av det berørte fôret,fastsettelse av særlige vilkår for det berørte næringsmiddelet eller det berørte fôret,alle andre midlertidige tiltak som er hensiktsmessige,for næringsmidler eller fôrvarer importert fra en tredjestat:utsettelse av import av det berørte næringsmiddelet eller den berørte fôrvaren fra hele eller deler av den berørte tredjestaten, og eventuelt fra transittstater utenfor Fellesskapet,fastsettelse av særlige vilkår for det berørte næringsmiddelet eller den berørte fôrvaren fra hele eller deler av den berørte tredjestaten,alle andre midlertidige tiltak som er hensiktsmessige.
 
 2\. I nødssituasjoner kan imidlertid Kommisjonen midlertidig vedta tiltakene nevnt i nr. 1, etter samråd med den eller de berørte medlemsstatene og etter å ha underrettet de øvrige medlemsstatene.De tiltakene som er truffet skal så snart som mulig, og senest innen ti virkedager, bekreftes, endres, oppheves eller forlenges etter framgangsmåten fastsatt i artikkel 58 nr. 2, og årsakene til Kommisjonens beslutning skal offentliggjøres umiddelbart.
 
-Artikkel 54
+###### Artikkel 54
+
 Andre nødtiltak
 
 1. Dersom en medlemsstat offisielt underretter Kommisjonen om at det er nødvendig å treffe nødtiltak, og Kommisjonen ikke har handlet i samsvar med artikkel 53, kan medlemsstaten vedta foreløpige beskyttelsestiltak. I så fall skal den umiddelbart underrette de andre medlemsstatene og Kommisjonen.
@@ -954,21 +1020,24 @@ Andre nødtiltak
 ### Avsnitt 3
 Krisehåndtering
 
-Artikkel 55
+###### Artikkel 55
+
 Generell plan for krisehåndtering
 
 1\. Kommisjonen skal i nært samarbeid med myndigheten og medlemsstatene utarbeide en generell plan for krisehåndtering på området næringsmiddel- og fôrtrygghet (heretter kalt «den generelle planen»).
 
 2\. I den generelle planen skal det fastsettes hvilke typer situasjoner som innebærer en direkte eller indirekte helserisiko for mennesker, knyttet til næringsmidler eller fôr, som sannsynligvis ikke kan forebygges, fjernes eller reduseres til et akseptabelt nivå på grunnlag av gjeldende bestemmelser, eller håndteres i tilstrekkelig omfang bare ved anvendelse av artikkel 53 og 54.I den generelle planen skal det også fastsettes hvilke praktiske framgangsmåter som er nødvendige for å håndtere en krise, herunder prinsippene om åpenhet som skal anvendes, og en kommunikasjonsstrategi.
 
-Artikkel 56
+###### Artikkel 56
+
 Kriseenhet
 
 1\. Uten at det berører Kommisjonens oppgave med å sikre gjennomføringen av Fellesskapets regelverk, skal Kommisjonen umiddelbart underrette medlemsstatene og myndigheten dersom den fastslår at det foreligger en situasjon der næringsmidler eller fôr utgjør en alvorlig direkte eller indirekte helserisiko for mennesker, og at risikoen ikke kan forebygges, fjernes eller reduseres på grunnlag av gjeldende bestemmelser, eller håndteres i tilstrekkelig omfang bare ved anvendelse av artikkel 53 og 54.
 
 2\. Kommisjonen skal umiddelbart opprette en kriseenhet der myndigheten skal delta og ved behov yte vitenskapelig og teknisk bistand.*Når krisen berører en EFTA-stat direkte, skal EFTA-statene ha mulighet til å delta i kriseenheten*.
 
-Artikkel 57
+###### Artikkel 57
+
 Kriseenhetens oppgaver
 
 1\. Kriseenheten skal ha ansvaret for å samle inn og vurdere alle relevante opplysninger og fastlegge hvilke muligheter som finnes for så effektivt og raskt som mulig å forebygge eller fjerne helserisikoen for mennesker, eller redusere den til et akseptabelt nivå.
@@ -983,7 +1052,8 @@ Framgangsmåter og sluttbestemmelser
 ### Avsnitt 1
 Komitéframgangsmåte og meklingsframgangsmåte
 
-Artikkel 58
+###### Artikkel 58
+
 Komité
 
 1\. Kommisjonen skal bistås av en fast komité for næringsmiddelkjeden og dyrehelsen, heretter kalt «komiteen», som består av representanter for medlemsstatene og ledes av en representant for Kommisjonen. Komiteen skal organiseres i avdelinger som skal behandle alle relevante saker.
@@ -992,12 +1062,14 @@ Komité
 
 3\. Tidsrommet fastsatt i artikkel 5 nr. 6 i beslutning [1999/468/EF](eu/31999d0468) skal være tre måneder.
 
-Artikkel 59
+###### Artikkel 59
+
 Komiteens oppgaver
 
 1\. Komiteen skal utføre de oppgavene den tildeles ved denne forordning og ved andre relevante fellesskapsbestemmelser, i de tilfellene og på de vilkårene som er fastsatt i bestemmelsene. Den kan også på lederens initiativ eller på skriftlig anmodning fra et av medlemmene, undersøke enhver sak som omfattes av bestemmelsene.
 
-Artikkel 60
+###### Artikkel 60
+
 Meklingsframgangsmåte
 
 1\. Uten at det berører anvendelsen av andre fellesskapsbestemmelser, skal en medlemsstat dersom den anser at et tiltak truffet av en annen medlemsstat på området næringsmiddeltrygghet enten er uforenlig med denne forordning eller sannsynligvis vil påvirke det indre markeds virkemåte, henvise saken til Kommisjonen, som umiddelbart underretter den andre berørte medlemsstaten.
@@ -1009,7 +1081,8 @@ Sluttbestemmelser
 
 ►**M4**
 
-Artikkel 61
+###### Artikkel 61
+
 Revisjonsklausul
 
 1\. Kommisjonen skal sikre regelmessig gjennomgåelse av anvendelsen av denne forordningen.
@@ -1022,7 +1095,8 @@ Revisjonsklausul
 
 5\. Kommisjonen skal avgi rapport til Europaparlamentet, Rådet og styret om resultatene av sine gjennomgåelser og evalueringer i henhold til denne artikkelen. Disse resultatene skal offentliggjøres.
 
-Artikkel 61a
+###### Artikkel 61a
+
 Inspeksjonsreiser
 
 Kommisjonens eksperter skal foreta inspeksjonsreiser i medlemsstatene for å vurdere laboratorienes og andre forsøksanleggs anvendelse av de relevante standardene for gjennomføring av forsøk og undersøkelser som inngis til myndigheten som en del av en søknad, samt overholdelsen av meldingsplikten fastsatt i artikkel 32b nr. 3, senest 28. mars 2025. Innen nevnte dato skal Kommisjonens eksperter også foreta inspeksjonsreiser for å vurdere anvendelsen av disse standardene av laboratorier og andre forsøksanlegg i tredjeland, i den grad det er fastsatt i relevante avtaler og ordninger med disse tredjelandene, herunder som nevnt i artikkel 49.
@@ -1033,7 +1107,8 @@ Resultatet av disse inspeksjonsreisene skal presenteres i en oversiktsrapport. P
 
 ◄**M4**
 
-Artikkel 62
+###### Artikkel 62
+
 Henvisninger til Den europeiske myndighet for næringsmiddeltrygghet og til Den faste komité for næringsmiddelkjeden og dyrehelsen
 
 1\. Enhver henvisning i Fellesskapets regelverk til Vitenskapskomiteen for næringsmidler, Vitenskapskomiteen for fôrvarer, Vitenskapskomiteen for veterinære spørsmål, Vitenskapskomiteen for plantevernmidler, Vitenskapskomiteen for planter og Styringskomiteen for vitenskapelige spørsmål skal erstattes med en henvisning til Den europeiske myndighet for næringsmiddeltrygghet.
@@ -1044,19 +1119,22 @@ Henvisninger til Den europeiske myndighet for næringsmiddeltrygghet og til Den 
 
 4\. Beslutning [68/361/EØF](eu/31968d0361), beslutning [69/414/EØF](eu/31969d0414) og beslutning [70/372/EØF](eu/31970d0372) oppheves.
 
-Artikkel 63
+###### Artikkel 63
+
 Det europeiske kontor for legemiddelvurderings myndighet
 
 Denne forordning berører ikke den myndighet som er tildelt Det europeiske kontor for legemiddelvurdering ved forordning [(EØF) nr. 2309/93](eu/31993r2309), forordning [(EØF) nr. 2377/90](eu/31990r2377), rådsdirektiv [75/319/EØF](eu/31975l0319)1 og rådsdirektiv [81/851/EØF](eu/31981l0851).2
 
 1 EFT L 147 av 9.6.1975, s. 13. Direktivet endret ved europaparlaments- og rådsdirektiv [2001/83/EF](eu/32001l0083) (EFT L 311 av 28.11.2001, s. 67).2 EFT L 317 av 6.11.1981, s. 1. Direktivet endret ved europaparlaments- og rådsdirektiv [2001/82/EF](eu/32001l0082) (EFT L 311 av 28.11.2001, s. 1).
 
-Artikkel 64
+###### Artikkel 64
+
 Innledning av myndighetens virksomhet
 
 Myndigheten skal innlede sin virksomhet 1. januar 2002.
 
-Artikkel 65
+###### Artikkel 65
+
 Ikrafttredelse
 
 Denne forordning trer i kraft den 20. dag etter at den er kunngjort i *De Europeiske Fellesskaps Tidende*.

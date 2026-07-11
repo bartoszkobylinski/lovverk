@@ -15,7 +15,7 @@ xml_hash: "90b6f8c2cfa2ef088aeca531042cd53a8c83a4605b9a5bfe74ac5084f475bb72"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-10T17:52:49.841668+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -115,7 +115,21 @@ Styret fastsetter årlig opptaksramme for studiet. Studiet er adgangsregulert gr
 | C | 10 |
 | D–E | 5 |
 
-Utregning av gjennomsnitt foretas på følgende måte: A=5, B=4, C=3, D=2, E=1.«Bestått»-karakteren regnes ikke med i snittet.Karakterene vektes slik at karakteren i et 10 studiepoengsemne veier dobbelt så mye som karakteren i et 5 studiepoengsemne. Dersom søker har tallkarakterer (gammelt karaktersystem), ligger karakteren C fra 2,3 til 2,8.Regneeksempel:Emne x: 5 studiepoeng, karakter B Emne Y: 20 Studiepoeng, Karakter DSummer bokstavkarakterens tallverdi multiplisert med studiepoeng: (4X5)+(2X20)=60Divider summen med total antall studiepoeng som har bokstavkarakter: 60/25=2,42,4 tilsvarer D+, og vil gi 5 av 15 mulige poeng for gjennomsnittskarakter fra bachelorgrad.
+Utregning av gjennomsnitt foretas på følgende måte: A=5, B=4, C=3, D=2, E=1.
+
+«Bestått»-karakteren regnes ikke med i snittet.
+
+Karakterene vektes slik at karakteren i et 10 studiepoengsemne veier dobbelt så mye som karakteren i et 5 studiepoengsemne. Dersom søker har tallkarakterer (gammelt karaktersystem), ligger karakteren C fra 2,3 til 2,8.
+
+Regneeksempel:
+
+Emne x: 5 studiepoeng, karakter B Emne Y: 20 Studiepoeng, Karakter D
+
+Summer bokstavkarakterens tallverdi multiplisert med studiepoeng: (4X5)+(2X20)=60
+
+Divider summen med total antall studiepoeng som har bokstavkarakter: 60/25=2,4
+
+2,4 tilsvarer D+, og vil gi 5 av 15 mulige poeng for gjennomsnittskarakter fra bachelorgrad.
 
 9\. Søkere med utdannelse og/eller praktisk erfaring tilsvarende en av de definerte bachelorgradene kan bli gitt opptak på bakgrunn av individuell vurdering. Komiteen vil foreta en individuell vurdering av hvorvidt søker har faglige forutsetninger for å gjennomføre studieprogrammet. Det vil legges vekt på utdanningen og erfaringenes relevans, omfang og søkers dokumenterte roller i produksjoner. I liten grad, gir 5 poeng, i tilfredsstillende grad gir 10 poeng og høy grad gir 15 poeng. For søkere med praktisk utdannelse og erfaring tilsvarende en av de definerte bachelorgradene gjelder samme krav og vurdering av opptaksprøvens innhold og kvalitet som for søkere på grunnlag av bestått bachelorgrad.
 

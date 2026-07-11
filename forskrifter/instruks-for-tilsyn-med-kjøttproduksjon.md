@@ -15,7 +15,7 @@ xml_hash: "8ca8522e093359dc68bd09492c9afd257e9d66208ec108560cb8e9942214031d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-30T07:51:25.240716+00:00"
+retrieved_at: "2026-07-10T17:52:49.841668+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -56,4 +56,6 @@ lagring og transport av produktene skjer i overensstemmelse med forskriftens kap
 
 merkingen av produktene er i overensstemmelse med produktenes innhold, jf. forskriftens § 39.
 
-2*Ikrafttredelse*Denne instruks trer i kraft straks.
+2*Ikrafttredelse*
+
+Denne instruks trer i kraft straks.

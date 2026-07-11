@@ -1413,7 +1413,9 @@ Råaske
 – dyreart og
 – del av det animalske produktet (f.eks. lever, kjøtt (bare dersom skjelettmuskulatur)) og/eller
 – livsstadium (f.eks. larver) og/eller
-– navn på dyreart som ikke er brukt, i henhold til forbudet mot ombruk innenfor samme art (f.eks. uten fjørfe),eller utfylles med følgende, alt etter hva som er relevant:
+– navn på dyreart som ikke er brukt, i henhold til forbudet mot ombruk innenfor samme art (f.eks. uten fjørfe),
+
+eller utfylles med følgende, alt etter hva som er relevant:
 – dyreart og/eller
 – del av det animalske produktet (f.eks. lever, kjøtt (bare dersom skjelettmuskulatur)) og/eller
 – livsstadium (f.eks. larver) og/eller

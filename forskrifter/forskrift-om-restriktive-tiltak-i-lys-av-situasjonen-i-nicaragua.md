@@ -15,7 +15,7 @@ xml_hash: "20493a46cdfe6626cc4ebf85bde78561678b72d982c78bbf9624fc3cb0208fdc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-10T17:52:49.841668+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -318,4 +318,14 @@ SWEDEN
 
 https://www.regeringen.se/sanktioner
 
-Address for notifications to the European Commission:European CommissionDirectorate-General for Financial Stability, Financial Services and Capital Markets Union (DG FISMA)Rue de Spa 2B-1049 Brussels, BelgiumE-mail: [relex-sanctions@ec.europa.eu](mailto:relex-sanctions@ec.europa.eu)
+Address for notifications to the European Commission:
+
+European Commission
+
+Directorate-General for Financial Stability, Financial Services and Capital Markets Union (DG FISMA)
+
+Rue de Spa 2
+
+B-1049 Brussels, Belgium
+
+E-mail: [relex-sanctions@ec.europa.eu](mailto:relex-sanctions@ec.europa.eu)

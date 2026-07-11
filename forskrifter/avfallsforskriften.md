@@ -15,7 +15,7 @@ xml_hash: "4b0d97650017ffe7bac04dd3d14b4aa54b32e2812db2563ad3a53a5e2c64f156"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-10T17:52:49.841668+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -512,9 +512,25 @@ Returselskapet skal sørge for å hente og motta en andel av totalt innsamlet me
 
 Innsamlingsforpliktelsen beregnes for hver produktgruppe eller undergruppe der dette finnes, jf. [§ 1-1a](forskrift/2004-06-01-930/§1-1a), slik at:
 
-Hn = Atotn \* Mn + regn-1dern = perioden innsamling av EE-avfall foregår i, ett årHn = innsamlingsforpliktelsen til det enkelte returselskap for hver produktgruppe/undergruppe for periode n. H er mengden EE-avfall som skal hentes og mottas av returselskapet i det geografiske området som medlemmene har satt EE-produkter på markedet (i tonn). H er først kjent når perioden n er over.Atotn = antall tonn EE-avfall som er innsamlet av alle returselskap i perioden n (mengder oppgis av registeret Produsentansvar).Mn = andel av total varetilførsel som returselskapets medlemmer har i periode n. Mn beregnes på bakgrunn av import- og eksporttall fra Toll- og avgiftsdirektoratet og produksjonstall fra returselskapene. Total varetilførsel oppgis av registeret Produsentansvar.regn-1 = etterreguleringsledd for perioden n, beregnet på bakgrunn av innsamlede mengder fra perioden n-1, slik at:
+Hn = Atotn \* Mn + regn-1
 
-regn-1 = (Hn-1 – An-1 )derAn-1 = antall tonn EE-avfall som er innsamlet av det enkelte returselskap i perioden n-1
+der
+
+n = perioden innsamling av EE-avfall foregår i, ett år
+
+Hn = innsamlingsforpliktelsen til det enkelte returselskap for hver produktgruppe/undergruppe for periode n. H er mengden EE-avfall som skal hentes og mottas av returselskapet i det geografiske området som medlemmene har satt EE-produkter på markedet (i tonn). H er først kjent når perioden n er over.
+
+Atotn = antall tonn EE-avfall som er innsamlet av alle returselskap i perioden n (mengder oppgis av registeret Produsentansvar).
+
+Mn = andel av total varetilførsel som returselskapets medlemmer har i periode n. Mn beregnes på bakgrunn av import- og eksporttall fra Toll- og avgiftsdirektoratet og produksjonstall fra returselskapene. Total varetilførsel oppgis av registeret Produsentansvar.
+
+regn-1 = etterreguleringsledd for perioden n, beregnet på bakgrunn av innsamlede mengder fra perioden n-1, slik at:
+
+regn-1 = (Hn-1 – An-1 )
+
+der
+
+An-1 = antall tonn EE-avfall som er innsamlet av det enkelte returselskap i perioden n-1
 
 Etterreguleringsleddet beregnes for hver produktgruppe eller undergruppe der dette finnes. Etterregulering vedtas av Miljødirektoratet.
 
@@ -2805,7 +2821,9 @@ Avfallstyper som kan reagere med hverandre kan bare mottas dersom de holdes fysi
 
 Den stedsspesifikke risikovurderingen skal dekke både drifts- og etterdriftsfasen og skal omfatte:Geologisk vurdering basert på en omfattende kartlegging av områdets geologi, herunder lagstrukturer, forkastninger og oppsprekningssoner samt eventuell seismisk aktivitet.Geoteknisk vurdering av hulrommets stabilitet, herunder eventuelle vekselvirkninger mellom de geotekniske egenskaper til bergartene på stedet og det lagrede avfallets stabilitet.Hydrogeologisk vurdering basert på en omfattende kartlegging av grunnvannets strømningsmønster.Geokjemisk vurdering basert på en omfattende karakterisering av jord, berggrunn og grunnvann i området. Vurderingen skal omfatte nåværende situasjon og mulig utvikling over tid.Vurdering av virkningen på potensielt påvirkede økosystem. Vurderingen skal omfatte nåværende situasjon og mulig utvikling over tid.Vurdering av driftsfasen basert på en systematisk analyse av driften av anlegget og det mottatte avfallet.Langsiktig vurdering basert på en systematisk analyse av aktuelle scenarier for fremtidig utvikling i deponiet og de omkringliggende lagene.Andre relevante forhold slik som for eksempel nærliggende industri eller gruvevirksomhet som kan komme i konflikt med deponiet.
 
-2.7*Kriterier for mottak av metallisk kvikksølv på anlegg som er særskilt bestemt til og egnet for formålet*A. *Krav til kvikksølvet*
+2.7*Kriterier for mottak av metallisk kvikksølv på anlegg som er særskilt bestemt til og egnet for formålet*
+
+A. *Krav til kvikksølvet*
 
 For metallisk kvikksølv gjelder ikke kriteriene for avfall som kan mottas ved deponier for farlig avfall fastsatt i vedlegg II, punkt 2.4.
 

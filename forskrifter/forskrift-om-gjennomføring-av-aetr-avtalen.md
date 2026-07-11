@@ -15,7 +15,7 @@ xml_hash: "0d0f8c3d6a73a6c7af4d4c95736a11e980c664d4a2115f3809aa2e9a25b05f3e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-10T17:52:49.841668+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -845,7 +845,11 @@ I samsvar med artikkel 12 bis i denne avtale kan veitransportforetak bruke følg
 
 Se her for å lese skjemaet: [(pdf)](static/SF/sf-20120628-0794-20-01.pdf)
 
-\* Dette skjemaet er tilgjengelig i elektronisk form og kan skrives ut fra følgende adresse: [http://www.unece.org/trans/main/sc1/aetr.html](https://www.unece.org/trans/main/sc1/aetr.html).\*\* European Agreement concerning the Work of Crews of Vehicles engaged in International Road Transport/Accord européen relatif au travail des équipages des véhicules effectuant des transports internationaux par route/Europeisk avtale om kjøre- og hviletid m.v. for mannskaper på kjøretøy i internasjonal veitransport.\*\*\* Choose only one box/Ne cocher qu'une seule case/Det skal bare krysses av i én av boksene.
+\* Dette skjemaet er tilgjengelig i elektronisk form og kan skrives ut fra følgende adresse: [http://www.unece.org/trans/main/sc1/aetr.html](https://www.unece.org/trans/main/sc1/aetr.html).
+
+\*\* European Agreement concerning the Work of Crews of Vehicles engaged in International Road Transport/Accord européen relatif au travail des équipages des véhicules effectuant des transports internationaux par route/Europeisk avtale om kjøre- og hviletid m.v. for mannskaper på kjøretøy i internasjonal veitransport.
+
+\*\*\* Choose only one box/Ne cocher qu'une seule case/Det skal bare krysses av i én av boksene.
 
 *Underskriftsprotokoll*
 

@@ -15,7 +15,7 @@ xml_hash: "cbbf16af3c5581a40f89a5e8f8a1b7062d30560160235e67b277e658e61fcff7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-10T17:52:49.841668+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -198,7 +198,9 @@ Analysemetoder skal bare brukes til screening dersom det kan godtgjøres på en 
 
 Kvantitative screeningmetoder som brukes både til screening og bekreftelse, skal oppfylle samme krav til nøyaktighet, område og presisjon som beskrevet i 1.2.2.1 og 1.2.2.2.
 
-1.2.**Krav til bekreftelsesmetoder**►**M2**
+1.2.**Krav til bekreftelsesmetoder**
+
+►**M2**
 
 1.2.1.*Generelle krav til bekreftelsesmetoder*
 

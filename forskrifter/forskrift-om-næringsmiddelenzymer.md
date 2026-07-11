@@ -15,7 +15,7 @@ xml_hash: "f77a63198279864c51033497be583eccc6a6b294f3be8fad7f0e5881515338ee"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-10T17:52:49.841668+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -54,7 +54,11 @@ For å gjøre det lettere å finne frem til ordlyden i de forordningene som blir
 
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EF) nr. 1332/2008](eu/32008r1332) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II kapittel XII. Dette er grunnrettsakten. Grunnrettsakten er endret av forordning [(EU) nr. 1056/2012](eu/32012r1056). Alle endringer av grunnrettsakten og de endringer og tillegg som følger av EØS- tilpasningen av rettsakten i samsvar med vedlegg II kapittel XII nr. 54zzzzq er innarbeidet nedenfor.
 
-►**B** Forordning [(EF) nr. 1332/2008](eu/32008r1332)som endret ved►**M1** Forordning [(EU) nr. 1056/2012](eu/32012r1056)
+►**B** Forordning [(EF) nr. 1332/2008](eu/32008r1332)
+
+som endret ved
+
+►**M1** Forordning [(EU) nr. 1056/2012](eu/32012r1056)
 
 ### EUROPAPARLAMENTS- OG RÅDSFORORDNING [(EF) nr. 1332/2008](eu/32008r1332)
 av 16. desember 2008

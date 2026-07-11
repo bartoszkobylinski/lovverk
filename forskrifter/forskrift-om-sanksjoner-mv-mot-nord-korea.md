@@ -56,20 +56,15 @@ Denne forskriften med vedlegg kommer til anvendelse:på norsk territorium, inklu
 
 > Endret ved [forskrifter 6 des 2007 nr. 1358](forskrift/2007-12-06-1358), [17 aug 2009 nr. 1094](forskrift/2009-08-17-1094), [28 mars 2014 nr. 335](forskrift/2014-03-28-335), [16 nov 2014 nr. 1447](forskrift/2014-11-16-1447), [7 juni 2016 nr. 603](forskrift/2016-06-07-603), [14 okt 2016 nr. 1228](forskrift/2016-10-14-1228), [4 april 2017 nr. 453](forskrift/2017-04-04-453), [21 nov 2017 nr. 1853](forskrift/2017-11-21-1853), [31 jan 2018 nr. 138](forskrift/2018-01-31-138), [9 mai 2018 nr. 706](forskrift/2018-05-09-706), [22 nov 2024 nr. 2888](forskrift/2024-11-22-2888) (i kraft 1 jan 2025).
 
+1 Listene finnes på Sanksjonskomiteens [hjemmeside](https://www.un.org/securitycouncil/sanctions/1718/materials/summaries).
+
 ## § 3. Avlisting
 
 Den som et vedtak om frys av penger og formuesgoder i medhold av artikkel 34 nr. 4 første ledd i vedlagte forordning retter seg mot, kan anmode FNs kontaktpunkt om å bli fjernet fra listen i samsvar med FNs sikkerhetsrådsresolusjon 1730 (2006).1
 
 > Tilføyd ved [forskrift 17 aug 2009 nr. 1094](forskrift/2009-08-17-1094), endret ved [forskrifter 28 mars 2014 nr. 335](forskrift/2014-03-28-335), [21 nov 2017 nr. 1853](forskrift/2017-11-21-1853).
 
-1. Motta anmodninger om avlisting fra søkere (enkeltperson eller -personer, grupper, foretak og/eller virksomheter som står på Sanksjonskomiteens lister).
-2. Kontrollere om det dreier seg om en ny eller en gjentatt anmodning.
-3. Dersom det dreier seg om en gjentatt anmodning og den ikke inneholder nye opplysninger, sende anmodningen tilbake til søker.
-4. Bekrefte overfor søker at anmodningen er mottatt, og informere søker om ordinær saksgang ved behandling av anmodningen.
-5. Sende anmodningen til de utpekende myndigheter og til myndighetene i den eller de stater som søkeren er statsborger av og er bosatt i, til orientering og eventuelt kommentar. Sistnevnte myndigheter oppfordres til å konsultere de utpekende myndigheter før de eventuelt tilrår avlisting. De kan i den anledning henvende seg til kontaktpunktet, som vil sette dem i forbindelse med den eller de utpekende stater dersom disse gir tillatelse til det.
-6. Dersom noen av de nevnte myndigheter tilrår avlisting etter en slik konsultasjon, skal vedkommende myndigheter sende sin innstilling, sammen med en redegjørelse, via kontaktpunktet eller direkte til Sanksjonskomiteens leder. Komitélederen sørger deretter for at avlistingsanmodningen blir satt på komiteens saksliste.Dersom noen av myndighetene som ble konsultert i forbindelse med avlistingsanmodningen etter punkt 5 ovenfor, gjør innsigelse mot anmodningen, skal kontaktpunktet underrette komiteen om dette og oversende kopi av anmodningen. Komitémedlemmer som sitter inne med opplysninger til støtte for avlistingsanmodningen, oppfordres til å la myndighetene som har vurdert anmodningen i henhold til punkt 5, få del i disse opplysningene.Dersom ingen av myndighetene som har vurdert avlistingsanmodningen i henhold til punkt 5 ovenfor, etter en rimelig frist (3 måneder) har kommentarer eller tilkjennegir overfor komiteen at de fortsatt arbeider med anmodningen og trenger mer tid, som må fastsettes nærmere, skal kontaktpunktet underrette samtlige komitémedlemmer om dette og oversende kopi av avlistingsanmodningen. Ethvert komitémedlem kan, etter å ha rådført seg med de utpekende myndigheter, tilrå avlisting ved å sende anmodningen sammen med en redegjørelse til Sanksjonskomiteens leder. (For at saken skal bli satt på komiteens saksliste, kreves det bare at ett komitémedlem tilrår avlisting.) Dersom ingen av komitémedlemmene etter én måned har tilrådd avlisting, anses anmodningen for å være avslått, og komiteens leder skal underrette kontaktpunktet om dette.
-7. Kontaktpunktet skal oversende samtlige meddelelser som den mottar fra medlemsstatene, til komiteen til orientering.
-8. Informere søker omat Sanksjonskomiteen har besluttet å innvilge søknaden om avlisting, ellerat komiteen har ferdigbehandlet avlistingsanmodningen, og at søker blir stående på komiteens liste.
+1 *Resolusjon 1730 (2006)*Vedtatt på Sikkerhetsrådets 5599. møte 19. desember 2006Fremgangsmåte ved avlistingSikkerhetsrådet ber Generalsekretæren om at det opprettes et kontaktpunkt i Sekretariatet (del av FN-sekretariatet) som kan ta imot anmodninger om avlisting. Søkere som ønsker å fremsette en anmodning om avlisting, kan gjøre dette som angitt nedenfor gjennom kontaktpunktet, eller via staten de er bosatt i eller er statsborger av.Kontaktpunktet skal ha følgende oppgaver:Motta anmodninger om avlisting fra søkere (enkeltperson eller -personer, grupper, foretak og/eller virksomheter som står på Sanksjonskomiteens lister).Kontrollere om det dreier seg om en ny eller en gjentatt anmodning.Dersom det dreier seg om en gjentatt anmodning og den ikke inneholder nye opplysninger, sende anmodningen tilbake til søker.Bekrefte overfor søker at anmodningen er mottatt, og informere søker om ordinær saksgang ved behandling av anmodningen.Sende anmodningen til de utpekende myndigheter og til myndighetene i den eller de stater som søkeren er statsborger av og er bosatt i, til orientering og eventuelt kommentar. Sistnevnte myndigheter oppfordres til å konsultere de utpekende myndigheter før de eventuelt tilrår avlisting. De kan i den anledning henvende seg til kontaktpunktet, som vil sette dem i forbindelse med den eller de utpekende stater dersom disse gir tillatelse til det.Dersom noen av de nevnte myndigheter tilrår avlisting etter en slik konsultasjon, skal vedkommende myndigheter sende sin innstilling, sammen med en redegjørelse, via kontaktpunktet eller direkte til Sanksjonskomiteens leder. Komitélederen sørger deretter for at avlistingsanmodningen blir satt på komiteens saksliste.Dersom noen av myndighetene som ble konsultert i forbindelse med avlistingsanmodningen etter punkt 5 ovenfor, gjør innsigelse mot anmodningen, skal kontaktpunktet underrette komiteen om dette og oversende kopi av anmodningen. Komitémedlemmer som sitter inne med opplysninger til støtte for avlistingsanmodningen, oppfordres til å la myndighetene som har vurdert anmodningen i henhold til punkt 5, få del i disse opplysningene.Dersom ingen av myndighetene som har vurdert avlistingsanmodningen i henhold til punkt 5 ovenfor, etter en rimelig frist (3 måneder) har kommentarer eller tilkjennegir overfor komiteen at de fortsatt arbeider med anmodningen og trenger mer tid, som må fastsettes nærmere, skal kontaktpunktet underrette samtlige komitémedlemmer om dette og oversende kopi av avlistingsanmodningen. Ethvert komitémedlem kan, etter å ha rådført seg med de utpekende myndigheter, tilrå avlisting ved å sende anmodningen sammen med en redegjørelse til Sanksjonskomiteens leder. (For at saken skal bli satt på komiteens saksliste, kreves det bare at ett komitémedlem tilrår avlisting.) Dersom ingen av komitémedlemmene etter én måned har tilrådd avlisting, anses anmodningen for å være avslått, og komiteens leder skal underrette kontaktpunktet om dette.Kontaktpunktet skal oversende samtlige meddelelser som den mottar fra medlemsstatene, til komiteen til orientering.Informere søker omat Sanksjonskomiteen har besluttet å innvilge søknaden om avlisting, ellerat komiteen har ferdigbehandlet avlistingsanmodningen, og at søker blir stående på komiteens liste.
 
 ## § 4. Straff
 
@@ -114,62 +109,64 @@ Denne forordning får anvendelsepå EUs territorium,om bord i alle luftfartøyer
 
 I denne forordning menes med
 
-1. «filial av en finans- eller kredittinstitusjon»: et forretningssted som utgjør en juridisk avhengig del av en finans- eller kredittinstitusjon, og som direkte utfører alle eller noen av transaksjonene som hører inn under finans- eller kredittinstitusjoners forretningsvirksomhet,
+1\. «filial av en finans- eller kredittinstitusjon»: et forretningssted som utgjør en juridisk avhengig del av en finans- eller kredittinstitusjon, og som direkte utfører alle eller noen av transaksjonene som hører inn under finans- eller kredittinstitusjoners forretningsvirksomhet,
 
-2. «formidlingstjenester»:forhandling eller organisering av transaksjoner med henblikk på kjøp, salg eller levering av varer og teknologi eller av finansielle og tekniske tjenester, herunder fra et tredjeland til et annet tredjeland, ellersalg eller kjøp av varer og teknologi eller av finansielle og tekniske tjenester, også når disse befinner seg i tredjeland med henblikk på overføring til et annet tredjeland,
+2\. «formidlingstjenester»:forhandling eller organisering av transaksjoner med henblikk på kjøp, salg eller levering av varer og teknologi eller av finansielle og tekniske tjenester, herunder fra et tredjeland til et annet tredjeland, ellersalg eller kjøp av varer og teknologi eller av finansielle og tekniske tjenester, også når disse befinner seg i tredjeland med henblikk på overføring til et annet tredjeland,
 
-3. «krav»: ethvert omtvistet eller uomtvistet krav som er gjort gjeldende i henhold til eller i tilknytning til en kontrakt eller transaksjon, særligkrav om oppfyllelse av enhver forpliktelse som er oppstått i henhold til eller i tilknytning til en kontrakt eller transaksjon,krav om forlengelse eller innfrielse av en obligasjon, en finansiell garanti eller motgaranti, uansett form,krav om kompensasjon med hensyn til en kontrakt eller transaksjon,motkrav,krav om anerkjennelse eller fullbyrdelse, herunder ved eksigibilitet, av en dom, en voldgiftsdom eller en tilsvarende avgjørelse, uansett hvor den er avsagt eller truffet,
+3\. «krav»: ethvert omtvistet eller uomtvistet krav som er gjort gjeldende i henhold til eller i tilknytning til en kontrakt eller transaksjon, særligkrav om oppfyllelse av enhver forpliktelse som er oppstått i henhold til eller i tilknytning til en kontrakt eller transaksjon,krav om forlengelse eller innfrielse av en obligasjon, en finansiell garanti eller motgaranti, uansett form,krav om kompensasjon med hensyn til en kontrakt eller transaksjon,motkrav,krav om anerkjennelse eller fullbyrdelse, herunder ved eksigibilitet, av en dom, en voldgiftsdom eller en tilsvarende avgjørelse, uansett hvor den er avsagt eller truffet,
 
-4. «kompetente myndigheter»: de kompetente myndigheter som angitt på nettsidene oppført i vedlegg I,
+4\. «kompetente myndigheter»: de kompetente myndigheter som angitt på nettsidene oppført i vedlegg I,
 
-5. «kontrakt eller transaksjon»: enhver transaksjon, uansett form og uansett hvilke lover som kommer til anvendelse, bestående av en eller flere kontrakter eller lignende forpliktelser som er inngått mellom samme eller forskjellige parter; for dette formål omfatter uttrykket «kontrakt» obligasjoner, garantier og motgarantier, særlig finansielle garantier og motgarantier, og enhver kreditt, enten den er juridisk uavhengig av kontraktsforholdet eller ikke, samt enhver tilknyttet bestemmelse som er oppstått i henhold til eller i tilknytning til transaksjonen,
+5\. «kontrakt eller transaksjon»: enhver transaksjon, uansett form og uansett hvilke lover som kommer til anvendelse, bestående av en eller flere kontrakter eller lignende forpliktelser som er inngått mellom samme eller forskjellige parter; for dette formål omfatter uttrykket «kontrakt» obligasjoner, garantier og motgarantier, særlig finansielle garantier og motgarantier, og enhver kreditt, enten den er juridisk uavhengig av kontraktsforholdet eller ikke, samt enhver tilknyttet bestemmelse som er oppstått i henhold til eller i tilknytning til transaksjonen,
 
-6. «kredittinstitusjon»: en kredittinstitusjon som definert i artikkel 4 nr. 1 punkt 1 i europaparlaments- og rådsforordning [(EU) nr. 575/2013](eu/32013r0575*),2 herunder dens filialer, som definert i artikkel 4 nr. 1 punkt 17 i nevnte forordning, som befinner seg i EU, uansett om dens hovedkontor befinner seg i EU eller i et tredjeland,
+6\. «kredittinstitusjon»: en kredittinstitusjon som definert i artikkel 4 nr. 1 punkt 1 i europaparlaments- og rådsforordning [(EU) nr. 575/2013](eu/32013r0575*),2 herunder dens filialer, som definert i artikkel 4 nr. 1 punkt 17 i nevnte forordning, som befinner seg i EU, uansett om dens hovedkontor befinner seg i EU eller i et tredjeland,
 
-7. «diplomatiske og konsulære stasjoner og deres medlemmer»: det samme som i Wien-konvensjonen om diplomatisk samkvem av 1961 og [Wien-konvensjonen om konsulært samkvem av 1963;](traktat/1963-04-24-1) det omfatter også nordkoreanske representasjoner ved internasjonale organisasjoner som er etablert i medlemsstatene, samt nordkoreanske medlemmer av disse representasjonene,
+7\. «diplomatiske og konsulære stasjoner og deres medlemmer»: det samme som i Wien-konvensjonen om diplomatisk samkvem av 1961 og [Wien-konvensjonen om konsulært samkvem av 1963;](traktat/1963-04-24-1) det omfatter også nordkoreanske representasjoner ved internasjonale organisasjoner som er etablert i medlemsstatene, samt nordkoreanske medlemmer av disse representasjonene,
 
-8. «formuesgoder»: alle typer aktiva, materielle eller immaterielle, fast eiendom eller løsøre, faktiske eller potensielle, som ikke er penger, men som kan benyttes til å skaffe penger, varer eller tjenester, herunder fartøyer, for eksempel havgående fartøyer,
+8\. «formuesgoder»: alle typer aktiva, materielle eller immaterielle, fast eiendom eller løsøre, faktiske eller potensielle, som ikke er penger, men som kan benyttes til å skaffe penger, varer eller tjenester, herunder fartøyer, for eksempel havgående fartøyer,
 
-9. «finansinstitusjon»:et foretak som ikke er en kredittinstitusjon, og som utfører en eller flere former for virksomhet oppført i nr. 2–12 og nr. 14 og 15 i vedlegg I til europaparlaments- og rådsdirektiv [2013/36/EU](eu/32013l0036*),3 herunder virksomhet som vekslekontor,et forsikringsselskap som definert i artikkel 13 nr. 1 i europaparlaments- og rådsdirektiv [2009/138/EF](eu/32009l0138*),4 i den grad det utøver livsforsikringsvirksomhet som dekkes av dette direktivet,et verdipapirforetak som definert i artikkel 4 nr. 1 punkt 1 i europaparlaments- og rådsdirektiv [2004/39/EF](eu/32004l0039*),5et foretak for kollektiv investering som markedsfører sine enheter eller andeler,en forsikringsformidler som definert i artikkel 2 nr. 5 i europaparlaments- og rådsdirektiv [2002/92/EF](eu/32002l0092)6 når denne utøver virksomhet med hensyn til livsforsikringer og andre investeringsrelaterte tjenester, med unntak av en bundet forsikringsformidler som definert i nr. 7 i nevnte artikkel,filialer, når de befinner seg i EU, av finansinstitusjoner omtalt i bokstav a)–e), uansett om deres hovedkontor befinner seg i en medlemsstat eller i et tredjeland,
+9\. «finansinstitusjon»:et foretak som ikke er en kredittinstitusjon, og som utfører en eller flere former for virksomhet oppført i nr. 2–12 og nr. 14 og 15 i vedlegg I til europaparlaments- og rådsdirektiv [2013/36/EU](eu/32013l0036*),3 herunder virksomhet som vekslekontor,et forsikringsselskap som definert i artikkel 13 nr. 1 i europaparlaments- og rådsdirektiv [2009/138/EF](eu/32009l0138*),4 i den grad det utøver livsforsikringsvirksomhet som dekkes av dette direktivet,et verdipapirforetak som definert i artikkel 4 nr. 1 punkt 1 i europaparlaments- og rådsdirektiv [2004/39/EF](eu/32004l0039*),5et foretak for kollektiv investering som markedsfører sine enheter eller andeler,en forsikringsformidler som definert i artikkel 2 nr. 5 i europaparlaments- og rådsdirektiv [2002/92/EF](eu/32002l0092)6 når denne utøver virksomhet med hensyn til livsforsikringer og andre investeringsrelaterte tjenester, med unntak av en bundet forsikringsformidler som definert i nr. 7 i nevnte artikkel,filialer, når de befinner seg i EU, av finansinstitusjoner omtalt i bokstav a)–e), uansett om deres hovedkontor befinner seg i en medlemsstat eller i et tredjeland,
 
-10. «frysing av formuesgoder»: å forhindre at formuesgoder på noen måte benyttes til å skaffe penger, varer eller tjenester, herunder men ikke begrenset til å selge, leie ut eller pantsette dem,
+10\. «frysing av formuesgoder»: å forhindre at formuesgoder på noen måte benyttes til å skaffe penger, varer eller tjenester, herunder men ikke begrenset til å selge, leie ut eller pantsette dem,
 
-11. «frysing av penger»: å forhindre flytting, overføring, endring eller bruk av, tilgang til eller håndtering av penger på noen måte som kan medføre endringer i volum, mengde, plassering, eierskap, besittelse, art eller formål eller andre endringer som kan gjøre det mulig å bruke pengene, herunder porteføljeforvaltning,
+11\. «frysing av penger»: å forhindre flytting, overføring, endring eller bruk av, tilgang til eller håndtering av penger på noen måte som kan medføre endringer i volum, mengde, plassering, eierskap, besittelse, art eller formål eller andre endringer som kan gjøre det mulig å bruke pengene, herunder porteføljeforvaltning,
 
-12. «penger»: finansielle aktiva og fordeler av enhver art, herunder men ikke begrenset tilkontante pengebeløp, sjekker, fordringer, veksler, anvisninger og andre betalingsinstrumenter,innestående hos finansinstitusjoner eller hos andre virksomheter, saldoer på konti, tilgodehavende og tilgodehavendebevis,børsnoterte og unoterte finansielle instrumenter og gjeldsinstrumenter, herunder aksjer og andre eierandeler, verdipapirsertifikater, obligasjoner, gjeldsbrev, kjøps- eller tegningsretter, usikrede verdipapirer og derivatkontrakter,renter, utbytte og andre inntekter av eller verdier påløpt på eller generert av aktiva,kreditter, motregningsretter, garantier, oppfyllelsesgarantier eller andre finansielle forpliktelser,remburser, konnossementer og pantebrev,dokumenter som viser eierandeler i penger eller finansielle ressurser,
+12\. «penger»: finansielle aktiva og fordeler av enhver art, herunder men ikke begrenset tilkontante pengebeløp, sjekker, fordringer, veksler, anvisninger og andre betalingsinstrumenter,innestående hos finansinstitusjoner eller hos andre virksomheter, saldoer på konti, tilgodehavende og tilgodehavendebevis,børsnoterte og unoterte finansielle instrumenter og gjeldsinstrumenter, herunder aksjer og andre eierandeler, verdipapirsertifikater, obligasjoner, gjeldsbrev, kjøps- eller tegningsretter, usikrede verdipapirer og derivatkontrakter,renter, utbytte og andre inntekter av eller verdier påløpt på eller generert av aktiva,kreditter, motregningsretter, garantier, oppfyllelsesgarantier eller andre finansielle forpliktelser,remburser, konnossementer og pantebrev,dokumenter som viser eierandeler i penger eller finansielle ressurser,
 
-13. «forsikring»: et tilsagn om eller en forpliktelse for en eller flere fysiske eller juridiske personer til, mot betaling og i tilfelle forsikringsbegivenheten inntrer, å yte en eller flere andre personer erstatning eller en fordel som presisert i tilsagnet eller forpliktelsen,
+13\. «forsikring»: et tilsagn om eller en forpliktelse for en eller flere fysiske eller juridiske personer til, mot betaling og i tilfelle forsikringsbegivenheten inntrer, å yte en eller flere andre personer erstatning eller en fordel som presisert i tilsagnet eller forpliktelsen,
 
-14. «investeringstjenester»: følgende tjenester og virksomhet:mottak og overføring av ordrer knyttet til ett eller flere finansielle instrumenter,effektuering av ordrer på vegne av kunder,handel for egen regning,porteføljeforvaltning,investeringsrådgivning,garantistillelse for finansielle instrumenter og/eller plassering av finansielle instrumenter på grunnlag av en fast forpliktelse,plassering av finansielle instrumenter uten fast forpliktelse,enhver tjeneste knyttet til opptak til notering på et regulert marked eller handel i et multilateralt handelssystem,
+14\. «investeringstjenester»: følgende tjenester og virksomhet:mottak og overføring av ordrer knyttet til ett eller flere finansielle instrumenter,effektuering av ordrer på vegne av kunder,handel for egen regning,porteføljeforvaltning,investeringsrådgivning,garantistillelse for finansielle instrumenter og/eller plassering av finansielle instrumenter på grunnlag av en fast forpliktelse,plassering av finansielle instrumenter uten fast forpliktelse,enhver tjeneste knyttet til opptak til notering på et regulert marked eller handel i et multilateralt handelssystem,
 
-15. «mottaker»: en fysisk eller juridisk person som pengene er ment overført til,
+15\. «mottaker»: en fysisk eller juridisk person som pengene er ment overført til,
 
-16. «betaler»: en person som innehar en betalingskonto og tillater at penger overføres fra denne kontoen, eller dersom det ikke foreligger en betalingskonto, som utsteder en betalingsordre,
+16\. «betaler»: en person som innehar en betalingskonto og tillater at penger overføres fra denne kontoen, eller dersom det ikke foreligger en betalingskonto, som utsteder en betalingsordre,
 
-17. «betalingsformidler»: de kategorier betalingstjenesteytere som omtales i artikkel 1 nr. 1 i europaparlaments- og rådsdirektiv [2007/64/EF](eu/32007l0064*), 7 fysiske eller juridiske personer som omfattes av unntak fra bestemmelsene i henhold til artikkel 26 i direktiv [2007/64/EF](eu/32007l0064*), og juridiske personer som omfattes av unntak fra bestemmelsene i henhold til artikkel 9 i europaparlaments- og rådsdirektiv [2009/110/EF](eu/32009l0110),8 og som yter pengeoverføringstjenester,
+17\. «betalingsformidler»: de kategorier betalingstjenesteytere som omtales i artikkel 1 nr. 1 i europaparlaments- og rådsdirektiv [2007/64/EF](eu/32007l0064*), 7 fysiske eller juridiske personer som omfattes av unntak fra bestemmelsene i henhold til artikkel 26 i direktiv [2007/64/EF](eu/32007l0064*), og juridiske personer som omfattes av unntak fra bestemmelsene i henhold til artikkel 9 i europaparlaments- og rådsdirektiv [2009/110/EF](eu/32009l0110),8 og som yter pengeoverføringstjenester,
 
-18. «gjenforsikring»: den form for virksomhet som består i å overta risikoer som overdras av et forsikringsselskap eller av et annet gjenforsikringsselskap, eller i tilfellet assurandørsammenslutningen Lloyds, den form for virksomhet som består i å overta risikoer som overdras av et medlem av Lloyds, av et forsikringsselskap eller et gjenforsikringsselskap som ikke er assurandørsammenslutningen Lloyds,
+18\. «gjenforsikring»: den form for virksomhet som består i å overta risikoer som overdras av et forsikringsselskap eller av et annet gjenforsikringsselskap, eller i tilfellet assurandørsammenslutningen Lloyds, den form for virksomhet som består i å overta risikoer som overdras av et medlem av Lloyds, av et forsikringsselskap eller et gjenforsikringsselskap som ikke er assurandørsammenslutningen Lloyds,
 
-19. «tjenester i tilknytning til»: tjenester som ytes mot et honorar eller i henhold til kontrakt, av enheter som hovedsakelig er involvert i produksjon av transportable varer, samt tjenester som normalt er forbundet med produksjon av slike varer,
+19\. «tjenester i tilknytning til»: tjenester som ytes mot et honorar eller i henhold til kontrakt, av enheter som hovedsakelig er involvert i produksjon av transportable varer, samt tjenester som normalt er forbundet med produksjon av slike varer,
 
-20. «skipsreder»: den registrerte eieren av et havgående skip eller en hvilken som helst annen person, for eksempel en totalbefrakter, som har ansvar for driften av skipet,
+20\. «skipsreder»: den registrerte eieren av et havgående skip eller en hvilken som helst annen person, for eksempel en totalbefrakter, som har ansvar for driften av skipet,
 
-21. «faglig bistand»: enhver form for teknisk støtte i forbindelse med reparasjon, utvikling, produksjon, montering, prøving eller vedlikehold eller enhver annen form for teknisk tjeneste, uansett om bistanden ytes i form av instruksjon, rådgivning, opplæring, overføring av driftskunnskaper eller ferdigheter eller konsulenttjenester; faglig bistand omfatter også muntlig bistand,
+21\. «faglig bistand»: enhver form for teknisk støtte i forbindelse med reparasjon, utvikling, produksjon, montering, prøving eller vedlikehold eller enhver annen form for teknisk tjeneste, uansett om bistanden ytes i form av instruksjon, rådgivning, opplæring, overføring av driftskunnskaper eller ferdigheter eller konsulenttjenester; faglig bistand omfatter også muntlig bistand,
 
-22. «EUs territorium»: territoriet til medlemsstatene der traktaten kommer til anvendelse, på de vilkår som er fastsatt i nevnte traktat, herunder deres luftrom,
+22\. «EUs territorium»: territoriet til medlemsstatene der traktaten kommer til anvendelse, på de vilkår som er fastsatt i nevnte traktat, herunder deres luftrom,
 
-23. «pengeoverføring»:enhver transaksjon som i det minste delvis utføres med elektroniske midler på betalers vegne gjennom en betalingsformidler for å stille penger til disposisjon for mottaker hos en betalingsformidler, uansett om betaler og mottaker er en og samme person, og uansett om betalers og mottakers betalingsformidler er en og samme tjenesteyter, herunderen kreditoverføring som definert i artikkel 2 nr. 1 i europaparlaments- og rådsforordning [(EU) nr. 260/2012](eu/32012r0260),9en direkte debitering som definert i artikkel 2 nr. 2 i forordning [(EU) nr. 260/2012](eu/32012r0260),en pengeoverføring som definert i artikkel 4 nr. 13 i direktiv [2007/64/EF](eu/32007l0064*), enten innenlands eller over landegrenser,en overføring som utføres med et betalingskort, et elektronisk pengeinstrument eller en mobiltelefon eller med andre digitale eller IT-baserte innretninger med lignende egenskaper, enten den betales på forskudd eller etterskudd, ogenhver transaksjon som utføres med ikke-elektroniske midler, som kontanter, sjekker eller betalingsanvisninger, for å stille penger til disposisjon for mottaker, uansett om betaler og mottaker er en og samme person.
+23\. «pengeoverføring»:enhver transaksjon som i det minste delvis utføres med elektroniske midler på betalers vegne gjennom en betalingsformidler for å stille penger til disposisjon for mottaker hos en betalingsformidler, uansett om betaler og mottaker er en og samme person, og uansett om betalers og mottakers betalingsformidler er en og samme tjenesteyter, herunderen kreditoverføring som definert i artikkel 2 nr. 1 i europaparlaments- og rådsforordning [(EU) nr. 260/2012](eu/32012r0260),9en direkte debitering som definert i artikkel 2 nr. 2 i forordning [(EU) nr. 260/2012](eu/32012r0260),en pengeoverføring som definert i artikkel 4 nr. 13 i direktiv [2007/64/EF](eu/32007l0064*), enten innenlands eller over landegrenser,en overføring som utføres med et betalingskort, et elektronisk pengeinstrument eller en mobiltelefon eller med andre digitale eller IT-baserte innretninger med lignende egenskaper, enten den betales på forskudd eller etterskudd, ogenhver transaksjon som utføres med ikke-elektroniske midler, som kontanter, sjekker eller betalingsanvisninger, for å stille penger til disposisjon for mottaker, uansett om betaler og mottaker er en og samme person.
 
-24. «fartøy som bemannes av Nord-Korea»:et fartøy hvis besetning kontrolleres aven fysisk person med nordkoreansk statsborgerskap, elleren juridisk person, en enhet eller et organ etablert eller stiftet i henhold til nordkoreansk lovgivning,et fartøy hvis besetning utelukkende består av nordkoreanske statsborgere.
+24\. «fartøy som bemannes av Nord-Korea»:et fartøy hvis besetning kontrolleres aven fysisk person med nordkoreansk statsborgerskap, elleren juridisk person, en enhet eller et organ etablert eller stiftet i henhold til nordkoreansk lovgivning,et fartøy hvis besetning utelukkende består av nordkoreanske statsborgere.
+
+2 Europaparlaments- og rådsforordning [(EU) nr. 575/2013](eu/32013r0575*) av 26. juni 2013 om tilsynskrav for kredittinstitusjoner og verdipapirforetak og om endring av forordning [(EU) nr. 648/2012](eu/32012r0648) (EUT L 176 av 27.6.2013, s. 1).3 Europaparlaments- og rådsdirektiv [2013/36/EU](eu/32013l0036*) av 26. juni 2013 om adgang til å utøve virksomhet som kredittinstitusjon og om tilsyn med kredittinstitusjoner og verdipapirforetak, om endring av direktiv [2002/87/EF](eu/32002l0087) og om oppheving av direktiv [2006/48/EF](eu/32006l0048) og [2006/49/EF](eu/32006l0049) (EUT L 176 av 27.6.2013, s. 338).4 Europaparlaments- og rådsdirektiv [2009/138/EF](eu/32009l0138*) av 25. november 2009 om adgang til å starte og utøve virksomhet innen forsikring og gjenforsikring (Solvens II) (EUT L 335 av 17.12.2009, s. 1).5 Europaparlaments- og rådsdirektiv [2004/39/EF](eu/32004l0039*) av 21. april 2004 om markeder for finansielle instrumenter, om endring av rådsdirektiv [85/611/EØF](eu/31985l0611) og [93/6/EØF](eu/31993l0006) og europaparlaments- og rådsdirektiv [2000/12/EF](eu/32000l0012*) og om oppheving av rådsdirektiv [93/22/EØF](eu/31993l0022*) (EUT L 145 av 30.4.2004, s. 1).6 Europaparlaments- og rådsdirektiv [2002/92/EF](eu/32002l0092) av 9. desember 2002 om forsikringsformidling (EUT L 9 av 15.1.2003, s. 3).7 Europaparlaments- og rådsdirektiv [2007/64/EF](eu/32007l0064*) av 13. november 2007 om betalingstjenester i det indre marked og om endring av direktiv [97/7/EF](eu/31997l0007), [2002/65/EF](eu/32002l0065), [2005/60/EF](eu/32005*0060) og [2006/48/EF](eu/32006*0048) samt oppheving av direktiv [97/5/EF](eu/31997l0005) (EUT L 319 av 5.12.2007, s. 1).8 Europaparlaments- og rådsdirektiv [2009/110/EF](eu/32009l0110) av 16. september 2009 om adgang til å starte og utøve virksomhet som e-pengeforetak og om tilsyn med slik virksomhet, om endring av direktiv [2005/60/EF](eu/32005l0060) og [2006/48/EF](eu/32006*0048) og om oppheving av direktiv [2000/46/EF](eu/32000l0046) (EUT L 267 av 10.10.2009, s. 7).9 Europaparlaments- og rådsforordning [(EU) nr. 260/2012](eu/32012r0260) av 14. mars 2012 om tekniske og forretningsmessige krav til kreditoverføringer og direkte debiteringer i euro og om endring av forordning [(EF) nr. 924/2009](eu/32009r0924) (EUT L 94 av 30.3.2012, s. 22).
 
 ### KAPITTEL II
 Eksport- og importrestriksjoner
 
 ### Artikkel 3
 
-1. Det er forbudtdirekte eller indirekte å selge, levere, overføre eller eksportere varer og teknologi, herunder programvare, oppført i vedlegg II, enten de har sin opprinnelse i EU eller ikke, til fysiske eller juridiske personer, enheter eller organer i eller til bruk i Nord-Korea,direkte eller indirekte å selge, levere, overføre eller eksportere flydrivstoff oppført i vedlegg III til Nord-Korea eller å transportere flydrivstoff til Nord-Korea om bord i fartøyer eller luftfartøyer som fører en medlemsstats flagg, enten det har sin opprinnelse på en medlemsstats territorium eller ikke,direkte eller indirekte å importere, kjøpe eller overføre fra Nord-Korea varer og teknologi oppført i vedlegg II, enten de har sin opprinnelse i Nord-Korea eller ikke,direkte eller indirekte å importere, kjøpe eller overføre fra Nord-Korea gull, titanmalm, vanadiummalm og sjeldne jordmetaller oppført i vedlegg IV, enten de har sin opprinnelse i Nord-Korea eller ikke,direkte eller indirekte å importere, kjøpe eller overføre fra Nord-Korea kull, jern og jernmalm oppført i vedlegg V, enten de har sin opprinnelse i Nord-Korea eller ikke,direkte eller indirekte å importere, kjøpe eller overføre fra Nord-Korea petroleumsprodukter oppført i vedlegg VI, enten de har sin opprinnelse i Nord-Korea eller ikke, ogdirekte eller indirekte å importere, kjøpe eller overføre fra Nord-Korea kobber, nikkel, sølv og sink oppført i vedlegg VII, enten de har sin opprinnelse i Nord-Korea eller ikke.
+1\. Det er forbudtdirekte eller indirekte å selge, levere, overføre eller eksportere varer og teknologi, herunder programvare, oppført i vedlegg II, enten de har sin opprinnelse i EU eller ikke, til fysiske eller juridiske personer, enheter eller organer i eller til bruk i Nord-Korea,direkte eller indirekte å selge, levere, overføre eller eksportere flydrivstoff oppført i vedlegg III til Nord-Korea eller å transportere flydrivstoff til Nord-Korea om bord i fartøyer eller luftfartøyer som fører en medlemsstats flagg, enten det har sin opprinnelse på en medlemsstats territorium eller ikke,direkte eller indirekte å importere, kjøpe eller overføre fra Nord-Korea varer og teknologi oppført i vedlegg II, enten de har sin opprinnelse i Nord-Korea eller ikke,direkte eller indirekte å importere, kjøpe eller overføre fra Nord-Korea gull, titanmalm, vanadiummalm og sjeldne jordmetaller oppført i vedlegg IV, enten de har sin opprinnelse i Nord-Korea eller ikke,direkte eller indirekte å importere, kjøpe eller overføre fra Nord-Korea kull, jern og jernmalm oppført i vedlegg V, enten de har sin opprinnelse i Nord-Korea eller ikke,direkte eller indirekte å importere, kjøpe eller overføre fra Nord-Korea petroleumsprodukter oppført i vedlegg VI, enten de har sin opprinnelse i Nord-Korea eller ikke, ogdirekte eller indirekte å importere, kjøpe eller overføre fra Nord-Korea kobber, nikkel, sølv og sink oppført i vedlegg VII, enten de har sin opprinnelse i Nord-Korea eller ikke.
 
-2. Vedlegg II del I omfatter alle typer produkter, materialer, utstyr, varer og teknologi, herunder programvare, som er flerbruksvarer eller teknologi som definert i vedlegg I til rådsforordning [(EF) nr. 428/2009](eu/32009r0428*). 10
+2\. Vedlegg II del I omfatter alle typer produkter, materialer, utstyr, varer og teknologi, herunder programvare, som er flerbruksvarer eller teknologi som definert i vedlegg I til rådsforordning [(EF) nr. 428/2009](eu/32009r0428*). 10
 Vedlegg II del II omfatter andre typer produkter, materialer, utstyr, varer og teknologi som kan bidra til Nord-Koreas programmer knyttet til kjernefysiske våpen, ballistiske missiler eller andre masseødeleggelsesvåpen.
 Vedlegg II del III omfatter visse nøkkelkomponenter til sektoren for ballistiske missiler.
 Vedlegg II del IV omfatter produkter, materialer, utstyr, varer og teknologi knyttet til masseødeleggelsesvåpen og listeført i henhold til punkt 25 i FNs sikkerhetsrådsresolusjon 2270 (2016).
@@ -184,59 +181,63 @@ Vedlegg V omfatter kull, jern og jernmalm omtalt i nr. 1 bokstav e).
 Vedlegg VI omfatter petroleumsprodukter omtalt i nr. 1 bokstav f).
 Vedlegg VII omfatter kobber, nikkel, sølv og sink omtalt i nr. 1 bokstav g).
 
-3. Forbudet i nr. 1 bokstav b) gjelder ikke salg eller levering av flydrivstoff til sivile passasjerfly utenfor Nord-Korea som utelukkende skal benyttes under flygningen til Nord-Korea og returflygningen til opprinnelseslufthavnen.
+3\. Forbudet i nr. 1 bokstav b) gjelder ikke salg eller levering av flydrivstoff til sivile passasjerfly utenfor Nord-Korea som utelukkende skal benyttes under flygningen til Nord-Korea og returflygningen til opprinnelseslufthavnen.
+
+10 Rådsforordning [(EF) nr. 428/2009](eu/32009r0428*) av 5. mai 2009 om opprettelse av en fellesskapsordning for kontroll med eksport, overføring, formidling og transitt av flerbruksvarer (EUT L 134 av 29.5.2009, s. 1).
 
 ### Artikkel 4
 
-1. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudet i artikkel 3 nr. 1 bokstav b) og gi tillatelse til salg, levering eller overføring av flydrivstoff, forutsatt at medlemsstaten unntaksvis og i hvert enkelt tilfelle har innhentet forhåndsgodkjenning fra Sanksjonskomiteen til å overføre disse produktene til Nord-Korea for å dekke verifiserte grunnleggende humanitære behov og i samsvar med nærmere angitte ordninger for effektiv overvåkning av levering og bruk.
+1\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudet i artikkel 3 nr. 1 bokstav b) og gi tillatelse til salg, levering eller overføring av flydrivstoff, forutsatt at medlemsstaten unntaksvis og i hvert enkelt tilfelle har innhentet forhåndsgodkjenning fra Sanksjonskomiteen til å overføre disse produktene til Nord-Korea for å dekke verifiserte grunnleggende humanitære behov og i samsvar med nærmere angitte ordninger for effektiv overvåkning av levering og bruk.
 
-2. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudet i artikkel 3 nr. 1 bokstav e) og gi tillatelse til import, kjøp eller overføring av kull, forutsatt at medlemsstatenes kompetente myndigheter på grunnlag av troverdige opplysninger har fastslått at forsendelsen har sin opprinnelse utenfor Nord-Korea og er transportert gjennom Nord-Korea utelukkende med henblikk på eksport fra havnen i Rajin (Rason), og forutsatt at eksportstaten på forhånd har underrettet Sanksjonskomiteen om disse transaksjonene, og at transaksjonene ikke har til hensikt å generere inntekter til Nord-Koreas programmer knyttet til kjernefysiske våpen eller ballistiske missiler eller til annen virksomhet som er forbudt i henhold til FNs sikkerhetsrådsresolusjon 1718 (2006), 1874 (2009), 2087 (2013), 2094 (2013), 2270 (2016), 2321 (2016), 2356 (2017) eller 2371 (2017) eller til denne forordning.
+2\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudet i artikkel 3 nr. 1 bokstav e) og gi tillatelse til import, kjøp eller overføring av kull, forutsatt at medlemsstatenes kompetente myndigheter på grunnlag av troverdige opplysninger har fastslått at forsendelsen har sin opprinnelse utenfor Nord-Korea og er transportert gjennom Nord-Korea utelukkende med henblikk på eksport fra havnen i Rajin (Rason), og forutsatt at eksportstaten på forhånd har underrettet Sanksjonskomiteen om disse transaksjonene, og at transaksjonene ikke har til hensikt å generere inntekter til Nord-Koreas programmer knyttet til kjernefysiske våpen eller ballistiske missiler eller til annen virksomhet som er forbudt i henhold til FNs sikkerhetsrådsresolusjon 1718 (2006), 1874 (2009), 2087 (2013), 2094 (2013), 2270 (2016), 2321 (2016), 2356 (2017) eller 2371 (2017) eller til denne forordning.
 
-3. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1 og 2.
+3\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1 og 2.
 
 ### Artikkel 5
 
-1. Det er forbudt direkte eller indirekte å selge, levere, overføre eller eksportere til Nord-Korea ethvert produkt, med unntak av matvarer og medisiner, dersom eksportøren har kjennskap til eller har rimelig grunn til å anta atproduktet direkte eller indirekte er bestemt for Nord-Koreas væpnede styrker, ellereksport av produktet kan bidra til å støtte eller styrke den operasjonelle kapasiteten til de væpnede styrkene fra en annen stat enn Nord-Korea.
+1\. Det er forbudt direkte eller indirekte å selge, levere, overføre eller eksportere til Nord-Korea ethvert produkt, med unntak av matvarer og medisiner, dersom eksportøren har kjennskap til eller har rimelig grunn til å anta atproduktet direkte eller indirekte er bestemt for Nord-Koreas væpnede styrker, ellereksport av produktet kan bidra til å støtte eller styrke den operasjonelle kapasiteten til de væpnede styrkene fra en annen stat enn Nord-Korea.
 
-2. Det er forbudt å importere, kjøpe eller transportere produkter omtalt i nr. 1 fra Nord-Korea dersom importøren eller transportøren har kjennskap til eller har rimelig grunn til å anta at ett av vilkårene i nr. 1 bokstav a) eller b) er oppfylt.
+2\. Det er forbudt å importere, kjøpe eller transportere produkter omtalt i nr. 1 fra Nord-Korea dersom importøren eller transportøren har kjennskap til eller har rimelig grunn til å anta at ett av vilkårene i nr. 1 bokstav a) eller b) er oppfylt.
 
 ### Artikkel 6
 
-1. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudene i artikkel 5 og gi tillatelse til salg, levering, overføring eller eksport av et produkt til Nord-Korea eller til import, kjøp eller transport av et produkt fra Nord-Korea dersomproduktet ikke er forbundet med fremstilling, utvikling, vedlikehold eller bruk av varer til militære formål eller til utvikling eller underhold av militært personell, og den kompetente myndigheten har fastslått at produktet ikke direkte vil bidra til å utvikle den operasjonelle kapasiteten til Nord-Koreas væpnede styrker eller til eksport som støtter eller styrker den operasjonelle kapasiteten til væpnede styrker fra et annet tredjeland enn Nord-Korea,Sanksjonskomiteen har fastslått at bestemte leveranser, salg eller overføringer ikke vil være i strid med målene i FNs sikkerhetsrådsresolusjon 1718 (2006), 1874 (2009), 2087 (2013), 2094 (2013), 2270 (2016) eller 2321 (2016), ellermedlemsstatens kompetente myndighet finner det godtgjort at virksomheten utelukkende tjener humanitære eller livsnødvendige formål, ikke vil bli brukt av nordkoreanske personer, enheter eller organer til å generere inntekter og ikke er forbundet med noen form for virksomhet som er forbudt etter FNs sikkerhetsrådsresolusjon 1718 (2006), 1874 (2009), 2087 (2013), 2094 (2013), 2270 (2016) eller 2321 (2016), forutsatt at medlemsstaten på forhånd underretter Sanksjonskomiteen om at dette er fastslått, og samtidig informerer komiteen om de tiltak som er truffet for å forhindre at produktet anvendes til forbudte formål.
+1\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudene i artikkel 5 og gi tillatelse til salg, levering, overføring eller eksport av et produkt til Nord-Korea eller til import, kjøp eller transport av et produkt fra Nord-Korea dersomproduktet ikke er forbundet med fremstilling, utvikling, vedlikehold eller bruk av varer til militære formål eller til utvikling eller underhold av militært personell, og den kompetente myndigheten har fastslått at produktet ikke direkte vil bidra til å utvikle den operasjonelle kapasiteten til Nord-Koreas væpnede styrker eller til eksport som støtter eller styrker den operasjonelle kapasiteten til væpnede styrker fra et annet tredjeland enn Nord-Korea,Sanksjonskomiteen har fastslått at bestemte leveranser, salg eller overføringer ikke vil være i strid med målene i FNs sikkerhetsrådsresolusjon 1718 (2006), 1874 (2009), 2087 (2013), 2094 (2013), 2270 (2016) eller 2321 (2016), ellermedlemsstatens kompetente myndighet finner det godtgjort at virksomheten utelukkende tjener humanitære eller livsnødvendige formål, ikke vil bli brukt av nordkoreanske personer, enheter eller organer til å generere inntekter og ikke er forbundet med noen form for virksomhet som er forbudt etter FNs sikkerhetsrådsresolusjon 1718 (2006), 1874 (2009), 2087 (2013), 2094 (2013), 2270 (2016) eller 2321 (2016), forutsatt at medlemsstaten på forhånd underretter Sanksjonskomiteen om at dette er fastslått, og samtidig informerer komiteen om de tiltak som er truffet for å forhindre at produktet anvendes til forbudte formål.
 
-2. Den berørte medlemsstaten skal minst en uke i forveien underrette de øvrige medlemsstatene og Kommisjonen om at tillatelse vil bli gitt i henhold til denne artikkel.
+2\. Den berørte medlemsstaten skal minst en uke i forveien underrette de øvrige medlemsstatene og Kommisjonen om at tillatelse vil bli gitt i henhold til denne artikkel.
 
 ### Artikkel 7
 
-1. Det er forbudtdirekte eller indirekte å yte faglig bistand eller formidlingstjenester knyttet til varer og teknologi oppført på EUs felles liste over militært materiell eller i vedlegg II, eller knyttet til levering, produksjon, vedlikehold og bruk av varer oppført på EUs felles liste over militært materiell eller i vedlegg II, til fysiske eller juridiske personer, enheter eller organer i eller til bruk i Nord-Korea,direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varer og teknologi oppført på EUs felles liste over militært materiell eller i vedlegg II, herunder særlig tilskudd, lån og eksportkredittforsikring samt forsikring og gjenforsikring, i forbindelse med salg, levering, overføring eller eksport av slike produkter, eller i forbindelse med levering av tilknyttet faglig bistand til fysiske eller juridiske personer, enheter eller organer i eller til bruk i Nord-Korea,direkte eller indirekte å motta faglig bistand knyttet til varer og teknologi oppført på EUs felles liste over militært materiell eller i vedlegg II, eller knyttet til levering, produksjon, vedlikehold og bruk av varer oppført på EUs felles liste over militært materiell eller i vedlegg II, fra fysiske eller juridiske personer, enheter eller organer i eller til bruk i Nord-Korea,direkte eller indirekte å motta finansiering eller finansiell bistand knyttet til varer og teknologi oppført på EUs felles liste over militært materiell eller i vedlegg II, herunder særlig tilskudd, lån og eksportkredittforsikring, i forbindelse med salg, levering, overføring eller eksport av slike produkter, eller i forbindelse med levering av tilknyttet faglig bistand fra fysiske eller juridiske personer, enheter eller organer i eller til bruk i Nord-Korea.
+1\. Det er forbudtdirekte eller indirekte å yte faglig bistand eller formidlingstjenester knyttet til varer og teknologi oppført på EUs felles liste over militært materiell eller i vedlegg II, eller knyttet til levering, produksjon, vedlikehold og bruk av varer oppført på EUs felles liste over militært materiell eller i vedlegg II, til fysiske eller juridiske personer, enheter eller organer i eller til bruk i Nord-Korea,direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varer og teknologi oppført på EUs felles liste over militært materiell eller i vedlegg II, herunder særlig tilskudd, lån og eksportkredittforsikring samt forsikring og gjenforsikring, i forbindelse med salg, levering, overføring eller eksport av slike produkter, eller i forbindelse med levering av tilknyttet faglig bistand til fysiske eller juridiske personer, enheter eller organer i eller til bruk i Nord-Korea,direkte eller indirekte å motta faglig bistand knyttet til varer og teknologi oppført på EUs felles liste over militært materiell eller i vedlegg II, eller knyttet til levering, produksjon, vedlikehold og bruk av varer oppført på EUs felles liste over militært materiell eller i vedlegg II, fra fysiske eller juridiske personer, enheter eller organer i eller til bruk i Nord-Korea,direkte eller indirekte å motta finansiering eller finansiell bistand knyttet til varer og teknologi oppført på EUs felles liste over militært materiell eller i vedlegg II, herunder særlig tilskudd, lån og eksportkredittforsikring, i forbindelse med salg, levering, overføring eller eksport av slike produkter, eller i forbindelse med levering av tilknyttet faglig bistand fra fysiske eller juridiske personer, enheter eller organer i eller til bruk i Nord-Korea.
 
-2. Forbudene fastsatt i nr. 1 gjelder ikke ikke-stridende kjøretøyer som er produsert eller utstyrt med materialer for ballistisk beskyttelse, og som utelukkende er ment for beskyttende bruk av personell fra EU og EUs medlemsstater i Nord-Korea.
+2\. Forbudene fastsatt i nr. 1 gjelder ikke ikke-stridende kjøretøyer som er produsert eller utstyrt med materialer for ballistisk beskyttelse, og som utelukkende er ment for beskyttende bruk av personell fra EU og EUs medlemsstater i Nord-Korea.
 
 ### Artikkel 8
 
-1. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra bestemmelsene i artikkel 3 nr. 1 og artikkel 7 nr. 1 og gi tillatelse, på de vilkår de finner hensiktsmessige, til direkte eller indirekte levering, salg, overføring eller eksport av varer og teknologi, herunder programvare, omtalt i artikkel 3 nr. 1 bokstav a) og b), eller til bistand eller formidlingstjenester omtalt i artikkel 7 nr. 1, forutsatt at varene og teknologien, bistanden eller formidlingstjenestene er beregnet til matvarer, landbruksformål, medisinske eller andre humanitære formål.
+1\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra bestemmelsene i artikkel 3 nr. 1 og artikkel 7 nr. 1 og gi tillatelse, på de vilkår de finner hensiktsmessige, til direkte eller indirekte levering, salg, overføring eller eksport av varer og teknologi, herunder programvare, omtalt i artikkel 3 nr. 1 bokstav a) og b), eller til bistand eller formidlingstjenester omtalt i artikkel 7 nr. 1, forutsatt at varene og teknologien, bistanden eller formidlingstjenestene er beregnet til matvarer, landbruksformål, medisinske eller andre humanitære formål.
 
-2. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra bestemmelsene i artikkel 3 nr. 1 bokstav a) og artikkel 7 nr. 1 bokstav a) og b) og gi tillatelse, på de vilkår de finner hensiktsmessige, til transaksjonene nevnt i disse bestemmelsene, forutsatt at FNs sikkerhetsråd har godkjent anmodningen.
+2\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra bestemmelsene i artikkel 3 nr. 1 bokstav a) og artikkel 7 nr. 1 bokstav a) og b) og gi tillatelse, på de vilkår de finner hensiktsmessige, til transaksjonene nevnt i disse bestemmelsene, forutsatt at FNs sikkerhetsråd har godkjent anmodningen.
 
-3. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om enhver anmodning om tillatelse den har oversendt FNs sikkerhetsråd i henhold til nr. 3.
+3\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om enhver anmodning om tillatelse den har oversendt FNs sikkerhetsråd i henhold til nr. 3.
 
-4. Den berørte medlemsstaten skal innen fire uker underrette de øvrige medlemsstatene og Kommisjonen om tillatelser som gis i henhold til denne artikkel.
+4\. Den berørte medlemsstaten skal innen fire uker underrette de øvrige medlemsstatene og Kommisjonen om tillatelser som gis i henhold til denne artikkel.
 
 ### Artikkel 9
 
-1. I tillegg til plikten til å oppgi informasjon før ankomst eller avreise til kompetente tollmyndigheter som fastsatt i de relevante bestemmelsene om summariske deklarasjoner ved inn- og utførsel samt tolldeklarasjoner i europaparlaments- og rådsforordning [(EU) nr. 952/2013](eu/32013r0952*),11 i delegert kommisjonsforordning [(EU) 2015/2446](eu/32015r2446*)12 og i Kommisjonens gjennomføringsforordning [(EU) 2015/2447](eu/32015r2447*),13 skal personen som gir informasjonen omtalt i nr. 2, deklarere om varene er omfattet av EUs felles liste over militært materiell eller av denne forordning, og når det kreves tillatelse til eksport av varene og teknologien, gi nærmere opplysninger om den tildelte eksportlisensen.
+1\. I tillegg til plikten til å oppgi informasjon før ankomst eller avreise til kompetente tollmyndigheter som fastsatt i de relevante bestemmelsene om summariske deklarasjoner ved inn- og utførsel samt tolldeklarasjoner i europaparlaments- og rådsforordning [(EU) nr. 952/2013](eu/32013r0952*),11 i delegert kommisjonsforordning [(EU) 2015/2446](eu/32015r2446*)12 og i Kommisjonens gjennomføringsforordning [(EU) 2015/2447](eu/32015r2447*),13 skal personen som gir informasjonen omtalt i nr. 2, deklarere om varene er omfattet av EUs felles liste over militært materiell eller av denne forordning, og når det kreves tillatelse til eksport av varene og teknologien, gi nærmere opplysninger om den tildelte eksportlisensen.
 
-2. De obligatoriske tilleggsopplysningene skal sendes inn i form av en elektronisk tolldeklarasjon eller i en annen elektronisk eller skriftlig form dersom det ikke foreligger tolldeklarasjon.
+2\. De obligatoriske tilleggsopplysningene skal sendes inn i form av en elektronisk tolldeklarasjon eller i en annen elektronisk eller skriftlig form dersom det ikke foreligger tolldeklarasjon.
+
+11 Europaparlaments- og rådsforordning [(EU) nr. 952/2013](eu/32013r0952*) av 9. oktober 2013 om fastsettelse av Unionens tollkodeks (EUT L 269 av 10.10.2013, s. 1).12 Delegert kommisjonsforordning [(EU) 2015/2446](eu/32015r2446*) av 28. juli 2015 om utfylling av europaparlaments- og rådsforordning [(EU) nr. 952/2013](eu/32013r0952*) om nærmere regler for visse bestemmelser i Unionens tollkodeks (EUT L 343 av 29.12.2015, s. 1).13 Kommisjonens gjennomføringsforordning [(EU) 2015/2447](eu/32015r2447*) av 24. november 2015 om fastsettelse av nærmere regler for gjennomføring av visse bestemmelser i europaparlaments- og rådsforordning [(EU) nr. 952/2013](eu/32013r0952*) om fastsettelse av Unionens tollkodeks (EUT L 343 av 29.12.2015, s. 558).
 
 ### Artikkel 10
 
-1. Det er forbudtdirekte eller indirekte å selge, levere, overføre eller eksportere luksusvarer oppført i vedlegg VIII til Nord-Korea,direkte eller indirekte å importere, kjøpe eller overføre luksusvarer oppført i vedlegg VIII fra Nord-Korea, enten de har sin opprinnelse i Nord-Korea eller ikke,
+1\. Det er forbudtdirekte eller indirekte å selge, levere, overføre eller eksportere luksusvarer oppført i vedlegg VIII til Nord-Korea,direkte eller indirekte å importere, kjøpe eller overføre luksusvarer oppført i vedlegg VIII fra Nord-Korea, enten de har sin opprinnelse i Nord-Korea eller ikke,
 
-2. Forbudet nevnt i nr. 1 bokstav b) gjelder ikke reisendes personlige effekter eller varer av ikke-kommersiell art til personlig bruk i deres bagasje.
+2\. Forbudet nevnt i nr. 1 bokstav b) gjelder ikke reisendes personlige effekter eller varer av ikke-kommersiell art til personlig bruk i deres bagasje.
 
-3. Forbudene nevnt i nr. 1 gjelder ikke varer som er nødvendige for offisielle formål på medlemsstatenes utenriksstasjoner i Nord-Korea eller i internasjonale organisasjoner som har immunitet i henhold til folkeretten, og heller ikke deres personells personlige effekter.
+3\. Forbudene nevnt i nr. 1 gjelder ikke varer som er nødvendige for offisielle formål på medlemsstatenes utenriksstasjoner i Nord-Korea eller i internasjonale organisasjoner som har immunitet i henhold til folkeretten, og heller ikke deres personells personlige effekter.
 
-4. Medlemsstatenes kompetente myndigheter kan gi tillatelse, på de vilkår de finner hensiktsmessige, til en transaksjon som gjelder varer omtalt i nr. 17 i vedlegg VIII, forutsatt at varene er beregnet til humanitære formål.
+4\. Medlemsstatenes kompetente myndigheter kan gi tillatelse, på de vilkår de finner hensiktsmessige, til en transaksjon som gjelder varer omtalt i nr. 17 i vedlegg VIII, forutsatt at varene er beregnet til humanitære formål.
 
 ### Artikkel 11
 
@@ -264,9 +265,9 @@ Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudet i artikkel
 
 ### Artikkel 16a
 
-1. Det er forbudt direkte eller indirekte å importere, kjøpe eller overføre fra Nord-Korea sjømat, herunder fisk, krepsdyr, bløtdyr og andre virvelløse vanndyr uansett form, oppført i vedlegg XIa, enten de har sin opprinnelse i Nord-Korea eller ikke.
+1\. Det er forbudt direkte eller indirekte å importere, kjøpe eller overføre fra Nord-Korea sjømat, herunder fisk, krepsdyr, bløtdyr og andre virvelløse vanndyr uansett form, oppført i vedlegg XIa, enten de har sin opprinnelse i Nord-Korea eller ikke.
 
-2. Det er forbudt direkte eller indirekte å kjøpe eller overføre fiskerettigheter fra Nord-Korea.
+2\. Det er forbudt direkte eller indirekte å kjøpe eller overføre fiskerettigheter fra Nord-Korea.
 
 ### Artikkel 16b
 
@@ -282,9 +283,9 @@ Det er forbudt direkte eller indirekte å selge, levere, overføre eller eksport
 
 ### Artikkel 16e
 
-1. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudet i artikkel 16d og gi tillatelse til transaksjoner i raffinerte petroleumsprodukter som det er fastslått utelukkende tjener humanitære formål, forutsatt at alle følgende vilkår er oppfylt:transaksjonene involverer ikke personer eller enheter som er forbundet med Nord-Koreas programmer knyttet til kjernefysiske våpen eller ballistiske missiler eller til annen virksomhet som er forbudt i henhold til FNs sikkerhetsrådsresolusjon 1718 (2006), 1874 (2009), 2087 (2013), 2094 (2013), 2270 (2016), 2321 (2016), 2356 (2017), 2371 (2017), 2375 (2017) eller 2397 (2017), herunder personer, enheter og organer oppført i vedlegg XIII, XV, XVI og XVII,transaksjonen har ikke til hensikt å generere inntekter til Nord-Koreas programmer knyttet til kjernefysiske våpen eller ballistiske missiler eller til annen virksomhet som er forbudt i henhold til FNs sikkerhetsrådsresolusjon 1718 (2006), 1874 (2009), 2087 (2013), 2094 (2013), 2270 (2016), 2321 (2016), 2356 (2017), 2371 (2017), 2375 (2017) eller 2397 (2017),Sanksjonskomiteen har ikke underrettet medlemsstatene om at 90% av den samlede årlige tillatte mengde er nådd, ogden berørte medlemsstaten underretter Sanksjonskomiteen hver 30. dag om mengde eksportert og om alle som er part i transaksjonen.
+1\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudet i artikkel 16d og gi tillatelse til transaksjoner i raffinerte petroleumsprodukter som det er fastslått utelukkende tjener humanitære formål, forutsatt at alle følgende vilkår er oppfylt:transaksjonene involverer ikke personer eller enheter som er forbundet med Nord-Koreas programmer knyttet til kjernefysiske våpen eller ballistiske missiler eller til annen virksomhet som er forbudt i henhold til FNs sikkerhetsrådsresolusjon 1718 (2006), 1874 (2009), 2087 (2013), 2094 (2013), 2270 (2016), 2321 (2016), 2356 (2017), 2371 (2017), 2375 (2017) eller 2397 (2017), herunder personer, enheter og organer oppført i vedlegg XIII, XV, XVI og XVII,transaksjonen har ikke til hensikt å generere inntekter til Nord-Koreas programmer knyttet til kjernefysiske våpen eller ballistiske missiler eller til annen virksomhet som er forbudt i henhold til FNs sikkerhetsrådsresolusjon 1718 (2006), 1874 (2009), 2087 (2013), 2094 (2013), 2270 (2016), 2321 (2016), 2356 (2017), 2371 (2017), 2375 (2017) eller 2397 (2017),Sanksjonskomiteen har ikke underrettet medlemsstatene om at 90% av den samlede årlige tillatte mengde er nådd, ogden berørte medlemsstaten underretter Sanksjonskomiteen hver 30. dag om mengde eksportert og om alle som er part i transaksjonen.
 
-2. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1.
+2\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1.
 
 ### Artikkel 16f
 
@@ -292,9 +293,9 @@ Det er forbudt direkte eller indirekte å selge, levere, overføre eller eksport
 
 ### Artikkel 16g
 
-1. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudet i artikkel 16f og gi tillatelse til transaksjoner i råolje, forutsatt at alle følgende vilkår er oppfylt:medlemsstatens kompetente myndighet har fastslått at transaksjonen utelukkende tjener humanitære formål, ogmedlemsstaten har innhentet forhåndsgodkjenning fra Sanksjonskomiteen i hvert enkelt tilfelle, i samsvar med punkt 4 i FNs sikkerhetsrådsresolusjon 2397 (2017).
+1\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudet i artikkel 16f og gi tillatelse til transaksjoner i råolje, forutsatt at alle følgende vilkår er oppfylt:medlemsstatens kompetente myndighet har fastslått at transaksjonen utelukkende tjener humanitære formål, ogmedlemsstaten har innhentet forhåndsgodkjenning fra Sanksjonskomiteen i hvert enkelt tilfelle, i samsvar med punkt 4 i FNs sikkerhetsrådsresolusjon 2397 (2017).
 
-2. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1.
+2\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1.
 
 ### Artikkel 16h
 
@@ -302,11 +303,11 @@ Det er forbudt direkte eller indirekte å importere, kjøpe eller overføre fra 
 
 ### Artikkel 16i
 
-1. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudet i artikkel 16h og gi tillatelse til import, kjøp eller overføring av tekstiler, forutsatt at medlemsstaten har innhentet forhåndsgodkjenning fra Sanksjonskomiteen i hvert enkelt tilfelle.
+1\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudet i artikkel 16h og gi tillatelse til import, kjøp eller overføring av tekstiler, forutsatt at medlemsstaten har innhentet forhåndsgodkjenning fra Sanksjonskomiteen i hvert enkelt tilfelle.
 
-2. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudet i artikkel 16h og gi tillatelse til import, kjøp eller overføring av tekstiler senest innen 10. desember 2017, forutsatt atimporten, kjøpet eller overføringen skjer i henhold til en skriftlig kontrakt som trådte i kraft før 11. september 2017, ogden berørte medlemsstaten gir Sanksjonskomiteen nærmere opplysninger om importen, kjøpet eller overføringen senest innen 24. januar 2018.
+2\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudet i artikkel 16h og gi tillatelse til import, kjøp eller overføring av tekstiler senest innen 10. desember 2017, forutsatt atimporten, kjøpet eller overføringen skjer i henhold til en skriftlig kontrakt som trådte i kraft før 11. september 2017, ogden berørte medlemsstaten gir Sanksjonskomiteen nærmere opplysninger om importen, kjøpet eller overføringen senest innen 24. januar 2018.
 
-3. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1 og 2.
+3\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1 og 2.
 
 ### Artikkel 16j
 
@@ -330,9 +331,9 @@ Det er forbudt direkte eller indirekte å importere, kjøpe eller overføre fra 
 
 ### Artikkel 16o
 
-1. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudene i artikkel 16j–16n og gi tillatelse til import, kjøp eller overføring av produktene omtalt i disse artiklene senest innen 21. januar 2018, forutsatt atimporten, kjøpet eller overføringen skjer i henhold til en skriftlig kontrakt som trådte i kraft før 22. desember 2017, ogden berørte medlemsstaten gir Sanksjonskomiteen nærmere opplysninger om importen, kjøpet eller overføringen senest innen 5. februar 2018.
+1\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudene i artikkel 16j–16n og gi tillatelse til import, kjøp eller overføring av produktene omtalt i disse artiklene senest innen 21. januar 2018, forutsatt atimporten, kjøpet eller overføringen skjer i henhold til en skriftlig kontrakt som trådte i kraft før 22. desember 2017, ogden berørte medlemsstaten gir Sanksjonskomiteen nærmere opplysninger om importen, kjøpet eller overføringen senest innen 5. februar 2018.
 
-2. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1.
+2\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1.
 
 ### Artikkel 16p
 
@@ -340,26 +341,26 @@ Det er forbudt direkte eller indirekte å selge, levere, overføre eller eksport
 
 ### Artikkel 16q
 
-1. Medlemsstatenes kompetente myndigheter kan gi tillatelse til eksport av reservedeler som er nødvendige for å opprettholde sikker drift av nordkoreanske sivile passasjerrutefly av en luftfartøymodell og -type som oppført i vedlegg XIl del B.
+1\. Medlemsstatenes kompetente myndigheter kan gi tillatelse til eksport av reservedeler som er nødvendige for å opprettholde sikker drift av nordkoreanske sivile passasjerrutefly av en luftfartøymodell og -type som oppført i vedlegg XIl del B.
 
-2. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1.
+2\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1.
 
 ### KAPITTEL III
 Restriksjoner på visse former for næringsvirksomhet
 
 ### Artikkel 17
 
-1. Det er forbudt å godta eller godkjenne investeringer i næringsvirksomhet på EUs territorium når investeringene foretas avfysiske eller juridiske personer, enheter eller organer under Nord-Koreas regjering,Koreas arbeiderparti,nordkoreanske statsborgere,juridiske personer, enheter eller organer etablert eller stiftet i henhold til nordkoreansk lovgivning,fysiske eller juridiske personer, enheter eller organer som handler på vegne av eller på instruks fra personer, enheter eller organer omtalt i bokstav a)–d), ogfysiske eller juridiske personer, enheter eller organer som eies eller kontrolleres av fysiske eller juridiske personer, enheter eller organer omtalt i bokstav a)–d).
+1\. Det er forbudt å godta eller godkjenne investeringer i næringsvirksomhet på EUs territorium når investeringene foretas avfysiske eller juridiske personer, enheter eller organer under Nord-Koreas regjering,Koreas arbeiderparti,nordkoreanske statsborgere,juridiske personer, enheter eller organer etablert eller stiftet i henhold til nordkoreansk lovgivning,fysiske eller juridiske personer, enheter eller organer som handler på vegne av eller på instruks fra personer, enheter eller organer omtalt i bokstav a)–d), ogfysiske eller juridiske personer, enheter eller organer som eies eller kontrolleres av fysiske eller juridiske personer, enheter eller organer omtalt i bokstav a)–d).
 
-2. Det er forbudtå opprette, videreføre eller drive et fellesforetak eller samvirkeforetak med fysiske eller juridiske personer, enheter eller organer nevnt i nr. 1 eller hjemmehørende i Nord-Korea eller å erverve, videreføre eller utvide en eierskapsinteresse, herunder gjennom en fullstendig overtakelse eller ved å erverve andeler og andre verdipapirer som har karakter av kapitalinteresse, i juridiske personer, enheter eller organer nevnt i nr. 1 eller hjemmehørende i Nord-Korea, eller i virksomhet eller aktiva i Nord-Korea,å yte finansiering eller finansiell bistand til fysiske eller juridiske personer, enheter eller organer omtalt i nr. 1 bokstav d)–f) eller med det dokumenterte formål å finansiere slike fysiske eller juridiske personer, enheter eller organer,å levere investeringstjenester som er direkte eller indirekte knyttet til virksomheten nevnt i bokstav a) og b) ovenfor, ogdirekte eller indirekte å delta i fellesforetak eller annen form for forretningsvirksomhet med enheter oppført i vedlegg XIII og med fysiske eller juridiske personer, enheter eller organer som handler på deres vegne eller på deres instruks.
+2\. Det er forbudtå opprette, videreføre eller drive et fellesforetak eller samvirkeforetak med fysiske eller juridiske personer, enheter eller organer nevnt i nr. 1 eller hjemmehørende i Nord-Korea eller å erverve, videreføre eller utvide en eierskapsinteresse, herunder gjennom en fullstendig overtakelse eller ved å erverve andeler og andre verdipapirer som har karakter av kapitalinteresse, i juridiske personer, enheter eller organer nevnt i nr. 1 eller hjemmehørende i Nord-Korea, eller i virksomhet eller aktiva i Nord-Korea,å yte finansiering eller finansiell bistand til fysiske eller juridiske personer, enheter eller organer omtalt i nr. 1 bokstav d)–f) eller med det dokumenterte formål å finansiere slike fysiske eller juridiske personer, enheter eller organer,å levere investeringstjenester som er direkte eller indirekte knyttet til virksomheten nevnt i bokstav a) og b) ovenfor, ogdirekte eller indirekte å delta i fellesforetak eller annen form for forretningsvirksomhet med enheter oppført i vedlegg XIII og med fysiske eller juridiske personer, enheter eller organer som handler på deres vegne eller på deres instruks.
 
-3. Eksisterende fellesforetak eller samvirkeforetak omtalt i nr. 2 bokstav a) skal stenges senest 9. januar 2018 eller innen 120 dager etter at Sanksjonskomiteen har avslått en anmodning om godkjenning.
+3\. Eksisterende fellesforetak eller samvirkeforetak omtalt i nr. 2 bokstav a) skal stenges senest 9. januar 2018 eller innen 120 dager etter at Sanksjonskomiteen har avslått en anmodning om godkjenning.
 
 ### Artikkel 17a
 
-1. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudet i artikkel 17 nr. 2 bokstav a) og gi tillatelse til slik virksomhet, særlig virksomhet som gjelder fellesforetak eller samvirkeforetak, og som er ikke-kommersielle infrastrukturprosjekter for offentlige tjenester som ikke genererer fortjeneste, forutsatt at medlemsstaten har innhentet forhåndsgodkjenning fra Sanksjonskomiteen i hvert enkelt tilfelle.
+1\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudet i artikkel 17 nr. 2 bokstav a) og gi tillatelse til slik virksomhet, særlig virksomhet som gjelder fellesforetak eller samvirkeforetak, og som er ikke-kommersielle infrastrukturprosjekter for offentlige tjenester som ikke genererer fortjeneste, forutsatt at medlemsstaten har innhentet forhåndsgodkjenning fra Sanksjonskomiteen i hvert enkelt tilfelle.
 
-2. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudet i artikkel 17 nr. 2 bokstav a) og gi tillatelse til slik virksomhet dersom denne ikke gjelder fellesforetak eller samvirkeforetak, og forutsatt at medlemsstaten har fastslått at virksomheten utelukkende tjener humanitære formål og ikke finner sted innenfor gruvedrift, raffinering, kjemisk industri, metallurgi eller metallbearbeiding, romfartsindustri eller konvensjonell våpenindustri.Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1 eller 2.
+2\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudet i artikkel 17 nr. 2 bokstav a) og gi tillatelse til slik virksomhet dersom denne ikke gjelder fellesforetak eller samvirkeforetak, og forutsatt at medlemsstaten har fastslått at virksomheten utelukkende tjener humanitære formål og ikke finner sted innenfor gruvedrift, raffinering, kjemisk industri, metallurgi eller metallbearbeiding, romfartsindustri eller konvensjonell våpenindustri.Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1 eller 2.
 
 ### Artikkel 17b
 
@@ -367,54 +368,56 @@ Medlemsstatenes kompetente myndigheter kan gjøre unntak fra bestemmelsen i arti
 
 ### Artikkel 18
 
-1. Det er forbudtdirekte eller indirekte å levere tjenester i tilknytning til gruvedrift eller i tilknytning til produksjon innenfor kjemisk industri, gruvedrift og raffinering, som nevnt i vedlegg XII del A, til fysiske eller juridiske personer, enheter eller organer i eller til bruk i Nord-Korea, ogdirekte eller indirekte å levere datatjenester og tilknyttede tjenester nevnt i vedlegg XII del B til fysiske eller juridiske personer, enheter eller organer i eller til bruk i Nord-Korea.
+1\. Det er forbudtdirekte eller indirekte å levere tjenester i tilknytning til gruvedrift eller i tilknytning til produksjon innenfor kjemisk industri, gruvedrift og raffinering, som nevnt i vedlegg XII del A, til fysiske eller juridiske personer, enheter eller organer i eller til bruk i Nord-Korea, ogdirekte eller indirekte å levere datatjenester og tilknyttede tjenester nevnt i vedlegg XII del B til fysiske eller juridiske personer, enheter eller organer i eller til bruk i Nord-Korea.
 
-2. Forbudet i nr. 1 bokstav b) gjelder ikke levering av datatjenester og tilknyttede tjenester dersom tjenestene er forutsatt benyttet utelukkende til offisielle formål på en utenriksstasjon eller i en internasjonal organisasjon som har immunitet i Nord-Korea i henhold til folkeretten.
+2\. Forbudet i nr. 1 bokstav b) gjelder ikke levering av datatjenester og tilknyttede tjenester dersom tjenestene er forutsatt benyttet utelukkende til offisielle formål på en utenriksstasjon eller i en internasjonal organisasjon som har immunitet i Nord-Korea i henhold til folkeretten.
 
-3. Forbudet i nr. 1 bokstav b) gjelder ikke datatjenester og tilknyttede tjenester som leveres av offentlige organer eller juridiske personer, enheter eller organer som mottar offentlig finansiering fra EU eller medlemsstatene for å gi bistand til utviklingsformål rettet direkte mot sivilbefolkningens behov eller for å fremme kjernefysisk nedrustning.
+3\. Forbudet i nr. 1 bokstav b) gjelder ikke datatjenester og tilknyttede tjenester som leveres av offentlige organer eller juridiske personer, enheter eller organer som mottar offentlig finansiering fra EU eller medlemsstatene for å gi bistand til utviklingsformål rettet direkte mot sivilbefolkningens behov eller for å fremme kjernefysisk nedrustning.
 
 ### Artikkel 19
 
-1. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudet i artikkel 18 nr. 1 bokstav a) og gi tillatelse til levering av tjenester i tilknytning til gruvedrift og tjenester i tilknytning til produksjon innenfor kjemisk industri, gruvedrift og raffinering dersom tjenestene er forutsatt benyttet utelukkende til utviklingsformål rettet direkte mot sivilbefolkningens behov eller for å fremme kjernefysisk nedrustning.
+1\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudet i artikkel 18 nr. 1 bokstav a) og gi tillatelse til levering av tjenester i tilknytning til gruvedrift og tjenester i tilknytning til produksjon innenfor kjemisk industri, gruvedrift og raffinering dersom tjenestene er forutsatt benyttet utelukkende til utviklingsformål rettet direkte mot sivilbefolkningens behov eller for å fremme kjernefysisk nedrustning.
 
-2. I saker som ikke omfattes av artikkel 18 nr. 3, kan medlemsstatenes kompetente myndigheter gjøre unntak fra forbudet i artikkel 18 nr. 1 bokstav b) og gi tillatelse til levering av datatjenester og tilknyttede tjenester dersom tjenestene er forutsatt benyttet utelukkende til utviklingsformål rettet direkte mot sivilbefolkningens behov eller for å fremme kjernefysisk nedrustning.
+2\. I saker som ikke omfattes av artikkel 18 nr. 3, kan medlemsstatenes kompetente myndigheter gjøre unntak fra forbudet i artikkel 18 nr. 1 bokstav b) og gi tillatelse til levering av datatjenester og tilknyttede tjenester dersom tjenestene er forutsatt benyttet utelukkende til utviklingsformål rettet direkte mot sivilbefolkningens behov eller for å fremme kjernefysisk nedrustning.
 
 ### Artikkel 20
 
-1. Det er forbudtdirekte eller indirekte å leie ut fast eiendom til eller på annen måte stille slik eiendom til rådighet for personer, enheter eller organer under Nord-Koreas regjering til andre formål enn diplomatisk eller konsulær virksomhet i henhold til Wien-konvensjonen om diplomatisk samkvem av 1961 og [Wien-konvensjonen om konsulært samkvem av 1963,](traktat/1963-04-24-1)direkte eller indirekte å leie fast eiendom av personer, enheter eller organer under Nord-Koreas regjering, ogå ta del i virksomhet knyttet til bruk av fast eiendom som personer, enheter eller organer under Nord-Koreas regjering eier, leier eller på annen måte har rett til å bruke, unntatt til levering av varer og tjenestersom er nødvendige for at diplomatiske og konsulære stasjoner skal fungere i henhold til Wien-konvensjonene av 1961 og 1963, ogsom ikke kan brukes direkte eller indirekte til å generere inntekter eller fortjeneste for Nord-Koreas regjering.
+1\. Det er forbudtdirekte eller indirekte å leie ut fast eiendom til eller på annen måte stille slik eiendom til rådighet for personer, enheter eller organer under Nord-Koreas regjering til andre formål enn diplomatisk eller konsulær virksomhet i henhold til Wien-konvensjonen om diplomatisk samkvem av 1961 og [Wien-konvensjonen om konsulært samkvem av 1963,](traktat/1963-04-24-1)direkte eller indirekte å leie fast eiendom av personer, enheter eller organer under Nord-Koreas regjering, ogå ta del i virksomhet knyttet til bruk av fast eiendom som personer, enheter eller organer under Nord-Koreas regjering eier, leier eller på annen måte har rett til å bruke, unntatt til levering av varer og tjenestersom er nødvendige for at diplomatiske og konsulære stasjoner skal fungere i henhold til Wien-konvensjonene av 1961 og 1963, ogsom ikke kan brukes direkte eller indirekte til å generere inntekter eller fortjeneste for Nord-Koreas regjering.
 
-2. I denne artikkel menes med «fast eiendom» grunn, bygninger og tilhørende deler som befinner seg utenfor Nord-Koreas territorium.
+2\. I denne artikkel menes med «fast eiendom» grunn, bygninger og tilhørende deler som befinner seg utenfor Nord-Koreas territorium.
 
 ### KAPITTEL IV
 Restriksjoner på overføring av penger og finansielle tjenester
 
 ### Artikkel 21
 
-1. Det er forbudt å overføre penger, herunder gjennom clearing, til eller fra Nord-Korea.
+1\. Det er forbudt å overføre penger, herunder gjennom clearing, til eller fra Nord-Korea.
 
-2. Det er forbudt for kreditt- og finansinstitusjoner å innlede eller videreføre transaksjoner medkreditt- og finansinstitusjoner hjemmehørende i Nord-Korea,filialer og datterselskaper som omfattes av artikkel 1, av kreditt- og finansinstitusjoner hjemmehørende i Nord-Korea,filialer og datterselskaper som ikke omfattes av artikkel 1, av kreditt- og finansinstitusjoner hjemmehørende i Nord-Korea,kreditt- og finansinstitusjoner som ikke er hjemmehørende i Nord-Korea, som omfattes av artikkel 1 og som kontrolleres av personer, enheter eller organer hjemmehørende i Nord-Korea,kreditt- og finansinstitusjoner som ikke er hjemmehørende i Nord-Korea og heller ikke omfattes av artikkel 1, men som kontrolleres av personer, enheter eller organer hjemmehørende i Nord-Korea.
+2\. Det er forbudt for kreditt- og finansinstitusjoner å innlede eller videreføre transaksjoner medkreditt- og finansinstitusjoner hjemmehørende i Nord-Korea,filialer og datterselskaper som omfattes av artikkel 1, av kreditt- og finansinstitusjoner hjemmehørende i Nord-Korea,filialer og datterselskaper som ikke omfattes av artikkel 1, av kreditt- og finansinstitusjoner hjemmehørende i Nord-Korea,kreditt- og finansinstitusjoner som ikke er hjemmehørende i Nord-Korea, som omfattes av artikkel 1 og som kontrolleres av personer, enheter eller organer hjemmehørende i Nord-Korea,kreditt- og finansinstitusjoner som ikke er hjemmehørende i Nord-Korea og heller ikke omfattes av artikkel 1, men som kontrolleres av personer, enheter eller organer hjemmehørende i Nord-Korea.
 
-3. Forbudene i nr. 1 og 2 gjelder ikke pengeoverføringer eller transaksjoner som er nødvendige for offisielle formål på en medlemsstats utenriksstasjon i Nord-Korea eller i en internasjonal organisasjon som har immunitet i Nord-Korea i henhold til folkeretten.
+3\. Forbudene i nr. 1 og 2 gjelder ikke pengeoverføringer eller transaksjoner som er nødvendige for offisielle formål på en medlemsstats utenriksstasjon i Nord-Korea eller i en internasjonal organisasjon som har immunitet i Nord-Korea i henhold til folkeretten.
 
-4. Forbudene i nr. 1 og 2 gjelder ikke følgende transaksjoner, forutsatt at de omfatter overføring av beløp lik eller under 15 000 euro eller tilsvarende:transaksjoner som gjelder matvarer, helsetjenester eller medisinsk utstyr, eller som er beregnet til landbruksformål eller humanitære formål,transaksjoner i forbindelse med gjennomføring av unntakene fastsatt i denne forordning,transaksjoner i forbindelse med en bestemt handelskontrakt som ikke er forbudt i henhold til denne forordning,transaksjoner som er nødvendige utelukkende for å gjennomføre prosjekter som EU eller EUs medlemsstater finansierer for utviklingsformål rettet direkte mot sivilbefolkningens behov eller for å fremme kjernefysisk nedrustning, ogtransaksjoner som gjelder en utenriksstasjon eller en internasjonal organisasjon som har immunitet i henhold til folkeretten, dersom transaksjonene er forutsatt benyttet til offisielle formål på utenriksstasjonen eller i den internasjonale organisasjonen.
+4\. Forbudene i nr. 1 og 2 gjelder ikke følgende transaksjoner, forutsatt at de omfatter overføring av beløp lik eller under 15 000 euro eller tilsvarende:transaksjoner som gjelder matvarer, helsetjenester eller medisinsk utstyr, eller som er beregnet til landbruksformål eller humanitære formål,transaksjoner i forbindelse med gjennomføring av unntakene fastsatt i denne forordning,transaksjoner i forbindelse med en bestemt handelskontrakt som ikke er forbudt i henhold til denne forordning,transaksjoner som er nødvendige utelukkende for å gjennomføre prosjekter som EU eller EUs medlemsstater finansierer for utviklingsformål rettet direkte mot sivilbefolkningens behov eller for å fremme kjernefysisk nedrustning, ogtransaksjoner som gjelder en utenriksstasjon eller en internasjonal organisasjon som har immunitet i henhold til folkeretten, dersom transaksjonene er forutsatt benyttet til offisielle formål på utenriksstasjonen eller i den internasjonale organisasjonen.
 
-5. Forbudene i nr. 1 og 2 gjelder ikke transaksjoner som gjelder private pengeforsendelser, forutsatt at de omfatter overføring av beløp lik eller under 5 000 euro eller tilsvarende.
+5\. Forbudene i nr. 1 og 2 gjelder ikke transaksjoner som gjelder private pengeforsendelser, forutsatt at de omfatter overføring av beløp lik eller under 5 000 euro eller tilsvarende.
 
 ### Artikkel 22
 
-1. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudene i artikkel 21 nr. 1 og 2 og gi tillatelse tiltransaksjonene nevnt i artikkel 21 nr. 4 bokstav a)–e) når de har en verdi på over 15 000 euro eller tilsvarende, ogtransaksjonene nevnt i artikkel 21 nr. 5 når de har en verdi på over 5 000 euro eller tilsvarende.
+1\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudene i artikkel 21 nr. 1 og 2 og gi tillatelse tiltransaksjonene nevnt i artikkel 21 nr. 4 bokstav a)–e) når de har en verdi på over 15 000 euro eller tilsvarende, ogtransaksjonene nevnt i artikkel 21 nr. 5 når de har en verdi på over 5 000 euro eller tilsvarende.
 
-2. Kravet om tillatelse nevnt i nr. 1 gjelder uansett om pengeoverføringen gjennomføres som en enkelt operasjon eller som flere operasjoner som tilsynelatende er forbundet med hverandre. I denne forordning omfatter «operasjoner som tilsynelatende er forbundet med hverandre»en serie påfølgende overføringer fra eller til samme kreditt- eller finansinstitusjon som omfattes av artikkel 21 nr. 2, eller fra eller til samme nordkoreanske person, enhet eller organ som gjennomføres i forbindelse med en enkelt forpliktelse til å overføre penger, og der hver enkelt overføring er på under 15 000 euro for transaksjoner nevnt i artikkel 21 nr. 4 eller 5 000 euro for transaksjoner nevnt i artikkel 21 nr. 5, men der det samlede beløpet oppfyller kriteriene for tillatelse, ogen rekke overføringer som involverer ulike betalingsformidlere eller fysiske eller juridiske personer, og som gjelder en enkelt forpliktelse til å overføre penger.
+2\. Kravet om tillatelse nevnt i nr. 1 gjelder uansett om pengeoverføringen gjennomføres som en enkelt operasjon eller som flere operasjoner som tilsynelatende er forbundet med hverandre. I denne forordning omfatter «operasjoner som tilsynelatende er forbundet med hverandre»en serie påfølgende overføringer fra eller til samme kreditt- eller finansinstitusjon som omfattes av artikkel 21 nr. 2, eller fra eller til samme nordkoreanske person, enhet eller organ som gjennomføres i forbindelse med en enkelt forpliktelse til å overføre penger, og der hver enkelt overføring er på under 15 000 euro for transaksjoner nevnt i artikkel 21 nr. 4 eller 5 000 euro for transaksjoner nevnt i artikkel 21 nr. 5, men der det samlede beløpet oppfyller kriteriene for tillatelse, ogen rekke overføringer som involverer ulike betalingsformidlere eller fysiske eller juridiske personer, og som gjelder en enkelt forpliktelse til å overføre penger.
 
-3. Medlemsstatene skal underrette hverandre og Kommisjonen om alle tillatelser som gis i henhold til nr. 1.
+3\. Medlemsstatene skal underrette hverandre og Kommisjonen om alle tillatelser som gis i henhold til nr. 1.
 
-4. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudene i artikkel 21 nr. 1 og 2 og gi tillatelse til transaksjoner som gjelder betalinger beregnet på å innfri fordringer mot Nord-Korea, nordkoreanske statsborgere eller juridiske personer, enheter eller organer som er etablert eller stiftet i henhold til nordkoreansk lovgivning, og lignende transaksjoner som ikke bidrar til virksomhet som er forbudt i henhold til denne forordning, avhengig av det enkelte tilfellet og såfremt den berørte medlemsstaten har underrettet de øvrige medlemsstatene og Kommisjonen minst ti dager før tillatelse gis.
+4\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudene i artikkel 21 nr. 1 og 2 og gi tillatelse til transaksjoner som gjelder betalinger beregnet på å innfri fordringer mot Nord-Korea, nordkoreanske statsborgere eller juridiske personer, enheter eller organer som er etablert eller stiftet i henhold til nordkoreansk lovgivning, og lignende transaksjoner som ikke bidrar til virksomhet som er forbudt i henhold til denne forordning, avhengig av det enkelte tilfellet og såfremt den berørte medlemsstaten har underrettet de øvrige medlemsstatene og Kommisjonen minst ti dager før tillatelse gis.
 
 ### Artikkel 23
 
-1. Når kreditt- og finansinstitusjoner utøver sin virksomhet, herunder clearing, med kreditt- og finansinstitusjoner omtalt i artikkel 21 nr. 2, skal deanvende kundekontrolltiltak fastsatt i henhold til artikkel 13 og 14 i europaparlaments- og rådsdirektiv (EU) [2015/849](eu/32015l0849),14sikre etterlevelse av tiltak som er innført mot hvitvasking av penger og finansiering av terrorisme i henhold til direktiv (EU) [2015/849](eu/32015l0849) og europaparlaments- og rådsforordning [(EU) 2015/847](eu/32015r0847),15kreve at opplysninger om betalere og mottakere som skal følge med pengeoverføringer, gis slik forordning [(EU) 2015/847](eu/32015r0847) krever, og avslå å behandle transaksjonen dersom noen av disse opplysningene mangler eller er ufullstendige,oppbevare opplysninger om transaksjonene i samsvar med artikkel 40 bokstav b) i direktiv (EU) [2015/849](eu/32015l0849),dersom det er rimelig grunn til å anta at pengene kan bidra til Nord-Koreas programmer eller virksomhet knyttet til kjernefysiske våpen, ballistiske missiler eller andre masseødeleggelsesvåpen (heretter kalt «finansiering av spredning»), omgående underrette vedkommende enhet for økonomisk etterretning, som definert i direktiv (EU) [2015/849](eu/32015l0849), eller en annen kompetent myndighet utpekt av den berørte medlemsstaten, uten at det berører artikkel 7 nr. 1 eller artikkel 33 i denne forordning,omgående melde fra om alle mistenkelige transaksjoner, herunder forsøk på transaksjoner,avstå fra å utføre transaksjoner som de har rimelig grunn til å anta kan være forbundet med finansiering av spredning, inntil de har gjennomført de tiltak som kreves i henhold til bokstav e), og har fulgt instruksene fra den berørte enheten for økonomisk etterretning eller kompetente myndighet.
+1\. Når kreditt- og finansinstitusjoner utøver sin virksomhet, herunder clearing, med kreditt- og finansinstitusjoner omtalt i artikkel 21 nr. 2, skal deanvende kundekontrolltiltak fastsatt i henhold til artikkel 13 og 14 i europaparlaments- og rådsdirektiv (EU) [2015/849](eu/32015l0849),14sikre etterlevelse av tiltak som er innført mot hvitvasking av penger og finansiering av terrorisme i henhold til direktiv (EU) [2015/849](eu/32015l0849) og europaparlaments- og rådsforordning [(EU) 2015/847](eu/32015r0847),15kreve at opplysninger om betalere og mottakere som skal følge med pengeoverføringer, gis slik forordning [(EU) 2015/847](eu/32015r0847) krever, og avslå å behandle transaksjonen dersom noen av disse opplysningene mangler eller er ufullstendige,oppbevare opplysninger om transaksjonene i samsvar med artikkel 40 bokstav b) i direktiv (EU) [2015/849](eu/32015l0849),dersom det er rimelig grunn til å anta at pengene kan bidra til Nord-Koreas programmer eller virksomhet knyttet til kjernefysiske våpen, ballistiske missiler eller andre masseødeleggelsesvåpen (heretter kalt «finansiering av spredning»), omgående underrette vedkommende enhet for økonomisk etterretning, som definert i direktiv (EU) [2015/849](eu/32015l0849), eller en annen kompetent myndighet utpekt av den berørte medlemsstaten, uten at det berører artikkel 7 nr. 1 eller artikkel 33 i denne forordning,omgående melde fra om alle mistenkelige transaksjoner, herunder forsøk på transaksjoner,avstå fra å utføre transaksjoner som de har rimelig grunn til å anta kan være forbundet med finansiering av spredning, inntil de har gjennomført de tiltak som kreves i henhold til bokstav e), og har fulgt instruksene fra den berørte enheten for økonomisk etterretning eller kompetente myndighet.
 
-2. For formålet i nr. 1 skal enheten for økonomisk etterretning eller en annen kompetent myndighet som fungerer som nasjonalt senter for mottak og analyse av mistenkelige transaksjoner, motta rapporter om mulig finansiering av spredning og ha rask direkte eller indirekte tilgang til opplysninger om finansielle forhold, administrasjon og rettshåndheving som er relevante og nødvendige for å utføre oppgaven forsvarlig, blant annet analyse av rapporter om mistenkelige transaksjoner.
+2\. For formålet i nr. 1 skal enheten for økonomisk etterretning eller en annen kompetent myndighet som fungerer som nasjonalt senter for mottak og analyse av mistenkelige transaksjoner, motta rapporter om mulig finansiering av spredning og ha rask direkte eller indirekte tilgang til opplysninger om finansielle forhold, administrasjon og rettshåndheving som er relevante og nødvendige for å utføre oppgaven forsvarlig, blant annet analyse av rapporter om mistenkelige transaksjoner.
+
+14 Europaparlaments- og rådsdirektiv (EU) [2015/849](eu/32015l0849) av 20. mai 2015 om tiltak for å hindre at det finansielle system brukes til hvitvasking av penger eller finansiering av terrorisme, om endring av europaparlaments- og rådsforordning [(EU) nr. 648/2012](eu/32012r0648) og om oppheving av europaparlaments- og rådsdirektiv [2005/60/EF](eu/32005l0060) og kommisjonsdirektiv [2006/70/EF](eu/32006l0070) (EUT L 141 av 5.6.2015, s. 73).15 Europaparlaments- og rådsforordning [(EU) 2015/847](eu/32015r0847) av 20. mai 2015 om opplysninger som skal følge pengeoverføringer, og om oppheving av forordning [(EF) nr. 1781/2006](eu/32006r1781*) (EUT L 141 av 5.6.2015, s. 1).
 
 ### Artikkel 24
 
@@ -422,9 +425,9 @@ Det er forbudt for kreditt- og finansinstitusjonerå åpne konto hos kreditt- el
 
 ### Artikkel 25
 
-1. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudene i artikkel 24 bokstav b) og d) og gi tillatelse til transaksjoner dersom de er godkjent på forhånd av Sanksjonskomiteen.
+1\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudene i artikkel 24 bokstav b) og d) og gi tillatelse til transaksjoner dersom de er godkjent på forhånd av Sanksjonskomiteen.
 
-2. Den berørte medlemsstaten skal omgående underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1.
+2\. Den berørte medlemsstaten skal omgående underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1.
 
 ### Artikkel 26
 
@@ -432,27 +435,27 @@ I samsvar med kravene i FNs sikkerhetsrådsresolusjon 2270 (2016) skal kreditt- 
 
 ### Artikkel 27
 
-1. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra bestemmelsene i artikkel 26 bokstav a) og c) og gi tillatelse til at visse representasjonskontorer, datterselskaper eller konti videreføres, forutsatt at Sanksjonskomiteen i hvert enkelt tilfelle har fastslått at kontorene, selskapene eller kontiene er nødvendige av hensyn til humanitær bistand, til diplomatiske stasjoners virksomhet i Nord-Korea, til FNs eller dets særorganisasjoners eller tilknyttede organisasjoners virksomhet eller til andre formål som er forenlige med målene i FNs sikkerhetsrådsresolusjon 1718 (2006), 1874 (2009), 2087 (2013), 2094 (2013), 2270 (2016), 2321 (2016) eller 2371 (2017).
+1\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra bestemmelsene i artikkel 26 bokstav a) og c) og gi tillatelse til at visse representasjonskontorer, datterselskaper eller konti videreføres, forutsatt at Sanksjonskomiteen i hvert enkelt tilfelle har fastslått at kontorene, selskapene eller kontiene er nødvendige av hensyn til humanitær bistand, til diplomatiske stasjoners virksomhet i Nord-Korea, til FNs eller dets særorganisasjoners eller tilknyttede organisasjoners virksomhet eller til andre formål som er forenlige med målene i FNs sikkerhetsrådsresolusjon 1718 (2006), 1874 (2009), 2087 (2013), 2094 (2013), 2270 (2016), 2321 (2016) eller 2371 (2017).
 
-2. Den berørte medlemsstaten skal omgående underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1.
+2\. Den berørte medlemsstaten skal omgående underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1.
 
 ### Artikkel 28
 
-1. Det er forbudt for kreditt- og finansinstitusjoner å opprette en konto for nordkoreanske diplomatiske eller konsulære stasjoner og for deres nordkoreanske medlemmer.
+1\. Det er forbudt for kreditt- og finansinstitusjoner å opprette en konto for nordkoreanske diplomatiske eller konsulære stasjoner og for deres nordkoreanske medlemmer.
 
-2. Kreditt- og finansinstitusjoner skal senest 11. april 2017 avslutte alle konti som innehas eller kontrolleres av en nordkoreansk diplomatisk eller konsulær stasjon og av deres nordkoreanske medlemmer.
+2\. Kreditt- og finansinstitusjoner skal senest 11. april 2017 avslutte alle konti som innehas eller kontrolleres av en nordkoreansk diplomatisk eller konsulær stasjon og av deres nordkoreanske medlemmer.
 
 ### Artikkel 29
 
-1. Medlemsstatenes kompetente myndigheter kan, på anmodning fra en nordkoreansk diplomatisk eller konsulær stasjon eller et av deres medlemmer, gjøre unntak fra forbudet i artikkel 28 nr. 1 og gi tillatelse til at det opprettes én konto per stasjon og medlem, forutsatt at stasjonen er etablert i medlemsstaten, eller at stasjonens medlem er akkreditert til medlemsstaten.
+1\. Medlemsstatenes kompetente myndigheter kan, på anmodning fra en nordkoreansk diplomatisk eller konsulær stasjon eller et av deres medlemmer, gjøre unntak fra forbudet i artikkel 28 nr. 1 og gi tillatelse til at det opprettes én konto per stasjon og medlem, forutsatt at stasjonen er etablert i medlemsstaten, eller at stasjonens medlem er akkreditert til medlemsstaten.
 
-2. Medlemsstatenes kompetente myndigheter kan, på anmodning fra en nordkoreansk diplomatisk eller konsulær stasjon eller et av deres medlemmer, gjøre unntak fra bestemmelsen i artikkel 28 nr. 2 og gi tillatelse til at en konto videreføres, forutsatt at medlemsstaten har fastslått atstasjonen er etablert i medlemsstaten, eller at stasjonens medlem er akkreditert til medlemsstaten, ogstasjonen eller medlemmet ikke innehar andre konti i medlemsstaten.Dersom stasjonen eller det nordkoreanske medlemmet innehar flere enn én konto i medlemsstaten, kan stasjonen eller medlemmet angi hvilken konto som skal beholdes.
+2\. Medlemsstatenes kompetente myndigheter kan, på anmodning fra en nordkoreansk diplomatisk eller konsulær stasjon eller et av deres medlemmer, gjøre unntak fra bestemmelsen i artikkel 28 nr. 2 og gi tillatelse til at en konto videreføres, forutsatt at medlemsstaten har fastslått atstasjonen er etablert i medlemsstaten, eller at stasjonens medlem er akkreditert til medlemsstaten, ogstasjonen eller medlemmet ikke innehar andre konti i medlemsstaten.Dersom stasjonen eller det nordkoreanske medlemmet innehar flere enn én konto i medlemsstaten, kan stasjonen eller medlemmet angi hvilken konto som skal beholdes.
 
-3. Med forbehold for de gjeldende regler i Wien-konvensjonen om diplomatisk samkvem av 1961 og [Wien-konvensjonen om konsulært samkvem av 1963](traktat/1963-04-24-1) skal medlemsstatene senest 13. mars 2017 informere de øvrige medlemsstatene og Kommisjonen om navn på og identifikasjonsopplysninger om alle nordkoreanske medlemmer av diplomatiske og konsulære stasjoner som er akkreditert til vedkommende medlemsstat, og innen en uke informere om senere ajourføringer.
+3\. Med forbehold for de gjeldende regler i Wien-konvensjonen om diplomatisk samkvem av 1961 og [Wien-konvensjonen om konsulært samkvem av 1963](traktat/1963-04-24-1) skal medlemsstatene senest 13. mars 2017 informere de øvrige medlemsstatene og Kommisjonen om navn på og identifikasjonsopplysninger om alle nordkoreanske medlemmer av diplomatiske og konsulære stasjoner som er akkreditert til vedkommende medlemsstat, og innen en uke informere om senere ajourføringer.
 
-4. Medlemsstatenes kompetente myndigheter kan informere kreditt- og finansinstitusjoner i medlemsstaten om identiteten til nordkoreanske medlemmer av en diplomatisk eller konsulær stasjon som er akkreditert til denne eller andre medlemsstater.
+4\. Medlemsstatenes kompetente myndigheter kan informere kreditt- og finansinstitusjoner i medlemsstaten om identiteten til nordkoreanske medlemmer av en diplomatisk eller konsulær stasjon som er akkreditert til denne eller andre medlemsstater.
 
-5. Medlemsstatene skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1 og 2.
+5\. Medlemsstatene skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1 og 2.
 
 ### Artikkel 30
 
@@ -468,50 +471,50 @@ Det er forbudt å yte finansiering eller finansiell bistand til handel med Nord-
 
 ### Artikkel 33
 
-1. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudet i artikkel 32 og gi tillatelse til finansiell støtte til handel med Nord-Korea, forutsatt at medlemsstaten har innhentet forhåndsgodkjenning fra Sanksjonskomiteen i hvert enkelt tilfelle.
+1\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudet i artikkel 32 og gi tillatelse til finansiell støtte til handel med Nord-Korea, forutsatt at medlemsstaten har innhentet forhåndsgodkjenning fra Sanksjonskomiteen i hvert enkelt tilfelle.
 
-2. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1.
+2\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1.
 
 ### KAPITTEL V
 Frysing av penger og formuesgoder
 
 ### Artikkel 34
 
-1. Alle penger og formuesgoder som tilhører, eies, innehas eller kontrolleres av personene, enhetene og organene oppført i vedlegg XIII, XV, XVI og XVII, skal fryses.
+1\. Alle penger og formuesgoder som tilhører, eies, innehas eller kontrolleres av personene, enhetene og organene oppført i vedlegg XIII, XV, XVI og XVII, skal fryses.
 
-2. Alle fartøyer oppført i vedlegg XIV skal tas i beslag dersom Sanksjonskomiteen har fastsatt nærmere bestemmelse om dette.
+2\. Alle fartøyer oppført i vedlegg XIV skal tas i beslag dersom Sanksjonskomiteen har fastsatt nærmere bestemmelse om dette.
 
-3. Ingen penger eller formuesgoder skal stilles til rådighet, verken direkte eller indirekte, eller være til fordel for de fysiske eller juridiske personene, enhetene eller organene som er oppført i vedlegg XIII, XV, XVI og XVII.
+3\. Ingen penger eller formuesgoder skal stilles til rådighet, verken direkte eller indirekte, eller være til fordel for de fysiske eller juridiske personene, enhetene eller organene som er oppført i vedlegg XIII, XV, XVI og XVII.
 
-4. Vedlegg XIII omfatter personer, enheter og organer listeført av Sanksjonskomiteen eller FNs sikkerhetsråd i henhold til punkt 8 bokstav d) i FNs sikkerhetsrådsresolusjon 1718 (2006) og punkt 8 i sikkerhetsrådsresolusjon 2094 (2013).Vedlegg XIV omfatter de fartøyer som Sanksjonskomiteen har listeført i henhold til punkt 12 i FNs sikkerhetsrådsresolusjon 2321 (2016) og punkt 8 i sikkerhetsrådsresolusjon 2375 (2017).Vedlegg XV omfatter personer, enheter og organer som ikke står oppført i vedlegg XIII og XIV, og som i henhold til artikkel 27 nr. 1 bokstav b) i beslutning (FUSP) 2016/849 eller en tilsvarende etterfølgende bestemmelse av Rådet anses forå være ansvarlige for, herunder ved å støtte eller fremme, Nord-Koreas programmer knyttet til kjernefysiske våpen, ballistiske missiler eller andre masseødeleggelsesvåpen, eller personer, enheter eller organer som handler på deres vegne eller på deres instruks, eller personer, enheter eller organer som eies eller kontrolleres av dem, herunder ved ulovlige midler,å levere finansielle tjenester eller sørge for overføring av økonomiske eller andre aktiva eller formuesgoder som kan bidra til Nord-Koreas programmer knyttet til kjernefysiske våpen, ballistiske missiler eller andre masseødeleggelsesvåpen, til, gjennom eller fra EUs territorium eller med deltakelse av medlemsstatenes statsborgere eller enheter etablert i henhold til deres lovgivning eller personer eller finansinstitusjoner på EUs territorium, eller personer, enheter eller organer som handler på deres vegne eller på deres instruks, eller personer, enheter eller organer som eies eller kontrolleres av dem, ellerå være involvert i, herunder ved å yte finansielle tjenester, levering av våpen og alle typer tilhørende materiell til eller fra Nord-Korea eller av produkter, materialer, utstyr, varer og teknologi som kan bidra til Nord-Koreas programmer knyttet til kjernefysiske våpen, ballistiske missiler eller andre masseødeleggelsesvåpen.
+4\. Vedlegg XIII omfatter personer, enheter og organer listeført av Sanksjonskomiteen eller FNs sikkerhetsråd i henhold til punkt 8 bokstav d) i FNs sikkerhetsrådsresolusjon 1718 (2006) og punkt 8 i sikkerhetsrådsresolusjon 2094 (2013).Vedlegg XIV omfatter de fartøyer som Sanksjonskomiteen har listeført i henhold til punkt 12 i FNs sikkerhetsrådsresolusjon 2321 (2016) og punkt 8 i sikkerhetsrådsresolusjon 2375 (2017).Vedlegg XV omfatter personer, enheter og organer som ikke står oppført i vedlegg XIII og XIV, og som i henhold til artikkel 27 nr. 1 bokstav b) i beslutning (FUSP) 2016/849 eller en tilsvarende etterfølgende bestemmelse av Rådet anses forå være ansvarlige for, herunder ved å støtte eller fremme, Nord-Koreas programmer knyttet til kjernefysiske våpen, ballistiske missiler eller andre masseødeleggelsesvåpen, eller personer, enheter eller organer som handler på deres vegne eller på deres instruks, eller personer, enheter eller organer som eies eller kontrolleres av dem, herunder ved ulovlige midler,å levere finansielle tjenester eller sørge for overføring av økonomiske eller andre aktiva eller formuesgoder som kan bidra til Nord-Koreas programmer knyttet til kjernefysiske våpen, ballistiske missiler eller andre masseødeleggelsesvåpen, til, gjennom eller fra EUs territorium eller med deltakelse av medlemsstatenes statsborgere eller enheter etablert i henhold til deres lovgivning eller personer eller finansinstitusjoner på EUs territorium, eller personer, enheter eller organer som handler på deres vegne eller på deres instruks, eller personer, enheter eller organer som eies eller kontrolleres av dem, ellerå være involvert i, herunder ved å yte finansielle tjenester, levering av våpen og alle typer tilhørende materiell til eller fra Nord-Korea eller av produkter, materialer, utstyr, varer og teknologi som kan bidra til Nord-Koreas programmer knyttet til kjernefysiske våpen, ballistiske missiler eller andre masseødeleggelsesvåpen.
 
-5. Vedlegg XVI omfatter personer, enheter eller organer som ikke omfattes av vedlegg XIII, XIV eller XV, og som handler på vegne av eller på instruks fra personer, enheter eller organer oppført i vedlegg XIII, XIV eller XV, eller personer som medvirker til å omgå sanksjoner eller bryter bestemmelsene i denne forordning.
+5\. Vedlegg XVI omfatter personer, enheter eller organer som ikke omfattes av vedlegg XIII, XIV eller XV, og som handler på vegne av eller på instruks fra personer, enheter eller organer oppført i vedlegg XIII, XIV eller XV, eller personer som medvirker til å omgå sanksjoner eller bryter bestemmelsene i denne forordning.
 
-6. Vedlegg XVII omfatter enheter eller organer under Nord-Koreas regjering eller Koreas arbeiderparti, personer, enheter eller organer som handler på deres vegne eller på deres instruks, og enheter eller organer som eies eller kontrolleres av dem, og som har tilknytning til Nord-Koreas programmer for kjernefysiske våpen eller ballistiske missiler eller til annen virksomhet som er forbudt i henhold til FNs sikkerhetsrådsresolusjon 1718 (2006), 1874 (2009), 2087 (2013), 2094 (2013), 2270 (2016), 2321 (2016) eller 2371 (2017), og som ikke er omfattet av vedlegg XIII, XIV, XV eller XVI.
+6\. Vedlegg XVII omfatter enheter eller organer under Nord-Koreas regjering eller Koreas arbeiderparti, personer, enheter eller organer som handler på deres vegne eller på deres instruks, og enheter eller organer som eies eller kontrolleres av dem, og som har tilknytning til Nord-Koreas programmer for kjernefysiske våpen eller ballistiske missiler eller til annen virksomhet som er forbudt i henhold til FNs sikkerhetsrådsresolusjon 1718 (2006), 1874 (2009), 2087 (2013), 2094 (2013), 2270 (2016), 2321 (2016) eller 2371 (2017), og som ikke er omfattet av vedlegg XIII, XIV, XV eller XVI.
 
-7. Når det gjelder personer, enheter eller organer oppført i vedlegg XVII, får forbudet i nr. 1 og 3 ikke anvendelse dersom pengene og formuesgodene er nødvendige for å utføre virksomhet ved Nord-Koreas representasjoner ved FN, FNs særorganisasjoner og tilknyttede organisasjoner eller ved Nord-Koreas øvrige utenriksstasjoner, eller dersom medlemsstatens kompetente myndighet i hvert enkelt tilfelle har innhentet forhåndsgodkjenning fra Sanksjonskomiteen for at pengene, de finansielle aktiva eller formuesgodene er nødvendige av hensyn til humanitær bistand, kjernefysisk nedrustning eller andre formål som er forenlige med målene i FNs sikkerhetsrådsresolusjon 2270 (2016).
+7\. Når det gjelder personer, enheter eller organer oppført i vedlegg XVII, får forbudet i nr. 1 og 3 ikke anvendelse dersom pengene og formuesgodene er nødvendige for å utføre virksomhet ved Nord-Koreas representasjoner ved FN, FNs særorganisasjoner og tilknyttede organisasjoner eller ved Nord-Koreas øvrige utenriksstasjoner, eller dersom medlemsstatens kompetente myndighet i hvert enkelt tilfelle har innhentet forhåndsgodkjenning fra Sanksjonskomiteen for at pengene, de finansielle aktiva eller formuesgodene er nødvendige av hensyn til humanitær bistand, kjernefysisk nedrustning eller andre formål som er forenlige med målene i FNs sikkerhetsrådsresolusjon 2270 (2016).
 
-8. Bestemmelsen i nr. 3 er ikke til hinder for at finans- eller kredittinstitusjoner i EU kan godskrive frosne konti når de mottar penger overført av en tredje part til en konto tilhørende listeførte fysiske eller juridiske personer, enheter eller organer, forutsatt at de godskrevne beløpene også fryses. Finans- eller kredittinstitusjonen skal umiddelbart underrette de kompetente myndighetene om slike transaksjoner.
+8\. Bestemmelsen i nr. 3 er ikke til hinder for at finans- eller kredittinstitusjoner i EU kan godskrive frosne konti når de mottar penger overført av en tredje part til en konto tilhørende listeførte fysiske eller juridiske personer, enheter eller organer, forutsatt at de godskrevne beløpene også fryses. Finans- eller kredittinstitusjonen skal umiddelbart underrette de kompetente myndighetene om slike transaksjoner.
 
-9. Forutsatt at alle renter eller øvrige inntekter og betalinger fryses i samsvar med nr. 1, gjelder bestemmelsen i nr. 3 ikke beløp som tilføres frosne konti i form avrenter eller annen avkastning på disse kontiene, ogbeløp forfalt til betaling i henhold til kontrakter, avtaler eller forpliktelser som var inngått eller oppstod før datoen da personen, enheten eller organet omtalt i denne artikkel ble listeført.
+9\. Forutsatt at alle renter eller øvrige inntekter og betalinger fryses i samsvar med nr. 1, gjelder bestemmelsen i nr. 3 ikke beløp som tilføres frosne konti i form avrenter eller annen avkastning på disse kontiene, ogbeløp forfalt til betaling i henhold til kontrakter, avtaler eller forpliktelser som var inngått eller oppstod før datoen da personen, enheten eller organet omtalt i denne artikkel ble listeført.
 
-10. Nr. 1 og 3 gjelder ikke penger eller formuesgoder som stilles til rådighet, og som er nødvendige for å sikre at humanitær bistand eller annen virksomhet til støtte for grunnleggende menneskelige behov kan leveres til rett tid, dersom slik bistand og annen virksomhet utføres avFN, herunder FNs programmer, fond og andre enheter og organer, samt FNs særorganisasjoner og tilknyttede organisasjoner,internasjonale organisasjoner,humanitære organisasjoner med observatørstatus i FNs generalforsamling, og medlemmer av disse humanitære organisasjonene,bilateralt eller multilateralt finansierte ikke-statlige organisasjoner som deltar i FNs beredskapsplaner for humanitær bistand, beredskapsplaner for flyktninger, annen FN-innsats eller humanitære grupper som koordineres av FNs kontor for koordinering av humanitær innsats (OCHA),ansatte, støttemottakere, datterselskaper eller gjennomføringspartnere til enhetene nevnt i bokstav a–d mens og i det omfanget de handler i en slik egenskap, eller avandre relevante aktører som fastsatt av Sanksjonskomiteen når det gjelder vedlegg XIII, XVI og XVII, og av Rådet når det gjelder vedlegg XV.
+10\. Nr. 1 og 3 gjelder ikke penger eller formuesgoder som stilles til rådighet, og som er nødvendige for å sikre at humanitær bistand eller annen virksomhet til støtte for grunnleggende menneskelige behov kan leveres til rett tid, dersom slik bistand og annen virksomhet utføres avFN, herunder FNs programmer, fond og andre enheter og organer, samt FNs særorganisasjoner og tilknyttede organisasjoner,internasjonale organisasjoner,humanitære organisasjoner med observatørstatus i FNs generalforsamling, og medlemmer av disse humanitære organisasjonene,bilateralt eller multilateralt finansierte ikke-statlige organisasjoner som deltar i FNs beredskapsplaner for humanitær bistand, beredskapsplaner for flyktninger, annen FN-innsats eller humanitære grupper som koordineres av FNs kontor for koordinering av humanitær innsats (OCHA),ansatte, støttemottakere, datterselskaper eller gjennomføringspartnere til enhetene nevnt i bokstav a–d mens og i det omfanget de handler i en slik egenskap, eller avandre relevante aktører som fastsatt av Sanksjonskomiteen når det gjelder vedlegg XIII, XVI og XVII, og av Rådet når det gjelder vedlegg XV.
 
 ### Artikkel 35
 
-1. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra bestemmelsene i artikkel 34 og gi tillatelse, på de vilkår de finner hensiktsmessige, til å frigi eller stille visse frosne penger eller formuesgoder til rådighet forutsatt atmyndighetene har fastslått at pengene eller formuesgodene er nødvendige for å dekke grunnleggende behov hos fysiske eller juridiske personer, enheter eller organer oppført i vedlegg XIII, XV, XVI eller XVII og familiemedlemmene disse fysiske personene forsørger, herunder betaling av matvarer, husleie eller boliglån, medisiner og medisinsk behandling, skatter og avgifter, forsikringspremier og kommunale avgifter samt betalinger som utelukkende skal gå tilbetaling av rimelige honorarer og refusjon av utgifter i forbindelse med juridisk bistand, ellerbetaling av avgifter og administrasjonsgebyr for rutinemessig oppbevaring eller forvaltning av frosne penger eller formuesgoder, ogden berørte medlemsstaten, når tillatelsen gjelder personer, enheter eller organer oppført i vedlegg XIII, har underrettet Sanksjonskomiteen om at dette er fastslått, og at tillatelse vil bli gitt, og Sanksjonskomiteen ikke har kommet med innsigelser mot det innen fem virkedager etter at underretning er gitt.
+1\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra bestemmelsene i artikkel 34 og gi tillatelse, på de vilkår de finner hensiktsmessige, til å frigi eller stille visse frosne penger eller formuesgoder til rådighet forutsatt atmyndighetene har fastslått at pengene eller formuesgodene er nødvendige for å dekke grunnleggende behov hos fysiske eller juridiske personer, enheter eller organer oppført i vedlegg XIII, XV, XVI eller XVII og familiemedlemmene disse fysiske personene forsørger, herunder betaling av matvarer, husleie eller boliglån, medisiner og medisinsk behandling, skatter og avgifter, forsikringspremier og kommunale avgifter samt betalinger som utelukkende skal gå tilbetaling av rimelige honorarer og refusjon av utgifter i forbindelse med juridisk bistand, ellerbetaling av avgifter og administrasjonsgebyr for rutinemessig oppbevaring eller forvaltning av frosne penger eller formuesgoder, ogden berørte medlemsstaten, når tillatelsen gjelder personer, enheter eller organer oppført i vedlegg XIII, har underrettet Sanksjonskomiteen om at dette er fastslått, og at tillatelse vil bli gitt, og Sanksjonskomiteen ikke har kommet med innsigelser mot det innen fem virkedager etter at underretning er gitt.
 
-2. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra bestemmelsene i artikkel 34 og gi tillatelse til å frigi eller stille visse frosne penger eller formuesgoder til rådighet når det er fastslått at pengene eller formuesgodene er nødvendige for å dekke ekstraordinære utgifter, forutsatt atden berørte medlemsstaten, når tillatelsen gjelder personer, enheter eller organer oppført i vedlegg XIII, har underrettet Sanksjonskomiteen om at dette er fastslått, og Sanksjonskomiteen har godkjent det,den berørte medlemsstaten, når tillatelsen gjelder personer, enheter eller organer oppført i vedlegg XV, XVI eller XVII, minst to uker før tillatelsen gis, har underrettet andre medlemsstater og Kommisjonen om begrunnelsen for at den mener det bør gis særskilt tillatelse.
+2\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra bestemmelsene i artikkel 34 og gi tillatelse til å frigi eller stille visse frosne penger eller formuesgoder til rådighet når det er fastslått at pengene eller formuesgodene er nødvendige for å dekke ekstraordinære utgifter, forutsatt atden berørte medlemsstaten, når tillatelsen gjelder personer, enheter eller organer oppført i vedlegg XIII, har underrettet Sanksjonskomiteen om at dette er fastslått, og Sanksjonskomiteen har godkjent det,den berørte medlemsstaten, når tillatelsen gjelder personer, enheter eller organer oppført i vedlegg XV, XVI eller XVII, minst to uker før tillatelsen gis, har underrettet andre medlemsstater og Kommisjonen om begrunnelsen for at den mener det bør gis særskilt tillatelse.
 
-3. Den berørte medlemsstaten skal omgående underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1 og 2.
+3\. Den berørte medlemsstaten skal omgående underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1 og 2.
 
 ### Artikkel 36
 
-1. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra bestemmelsene i artikkel 34 og gi tillatelse til å frigi visse frosne penger eller formuesgoder forutsatt atpengene eller formuesgodene er gjenstand for en rettslig, administrativ eller voldgiftsmessig avgjørelse fastsatt før datoen da personen, enheten eller organet omtalt i artikkel 34 ble listeført, eller for en rettslig, administrativ eller voldgiftsmessig heftelse fastsatt før denne datoen,pengene eller formuesgodene utelukkende skal brukes til å innfri fordringer som er sikret gjennom en slik avgjørelse eller anerkjent som gyldige i henhold til en slik heftelse, innenfor de rammer som er fastsatt i gjeldende lov og forskrift om slike fordringshaveres rettigheter,avgjørelsen eller heftelsen ikke er til fordel for personer, enheter eller organer oppført i vedlegg XIII, XV, XVI eller XVII,anerkjennelse av avgjørelsen eller heftelsen ikke strider mot grunnleggende rettsstatsprinsipper i den berørte medlemsstaten,den berørte medlemsstaten har underrettet Sanksjonskomiteen om avgjørelsen eller heftelsen som omfatter personer, enheter og organer oppført i vedlegg XIII.
+1\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra bestemmelsene i artikkel 34 og gi tillatelse til å frigi visse frosne penger eller formuesgoder forutsatt atpengene eller formuesgodene er gjenstand for en rettslig, administrativ eller voldgiftsmessig avgjørelse fastsatt før datoen da personen, enheten eller organet omtalt i artikkel 34 ble listeført, eller for en rettslig, administrativ eller voldgiftsmessig heftelse fastsatt før denne datoen,pengene eller formuesgodene utelukkende skal brukes til å innfri fordringer som er sikret gjennom en slik avgjørelse eller anerkjent som gyldige i henhold til en slik heftelse, innenfor de rammer som er fastsatt i gjeldende lov og forskrift om slike fordringshaveres rettigheter,avgjørelsen eller heftelsen ikke er til fordel for personer, enheter eller organer oppført i vedlegg XIII, XV, XVI eller XVII,anerkjennelse av avgjørelsen eller heftelsen ikke strider mot grunnleggende rettsstatsprinsipper i den berørte medlemsstaten,den berørte medlemsstaten har underrettet Sanksjonskomiteen om avgjørelsen eller heftelsen som omfatter personer, enheter og organer oppført i vedlegg XIII.
 
-2. I tilfeller der personer, enheter eller organer oppført i vedlegg XV, XVI eller XVII skal betale beløp forfalt i henhold til en kontrakt, avtale eller forpliktelse som vedkommende person, enhet eller organ har inngått eller pådratt seg før datoen da de ble listeført, kan medlemsstatenes kompetente myndigheter gjøre unntak fra bestemmelsene i artikkel 34 og gi tillatelse, på de vilkår de finner hensiktsmessige, til å frigi visse frosne penger eller formuesgoder dersom vedkommende myndighet har fastslått atkontrakten ikke har tilknytning til noen av produktene, operasjonene, tjenestene eller transaksjonene omtalt i artikkel 3 nr. 1 bokstav a), artikkel 3 nr. 3 eller artikkel 7, ogbetalingen ikke mottas direkte eller indirekte av personer, enheter eller organer oppført i vedlegg XV, XVI eller XVII.
+2\. I tilfeller der personer, enheter eller organer oppført i vedlegg XV, XVI eller XVII skal betale beløp forfalt i henhold til en kontrakt, avtale eller forpliktelse som vedkommende person, enhet eller organ har inngått eller pådratt seg før datoen da de ble listeført, kan medlemsstatenes kompetente myndigheter gjøre unntak fra bestemmelsene i artikkel 34 og gi tillatelse, på de vilkår de finner hensiktsmessige, til å frigi visse frosne penger eller formuesgoder dersom vedkommende myndighet har fastslått atkontrakten ikke har tilknytning til noen av produktene, operasjonene, tjenestene eller transaksjonene omtalt i artikkel 3 nr. 1 bokstav a), artikkel 3 nr. 3 eller artikkel 7, ogbetalingen ikke mottas direkte eller indirekte av personer, enheter eller organer oppført i vedlegg XV, XVI eller XVII.
 
-3. Den berørte medlemsstaten skal minst ti dager før den gir tillatelse etter nr. 2, underrette de øvrige medlemsstatene og Kommisjonen om sin beslutning og om at tillatelse vil bli gitt.
+3\. Den berørte medlemsstaten skal minst ti dager før den gir tillatelse etter nr. 2, underrette de øvrige medlemsstatene og Kommisjonen om sin beslutning og om at tillatelse vil bli gitt.
 
 ### Artikkel 37
 
@@ -522,33 +525,33 @@ Transportrestriksjoner
 
 ### Artikkel 38
 
-1. Forsendelser, herunder personlig og innsjekket bagasje, innenfor eller i transitt gjennom EU, herunder i lufthavner, sjøhavner og frisoner, som omtalt i artikkel 243–249 i forordning [(EU) nr. 952/2013](eu/32013r0952*), skal kunne inspiseres for å sikre at de ikke inneholder produkter som er forbudt i henhold til FNs sikkerhetsrådsresolusjon 1718 (2006), 1874 (2009), 2087 (2013), 2094 (2013), 2270 (2016), 2321 (2016) eller 2371 (2017) eller til denne forordning, såfremtforsendelsen har opprinnelse i Nord-Korea,forsendelsens bestemmelsessted er Nord-Korea,forsendelsen er formidlet eller tilrettelagt av Nord-Korea eller nordkoreanske borgere eller av personer eller enheter som handler på deres vegne eller på deres instruks, eller av enheter som eies eller kontrolleres av dem,forsendelsen er blitt formidlet eller tilrettelagt av personer, enheter eller organer oppført i vedlegg XIII,forsendelsen transporteres om bord i et fartøy som fører nordkoreansk flagg, i et luftfartøy registrert i Nord-Korea eller i et statsløst fartøy eller luftfartøy.
+1\. Forsendelser, herunder personlig og innsjekket bagasje, innenfor eller i transitt gjennom EU, herunder i lufthavner, sjøhavner og frisoner, som omtalt i artikkel 243–249 i forordning [(EU) nr. 952/2013](eu/32013r0952*), skal kunne inspiseres for å sikre at de ikke inneholder produkter som er forbudt i henhold til FNs sikkerhetsrådsresolusjon 1718 (2006), 1874 (2009), 2087 (2013), 2094 (2013), 2270 (2016), 2321 (2016) eller 2371 (2017) eller til denne forordning, såfremtforsendelsen har opprinnelse i Nord-Korea,forsendelsens bestemmelsessted er Nord-Korea,forsendelsen er formidlet eller tilrettelagt av Nord-Korea eller nordkoreanske borgere eller av personer eller enheter som handler på deres vegne eller på deres instruks, eller av enheter som eies eller kontrolleres av dem,forsendelsen er blitt formidlet eller tilrettelagt av personer, enheter eller organer oppført i vedlegg XIII,forsendelsen transporteres om bord i et fartøy som fører nordkoreansk flagg, i et luftfartøy registrert i Nord-Korea eller i et statsløst fartøy eller luftfartøy.
 
-2. Dersom forsendelsen faller utenfor virkeområdet for nr. 1, skal forsendelser innenfor eller i transitt gjennom EU, herunder i lufthavner, sjøhavner og frisoner, kunne inspiseres dersom det er rimelig grunn til å anta at de kan inneholde produkter som det er forbudt å selge, levere, overføre eller eksportere i henhold til denne forordning, såfremtforsendelsen har opprinnelse i Nord-Korea,forsendelsens bestemmelsessted er Nord-Korea, ellerforsendelsen er blitt formidlet eller tilrettelagt av Nord-Korea eller nordkoreanske borgere eller av enkeltpersoner eller enheter som handler på deres vegne.
+2\. Dersom forsendelsen faller utenfor virkeområdet for nr. 1, skal forsendelser innenfor eller i transitt gjennom EU, herunder i lufthavner, sjøhavner og frisoner, kunne inspiseres dersom det er rimelig grunn til å anta at de kan inneholde produkter som det er forbudt å selge, levere, overføre eller eksportere i henhold til denne forordning, såfremtforsendelsen har opprinnelse i Nord-Korea,forsendelsens bestemmelsessted er Nord-Korea, ellerforsendelsen er blitt formidlet eller tilrettelagt av Nord-Korea eller nordkoreanske borgere eller av enkeltpersoner eller enheter som handler på deres vegne.
 
-3. Bestemmelsene i nr. 1 og 2 berører ikke den ukrenkelighet og det vern som gjelder for diplomatpost som fastsatt i Wien-konvensjonen om diplomatisk samkvem av 1961 og [Wien-konvensjonen om konsulært samkvem av 1963.](traktat/1963-04-24-1)
+3\. Bestemmelsene i nr. 1 og 2 berører ikke den ukrenkelighet og det vern som gjelder for diplomatpost som fastsatt i Wien-konvensjonen om diplomatisk samkvem av 1961 og [Wien-konvensjonen om konsulært samkvem av 1963.](traktat/1963-04-24-1)
 
-4. Det er forbudt å levere bunkrings- eller skipsforsyningstjenester eller andre tjenester til nordkoreanske fartøyer dersom tjenesteyteren har informasjon, herunder fra kompetente tollmyndigheter på grunnlag av informasjon før ankomst eller avreise som omtalt i artikkel 9 nr. 1, som gir rimelig grunn til å anta at fartøyene transporterer produkter det er forbudt å levere, selge, overføre eller eksportere i henhold til denne forordning, med mindre det er nødvendig å yte slike tjenester av hensyn til humanitære formål.
+4\. Det er forbudt å levere bunkrings- eller skipsforsyningstjenester eller andre tjenester til nordkoreanske fartøyer dersom tjenesteyteren har informasjon, herunder fra kompetente tollmyndigheter på grunnlag av informasjon før ankomst eller avreise som omtalt i artikkel 9 nr. 1, som gir rimelig grunn til å anta at fartøyene transporterer produkter det er forbudt å levere, selge, overføre eller eksportere i henhold til denne forordning, med mindre det er nødvendig å yte slike tjenester av hensyn til humanitære formål.
 
 ### Artikkel 39
 
-1. Det er forbudt å gi adgang til havner på EUs territorium til fartøyersom eies, drives eller bemannes av Nord-Korea,som fører nordkoreansk flagg,når det er rimelig grunn til å anta at fartøyet direkte eller indirekte eies eller kontrolleres av en person eller enhet oppført i vedlegg XIII, XV, XVI eller XVII,når det er rimelig grunn til å anta at fartøyet fører produkter det er forbudt å levere, selge, overføre eller eksportere i henhold til denne forordning,som har nektet å la seg inspisere etter at fartøyets flaggstat eller registreringsstat har gitt tillatelse til slik inspeksjon,som er statsløst og har nektet å la seg inspisere i samsvar med artikkel 38 nr. 1, ellersom er oppført i vedlegg XIV, dersom Sanksjonskomiteen har fastsatt nærmere bestemmelse om dette.
+1\. Det er forbudt å gi adgang til havner på EUs territorium til fartøyersom eies, drives eller bemannes av Nord-Korea,som fører nordkoreansk flagg,når det er rimelig grunn til å anta at fartøyet direkte eller indirekte eies eller kontrolleres av en person eller enhet oppført i vedlegg XIII, XV, XVI eller XVII,når det er rimelig grunn til å anta at fartøyet fører produkter det er forbudt å levere, selge, overføre eller eksportere i henhold til denne forordning,som har nektet å la seg inspisere etter at fartøyets flaggstat eller registreringsstat har gitt tillatelse til slik inspeksjon,som er statsløst og har nektet å la seg inspisere i samsvar med artikkel 38 nr. 1, ellersom er oppført i vedlegg XIV, dersom Sanksjonskomiteen har fastsatt nærmere bestemmelse om dette.
 
-2. Nr. 1 får ikke anvendelsei nødsituasjoner,når fartøyet returnerer til sin opprinnelseshavn,når fartøyet anløper en havn for inspeksjon, dersom det omfattes av bestemmelsene i nr. 1 bokstav a)–e).
+2\. Nr. 1 får ikke anvendelsei nødsituasjoner,når fartøyet returnerer til sin opprinnelseshavn,når fartøyet anløper en havn for inspeksjon, dersom det omfattes av bestemmelsene i nr. 1 bokstav a)–e).
 
 ### Artikkel 40
 
-1. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudet i artikkel 39 nr. 1 og gi et fartøy tillatelse til å anløpe havnen dersom det omfattes av bestemmelsene i nr. 1 bokstav a)–e), ogSanksjonskomiteen på forhånd har fastslått at det er nødvendig av hensyn til humanitære formål eller andre formål som er forenlige med målene i FNs sikkerhetsrådsresolusjon 2270 (2016), ellermedlemsstaten på forhånd har fastslått at det er nødvendig av hensyn til humanitære formål eller andre formål som er forenlige med målene i denne forordning.
+1\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudet i artikkel 39 nr. 1 og gi et fartøy tillatelse til å anløpe havnen dersom det omfattes av bestemmelsene i nr. 1 bokstav a)–e), ogSanksjonskomiteen på forhånd har fastslått at det er nødvendig av hensyn til humanitære formål eller andre formål som er forenlige med målene i FNs sikkerhetsrådsresolusjon 2270 (2016), ellermedlemsstaten på forhånd har fastslått at det er nødvendig av hensyn til humanitære formål eller andre formål som er forenlige med målene i denne forordning.
 
-2. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudet i artikkel 39 nr. 1 og gi et fartøy tillatelse til å anløpe havnen dersom det omfattes av bestemmelsen i nr. 1 bokstav f) og Sanksjonskomiteen har besluttet det.
+2\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudet i artikkel 39 nr. 1 og gi et fartøy tillatelse til å anløpe havnen dersom det omfattes av bestemmelsen i nr. 1 bokstav f) og Sanksjonskomiteen har besluttet det.
 
-3. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudet i artikkel 39 nr. 1 og gi et fartøy tillatelse til å anløpe havnen dersom det omfattes av bestemmelsen i nr. 1 bokstav g) og Sanksjonskomiteen på forhånd har fastslått at det er nødvendig av hensyn til humanitære formål eller andre formål som er forenlige med målene i FNs sikkerhetsrådsresolusjon 1718 (2006), 1874 (2009), 2087 (2013), 2094 (2013), 2270 (2016), 2321 (2016), 2356 (2017), 2371 (2017) eller 2375 (2017).
+3\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudet i artikkel 39 nr. 1 og gi et fartøy tillatelse til å anløpe havnen dersom det omfattes av bestemmelsen i nr. 1 bokstav g) og Sanksjonskomiteen på forhånd har fastslått at det er nødvendig av hensyn til humanitære formål eller andre formål som er forenlige med målene i FNs sikkerhetsrådsresolusjon 1718 (2006), 1874 (2009), 2087 (2013), 2094 (2013), 2270 (2016), 2321 (2016), 2356 (2017), 2371 (2017) eller 2375 (2017).
 
 ### Artikkel 41
 
-1. Det er forbudt for luftfartøyer som drives av nordkoreanske luftfartsselskaper eller har opprinnelse i Nord-Korea, å ta av fra, lande på eller fly over EUs territorium.
+1\. Det er forbudt for luftfartøyer som drives av nordkoreanske luftfartsselskaper eller har opprinnelse i Nord-Korea, å ta av fra, lande på eller fly over EUs territorium.
 
-2. Nr. 1 får ikke anvendelsedersom luftfartøyet lander for inspeksjon,ved en eventuell nødlanding.
+2\. Nr. 1 får ikke anvendelsedersom luftfartøyet lander for inspeksjon,ved en eventuell nødlanding.
 
 ### Artikkel 42
 
@@ -556,23 +559,23 @@ Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudet i artikkel
 
 ### Artikkel 43
 
-1. Det er forbudtå leie eller befrakte fartøyer eller luftfartøyer eller levere besetningstjenester til Nord-Korea, til personer eller enheter oppført i vedlegg XIII, XV, XVI eller XVII, til andre nordkoreanske enheter, til andre personer eller enheter som har medvirket til brudd på bestemmelsene i FNs sikkerhetsrådsresolusjon 1718 (2006), 1874 (2009), 2087 (2013), 2094 (2013), 2270 (2016), 2321 (2016) eller 2371 (2017), eller til personer eller enheter som handler på vegne av eller på instruks fra slike personer eller enheter, og til enheter som eies eller kontrolleres av dem,å skaffe besetningstjenester fra Nord-Korea til fartøyer eller luftfartøyer,å eie, leie, drive, befrakte, forsikre eller levere klassifiseringstjenester eller tilknyttede tjenester til fartøyer som fører nordkoreansk flagg,å levere klassifiseringstjenester til fartøyer oppført i vedlegg XVIII,å søke om eller bistå med å registrere eller videreføre registreringen av fartøyer som eies, kontrolleres eller drives av Nord-Korea eller av nordkoreanske statsborgere, fartøyer som er oppført i vedlegg XVIII, eller som er avregistrert i en annen stat i henhold til punkt 24 i FNs sikkerhetsrådsresolusjon 2321 (2016), punkt 8 i sikkerhetsrådsresolusjon 2375 (2017) eller punkt 12 i sikkerhetsrådsresolusjon 2397 (2017), ellerå levere forsikrings- eller gjenforsikringstjenester til fartøyer som eies, kontrolleres eller drives av Nord-Korea, eller fartøyer som er oppført i vedlegg XVIII.
+1\. Det er forbudtå leie eller befrakte fartøyer eller luftfartøyer eller levere besetningstjenester til Nord-Korea, til personer eller enheter oppført i vedlegg XIII, XV, XVI eller XVII, til andre nordkoreanske enheter, til andre personer eller enheter som har medvirket til brudd på bestemmelsene i FNs sikkerhetsrådsresolusjon 1718 (2006), 1874 (2009), 2087 (2013), 2094 (2013), 2270 (2016), 2321 (2016) eller 2371 (2017), eller til personer eller enheter som handler på vegne av eller på instruks fra slike personer eller enheter, og til enheter som eies eller kontrolleres av dem,å skaffe besetningstjenester fra Nord-Korea til fartøyer eller luftfartøyer,å eie, leie, drive, befrakte, forsikre eller levere klassifiseringstjenester eller tilknyttede tjenester til fartøyer som fører nordkoreansk flagg,å levere klassifiseringstjenester til fartøyer oppført i vedlegg XVIII,å søke om eller bistå med å registrere eller videreføre registreringen av fartøyer som eies, kontrolleres eller drives av Nord-Korea eller av nordkoreanske statsborgere, fartøyer som er oppført i vedlegg XVIII, eller som er avregistrert i en annen stat i henhold til punkt 24 i FNs sikkerhetsrådsresolusjon 2321 (2016), punkt 8 i sikkerhetsrådsresolusjon 2375 (2017) eller punkt 12 i sikkerhetsrådsresolusjon 2397 (2017), ellerå levere forsikrings- eller gjenforsikringstjenester til fartøyer som eies, kontrolleres eller drives av Nord-Korea, eller fartøyer som er oppført i vedlegg XVIII.
 
-2. Vedlegg XVIII omfatter de fartøyer som ikke står oppført i vedlegg XIV, men som Rådet har grunn til å anta har vært involvert i virksomhet eller i transport av produkter som er forbudt i henhold til FNs sikkerhetsrådsresolusjon 1718 (2006), 1874 (2009), 2087 (2013), 2094 (2013), 2270 (2016), 2321 (2016), 2356 (2017), 2371 (2017), 2375 (2017) eller 2397 (2017).
+2\. Vedlegg XVIII omfatter de fartøyer som ikke står oppført i vedlegg XIV, men som Rådet har grunn til å anta har vært involvert i virksomhet eller i transport av produkter som er forbudt i henhold til FNs sikkerhetsrådsresolusjon 1718 (2006), 1874 (2009), 2087 (2013), 2094 (2013), 2270 (2016), 2321 (2016), 2356 (2017), 2371 (2017), 2375 (2017) eller 2397 (2017).
 
 ### Artikkel 44
 
-1. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudet i artikkel 43 nr. 1 bokstav a) og gi tillatelse til leie, befraktning eller levering av besetningstjenester, forutsatt at medlemsstaten har innhentet forhåndsgodkjenning fra Sanksjonskomiteen i hvert enkelt tilfelle.
+1\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudet i artikkel 43 nr. 1 bokstav a) og gi tillatelse til leie, befraktning eller levering av besetningstjenester, forutsatt at medlemsstaten har innhentet forhåndsgodkjenning fra Sanksjonskomiteen i hvert enkelt tilfelle.
 
-2. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudene i artikkel 43 nr. 1 bokstav c) og e) og gi tillatelse til å eie, leie, drive, befrakte eller levere klassifiseringstjenester eller tilknyttede tjenester til fartøyer som fører nordkoreansk flagg, eller til å registrere eller videreføre registreringen av fartøyer som eies, kontrolleres eller drives av Nord-Korea eller av nordkoreanske statsborgere, forutsatt at medlemsstaten har innhentet forhåndsgodkjenning fra Sanksjonskomiteen i hvert enkelt tilfelle.
+2\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudene i artikkel 43 nr. 1 bokstav c) og e) og gi tillatelse til å eie, leie, drive, befrakte eller levere klassifiseringstjenester eller tilknyttede tjenester til fartøyer som fører nordkoreansk flagg, eller til å registrere eller videreføre registreringen av fartøyer som eies, kontrolleres eller drives av Nord-Korea eller av nordkoreanske statsborgere, forutsatt at medlemsstaten har innhentet forhåndsgodkjenning fra Sanksjonskomiteen i hvert enkelt tilfelle.
 
-3. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudet i artikkel 43 nr. 1 bokstav d) og gi tillatelse til å levere klassifiseringstjenester til fartøyer oppført i vedlegg XVIII, forutsatt at medlemsstaten har innhentet forhåndsgodkjenning fra Sanksjonskomiteen i hvert enkelt tilfelle.
+3\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudet i artikkel 43 nr. 1 bokstav d) og gi tillatelse til å levere klassifiseringstjenester til fartøyer oppført i vedlegg XVIII, forutsatt at medlemsstaten har innhentet forhåndsgodkjenning fra Sanksjonskomiteen i hvert enkelt tilfelle.
 
-4. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudene i artikkel 43 nr. 1 bokstav e) og gi tillatelse til å registrere et fartøy som er avregistrert i en annen stat i henhold til punkt 12 i FNs sikkerhetsrådsresolusjon 2397 (2017), forutsatt at medlemsstaten har innhentet forhåndsgodkjenning fra Sanksjonskomiteen i hvert enkelt tilfelle.
+4\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudene i artikkel 43 nr. 1 bokstav e) og gi tillatelse til å registrere et fartøy som er avregistrert i en annen stat i henhold til punkt 12 i FNs sikkerhetsrådsresolusjon 2397 (2017), forutsatt at medlemsstaten har innhentet forhåndsgodkjenning fra Sanksjonskomiteen i hvert enkelt tilfelle.
 
-5. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudet i artikkel 43 nr. 1 bokstav f) og gi tillatelse til levering av forsikrings- eller gjenforsikringstjenester, forutsatt at Sanksjonskomiteen på forhånd og i hvert enkelt tilfelle har fastslått at fartøyet driver virksomhet som utelukkende tjener livsnødvendige formål og ikke vil bli brukt av nordkoreanske personer eller enheter til å generere inntekter, eller som utelukkende tjener humanitære formål.
+5\. Medlemsstatenes kompetente myndigheter kan gjøre unntak fra forbudet i artikkel 43 nr. 1 bokstav f) og gi tillatelse til levering av forsikrings- eller gjenforsikringstjenester, forutsatt at Sanksjonskomiteen på forhånd og i hvert enkelt tilfelle har fastslått at fartøyet driver virksomhet som utelukkende tjener livsnødvendige formål og ikke vil bli brukt av nordkoreanske personer eller enheter til å generere inntekter, eller som utelukkende tjener humanitære formål.
 
-6. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1, 2, 3, 4 og 5.
+6\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1, 2, 3, 4 og 5.
 
 ### Artikkel 44a
 
@@ -583,15 +586,15 @@ Alminnelige bestemmelser og sluttbestemmelser
 
 ### Artikkel 45
 
-1. Uavhengig av artikkel 34 nr. 10 kan medlemsstatenes kompetente myndigheter gi tillatelse til virksomhet som ellers er forbudt i henhold til FNs sikkerhetsrådsresolusjon 1718 (2006), 1874 (2009), 2087 (2013), 2094 (2013), 2270 (2016), 2321 (2016), 2356 (2017), 2371 (2017), 2375 (2017) eller 2397 (2017) dersom Sanksjonskomiteen i hvert enkelt tilfelle har fastslått at virksomheten er nødvendig for å legge til rette for internasjonale og ikke-statlige organisasjoners bistands- og nødhjelpsarbeid i Nord-Korea til beste for den nordkoreanske sivilbefolkningen eller av hensyn til andre formål som er forenlige med målene i disse resolusjonene.
+1\. Uavhengig av artikkel 34 nr. 10 kan medlemsstatenes kompetente myndigheter gi tillatelse til virksomhet som ellers er forbudt i henhold til FNs sikkerhetsrådsresolusjon 1718 (2006), 1874 (2009), 2087 (2013), 2094 (2013), 2270 (2016), 2321 (2016), 2356 (2017), 2371 (2017), 2375 (2017) eller 2397 (2017) dersom Sanksjonskomiteen i hvert enkelt tilfelle har fastslått at virksomheten er nødvendig for å legge til rette for internasjonale og ikke-statlige organisasjoners bistands- og nødhjelpsarbeid i Nord-Korea til beste for den nordkoreanske sivilbefolkningen eller av hensyn til andre formål som er forenlige med målene i disse resolusjonene.
 
-2. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1.
+2\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1.
 
 ### Artikkel 45a
 
-1. Med mindre noe annet er fastsatt i denne forordning, kan medlemsstatenes kompetente myndigheter gjøre unntak fra forbudene som følger av FNs sikkerhetsrådsresolusjon 1718 (2006), 1874 (2009), 2087 (2013), 2094 (2013), 2270 (2016), 2321 (2016), 2356 (2017), 2371 (2017), 2375 (2017) eller 2397 (2017), og i hvert enkelt tilfelle gi tillatelse til virksomhet som er nødvendig for at diplomatiske og konsulære stasjoner i Nord-Korea skal kunne fungere i henhold til Wien-konvensjonene av 1961 og 1963, eller for at internasjonale organisasjoner som har immunitet i henhold til folkeretten, skal kunne fungere i Nord-Korea.
+1\. Med mindre noe annet er fastsatt i denne forordning, kan medlemsstatenes kompetente myndigheter gjøre unntak fra forbudene som følger av FNs sikkerhetsrådsresolusjon 1718 (2006), 1874 (2009), 2087 (2013), 2094 (2013), 2270 (2016), 2321 (2016), 2356 (2017), 2371 (2017), 2375 (2017) eller 2397 (2017), og i hvert enkelt tilfelle gi tillatelse til virksomhet som er nødvendig for at diplomatiske og konsulære stasjoner i Nord-Korea skal kunne fungere i henhold til Wien-konvensjonene av 1961 og 1963, eller for at internasjonale organisasjoner som har immunitet i henhold til folkeretten, skal kunne fungere i Nord-Korea.
 
-2. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1.
+2\. Den berørte medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om alle tillatelser som gis i henhold til nr. 1.
 
 ### Artikkel 46
 
@@ -599,23 +602,23 @@ Kommisjonen har fullmakt tilå endre vedlegg I på grunnlag av informasjon fra m
 
 ### Artikkel 47
 
-1. Når FNs sikkerhetsråd eller Sanksjonskomiteen listefører en fysisk eller juridisk person, en enhet eller et organ, skal Rådet føre opp vedkommende person, enhet eller organ i vedlegg XIII og XIV.
+1\. Når FNs sikkerhetsråd eller Sanksjonskomiteen listefører en fysisk eller juridisk person, en enhet eller et organ, skal Rådet føre opp vedkommende person, enhet eller organ i vedlegg XIII og XIV.
 
-2. Når Rådet beslutter at en fysisk eller juridisk person, en enhet eller et organ skal omfattes av tiltakene omtalt i artikkel 34 nr. 1, 2 eller 3, eller at et fartøy skal listeføres i henhold til artikkel 43, skal vedlegg XV, XVI, XVII og XVIII endres tilsvarende.
+2\. Når Rådet beslutter at en fysisk eller juridisk person, en enhet eller et organ skal omfattes av tiltakene omtalt i artikkel 34 nr. 1, 2 eller 3, eller at et fartøy skal listeføres i henhold til artikkel 43, skal vedlegg XV, XVI, XVII og XVIII endres tilsvarende.
 
-3. Rådet skal meddele sin beslutning, herunder begrunnelsen for listeføringen, til den fysiske eller juridiske personen, enheten eller organet nevnt i nr. 1 og 2, enten direkte, dersom adressen er kjent, eller ved offentliggjøring av en kunngjøring som gir den fysiske eller juridiske personen, enheten eller organet anledning til å fremlegge merknader.
+3\. Rådet skal meddele sin beslutning, herunder begrunnelsen for listeføringen, til den fysiske eller juridiske personen, enheten eller organet nevnt i nr. 1 og 2, enten direkte, dersom adressen er kjent, eller ved offentliggjøring av en kunngjøring som gir den fysiske eller juridiske personen, enheten eller organet anledning til å fremlegge merknader.
 
-4. Dersom det fremsettes merknader eller fremlegges vesentlige nye bevis, skal Rådet ta beslutningen opp til fornyet behandling og informere den fysiske eller juridiske personen, enheten eller organet nevnt i nr. 1 og 2 om dette.
+4\. Dersom det fremsettes merknader eller fremlegges vesentlige nye bevis, skal Rådet ta beslutningen opp til fornyet behandling og informere den fysiske eller juridiske personen, enheten eller organet nevnt i nr. 1 og 2 om dette.
 
-5. Dersom FN beslutter å fjerne en fysisk eller juridisk person, en enhet eller et organ fra listen eller å endre opplysningene som identifiserer en fysisk eller juridisk person, en enhet eller et organ på listen, skal Rådet endre vedlegg XIII og XIV tilsvarende.
+5\. Dersom FN beslutter å fjerne en fysisk eller juridisk person, en enhet eller et organ fra listen eller å endre opplysningene som identifiserer en fysisk eller juridisk person, en enhet eller et organ på listen, skal Rådet endre vedlegg XIII og XIV tilsvarende.
 
 ### Artikkel 47a
 
-1. Vedlegg XV, XVI, XVII og XVIII skal gjennomgås med jevne mellomrom og minst hver tolvte måned.
+1\. Vedlegg XV, XVI, XVII og XVIII skal gjennomgås med jevne mellomrom og minst hver tolvte måned.
 
-2. Vedlegg XIII, XIV, XV, XVI, XVII og XVIII inneholder begrunnelsen for at de berørte personene, enhetene, organene og fartøyene er listeført.
+2\. Vedlegg XIII, XIV, XV, XVI, XVII og XVIII inneholder begrunnelsen for at de berørte personene, enhetene, organene og fartøyene er listeført.
 
-3. Vedlegg XIII, XIV, XV, XVI, XVII og XVIII inneholder også nødvendige opplysninger, der dette er tilgjengelig, for å identifisere de berørte fysiske eller juridiske personene, enhetene, organene og fartøyene. For fysiske personer kan dette omfatte navn, herunder dekknavn, fødselsdato og fødested, statsborgerskap, passnummer og identitetskortnummer, kjønn, adresse, dersom denne er kjent, og stilling eller yrke. For juridiske personer, enheter og organer kan dette omfatte navn, registreringsdato og -sted, registreringsnummer og forretningsadresse.
+3\. Vedlegg XIII, XIV, XV, XVI, XVII og XVIII inneholder også nødvendige opplysninger, der dette er tilgjengelig, for å identifisere de berørte fysiske eller juridiske personene, enhetene, organene og fartøyene. For fysiske personer kan dette omfatte navn, herunder dekknavn, fødselsdato og fødested, statsborgerskap, passnummer og identitetskortnummer, kjønn, adresse, dersom denne er kjent, og stilling eller yrke. For juridiske personer, enheter og organer kan dette omfatte navn, registreringsdato og -sted, registreringsnummer og forretningsadresse.
 
 ### Artikkel 48
 
@@ -623,17 +626,17 @@ Kommisjonen og medlemsstatene skal umiddelbart underrette hverandre om tiltak de
 
 ### Artikkel 49
 
-1. Medlemsstatene skal utnevne de kompetente myndigheter omtalt i denne forordning og identifisere dem på eller ved hjelp av nettsidene oppført i vedlegg I.
+1\. Medlemsstatene skal utnevne de kompetente myndigheter omtalt i denne forordning og identifisere dem på eller ved hjelp av nettsidene oppført i vedlegg I.
 
-2. Medlemsstatene skal umiddelbart etter at denne forordning er trådt i kraft, underrette Kommisjonen om de kompetente myndighetene som er utpekt; Kommisjonen skal også underrettes om alle senere endringer.
+2\. Medlemsstatene skal umiddelbart etter at denne forordning er trådt i kraft, underrette Kommisjonen om de kompetente myndighetene som er utpekt; Kommisjonen skal også underrettes om alle senere endringer.
 
 ### Artikkel 50
 
-1. Med forbehold om at gjeldende regler om rapportering, konfidensialitet og taushetsplikt overholdes, skal fysiske og juridiske personer, enheter og organerumiddelbart gi opplysninger som kan fremme overholdelse av denne forordning, herunder opplysninger om konti og beløp som er frosset i samsvar med artikkel 34, til de kompetente myndighetene i medlemsstatene der de er bosatt eller befinner seg, og omgående gi opplysningene, direkte eller gjennom de berørte medlemsstatene, til Kommisjonen, ogsamarbeide med de kompetente myndighetene om en eventuell verifisering av disse opplysningene.
+1\. Med forbehold om at gjeldende regler om rapportering, konfidensialitet og taushetsplikt overholdes, skal fysiske og juridiske personer, enheter og organerumiddelbart gi opplysninger som kan fremme overholdelse av denne forordning, herunder opplysninger om konti og beløp som er frosset i samsvar med artikkel 34, til de kompetente myndighetene i medlemsstatene der de er bosatt eller befinner seg, og omgående gi opplysningene, direkte eller gjennom de berørte medlemsstatene, til Kommisjonen, ogsamarbeide med de kompetente myndighetene om en eventuell verifisering av disse opplysningene.
 
-2. Alle tilleggsopplysninger Kommisjonen mottar direkte, skal omgående stilles til rådighet for den berørte medlemsstaten.
+2\. Alle tilleggsopplysninger Kommisjonen mottar direkte, skal omgående stilles til rådighet for den berørte medlemsstaten.
 
-3. Alle opplysninger som gis eller mottas i henhold til denne artikkel, skal benyttes bare til det formål de gis eller mottas for.
+3\. Alle opplysninger som gis eller mottas i henhold til denne artikkel, skal benyttes bare til det formål de gis eller mottas for.
 
 ### Artikkel 51
 
@@ -645,25 +648,25 @@ Det er forbudt forsettlig å delta i virksomhet som har som formål eller virkni
 
 ### Artikkel 53
 
-1. Ingen krav skal imøtekommes i tilknytning til kontrakter eller transaksjoner der gjennomføringen er påvirket, direkte eller indirekte, helt eller delvis, av tiltakene som pålegges gjennom denne forordning, herunder erstatningskrav eller andre krav av denne typen, som krav om kompensasjon eller krav i henhold til en garanti, særlig krav om forlengelse eller innfrielse av en obligasjon, en garanti eller motgaranti, særlig finansielle garantier eller motgarantier, uansett form, dersom kravene fremsettes avlisteførte personer, enheter eller organer oppført i vedlegg XIII, XV, XVI eller XVII eller eiere av fartøyer oppført i vedlegg XIV eller vedlegg XVIII,andre nordkoreanske personer, enheter eller organer, herunder Nord-Koreas regjering, offentlige organer, foretak og etater,personer, enheter eller organer som handler gjennom eller på vegne av en av personene, enhetene eller organene omtalt i bokstav a) og b).
+1\. Ingen krav skal imøtekommes i tilknytning til kontrakter eller transaksjoner der gjennomføringen er påvirket, direkte eller indirekte, helt eller delvis, av tiltakene som pålegges gjennom denne forordning, herunder erstatningskrav eller andre krav av denne typen, som krav om kompensasjon eller krav i henhold til en garanti, særlig krav om forlengelse eller innfrielse av en obligasjon, en garanti eller motgaranti, særlig finansielle garantier eller motgarantier, uansett form, dersom kravene fremsettes avlisteførte personer, enheter eller organer oppført i vedlegg XIII, XV, XVI eller XVII eller eiere av fartøyer oppført i vedlegg XIV eller vedlegg XVIII,andre nordkoreanske personer, enheter eller organer, herunder Nord-Koreas regjering, offentlige organer, foretak og etater,personer, enheter eller organer som handler gjennom eller på vegne av en av personene, enhetene eller organene omtalt i bokstav a) og b).
 
-2. Oppfyllelsen av en kontrakt eller gjennomføringen av en transaksjon anses å være påvirket av tiltakene som pålegges gjennom denne forordning, når kravets eksistens eller innhold direkte eller indirekte er et resultat av disse tiltakene.
+2\. Oppfyllelsen av en kontrakt eller gjennomføringen av en transaksjon anses å være påvirket av tiltakene som pålegges gjennom denne forordning, når kravets eksistens eller innhold direkte eller indirekte er et resultat av disse tiltakene.
 
-3. I forbindelse med enhver sak som gjelder inndrivelse av et krav, påhviler det personen som forsøker å få kravet inndrevet, å bevise at innfrielsen av kravet ikke er forbudt etter bestemmelsen i nr. 1.
+3\. I forbindelse med enhver sak som gjelder inndrivelse av et krav, påhviler det personen som forsøker å få kravet inndrevet, å bevise at innfrielsen av kravet ikke er forbudt etter bestemmelsen i nr. 1.
 
-4. Denne artikkel berører ikke den rett personene, enhetene og organene omtalt i nr. 1 har til ved domstolene å få prøvet lovligheten av manglende oppfyllelse av kontraktsmessige forpliktelser i samsvar med denne forordning.
+4\. Denne artikkel berører ikke den rett personene, enhetene og organene omtalt i nr. 1 har til ved domstolene å få prøvet lovligheten av manglende oppfyllelse av kontraktsmessige forpliktelser i samsvar med denne forordning.
 
 ### Artikkel 54
 
-1. Dersom penger og formuesgoder fryses eller ikke stilles til rådighet og dette gjøres i god tro på det grunnlag at slike tiltak er i samsvar med denne forordning, skal dette ikke medføre noen form for ansvar for den fysiske eller juridiske personen, enheten eller organet som gjennomfører tiltaket, eller for deres ledere eller ansatte, med mindre det kan bevises at pengene eller formuesgodene ble frosset eller tilbakeholdt som følge av uaktsomhet.
+1\. Dersom penger og formuesgoder fryses eller ikke stilles til rådighet og dette gjøres i god tro på det grunnlag at slike tiltak er i samsvar med denne forordning, skal dette ikke medføre noen form for ansvar for den fysiske eller juridiske personen, enheten eller organet som gjennomfører tiltaket, eller for deres ledere eller ansatte, med mindre det kan bevises at pengene eller formuesgodene ble frosset eller tilbakeholdt som følge av uaktsomhet.
 
-2. Handlinger utført av fysiske eller juridiske personer, enheter eller organer skal ikke medføre noen form for ansvar for disse personene, enhetene eller organene dersom de ikke hadde kjennskap til eller rimelig grunn til å anta at deres handling ville være i strid med tiltakene fastsatt i denne forordning.
+2\. Handlinger utført av fysiske eller juridiske personer, enheter eller organer skal ikke medføre noen form for ansvar for disse personene, enhetene eller organene dersom de ikke hadde kjennskap til eller rimelig grunn til å anta at deres handling ville være i strid med tiltakene fastsatt i denne forordning.
 
 ### Artikkel 55
 
-1. Medlemsstatene skal fastsette regler for sanksjoner ved brudd på denne forordning og skal treffe alle nødvendige tiltak for å sikre at de blir gjennomført. Disse sanksjonene skal være effektive, forholdsmessige og forebyggende.
+1\. Medlemsstatene skal fastsette regler for sanksjoner ved brudd på denne forordning og skal treffe alle nødvendige tiltak for å sikre at de blir gjennomført. Disse sanksjonene skal være effektive, forholdsmessige og forebyggende.
 
-2. Medlemsstatene skal underrette Kommisjonen om disse reglene umiddelbart etter at denne forordning er trådt i kraft, og om alle senere endringer.
+2\. Medlemsstatene skal underrette Kommisjonen om disse reglene umiddelbart etter at denne forordning er trådt i kraft, og om alle senere endringer.
 
 ### Artikkel 56
 
@@ -677,6 +680,134 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 ### Vedlegg I
 Websites for information on the competent authorities referred to in Articles 2, 4, 6, 8, 14, 16, 19, 22, 25, 27, 29, 33, 34, 35, 36, 37, 40, 42, 44, 45, 49 and 50 and address for notifications to the European Commission
+
+*BELGIUM*
+
+[https://diplomatie.belgium.be/nl/Beleid/beleidsthemas/vrede_en _veiligheid/sancties](https://diplomatie.belgium.be/nl/Beleid/beleidsthemas/vrede_en_veiligheid/sancties)
+
+[https://diplomatie.belgium.be/fr/politique/themes_politiq ues/paix_et_securite/sanctions](https://diplomatie.belgium.be/fr/politique/themes_politiques/paix_et_securite/sanctions)
+
+[https://diplomatie.belgium.be/en/policy/policy_areas/peace_and_ security/sanctions](https://diplomatie.belgium.be/en/policy/policy_areas/peace_and_security/sanctions)
+
+*BULGARIA*
+
+[http://www.mfa.bg/en/pages/135/index.html](https://www.mfa.bg/en/pages/135/index.html)
+
+*CZECH REPUBLIC*
+
+[www.financnianalytickyurad.cz/mezinarodni-sankce.html](https://www.financnianalytickyurad.cz/mezinarodni-sankce.html)
+
+*DENMARK*
+
+[http://um.dk/da/Udenrigspolitik/folkeretten/sanktioner/](https://um.dk/da//Udenrigspolitik/folkeretten/sanktioner/)
+
+*GERMANY*
+
+[http://www.bmwi.de/DE/Themen/Aussenwirtschaft/aussenwirtscha ftsrecht,did=404888.html](https://www.bmwi.de/DE/Themen/Aussenwirtschaft/aussenwirtschaftsrecht,did=404888.html)
+
+*ESTONIA*
+
+[http://www.vm.ee/est/kat_622/](https://www.vm.ee/est/kat_622/)
+
+*IRELAND*
+
+[http://www.dfa.ie/home/index.aspx?id=28519](https://www.dfa.ie/home/index.aspx?id=28519)
+
+*GREECE*
+
+[http://www.mfa.gr/en/foreign-policy/global-issues/international-sa nctions.html](https://www.mfa.gr/en/foreign-policy/global-issues/international-sanctions.html)
+
+*SPAIN*
+
+[http://www.exteriores.gob.es/Portal/en/PoliticaExteriorCSI_OCIoOSIERCIAL.AXSGOSadesRiesgos/Paginas/SancionesInternacionales.aspc](https://www.exteriores.gob.es/Portal/en/PoliticaExteriorCooperacion/GlobalizacionOportunidadesRiesgos/Paginas/SancionesInternacionales.aspx)
+
+*FRANCE*
+
+[http://www.diplomatie.gouv.fr/fr/autorites-sanctions/](https://www.diplomatie.gouv.fr/fr/autorites-sanctions/)
+
+*CROATIA*
+
+[http://www.mvep.hr/sankcije](https://www.mvep.hr/sankcije)
+
+*ITALY*
+
+[http://www.esteri.it/MAE/IT/Politica_Europea/Deroghe.htm](https://www.esteri.it/MAE/IT/Politica_Europea/Deroghe.htm)
+
+*CYPRUS*
+
+[http://www.mfa.gov.cy/sanctions](https://www.mfa.gov.cy/sanctions)
+
+*LATVIA*
+
+[http://www.mfa.gov.lv/en/security/4539](https://www.mfa.gov.lv/en/security/4539)
+
+*LITHUANIA*
+
+[http://www.urm.lt/sanctions](https://www.urm.lt/sanctions)
+
+*LUXEMBOURG*
+
+[http://www.mae.lu/sanctions](https://www.mae.lu/sanctions)
+
+*HUNGARY*
+
+[http://www.kormany.hu/download/9/2a/f0000/EU%20szankci%C3%B3s%20t%C3%A1j%C3%A9koztat%C3%B3_20170214_final.pdf](https://www.kormany.hu/download/9/2a/f0000/EU%20szankci%C3%B3s%20t%C3%A1j%C3%A9koztat%C3%B3_20170214_final.pdf)
+
+*MALTA*
+
+https://www.gov.mt/en/Government/Government%20of%20Malta/Ministries%20and%20Entities/Officially%20Appointed%20Bodies/Pages/Boards/Sanctions-Monitoring-Board-.aspx
+
+*NETHERLANDS*
+
+[https://www.rijksoverheid.nl/onderwerpen/internationale-sancties](https://www.rijksoverheid.nl/onderwerpen/internationale-sancties)
+
+*AUSTRIA*
+
+[http://www.bmeia.gv.at/view.php3?f_id=12750&LNG=en&version=](https://www.bmeia.gv.at/view.php3?f_id=12750&LNG=en&version=)
+
+*POLAND*
+
+[http://www.msz.gov.pl](https://www.msz.gov.pl)
+
+*PORTUGAL*
+
+[http://www.portugal.gov.pt/pt/ministerios/mne/quero-saber-mais/sobreMERW_UsvSVSstivas/medidas-restritivas.aspx](https://www.portugal.gov.pt/pt/ministerios/mne/quero-saber-mais/sobre-o-ministerio/medidas-restritivas/medidas-restritivas.aspx)
+
+*ROMANIA*
+
+[http://www.mae.ro/node/1548](https://www.mae.ro/node/1548)
+
+*SLOVENIA*
+
+[http://www.mzz.gov.si/si/omejevalni_ukrepi](https://www.mzz.gov.si/si/omejevalni_ukrepi)
+
+*SLOVAKIA*
+
+[https://www.mzv.sk/europske_zalezitosti/europske_politiky-sankcie_eu](https://www.mzv.sk/europske_zalezitosti/europske_politiky-sankcie_eu)
+
+*FINLAND*
+
+[http://formin.finland.fi/kvyhteistyo/pakotteet](https://formin.finland.fi/kvyhteistyo/pakotteet)
+
+*SWEDEN*
+
+[http://www.ud.se/sanktioner](https://www.ud.se/sanktioner)
+
+*UNITED KINGDOM*
+
+[https://www.gov.uk/sanctions-embargoes-and-restrictions](https://www.gov.uk/sanctions-embargoes-and-restrictions)
+
+*Address for notifications to the European Commission:*
+
+European Commission
+
+Service for Foreign Policy Instruments (FPI)
+
+EEAS 07/99
+
+B-1049 Brussels, Belgium
+
+E-mail: [relex-sanctions@ec.europa.eu](mailto:relex-sanctions@ec.europa.eu)
 
 ### Vedlegg II
 Goods and technology referred to in point (a) of Article 3(1) and in Article 7
@@ -697,11 +828,17 @@ Definitions of terms between 'single quotation marks' are given in a technical n
 
 Definitions of terms between 'double quotation marks' can be found in Annex I to Regulation [(EC) No 428/2009](eu/32009r0428*).
 
+*GENERAL NOTES*
+
 The object of the prohibitions contained in this Annex should not be defeated by the export of any non-prohibited goods (including plant) containing one or more prohibited components when the prohibited component or components are the principal element of the goods and can feasibly be removed or used for other purposes.
 
 N.B.: In judging whether the prohibited component or components are to be considered the principal element, it is necessary to weigh the factors of quantity, value and technological know-how involved and other special circumstances which might establish the prohibited component or components as the principal element of the goods being procured.
 
 Goods specified in this Annex include both new and used goods.
+
+*GENERAL TECHNOLOGY NOTE (GTN)*
+
+*(To be read in conjunction with Part C.)*
 
 The sale, supply, transfer or export of 'technology' which is 'required' for the 'development', 'production' or 'use' of goods the sale, supply, transfer or export of which is prohibited in Part A (Goods) below, is prohibited in accordance with the provisions of Part B.
 
@@ -713,19 +850,173 @@ Prohibitions on 'technology' transfer do not apply to information 'in the public
 
 ### A. GOODS
 
+###### NUCLEAR MATERIALS, FACILITIES, AND EQUIPMENT
+
+II.A0. Goods
+
+| *No* | *Description* | *Related item from Annex I to Regulation [(EC) No 428/2009](eu/32009r0428*)* |
+| --- | --- | --- |
+| II.A0.001 | Hollow cathode lamps as follows:<br>a. Iodine hollow cathode lamps with windows in pure silicon or quartz<br>b. Uranium hollow cathode lamp |  |
+| II.A0.002 | Faraday isolators in the wavelength range 500 nm–650 nm. |  |
+| II.A0.003 | Optical gratings in the wavelength range 500 nm–650 nm. |  |
+| II.A0.004 | Optical fibres in the wavelength range 500 nm–650 nm coated with anti-reflecting layers in the wavelength range 500 nm–650 nm and having a core diameter greater than 0,4 mm but not exceeding 2 mm. |  |
+| II.A0.005 | Nuclear reactor vessel components and testing equipment, other than those specified in 0A001, as follows:<br>a. Seals;<br>b. Internal components;<br>c. Sealing, testing and measurement equipment. | 0A001 |
+| II.A0.006 | Nuclear detection systems, other than those specified in 0A001.j. or 1A004.c., for detection, identification or quantification of radioactive materials or radiation of nuclear origin and specially designed components thereof.<br>N.B: For personal equipment refer to I.A1.004 below. | 0A001.j.<br>1A004.c. |
+| II.A0.007 | Bellows-sealed valves other than those specified in 0B001.c.6., 2A226 or 2B350, made of aluminium alloy or stainless steel type 304, 304L or 316L. | 0B001.c.6.<br>2A226<br>2B350 |
+| II.A0.008 | Laser mirrors, other than those specified in 6A005.e., consisting of substrates having a thermal expansion coefficient of 10-6 K-1 or less at 20 °C (e.g. fused silica or sapphire).<br>This item does not cover optical systems specially designed for astronomical applications, except if the mirrors contain fused silica. | 0B001.g.5.<br>6A005.e. |
+| II.A0.009 | Laser lenses, other than those specified in 6A005.e.2, consisting of substrates having a thermal expansion coefficient of 10-6 K-1 or less at 20 °C (e.g. fused silica). | 0B001.g.<br>6A005.e.2. |
+| II.A0.010 | Pipes, piping, flanges, fittings made of, or lined with nickel, or nickel alloy containing more than 40 % nickel by weight, other than those specified in 2B350.h.1. | 2B350 |
+| II.A0.011 | Vacuum pumps other than those specified in 0B002.f.2. or 2B231, as follows:<br>a. Turbo-molecular pumps having a flow-rate equal to or greater than 400 l/s;<br>b. Roots type vacuum roughing pumps having a volumetric aspiration flow-rate greater than 200m3 /h;<br>c. Bellows-sealed, scroll, dry compressor, and bellows-sealed, scroll, dry vacuum pumps. | 0B002.f.2.<br>2B231 |
+| II.A0.012 | Shielded enclosures for the manipulation, storage and handling of radioactive substances (hot cells). | 0B006 |
+| II.A0.013 | 'Natural uranium' or 'depleted uranium' or thorium in the form of metal, alloy, chemical compound or concentrate and any other material containing one or more of the foregoing, other than those specified in 0C001. | 0C001 |
+| II.A0.014 | Detonation chambers having a capacity of explosion absorption of more than 2,5 kg TNT equivalent. |  |
+
+###### SPECIAL MATERIALS AND RELATED EQUIPMENT
+
+II.A1.Goods
+
+| *No* | *Description* | *Related item from Annex I to Regulation [(EC) No 428/2009](eu/32009r0428*)* |
+| --- | --- | --- |
+| II.A1.001 | Bis(2-ethylhexyl) phosphoric acid (HDEHP or D2HPA) Chemical Abstract Number (CAS): [CAS 298-07-7] solvent in any quantity, with a purity greater than 90 %. |  |
+| II.A1.002 | Fluorine gas CAS: [7782-41-4], with a purity of at least 95 %. |  |
+| II.A1.003 | Ring-shaped seals and gaskets, having an inner diameter of 400 mm or less, made of any of the following materials:<br>a. Copolymers of vinylidene fluoride having 75 % or more beta crystalline structure without stretching;<br>b. Fluorinated polyimides containing 10 % by weight or more of combined fluorine;<br>c. Fluorinated phosphazene elastomers containing 30 % by weight or more of combined fluorine;<br>d. Polychlorotrifluoroethylene (PCTFE, e.g. Kel-F ®);<br>e. Fluoro-elastomers (e.g. Viton ®, Tecnoflon ®);<br>f. Polytetrafluoroethylene (PTFE). | 1A001 |
+| II.A1.004 | Personal equipment for detecting radiation of nuclear origin, other than that specified in 1A004.c., including personal dosimeters. | 1A004.c. |
+| II.A1.005 | Electrolytic cells for fluorine production, other than those specified in 1B225, with an output capacity greater than 100 g of fluorine per hour. | 1B225 |
+| II.A1.006 | Catalysts, other than those specified in 1A225 or 1B231, containing platinum, palladium or rhodium, usable for promoting the hydrogen isotope exchange reaction between hydrogen and water for the recovery of tritium from heavy water or for the production of heavy water. | 1A225<br>1B231 |
+| II.A1.007 | Aluminium and its alloys, other than those specified in 1C002.b.4. or 1C202.a., in crude or semi-fabricated form having either of the following characteristics:<br>a. 'Capable of' an ultimate tensile strength of 460 MPa or more at 293 K (20 °C); or<br>b. Having a tensile strength of 415 MPa or more at 298 K (25 °C).<br>The phrase alloys 'capable of' encompasses alloys before or after heat treatment. | 1C002.b.4.<br>1C202.a. |
+| II.A1.008 | Magnetic metals, of all types and of whatever form, other than those specified in 1C003.a. having an 'initial relative permeability' of 120 000 or more and a thickness between 0,05 mm and 0,1 mm.<br>Measurement of 'initial relative permeability' must be performed on fully annealed materials. | 1C003.a. |
+| II.A1.009 | 'Fibrous or filamentary materials' or prepregs, other than those specified in 1C010.a., 1C010.b., 1C210.a. or 1C210.b., as follows:<br>a. Aramid 'fibrous or filamentary materials' having either of the following characteristics:<br>1.A 'specific modulus' exceeding 10 × 106 m; or<br>2.A 'specific tensile strength' exceeding 17 × 104 m;<br>b. Glass 'fibrous or filamentary materials' having either of the following characteristics:<br>1.A 'specific modulus' exceeding 3,18 × 106 m; or<br>2.A 'specific tensile strength' exceeding 76,2 × 103 m;<br>c. Thermoset resin-impregnated continuous 'yarns', 'rovings', 'tows' or 'tapes' with a width of 15 mm or less (once prepregs), made from glass 'fibrous or filamentary materials' other than those specified in I.A1.010.a. below;<br>d. Carbon 'fibrous or filamentary materials';<br>e. Thermoset resin-impregnated continuous 'yarns', 'rovings', 'tows', or 'tapes', made from carbon 'fibrous or filamentary materials';<br>f. Polyacrylonitrile (PAN) continuous 'yarns', 'rovings', 'tows' or 'tapes';<br>g. Para-aramid 'fibrous or filamentary materials' (Kevlar® and other Kevlar®-like fibres). | 1C010.a.<br>1C010.b.<br>1C210.a.<br>1C210.b. |
+| II.A1.010 | Resin-impregnated or pitch-impregnated fibres (prepregs), metal or carbon-coated fibres (preforms) or 'carbon fibre preforms', as follows:<br>a. Made from 'fibrous or filamentary materials' specified in I.A1.009 above;<br>b. Epoxy resin 'matrix' impregnated carbon 'fibrous or filamentary materials' (prepregs), specified in 1C010.a., 1C010.b. or 1C010.c., for the repair of aircraft structures or laminates, of which the size of individual sheets does not exceed 50 cm × 90 cm;<br>c. Prepregs specified in 1C010.a., 1C010.b. or 1C010.c., when impregnated with phenolic or epoxy resins having a glass transition temperature (Tg) less than 433 K (160 °C) and a cure temperature lower than the glass transition temperature. | 1C010<br>1C210 |
+| II.A1.011 | Reinforced silicon carbide ceramic composites usable for nose tips, re-entry vehicles, nozzle flaps, usable in 'missiles', other than those specified in 1C107. | 1C107 |
+| II.A1.012 | Not used. |  |
+| II.A1.013 | Tantalum, tantalum carbide, tungsten, tungsten carbide and alloys thereof, other than those specified in 1C226, having both of the following characteristics:<br>a. In forms having a hollow cylindrical or spherical symmetry (including cylinder segments) with an inside diameter between 50 mm and 300 mm; and<br>b. A mass greater than 5 kg. | 1C226 |
+| II.A1.014 | 'Elemental powders' of cobalt, neodymium or samarium or alloys or mixtures thereof containing at least 20 % by weight of cobalt, neodymium or samarium, with a particle size less than 200 µm.<br>'Elemental powder' means a high purity powder of one element. |  |
+| II.A1.015 | Pure tributyl phosphate (TBP) [CAS No 126-73-8] or any mixture having a TBP content of more than 5 % by weight. |  |
+| II.A1.016 | Maraging steel, other than those specified by 1C116 or 1C216.<br>1. The phrase maraging steel 'capable of' encompasses maraging steel before or after heat treatment.<br>2. Maraging steels are iron alloys generally characterised by high nickel, very low carbon content and the use of substitutional elements or precipitates to produce strengthening and age-hardening of the alloy. | 1C116<br>1C216 |
+| II.A1.017 | Metals, metal powders and material as follows:<br>a. Tungsten and tungsten alloys, other than those specified in 1C117, in the form of uniform spherical or atomized particles of 500 µm (micrometre) diameter or less with a tungsten content of 97 % by weight or more;<br>b. Molybdenum and molybdenum alloys, other than those specified in 1C117, in the form of uniform spherical or atomized particles of 500 µm diameter or less with a molybdenum content of 97 % by weight or more;<br>c. Tungsten materials in the solid form, other than those specified in 1C226 having material compositions as follows:<br>1. Tungsten and alloys containing 97 % by weight or more of tungsten;<br>2. Copper infiltrated tungsten containing 80 % by weight or more of tungsten; or<br>3. Silver infiltrated tungsten containing 80 % by weight or more of tungsten. | 1C117<br>1C226 |
+| II.A1.018 | Soft magnetic alloys, other than those specified in 1C003, having a chemical composition as follows:<br>a. Iron content between 30 % and 60 %; and<br>b. Cobalt content between 40 % and 60 %. | 1C003 |
+| II.A1.019 | Not used. |  |
+| II.A1.020 | Graphite, other than that specified in 0C004 or 1C107.a., designed or specified for use in Electrical Discharge Machining (EDM) machines. | 0C004<br>1C107.a. |
+| II.A1.021 | Steel alloys in sheet or plate form, having any of the following characteristics:<br>a. Steel alloys 'capable of' ultimate tensile strength of 1 200 MPa or more, at 293 K (20 °C); or<br>b. Nitrogen-stabilised duplex stainless steel.<br>Note: the phrase alloys 'capable of' encompasses alloys before or after heat treatment.<br>Technical note: 'nitrogen-stabilised duplex stainless steel' has a two-phase microstructure consisting of grains of ferritic and austenitic steel with the addition of nitrogen to stabilise the microstructure. | 1C116<br>1C216 |
+| II.A1.022 | Carbon-Carbon Composite material. | 1A002.b.1 |
+| II.A1.023 | Nickel alloys in crude or semi-fabricated form, containing 60 % by weight or more nickel. | 1C002.c.1.a |
+| II.A1.024 | Titanium alloys in sheet or plate form 'capable of' an ultimate tensile strength of 900 MPa or more at 293 K (20 °C).<br>Note: the phrase alloys 'capable of' encompasses alloys before or after heat treatment. | 1C002.b.3 |
+| II.A1.025 | Titanium alloys, other than those specified in 1C002 and 1C202. | 1C002<br>1C202 |
+| II.A1.026 | Zirconium and zirconium alloys, other than those specified in 1C011, 1C111 and 1C234. | 1C011<br>1C111<br>1C234 |
+| II.A1.027 | Explosive materials other than those specified in 1C239, or materials or mixtures containing more than 2 % by weight of such explosive materials, with a crystalline density higher than 1,5 g/cm3 and with a detonation speed higher than 5 000 m/s. | 1C239 |
+
+###### MATERIALS PROCESSING
+
+II.A2. Goods
+
+| *No* | *Description* | *Related item from Annex I to Regulation [(EC) No 428/2009](eu/32009r0428*)* |
+| --- | --- | --- |
+| II.A2.001 | Vibration test systems, equipment and components thereof, other than those specified in 2B116:<br>a. Vibration test systems employing feedback or closed loop techniques and incorporating a digital controller, capable of vibrating a system at an acceleration equal to or greater than 0,1 g rms between 0,1 Hz and 2 kHz and imparting forces equal to or greater than 50 kN, measured 'bare table';<br>b. Digital controllers, combined with specially designed vibration test 'software', with a 'real-time control bandwidth' greater than 5 kHz designed for use with vibration test systems specified in a.;<br>'Real-time control bandwidth' is defined as the maximum rate at which a controller can execute complete cycles of sampling, processing data and transmitting control signals.<br>c. Vibration thrusters (shaker units), with or without associated amplifiers, capable of imparting a force equal to or greater than 50 kN, measured 'bare table', and usable in vibration test systems specified in a.;<br>d. Test piece support structures and electronic units designed to combine multiple shaker units in a system capable of providing an effective combined force equal to or greater than 50 kN, measured 'bare table', and usable in vibration systems specified in a.<br>'bare table' means a flat table, or surface, with no fixture or fittings. | 2B116 |
+| II.A2.002 | Machine tools, other than those specified in 2B001 or 2B201 and any combination thereof, for removing (or cutting) metals, ceramics, or 'composites' that, according to the manufacturer's technical specification, can be equipped with electronic devices for 'numerical control', having positioning accuracies of equal to or less (better) than 30 µm according to ISO 230/2 (1988) 1 or national equivalents along any linear axis. | 2B001<br>2B201 |
+| II.A2.002a | Components and numerical controls, specially designed for machine tools specified in 2B001, 2B201 or I.A2.002 above. |  |
+| II.A2.003 | Balancing machines and related equipment as follows:<br>a. Balancing machines, designed or modified for dental or other medical equipment, having all the following characteristics:<br>1. Not capable of balancing rotors/assemblies having a mass greater than 3 kg;<br>2. Capable of balancing rotors/assemblies at speeds greater than 12 500 rpm;<br>3. Capable of correcting unbalance in two planes or more; and<br>4. Capable of balancing to a residual specific unbalance of 0,2 g × mm per kg of rotor mass;<br>b. 'Indicator heads' designed or modified for use with machines specified in a. above.<br>'Indicator heads' are sometimes known as balancing instrumentation. | 2B119 |
+| II.A2.004 | Remote manipulators that can be used to provide remote actions in radiochemical separation operations or hot cells, other than those specified in 2B225, having either of the following characteristics:<br>a. A capability of penetrating a hot cell wall of 0,3 m or more (through the wall operation); or<br>b. A capability of bridging over the top of a hot cell wall with a thickness of 0,3 m or more (over the wall operation).<br>Remote manipulators provide translation of human operator actions to a remote operating arm and terminal fixture. They may be of master/slave type or operated by joystick or keypad. | 2B225 |
+| II.A2.005 | Controlled atmosphere heat treatment furnaces or oxidation furnaces capable of operation at temperatures above 400 °C.<br>This item does not cover tunnel kilns with roller or car conveyance, tunnel kilns with conveyor belt, pusher type kilns or shuttle kilns, specially designed for the production of glass, tableware ceramics or structural ceramics. | 2B226<br>2B227 |
+| II.A2.006 | Not used. |  |
+| II.A2.007 | 'Pressure transducers', other than those defined in 2B230, capable of measuring absolute pressures at any point in the range 0 to 200 kPa and having both of the following characteristics:<br>a. Pressure sensing elements made of or protected by 'Materials resistant to corrosion by uranium hexafluoride (UF6)'; and<br>b. Having either of the following characteristics:<br>1. A full scale of less than 200 kPa and an 'accuracy' of better than ± 1 % of full scale; or<br>2. A full scale of 200 kPa or greater and an 'accuracy' of better than 2 kPa.<br>For the purposes of 2B230 'accuracy' includes non-linearity, hysteresis and repeatability at ambient temperature. | 2B230 |
+| II.A2.008 | Liquid-liquid contacting equipment (mixer-settlers, pulsed columns, plate columns, centrifugal contactors); and liquid distributors, vapour distributors or liquid collectors designed for such equipment, where all surfaces that come in direct contact with the chemical(s) being processed are made from any of the following materials:<br>a. Alloys with more than 25 % nickel and 20 % chromium by weight;<br>b. Fluoropolymers;<br>c. Glass (including vitrified or enamelled coating or glass lining);<br>d. Graphite or 'carbon graphite';<br>e. Nickel or alloys with more than 40 % nickel by weight;<br>f. Tantalum or tantalum alloys;<br>g. Titanium or titanium alloys;<br>h. Zirconium or zirconium alloys; or<br>i. Stainless steel.<br>'Carbon graphite' is a composition consisting of amorphous carbon and graphite, in which the graphite content is 8 % or more by weight. | 2B350.e. |
+| II.A2.009 | Industrial equipment and components, other than those specified in 2B350.d., as follows:<br>Heat exchangers or condensers with a heat transfer surface area greater than 0,05m2 , and less than 30m2 ; and tubes, plates, coils or blocks (cores) designed for such heat exchangers or condensers, where all surfaces that come in direct contact with the fluid(s) are made from any of the following materials:<br>a. Alloys with more than 25 % nickel and 20 % chromium by weight;<br>b. Fluoropolymers;<br>c. Glass (including vitrified or enamelled coating or glass lining);<br>d. Graphite or 'carbon graphite';<br>e. Nickel or alloys with more than 40 % nickel by weight;<br>f. Tantalum or tantalum alloys;<br>g. Titanium or titanium alloys;<br>h. Zirconium or zirconium alloys;<br>i. Silicon carbide;<br>j. Titanium carbide; or<br>k. Stainless steel.<br>This item does not cover vehicle radiators.<br>The materials used for gaskets and seals and other implementation of sealing functions do not determine the status of control of the heat exchanger. | 2B350.d. |
+| II.A2.010 | Multiple-seal, and seal-less pumps, other than those specified in 2B350.i, suitable for corrosive fluids, or vacuum pumps and casings (pump bodies), preformed casing liners, impellers, rotors or jet pump nozzles designed for such pumps, in which all surfaces that come in direct contact with the chemical(s) being processed are made from any of the following materials:<br>a. Alloys with more than 25 % nickel and 20 % chromium by weight;<br>b. Ceramics;<br>c. Ferrosilicon;<br>d. Fluoropolymers;<br>e. Glass (including vitrified or enamelled coatings or glass lining);<br>f. Graphite or 'carbon graphite';<br>g. Nickel or alloys with more than 40 % nickel by weight;<br>h. Tantalum or tantalum alloys;<br>i. Titanium or titanium alloys;<br>j. Zirconium or zirconium alloys;<br>k. Niobium (columbium) or niobium alloys;<br>l. Stainless steel;<br>m. Aluminium alloys; or<br>n. Rubber.<br>The materials used for gaskets and seals and other implementations of sealing functions do not determine the status of control of the pump. The term 'rubber' encompasses all kinds of natural and synthetic rubbers. | 2B350.i. |
+| II.A2.011 | 'Centrifugal separators', other than those specified in 2B352.c., capable of continuous separation without the propagation of aerosols and manufactured from:<br>a. Alloys with more than 25 % nickel and 20 % chromium by weight;<br>b. Fluoropolymers;<br>c. Glass (including vitrified or enamelled coating or glass lining);<br>d. Nickel or alloys with more than 40 % nickel by weight;<br>e. Tantalum or tantalum alloys;<br>f. Titanium or titanium alloys; or<br>g. Zirconium or zirconium alloys.<br>'Centrifugal separators' include decanters. | 2B352.c. |
+| II.A2.012 | Sintered metal filters, other than those specified in 2B352.d., made of nickel or nickel alloy with more than 40 % nickel by weight. | 2B352.d. |
+| II.A2.013 | Spin-forming machines and flow-forming machines, other than those specified by 2B009, 2B109 or 2B209 and specially designed components therefor.<br>For the purpose of this item, machines combining the functions of spin-forming and flow-forming are regarded as flow-forming machines. | 2B009<br>2B109<br>2B209 |
+| II.A2.014 | Equipment and reagents, other than those specified in 2B350 or 2B352, as follows:<br>a. Fermenters capable of cultivation of pathogenic 'micro-organisms' or viruses, or capable of toxin production, without the propagation of aerosols, and having a total capacity of 10 l or more;<br>b. Agitators for fermenters as mentioned in a. above;<br>Fermenters include bioreactors, chemostats and continuous-flow systems.<br>c. Laboratory equipment as follows:<br>1. Polymerase chain reaction (PCR)-equipment<br>2. Genetic sequencing equipment;<br>3. Genetic synthesizers;<br>4. Electroporation equipment;<br>5. Specific reagents associated with the equipment in I.A2.014.c. numbers 1. to 4. above;<br>d. Filters, micro-filters, nano-filters or ultra-filters usable in industrial or laboratory biology for continuous filtering, except filters specially designed or modified for medical or clear water production purposes and to be used in the framework of EU or UN officially supported projects;<br>e. Ultracentrifuges, rotors and adaptors for ultracentrifuges;<br>f. Freeze drying equipment. | 2B350<br>2B352 |
+| II.A2.015 | Equipment, other than that specified in 2B005, 2B105 or 3B001.d., for the deposition of metallic overlays as follows, and specially designed components and accessories therefor:<br>a. Chemical vapour deposition (CVD) production equipment;<br>b. Physical vapour deposition (PVD) production equipment;<br>c. Production equipment for deposition by means of inductive or resistance heating. | 2B005<br>2B105<br>3B001.d. |
+| II.A2.016 | Open tanks or containers, with or without agitators, with a total internal (geometric) volume greater than 0,5m3 (500 litres), where all surfaces that come in direct contact with the chemical(s) being processed or contained are made from any of the following materials:<br>a. Alloys with more than 25 % nickel and 20 % chromium by weight;<br>b. Fluoropolymers;<br>c. Glass (including vitrified or enamelled coatings or glass lining);<br>d. Nickel or alloys with more than 40 % nickel by weight;<br>e. Tantalum or tantalum alloys;<br>f. Titanium or titanium alloys;<br>g. Zirconium or zirconium alloys;<br>h. Niobium (columbium) or niobium alloys;<br>i. Stainless steel;<br>j. Wood; or<br>k. Rubber.<br>The term 'rubber' encompasses all kinds of natural and synthetic rubbers. | 2B350 |
+
+1 Manufacturers calculating positioning accuracy in accordance with ISO 230/2 (1997) should consult the competent authorities of the Member State in which they are established.
+
+###### ELECTRONICS
+
+II.A3. Goods
+
+| *No* | *Description* | *Related item from Annex I to Regulation [(EC) No 428/2009](eu/32009r0428*)* |
+| --- | --- | --- |
+| II.A3.001 | High voltage direct current power supplies, other than those specified in 0B001.j.5. or 3A227, having both of the following characteristics:<br>a. Capable of continuously producing, over a time period of eight hours, 10 kV or more, with output power of 5 kW or more with or without sweeping; and<br>b. Current or voltage stability better than 0,1 % over a time period of four hours. | 0B001.j.5.<br>3A227 |
+| II.A3.002 | Mass spectrometers, other than those specified in 0B002.g. or 3A233, capable of measuring ions of 200 atomic mass units or more and having a resolution of better than 2 parts in 200, as follows, and ion sources therefor:<br>a. Inductively coupled plasma mass spectrometers (ICP/MS);<br>b. Glow discharge mass spectrometers (GDMS);<br>c. Thermal ionisation mass spectrometers (TIMS);<br>d. Electron bombardment mass spectrometers which have a source chamber constructed from, lined with or plated with 'materials resistant to corrosion by uranium hexafluoride UF6';<br>e. Molecular beam mass spectrometers having either of the following characteristics:<br>1. A source chamber constructed from, lined with or plated with stainless steel or molybdenum and equipped with a cold trap capable of cooling to 193 K (-80 °C) or less; or<br>2. A source chamber constructed from, lined with or plated with materials resistant to UF6;<br>f. Mass spectrometers equipped with a micro-fluorination ion source designed for actinides or actinide fluorides. | 0B002.g.<br>3A233 |
+| II.A3.003 | Frequency changers or generators, other than those specified by 0B001.b.13. or 3A225, having all of the following characteristics, and specially designed components and software therefor:<br>a. Multiphase output capable of providing a power of 40 W or greater;<br>b. Capable of operating in the frequency range between 600 and 2 000 Hz; and<br>c. Frequency control better (less) than 0,1 %.<br>1. Frequency changers are also known as converters, inverters, generators, electronic test equipment, AC power supplies, variable speed motor drives or variable frequency drives.<br>2. The functionality specified in this item may be met by certain equipment marketed as: electronic test equipment, AC power supplies, variable speed motor drives or variable frequency drives. | 0B001.b.13.<br>3A225 |
+| II.A3.004 | Spectrometers and diffractometers, designed for the indicative test or quantitative analysis of the elemental composition of metals or alloys without chemical decomposition of the material. |  |
+
+###### SENSORS AND LASERS
+
+II.A6. Goods
+
+| *No* | *Description* | *Related item from Annex I to Regulation [(EC) No 428/2009](eu/32009r0428*)* |
+| --- | --- | --- |
+| II.A6.001 | Yttrium aluminium garnet (YAG) rods. |  |
+| II.A6.002 | Optical equipment and components, other than those specified in 6A002 or 6A004.b. as follows:<br>Infrared optics in the wavelength range 9 µm–17 µm and components thereof, including cadmium telluride (CdTe) components. | 6A002<br>6A004.b. |
+| II.A6.003 | Wave front corrector systems, other than mirrors specified in 6A004.a., 6A005.e. or 6A005.f., for use with a laser beam having a diameter exceeding 4 mm, and specially designed components thereof, including control systems, phase front sensors and 'deformable mirrors' including bimorph mirrors. | 6A004.a.<br>6A005.e.<br>6A005.f. |
+| II.A6.004 | Argon ion 'lasers', other than those specified in 0B001.g.5., 6A005.a.6. and/or 6A205.a., having an average output power equal to or greater than 5 W. | 0B001.g.5.<br>6A005.a.6.<br>6A205.a. |
+| II.A6.005 | Semiconductor 'lasers', other than those specified in 0B001.g.5., 0B001.h.6. or 6A005.b., and components thereof, as follows:<br>a. Individual semiconductor 'lasers' with an output power greater than 200 mW each, in quantities larger than 100;<br>b. Semiconductor 'laser' arrays having an output power greater than 20 W.<br>1. Semiconductor 'lasers' are commonly called 'laser' diodes.<br>2. This item does not cover 'laser' diodes with a wavelength in the range 1,2 µm–2,0 µm. | 0B001.g.5.<br>0B001.h.6.<br>6A005.b. |
+| II.A6.006 | Tunable semiconductor 'lasers' and tunable semiconductor 'laser' arrays, other than those specified in 0B001.h.6. or 6A005.b., of a wavelength between 9 µm and 17 µm, as well as array stacks of semiconductor 'lasers' containing at least one tunable semiconductor 'laser' array of such wavelength.<br>Semiconductor 'lasers' are commonly called 'laser' diodes. | 0B001.h.6.<br>6A005.b. |
+| II.A6.007 | Solid state 'tunable''lasers', other than those specified in 0B001.g.5., 0B001.h.6. or 6A005.c.1., and specially designed components thereof, as follows:<br>a. Titanium-sapphire lasers;<br>b. Alexandrite lasers. | 0B001.g.5.<br>0B001.h.6.<br>6A005.c.1. |
+| II.A6.008 | Neodymium-doped (other than glass) 'lasers', other than those specified in 6A005.c.2.b., having an output wavelength greater than 1,0 µm but not exceeding 1,1 µm and output energy exceeding 10 J per pulse. | 6A005.c.2.b. |
+| II.A6.009 | Components of acousto-optics, as follows:<br>a. Framing tubes and solid-state imaging devices having a recurrence frequency equal to or exceeding 1 kHz;<br>b. Recurrence frequency supplies;<br>c. Pockels cells. | 6A203.b.4. |
+| II.A6.010 | Radiation-hardened cameras, or lenses thereof, other than those specified in 6A203.c., specially designed, or rated as radiation-hardened, to withstand a total radiation dose greater than 50 × 103 Gy (silicon) (5 × 106 rad (silicon)) without operational degradation.<br>The term Gy (silicon) refers to the energy in Joules per kilogram absorbed by an unshielded silicon sample when exposed to ionising radiation. | 6A203.c. |
+| II.A6.011 | Tunable pulsed dye laser amplifiers and oscillators, other than those specified in 0B001.g.5., 6A005 and or 6A205.c., having all of the following characteristics:<br>a. Operating at wavelengths between 300 nm and 800 nm;<br>b. An average output power greater than 10 W but not exceeding 30 W;<br>c. A repetition rate greater than 1 kHz; and<br>d. Pulse width less than 100 ns.<br>This item does not cover single mode oscillators. | 0B001.g.5.<br>6A005<br>6A205.c. |
+| II.A6.012 | Pulsed carbon dioxide 'lasers', other than those specified in, 0B001.h.6., 6A005.d. or 6A205.d., having all of the following characteristics:<br>a. Operating at wavelengths between 9 µm and 11 µm;<br>b. A repetition rate greater than 250 Hz;<br>c. An average output power greater than 100 W but not exceeding 500 W; and<br>d. Pulse width less than 200 ns. | 0B001.h.6.<br>6A005.d.<br>6A205.d. |
+| II.A6.013 | Lasers, other than those specified in 6A005 or 6A205. | 6A005<br>6A205 |
+
+###### NAVIGATION AND AVIONICS
+
+II.A7. Goods
+
+| *No* | *Description* | *Related item from Annex I to Regulation [(EC) No 428/2009](eu/32009r0428*)* |
+| --- | --- | --- |
+| II.A7.001 | Inertial navigation systems and specially designed components thereof, as follows:<br>a. Inertial navigation systems which are certified for use on 'civil aircraft' by civil authorities of a State participating in the Wassenaar Arrangement, and specially designed components thereof, as follows:<br>1. Inertial navigation systems (INS) (gimballed or strapdown) and inertial equipment designed for 'aircraft', land vehicle, vessels (surface or underwater) or 'spacecraft' for attitude, guidance or control, having any of the following characteristics, and specially designed components thereof:<br>a. Navigation error (free inertial) subsequent to normal alignment of 0,8 nautical mile per hour (nm/hr) 'Circular Error Probable' (CEP) or less (better); or<br>b. Specified to function at linear acceleration levels exceeding 10 g;<br>2. Hybrid Inertial Navigation Systems embedded with Global Navigation Satellite Systems(s) (GNSS) or with 'Data-Based Referenced Navigation' ('DBRN') System(s) for attitude, guidance or control, subsequent to normal alignment, having an INS navigation position accuracy, after loss of GNSS or 'DBRN' for a period of up to four minutes, of less (better) than 10 metres 'Circular Error Probable' (CEP);<br>3. Inertial Equipment for Azimuth, Heading, or North Pointing having any of the following characteristics, and specially designed components thereof:<br>a. Designed to have an Azimuth, Heading, or North Pointing accuracy equal to, or less (better) than 6 arc minutes RMS at 45 degrees latitude; or<br>b. Designed to have a non-operating shock level of at least 900 g at a duration of at least 1 msec.<br> <br>b. Theodolite systems incorporating inertial equipment specially designed for civil surveying purposes and designed to have an Azimuth, Heading, or North Pointing accuracy equal to, or less (better) than 6 arc minutes RMS at 45 degrees latitude, and specially designed components thereof.<br>c. Inertial or other equipment using accelerometers specified in 7A001 or 7A101, where such accelerometers are specially designed and developed as MWD (Measurement While Drilling) sensors for use in down-hole well services operations.<br>The parameters of a.1. and a.2. are applicable with any of the following environmental conditions:<br>1. Input random vibration with an overall magnitude of 7,7 g rms in the first half hour and a total test duration of one and a half hours per axis in each of the three perpendicular axes, when the random vibration meets the following:<br>a. A constant power spectral density (PSD) value of 0,04 g2/Hz over a frequency interval of 15 to 1 000 Hz; and<br>b. The PSD attenuates with a frequency from 0,04 g2/Hz to 0,01 g2/Hz over a frequency interval from 1 000 to 2 000 Hz;<br>2. A roll and yaw rate equal to or greater than + 2,62 radian/s (150 deg/s); or<br>3. According to national standards equivalent to 1. or 2. above.<br>1. a.2. refers to systems in which an INS and other independent navigation aids are built into a single unit (embedded) in order to achieve improved performance.<br>2. 'Circular Error Probable' (CEP) – In a circular normal distribution, the radius of the circle containing 50 percent of the individual measurements being made, or the radius of the circle within which there is a 50 percent probability of being located. | 7A001<br>7A003<br>7A101<br>7A103 |
+
+###### AEROSPACE AND PROPULSION
+
+II. A9. Goods
+
+| *No* | *Description* | *Related item from Annex I to Regulation [(EC) No 428/2009](eu/32009r0428*)* |
+| --- | --- | --- |
+| II.A9.001 | Explosive bolts. |  |
+| II.A9.002 | Internal combustion engines (i.e. axial piston or rotary piston type), designed or modified for propelling 'aircrafts' or 'lighter-than-air-vehicles' and specially designed components therefor. |  |
+| II.A9.003 | Trucks, other than those specified in 9A115, having more than one motorised axle and a payload exceeding 5 tonnes.<br>This item includes flatbed trailers, semi trailers and other trailers. | 9A115 |
+
 ### B. SOFTWARE
 
+| *No* | *Description* | *Related item from Annex I to Regulation [(EC) No 428/2009](eu/32009r0428*)* |
+| --- | --- | --- |
+| II.B.001 | Software required for the development, production or use of the items in Part A. (Goods). |  |
+
 ### C. TECHNOLOGY
+
+| *No* | *Description Items, materials, equipment, goods and technology* | *Related item from Annex I to Regulation [(EC) No 428/2009](eu/32009r0428*)* |
+| --- | --- | --- |
+| II.C.001 | Technology required for the development, production or use of the items in Part A. (Goods). |  |
 
 ### PART III
 
 Certain key components for the ballistic-missile sector.
 
-The nomenclature codes are taken from the Combined Nomenclature as defined in Article 1(2) of Council Regulation (EEC) [No 2658/87](eu/31987r2658*) of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff and as set out in Annex I thereto, which are valid at the time of publication of this Regulation and mutatis mutandis as amended by subsequent legislation.7601Unwrought aluminium7602Aluminium waste and scrap7603Aluminium powders and flakes7604Aluminium bars, rods and profiles7605Aluminium wire7606Aluminium plates, sheets and strip, of a thickness exceeding 0,2 mm7608Aluminium tubes and pipes7609Aluminium tube or pipe fittings (for example, couplings, elbows, sleeves)7614Stranded wire, cables, plaited bands and the like, of aluminium, not electrically insulated
+*EXPLANATORY NOTE*
+
+The nomenclature codes are taken from the Combined Nomenclature as defined in Article 1(2) of Council Regulation (EEC) [No 2658/87](eu/31987r2658*) of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff and as set out in Annex I thereto, which are valid at the time of publication of this Regulation and mutatis mutandis as amended by subsequent legislation.
+
+|  |  |
+| --- | --- |
+| 7601 | Unwrought aluminium |
+| 7602 | Aluminium waste and scrap |
+| 7603 | Aluminium powders and flakes |
+| 7604 | Aluminium bars, rods and profiles |
+| 7605 | Aluminium wire |
+| 7606 | Aluminium plates, sheets and strip, of a thickness exceeding 0,2 mm |
+| 7608 | Aluminium tubes and pipes |
+| 7609 | Aluminium tube or pipe fittings (for example, couplings, elbows, sleeves) |
+| 7614 | Stranded wire, cables, plaited bands and the like, of aluminium, not electrically insulated |
 
 ### PART IV
 
 Weapons of mass destruction-related items, materials, equipment, goods and technology identified and designated pursuant to paragraph 25 of UN Security Council Resolution 2270 (2016).
+
+*EXPLANATORY NOTE*
 
 The nomenclature codes are taken from the Combined Nomenclature as defined in Article 1(2) of Council Regulation (EEC) [No 2658/87](eu/31987r2658*) of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff and as set out in Annex I thereto, which are valid at the time of publication of this Regulation and mutatis mutandis as amended by subsequent legislation.
 
@@ -916,7 +1207,26 @@ ex 8515 90 00
 (12) Metal hydrides such as, zirconium hydride
 ex 2850 00 20
 
-(1) Additional chemicals suitable for the production of chemical warfare agents:Product descriptionCn codeSodium metal (7440-23-5)2805 11 00Sulphur trioxide (7446-11-9)ex2811 29 10Aluminium chloride (7446-70-0)2827 32 00Potassium Bromide (7758-02-3)2827 51 00Sodium bromide (7647-15-6)2827 51 00Dichloromethane (75-09-2)2903 12 00Isopropyl bromide (75-26-3)ex2903 39 19Isopropyl ether (108-20-3)ex2909 19 90Monoisopropylamine (75-31-0)ex2921 19 99Trimethylamine (75-50-3)ex2921 11 00Tributylamine (102-82-9)ex2921 19 99Triethylamine (121-44-8)ex2921 19 99N,N-Dimethylaniline (121-69-7)ex2921 42 00Pyridine (110-86-1)ex2933 31 00
+*(b) Chemical/Biological Weapons-usable Items*
+
+(1) Additional chemicals suitable for the production of chemical warfare agents:
+
+| Product description |  | Cn code |
+| --- | --- | --- |
+| Sodium metal (7440-23-5) |  | 2805 11 00 |
+| Sulphur trioxide (7446-11-9) | ex | 2811 29 10 |
+| Aluminium chloride (7446-70-0) |  | 2827 32 00 |
+| Potassium Bromide (7758-02-3) |  | 2827 51 00 |
+| Sodium bromide (7647-15-6) |  | 2827 51 00 |
+| Dichloromethane (75-09-2) |  | 2903 12 00 |
+| Isopropyl bromide (75-26-3) | ex | 2903 39 19 |
+| Isopropyl ether (108-20-3) | ex | 2909 19 90 |
+| Monoisopropylamine (75-31-0) | ex | 2921 19 99 |
+| Trimethylamine (75-50-3) | ex | 2921 11 00 |
+| Tributylamine (102-82-9) | ex | 2921 19 99 |
+| Triethylamine (121-44-8) | ex | 2921 19 99 |
+| N,N-Dimethylaniline (121-69-7) | ex | 2921 42 00 |
+| Pyridine (110-86-1) | ex | 2933 31 00 |
 
 (2) Reaction vessels, reactors, agitators, heat exchangers, condensers, pumps, valves, storage tanks, containers, receivers, and distillation or absorption columns that meet performance parameters described in S/2006/853 and S/2006/853/corr.1.Single-seal pumps with manufacturer's specified maximum flow-rate greater than 0,6m3 /h and casings (pump bodies), preformed casing liners, impellers, rotors or jet pump nozzles designed for such pumps, in which all surfaces that come into direct contact with the chemical(s) being processed are made from any of the following materials:nickel or alloys with more than 40 % nickel by weight;alloys with more than 25 % nickel and 20 % chromium by weight;fluoropolymers (polymeric or elastomeric materials with more than 35 % fluorine by weight);glass or glass-lined (including vitrified or enamelled coating);graphite or carbon-graphite;tantalum or tantalum alloys;titanium or titanium alloys;zirconium or zirconium alloys;ceramics;ferrosilicon (high silicon iron alloys); orniobium (columbium) or niobium alloys.
 ex 3925 10 00
@@ -1044,11 +1354,36 @@ ex 8479 89 97
 
 Weapons of mass destruction-related items, materials, equipment, goods and technology identified and designated pursuant to paragraph 4 of UN Security Council Resolution 2321 (2016).
 
+*EXPLANATORY NOTE*
+
 A reference number in the column entitled Related item from Annex I to Council Regulation [(EC) No 428/2009](eu/32009r0428*) or from Part II of Annex II to this Regulation (goods and technology) means that the characteristics of the item described in the column 'Description' lie outside the parameters set out in the description of the goods and technology referred to.
 
-Nuclear- and/or Missile-usable Items*Description**Related item from Annex I to Regulation [(EC) No 428/2009](eu/32009r0428*) or from Part II of Annex II to this Regulation*Isocyanates (TDI (Toluene di-isocyanate), MDI (Methylene bis (phenyl isocyanate)), IPDI (Isophorone diiosocyanate), HNMDI or HDI (Hexamethylene diisocyanate), and DDI (dimeryl diisocyanate) and production equipment.Ammonium nitrate, chemically pure or in phase stabilized version (PSAN).Non-destructive test chambers with a 1m or more critical internal dimension.Turbo-pumps for liquid or hybrid rocket engines.9A006Polymeric Substances (Hydroxyl Terminated Poly-Ether (HTPE), Hydroxyl Terminated Caprolactone Ether (HTCE), Polypropylene glycol (PPG), Polydiethyleneglycol adipate (PGA) and Polyethylene Glycol (PEG)).Countermeasure Subsystems and Penetration Aids (e.g. jammers, chaff, decoys) designed to saturate, confuse, or evade missile defences.Manganese metal Brazing Foils.Hydroforming machines.Thermal treatment furnaces–Temperature > 850 degrees C and one dimension > 1mII.A2.005, 2B226, 2B227Electrical Discharge Machines (EDMs).2B001.dFriction stir welding machines.Modelling and design software related to the modelling of aerodynamic and thermodynamic analysis of rocket or unmanned aerial vehicle systems.High-speed imaging cameras except those used in medical imaging systems.6A003.a.2Truck chassis with 6 or more axles.9A115 and II.A9.003
+Nuclear- and/or Missile-usable Items
 
-Chemical/Biological Weapons-usable Items*Description**Related item from Annex I to Regulation [(EC) No 428/2009](eu/32009r0428*) or from Part II of Annex II to this Regulation*1. Floor-mounted fume hoods (walk-in style) with a minimum nominal width of 2,5 meters.2B3522. Batch centrifuges with a rotor capacity of 4 L or greater, usable with biological materialsII.A2.014.e., 2B350, 2B3523. Fermenters with an internal volume of 10–20 L (.01–.02 cubic meters), usable with biological materials2B352 and II.A2.014.a.
+| *Description* | *Related item from Annex I to Regulation [(EC) No 428/2009](eu/32009r0428*) or from Part II of Annex II to this Regulation* |
+| --- | --- |
+| Isocyanates (TDI (Toluene di-isocyanate), MDI (Methylene bis (phenyl isocyanate)), IPDI (Isophorone diiosocyanate), HNMDI or HDI (Hexamethylene diisocyanate), and DDI (dimeryl diisocyanate) and production equipment. |  |
+| Ammonium nitrate, chemically pure or in phase stabilized version (PSAN). |  |
+| Non-destructive test chambers with a 1m or more critical internal dimension. |  |
+| Turbo-pumps for liquid or hybrid rocket engines. | 9A006 |
+| Polymeric Substances (Hydroxyl Terminated Poly-Ether (HTPE), Hydroxyl Terminated Caprolactone Ether (HTCE), Polypropylene glycol (PPG), Polydiethyleneglycol adipate (PGA) and Polyethylene Glycol (PEG)). |  |
+| Countermeasure Subsystems and Penetration Aids (e.g. jammers, chaff, decoys) designed to saturate, confuse, or evade missile defences. |  |
+| Manganese metal Brazing Foils. |  |
+| Hydroforming machines. |  |
+| Thermal treatment furnaces–Temperature > 850 degrees C and one dimension > 1m | II.A2.005, 2B226, 2B227 |
+| Electrical Discharge Machines (EDMs). | 2B001.d |
+| Friction stir welding machines. |  |
+| Modelling and design software related to the modelling of aerodynamic and thermodynamic analysis of rocket or unmanned aerial vehicle systems. |  |
+| High-speed imaging cameras except those used in medical imaging systems. | 6A003.a.2 |
+| Truck chassis with 6 or more axles. | 9A115 and II.A9.003 |
+
+Chemical/Biological Weapons-usable Items
+
+| *Description* | *Related item from Annex I to Regulation [(EC) No 428/2009](eu/32009r0428*) or from Part II of Annex II to this Regulation* |
+| --- | --- |
+| 1. Floor-mounted fume hoods (walk-in style) with a minimum nominal width of 2,5 meters. | 2B352 |
+| 2. Batch centrifuges with a rotor capacity of 4 L or greater, usable with biological materials | II.A2.014.e., 2B350, 2B352 |
+| 3. Fermenters with an internal volume of 10–20 L (.01–.02 cubic meters), usable with biological materials | 2B352 and II.A2.014.a. |
 
 ### PART VI
 
@@ -1069,175 +1404,898 @@ Conventional arms-related items, materials, equipment, goods and technology desi
 ### Vedlegg III
 Aviation fuel referred to in point (b) of Article 3(1)
 
-The nomenclature codes are taken from the Combined Nomenclature as defined in Article 1(2) of Council Regulation (EEC) [No 2658/87](eu/31987r2658*) of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff and as set out in Annex I thereto, which are valid at the time of publication of this Regulation and mutatis mutandis as amended by subsequent legislation.*Code**Description*From 2710 12 31 till 2710 12 59Gasoline2710 12 70Naptha-type jet fuel2710 19 21Kerosene-type jet fuel2710 19 25Kerosene-type rocket fuel
+*EXPLANATORY NOTE*
+
+The nomenclature codes are taken from the Combined Nomenclature as defined in Article 1(2) of Council Regulation (EEC) [No 2658/87](eu/31987r2658*) of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff and as set out in Annex I thereto, which are valid at the time of publication of this Regulation and mutatis mutandis as amended by subsequent legislation.
+
+| *Code* | *Description* |
+| --- | --- |
+| From 2710 12 31 till 2710 12 59 | Gasoline |
+| 2710 12 70 | Naptha-type jet fuel |
+| 2710 19 21 | Kerosene-type jet fuel |
+| 2710 19 25 | Kerosene-type rocket fuel |
 
 ### Vedlegg IV
 Gold, titanium ore, vanadium ore and rare earth minerals referred to in point (d) of Article 3(1)
 
-The nomenclature codes are taken from the Combined Nomenclature as defined in Article 1(2) of Council Regulation (EEC) [No 2658/87](eu/31987r2658*) of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff and as set out in Annex I thereto, which are valid at the time of publication of this Regulation and mutatis mutandis as amended by subsequent legislation.*Code**Description*ex2530 90 00Ores of the rare earth metalsex26 12Monazites and other ores used solely or principally for the extraction of uranium or thoriumex2614 00 00Titanium oreex2615 90 00Vanadium ore2616 90 00 10Gold ores and concentrates
+*EXPLANATORY NOTE*
+
+The nomenclature codes are taken from the Combined Nomenclature as defined in Article 1(2) of Council Regulation (EEC) [No 2658/87](eu/31987r2658*) of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff and as set out in Annex I thereto, which are valid at the time of publication of this Regulation and mutatis mutandis as amended by subsequent legislation.
+
+|  | *Code* | *Description* |
+| --- | --- | --- |
+| ex | 2530 90 00 | Ores of the rare earth metals |
+| ex | 26 12 | Monazites and other ores used solely or principally for the extraction of uranium or thorium |
+| ex | 2614 00 00 | Titanium ore |
+| ex | 2615 90 00 | Vanadium ore |
+|  | 2616 90 00 10 | Gold ores and concentrates |
 
 ### Vedlegg V
 Coal, iron and iron ore as referred to in point (e) of Article 3(1)
 
-The nomenclature codes are taken from the Combined Nomenclature as defined in Article 1(2) of Council Regulation (EEC) [No 2658/87](eu/31987r2658*) of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff and as set out in Annex I thereto, which are valid at the time of publication of this Regulation and mutatis mutandis as amended by subsequent legislation.*Code**Description*ex ex 26 01Iron ore2701Coal; briquettes, ovoids and similar solid fuels manufactured from coal2702Lignite, whether or not agglomerated, excluding jet2703Peat (including peat litter), whether or not agglomerated2704Coke and semi-coke of coal, of lignite or of peat, whether or not agglomerated; retort carbon7201Pig iron and spiegeleisen in pigs, blocks or other primary forms7202Ferro-alloys7203Ferrous products obtained by direct reduction of iron ore and other spongy ferrous products, in lumps, pellets or similar forms; iron having a minimum purity by weight of 99,94 %, in lumps, pellets or similar forms7204 10 00Waste and scrap of cast ironex7204 30 00Waste and scrap of tinned iron or steelex7204 41Other waste and scrap: Turnings, shavings, chips, milling waste, sawdust, filings, trimmings and stampings, whether or not in bundlesex7204 49Other waste and scrap: Otherex7204 50 00Other waste and scrap: Remelting scrap ingotex7205 10 00Granulesex7205 29 00Powders, other than of alloy steelex7206 10 00Ingotsex7206 90 00Otherex72 07Semi-finished products of iron or non-alloy steelex72 08Flat-rolled products of iron or non-alloy steel, of a width of 600 mm or more, hot-rolled, not clad, plated or coatedex72 09Flat-rolled products of iron or non-alloy steel, of a width of 600 mm or more, cold-rolled (cold-reduced), not clad, plated or coatedex72 10Flat-rolled products of iron or non-alloy steel, of a width of 600 mm or more, clad, plated or coatedex72 11Flat-rolled products of iron or non-alloy steel, of a width of less than 600 mm, not clad, plated or coatedex72 12Flat-rolled products of iron or non-alloy steel, of a width of less than 600 mm, clad, plated or coatedex72 14Other bars and rods of iron or non-alloy steel, not further worked than forged, hot-rolled, hot-drawn or hot-extruded, but including those twisted after rollingex72 15Other bars and rods of iron or non-alloy steelex2 16Angles, shapes and sections of iron or non-alloy steelex72 17Wire of iron or non-alloy steel
+*EXPLANATORY NOTE*
+
+The nomenclature codes are taken from the Combined Nomenclature as defined in Article 1(2) of Council Regulation (EEC) [No 2658/87](eu/31987r2658*) of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff and as set out in Annex I thereto, which are valid at the time of publication of this Regulation and mutatis mutandis as amended by subsequent legislation.
+
+|  | *Code* | *Description* |
+| --- | --- | --- |
+|  | ex ex 26 01 | Iron ore |
+|  | 2701 | Coal; briquettes, ovoids and similar solid fuels manufactured from coal |
+|  | 2702 | Lignite, whether or not agglomerated, excluding jet |
+|  | 2703 | Peat (including peat litter), whether or not agglomerated |
+|  | 2704 | Coke and semi-coke of coal, of lignite or of peat, whether or not agglomerated; retort carbon |
+|  | 7201 | Pig iron and spiegeleisen in pigs, blocks or other primary forms |
+|  | 7202 | Ferro-alloys |
+|  | 7203 | Ferrous products obtained by direct reduction of iron ore and other spongy ferrous products, in lumps, pellets or similar forms; iron having a minimum purity by weight of 99,94 %, in lumps, pellets or similar forms |
+|  | 7204 10 00 | Waste and scrap of cast iron |
+| ex | 7204 30 00 | Waste and scrap of tinned iron or steel |
+| ex | 7204 41 | Other waste and scrap: Turnings, shavings, chips, milling waste, sawdust, filings, trimmings and stampings, whether or not in bundles |
+| ex | 7204 49 | Other waste and scrap: Other |
+| ex | 7204 50 00 | Other waste and scrap: Remelting scrap ingot |
+| ex | 7205 10 00 | Granules |
+| ex | 7205 29 00 | Powders, other than of alloy steel |
+| ex | 7206 10 00 | Ingots |
+| ex | 7206 90 00 | Other |
+| ex | 72 07 | Semi-finished products of iron or non-alloy steel |
+| ex | 72 08 | Flat-rolled products of iron or non-alloy steel, of a width of 600 mm or more, hot-rolled, not clad, plated or coated |
+| ex | 72 09 | Flat-rolled products of iron or non-alloy steel, of a width of 600 mm or more, cold-rolled (cold-reduced), not clad, plated or coated |
+| ex | 72 10 | Flat-rolled products of iron or non-alloy steel, of a width of 600 mm or more, clad, plated or coated |
+| ex | 72 11 | Flat-rolled products of iron or non-alloy steel, of a width of less than 600 mm, not clad, plated or coated |
+| ex | 72 12 | Flat-rolled products of iron or non-alloy steel, of a width of less than 600 mm, clad, plated or coated |
+| ex | 72 14 | Other bars and rods of iron or non-alloy steel, not further worked than forged, hot-rolled, hot-drawn or hot-extruded, but including those twisted after rolling |
+| ex | 72 15 | Other bars and rods of iron or non-alloy steel |
+| ex | 2 16 | Angles, shapes and sections of iron or non-alloy steel |
+| ex | 72 17 | Wire of iron or non-alloy steel |
 
 ### Vedlegg VI
 Petroleum products referred to in point (f) of Article 3(1)
 
-The nomenclature codes are taken from the Combined Nomenclature as defined in Article 1(2) of Council Regulation (EEC) [No 2658/87](eu/31987r2658*) of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff and as set out in Annex I thereto, which are valid at the time of publication of this Regulation and mutatis mutandis as amended by subsequent legislation.2707Oils and other products of the distillation of high temperature coal tar; similar products in which the weight of the aromatic constituents exceeds that of the non-aromatic constituents2709Petroleum oils and oils obtained from bituminous minerals, crude2710Petroleum oils and oils obtained from bituminous minerals, other than crude; preparations not elsewhere specified or included, containing by weight 70 % or more of petroleum oils or of oils obtained from bituminous minerals, these oils being the basic constituents of the preparations; waste oils2711Petroleum gases and other gaseous hydrocarbons2712 10Petroleum jelly2712 20Paraffin wax containing by weight less than 0,75 % of oilex2712 90Other2713Petroleum coke, petroleum bitumen and other residues of petroleum oils or of oils obtained from bituminous mineralsex2714Bitumen and asphalt, natural; bituminous or oil-shale and tar sands; asphaltites and asphaltic rocksex2715Bituminous mixtures based on natural asphalt, on natural bitumen, on petroleum bitumen, on mineral tar or on mineral tar pitch (for example, bituminous mastics, cut-backs)Preparations containing petroleum oils or oils obtained from bituminous minerals3403 11Preparations for the treatment of textile materials, leather, furskins or other materials3403 19OtherOtherex3403 91Preparations for the treatment of textile materials, leather, furskins or other materialsex3403 99OtherChemical products or preparations, predominantly composed of organic compounds, not elsewhere specified or includedex3824 99 92In the form of a liquid at 20 °Cex3824 99 93Otherex3824 99 96Other3826 00 10Fatty-acid mono-alkyl esters, containing by volume 96,5 % or more of esters (FAMAE)3826 00 90Other
+*EXPLANATORY NOTE*
+
+The nomenclature codes are taken from the Combined Nomenclature as defined in Article 1(2) of Council Regulation (EEC) [No 2658/87](eu/31987r2658*) of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff and as set out in Annex I thereto, which are valid at the time of publication of this Regulation and mutatis mutandis as amended by subsequent legislation.
+
+|  |  |  |
+| --- | --- | --- |
+|  | 2707 | Oils and other products of the distillation of high temperature coal tar; similar products in which the weight of the aromatic constituents exceeds that of the non-aromatic constituents |
+|  | 2709 | Petroleum oils and oils obtained from bituminous minerals, crude |
+|  | 2710 | Petroleum oils and oils obtained from bituminous minerals, other than crude; preparations not elsewhere specified or included, containing by weight 70 % or more of petroleum oils or of oils obtained from bituminous minerals, these oils being the basic constituents of the preparations; waste oils |
+|  | 2711 | Petroleum gases and other gaseous hydrocarbons |
+|  | 2712 10 | Petroleum jelly |
+|  | 2712 20 | Paraffin wax containing by weight less than 0,75 % of oil |
+| ex | 2712 90 | Other |
+|  | 2713 | Petroleum coke, petroleum bitumen and other residues of petroleum oils or of oils obtained from bituminous minerals |
+| ex | 2714 | Bitumen and asphalt, natural; bituminous or oil-shale and tar sands; asphaltites and asphaltic rocks |
+| ex | 2715 | Bituminous mixtures based on natural asphalt, on natural bitumen, on petroleum bitumen, on mineral tar or on mineral tar pitch (for example, bituminous mastics, cut-backs) |
+|  |  | Preparations containing petroleum oils or oils obtained from bituminous minerals |
+|  | 3403 11 | Preparations for the treatment of textile materials, leather, furskins or other materials |
+|  | 3403 19 | Other |
+|  |  | Other |
+| ex | 3403 91 | Preparations for the treatment of textile materials, leather, furskins or other materials |
+| ex | 3403 99 | Other |
+|  |  | Chemical products or preparations, predominantly composed of organic compounds, not elsewhere specified or included |
+| ex | 3824 99 92 | In the form of a liquid at 20 °C |
+| ex | 3824 99 93 | Other |
+| ex | 3824 99 96 | Other |
+|  | 3826 00 10 | Fatty-acid mono-alkyl esters, containing by volume 96,5 % or more of esters (FAMAE) |
+|  | 3826 00 90 | Other |
 
 ### Vedlegg VII
 Copper, nickel, silver and zinc referred to in point (g) of Article 3(1)
+
+*EXPLANATORY NOTE*
 
 The nomenclature codes are taken from the Combined Nomenclature as defined in Article 1(2) of Council Regulation (EEC) [No 2658/87](eu/31987r2658*) of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff and as set out in Annex I thereto, which are valid at the time of publication of this Regulation and mutatis mutandis as amended by subsequent legislation.
 
 ### Copper
 
+|  |  |  |
+| --- | --- | --- |
+|  | 2603 | Copper ores and concentrates |
+|  | 74 | Copper and articles thereof |
+|  | 8536 90 95 30 | Rivet contacts<br>of copper<br>plated with silver nickel alloy AgNi10 or with silver containing by weight 11,2 % (± 1,0 %) of tin oxide and of indium oxide taken together<br>with a thickness of the plating of 0,3 mm (– 0/+ 0,015mm) |
+| ex | 8538 90 99 | Copper parts suitable for use solely or principally with the apparatus of heading 8535, 8536 or 8537 |
+|  | 8544 11 | Winding wire of copper |
+|  |  | Other copper electric conductors, for a voltage not exceeding 1 000 V: |
+| ex | 8544 42 | Fitted with connectors |
+| ex | 8544 49 | Other |
+|  |  | Other electric conductors, for a voltage exceeding 1 000 V: |
+|  | 8544 60 10 | With copper conductors |
+
 ### Nickel
+
+|  |  |  |
+| --- | --- | --- |
+|  | 2604 | Nickel ores and concentrates |
+|  |  | Ferro-alloys: |
+|  | 7202 60 | Ferro-nickel |
+|  |  | Wire of stainless steel: |
+|  | 7223 00 11 | Containing by weight 28 % or more but not more than 31 % of nickel and 20 % or more but not more than 22 % of chromium |
+|  | 75 | Nickel and articles thereof |
+|  | 8105 90 00 10 | Bars or wires made of cobalt alloy containing, by weight:<br>35 % (± 2 %) cobalt,<br>25 % (± 1 %) nickel,<br>19 % (± 1 %) chromium and<br>7 % (± 2 %) iron<br>conforming to the material specifications AMS 5842, of a kind used in the aerospace industry |
 
 ### Silver
 
+|  |  |  |
+| --- | --- | --- |
+|  | 2616 10 | Silver ores and concentrates |
+
 ### Zinc
+
+|  |  |  |
+| --- | --- | --- |
+|  | 2608 | Zinc ores and concentrates |
+|  | 79 | Zinc and articles thereof |
 
 ### Vedlegg VIII
 Luxury goods referred to in Article 10
+
+*EXPLANATORY NOTE*
 
 The nomenclature codes are taken from the Combined Nomenclature as defined in Article 1(2) of Council Regulation (EEC) [No 2658/87](eu/31987r2658*) of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff and as set out in Annex I thereto, which are valid at the time of publication of this Regulation and mutatis mutandis as amended by subsequent legislation.
 
 ### (1) Horses
 
+|  |  |  |
+| --- | --- | --- |
+|  | 0101 21 00 | Pure-bred breeding animals |
+| ex | 0101 29 90 | Other |
+
 ### (2) Caviar and caviar substitutes
+
+|  |  |  |
+| --- | --- | --- |
+|  | 1604 31 00 | Caviar |
+|  | 1604 32 00 | Caviar substitutes |
 
 ### (3) Truffles and preparations thereof
 
+|  |  |  |
+| --- | --- | --- |
+|  | 0709 59 50 | Truffles |
+| ex | 0710 80 69 | Other |
+| ex | 0711 59 00 | Other |
+| ex | 0712 39 00 | Other |
+| ex | 2001 90 97 | Other |
+|  | 2003 90 10 | Truffles |
+| ex | 2103 90 90 | Other |
+| ex | 2104 10 00 | Soups and broths and preparations therefor |
+| ex | 2104 20 00 | Homogenised composite food preparations |
+| ex | 2106 00 00 | Food preparations not elsewhere specified or included |
+
 ### (4) Wines (including sparkling wines), beers, spirits and spirituous beverages
+
+|  |  |  |
+| --- | --- | --- |
+|  | 2203 00 00 | Beer made from malt |
+|  | 2204 10 11 | Champagne |
+|  | 2204 10 91 | Asti spumante |
+|  | 2204 10 93 | Other |
+|  | 2204 10 94 | With a protected geographical indication (PGI) |
+|  | 2204 10 96 | Other varietal wines |
+|  | 2204 10 98 | Other |
+|  | 2204 21 00 | In containers holding 2 litres or less |
+|  | 2204 29 00 | Other |
+|  | 2205 00 00 | Vermouth and other wine of fresh grapes flavoured with plants or aromatic substances |
+|  | 2206 00 00 | Other fermented beverages (for example, cider, perry, mead, saké); mixtures of fermented beverages and mixtures of fermented beverages and non-alcoholic beverages, not elsewhere specified or included |
+|  | 2207 10 00 | Undenatured ethyl alcohol of an alcoholic strength by volume of 80 % vol or higher |
+|  | 2208 00 00 | Undenatured ethyl alcohol of an alcoholic strength by volume of less than 80 % vol; spirits, liqueurs and other spirituous beverages |
 
 ### (5) Cigars and cigarillos
 
+|  |  |  |
+| --- | --- | --- |
+|  | 2402 10 00 | Cigars, cheroots and cigarillos, containing tobacco |
+|  | 2402 90 00 | Other |
+
 ### (6) Perfumes, toilet waters and cosmetics, including beauty and make-up products
+
+|  |  |  |
+| --- | --- | --- |
+|  | 3303 | Perfumes and toilet waters |
+|  | 3304 00 00 | Beauty or make-up preparations and preparations for the care of the skin (other than medicaments), including sunscreen or suntan preparations; manicure or pedicure preparations |
+|  | 3305 00 00 | Preparations for use on the hair |
+|  | 3307 00 00 | Pre-shave, shaving or aftershave preparations, personal deodorants, bath preparations, depilatories and other perfumery, cosmetic or toilet preparations, not elsewhere specified or included; prepared room deodorisers, whether or not perfumed or having disinfectant properties |
+|  | 6704 00 00 | Wigs, false beards, eyebrows and eyelashes, switches and the like, of human or animal hair or of textile materials; articles of human hair not elsewhere specified or included |
 
 ### (7) Leather, saddlery and travel goods, handbags and similar articles of a value exceeding EUR 50 each
 
+|  |  |  |
+| --- | --- | --- |
+| ex | 4201 00 00 | Saddlery and harness for any animal (including traces, leads, knee pads, muzzles, saddle-cloths, saddlebags, dog coats and the like), of any material |
+| ex | 4202 00 00 | Trunks, suitcases, vanity cases, executive-cases, briefcases, school satchels, spectacle cases, binocular cases, camera cases, musical instrument cases, gun cases, holsters and similar containers; travelling-bags, insulated food or beverages bags, toilet bags, rucksacks, handbags, shopping-bags, wallets, purses, map-cases, cigarette-cases, tobacco-pouches, tool bags, sports bags, bottle-cases, jewellery boxes, powder boxes, cutlery cases and similar containers, of leather or of composition leather, of sheeting of plastics, of textile materials, of vulcanised fibre or of paperboard, or wholly or mainly covered with such materials or with paper |
+| ex | 4205 00 90 | Other |
+| ex | 9605 00 00 | Travel sets for personal toilet, sewing or shoe or clothes cleaning |
+
 ### (8) Coats of a value exceeding EUR 75 each, or other garments, clothing accessories and shoes (regardless of their material) of a value exceeding EUR 20 each
+
+|  |  |  |
+| --- | --- | --- |
+| ex | 4203 00 00 | Articles of apparel and clothing accessories, of leather or of composition leather |
+| ex | 4303 00 00 | Articles of apparel, clothing accessories and other articles of furskin |
+| ex | 6101 00 00 | Men's or boys' overcoats, car coats, capes, cloaks, anoraks (including ski jackets), windcheaters, wind-jackets and similar articles, knitted or crocheted, other than those of heading 6103 |
+| ex | 6102 00 00 | Women's or girls' overcoats, car coats, capes, cloaks, anoraks (including ski jackets), windcheaters, wind-jackets and similar articles, knitted or crocheted, other than those of heading 6104 |
+| ex | 6103 00 00 | Men's or boys' suits, ensembles, jackets, blazers, trousers, bib and brace overalls, breeches and shorts (other than swimwear), knitted or crocheted |
+| ex | 6104 00 00 | Women's or girls' suits, ensembles, jackets, blazers, dresses, skirts, divided skirts, trousers, bib and brace overalls, breeches and shorts (other than swimwear), knitted or crocheted |
+| ex | 6105 00 00 | Men's or boys' shirts, knitted or crocheted |
+| ex | 6106 00 00 | Women's or girls' blouses, shirts and shirt-blouses, knitted or crocheted |
+| ex | 6107 00 00 | Men's or boys' underpants, briefs, nightshirts, pyjamas, bathrobes, dressing gowns and similar articles, knitted or crocheted |
+| ex | 6108 00 00 | Women's or girls' slips, petticoats, briefs, panties, nightdresses, pyjamas, négligés, bathrobes, dressing gowns and similar articles, knitted or crocheted |
+| ex | 6109 00 00 | T-shirts, singlets and other vests, knitted or crocheted |
+| ex | 6110 00 00 | Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted |
+| ex | 6111 00 00 | Babies' garments and clothing accessories, knitted or crocheted |
+| ex | 6112 11 00 | Of cotton |
+| ex | 6112 12 00 | Of synthetic fibres |
+| ex | 6112 19 00 | Of other textile materials |
+|  | 6112 20 00 | Ski suits |
+|  | 6112 31 00 | Of synthetic fibres |
+|  | 6112 39 00 | Of other textile materials |
+|  | 6112 41 00 | Of synthetic fibres |
+|  | 6112 49 00 | Of other textile materials |
+| ex | 6113 00 10 | Of knitted or crocheted fabrics of heading 5906 |
+| ex | 6113 00 90 | Other |
+| ex | 6114 00 00 | Other garments, knitted or crocheted |
+| ex | 6115 00 00 | Pantyhose, tights, stockings, socks and other hosiery, including graduated compression hosiery (for example, stockings for varicose veins) and footwear without applied soles, knitted or crocheted |
+| ex | 6116 00 00 | Gloves, mittens and mitts, knitted or crocheted |
+| ex | 6117 00 00 | Other made-up clothing accessories, knitted or crocheted; knitted or crocheted parts of garments or of clothing accessories |
+| ex | 6201 00 00 | Men's or boys' overcoats, car coats, capes, cloaks, anoraks (including ski jackets), windcheaters, wind-jackets and similar articles, other than those of heading 6203 |
+| ex | 6202 00 00 | Women's or girls' overcoats, car coats, capes, cloaks, anoraks (including ski jackets), windcheaters, wind-jackets and similar articles, other than those of heading 6204 |
+| ex | 6203 00 00 | Men's or boys' suits, ensembles, jackets, blazers, trousers, bib and brace overalls, breeches and shorts (other than swimwear) |
+| ex | 6204 00 00 | Women's or girls. suits, ensembles, jackets, blazers, dresses, skirts, divided skirts, trousers, bib and brace overalls, breeches and shorts (other than swimwear) |
+| ex | 6205 00 00 | Men's or boys' shirts |
+| ex | 6206 00 00 | Women's or girls' blouses, shirts and shirt-blouses |
+| ex | 6207 00 00 | Men's or boys' singlets and other vests, underpants, briefs, nightshirts, pyjamas, bathrobes, dressing gowns and similar articles |
+| ex | 6208 00 00 | Women's or girls' singlets and other vests, slips, petticoats, briefs, panties, nightdresses, pyjamas, négligés, bathrobes, dressing gowns and similar articles |
+| ex | 6209 00 00 | Babies' garments and clothing accessories |
+| ex | 6210 10 00 | Of fabrics of heading 5602 or 5603 |
+| ex | 6210 20 00 | Other garments, of the type described in subheadings 6201 11 to 6201 19 |
+| ex | 6210 30 00 | Other garments, of the type described in subheadings 6202 11 to 6202 19 |
+| ex | 6210 40 00 | Other men's or boys' garments |
+| ex | 6210 50 00 | Other women's or girls' garments |
+|  | 6211 11 00 | Men's or boys' |
+|  | 6211 12 00 | Women's or girls' |
+|  | 6211 20 00 | Ski suits |
+| ex | 6211 32 00 | Of cotton |
+| ex | 6211 33 00 | Of man-made fibres |
+| ex | 6211 39 00 | Of other textile materials |
+| ex | 6211 42 00 | Of cotton |
+| ex | 6211 43 00 | Of man-made fibres |
+| ex | 6211 49 00 | Of other textile materials |
+| ex | 6212 00 00 | Brassières, girdles, corsets, braces, suspenders, garters and similar articles and parts thereof, whether or not knitted or crocheted |
+| ex | 6213 00 00 | Handkerchiefs |
+| ex | 6214 00 00 | Shawls, scarves, mufflers, mantillas, veils and the like |
+| ex | 6215 00 00 | Ties, bow ties and cravats |
+| ex | 6216 00 00 | Gloves, mittens and mitts |
+| ex | 6217 00 00 | Other made-up clothing accessories; parts of garments or of clothing accessories, other than those of heading 6212 |
+| ex | 6401 00 00 | Waterproof footwear with outer soles and uppers of rubber or of plastics, the uppers of which are neither fixed to the sole nor assembled by stitching, riveting, nailing, screwing, plugging or similar processes |
+| ex | 6402 20 00 | Footwear with upper straps or thongs assembled to the sole by means of plugs |
+| ex | 6402 91 00 | Covering the ankle |
+| ex | 6402 99 00 | Other |
+| ex | 6403 19 00 | Other |
+| ex | 6403 20 00 | Footwear with outer soles of leather, and uppers which consist of leather straps across the instep and around the big toe |
+| ex | 6403 40 00 | Other footwear, incorporating a protective metal toecap |
+| ex | 6403 51 00 | Covering the ankle |
+| ex | 6403 59 00 | Other |
+| ex | 6403 91 00 | Covering the ankle |
+| ex | 6403 99 00 | Other |
+| ex | 6404 19 10 | Slippers and other indoor footwear |
+| ex | 6404 20 00 | Footwear with outer soles of leather or composition leather |
+| ex | 6405 00 00 | Other footwear |
+| ex | 6504 00 00 | Hats and other headgear, plaited or made by assembling strips of any material, whether or not lined or trimmed |
+| ex | 6505 00 10 | Of fur felt or of felt of wool and fur, made from the hat bodies, hoods or plateaux of heading 6501 00 00 |
+| ex | 6505 00 30 | Peaked caps |
+| ex | 6505 00 90 | Other |
+| ex | 6506 99 00 | Of other materials |
+| ex | 6601 91 00 | Having a telescopic shaft |
+| ex | 6601 99 00 | Other |
+| ex | 6602 00 00 | Walking sticks, seat-sticks, whips, riding-crops and the like |
+| ex | 9619 00 81 | Napkins and napkin liners for babies |
 
 ### (9) Carpets, rugs and tapestries, hand-made or not
 
+|  |  |  |
+| --- | --- | --- |
+|  | 5701 00 00 | Carpets and other textile floor coverings, knotted, whether or not made up |
+|  | 5702 10 00 | 'Kelem', 'Schumacks', 'Karamanie' and similar hand-woven rugs |
+|  | 5702 20 00 | Floor coverings of coconut fibres (coir) |
+|  | 5702 31 80 | Other |
+|  | 5702 32 00 | Of man-made textile materials |
+|  | 5702 39 00 | Of other textile materials |
+|  | 5702 41 90 | Other |
+|  | 5702 42 00 | Of man-made textile materials |
+|  | 5702 50 00 | Other, not of pile construction, not made up |
+|  | 5702 91 00 | Of wool or fine animal hair |
+|  | 5702 92 00 | Of man-made textile materials |
+|  | 5702 99 00 | Of other textile materials |
+|  | 5703 00 00 | Carpets and other textile floor coverings, tufted, whether or not made up |
+|  | 5704 00 00 | Carpets and other textile floor coverings, of felt, not tufted or flocked, whether or not made up |
+|  | 5705 00 00 | Other carpets and other textile floor coverings, whether or not made up |
+|  | 5805 00 00 | Hand-woven tapestries of the type Gobelins, Flanders, Aubusson, Beauvais and the like, and needle-worked tapestries (for example, petit point, cross stitch), whether or not made up |
+
 ### (10) Pearls, precious and semi-precious stones, articles of pearls, jewellery, gold- or silversmith articles
+
+|  |  |  |
+| --- | --- | --- |
+|  | 7101 00 00 | Pearls, natural or cultured, whether or not worked or graded but not strung, mounted or set; pearls, natural or cultured, temporarily strung for convenience of transport |
+|  | 7102 00 00 | Diamonds, whether or not worked, but not mounted or set |
+|  | 7103 00 00 | Precious stones (other than diamonds) and semi-precious stones, whether or not worked or graded but not strung, mounted or set; ungraded precious stones (other than diamonds) and semi-precious stones, temporarily strung for convenience of transport |
+|  | 7104 20 00 | Other, unworked or simply sawn or roughly shaped |
+|  | 7104 90 00 | Other |
+|  | 7105 00 00 | Dust and powder of natural or synthetic precious or semi-precious stones |
+|  | 7106 00 00 | Silver (including silver plated with gold or platinum), unwrought or in semi-manufactured forms, or in powder form |
+|  | 7107 00 00 | Base metals clad with silver, not further worked than semi-manufactured |
+|  | 7108 00 00 | Gold (including gold plated with platinum), unwrought or in semi-manufactured forms, or in powder form |
+|  | 7109 00 00 | Base metals or silver, clad with gold, not further worked than semi-manufactured |
+|  | 7110 11 00 | Unwrought or in powder form |
+|  | 7110 19 00 | Other |
+|  | 7110 21 00 | Unwrought or in powder form |
+|  | 7110 29 00 | Other |
+|  | 7110 31 00 | Unwrought or in powder form |
+|  | 7110 39 00 | Other |
+|  | 7110 41 00 | Unwrought or in powder form |
+|  | 7110 49 00 | Other |
+|  | 7111 00 00 | Base metals, silver or gold, clad with platinum, not further worked than semi-manufactured |
+|  | 7113 00 00 | Articles of jewellery and parts thereof, of precious metal or of metal clad with precious metal |
+|  | 7114 00 00 | Articles of goldsmiths' or silversmiths' wares and parts thereof, of precious metal or of metal clad with precious metal |
+|  | 7115 00 00 | Other articles of precious metal or of metal clad with precious metal |
+|  | 7116 00 00 | Articles of natural or cultured pearls, precious or semi-precious stones (natural, synthetic or reconstructed) |
 
 ### (11) Coins and banknotes, not being legal tender
 
+|  |  |  |
+| --- | --- | --- |
+| ex | 4907 00 30 | Banknotes |
+|  | 7118 10 00 | Coin (other than gold coin), not being legal tender |
+| ex | 7118 90 00 | Other |
+
 ### (12) Cutlery of precious metal or plated or clad with precious metal
+
+|  |  |  |
+| --- | --- | --- |
+|  | 7114 00 00 | Articles of goldsmiths' or silversmiths' wares and parts thereof, of precious metal or of metal clad with precious metal |
+|  | 7115 00 00 | Other articles of precious metal or of metal clad with precious metal |
+| ex | 8214 00 00 | Other articles of cutlery (for example, hair clippers, butchers' or kitchen cleavers, choppers and mincing knives, paperknives); manicure or pedicure sets and instruments (including nail files) |
+| ex | 8215 00 00 | Spoons, forks, ladles, skimmers, cake-servers, fish-knives, butter-knives, sugar tongs and similar kitchen or tableware |
+| ex | 9307 00 00 | Swords, cutlasses, bayonets, lances and similar arms and parts thereof and scabbards and sheaths therefor |
 
 ### (13) Tableware of porcelain, china, stone- or earthenware or fine pottery
 
+|  |  |  |
+| --- | --- | --- |
+|  | 6911 00 00 | Tableware, kitchenware, other household articles and toilet articles, of porcelain or china |
+|  | 6912 00 23 | Stoneware |
+|  | 6912 00 25 | Earthenware or fine pottery |
+|  | 6912 00 83 | Stoneware |
+|  | 6912 00 85 | Earthenware or fine pottery |
+|  | 6914 10 00 | Of porcelain or china |
+|  | 6914 90 00 | Other |
+
 ### (14) Items of lead crystal
+
+|  |  |  |
+| --- | --- | --- |
+| ex | 7009 91 00 | Unframed |
+| ex | 7009 92 00 | Framed |
+| ex | 7010 00 00 | Carboys, bottles, flasks, jars, pots, phials, ampoules and other containers, of glass, of a kind used for the conveyance or packing of goods; preserving jars of glass; stoppers, lids and other closures, of glass |
+|  | 7013 22 00 | Of lead crystal |
+|  | 7013 33 00 | Of lead crystal |
+|  | 7013 41 00 | Of lead crystal |
+|  | 7013 91 00 | Of lead crystal |
+| ex | 7018 10 00 | Glass beads, imitation pearls, imitation precious or semi-precious stones and similar glass smallwares |
+| ex | 7018 90 00 | Other |
+| ex | 7020 00 80 | Other |
+| ex | 9405 10 50 | Of glass |
+| ex | 9405 20 50 | Of glass |
+| ex | 9405 50 00 | Non-electrical lamps and lighting fittings |
+| ex | 9405 91 00 | Of glass |
 
 ### (15) Electronic items for domestic use of a value exceeding EUR 50 each
 
+|  |  |  |
+| --- | --- | --- |
+| ex | 8414 51 | Table, floor, wall, window, ceiling or roof fans, with a self-contained electric motor of an output not exceeding 125 W |
+| ex | 8414 59 00 | Other |
+| ex | 8414 60 00 | Hoods having a maximum horizontal side not exceeding 120 cm |
+| ex | 8415 10 00 | Window or wall types, self-contained or 'split-system' |
+| ex | 8418 10 00 | Combined refrigerator-freezers, fitted with separate external doors |
+| ex | 8418 21 00 | Compression-type |
+| ex | 8418 29 00 | Other |
+| ex | 8418 30 00 | Freezers of the chest type, not exceeding 800 litres capacity |
+| ex | 8418 40 00 | Freezers of the upright type, not exceeding 900 litres capacity |
+| ex | 8419 81 00 | For making hot drinks or for cooking or heating food |
+| ex | 8422 11 00 | Of the household type |
+| ex | 8423 10 00 | Personal weighing machines, including baby scales; household scales |
+| ex | 8443 12 00 | Offset printing machinery, sheet fed, office type (using sheets with one side not exceeding 22 cm and the other side not exceeding 36 cm in the unfolded state) |
+| ex | 8443 31 00 | Machines which perform two or more of the functions of printing, copying or facsimile transmission, capable of connecting to an automatic data-processing machine or to a network |
+| ex | 8443 32 00 | Other, capable of connecting to an automatic data-processing machine or to a network |
+| ex | 8443 39 00 | Other |
+| ex | 8450 11 00 | Fully-automatic machines |
+| ex | 8450 12 00 | Other machines, with built-in centrifugal drier |
+| ex | 8450 19 00 | Other |
+| ex | 8451 21 00 | Each of a dry linen capacity not exceeding 10 kg |
+| ex | 8452 10 00 | Sewing machines of the household type |
+| ex | 8470 10 00 | Electronic calculators capable of operation without an external source of electric power and pocket-size data-recording, reproducing and displaying machines with calculating functions |
+| ex | 8470 21 00 | Incorporating a printing device |
+| ex | 8470 29 00 | Other |
+| ex | 8470 30 00 | Other calculating machines |
+| ex | 8471 00 00 | Automatic data-processing machines and units thereof; magnetic or optical readers, machines for transcribing data onto data media in coded form and machines for processing such data, not elsewhere specified or included |
+| ex | 8472 90 40 | Word-processing machines |
+| ex | 8472 90 90 | Other |
+| ex | 8479 60 00 | Evaporative air coolers |
+| ex | 8508 11 00 | Of a power not exceeding 1 500 W and having a dust bag or other receptacle capacity not exceeding 20 l |
+| ex | 8508 19 00 | Other |
+| ex | 8508 60 00 | Other vacuum cleaners |
+| ex | 8509 80 00 | Other appliances |
+| ex | 8516 31 00 | Hairdryers |
+| ex | 8516 50 00 | Microwave ovens |
+| ex | 8516 60 10 | Cookers (incorporating at least an oven and a hob) |
+| ex | 8516 71 00 | Coffee or tea makers |
+| ex | 8516 72 00 | Toasters |
+| ex | 8516 79 00 | Other |
+| ex | 8517 11 00 | Line telephone sets with cordless handsets |
+| ex | 8517 12 00 | Telephones for cellular networks or for other wireless networks |
+| ex | 8517 18 00 | Other |
+| ex | 8517 61 00 | Base stations |
+| ex | 8517 62 00 | Machines for the reception, conversion and transmission or regeneration of voice, images or other data, including switching and routing apparatus |
+| ex | 8517 69 00 | Other |
+| ex | 8526 91 00 | Radio navigational aid apparatus |
+| ex | 8529 10 31 | For reception via satellite |
+| ex | 8529 10 39 | Other |
+| ex | 8529 10 65 | Inside aerials for radio or television broadcast receivers, including built-in types |
+| ex | 8529 10 69 | Other |
+| ex | 8531 10 00 | Burglar or fire alarms and similar apparatus |
+| ex | 8543 70 10 | Electrical machines with translation or dictionary functions |
+| ex | 8543 70 30 | Aerial amplifiers |
+| ex | 8543 70 50 | Sunbeds, sunlamps and similar suntanning equipment |
+| ex | 8543 70 90 | Other |
+|  | 9504 50 00 | Video game consoles and machines, other than those of subheading 9504 30 |
+|  | 9504 90 80 | Other |
+
 ### (16) Electrical/electronic or optical apparatus for recording and reproducing sound and images, of a value exceeding EUR 50 each
+
+|  |  |  |
+| --- | --- | --- |
+| ex | 8519 00 00 | Sound recording or sound reproducing apparatus |
+| ex | 8521 00 00 | Video recording or reproducing apparatus, whether or not incorporating a video tuner |
+| ex | 8525 80 30 | Digital cameras |
+| ex | 8525 80 91 | Only able to record sound and images taken by the television camera |
+| ex | 8525 80 99 | Other |
+| ex | 8527 00 00 | Reception apparatus for radio-broadcasting, whether or not combined, in the same housing, with sound recording or reproducing apparatus or a clock |
+| ex | 8528 71 00 | Not designed to incorporate a video display or screen |
+| ex | 8528 72 00 | Other, colour |
+| ex | 9006 00 00 | Photographic (other than cinematographic) cameras; photographic flashlight apparatus and flashbulbs other than discharge lamps of heading 8539 |
+| ex | 9007 00 00 | Cinematographic cameras and projectors, whether or not incorporating sound recording or reproducing apparatus |
 
 ### (17) Vehicles for the transport of persons on earth, air or sea of a value exceeding EUR 10 000 each, teleferics, chairlifts, ski-draglines, traction mechanisms for funiculars, motorbikes of a value exceeding EUR 1 000 each, as well as their accessories and spare parts
 
+|  |  |  |
+| --- | --- | --- |
+| ex | 4011 10 00 | Of a kind used on motor cars (including station wagons and racing cars) |
+| ex | 4011 20 00 | Of a kind used on buses or lorries |
+| ex | 4011 30 00 | Of a kind used on aircraft |
+| ex | 4011 40 00 | Of a kind used on motorcycles |
+| ex | 4011 90 00 | Other |
+| ex | 7009 10 00 | Rear-view mirrors for vehicles |
+| ex | 8407 00 00 | Spark-ignition reciprocating or rotary internal combustion piston engines |
+| ex | 8408 00 00 | Compression-ignition internal combustion piston engines (diesel or semi-diesel engines) |
+| ex | 8409 00 00 | Parts suitable for use solely or principally with the engines of heading 8407 or 8408 |
+| ex | 8411 00 00 | Turbojets, turbopropellers and other gas turbines |
+|  | 8428 60 00 | Teleferics, chairlifts, ski-draglines, traction mechanisms for funiculars |
+| ex | 8431 39 00 | Parts and acccessories of teleferics, chairlifts, ski-draglines, traction mechanisms for funiculars |
+| ex | 8483 00 00 | Transmission shafts (including cam shafts and crank shafts) and cranks; bearing housings and plain shaft bearings; gears and gearing; ball or roller screws; gear boxes and other speed changers, including torque converters; flywheels and pulleys, including pulley blocks; clutches and shaft couplings (including universal joints) |
+| ex | 8511 00 00 | Electrical ignition or starting equipment of a kind used for spark-ignition or compression-ignition internal combustion engines (for example, ignition magnetos, magneto-dynamos, ignition coils, sparking plugs and glow plugs, starter motors); generators (for example, dynamos, alternators) and cut-outs of a kind used in conjunction with such engines |
+| ex | 8512 20 00 | Other lighting or visual signalling equipment |
+| ex | 8512 30 10 | Burglar alarms of a kind used for motor vehicles |
+| ex | 8512 30 90 | Other |
+| ex | 8512 40 00 | Windscreen wipers, defrosters and demisters |
+| ex | 8544 30 00 | Ignition wiring sets and other wiring sets of a kind used in vehicles, aircraft or ships |
+| ex | 8603 00 00 | Self-propelled railway or tramway coaches, vans and trucks, other than those of heading 8604 |
+| ex | 8605 00 00 | Railway or tramway passenger coaches, not self-propelled; luggage vans, post office coaches and other special purpose railway or tramway coaches, not self-propelled (excluding those of heading 8604 ) |
+| ex | 8607 00 00 | Parts of railway or tramway locomotives or rolling stock |
+| ex | 8702 00 00 | Motor vehicles for the transport of ten or more persons, including the driver |
+| ex | 8703 00 00 | Motor cars and other motor vehicles principally designed for the transport of persons (other than those of heading 8702 ), including station wagons and racing cars, including snowmobiles |
+| ex | 8706 00 00 | Chassis fitted with engines, for the motor vehicles of headings 8701 to 8705 |
+| ex | 8707 00 00 | Bodies (including cabs), for the motor vehicles of headings 8701 to 8705 |
+| ex | 8708 00 00 | Parts and accessories of the motor vehicles of headings 8701 to 8705 |
+| ex | 8711 00 00 | Motorcycles (including mopeds) and cycles fitted with an auxiliary motor, with or without side-cars; side-cars |
+| ex | 8712 00 00 | Bicycles and other cycles (including delivery tricycles), not motorised |
+| ex | 8714 00 00 | Parts and accessories of vehicles of headings 8711 to 8713 |
+| ex | 8716 10 00 | Trailers and semi-trailers of the caravan type, for housing or camping |
+| ex | 8716 40 00 | Other trailers and semi-trailers |
+| ex | 8716 90 00 | Parts |
+| ex | 8801 00 00 | Balloons and dirigibles; gliders, hang gliders and other non-powered aircraft |
+| ex | 8802 11 00 | Of an unladen weight not exceeding 2 000 kg |
+| ex | 8802 12 00 | Of an unladen weight exceeding 2 000 kg |
+| ex | 8802 20 00 | Aeroplanes and other aircraft, of an unladen weight not exceeding 2 000 kg |
+| ex | 8802 30 00 | Aeroplanes and other aircraft, of an unladen weight exceeding 2 000 kg but not exceeding 15 000 kg |
+| ex | 8802 40 00 | Aeroplanes and other aircraft, of an unladen weight exceeding 15 000 kg |
+| ex | 8803 10 00 | Propellers and rotors and parts thereof |
+| ex | 8803 20 00 | Undercarriages and parts thereof |
+| ex | 8803 30 00 | Other parts of aeroplanes or helicopters |
+| ex | 8803 90 10 | Of kites |
+| ex | 8803 90 90 | Other |
+| ex | 8805 10 00 | Aircraft launching gear and parts thereof; deck-arrestor or similar gear and parts thereof |
+| ex | 8901 10 00 | Cruise ships, excursion boats and similar vessels principally designed for the transport of persons; ferry-boats of all kinds |
+| ex | 8901 90 00 | Other vessels for the transport of goods and other vessels for the transport of both persons and goods |
+| ex | 8903 00 00 | Yachts and other vessels for pleasure or sports; rowing boats and canoes |
+
 ### (18) Clocks and watches and their parts
+
+|  |  |  |
+| --- | --- | --- |
+|  | 9101 00 00 | Wristwatches, pocket-watches and other watches, including stopwatches, with case of precious metal or of metal clad with precious metal |
+|  | 9102 00 00 | Wristwatches, pocket-watches and other watches, including stopwatches, other than those of heading 9101 |
+|  | 9103 00 00 | Clocks with watch movements, excluding clocks of heading 9104 |
+|  | 9104 00 00 | Instrument panel clocks and clocks of a similar type for vehicles, aircraft, spacecraft or vessels |
+|  | 9105 00 00 | Other clocks |
+|  | 9108 00 00 | Watch movements, complete and assembled |
+|  | 9109 00 00 | Clock movements, complete and assembled |
+|  | 9110 00 00 | Complete watch or clock movements, unassembled or partly assembled (movement sets); incomplete watch or clock movements, assembled; rough watch or clock movements |
+|  | 9111 00 00 | Watch cases and parts thereof |
+|  | 9112 00 00 | Clock cases and cases of a similar type for other goods of this chapter, and parts thereof |
+|  | 9113 00 00 | Watch straps, watch bands and watch bracelets, and parts thereof |
+|  | 9114 00 00 | Other clock or watch parts |
 
 ### (19) Musical instruments
 
+|  |  |  |
+| --- | --- | --- |
+|  | 9201 00 00 | Pianos, including automatic pianos; harpsichords and other keyboard stringed instruments |
+| ex | 9202 00 00 | Other string musical instruments (for example, guitars, violins, harps) |
+|  | 9205 00 00 | Wind musical instruments (for example, keyboard pipe organs, accordions, clarinets, trumpets, bagpipes), other than fairground organs and mechanical street organs |
+|  | 9206 00 00 | Percussion musical instruments (for example, drums, xylophones, cymbals, castanets, maracas) |
+|  | 9207 00 00 | Musical instruments, the sound of which is produced, or must be amplified, electrically (for example, organs, guitars, accordions) |
+
 ### (20) Works of art, collectors' pieces and antiques
+
+|  |  |  |
+| --- | --- | --- |
+|  | 9700 | Works of art, collectors' pieces and antiques |
 
 ### (21) Articles and equipment for sports, including skiing, golf, diving and water sports.
 
+|  |  |  |
+| --- | --- | --- |
+| ex | 4015 19 00 | Other |
+| ex | 4015 90 00 | Other |
+| ex | 6210 40 00 | Other men's or boys' garments |
+| ex | 6210 50 00 | Other women's or girls' garments |
+|  | 6211 11 00 | Men's or boys' |
+|  | 6211 12 00 | Women's or girls' |
+|  | 6211 20 00 | Ski suits |
+| ex | 6216 00 00 | Gloves, mittens and mitts |
+|  | 6402 12 00 | Ski-boots, cross-country ski footwear and snowboard boots |
+| ex | 6402 19 00 | Other |
+|  | 6403 12 00 | Ski-boots, cross-country ski footwear and snowboard boots |
+|  | 6403 19 00 | Other |
+|  | 6404 11 00 | Sports footwear; tennis shoes, basketball shoes, gym shoes, training shoes and the like |
+|  | 6404 19 90 | Other |
+| ex | 9004 90 00 | Other |
+| ex | 9020 00 00 | Other breathing appliances and gas masks, excluding protective masks having neither mechanical parts nor replaceable filters |
+|  | 9506 11 00 | Skis |
+|  | 9506 12 00 | Ski-fastenings (ski-bindings) |
+|  | 9506 19 00 | Other |
+|  | 9506 21 00 | Sailboards |
+|  | 9506 29 00 | Other |
+|  | 9506 31 00 | Clubs, complete |
+|  | 9506 32 00 | Golf balls |
+|  | 9506 39 00 | Other |
+|  | 9506 40 00 | Articles and equipment for table tennis |
+|  | 9506 51 00 | Lawn-tennis rackets, whether or not strung |
+|  | 9506 59 00 | Other |
+|  | 9506 61 00 | Lawn-tennis balls |
+|  | 9506 69 10 | Cricket and polo balls |
+|  | 9506 69 90 | Other |
+|  | 9506 70 | Ice skates and roller skates, including skating boots with skates attached |
+|  | 9506 91 | Articles and equipment for general physical exercise, gymnastics or athletics |
+|  | 9506 99 10 | Cricket and polo equipment, other than balls |
+|  | 9506 99 90 | Other |
+|  | 9507 00 00 | Fishing rods, fish-hooks and other line fishing tackle; fish landing nets, butterfly nets and similar nets; decoy 'birds' (other than those of heading 9208 or 9705 ) and similar hunting or shooting requisites |
+
 ### (22) Articles and equipment for billiard, automatic bowling, casino games and games operated by coins or banknotes
+
+|  |  |  |
+| --- | --- | --- |
+|  | 9504 20 00 | Articles and accessories for billiards of all kinds |
+|  | 9504 30 00 | Other games, operated by coins, banknotes, bank cards, tokens or by any other means of payment, other than automatic bowling alley equipment |
+|  | 9504 40 00 | Playing cards |
+|  | 9504 50 00 | Video game consoles and machines, other than those of subheading 9504 30 |
+|  | 9504 90 80 | Other |
 
 ### Vedlegg IX
 List of gold, precious metals and diamonds referred to in Article 11
 
-The nomenclature codes are taken from the Combined Nomenclature as defined in paragraph 2 of Article 1 of Council Regulation (EEC) [No 2658/87](eu/31987r2658*) of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff and as set out in Annex I thereto, which are valid at the time of publication of this Regulation and mutatis mutandis as amended by subsequent legislation.*HS Code**Description*7102Diamonds, whether or not worked, but not mounted or set7106Silver (including silver plated with gold or platinum), unwrought or in semi-manufactured forms, or in powder form7108Gold (including gold plated with platinum), unwrought or in semi-manufactured forms, or in powder form7109Base metals or silver, clad with gold, not further worked than semi-manufactured7110Platinum, unwrought or in semi-manufactured forms, or in powder form7111Base metals, silver or gold, clad with platinum, not further worked than semi-manufacturedex7112Waste and scrap of precious metal or of metal clad with precious metal; other waste and scrap containing precious metal or precious-metal compounds, of a kind used principally for the recovery of precious metal
+*EXPLANATORY NOTE*
+
+The nomenclature codes are taken from the Combined Nomenclature as defined in paragraph 2 of Article 1 of Council Regulation (EEC) [No 2658/87](eu/31987r2658*) of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff and as set out in Annex I thereto, which are valid at the time of publication of this Regulation and mutatis mutandis as amended by subsequent legislation.
+
+|  | *HS Code* | *Description* |
+| --- | --- | --- |
+|  | 7102 | Diamonds, whether or not worked, but not mounted or set |
+|  | 7106 | Silver (including silver plated with gold or platinum), unwrought or in semi-manufactured forms, or in powder form |
+|  | 7108 | Gold (including gold plated with platinum), unwrought or in semi-manufactured forms, or in powder form |
+|  | 7109 | Base metals or silver, clad with gold, not further worked than semi-manufactured |
+|  | 7110 | Platinum, unwrought or in semi-manufactured forms, or in powder form |
+|  | 7111 | Base metals, silver or gold, clad with platinum, not further worked than semi-manufactured |
+| ex | 7112 | Waste and scrap of precious metal or of metal clad with precious metal; other waste and scrap containing precious metal or precious-metal compounds, of a kind used principally for the recovery of precious metal |
 
 ### Vedlegg X
 The statues referred to in Article 13
 
-The nomenclature codes are taken from the Combined Nomenclature as defined in paragraph 2 of Article 1 of Council Regulation (EEC) [No 2658/87](eu/31987r2658*) of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff and as set out in Annex I thereto, which are valid at the time of publication of this Regulation and mutatis mutandis as amended by subsequent legislation.ex4420 10Statues and statuettes of woodStatues and statuettes of stoneex6802 91Marble, travertine and alabasterex6802 92Other calcareous stoneex6802 93Graniteex6802 99Other stoneex6809 90Statues and statuettes of plaster or of compositions based on plasterex6810 99Statues and statuettes of cement, of concrete or of artificial stone, whether or not reinforcedex6913Ceramic statues and statuettesArticles of goldsmiths' or silversmiths' waresOf precious metal whether or not plated or clad with precious metalex7114 11Statuettes of silver, whether or not plated or clad with other precious metalex7114 19Statuettes of other precious metal, whether or not plated or clad with precious metalex7114 20Statues and statuettes of base metal clad with precious metalStatues and statuettes of base metalex8306 21Statues and statuettes plated with precious metalex8306 29Other statues and statuettesex9505Statues and statuettes for festive, carnival or other entertainment useex9602Statuettes of worked vegetable or mineral carving materialex9703Original statuary, of any material
+*EXPLANATORY NOTE*
+
+The nomenclature codes are taken from the Combined Nomenclature as defined in paragraph 2 of Article 1 of Council Regulation (EEC) [No 2658/87](eu/31987r2658*) of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff and as set out in Annex I thereto, which are valid at the time of publication of this Regulation and mutatis mutandis as amended by subsequent legislation.
+
+|  |  |  |
+| --- | --- | --- |
+| ex | 4420 10 | Statues and statuettes of wood |
+|  |  | Statues and statuettes of stone |
+| ex | 6802 91 | Marble, travertine and alabaster |
+| ex | 6802 92 | Other calcareous stone |
+| ex | 6802 93 | Granite |
+| ex | 6802 99 | Other stone |
+| ex | 6809 90 | Statues and statuettes of plaster or of compositions based on plaster |
+| ex | 6810 99 | Statues and statuettes of cement, of concrete or of artificial stone, whether or not reinforced |
+| ex | 6913 | Ceramic statues and statuettes |
+|  |  | Articles of goldsmiths' or silversmiths' wares |
+|  |  | Of precious metal whether or not plated or clad with precious metal |
+| ex | 7114 11 | Statuettes of silver, whether or not plated or clad with other precious metal |
+| ex | 7114 19 | Statuettes of other precious metal, whether or not plated or clad with precious metal |
+| ex | 7114 20 | Statues and statuettes of base metal clad with precious metal |
+|  |  | Statues and statuettes of base metal |
+| ex | 8306 21 | Statues and statuettes plated with precious metal |
+| ex | 8306 29 | Other statues and statuettes |
+| ex | 9505 | Statues and statuettes for festive, carnival or other entertainment use |
+| ex | 9602 | Statuettes of worked vegetable or mineral carving material |
+| ex | 9703 | Original statuary, of any material |
 
 ### Vedlegg XI
 The helicopters and vessels referred to in Article 15
+
+*EXPLANATORY NOTE*
 
 The nomenclature codes are taken from the Combined Nomenclature as defined in paragraph 2 of Article 1 of Council Regulation (EEC) [No 2658/87](eu/31987r2658*) of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff and as set out in Annex I thereto, which are valid at the time of publication of this Regulation and mutatis mutandis as amended by subsequent legislation.
 
 ### Helicopters
 
+|  |  |
+| --- | --- |
+| 8802 11 | Of an unladen weight not exceeding 2 000 kg |
+| 8802 12 | Of an unladen weight exceeding 2 000 kg |
+
 ### Vessels
+
+|  |  |
+| --- | --- |
+| 8901 | Cruise ships, excursion boats, ferry-boats, cargo ships, barges and similar vessels for the transport of persons or goods |
+| 8902 | Fishing vessels; factory ships and other vessels for processing or preserving fishery products |
+| 8903 | Yachts and other vessels for pleasure or sports; rowing boats and canoes |
+| 8904 | Tugs and pusher crafts |
+| 8906 | Other vessels, including warships and lifeboats other than rowing boats |
+| 8907 10 | Inflatable rafts |
 
 ### Vedlegg XIa
 Seafood referred to in Article 16a
 
-The nomenclature codes are taken from the Combined Nomenclature as defined in Article 1(2) of Council Regulation (EEC) [No 2658/87](eu/31987r2658*) of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff and as set out in Annex I thereto, which are valid at the time of publication of this Regulation and *mutatis mutandis* as amended by subsequent legislation.*Code**Description*03Fish and crustaceans, molluscs and other aquatic invertebratesex 1603Extracts and juices of fish or crustaceans, molluscs or other aquatic invertebrates1604Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs1605Crustaceans, molluscs and other aquatic invertebrates, prepared or preserved1902 20 10Stuffed pasta, whether or not cooked or otherwise prepared containing more than 20 % by weight of fish, crustaceans, molluscs or other aquatic invertebrateex 2104Soups and broths and preparations therefor; homogenised composite food preparations, containing fish, crustaceans, molluscs or other aquatic invertebrates.
+*EXPLANATORY NOTE*
+
+The nomenclature codes are taken from the Combined Nomenclature as defined in Article 1(2) of Council Regulation (EEC) [No 2658/87](eu/31987r2658*) of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff and as set out in Annex I thereto, which are valid at the time of publication of this Regulation and *mutatis mutandis* as amended by subsequent legislation.
+
+| *Code* | *Description* |
+| --- | --- |
+| 03 | Fish and crustaceans, molluscs and other aquatic invertebrates |
+| ex 1603 | Extracts and juices of fish or crustaceans, molluscs or other aquatic invertebrates |
+| 1604 | Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs |
+| 1605 | Crustaceans, molluscs and other aquatic invertebrates, prepared or preserved |
+| 1902 20 10 | Stuffed pasta, whether or not cooked or otherwise prepared containing more than 20 % by weight of fish, crustaceans, molluscs or other aquatic invertebrate |
+| ex 2104 | Soups and broths and preparations therefor; homogenised composite food preparations, containing fish, crustaceans, molluscs or other aquatic invertebrates. |
 
 ### Vedlegg XIb
 Lead and lead ore referred to in Article 16b
 
-The nomenclature codes are taken from the Combined Nomenclature as defined in paragraph 2 of Article 1 of Council Regulation (EEC) [No 2658/87](eu/31987r2658*) of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff and as set out in Annex I thereto, which are valid at the time of publication of this Regulation and *mutatis mutandis* as amended by subsequent legislation.*Code**Description*2607 00 00Lead ores and concentrates7801Unwrought lead7802 00 00Lead waste and scrap7804Lead plates, sheets, strip and foil; lead powders and flakesex 7806 00 00Other articles of lead7806 00 10Containers with an anti-radiation lead covering, for the transport or storage of radioactive materialsex 7806 00 80the following lead articles:
-– collapsible tubes for packing colours or other products;
-– vats, reservoirs, drums and similar containers other than those from 7806 00 10 (for acids or other chemicals), not fitted with mechanical or thermal equipment;
-– lead weights for fishing nets, lead weights for clothing, curtains,.. etc...;
-– weights for clocks, and general purpose counterweights;
-– skeins, hanks and ropes of lead fibres or strands used for packing or for caulking pipe joints;
-– parts of building structures;
-– yacht keels, divers' breast plates;
-– electroplating anodes;
-– lead bars, rods, profiles and wire other than those under 7801;
-– tubes and pipes and tube or pipe fittings (for example, couplings, elbows, sleeves), of lead.
+*EXPLANATORY NOTE*
+
+The nomenclature codes are taken from the Combined Nomenclature as defined in paragraph 2 of Article 1 of Council Regulation (EEC) [No 2658/87](eu/31987r2658*) of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff and as set out in Annex I thereto, which are valid at the time of publication of this Regulation and *mutatis mutandis* as amended by subsequent legislation.
+
+| *Code* | *Description* |
+| --- | --- |
+| 2607 00 00 | Lead ores and concentrates |
+| 7801 | Unwrought lead |
+| 7802 00 00 | Lead waste and scrap |
+| 7804 | Lead plates, sheets, strip and foil; lead powders and flakes |
+| ex 7806 00 00 | Other articles of lead |
+| 7806 00 10 | Containers with an anti-radiation lead covering, for the transport or storage of radioactive materials |
+| ex 7806 00 80 | the following lead articles:<br>– collapsible tubes for packing colours or other products;<br>– vats, reservoirs, drums and similar containers other than those from 7806 00 10 (for acids or other chemicals), not fitted with mechanical or thermal equipment;<br>– lead weights for fishing nets, lead weights for clothing, curtains,.. etc...;<br>– weights for clocks, and general purpose counterweights;<br>– skeins, hanks and ropes of lead fibres or strands used for packing or for caulking pipe joints;<br>– parts of building structures;<br>– yacht keels, divers' breast plates;<br>– electroplating anodes;<br>– lead bars, rods, profiles and wire other than those under 7801;<br>– tubes and pipes and tube or pipe fittings (for example, couplings, elbows, sleeves), of lead. |
 
 ### Vedlegg XIc
 Condensates and natural gas liquids referred to in Article 16c
 
-The nomenclature codes are taken from the Combined Nomenclature as defined in Article 1(2) of Council Regulation (EEC) [No 2658/87](eu/31987r2658*) of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff and as set out in Annex I thereto, which are valid at the time of publication of this Regulation and *mutatis mutandis* as amended by subsequent legislation.*CN Code**Description*2709 00 10Natural gas condensates2711 11Liquefied natural gas
+*EXPLANATORY NOTE*
+
+The nomenclature codes are taken from the Combined Nomenclature as defined in Article 1(2) of Council Regulation (EEC) [No 2658/87](eu/31987r2658*) of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff and as set out in Annex I thereto, which are valid at the time of publication of this Regulation and *mutatis mutandis* as amended by subsequent legislation.
+
+| *CN Code* | *Description* |
+| --- | --- |
+| 2709 00 10 | Natural gas condensates |
+| 2711 11 | Liquefied natural gas |
 
 ### Vedlegg XId
 Refined petroleum products referred to in Article 16d
 
-The nomenclature codes are taken from the Combined Nomenclature as defined in in Article 1(2) of Council Regulation (EEC) [No 2658/87](eu/31987r2658*) of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff and as set out in Annex I thereto, which are valid at the time of publication of this Regulation and *mutatis mutandis* as amended by subsequent legislation.*CN Code**Description*2707Oils and other products of the distillation of high temperature coal tar; similar products in which the weight of the aromatic constituents exceeds that of the non-aromatic constituents2710Petroleum oils and oils obtained from bituminous minerals, other than crude; preparations not elsewhere specified or included, containing by weight 70 % or more of petroleum oils or of oils obtained from bituminous minerals, these oils being the basic constituents of the preparations; waste oils2711Petroleum gases and other gaseous hydrocarbonsPetroleum jelly; paraffin wax, microcrystalline petroleum wax, slack wax, ozokerite, lignite wax, peat wax, other mineral waxes, and similar products obtained by synthesis or by other processes, whether or not coloured2712 10Petroleum jelly2712 20Paraffin wax containing by weight less than 0,75 % of oilex2712 90Other than petroleum jelly and Paraffin wax containing by weight less than 0,75 % of oil2713Petroleum coke, petroleum bitumen and other residues of petroleum oils or of oils obtained from bituminous mineralsex2714Bitumen and asphalt, natural; bituminous or oil-shale and tar sands; asphaltites and asphaltic rocksex2715Bituminous mixtures based on natural asphalt, on natural bitumen, on petroleum bitumen, on mineral tar or on mineral tar pitch (for example, bituminous mastics, cut-backs)Lubricating preparations (including cutting-oil preparations, bolt or nut release preparations, anti-rust or anti-corrosion preparations and mould-release preparations, based on lubricants) and preparations of a kind used for the oil or grease treatment of textile materials, leather, furskins or other materials, but excluding preparations containing, as basic constituents, 70 % or more by weight of petroleum oils or of oils obtained from bituminous minerals.Containing petroleum oils or oils obtained from bituminous minerals3403 11Preparations for the treatment of textile materials, leather, furskins or other materials3403 19Other than preparations for the treatment of textile materials, leather, furskins or other materialsOther than containing petroleum oils or oils obtained from bituminous mineralsex3403 91Preparations for the treatment of textile materials, leather, furskins or other materials
+*EXPLANATORY NOTE*
+
+The nomenclature codes are taken from the Combined Nomenclature as defined in in Article 1(2) of Council Regulation (EEC) [No 2658/87](eu/31987r2658*) of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff and as set out in Annex I thereto, which are valid at the time of publication of this Regulation and *mutatis mutandis* as amended by subsequent legislation.
+
+|  | *CN Code* | *Description* |
+| --- | --- | --- |
+|  | 2707 | Oils and other products of the distillation of high temperature coal tar; similar products in which the weight of the aromatic constituents exceeds that of the non-aromatic constituents |
+|  | 2710 | Petroleum oils and oils obtained from bituminous minerals, other than crude; preparations not elsewhere specified or included, containing by weight 70 % or more of petroleum oils or of oils obtained from bituminous minerals, these oils being the basic constituents of the preparations; waste oils |
+|  | 2711 | Petroleum gases and other gaseous hydrocarbons |
+|  |  | Petroleum jelly; paraffin wax, microcrystalline petroleum wax, slack wax, ozokerite, lignite wax, peat wax, other mineral waxes, and similar products obtained by synthesis or by other processes, whether or not coloured |
+|  | 2712 10 | Petroleum jelly |
+|  | 2712 20 | Paraffin wax containing by weight less than 0,75 % of oil |
+| ex | 2712 90 | Other than petroleum jelly and Paraffin wax containing by weight less than 0,75 % of oil |
+|  | 2713 | Petroleum coke, petroleum bitumen and other residues of petroleum oils or of oils obtained from bituminous minerals |
+| ex | 2714 | Bitumen and asphalt, natural; bituminous or oil-shale and tar sands; asphaltites and asphaltic rocks |
+| ex | 2715 | Bituminous mixtures based on natural asphalt, on natural bitumen, on petroleum bitumen, on mineral tar or on mineral tar pitch (for example, bituminous mastics, cut-backs) |
+|  |  | Lubricating preparations (including cutting-oil preparations, bolt or nut release preparations, anti-rust or anti-corrosion preparations and mould-release preparations, based on lubricants) and preparations of a kind used for the oil or grease treatment of textile materials, leather, furskins or other materials, but excluding preparations containing, as basic constituents, 70 % or more by weight of petroleum oils or of oils obtained from bituminous minerals. |
+|  |  | Containing petroleum oils or oils obtained from bituminous minerals |
+|  | 3403 11 | Preparations for the treatment of textile materials, leather, furskins or other materials |
+|  | 3403 19 | Other than preparations for the treatment of textile materials, leather, furskins or other materials |
+|  |  | Other than containing petroleum oils or oils obtained from bituminous minerals |
+| ex | 3403 91 | Preparations for the treatment of textile materials, leather, furskins or other materials |
+
+|  | *CN Code* | *Description* |
+| --- | --- | --- |
+| ex | 3403 99 | Other than preparations for the treatment of textile materials, leather, furskins or other materials |
+|  |  | Chemical products or preparations, predominantly composed of organic compounds, not elsewhere specified or included |
+| ex | 3824 99 92 | In the form of a liquid at 20 °C |
+| ex | 3824 99 93 | Other |
+| ex | 3824 99 96 | Other |
+|  |  | Biodiesel and mixtures thereof, not containing or containing less than 70 % by weight of petroleum oils or oils obtained from bituminous minerals |
+|  | 3826 00 10 | Fatty-acid mono-alkyl esters, containing by volume 96,5 % or more of esters (FAMAE) |
+|  | 3826 00 90 | Other |
 
 ### Vedlegg XIe
 Crude oil referred to in Article 16f
 
-The nomenclature codes are taken from the Combined Nomenclature as defined in Article 1(2) of Council Regulation (EEC) [No 2658/87](eu/31987r2658*) of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff and as set out in Annex I thereto, which are valid at the time of publication of this Regulation and *mutatis mutandis* as amended by subsequent legislation.*CN Code**Description*2709 00 90Petroleum oils and oils obtained from bituminous minerals, crude, other than natural gas condensates
+*EXPLANATORY NOTE*
+
+The nomenclature codes are taken from the Combined Nomenclature as defined in Article 1(2) of Council Regulation (EEC) [No 2658/87](eu/31987r2658*) of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff and as set out in Annex I thereto, which are valid at the time of publication of this Regulation and *mutatis mutandis* as amended by subsequent legislation.
+
+|  | *CN Code* | *Description* |
+| --- | --- | --- |
+|  | 2709 00 90 | Petroleum oils and oils obtained from bituminous minerals, crude, other than natural gas condensates |
 
 ### Vedlegg XIf
 Textiles referred to in Article 16h
 
-The nomenclature codes are taken from the Combined Nomenclature as defined in Article 1(2) of Council Regulation (EEC) [No 2658/87](eu/31987r2658*) of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff and as set out in Annex I thereto, which are valid at the time of publication of this Regulation and *mutatis mutandis* as amended by subsequent legislation.*Chapter**Description*50Silk51Wool, fine or coarse animal hair; horsehair yarn and woven fabric52Cotton53Other vegetable textile fibres; paper yarn and woven fabrics of paper yarn54Man-made filaments; strip and the like of man-made textile materials55Man-made staple fibres56Wadding, felt and nonwovens; special yarns; twine, cordage, ropes and cables and articles thereof57Carpets and other textile floor coverings58Special woven fabrics; tufted textile fabrics; lace; tapestries; trimmings; embroidery59Impregnated, coated, covered or laminated textile fabrics; textile articles of a kind suitable for industrial use60Knitted or crocheted fabrics61Articles of apparel and clothing accessories, knitted or crocheted62Articles of apparel and clothing accessories, not knitted or crocheted63Other made-up textile articles; sets; worn clothing and worn textile articles; rags
+*EXPLANATORY NOTE*
+
+The nomenclature codes are taken from the Combined Nomenclature as defined in Article 1(2) of Council Regulation (EEC) [No 2658/87](eu/31987r2658*) of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff and as set out in Annex I thereto, which are valid at the time of publication of this Regulation and *mutatis mutandis* as amended by subsequent legislation.
+
+| *Chapter* | *Description* |
+| --- | --- |
+| 50 | Silk |
+| 51 | Wool, fine or coarse animal hair; horsehair yarn and woven fabric |
+| 52 | Cotton |
+| 53 | Other vegetable textile fibres; paper yarn and woven fabrics of paper yarn |
+| 54 | Man-made filaments; strip and the like of man-made textile materials |
+| 55 | Man-made staple fibres |
+| 56 | Wadding, felt and nonwovens; special yarns; twine, cordage, ropes and cables and articles thereof |
+| 57 | Carpets and other textile floor coverings |
+| 58 | Special woven fabrics; tufted textile fabrics; lace; tapestries; trimmings; embroidery |
+| 59 | Impregnated, coated, covered or laminated textile fabrics; textile articles of a kind suitable for industrial use |
+| 60 | Knitted or crocheted fabrics |
+| 61 | Articles of apparel and clothing accessories, knitted or crocheted |
+| 62 | Articles of apparel and clothing accessories, not knitted or crocheted |
+| 63 | Other made-up textile articles; sets; worn clothing and worn textile articles; rags |
 
 ### Vedlegg XIg
 Food and agricultural products referred to in Article 16j
 
-The nomenclature codes are taken from the Combined Nomenclature as defined in Article 1(2) of Council Regulation (EEC) [No 2658/87](eu/31987r2658*) of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff and as set out in Annex I thereto, which are valid at the time of publication of this Regulation and mutatis mutandis as amended by subsequent legislation.*CN Code**Description*07Edible vegetables and certain roots and tubers08Edible fruit and nuts; peel of citrus fruit or melons12Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder
+*EXPLANATORY NOTE*
+
+The nomenclature codes are taken from the Combined Nomenclature as defined in Article 1(2) of Council Regulation (EEC) [No 2658/87](eu/31987r2658*) of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff and as set out in Annex I thereto, which are valid at the time of publication of this Regulation and mutatis mutandis as amended by subsequent legislation.
+
+| *CN Code* | *Description* |
+| --- | --- |
+| 07 | Edible vegetables and certain roots and tubers |
+| 08 | Edible fruit and nuts; peel of citrus fruit or melons |
+| 12 | Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder |
 
 ### Vedlegg XIh
 Machinery and electrical equipment referred to in Article 16j
 
-The nomenclature codes are taken from the Combined Nomenclature as defined in Article 1(2) of Council Regulation (EEC) [No 2658/87](eu/31987r2658*) of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff and as set out in Annex I thereto, which are valid at the time of publication of this Regulation and mutatis mutandis as amended by subsequent legislation.*CN Code**Description*84Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof85Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles
+*EXPLANATORY NOTE*
+
+The nomenclature codes are taken from the Combined Nomenclature as defined in Article 1(2) of Council Regulation (EEC) [No 2658/87](eu/31987r2658*) of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff and as set out in Annex I thereto, which are valid at the time of publication of this Regulation and mutatis mutandis as amended by subsequent legislation.
+
+| *CN Code* | *Description* |
+| --- | --- |
+| 84 | Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof |
+| 85 | Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles |
 
 ### Vedlegg XIi
 Earth and stone, including magnesite and magnesia, referred to in Article 16l
 
-The nomenclature codes are taken from the Combined Nomenclature as defined in Article 1(2) of Council Regulation (EEC) [No 2658/87](eu/31987r2658*) of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff and as set out in Annex I thereto, which are valid at the time of publication of this Regulation and mutatis mutandis as amended by subsequent legislation.*CN Code**Description*25Salt; sulphur; earths and stone; plastering materials, lime and cement
+EXPLANATORY NOTE
+
+The nomenclature codes are taken from the Combined Nomenclature as defined in Article 1(2) of Council Regulation (EEC) [No 2658/87](eu/31987r2658*) of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff and as set out in Annex I thereto, which are valid at the time of publication of this Regulation and mutatis mutandis as amended by subsequent legislation.
+
+| *CN Code* | *Description* |
+| --- | --- |
+| 25 | Salt; sulphur; earths and stone; plastering materials, lime and cement |
 
 ### Vedlegg XIj
 Wood referred to in Article 16m
 
-The nomenclature codes are taken from the Combined Nomenclature as defined in Article 1(2) of Council Regulation (EEC) [No 2658/87](eu/31987r2658*) of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff and as set out in Annex I thereto, which are valid at the time of publication of this Regulation and mutatis mutandis as amended by subsequent legislation.*CN Code**Description*44Wood and articles of wood; wood charcoal
+*EXPLANATORY NOTE*
+
+The nomenclature codes are taken from the Combined Nomenclature as defined in Article 1(2) of Council Regulation (EEC) [No 2658/87](eu/31987r2658*) of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff and as set out in Annex I thereto, which are valid at the time of publication of this Regulation and mutatis mutandis as amended by subsequent legislation.
+
+| *CN Code* | *Description* |
+| --- | --- |
+| 44 | Wood and articles of wood; wood charcoal |
 
 ### Vedlegg XIk
 Vessels referred to in Article 16n
 
-The nomenclature codes are taken from the Combined Nomenclature as defined in Article 1(2) of Council Regulation (EEC) [No 2658/87](eu/31987r2658*) of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff and as set out in Annex I thereto, which are valid at the time of publication of this Regulation and mutatis mutandis as amended by subsequent legislation.*CN Code**Description*89Ships, boats and floating structures
+*EXPLANATORY NOTE*
+
+The nomenclature codes are taken from the Combined Nomenclature as defined in Article 1(2) of Council Regulation (EEC) [No 2658/87](eu/31987r2658*) of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff and as set out in Annex I thereto, which are valid at the time of publication of this Regulation and mutatis mutandis as amended by subsequent legislation.
+
+| *CN Code* | *Description* |
+| --- | --- |
+| 89 | Ships, boats and floating structures |
 
 ### Vedlegg XIl
 
 ### Part A
 Industrial machinery, transportation vehicles, and iron, steel and other metals referred to in Article 16p
 
-The nomenclature codes are taken from the Combined Nomenclature as defined in Article 1(2) of Council Regulation (EEC) [No 2658/87](eu/31987r2658*) of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff and as set out in Annex I thereto, which are valid at the time of publication of this Regulation and mutatis mutandis as amended by subsequent legislation.*CN Code**Description*72Iron and steel73Articles of iron or steel74Copper and articles thereof75Nickel and articles thereof76Aluminium and articles thereof78Lead and articles thereof79Zinc and articles thereof80Tin and articles thereof81Other base metals; cermets; articles thereof82Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal83Miscellaneous articles of base metal84Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof85Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles86Railway or tramway locomotives, rolling stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electromechanical) traffic signalling equipment of all kinds87Vehicles other than railway or tramway rolling stock, and parts and accessories thereof88Aircraft, spacecraft, and parts thereof89Ships, boats and floating structures
+*EXPLANATORY NOTE*
+
+The nomenclature codes are taken from the Combined Nomenclature as defined in Article 1(2) of Council Regulation (EEC) [No 2658/87](eu/31987r2658*) of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff and as set out in Annex I thereto, which are valid at the time of publication of this Regulation and mutatis mutandis as amended by subsequent legislation.
+
+| *CN Code* | *Description* |
+| --- | --- |
+| 72 | Iron and steel |
+| 73 | Articles of iron or steel |
+| 74 | Copper and articles thereof |
+| 75 | Nickel and articles thereof |
+| 76 | Aluminium and articles thereof |
+| 78 | Lead and articles thereof |
+| 79 | Zinc and articles thereof |
+| 80 | Tin and articles thereof |
+| 81 | Other base metals; cermets; articles thereof |
+| 82 | Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal |
+| 83 | Miscellaneous articles of base metal |
+| 84 | Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof |
+| 85 | Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles |
+| 86 | Railway or tramway locomotives, rolling stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electromechanical) traffic signalling equipment of all kinds |
+| 87 | Vehicles other than railway or tramway rolling stock, and parts and accessories thereof |
+| 88 | Aircraft, spacecraft, and parts thereof |
+| 89 | Ships, boats and floating structures |
 
 ### Part B
 Aircraft models and types referred to in Article 16q(1)
@@ -1247,14 +2305,43 @@ An-24R/RV, An-148-100B, Il-18D, Il-62M, Tu-134B-3, Tu-154B, Tu-204-100B, and Tu-
 ### Vedlegg XII
 List of services referred to in Article 18
 
+*NOTES*
+
 1. Central Products Classification (CPC) codes are set out in Statistical Office of the United Nations, Statistical Papers, Series M, No. 77, Provisional Central Product Classification, 1991.
 2. Only the parts of the CPC codes described below are covered by the prohibition.
 
 ### Part A:
 Services incidental to mining and manufacturing in the chemical, mining and refining industry:
 
+| Description of services | Stemming from CPC Code |
+| --- | --- |
+| Tunnelling, overburden removal and other development and preparation work of mineral properties and sites, except for m ining oil and gas. | CPC 5115 |
+| Geological, geophysical, geochemical and other scientific consulting services as they relate to the location of mineral deposits, oil and gas and groundwater by studying the properties of the earth and rock formations and structures. Included here are the services of analysing the results of subsurface surveys, the study of earth sample and core, and assistance and advice in developing and extracting mineral resources. | CPC 86751 |
+| Gathering services of information on subsurface earth formations by different methods, including seismographic, gravimetric, magnetometric and other subsurface surveying methods. | CPC 86752 |
+| Gathering services of information on the shape, position and/or boundaries of a portion of the Earth's surface by different methods, including transit, photogrammetric and hydrographic surveying, for the purpose of preparing maps. | CPC 86753 |
+| Oil and gas field service activities provided on a fee or contract basis as follows: directional drilling and redrilling; 'spudding in'; derrick building, repairing and dismantling; cementing oil and gas well casings; pumping wells and plugging and abandoning wells. | CPC 8830 |
+| Manufacture of coke–operation of coke ovens chiefly for the production of coke or semi-coke from hardcoal and lignite, of retort carbon and residual products such as coal tar or pitch;<br>Agglomeration of coke;<br>Manufacture of refined petroleum products–production of liquid or gaseous fuels (e.g. ethane, butane or propane), illuminating oils, lubricating oils or greases or other products from crude petroleum or bituminous minerals or their fractionation products;<br>Manufacture or extraction of such products as petroleum jelly, paraffin wax, other petroleum waxes and such residual products as petroleum coke and petroleum bitumen;<br>Manufacture of nuclear fuel–extraction of uranium metal from pitchblende or other uranium bearing ores;<br>Manufacture of alloys, dispersions or mixtures of natural uranium or its compounds;<br>Manufacture of enriched uranium and its compounds, plutonium and its compounds, or alloys, dispersions or mixtures of these compounds;<br>Manufacture of uranium depleted in U 235 and its compounds, thorium and its compounds, or alloys, dispersions or mixtures of these compounds;<br>Manufacture of other radio-active elements, isotopes or compounds; and<br>Manufacture of non-irradiated fuel elements for use in nuclear reactors. | CPC 8845 |
+| Manufacture of basic chemicals, except fertilizers and nitrogen compounds;<br>Manufacture of fertilizers and nitrogen compounds;<br>Manufacture of plastics in primary forms and of synthetic rubber;<br>Manufacture of pesticides and other agro-chemical products;<br>Manufacture of paints, varnishes and similar coatings, printing ink and mastics;<br>Manufacture of botanical products;<br>Manufacture of soap and detergents, cleaning and polishing preparations, perfumes and toilet preparations and<br>Manufacture of man-made fibres. | CPC 8846 |
+| Manufacture of basic metals on a fee or contract basis, in the chemical, mining and refining industry. | CPC 8851 |
+| Manufacture of fabricated metal products, except machinery and equipment, on a fee or contract basis, in the chemical, mining and refining industry. | CPC 8852 |
+| Manufacture of machinery and equipment on a fee or contract basis, in the chemical, mining and refining industry. | CPC 8853 |
+| Manufacture of office, accounting and computing machinery, on a fee or contract basis, in the chemical, mining and refining industry. | CPC 8854 |
+| Manufacture of electrical machinery and apparatus on a fee or contract basis in the chemical, mining and refining industry. | CPC 8855 |
+| Manufacture of motor vehicles, trailers and semi-trailers, on a fee or contract basis, in the chemical, mining and refining industry. | CPC 8858 |
+| Manufacture of other transport equipment, on a fee or contract basis, in the chemical, mining and refining industry. | CPC 8859 |
+| Repair services of fabricated metal products, except machinery and equipment, on a fee or contract basis, in the chemical, mining and refining industry. | CPC 8861 |
+| Repair services of machinery and equipment on a fee or contract basis, in the chemical, mining and refining industry. | CPC 8862 |
+| Repair services of office, accounting and computing machinery, on a fee or contract basis, in the chemical, mining and refining industry. | CPC 8863 |
+| Repair services of electrical machinery and apparatus on a fee or contract basis, in the chemical, mining and refining industry. | CPC 8864 |
+| Repair services of motor vehicles, trailers and semi-trailers, on a fee or contract basis, in the chemical, mining and refining industry. | CPC 8867 |
+| Repair services of other transport equipment, on a fee or contract basis, in the chemical, mining and refining industry. | CPC 8868 |
+
 ### Part B:
 Computer and related services (CPC: 84)
+
+| Description of services | Stemming from CPC Code |
+| --- | --- |
+| Consultancy services related to the installation of computer hardware;<br>Software implementation services;<br>Data processing services;<br>Data base services;<br>Maintenance and repair services of office machinery and equipment including computers;<br>Data preparation services;<br>Training services for staff of clients. | CPC 84 |
 
 ### Vedlegg XIII
 List of persons, entities and bodies referred to in Article 34(1) and 34(3)
@@ -1273,6 +2360,8 @@ EUs konsoliderte liste over personer, enheter og organer underlagt restriktive t
 
 Listeførte med landkode («programme») PRN (Nord-Korea), er listeført under denne forskriften.
 
+1 For å få tilgang til listen, må det opprettes en brukerkonto. Følg instruksene som fremkommer når man klikker på lenken.
+
 ### Vedlegg XVI
 List of persons, entities and bodies referred to in Article 34(1) and 34(3)
 
@@ -1280,9 +2369,13 @@ EUs konsoliderte liste over personer, enheter og organer underlagt restriktive t
 
 Listeførte med landkode («programme») PRN (Nord-Korea), er listeført under denne forskriften.
 
+1 For å få tilgang til listen, må det opprettes en brukerkonto. Følg instruksene som fremkommer når man klikker på lenken.
+
 ### Vedlegg XVII
 List of persons, entities and bodies referred to in Article 34(1) and 34(3)
 
 EUs konsoliderte liste over personer, enheter og organer underlagt restriktive tiltak er tilgjengelig [her](https://webgate.ec.europa.eu/europeaid/fsd/fsf#!/files).1
 
 Listeførte med landkode («programme») PRN (Nord-Korea), er listeført under denne forskriften.
+
+1 For å få tilgang til listen, må det opprettes en brukerkonto. Følg instruksene som fremkommer når man klikker på lenken.

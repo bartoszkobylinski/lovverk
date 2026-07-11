@@ -15,7 +15,7 @@ xml_hash: "0f477a45691d38e8aa4d0fec74198742f73fb99cc45a1165147a589fb36e3d5e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-30T07:51:25.240716+00:00"
+retrieved_at: "2026-07-10T17:52:49.841668+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -30,7 +30,9 @@ Retningslinjene fastset føremål for den statlege lokaliseringspolitikken, og v
 
 Retningslinjene kjem i tillegg til og ikkje til erstatning for krava som følgjer av [utgreiingsinstruksen](forskrift/2016-02-19-184).
 
-1 Sjå [Statlige planretningslinjer for samordnet bolig-, areal- og transportplanlegging](forskrift/2014-09-26-1222)Sjå [Instruks om håndtering av bygge- og leiesaker i statlig sivil sektor](forskrift/2012-01-20-39)
+1 Sjå [Statlige planretningslinjer for samordnet bolig-, areal- og transportplanlegging](forskrift/2014-09-26-1222)
+
+Sjå [Instruks om håndtering av bygge- og leiesaker i statlig sivil sektor](forskrift/2012-01-20-39)
 
 ## 2. Føremål
 

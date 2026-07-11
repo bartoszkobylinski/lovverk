@@ -15,14 +15,16 @@ xml_hash: "4745878f03636ab7b12cd1846b2a16f57b1169bffbc35caeca5397f12aa45875"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-02T08:26:01.859598+00:00"
+retrieved_at: "2026-07-10T17:52:49.841668+00:00"
 status: "current"
 eu_basis: []
 ---
 
 # Forskrift om fastsetting av inndeling i politistasjonsdistrikter og tjenestesteder i politi- og lensmannsetaten
 
-*Innledning*I henhold til [forskrift 20. november 2015 nr. 1331](forskrift/2015-11-20-1331) om endringer i distriktsinndelingen mv. i politi- og lensmannsetaten og klagebehandlingen i Justis- og beredskapsdepartementet, jf. [forskrift 22. juni 2016 nr. 815](forskrift/2016-06-22-815) om klageordning for kommuner som berøres av ny tjenestestedsstruktur i politi- og lensmannsetaten, er det fastsatt følgende inndeling i lensmanns- og politistasjonsdistrikter og tjenestesteder.
+*Innledning*
+
+I henhold til [forskrift 20. november 2015 nr. 1331](forskrift/2015-11-20-1331) om endringer i distriktsinndelingen mv. i politi- og lensmannsetaten og klagebehandlingen i Justis- og beredskapsdepartementet, jf. [forskrift 22. juni 2016 nr. 815](forskrift/2016-06-22-815) om klageordning for kommuner som berøres av ny tjenestestedsstruktur i politi- og lensmannsetaten, er det fastsatt følgende inndeling i lensmanns- og politistasjonsdistrikter og tjenestesteder.
 
 ## I
 

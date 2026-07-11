@@ -15,7 +15,7 @@ xml_hash: "467464aeac68834d6e1c227b0377181f855e2f3c2e00397a5cf8fe1d9e4690a7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-10T17:52:49.841668+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -42,7 +42,9 @@ Skjørost fra Røros-traktene skal være finkornet og ha en myk til halvfast kon
 
 Skjørost fra Røros-traktene skal være foredlet i Røros-traktene av melk produsert i fylkene Hedmark, Oppland, Sør-Trøndelag og Nord-Trøndelag. Røros-traktene omfatter kommunene Alvdal, Engerdal, Folldal, Os, Rendalen, Tolga og Tynset og området Atndalen i Hedmark fylke, og kommunene Holtålen, Røros, Tydal, og de tidligere kommunene Singsås og Budal i nåværende Midtre Gauldal kommune og deler av gamle Kvikne kommune i nåværende Rennebu kommune i Sør-Trøndelag fylke, jf. kart i vedlegg 2 med nærmere beskrivelse av Røros-traktene.
 
-3.*Produksjonsmetode**Råvare*
+3.*Produksjonsmetode*
+
+*Råvare*
 
 Til produksjon av Skjørost fra Røros-traktene skal det brukes skummetmelk.
 *Ysting*

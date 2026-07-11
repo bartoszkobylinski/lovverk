@@ -15,7 +15,7 @@ xml_hash: "3d8c3531501fc154c1cd618349270aa8732bc6401b5a7ed9981e246d8bc8f6e3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-05-08T05:54:50.775222+00:00"
+retrieved_at: "2026-07-10T17:52:49.841668+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -84,7 +84,11 @@ For å gjøre det lett å finne frem til ordlyden i de forordningene som blir gj
 
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2015/2283](eu/32015r2283) som endret ved forordning [(EU) 2019/1381](eu/32019r1381) med de endringer og tillegg som følger av EØS-tilpasningen av grunnrettsakten i samsvar med vedlegg II, kapittel XII nr. 124
 
-►**B** EUROPAPARLAMENTS- OG RÅDSFORORDNING (EU) 2015/2283 av 25. november 2015som endret ved:►**M1** Rådsforordning (EU) nr. 518/2013 av 13. mai 2013
+►**B** EUROPAPARLAMENTS- OG RÅDSFORORDNING (EU) 2015/2283 av 25. november 2015
+
+som endret ved:
+
+►**M1** Rådsforordning (EU) nr. 518/2013 av 13. mai 2013
 
 ### EUROPAPARLAMENTS- OG RÅDSFORORDNING [(EU) 2015/2283](eu/32015r2283)
 av 25. november 2015
@@ -253,7 +257,8 @@ FRAMGANGSMÅTER FOR GODKJENNING AV ET NYTT NÆRINGSMIDDEL
 ### AVSNITT I
 Alminnelige regler
 
-Artikkel 10
+###### Artikkel 10
+
 Framgangsmåte for godkjenning av omsetning i Unionen av et nytt næringsmiddel og ajourføring av EU-listen
 
 ►**M1**
@@ -274,7 +279,8 @@ Framgangsmåte for godkjenning av omsetning i Unionen av et nytt næringsmiddel 
 
 7\. Søkeren kan når som helst trekke tilbake søknaden og dermed avslutte framgangsmåten.
 
-Artikkel 11
+###### Artikkel 11
+
 Uttalelse fra Myndigheten
 
 1\. Dersom Kommisjonen anmoder om en uttalelse fra Myndigheten, skal den oversende den gyldige søknaden til Myndigheten umiddelbart og senest én måned etter at den har bekreftet at søknaden er gyldig. Myndigheten skal vedta sin uttalelse senest ni måneder etter at den har mottatt en gyldig søknad.
@@ -291,14 +297,16 @@ Uttalelse fra Myndigheten
 
 7\. Myndigheten skal gjøre tilleggsopplysningene framlagt i samsvar med nr. 4 og 6, tilgjengelig for Kommisjonen og medlemsstatene.
 
-Artikkel 12
+###### Artikkel 12
+
 Godkjenning av et nytt næringsmiddel og ajourføringer av EU-listen
 
 1\. Innen sju måneder etter datoen for offentliggjøring av Myndighetens uttalelse skal Kommisjonen framlegge for komiteen nevnt i artikkel 30 nr. 1, et utkast til gjennomføringsrettsakt om godkjenning av omsetning i Unionen av et nytt næringsmiddel og ajourføring av EU-listen, idet det tas hensyn til følgende:vilkårene fastsatt i artikkel 7 bokstav a) og b) og eventuelt bokstav c) i nevnte artikkel,alle relevante bestemmelser i unionsretten, herunder føre-var-prinsippet som nevnt i artikkel 7 i forordning [(EF) nr. 178/2002](eu/32002r0178),Myndighetens uttalelse,alle andre berettigede faktorer som er relevante for den aktuelle søknaden.Nevnte gjennomføringsrettsakt skal vedtas etter framgangsmåten med undersøkelseskomité nevnt i artikkel 30 nr. 3.
 
 2\. Dersom Kommisjonen ikke har anmodet om en uttalelse fra Myndigheten i samsvar med artikkel 10 nr. 3, skal fristen på sju måneder fastsatt i nr. 1, begynne å løpe fra den dato da en gyldig søknad er mottatt av Kommisjonen i samsvar med artikkel 10 nr. 1.
 
-Artikkel 13
+###### Artikkel 13
+
 Gjennomføringsrettsakter om fastsettelse av administrative og vitenskapelige krav til søknader
 
 Innen 1. januar 2018 skal Kommisjonen vedta gjennomføringsrettsaker ominnhold, utarbeiding og framleggelse av søknaden nevnt i artikkel 10 nr. 1,nærmere bestemmelser om omgående bekreftelse av slike søknaders gyldighet,hva slags opplysninger som skal være med i Myndighetens uttalelse nevnt i artikkel 11.
@@ -308,14 +316,16 @@ Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten nevnt i artik
 ### AVSNITT II
 Særlige regler for tradisjonelle næringsmidler fra tredjestater
 
-Artikkel 14
+###### Artikkel 14
+
 Melding om et tradisjonelt næringsmiddel fra en tredjestat
 
 I stedet for å følge framgangsmåten nevnt i artikkel 10 kan en søker som har til hensikt å bringe i omsetning i Unionen et tradisjonelt næringsmiddel fra en tredjestat, velge å sende en melding om dette til Kommisjonen.
 
 Meldingen skal inneholde følgende opplysninger:søkerens navn og adresse,navnet på og beskrivelsen av det tradisjonelle næringsmiddelet,nærmere opplysninger om det tradisjonelle næringsmiddelets sammensetning,det tradisjonelle næringsmiddelets opprinnelsesstat eller -stater,dokumenterte opplysninger om langvarig sikker bruk som næringsmiddel i en tredjestat,et forslag til vilkår for tiltenkt bruk og særlige merkingskrav som ikke villeder forbrukeren, eller en etterprøvbar begrunnelse for hvorfor dette ikke er nødvendig.
 
-Artikkel 15
+###### Artikkel 15
+
 Framgangsmåte for melding om omsetning i Unionen av et tradisjonelt næringsmiddel fra en tredjestat
 
 1\. Kommisjonen skal oversende den gyldige meldingen fastsatt i artikkel 14 uten unødig opphold og senest én måned etter at den har bekreftet at søknaden er gyldig, til medlemsstatene og Myndigheten.
@@ -330,14 +340,16 @@ Framgangsmåte for melding om omsetning i Unionen av et tradisjonelt næringsmid
 
 5\. Dersom det er framsatt behørig begrunnede sikkerhetsrelaterte innvendinger for Kommisjonen i samsvar med nr. 2, skal Kommisjonen ikke tillate omsetning i Unionen av det berørte tradisjonelle næringsmiddelet eller ajourføre EU-listen.I slike tilfeller kan søkeren inngi en søknad til Kommisjonen i samsvar med artikkel 16.
 
-Artikkel 16
+###### Artikkel 16
+
 Søknad om godkjenning av et tradisjonelt næringsmiddel fra en tredjestat
 
 Dersom Kommisjonen i samsvar med artikkel 15 nr. 5 ikke tillater omsetning i Unionen av et tradisjonelt næringsmiddel fra en tredjestat eller ajourfører EU-listen, kan søkeren inngi en søknad som i tillegg til opplysningene som allerede er gitt i samsvar med artikkel 14, inneholder dokumenterte opplysninger om de behørig begrunnede sikkerhetsrelaterte innvendingene framsatt i samsvar med artikkel 15 nr. 2. ►**M1** Søknaden skal inngis i samsvar med standardiserte dataformater, dersom slike finnes, i henhold til artikkel 39f i forordning (EF) nr. 178/2002.◄**M1**
 
 Kommisjonen skal umiddelbart oversende den gyldige søknaden til Myndigheten og gjøre den tilgjengelig for medlemsstatene. ►**M1** Myndigheten skal offentliggjøre søknaden, relevant underlagsdokumentasjon og eventuelle tilleggsopplysninger som søkeren har framlagt, i samsvar med artikkel 23.◄**M1**
 
-Artikkel 17
+###### Artikkel 17
+
 Uttalelse fra Myndigheten om et tradisjonelt næringsmiddel fra en tredjestat
 
 1\. Myndigheten skal vedta sin uttalelse senest seks måneder etter at den har mottatt en gyldig søknad.
@@ -354,7 +366,8 @@ Uttalelse fra Myndigheten om et tradisjonelt næringsmiddel fra en tredjestat
 
 7\. Myndigheten skal gjøre tilleggsopplysningene framlagt i samsvar med nr. 4 og 6 tilgjengelig for Kommisjonen og medlemsstatene.
 
-Artikkel 18
+###### Artikkel 18
+
 Godkjenning av et tradisjonelt næringsmiddel fra en tredjestat og ajourføringer av EU-listen
 
 1\. Innen sju måneder etter datoen for offentliggjøring av Myndighetens uttalelse skal Kommisjonen framlegge for komiteen nevnt i artikkel 30 nr. 1, et utkast til gjennomføringsrettsakt om godkjenning av omsetning i Unionen av et nytt næringsmiddel og ajourføring av EU-listen, idet det tas hensyn til følgende:vilkårene fastsatt i artikkel 7 bokstav a) og b) og eventuelt bokstav c) i nevnte artikkel,alle relevante bestemmelser i unionsretten, herunder føre-var-prinsippet som nevnt i artikkel 7 i forordning [(EF) nr. 178/2002](eu/32002r0178),Myndighetens uttalelse,alle andre berettigede faktorer som er relevante for den aktuelle søknaden.Nevnte gjennomføringsrettsakt skal vedtas etter framgangsmåten med undersøkelseskomité nevnt i artikkel 30 nr. 3.
@@ -363,12 +376,14 @@ Godkjenning av et tradisjonelt næringsmiddel fra en tredjestat og ajourføringe
 
 3\. Søkeren kan når som helst trekke tilbake søknaden nevnt i artikkel 16 og dermed avslutte framgangsmåten.
 
-Artikkel 19
+###### Artikkel 19
+
 Ajourføringer av EU-listen med hensyn til godkjente tradisjonelle næringsmidler fra tredjestater
 
 Artikkel 10–13 kommer til anvendelse ved fjerning fra EU-listen av et tradisjonelt næringsmiddel fra en tredjestat eller ved tilføyelse, fjerning eller endring av spesifikasjoner, vilkår for bruk, ytterligere særlige merkingskrav eller krav om overvåking etter markedsføring i tilknytning til oppføringen av et tradisjonelt næringsmiddel fra en tredjestat på EU-listen.
 
-Artikkel 20
+###### Artikkel 20
+
 Gjennomføringsrettsakter om fastsettelse av administrative og vitenskapelige krav til tradisjonelle næringsmidler fra tredjestater
 
 Innen 1. januar 2018 skal Kommisjonen vedta gjennomføringsrettsaker ominnhold, utarbeiding og framleggelse av meldingene nevnt i artikkel 14 og søknadene nevnt i nr. 16,nærmere bestemmelser om omgående kontroll av at slike meldinger og søknader er gyldige,ordninger for utveksling av opplysninger med medlemsstatene og med Myndigheten når det gjelder framsetting av behørig begrunnede sikkerhetsrelaterte innvendinger som nevnt i artikkel 15 nr. 2,hva slags opplysninger som skal være med i Myndighetens uttalelse nevnt i artikkel 17.
@@ -998,7 +1013,9 @@ Utferdiget i Brussel 20. desember 2017.
 |  |  |
 |  | *President* |
 
-1 EUT L 327 av 11.12.2015, s. 1.2 Europaparlaments- og rådsforordning [(EF) nr. 258/97](eu/31997r0258) av 27. januar 1997 om nye næringsmidler og nye næringsmiddelingredienser (EFT L 43 av 14.2.1997, s. 1).► **M9**
+1 EUT L 327 av 11.12.2015, s. 1.2 Europaparlaments- og rådsforordning [(EF) nr. 258/97](eu/31997r0258) av 27. januar 1997 om nye næringsmidler og nye næringsmiddelingredienser (EFT L 43 av 14.2.1997, s. 1).
+
+► **M9**
 
 ### VEDLEGG
 EU-LISTE OVER NYE NÆRINGSMIDLER
@@ -3595,7 +3612,23 @@ Utferdiget i Brussel 19. mars 2018.
 ### VEDLEGG I
 MAL FOR FØLGEBREV TIL EN ANMODNING OM SAMRÅD FOR FASTSETTELSE AV STATUS SOM NYTT NÆRINGSMIDDEL
 
-*Medlemsstatens vedkommende myndighet*Dato: ......................................................Gjelder: Anmodning om samråd for fastsettelse av status som nytt næringsmiddel .......................... ................................... ............................................................................ ............................................Driftsansvarlig(e) for næringsmiddelforetak/samrådspart:Selskap: ............................................................... ............................................................................ ..Adresse: ............................................................... ............................................................................ ..Telefon: ............................................................... ............................................................................ ...E-post: ................................................................ ............................................................................ ....Kontaktperson: ......................................................... ...........................................................................
+*Medlemsstatens vedkommende myndighet*
+
+Dato: ......................................................
+
+Gjelder: Anmodning om samråd for fastsettelse av status som nytt næringsmiddel .......................... ................................... ............................................................................ ............................................
+
+Driftsansvarlig(e) for næringsmiddelforetak/samrådspart:
+
+Selskap: ............................................................... ............................................................................ ..
+
+Adresse: ............................................................... ............................................................................ ..
+
+Telefon: ............................................................... ............................................................................ ...
+
+E-post: ................................................................ ............................................................................ ....
+
+Kontaktperson: ......................................................... ...........................................................................
 
 framlegger denne anmodning om samråd med sikte på fastsettelse av status som nytt næringsmiddel for ...................................
 
@@ -3603,7 +3636,13 @@ Med vennlig hilsen
 
 Underskrift ..........................................
 
-Vedlegg:☐ Teknisk dokumentasjon☐ Dokumenter som underlag for anmodningen om samråd☐ Forklarende note
+Vedlegg:
+
+☐ Teknisk dokumentasjon
+
+☐ Dokumenter som underlag for anmodningen om samråd
+
+☐ Forklarende note
 
 ### VEDLEGG II
 MAL FOR TEKNISK DOKUMENTASJON

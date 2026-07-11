@@ -15,7 +15,7 @@ xml_hash: "b0983eb2fdc87d9674a651e2151a21e95574e9bf32e7a88abe1a7fbf0d0f9c5e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-10T17:52:49.841668+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -218,4 +218,8 @@ Dersom HELFO før ikrafttredelsen av forskriften her har gitt forhåndstilsagn t
 
 ## § 18. Endringer i andre forskrifter
 
-1\. I [forskrift 31. oktober 2008 nr. 1166](forskrift/2008-10-31-1166) om [pasientskadelovens](lov/2001-06-15-53) virkeområde og om tilskuddsplikt for den som yter helsehjelp utenfor den offentlige helsetjenesten, skal [§ 3](forskrift/2008-10-31-1166/§3) første ledd bokstav c lyde: – – –2. I [forskrift 18. april 1997 nr. 334 om egenandelstak 1](forskrift/1997-04-18-334) skal [§ 2](forskrift/1997-04-18-334/§2) annet ledd lyde: – – –3. I [forskrift 19. desember 2002 nr. 1789 om egenandelstak 2](forskrift/2002-12-19-1789) skal [§ 1](forskrift/2002-12-19-1789/§1) tredje ledd lyde: – – –
+1\. I [forskrift 31. oktober 2008 nr. 1166](forskrift/2008-10-31-1166) om [pasientskadelovens](lov/2001-06-15-53) virkeområde og om tilskuddsplikt for den som yter helsehjelp utenfor den offentlige helsetjenesten, skal [§ 3](forskrift/2008-10-31-1166/§3) første ledd bokstav c lyde: – – –
+
+2\. I [forskrift 18. april 1997 nr. 334 om egenandelstak 1](forskrift/1997-04-18-334) skal [§ 2](forskrift/1997-04-18-334/§2) annet ledd lyde: – – –
+
+3\. I [forskrift 19. desember 2002 nr. 1789 om egenandelstak 2](forskrift/2002-12-19-1789) skal [§ 1](forskrift/2002-12-19-1789/§1) tredje ledd lyde: – – –

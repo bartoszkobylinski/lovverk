@@ -15,7 +15,7 @@ xml_hash: "f915df2d3b1898732b2ca46ee56d7ae0881bfa7e6b9fbe23ab2712b728ca0112"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-10T17:52:49.841668+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -527,7 +527,19 @@ Blodkomponenter som er omtalt i EUs bloddirektiv, men ikke i denne forskriften k
 
 ### DEL A – Hurtigmeldingsformat for mistenkte alvorlige bivirkninger
 
-Rapporterende institusjonIdentifikasjon av meldingenDato for melding (dag/måned/år)Dato for overføring (dag/måned/år)Mottakers alder og kjønnDato for alvorlig bivirkning (dag/måned/år)Den alvorlige bivirkningen berører:
+Rapporterende institusjon
+
+Identifikasjon av meldingen
+
+Dato for melding (dag/måned/år)
+
+Dato for overføring (dag/måned/år)
+
+Mottakers alder og kjønn
+
+Dato for alvorlig bivirkning (dag/måned/år)
+
+Den alvorlige bivirkningen berører:
 
 - fullblod
 - røde blodlegemer
@@ -569,7 +581,23 @@ Skala for årsakssammenheng til bruk ved vurdering av alvorlige bivirkninger.
 
 ### DEL C – Bekreftelsesformat for alvorlige bivirkninger
 
-Rapporterende institusjonIdentifikasjon av meldingenDato for bekreftelse (dag/måned/år)Dato for alvorlig bivirkning (dag/måned/år)Bekreftelse av alvorlig bivirkning (ja/nei)Nivå for årsakssammenheng (NA, 0-3)Endring av den alvorlige bivirkningens art (ja/nei)Hvis ja, presiserKlinisk resultat (hvis kjent)
+Rapporterende institusjon
+
+Identifikasjon av meldingen
+
+Dato for bekreftelse (dag/måned/år)
+
+Dato for alvorlig bivirkning (dag/måned/år)
+
+Bekreftelse av alvorlig bivirkning (ja/nei)
+
+Nivå for årsakssammenheng (NA, 0-3)
+
+Endring av den alvorlige bivirkningens art (ja/nei)
+
+Hvis ja, presiser
+
+Klinisk resultat (hvis kjent)
 
 - Full helbredelse
 - Lett sekvele
@@ -584,11 +612,39 @@ Rapporterende institusjonIdentifikasjon av meldingenDato for bekreftelse (dag/m�
 
 ### DEL A – Hurtigmeldingsformat for alvorlige uønskede hendelser
 
-Rapporterende institusjonIdentifikasjon av meldingenDato for melding (dag/måned/år)Dato for alvorlig uønsket hendelse (dag/måned/år)*Presisering**Alvorlig uønsket hendelse som kan påvirke blodkomponents kvalitet og sikkerhet grunnet avvik i:**Defekt produkt**Defekt utstyr**Menneskelig feil**Annet* *(presiser)*FullblodstappingAferesetappingTesting av giverblodBehandlingLagringDistribusjonMateriellAnnet (presiser)
+Rapporterende institusjon
+
+Identifikasjon av meldingen
+
+Dato for melding (dag/måned/år)
+
+Dato for alvorlig uønsket hendelse (dag/måned/år)
+
+|  | *Presisering* |  |  |  |
+| --- | --- | --- | --- | --- |
+| *Alvorlig uønsket hendelse som kan påvirke blodkomponents kvalitet og sikkerhet grunnet avvik i:* | *Defekt produkt* | *Defekt utstyr* | *Menneskelig feil* | *Annet* *(presiser)* |
+| Fullblodstapping |  |  |  |  |
+| Aferesetapping |  |  |  |  |
+| Testing av giverblod |  |  |  |  |
+| Behandling |  |  |  |  |
+| Lagring |  |  |  |  |
+| Distribusjon |  |  |  |  |
+| Materiell |  |  |  |  |
+| Annet (presiser) |  |  |  |  |
 
 ### DEL B – Bekreftelsesformat for alvorlige uønskede hendelser
 
-Rapporterende institusjonIdentifikasjon av meldingenDato for bekreftelse (dag/måned/år)Dato for alvorlig uønsket hendelse (dag/måned/år)Årsaksanalyse (detaljer)Forbedrende tiltak iverksatt (detaljer).
+Rapporterende institusjon
+
+Identifikasjon av meldingen
+
+Dato for bekreftelse (dag/måned/år)
+
+Dato for alvorlig uønsket hendelse (dag/måned/år)
+
+Årsaksanalyse (detaljer)
+
+Forbedrende tiltak iverksatt (detaljer).
 
 ### DEL C – Format for årlig rapport om alvorlige uønskede hendelser
 

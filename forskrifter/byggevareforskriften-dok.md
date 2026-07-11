@@ -15,7 +15,7 @@ xml_hash: "40351d2182b8ed4d74f39d6a3010634bc8180bd7ac4650a6364d584732e61d80"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-05-09T06:13:15.984558+00:00"
+retrieved_at: "2026-07-10T17:52:49.841668+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -609,7 +609,15 @@ Klasser for elektriske kablers ytelse ved brannpåvirkning
 
 1 For varen som helhet, bortsett fra materialer av metall, og for eventuelle ytre komponenter i varen (f.eks. kappe).
 
-2 **s1** = TSP1200 ≤ 50 m2 *og* største SPR ≤ 0,25 m2 /s.**s1a** = **s1** og transmittans i samsvar med EN 61034-2 ≥ 80 %.**s1b** = **s1** og transmittans i samsvar med EN 61034-2 ≥ 60 % < 80 %.**s2** = TSP1200 ≤ 400 m2 *og* største SPR ≤ 1,5 m2 /s.**s3** = ikke s1 eller s2.
+2 **s1** = TSP1200 ≤ 50 m2 *og* største SPR ≤ 0,25 m2 /s.
+
+**s1a** = **s1** og transmittans i samsvar med EN 61034-2 ≥ 80 %.
+
+**s1b** = **s1** og transmittans i samsvar med EN 61034-2 ≥ 60 % < 80 %.
+
+**s2** = TSP1200 ≤ 400 m2 *og* største SPR ≤ 1,5 m2 /s.
+
+**s3** = ikke s1 eller s2.
 
 3 **d0** = ingen brennende dråper/partikler innen 1 200 s, **d1** = ingen brennende dråper/partikler i mer enn 10 s innen 1 200 s
 **d2** = ikke **d0** or **d1**.

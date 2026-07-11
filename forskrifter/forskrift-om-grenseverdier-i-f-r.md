@@ -17,7 +17,7 @@ xml_hash: "fa5c249d2bec7eccd139503ccf3a9515f9482c615ba305374c4fe686276d80bc"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-10T17:52:49.841668+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -60,7 +60,11 @@ For å gjøre det lett å finne frem til ordlyden i de forordningene som blir gj
 
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EF) nr. 124/2009](eu/32009r0124). Dette er grunnrettsakten. Grunnrettsakten er endret ved forordning [(EU) nr. 610/2012](eu/32012r0610). Alle endringer av grunnrettsakten samt de endringer og tillegg som følger av EØS-tilpasningen av grunnrettsakten i samsvar med vedlegg I er innarbeidet nedenfor.
 
-► **B** Kommisjonsforordning [(EF) nr. 124/2009](eu/32009r0124)som endret ved► **M1** Kommisjonsforordning [(EU) nr. 610/2012](eu/32012r0610) av 9. juli 2012.
+► **B** Kommisjonsforordning [(EF) nr. 124/2009](eu/32009r0124)
+
+som endret ved
+
+► **M1** Kommisjonsforordning [(EU) nr. 610/2012](eu/32012r0610) av 9. juli 2012.
 
 ### KOMMISJONSFORORDNING [(EF) nr. 124/2009](eu/32009r0124)
 av 10. februar 2009

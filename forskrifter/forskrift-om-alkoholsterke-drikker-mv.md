@@ -15,7 +15,7 @@ xml_hash: "6bb9a8f08031b99b2119e42ac448a0b871e923a5f8ecf97c3b9a85ddc5781859"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-10T17:52:49.841668+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -670,7 +670,8 @@ DELEGERING AV MYNDIGHET, GJENNOMFØRINGSBESTEMMELSER, OVERGANGSBESTEMMELSER OG S
 ### AVSNITT 1
 Delegering av myndighet og gjennomføringsbestemmelser
 
-Artikkel 46
+###### Artikkel 46
+
 Utøvelse av delegert myndighet
 
 1\. Myndigheten til å vedta delegerte rettsakter gis Kommisjonen med forbehold for vilkårene fastsatt i denne artikkelen.
@@ -689,7 +690,8 @@ Utøvelse av delegert myndighet
 
 8\. En delegert rettsakt vedtatt i henhold til artikkel 8, 19, 33, 41 og 50 skal tre i kraft bare dersom verken Europaparlamentet eller Rådet har gjort innsigelse mot rettsakten innen en frist på to måneder etter at rettsakten ble meddelt Europaparlamentet og Rådet, eller dersom både Europaparlamentet og Rådet før denne fristen har underrettet Kommisjonen om at de ikke vil gjøre innsigelse. På Europaparlamentets eller Rådets initiativ forlenges denne fristen med to måneder.
 
-Artikkel 47
+###### Artikkel 47
+
 Komitéprosedyre
 
 1\. Kommisjonen skal bistås av komiteen for alkoholsterke drikker nedsatt ved forordning [(EF) nr. 1576/89](eu/31989r1576). Nevnte komité skal være en komité i henhold til forordning [(EU) nr. 182/2011](eu/32011r0182).
@@ -699,14 +701,16 @@ Komitéprosedyre
 ### AVSNITT 2
 Unntak, overgangsbestemmelser og sluttbestemmelser
 
-Artikkel 48
+###### Artikkel 48
+
 Unntak fra kravene som gjelder nominelle mengder fastsatt i direktiv [2007/45/EF](eu/32007l0045)
 
 Som unntak fra artikkel 3 i direktiv [2007/45/EF](eu/32007l0045) og fra avsnitt 1 sjette rad i vedlegget til nevnte direktiv kan enkeltdestillert *shochu*26 framstilt i destillasjonsapparat (pot still) og tappet på flaske i Japan bringes i omsetning i Unionen i nominelle mengder på 720 ml og 1 800 ml.
 
 26 Som nevnt i vedlegg 2-D til avtalen mellom Den europeiske union og Japan om et økonomisk partnerskap.
 
-Artikkel 49
+###### Artikkel 49
+
 Oppheving
 
 1\. Uten at det berører artikkel 50, oppheves forordning [(EF) nr. 110/2008](eu/32008r0110) med virkning fra 25. mai 2021. Kapittel III i nevnte forordning oppheves imidlertid med virkning fra 8. juni 2019.
@@ -717,7 +721,8 @@ Oppheving
 
 27 Kommisjonens gjennomføringsforordning [(EU) nr. 716/2013](eu/32013r0716) av 25. juli 2013 om fastsettelse av regler for anvendelsen av europaparlaments- og rådsforordning [(EF) nr. 110/2008](eu/32008r0110) om definisjon av, betegnelse på og presentasjon, merking og beskyttelse av geografiske betegnelser på alkoholsterke drikker (EUT L 201 av 26.7.2013, s. 21).
 
-Artikkel 50
+###### Artikkel 50
+
 Overgangstiltak
 
 1\. Produkter nevnt i artikkel 1 nr. 1 i denne forordningen som ikke oppfyller kravene i denne forordningen, men som oppfyller kravene i forordning [(EF) nr. 110/2008](eu/32008r0110), og som er framstilt før 25. mai 2021, kan fortsatt bringes i omsetning fram til lagrene er tømt.
@@ -732,7 +737,8 @@ Overgangstiltak
 
 6\. Når det gjelder geografiske betegnelser som er registrert i samsvar med forordning [(EF) nr. 110/2008](eu/32008r0110), skal Kommisjonen på anmodning fra en medlemsstat offentliggjøre et enhetsdokument som den aktuelle medlemsstaten har framlagt, i *Den europeiske unions tidende*. Denne offentliggjøringen skal ledsages av en henvisning til offentliggjøringen av produktspesifikasjonen og skal ikke følges av en innsigelsesprosedyre.
 
-Artikkel 51
+###### Artikkel 51
+
 Ikrafttredelse og anvendelse
 
 1\. Denne forordningen trer i kraft den sjuende dagen etter at den er kunngjort i Den europeiske unions tidende.Den får anvendelse fra 25. mai 2021.
@@ -1270,24 +1276,28 @@ SÆRLIGE BESTEMMELSER
 ### AVSNITT 1
 SØKNAD OM REGISTRERING
 
-Artikkel 2
+###### Artikkel 2
+
 (Delegert myndighet i henhold til artikkel 41 nr. 1 bokstav a) i forordning (EU) 2019/787) Tilleggskrav til enhetsdokumentet
 
 Dersom enhetsdokumentet nevnt i artikkel 23 nr. 1 bokstav c) i forordning [(EU) 2019/787](eu/32019r0787) inneholder særlige krav til emballering, skal det også legges ved et sammendrag av begrunnelsen nevnt i artikkel 22 nr. 1 andre ledd i den forordningen.
 
-Artikkel 3
+###### Artikkel 3
+
 (Delegert myndighet i henhold til artikkel 41 nr. 1 bokstav a) i forordning (EU) 2019/787) Medlemsstatenes søknad
 
 Ved inngivelse av en søknad til Kommisjonen i samsvar med artikkel 24 nr. 7 i forordning [(EU) 2019/787](eu/32019r0787) skal den berørte medlemsstaten bekrefte at enhetsdokumentet nevnt i artikkel 23 nr. 2 bokstav b) i forordning [(EU) 2019/787](eu/32019r0787) er et sannferdig sammendrag av produktspesifikasjonen. Medlemsstaten skal være ansvarlig for eventuelle vesentlige avvik mellom enhetsdokumentet og produktspesifikasjonen. Søknaden skal inneholde en elektronisk henvisning til offentliggjøringen av produktspesifikasjonen.
 
-Artikkel 4
+###### Artikkel 4
+
 (Delegert myndighet i henhold til artikkel 41 nr. 1 bokstav b) i forordning (EU) 2019/787) Gyldig søknad
 
 1\. En søknad om registrering skal anses som gyldig dersom den er inngitt i samsvar med artikkel 24 i forordning (EU) 2019/787 og meddelt Kommisjonen i samsvar med artikkel 13 nr. 1 i gjennomføringsforordning [(EU) 2021/1236](eu/32021r1236), herunder enhetsdokumentet utarbeidet i samsvar med artikkel 3 i samme gjennomføringsforordning, og dersom den er fullstendig.En søknad om registrering skal anses som fullstendig dersom den oppfyller kravene i artikkel 22 og 23 i forordning (EU) 2019/787 og artikkel 2 og 3 i denne forordningen.
 
 2\. Dersom Kommisjonen anser at en søknad ikke er gyldig, skal den underrette myndighetene i medlemsstaten eller det berørte tredjelandet eller søkeren som er etablert i et tredjeland, alt etter hva som er relevant, om grunnene til at søknaden ikke anses som gyldig.
 
-Artikkel 5
+###### Artikkel 5
+
 (Delegert myndighet i henhold til artikkel 41 nr. 1 bokstav b) i forordning (EU) 2019/787) Nasjonal overgangsperiode
 
 1\. For å få bukt med midlertidige problemer og med det langsiktige målet å sikre at alle produsenter i det berørte området overholder produktspesifikasjonen, kan en medlemsstat fastsette en overgangsperiode, forutsatt av de berørte aktørene har markedsført den aktuelle alkoholsterke drikken på lovlig vis ved kontinuerlig bruk av de berørte navnene i minst fem år før søknaden inngis til myndighetene i medlemsstaten, og at disse midlertidige problemene er tatt opp i den nasjonale innsigelsesprosedyren nevnt i artikkel 24 nr. 6 i forordning [(EU) 2019/787](eu/32019r0787).Overgangsperioden skal starte fra den datoen søknaden inngis til Kommisjonen, og skal være så kort som mulig. Den skal ikke vare lenger enn ti år.
@@ -1299,19 +1309,22 @@ Artikkel 5
 ### AVSNITT 2
 ENDRING AV PRODUKTSPESIFIKASJONER
 
-Artikkel 6
+###### Artikkel 6
+
 (Delegert myndighet i henhold til artikkel 41 nr. 2 i forordning (EU) 2019/787) Søknader om endringer på unionsplan av produktspesifikasjoner
 
 Med henblikk på artikkel 31 i forordning (EU) 2019/787 skal en søknad om godkjenning av en endring på unionsplan av en produktspesifikasjon bare inneholde endringer på unionsplan. Dersom en søknad om godkjenning av en endring på unionsplan også inneholder standardendringer eller midlertidige endringer, får framgangsmåten for en endring på unionsplan bare anvendelse på endringen på unionsplan. Standardendringene eller de midlertidige endringene i søknaden skal anses for ikke å være inngitt.
 
-Artikkel 7
+###### Artikkel 7
+
 (Delegert myndighet i henhold til artikkel 41 nr. 2 i forordning (EU) 2019/787) Gyldige søknader om godkjenning av endringer på unionsplan
 
 1\. Søknader om godkjenning av en endring på unionsplan av en produktspesifikasjon skal anses som gyldige dersom de er inngitt i samsvar med artikkel 31 i forordning (EU) 2019/787 og meddelt Kommisjonen i samsvar med artikkel 13 nr. 1 i gjennomføringsforordning [(EU) 2021/1236](eu/32021r1236) samt oppfyller kravene i artikkel 7 i samme gjennomføringsforordning.Kommisjonens godkjenning av en søknad om godkjenning av en endring på unionsplan av en produktspesifikasjon gjelder bare de endringene på unionsplan som er angitt i selve søknaden.
 
 2\. Dersom Kommisjonen anser at en søknad ikke er gyldig, skal den underrette myndighetene i medlemsstaten eller det berørte tredjelandet eller søkeren som er etablert i et tredjeland, alt etter hva som er relevant, om grunnene til at søknaden ikke anses som gyldig.
 
-Artikkel 8
+###### Artikkel 8
+
 (Delegert myndighet i henhold til artikkel 41 nr. 2 i forordning (EU) 2019/787) Standardendringer av produktspesifikasjoner
 
 1\. Med henblikk på artikkel 31 nr. 5 i forordning [(EU) 2019/787](eu/32019r0787) skal søknader om godkjenning av en standardendring av en produktspesifikasjon inngis til myndighetene i medlemsstaten der det geografiske området for det berørte produktet ligger. Søkerne skal oppfylle vilkårene fastsatt i artikkel 24 nr. 1, 2 eller 3 i forordning (EU) 2019/787. Dersom søknaden om godkjenning av en standardendring av en produktspesifikasjon ikke kommer fra søkeren som har inngitt søknaden om beskyttelse av det eller de navnene som produktspesifikasjonen gjelder, skal medlemsstaten gi den søkeren mulighet til å inngi kommentarer til søknaden, dersom den søkeren fremdeles eksisterer.Søknaden om godkjenning av en standardendring skal inneholde en beskrivelse av standardendringene og dokumentasjon på at de foreslåtte endringene kan anses som standardendringer i henhold til artikkel 31 i forordning (EU) 2019/787. Et sammendrag av begrunnelsen for at endringene er nødvendige, skal legges ved.
@@ -1330,14 +1343,16 @@ Artikkel 8
 
 8\. Nr. 7 gjelder tilsvarende med nødvendige endringer dersom en del av det berørte geografiske området ligger på territoriet til et tredjeland.
 
-Artikkel 9
+###### Artikkel 9
+
 (Delegert myndighet i henhold til artikkel 41 nr. 2 i forordning (EU) 2019/787) Forholdet mellom endringer på unionsplan og standardendringer
 
 1\. Dersom en standardendring som innebærer en endring av enhetsdokumentet, godkjennes i påvente av at en søknad om godkjenning av en endring på unionsplan behandles, skal den berørte medlemsstaten oppdatere enhetsdokumentet vedlagt søknaden om godkjenning av en endring på unionsplan i samsvar med dette. Dersom endringen på unionsplan som er under behandling, er blitt offentliggjort i C-serien i *Den europeiske unions tidende* med henblikk på innsigelsesprosedyren, skal den oppdaterte utgaven av enhetsdokumentet offentliggjøres i L-serien i *Den europeiske unions tidende* som et vedlegg til gjennomføringsforordningen som godkjenner endringen på unionsplan.
 
 2\. Dersom det i den endrede utgaven av enhetsdokumentet som inngår i en søknad om standardendring som er godkjent på nasjonalt plan, ikke tas hensyn til de siste endringene på unionsplan som er blitt godkjent, skal den standardendringen ikke offentliggjøres i *Den europeiske unions tidende*. Medlemsstaten som har godkjent den aktuelle standardendringen, skal sende den konsoliderte utgaven av enhetsdokumentet, som endret ved både endringene på unionsplan og standardendringene, til Kommisjonen med henblikk på offentliggjøring i *Den europeisk unions tidende*.
 
-Artikkel 10
+###### Artikkel 10
+
 (Delegert myndighet i henhold til artikkel 41 nr. 2 i forordning (EU) 2019/787) Midlertidige endringer av produktspesifikasjoner
 
 1\. Midlertidige endringer av produktspesifikasjoner skal godkjennes og offentliggjøres av medlemsstaten der det geografiske området for det berørte produktet ligger. Kommisjonen skal underrettes om midlertidige endringer og begrunnelsen for dem senest én måned fra datoen for offentliggjøring av den nasjonale beslutningen om godkjenning. En midlertidig endring får anvendelse i den berørte medlemsstaten fra datoen for offentliggjøring av beslutningen om godkjenning.
@@ -1353,14 +1368,16 @@ Artikkel 10
 ### AVSNITT 3
 ANNULLERING AV EN GEOGRAFISK BETEGNELSE
 
-Artikkel 11
+###### Artikkel 11
+
 (Delegert myndighet i henhold til artikkel 41 nr. 1 bokstav b) i forordning (EU) 2019/787) Framgangsmåte for annullering
 
 1\. Med henblikk på artikkel 32 nr. 1 første ledd i forordning [(EU) 2019/787](eu/32019r0787) kan medlemsstatene på eget initiativ inngi en anmodning om annullering av registreringen av en geografisk betegnelse.
 
 2\. Kommisjonen skal offentliggjøre anmodningen om annullering inngitt i henhold til artikkel 32 nr. 1 første ledd i forordning [(EU) 2019/787](eu/32019r0787) i *Den europeiske unions tidende* (C-serien).
 
-Artikkel 12
+###### Artikkel 12
+
 (Delegert myndighet i henhold til artikkel 41 nr. 1 bokstav b) i forordning (EU) 2019/787) Gyldige anmodninger om annullering
 
 1\. Med henblikk på artikkel 32 nr. 1 og 2 i forordning [(EU) 2019/787](eu/32019r0787) skal en anmodning om annullering anses som gyldigdersom den oppfyller kravene i artikkel 10 i gjennomføringsforordning [(EU) 2021/1236](eu/32021r1236), ogfor anmodninger i henhold til artikkel 32 nr. 1 i forordning [(EU) 2019/787](eu/32019r0787), dersom den er basert på grunnene nevnt i første ledd i den bestemmelsen.
@@ -1372,7 +1389,8 @@ Artikkel 12
 ### AVSNITT 4
 REGISTER
 
-Artikkel 13
+###### Artikkel 13
+
 (Delegert myndighet i henhold til artikkel 33 nr. 1 og 2 i forordning (EU) 2019/787) Register
 
 1\. Det elektroniske registeret over geografiske betegnelser på alkoholsterke drikker nevnt i artikkel 33 i forordning (EU) 2019/787 (heretter kalt «registeret») skal opprettes. Det skal være basert på digitale systemer som forvaltes av Kommisjonen, og skal være offentlig tilgjengelig.
@@ -1499,14 +1517,16 @@ SÆRLIGE BESTEMMELSER
 ### AVSNITT 1
 SØKNAD OM REGISTRERING
 
-Artikkel 2
+###### Artikkel 2
+
 (Gjennomføringsmyndighet i henhold til artikkel 42 nr. 2 i forordning (EU) 2019/787) Felles søknader
 
 1\. Med henblikk på artikkel 24 nr. 4 i forordning [(EU) 2019/787](eu/32019r0787) og når det gjelder felles søknader om registrering av en geografisk betegnelse, skal kravene i artikkel 23 i forordning (EU) 2019/787 og i artikkel 2 i delegert forordning [(EU) 2021/1235](eu/32021r1235) være oppfylt i alle berørte medlemsstater og tredjeland. Artikkel 3 i delegert forordning [(EU) 2021/1235](eu/32021r1235) får anvendelse på alle berørte medlemsstater.
 
 2\. Medlemsstaten, myndigheten i tredjelandet eller en søker som er etablert i et tredjeland som inngir en felles søknad til Kommisjonen i henhold til nr. 1, blir mottaker av enhver melding eller beslutning fra Kommisjonen.
 
-Artikkel 3
+###### Artikkel 3
+
 (Gjennomføringsmyndighet i henhold til artikkel 42 nr. 2 i forordning (EU) 2019/787) Enhetsdokument
 
 1\. Med henblikk på artikkel 23 nr. 1 første ledd bokstav c) og artikkel 23 nr. 2 bokstav b) i forordning [(EU) 2019/787](eu/32019r0787) skal enhetsdokumentet være kortfattet og inneholde høyst 2 500 ord, unntatt i behørig begrunnede tilfeller.
@@ -1517,12 +1537,14 @@ Artikkel 3
 
 4\. Nr. 1 og 2 får også anvendelse på et enhetsdokument som omfattes av en anmodning om offentliggjøring i samsvar med artikkel 50 nr. 6 i forordning [(EU) 2019/787](eu/32019r0787).
 
-Artikkel 4
+###### Artikkel 4
+
 (Gjennomføringsmyndighet i henhold til artikkel 42 nr. 1 bokstav a) i forordning (EU) 2019/787) Geografisk område
 
 Det geografiske området nevnt i artikkel 22 nr. 1 første ledd bokstav d) i forordning [(EU) 2019/787](eu/32019r0787) skal defineres i produktspesifikasjonen på en nøyaktig og utvetydig måte, idet det så langt det er mulig, vises til fysiske eller administrative grenser.
 
-Artikkel 5
+###### Artikkel 5
+
 (Gjennomføringsmyndighet i henhold til artikkel 42 nr. 2 i forordning (EU) 2019/787) Ytterligere nasjonal granskingsprosedyre
 
 Dersom det som følge av kommunikasjonen nevnt i artikkel 30 nr. 1 i forordning [(EU) 2019/787](eu/32019r0787) mellom Kommisjonen og den berørte medlemsstaten gjøres vesentlige endringer i produktspesifikasjonen, skal disse endringene offentliggjøres på egnet måte i den berørte medlemsstaten, slik at enhver fysisk eller juridisk person som har en berettiget interesse, og som er etablert eller bosatt på den aktuelle medlemsstatens territorium, kan gjøre innsigelse før den nye utgaven av enhetsdokumentet sendes til Kommisjonen.
@@ -1534,7 +1556,8 @@ Den elektroniske henvisningen til produktspesifikasjonen skal oppdateres og før
 ### AVSNITT 2
 INNSIGELSESPROSEDYRE
 
-Artikkel 6
+###### Artikkel 6
+
 (Gjennomføringsmyndighet i henhold til artikkel 42 nr. 1 bokstav b) i forordning (EU) 2019/787) Regler for innsigelsesprosedyren
 
 1\. En melding om innsigelse som nevnt i artikkel 27 nr. 1 i forordning [(EU) 2019/787](eu/32019r0787) skal inneholdenavnet offentliggjort i *Den europeiske unions tidende* (C-serien) som innsigelsen gjelder,henvisningen til *Den europeiske unions tidende* (C-serien) der den aktuelle søknaden om registrering av navnet, søknaden om endring på unionsplan eller anmodningen om annullering er offentliggjort,navnet på og kontaktopplysningene til myndigheten i medlemsstaten eller tredjelandet eller den fysiske eller juridiske personen som har inngitt meldingen om innsigelse,erklæringen om at søknaden kan være i strid med kravene i kapittel III i forordning [(EU) 2019/787](eu/32019r0787).En melding om innsigelse skal utarbeides i samsvar med skjemaet i vedlegg II.
@@ -1550,7 +1573,8 @@ Artikkel 6
 ### AVSNITT 3
 ENDRING AV PRODUKTSPESIFIKASJONEN
 
-Artikkel 7
+###### Artikkel 7
+
 (Gjennomføringsmyndighet i henhold til artikkel 42 nr. 1 bokstav c) i forordning (EU) 2019/787) Søknader om endringer på unionsplan
 
 1\. En søknad om godkjenning av en endring på unionsplan av en produktspesifikasjon som nevnt i artikkel 31 i forordning (EU) 2019/787 skal inneholdedet beskyttede navnet som endringen gjelder,søkerens navn og kontaktopplysninger og en beskrivelse av søkerens berettigede interesse,avsnittene i produktspesifikasjonen og enhetsdokumentet som berøres av endringen,en redegjørelse for hvorfor endringen omfattes av definisjonen av en endring på unionsplan som angitt i artikkel 31 i forordning (EU) 2019/787,en beskrivelse av og begrunnelsen for hver av de foreslåtte endringene,det endrede konsoliderte enhetsdokumentet,den elektroniske henvisningen til offentliggjøringen av den endrede konsoliderte produktspesifikasjonen,erklæringen fra medlemsstaten om at den anser at søknaden oppfyller kravene i forordning [(EU) 2019/78](eu/32019d0078) og bestemmelsene vedtatt i henhold til den,bare for søknader fra tredjeland: Bevis på at den ønskede endringen er i samsvar med gjeldende lovgivning om beskyttelse av geografiske betegnelser i det aktuelle tredjelandet.Beskrivelsen og begrunnelsen nevnt i bokstav e) og dokumentene nevnt i bokstav f) skal ikke inneholde mer enn 2 500 ord hver, unntatt i behørig begrunnede tilfeller.
@@ -1561,7 +1585,8 @@ Artikkel 7
 
 4\. Med henblikk på artikkel 31 nr. 4 i forordning [(EU) 2019/787](eu/32019r0787) sammenholdt med artikkel 26 nr. 2 i samme forordning skal Kommisjonen i tillegg til det endrede enhetsdokumentet og henvisningen til offentliggjøringen av den endrede produktspesifikasjonen offentliggjøre søknaden om godkjenning av en endring på unionsplan av en produktspesifikasjon i *Den europeiske unions tidende* (C-serien).Navnene på de fysiske eller juridiske personene eller tjenestemennene i medlemsstatene eller tredjelandene som inngir søknaden, skal offentliggjøres som en del av nevnte søknad.
 
-Artikkel 8
+###### Artikkel 8
+
 (Gjennomføringsmyndighet i henhold til artikkel 42 nr. 1 bokstav c) i forordning (EU) 2019/787) Melding om en standardendring
 
 1\. En melding om en godkjent standardendring av produktspesifikasjonen i samsvar med artikkel 8 nr. 2 andre ledd og artikkel 8 nr. 3, 7 og 8 i delegert forordning [(EU) 2021/1235](eu/32021r1235) skal inneholdehenvisningen til det beskyttede navnet som standardendringen gjelder,en redegjørelse for hvorfor endringen omfattes av definisjonen av en standardendring som angitt i artikkel 31 i forordning (EU) 2019/787,en beskrivelse av den godkjente endringen og informasjon om hvorvidt endringen medfører en endring av enhetsdokumentet,et sammendrag av begrunnelsen for at endringen er nødvendig,beslutningen om godkjenning av standardendringen som nevnt i artikkel 8 nr. 2 og 3 i delegert forordning [(EU) 2021/1235](eu/32021r1235),dersom det er relevant, det endrede konsoliderte enhetsdokumentet,den elektroniske henvisningen til offentliggjøringen av den endrede konsoliderte produktspesifikasjonen,
@@ -1574,7 +1599,8 @@ Artikkel 8
 
 5\. Med henblikk på artikkel 8 nr. 5 i delegert forordning [(EU) 2021/1235](eu/32021r1235) skal navnet på medlemsstaten eller tredjelandet eller den fysiske eller juridiske personen som sender en melding om en godkjent standardendring av produktspesifikasjonen for en geografisk betegnelse, offentliggjøres som en del av meldingen.
 
-Artikkel 9
+###### Artikkel 9
+
 (Gjennomføringsmyndighet i henhold til artikkel 42 nr. 1 bokstav c) i forordning (EU) 2019/787) Melding om en midlertidige endring
 
 1\. En melding om en godkjent midlertidig endring av produktspesifikasjonen i samsvar med artikkel 10 nr. 1–4 i delegert forordning [(EU) 2021/1235](eu/32021r1235) skal inneholdehenvisningen til det beskyttede navnet som den gjelder,en beskrivelse av den godkjente midlertidige endringen og begrunnelsen for den som nevnt i artikkel 31 nr. 3 i forordning [(EU) 2019/787](eu/32019r0787),en henvisning til vedkommende myndigheters formelle anerkjennelse av naturkatastrofer eller ugunstige værforhold eller innføring av obligatoriske helse- og plantehelsetiltak,den elektroniske henvisningen til offentliggjøringen av den nasjonale beslutningen om godkjenning av den midlertidige endringen.
@@ -1590,7 +1616,8 @@ Artikkel 9
 ### AVSNITT 4
 ANNULLERING
 
-Artikkel 10
+###### Artikkel 10
+
 (Gjennomføringsmyndighet i henhold til artikkel 42 nr. 1 bokstav d) i forordning (EU) 2019/787) Anmodninger om annullering
 
 1\. En anmodning om annullering av registreringen av en geografisk betegnelse som nevnt i artikkel 32 i forordning (EU) 2019/787 skal inneholdehenvisningen til det beskyttede navnet som den gjelder,medlemsstaten eller tredjelandet som det geografiske området tilhører,navnet på og kontaktopplysningene til myndigheten eller den juridiske personen som søker om å få registreringen annullert. Dersom en fysisk person anmoder om annullering, kan navnet og andre personopplysninger utelates i anmodningen og sendes separat til Kommisjonen,en beskrivelse av den berettigede interessen til den fysiske eller juridiske personen som søker om å få registreringen annullert. Dette kravet gjelder ikke for nasjonale myndigheter,en angivelse av begrunnelsen for anmodningen om annullering,nærmere opplysninger om faktiske forhold, bevis og kommentarer som understøtter anmodningen om annullering,erklæringen fra medlemsstaten om at den anser at anmodningen om annullering oppfyller kravene i artikkel 32 i forordning [(EU) 2019/78](eu/32019d0078) og bestemmelsene vedtatt i henhold til den.Dersom det er relevant, kan anmodningen om annullering ledsages av underlagsdokumenter.
@@ -1602,7 +1629,8 @@ Artikkel 10
 ### AVSNITT 5
 BRUK AV UNIONSSYMBOLET
 
-Artikkel 11
+###### Artikkel 11
+
 (Gjennomføringsmyndighet i henhold til artikkel 20 bokstav c) i forordning (EU) 2019/787) Unionssymbol
 
 Unionssymbolet for beskyttede geografiske betegnelser omhandlet i artikkel 16 i forordning (EU) 2019/787 skal gjengis i samsvar med vedlegg X til gjennomføringsforordning [(EU) nr. 668/2014](eu/32014r0668).
@@ -1610,7 +1638,8 @@ Unionssymbolet for beskyttede geografiske betegnelser omhandlet i artikkel 16 i 
 ### AVSNITT 6
 KONTROLLER
 
-Artikkel 12
+###### Artikkel 12
+
 (Gjennomføringsmyndighet i henhold til artikkel 42 nr. 1 bokstav e) i forordning (EU) 2019/787) Kontroll av samsvar med produktspesifikasjonen
 
 1\. Med henblikk på denne artikkelen menes med «produsent av en alkoholsterk drikk med geografisk betegnelse» eller «virksomhet som bearbeider en alkoholsterk drikk med geografisk betegnelse», heretter kalt «produsent» eller «bearbeidingsvirksomhet», en aktør hvis virksomhet omfattes av produktspesifikasjonen for den aktuelle geografiske betegnelsen.
@@ -2027,7 +2056,9 @@ OFFISIELT SERTIFIKAT ELLER OPPFØRING PÅ LISTE OVER PRODUSENTER ELLER BEARBEIDI
 
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 251/2014](eu/32014r0251). Dette er grunnrettsakten. Alle endringer av grunnrettsakten og de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II kapittel XXVII nr. 9b er innarbeidet nedenfor.
 
-►**B** Forordning [(EU) nr. 251/2014](eu/32014r0251)►**EØS-tilpasning som følge av EØS-avtalen vedlegg II kapittel XXVII**
+►**B** Forordning [(EU) nr. 251/2014](eu/32014r0251)
+
+►**EØS-tilpasning som følge av EØS-avtalen vedlegg II kapittel XXVII**
 
 ### EUROPAPARLAMENTS- OG RÅDSFORORDNING [(EU) nr. 251/2014](eu/32014*0251)
 av 26. februar 2014

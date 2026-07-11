@@ -15,7 +15,7 @@ xml_hash: "cb5bf257b0226d61a2a0dc7b7f3bec6eb043f0aa3968acc14c3cde007983d93a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-10T17:52:49.841668+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -164,7 +164,16 @@ Dette vil dreie seg om små volum og bør derfor ikkje medreknast, på same måt
 
 Med skip i utanriksfart er meint skip som seglar mellom norsk hamn der bunkring skjer og utanlandsk hamn.
 
-*[§ 5](forskrift/2006-09-01-1019/§5) andre ledd:*Eksempel:A produserer sjølv10.000 m3A importerer sjølv10.000 m3A kjøper av annan lagringspliktig30.000 m3Sum50.000 m3
+*[§ 5](forskrift/2006-09-01-1019/§5) andre ledd:*
+
+Eksempel:
+
+|  |  |
+| --- | --- |
+| A produserer sjølv | 10.000 m3 |
+| A importerer sjølv | 10.000 m3 |
+| A kjøper av annan lagringspliktig | 30.000 m3 |
+| Sum | 50.000 m3 |
 
 Her er A i utgangspunktet lagringspliktig for 20.000 m3 .
 

@@ -46,6 +46,8 @@ Stjerneanisterpener som fôrtilsetningsstoff tilbaketrekkes fra markedet, jf. fo
 
 Fôrtilsetningsstoffer, tillatt brukt i fôrvare, er tatt inn i EU's register over godkjente tilsetningsstoffer i fôr. EU-registeret1 er kun ment å være til informasjon og må sees i sammenheng med de til enhver tid inntatte EØS-rettsaktene i denne forskriften.
 
+1 EU-register over godkjente tilsetningsstoffer i fôr: https://ec.europa.eu/food/sites/food/files/safety/docs/animal-feed-eu-reg-comm_register_feed_additives_1831-03.pdf
+
 > Endret ved [forskrifter 15 juni 2005 nr. 678](forskrift/2005-06-15-678), [25 okt 2005 nr. 1252](forskrift/2005-10-25-1252), [22 mars 2006 nr. 365](forskrift/2006-03-22-365), [13 nov 2006 nr. 1318](forskrift/2006-11-13-1318), [14 mars 2007 nr. 268](forskrift/2007-03-14-268), [15 juni 2007 nr. 665](forskrift/2007-06-15-665), [28 juni 2007 nr. 813](forskrift/2007-06-28-813), [31 juli 2007 nr. 940](forskrift/2007-07-31-940), [24 okt 2007 nr. 1174](forskrift/2007-10-24-1174), [14 des 2007 nr. 1533](forskrift/2007-12-14-1533), [4 april 2008 nr. 322](forskrift/2008-04-04-322), [28 april 2008 nr. 402](forskrift/2008-04-28-402), [6 juni 2008 nr. 927](forskrift/2008-06-06-927), [9 feb 2009 nr. 152](forskrift/2009-02-09-152), [18 mars 2009 nr. 343](forskrift/2009-03-18-343), [4 mai 2009 nr. 472](forskrift/2009-05-04-472), [3 juni 2009 nr. 584](forskrift/2009-06-03-584), [1 feb 2010 nr. 95](forskrift/2010-02-01-95), [22 mars 2010 nr. 440](forskrift/2010-03-22-440), [24 mars 2010 nr. 453](forskrift/2010-03-24-453), [30 april 2010 nr. 638](forskrift/2010-04-30-638), [7 mai 2010 nr. 678](forskrift/2010-05-07-678), [20 sep 2010 nr. 1278](forskrift/2010-09-20-1278), [3 mai 2011 nr. 453](forskrift/2011-05-03-453), [1 nov 2011 nr. 1074](forskrift/2011-11-01-1074), [5 des 2011 nr. 1321](forskrift/2011-12-05-1321), [26 april 2012 nr. 394](forskrift/2012-04-26-394) (i kraft 1 mai 2012), [27 april 2012 nr. 395](forskrift/2012-04-27-395) (i kraft 1 mai 2012), [3 mai 2012 nr. 398](forskrift/2012-05-03-398), [14 des 2012 nr. 1322](forskrift/2012-12-14-1322), [4 feb 2013 nr. 137](forskrift/2013-02-04-137), [21 mars 2013 nr. 324](forskrift/2013-03-21-324), [5 april 2013 nr. 390](forskrift/2013-04-05-390), [6 mai 2013 nr. 433](forskrift/2013-05-06-433), [17 juni 2013 nr. 654](forskrift/2013-06-17-654), [1 juli 2013 nr. 814](forskrift/2013-07-01-814), [7 okt 2013 nr. 1210](forskrift/2013-10-07-1210), [21 okt 2013 nr. 1242](forskrift/2013-10-21-1242), [12 nov 2013 nr. 1315](forskrift/2013-11-12-1315), [17 des 2013 nr. 1563](forskrift/2013-12-17-1563), [20 jan 2014 nr. 50](forskrift/2014-01-20-50), [19 feb 2014 nr. 198](forskrift/2014-02-19-198), [30 april 2014 nr. 605](forskrift/2014-04-30-605), [21 mai 2014 nr. 692](forskrift/2014-05-21-692), [11 juli 2014 nr. 994](forskrift/2014-07-11-994), [26 sep 2014 nr. 1280](forskrift/2014-09-26-1280), [29 okt 2014 nr. 1365](forskrift/2014-10-29-1365), [17 mars 2015 nr. 227](forskrift/2015-03-17-227), [25 mars 2015 nr. 307](forskrift/2015-03-25-307), [22 april 2015 nr. 423](forskrift/2015-04-22-423), [18 mai 2015 nr. 521](forskrift/2015-05-18-521), [15 juli 2015 nr. 905](forskrift/2015-07-15-905), [5 okt 2015 nr. 1160](forskrift/2015-10-05-1160), [8 okt 2015 nr. 1172](forskrift/2015-10-08-1172), [24 nov 2015 nr. 1353](forskrift/2015-11-24-1353), [22 feb 2016 nr. 214](forskrift/2016-02-22-214), [8 april 2016 nr. 358](forskrift/2016-04-08-358), [26 mai 2016 nr. 525](forskrift/2016-05-26-525), [15 juli 2016 nr. 935](forskrift/2016-07-15-935), [19 des 2016 nr. 1823](forskrift/2016-12-19-1823), [9 feb 2017 nr. 152](forskrift/2017-02-09-152), [27 mars 2017 nr. 409](forskrift/2017-03-27-409), [26 mai 2017 nr. 658](forskrift/2017-05-26-658), [2 juni 2017 nr. 715](forskrift/2017-06-02-715), [30 juli 2017 nr. 1224](forskrift/2017-07-30-1224), [6 des 2017 nr. 1938](forskrift/2017-12-06-1938), [19 jan 2018 nr. 57](forskrift/2018-01-19-57), [19 feb 2018 nr. 243](forskrift/2018-02-19-243), [27 mars 2018 nr. 515](forskrift/2018-03-27-515), [11 mai 2018 nr. 732](forskrift/2018-05-11-732), [26 juli 2018 nr. 1209](forskrift/2018-07-26-1209), [18 des 2018 nr. 2159](forskrift/2018-12-18-2159), [12 feb 2019 nr. 94](forskrift/2019-02-12-94), [24 april 2019 nr. 532](forskrift/2019-04-24-532), [10 mai 2019 nr. 591](forskrift/2019-05-10-591), [24 juni 2019 nr. 917](forskrift/2019-06-24-917), [27 juni 2019 nr. 949](forskrift/2019-06-27-949), [15 okt 2019 nr. 1371](forskrift/2019-10-15-1371), [6 nov 2019 nr. 1470](forskrift/2019-11-06-1470), [7 nov 2019 nr. 1483](forskrift/2019-11-07-1483), [18 des 2019 nr. 1999](forskrift/2019-12-18-1999), [5 mai 2020 nr. 937](forskrift/2020-05-05-937), [29 juni 2020 nr. 1429](forskrift/2020-06-29-1429) (i kraft 1 juli 2020), [8 okt 2020 nr. 1988](forskrift/2020-10-08-1988), [6 nov 2020 nr. 2268](forskrift/2020-11-06-2268), [23 des 2020 nr. 3167](forskrift/2020-12-23-3167), [19 feb 2021 nr. 498](forskrift/2021-02-19-498), [25 mars 2021 nr. 1031](forskrift/2021-03-25-1031), [15 juli 2021 nr. 2427](forskrift/2021-07-15-2427), [21 des 2021 nr. 3823](forskrift/2021-12-21-3823), [5 mai 2022 nr. 837](forskrift/2022-05-05-837), [16 juni 2022 nr. 1089](forskrift/2022-06-16-1089), [21 juni 2022 nr. 1136](forskrift/2022-06-21-1136), [12 juli 2022 nr. 1343](forskrift/2022-07-12-1343), [4 okt 2022 nr. 1720](forskrift/2022-10-04-1720), [19 des 2022 nr. 2286](forskrift/2022-12-19-2286), [8 feb 2023 nr. 164](forskrift/2023-02-08-164), [27 mars 2023 nr. 429](forskrift/2023-03-27-429), [3 nov 2023 nr. 1782](forskrift/2023-11-03-1782), [16 nov 2023 nr. 1852](forskrift/2023-11-16-1852), [11 des 2023 nr. 2002](forskrift/2023-12-11-2002), [12 feb 2024 nr. 249](forskrift/2024-02-12-249), [9 april 2024 nr. 583](forskrift/2024-04-09-583), [3 mai 2024 nr. 735](forskrift/2024-05-03-735), [21 juni 2024 nr. 1192](forskrift/2024-06-21-1192), [12 juli 2024 nr. 1723](forskrift/2024-07-12-1723), [1 okt 2024 nr. 2390](forskrift/2024-10-01-2390), [2 des 2024 nr. 2917](forskrift/2024-12-02-2917), [13 jan 2025 nr. 39](forskrift/2025-01-13-39), [10 mars 2025 nr. 412](forskrift/2025-03-10-412), [24 juni 2025 nr. 1198](forskrift/2025-06-24-1198), [17 juli 2025 nr. 1540](forskrift/2025-07-17-1540), [26 sep 2025 nr. 1958](forskrift/2025-09-26-1958), [19 des 2025 nr. 2800](forskrift/2025-12-19-2800), [10 feb 2026 nr. 182](forskrift/2026-02-10-182), [30 mars 2026 nr. 588](forskrift/2026-03-30-588), [7 mai 2026 nr. 764](forskrift/2026-05-07-764), [15 juni 2026 nr. 1093](forskrift/2026-06-15-1093).
 
 ## § 3a. Koksidiostatika og kopper
@@ -90,9 +92,37 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EF) nr. 1831
 
 Forordning [(EF) nr. 1831/2003](eu/32003r1831) er konsolidert til og med endringer gjennomført ved forordning [(EF) nr. 378/2005](eu/32005r0378), forordning [(EF) nr. 386/2009](eu/32009r0386), forordning [(EU) 2015/327](eu/32015r0327), forordning [(EU) 2015/2294](eu/32015r2294), forordning [(EU) 2019/962](eu/32019r0962) og forordning [(EU) 2019/1381](eu/32019r1381).
 
+► **B** Forordning [(EF) nr. 1831/2003](eu/32003r1831) av 22. september 2003 om tilsetningsstoffer i fôrvarer som endret ved
+
+► **M1** Forordning [(EU) 2015/327](eu/32015r0327)
+
+► **M2** Forordning [(EF) nr. 378/2005](eu/32005r0378)
+
+► **M3** Forordning [(EF) nr. 386/2009](eu/32009r0386)
+
+► **M4** Forordning [(EU) 2015/2294](eu/32015r2294)
+
+► **M5** Forordning [(EU) 2019/962](eu/32019r0962)
+
+► **M6** Forordning [(EU) 2019/1381](eu/32019r1381)
+
 ### EUROPAPARLAMENTS- OG RÅDSFORORDNING [(EF) nr. 1831/2003](eu/32003r1831)
 av 22. september 2003
 om tilsetningsstoffer i fôrvarer
+
+EUROPAPARLAMENTET OG RÅDET FOR DEN EUROPEISKE UNION HAR –
+
+under henvisning til traktaten om opprettelse av Det europeiske fellesskap, særlig artikkel 37 og 152 nr. 4 bokstav b),
+
+under henvisning til forslag fra Kommisjonen,1
+
+under henvisning til uttalelse fra Den europeiske økonomiske og sosiale komité,2
+
+etter samråd med Regionkomiteen,
+
+etter framgangsmåten fastsatt i traktatens artikkel 2513 og
+
+ut fra følgende betraktninger:
 
 1. Husdyrhold utgjør en svært viktig del av landbruket i Fellesskapet. Tilfredsstillende resultater avhenger i stor grad av at det brukes fôrvarer som er sikre og av god kvalitet.
 2. Det frie varebyttet av sikre og sunne næringsmidler og fôrvarer er en vesentlig del av det indre marked og bidrar i betydelig grad til borgernes helse og velferd, og til deres sosiale og økonomiske interesser.
@@ -130,163 +160,199 @@ om tilsetningsstoffer i fôrvarer
 34. Rådsdirektiv [87/153/EØF](eu/31987l0153) av 16. februar 1987 om fastsettelse av retningslinjer for vurdering av tilsetningsstoffer i fôrvarer11 inneholder retningslinjer for hvordan medlemsstatene skal framlegge en søknad. Kontrollen av at dokumentasjonen oppfyller kravene, er pålagt Den europeiske myndighet for næringsmiddeltrygghet. Direktiv [87/153/EØF](eu/31987l0153) bør derfor oppheves. Imidlertid vil vedlegget fortsatt gjelde inntil det er vedtatt gjennomføringsregler.
 35. Det er nødvendig med en overgangsperiode for å unngå forstyrrelser i bruken av tilsetningsstoffer i fôrvarer. Før bestemmelsene i denne forordning får anvendelse, bør det derfor tillates at de stoffene som allerede er godkjente, fortsatt kan omsettes og brukes i samsvar med gjeldende lovgivning –
 
+1 EFT C 203 E av 27.8.2002, s. 10.
+
+2 EUT C 61 av 14.3.2003, s. 43.
+
+3 Europaparlamentsuttalelse av 21. november 2002 (ennå ikke offentliggjort i EUT), rådets felles holdning av 17. mars 2003 (EUT C 113 E av 13.5.2003, s. 1), europaparlamentsbeslutning av 19. juni 2003 (ennå ikke kunngjort i EUT) og rådsvedtak av 22. juli 2003.
+
+4 EFT L 31 av 1.2.2002, s. 1.
+
+5 EFT L 270 av 14.12.1970, s. 1. Direktivet sist endret ved forordning [(EF) nr. 1756/2002](eu/32002r1756) (EFT L 265 av 3.10.2002, s. 1).
+
+6 EFT L 213 av 21.7.1982, s. 8. Direktivet sist endret ved direktiv [1999/20/EF](eu/31999l0020) (EFT L 80 av 25.3.1999, s. 20).
+
+7 EFT L 40 av 11.2.1989, s. 27. Direktivet endret ved europaparlaments- og rådsdirektiv [94/34/EF](eu/31994l0034) (EFT L 237 av 10.9.1994, s. 1).
+
+8 EFT L 268 av 18.10.2003, s. 1.
+
+9 EFT L 184 av 17.7.1999, s. 23.
+
+10 EFT L 86 av 6.4.1979, s. 30. Direktivet sist endret ved forordning [(EF) nr. 807/2003](eu/32003r0807) (EUT L 122 av 16.5.2003, s. 36).
+
+11 EFT L 64 av 7.3.1987, s. 19. Direktivet sist endret ved kommisjonsdirektiv [2001/79/EF](eu/32001l0079) (EFT L 267 av 6.10.2001, s. 1).
+
+VEDTATT DENNE FORORDNING:
+
 ### KAPITTEL I
 VIRKEOMRÅDE OG DEFINISJONER
 
 ### Artikkel 1. Virkeområde
 
-1. Formålet med denne forordning er å opprette en fellesskapsframgangsmåte for godkjenning av omsetning og bruk av tilsetningsstoffer i fôrvarer, og å fastsette regler for overvåking og merking av tilsetningsstoffer i fôrvarer og premikser slik at et høyt beskyttelsesnivå skal kunne garanteres for menneskers helse og dyrs helse og velferd, for miljøet og brukernes og forbrukernes interesser når det gjelder tilsetningsstoffer i fôrvarer, samtidig som det sikres at det indre marked fungerer tilfredsstillende.
+1\. Formålet med denne forordning er å opprette en fellesskapsframgangsmåte for godkjenning av omsetning og bruk av tilsetningsstoffer i fôrvarer, og å fastsette regler for overvåking og merking av tilsetningsstoffer i fôrvarer og premikser slik at et høyt beskyttelsesnivå skal kunne garanteres for menneskers helse og dyrs helse og velferd, for miljøet og brukernes og forbrukernes interesser når det gjelder tilsetningsstoffer i fôrvarer, samtidig som det sikres at det indre marked fungerer tilfredsstillende.
 
-2. Denne forordning får ikke anvendelse på:tekniske hjelpestoffer,veterinærpreparater som definert i direktiv [2001/82/EF](eu/32001l0082),12 med unntak av koksidiostatika og histomonostatika som brukes som tilsetningsstoffer i fôrvarer.
+2\. Denne forordning får ikke anvendelse på:tekniske hjelpestoffer,veterinærpreparater som definert i direktiv [2001/82/EF](eu/32001l0082),12 med unntak av koksidiostatika og histomonostatika som brukes som tilsetningsstoffer i fôrvarer.
+
+12 EFT L 311 av 28.11.2001, s. 1.
 
 ### Artikkel 2. Definisjoner
 
-1. I denne forordning får definisjonene av «fôr», «fôrvarer», «fôrforetak», «driftsansvarlig for fôrforetak», «omsetning» og «sporbarhet» som fastsatt i forordning [(EF) nr. 178/2002](eu/32002r0178), anvendelse.
+1\. I denne forordning får definisjonene av «fôr», «fôrvarer», «fôrforetak», «driftsansvarlig for fôrforetak», «omsetning» og «sporbarhet» som fastsatt i forordning [(EF) nr. 178/2002](eu/32002r0178), anvendelse.
 
-2. I denne forordning menes også med:«tilsetningsstoffer i fôrvarer»: stoffer, mikroorganismer eller preparater bortsett fra fôrmidler og premikser, som tilsettes bevisst i fôr eller vann for særlig å oppfylle én eller flere av funksjonene nevnt i artikkel 5 nr. 3,«fôrmidler»: produkter som definert i artikkel 2 bokstav a) i rådsdirektiv [96/25/EF](eu/31996l0025) av 29. april 1996 om markedsføring av fôrmidler, 13«fôrblandinger»: produkter som definert i artikkel 2 bokstav b) i direktiv [79/373/EØF](eu/31979l0373*),«tilskuddsfôr»: produkter som definert i artikkel 2 bokstav e) i direktiv [79/373/EØF](eu/31979l0373*),«premikser»: blandinger av tilsetningsstoffer i fôrvarer eller blandinger av ett eller flere tilsetningsstoffer i fôrvarer med fôrmidler eller vann som brukes som bærere, og som ikke er beregnet på direkte fôring,«dagsrasjon»: den samlede mengden fôrvarer beregnet ut fra et vanninnhold på 12 %, som et dyr av en bestemt art og aldersgruppe og med en bestemt ytelse trenger i gjennomsnitt for å få dekket sitt samlede dagsbehov,«fullfôr»: produkter som definert i artikkel 2 bokstav c) i rådsdirektiv [1999/29/EF](eu/31999l0029*) av 22. april 1999 om uønskede stoffer og produkter i fôrvarer,14«teknisk hjelpestoff»: alle stoffer som ikke inntas som en fôrvare i seg selv, og som brukes bevisst ved foredling av fôrvarer eller fôrmidler for å oppfylle et bestemt teknologisk formål ved behandlingen eller foredlingen, og som kan føre til en utilsiktet, men teknisk uunngåelig forekomst av restmengder eller derivater av disse i sluttproduktet, forutsatt at disse restmengdene ikke har noen skadevirkning på dyrs og menneskers helse eller på miljøet, og ikke har noen teknologisk innvirkning på det ferdige produktet,«antimikrobielle stoffer»: alle stoffer som framstilles enten syntetisk eller naturlig, og som brukes til å drepe eller hemme veksten av mikroorganismer, herunder bakterier, virus eller sopp, eller av parasitter, særlig protozoer,«antibiotikum»: antimikrobielle stoffer framstilt av eller avledet av en mikroorganisme, som dreper eller hemmer veksten av andre mikroorganismer,«koksidiostatika» og «histomonostatika»: stoffer som er beregnet på å drepe eller hemme protozoer,«grenseverdi for restmengder»: den øvre grensen for en restmengde som følge av bruken av et tilsetningsstoff i fôrvarer som Fellesskapet kan godta som lovlig tillatt eller anerkjenne som akseptabelt i eller på et næringsmiddel,«mikroorganismer»: kolonidannende mikroorganismer,«første gangs omsetning»: den første gangen et tilsetningsstoff bringes i omsetning etter at det er framstilt, import av et tilsetningsstoff, eller første gangs omsetning av et fôr hvor det inngår et tilsetningsstoff som ikke tidligere har vært brakt i omsetning.
+2\. I denne forordning menes også med:«tilsetningsstoffer i fôrvarer»: stoffer, mikroorganismer eller preparater bortsett fra fôrmidler og premikser, som tilsettes bevisst i fôr eller vann for særlig å oppfylle én eller flere av funksjonene nevnt i artikkel 5 nr. 3,«fôrmidler»: produkter som definert i artikkel 2 bokstav a) i rådsdirektiv [96/25/EF](eu/31996l0025) av 29. april 1996 om markedsføring av fôrmidler, 13«fôrblandinger»: produkter som definert i artikkel 2 bokstav b) i direktiv [79/373/EØF](eu/31979l0373*),«tilskuddsfôr»: produkter som definert i artikkel 2 bokstav e) i direktiv [79/373/EØF](eu/31979l0373*),«premikser»: blandinger av tilsetningsstoffer i fôrvarer eller blandinger av ett eller flere tilsetningsstoffer i fôrvarer med fôrmidler eller vann som brukes som bærere, og som ikke er beregnet på direkte fôring,«dagsrasjon»: den samlede mengden fôrvarer beregnet ut fra et vanninnhold på 12 %, som et dyr av en bestemt art og aldersgruppe og med en bestemt ytelse trenger i gjennomsnitt for å få dekket sitt samlede dagsbehov,«fullfôr»: produkter som definert i artikkel 2 bokstav c) i rådsdirektiv [1999/29/EF](eu/31999l0029*) av 22. april 1999 om uønskede stoffer og produkter i fôrvarer,14«teknisk hjelpestoff»: alle stoffer som ikke inntas som en fôrvare i seg selv, og som brukes bevisst ved foredling av fôrvarer eller fôrmidler for å oppfylle et bestemt teknologisk formål ved behandlingen eller foredlingen, og som kan føre til en utilsiktet, men teknisk uunngåelig forekomst av restmengder eller derivater av disse i sluttproduktet, forutsatt at disse restmengdene ikke har noen skadevirkning på dyrs og menneskers helse eller på miljøet, og ikke har noen teknologisk innvirkning på det ferdige produktet,«antimikrobielle stoffer»: alle stoffer som framstilles enten syntetisk eller naturlig, og som brukes til å drepe eller hemme veksten av mikroorganismer, herunder bakterier, virus eller sopp, eller av parasitter, særlig protozoer,«antibiotikum»: antimikrobielle stoffer framstilt av eller avledet av en mikroorganisme, som dreper eller hemmer veksten av andre mikroorganismer,«koksidiostatika» og «histomonostatika»: stoffer som er beregnet på å drepe eller hemme protozoer,«grenseverdi for restmengder»: den øvre grensen for en restmengde som følge av bruken av et tilsetningsstoff i fôrvarer som Fellesskapet kan godta som lovlig tillatt eller anerkjenne som akseptabelt i eller på et næringsmiddel,«mikroorganismer»: kolonidannende mikroorganismer,«første gangs omsetning»: den første gangen et tilsetningsstoff bringes i omsetning etter at det er framstilt, import av et tilsetningsstoff, eller første gangs omsetning av et fôr hvor det inngår et tilsetningsstoff som ikke tidligere har vært brakt i omsetning.
 
-3. Når det er nødvendig, kan det etter framgangsmåten fastsatt i artikkel 22 nr. 2, avgjøres om et stoff, en mikroorganisme eller et preparat er et tilsetningsstoff i fôrvarer innenfor virkeområdet til denne forordning.
+3\. Når det er nødvendig, kan det etter framgangsmåten fastsatt i artikkel 22 nr. 2, avgjøres om et stoff, en mikroorganisme eller et preparat er et tilsetningsstoff i fôrvarer innenfor virkeområdet til denne forordning.
+
+13 EFT L 125 av 23.5.1996, s. 35. Direktivet sist endret ved forordning [806/2003](eu/32003r0806*) (EUT L 122 av 16.5.2003, s. 1).14 EFT L 115 av 4.5.1999, s. 32. Direktivet sist endret ved forordning [(EF) nr. 806/2003](eu/32003r0806*).
 
 ### Kapittel II
 GODKJENNING, BRUK, OVERVÅKING OG OVERGANGSTILTAK FOR TILSETNINGSSTOFFER I FÔRVARER
 
 ### Artikkel 3. Omsetning, foredling og bruk
 
-1. Ingen personer skal bringe i omsetning, foredle eller bruke et tilsetningsstoff i fôrvarer med mindre:tilsetningsstoffet er omfattet av en godkjenning som er gitt i samsvar med denne forordning,det oppfyller de vilkårene for bruk som er fastsatt i denne forordning, herunder de generelle vilkårene fastsatt i vedlegg IV, med mindre annet er angitt i godkjenningen samt i godkjenningen av stoffet, ogdet oppfyller vilkårene for merking fastsatt i denne forordning.
+1\. Ingen personer skal bringe i omsetning, foredle eller bruke et tilsetningsstoff i fôrvarer med mindre:tilsetningsstoffet er omfattet av en godkjenning som er gitt i samsvar med denne forordning,det oppfyller de vilkårene for bruk som er fastsatt i denne forordning, herunder de generelle vilkårene fastsatt i vedlegg IV, med mindre annet er angitt i godkjenningen samt i godkjenningen av stoffet, ogdet oppfyller vilkårene for merking fastsatt i denne forordning.
 
-2. Medlemsstatene kan tillate at det ved vitenskapelig forskning som tilsetningsstoffer brukes stoffer som ikke er godkjent på fellesskapsplan, med unntak av antibiotika, forutsatt at forskningen utføres i samsvar med prinsippene og vilkårene fastsatt i direktiv [87/153/EØF](eu/31987l0153), direktiv [83/228/EØF](eu/31983l0228)15 eller retningslinjene fastsatt i artikkel 7 nr. 4 i denne forordning, og forutsatt at det skjer under tilstrekkelig offentlig kontroll. De berørte dyrene kan brukes i næringsmiddelproduksjon bare dersom myndighetene fastslår at dette ikke vil ha noen skadevirkning på dyrs og menneskers helse eller på miljøet.
+2\. Medlemsstatene kan tillate at det ved vitenskapelig forskning som tilsetningsstoffer brukes stoffer som ikke er godkjent på fellesskapsplan, med unntak av antibiotika, forutsatt at forskningen utføres i samsvar med prinsippene og vilkårene fastsatt i direktiv [87/153/EØF](eu/31987l0153), direktiv [83/228/EØF](eu/31983l0228)15 eller retningslinjene fastsatt i artikkel 7 nr. 4 i denne forordning, og forutsatt at det skjer under tilstrekkelig offentlig kontroll. De berørte dyrene kan brukes i næringsmiddelproduksjon bare dersom myndighetene fastslår at dette ikke vil ha noen skadevirkning på dyrs og menneskers helse eller på miljøet.
 
-3. Når det gjelder tilsetningsstoffer som tilhører kategoriene d) og e) i artikkel 6 nr. 1, og de tilsetningsstoffene som omfattes av virkeområdet til Fellesskapets regelverk for omsetning av produkter som består av, inneholder eller er framstilt av genmodifiserte organismer (GMO-er), skal ingen andre personer enn innehaveren av godkjenningen omhandlet i godkjenningsforordningen nevnt i artikkel 9, dennes rettsetterfølger(e) eller en person som har fått dennes skriftlige fullmakt til dette, bringe produktene i omsetning for første gang.
+3\. Når det gjelder tilsetningsstoffer som tilhører kategoriene d) og e) i artikkel 6 nr. 1, og de tilsetningsstoffene som omfattes av virkeområdet til Fellesskapets regelverk for omsetning av produkter som består av, inneholder eller er framstilt av genmodifiserte organismer (GMO-er), skal ingen andre personer enn innehaveren av godkjenningen omhandlet i godkjenningsforordningen nevnt i artikkel 9, dennes rettsetterfølger(e) eller en person som har fått dennes skriftlige fullmakt til dette, bringe produktene i omsetning for første gang.
 
-4. Med mindre annet er angitt, skal blandinger av tilsetningsstoffer som er beregnet på å selges direkte til sluttbrukeren, tillates, dersom vilkårene for bruk fastsatt i godkjenningen for hvert enkelt tilsetningsstoff, overholdes. Dermed skal ikke blandinger av godkjente tilsetningsstoffer omfattes av noen andre særlige godkjenninger enn de kravene som er fastsatt i direktiv [95/69/EF](eu/31995l0069).16
+4\. Med mindre annet er angitt, skal blandinger av tilsetningsstoffer som er beregnet på å selges direkte til sluttbrukeren, tillates, dersom vilkårene for bruk fastsatt i godkjenningen for hvert enkelt tilsetningsstoff, overholdes. Dermed skal ikke blandinger av godkjente tilsetningsstoffer omfattes av noen andre særlige godkjenninger enn de kravene som er fastsatt i direktiv [95/69/EF](eu/31995l0069).16
 
-5. Når det er nødvendig som følge av teknologiske framskritt eller vitenskapelig utvikling, skal de generelle vilkårene fastsatt i vedlegg IV, tilpasses etter framgangsmåten fastsatt i artikkel 22 nr. 2.
+5\. Når det er nødvendig som følge av teknologiske framskritt eller vitenskapelig utvikling, skal de generelle vilkårene fastsatt i vedlegg IV, tilpasses etter framgangsmåten fastsatt i artikkel 22 nr. 2.
+
+15 EFT L 126 av 13.5.1983, s. 23.16 Rådsdirektiv [95/69/EF](eu/31995l0069) av 22. desember 1995 om fastsettelse av vilkår og regler for godkjenning og registrering av visse virksomheter og mellommenn på fôrvareområdet og om endring av direktiv [70/524/EØF](eu/31970l0524*), [74/63/EØF](eu/31974l0063*), [79/373/EØF](eu/31979l0373*) og [82/471/EØF](eu/31982l0471) (EFT L 332 av 30.12.1995, s. 15). Direktivet sist endret ved forordning [(EF) nr. 806/2003](eu/32003r0806*).
 
 ### Artikkel 4. Godkjenning
 
-1. Alle personer som søker om godkjenning for et tilsetningsstoff i fôrvarer eller for en ny bruk av et tilsetningsstoff i fôrvarer, skal inngi en søknad i samsvar med artikkel 7.
+1\. Alle personer som søker om godkjenning for et tilsetningsstoff i fôrvarer eller for en ny bruk av et tilsetningsstoff i fôrvarer, skal inngi en søknad i samsvar med artikkel 7.
 
-2. En godkjenning skal bare gis, avslås, fornyes, endres, oppheves midlertidig eller kalles tilbake på grunnlag av og etter framgangsmåtene fastsatt i denne forordning, eller i samsvar med artikkel 53 og 54 i forordning [(EF) nr. 178/2002](eu/32002r0178).
+2\. En godkjenning skal bare gis, avslås, fornyes, endres, oppheves midlertidig eller kalles tilbake på grunnlag av og etter framgangsmåtene fastsatt i denne forordning, eller i samsvar med artikkel 53 og 54 i forordning [(EF) nr. 178/2002](eu/32002r0178).
 
-3. Den som søker om en godkjenning, eller dennes representant, skal være etablert i Fellesskapet.
+3\. Den som søker om en godkjenning, eller dennes representant, skal være etablert i Fellesskapet.
 
 ### Artikkel 5. Vilkår for godkjenning
 
-1. Ingen tilsetningsstoffer i fôrvarer skal godkjennes med mindre den som søker om godkjenning, i samsvar med gjennomføringstiltakene nevnt i artikkel 7, på relevant og tilstrekkelig vis har vist at tilsetningsstoffet, når det brukes i samsvar med vilkårene som skal fastsettes i forordningen som godkjenner bruken av tilsetningsstoffet, oppfyller kravene i nr. 2, og har minst én av de egenskapene som er angitt i nr. 3.
+1\. Ingen tilsetningsstoffer i fôrvarer skal godkjennes med mindre den som søker om godkjenning, i samsvar med gjennomføringstiltakene nevnt i artikkel 7, på relevant og tilstrekkelig vis har vist at tilsetningsstoffet, når det brukes i samsvar med vilkårene som skal fastsettes i forordningen som godkjenner bruken av tilsetningsstoffet, oppfyller kravene i nr. 2, og har minst én av de egenskapene som er angitt i nr. 3.
 
-2. Tilsetningsstoffet i fôrvarer skal ikke:ha noen skadevirkning på dyrs og menneskers helse eller på miljøet,framlegges på en måte som kan være villedende for brukeren,skade forbrukeren ved at de særlige kjennetegnene for animalske produkter endres eller ved at forbrukeren villedes med hensyn til de særlige kjennetegnene for animalske produkter.
+2\. Tilsetningsstoffet i fôrvarer skal ikke:ha noen skadevirkning på dyrs og menneskers helse eller på miljøet,framlegges på en måte som kan være villedende for brukeren,skade forbrukeren ved at de særlige kjennetegnene for animalske produkter endres eller ved at forbrukeren villedes med hensyn til de særlige kjennetegnene for animalske produkter.
 
-3. Tilsetningsstoffet i fôrvarer skal:ha en positiv virkning på fôrvarenes egenskaper,ha en positiv virkning på de animalske produktenes egenskaper,ha en positiv virkning på fargen på akvariefisk eller prydfugler,oppfylle dyrenes ernæringsmessige behov,ha en positiv virkning på de miljømessige følgene av husdyrproduksjon,ha en positiv virkning på husdyrproduksjon, husdyrs ytelse eller velferd, særlig ved at det påvirker mage- og tarmfloraen eller fordøyeligheten av fôrvarer, ellerha en koksidiostatisk eller histomonostatisk virkning.
+3\. Tilsetningsstoffet i fôrvarer skal:ha en positiv virkning på fôrvarenes egenskaper,ha en positiv virkning på de animalske produktenes egenskaper,ha en positiv virkning på fargen på akvariefisk eller prydfugler,oppfylle dyrenes ernæringsmessige behov,ha en positiv virkning på de miljømessige følgene av husdyrproduksjon,ha en positiv virkning på husdyrproduksjon, husdyrs ytelse eller velferd, særlig ved at det påvirker mage- og tarmfloraen eller fordøyeligheten av fôrvarer, ellerha en koksidiostatisk eller histomonostatisk virkning.
 
-4. Antibiotika, bortsett fra koksidiostatika eller histomonostatika, skal ikke godkjennes som tilsetningsstoffer i fôrvarer.
+4\. Antibiotika, bortsett fra koksidiostatika eller histomonostatika, skal ikke godkjennes som tilsetningsstoffer i fôrvarer.
 
 ### Artikkel 6. Kategorier av tilsetningsstoffer i fôrvarer
 
-1. Et tilsetningsstoff i fôrvarer skal plasseres i én eller flere av følgende kategorier, avhengig av dets funksjon eller egenskaper, etter framgangsmåten fastsatt i artikkel 7, 8 og 9:teknologiske tilsetningsstoffer: alle stoffer som tilsettes fôret for et teknologisk formål,sensoriske tilsetningsstoffer: alle stoffer som når de tilsettes i fôr, forbedrer eller endrer de organoleptiske egenskapene til fôret, eller utseendet på næringsmidler framstilt av dyr,+ernæringsmessige tilsetningsstoffer,avlstekniske tilsetningsstoffer: alle tilsetningsstoffer som brukes til å påvirke sunne dyrs ytelse positivt, eller til å påvirke miljøet positivt,koksidiostatika og histomonostatika.
+1\. Et tilsetningsstoff i fôrvarer skal plasseres i én eller flere av følgende kategorier, avhengig av dets funksjon eller egenskaper, etter framgangsmåten fastsatt i artikkel 7, 8 og 9:teknologiske tilsetningsstoffer: alle stoffer som tilsettes fôret for et teknologisk formål,sensoriske tilsetningsstoffer: alle stoffer som når de tilsettes i fôr, forbedrer eller endrer de organoleptiske egenskapene til fôret, eller utseendet på næringsmidler framstilt av dyr,+ernæringsmessige tilsetningsstoffer,avlstekniske tilsetningsstoffer: alle tilsetningsstoffer som brukes til å påvirke sunne dyrs ytelse positivt, eller til å påvirke miljøet positivt,koksidiostatika og histomonostatika.
 
-2. I de kategoriene som er nevnt i nr. 1, skal tilsetningsstoffer i fôrvarer deretter plasseres innenfor én eller flere funksjonelle grupper nevnt i vedlegg I, etter framgangsmåten fastsatt i artikkel 7, 8 og 9, i henhold til deres primære funksjon eller funksjoner.
+2\. I de kategoriene som er nevnt i nr. 1, skal tilsetningsstoffer i fôrvarer deretter plasseres innenfor én eller flere funksjonelle grupper nevnt i vedlegg I, etter framgangsmåten fastsatt i artikkel 7, 8 og 9, i henhold til deres primære funksjon eller funksjoner.
 
-3. Når det er nødvendig som følge av teknologiske framskritt eller vitenskapelig utvikling, kan det opprettes ytterligere kategorier eller funksjonelle grupper av tilsetningsstoffer i fôrvarer etter framgangsmåten fastsatt i artikkel 22 nr. 2.
+3\. Når det er nødvendig som følge av teknologiske framskritt eller vitenskapelig utvikling, kan det opprettes ytterligere kategorier eller funksjonelle grupper av tilsetningsstoffer i fôrvarer etter framgangsmåten fastsatt i artikkel 22 nr. 2.
 
 ### Artikkel 7. Søknad om godkjenning
 
-1. En søknad om godkjenning som fastsatt i artikkel 4 i denne forordningen skal sendes til Kommisjonen i samsvar med standardiserte dataformater, dersom slike finnes, i henhold til artikkel 39f i forordning (EF) nr. 178/2002, som gjelder tilsvarende med nødvendige endringer. Kommisjonen skal umiddelbart underrette medlemsstatene og videresende søknaden til Den europeiske myndighet for næringsmiddeltrygghet (heretter kalt «myndigheten»).◄**M6**
+►**M6**
 
-2. Myndigheten skal:innen 15 dager etter at den har mottatt søknaden, herunder opplysningene og dokumentene som er nevnt i nr. 3, skriftlig bekrefte dette overfor søkeren med angivelse av mottaksdatoen,gjøre alle opplysninger som er innlevert av søkeren, tilgjengelige for medlemsstatene og Kommisjonen,
+1\. En søknad om godkjenning som fastsatt i artikkel 4 i denne forordningen skal sendes til Kommisjonen i samsvar med standardiserte dataformater, dersom slike finnes, i henhold til artikkel 39f i forordning (EF) nr. 178/2002, som gjelder tilsvarende med nødvendige endringer. Kommisjonen skal umiddelbart underrette medlemsstatene og videresende søknaden til Den europeiske myndighet for næringsmiddeltrygghet (heretter kalt «myndigheten»).◄**M6**
+
+2\. Myndigheten skal:innen 15 dager etter at den har mottatt søknaden, herunder opplysningene og dokumentene som er nevnt i nr. 3, skriftlig bekrefte dette overfor søkeren med angivelse av mottaksdatoen,gjøre alle opplysninger som er innlevert av søkeren, tilgjengelige for medlemsstatene og Kommisjonen,
 ►**M6**offentliggjøre søknaden og alle opplysninger som søkeren har framlagt, i samsvar med artikkel 18.
 ◄**M6**
 
-3. På søknadstidspunktet skal søkeren sende følgende opplysninger og dokumenter direkte til myndigheten:søkerens navn og adresse,betegnelsen på tilsetningsstoffet i fôrvarer, et forslag til klassifisering etter kategori og funksjonell gruppe i henhold til artikkel 6, samt spesifikasjoner, herunder renhetskriterier når det er relevant,en beskrivelse av produksjonsmetoden og framstillingsmåten og planlagt bruk av tilsetningsstoffet i fôrvarer, en beskrivelse av analysemetoden for tilsetningsstoffet i fôr i forhold til planlagt bruk, og når det er relevant, en beskrivelse av analysemetoden for bestemmelse av nivået av restmengder av tilsetningsstoffet eller metabolitter av dette, i næringsmidler,en kopi av de undersøkelsene som er blitt utført, og alt annet materiale som er tilgjengelig for å dokumentere at tilsetningsstoffet i fôrvarer oppfyller kravene fastsatt i artikkel 5 nr. 2 og 3,forslag til vilkår ved omsetning av tilsetningsstoffet i fôrvarer, herunder krav til merking, og når det er relevant, særlige vilkår for bruk og håndtering (herunder kjent uforlikelighet), innhold i tilskuddsfôr samt de dyrearter og -kategorier som tilsetningsstoffet i fôrvarer er beregnet på,en skriftlig erklæring om at søkeren har sendt tre prøver av tilsetningsstoffet i fôrvarer direkte til Fellesskapets referanselaboratorium nevnt i artikkel 21, i samsvar med kravene fastsatt i vedlegg II,forslag til overvåking etter omsetning når det gjelder tilsetningsstoffer som ifølge forslag nevnt i bokstav b), verken tilhører kategori a) eller b) nevnt i artikkel 6 nr. 1, og når det gjelder tilsetningsstoffer som hører inn under virkeområdet for Fellesskapets regelverk knyttet til omsetning av produkter som består av, inneholder eller er framstilt av genmodifiserte organismer,et sammendrag som inneholder de opplysningene som er gitt i samsvar med bokstav a)–g),for tilsetningsstoffer som hører inn under virkeområdet for Fellesskapets regelverk knyttet til omsetning av produkter som består av, inneholder eller er framstilt av genmodifiserte organismer, opplysninger om alle godkjenninger som er gitt i samsvar med gjeldende regelverk.
+3\. På søknadstidspunktet skal søkeren sende følgende opplysninger og dokumenter direkte til myndigheten:søkerens navn og adresse,betegnelsen på tilsetningsstoffet i fôrvarer, et forslag til klassifisering etter kategori og funksjonell gruppe i henhold til artikkel 6, samt spesifikasjoner, herunder renhetskriterier når det er relevant,en beskrivelse av produksjonsmetoden og framstillingsmåten og planlagt bruk av tilsetningsstoffet i fôrvarer, en beskrivelse av analysemetoden for tilsetningsstoffet i fôr i forhold til planlagt bruk, og når det er relevant, en beskrivelse av analysemetoden for bestemmelse av nivået av restmengder av tilsetningsstoffet eller metabolitter av dette, i næringsmidler,en kopi av de undersøkelsene som er blitt utført, og alt annet materiale som er tilgjengelig for å dokumentere at tilsetningsstoffet i fôrvarer oppfyller kravene fastsatt i artikkel 5 nr. 2 og 3,forslag til vilkår ved omsetning av tilsetningsstoffet i fôrvarer, herunder krav til merking, og når det er relevant, særlige vilkår for bruk og håndtering (herunder kjent uforlikelighet), innhold i tilskuddsfôr samt de dyrearter og -kategorier som tilsetningsstoffet i fôrvarer er beregnet på,en skriftlig erklæring om at søkeren har sendt tre prøver av tilsetningsstoffet i fôrvarer direkte til Fellesskapets referanselaboratorium nevnt i artikkel 21, i samsvar med kravene fastsatt i vedlegg II,forslag til overvåking etter omsetning når det gjelder tilsetningsstoffer som ifølge forslag nevnt i bokstav b), verken tilhører kategori a) eller b) nevnt i artikkel 6 nr. 1, og når det gjelder tilsetningsstoffer som hører inn under virkeområdet for Fellesskapets regelverk knyttet til omsetning av produkter som består av, inneholder eller er framstilt av genmodifiserte organismer,et sammendrag som inneholder de opplysningene som er gitt i samsvar med bokstav a)–g),for tilsetningsstoffer som hører inn under virkeområdet for Fellesskapets regelverk knyttet til omsetning av produkter som består av, inneholder eller er framstilt av genmodifiserte organismer, opplysninger om alle godkjenninger som er gitt i samsvar med gjeldende regelverk.
 
-4. Etter samråd med myndigheten skal Kommisjonen etter framgangsmåten fastsatt i artikkel 22 nr. 2, fastsette gjennomføringsregler for denne artikkel, herunder regler for hvordan søknaden skal utarbeides og framlegges.Før slike gjennomføringsregler vedtas, skal søknaden inngis i samsvar med vedlegget til direktiv [87/153/EØF](eu/31987l0153).
+4\. Etter samråd med myndigheten skal Kommisjonen etter framgangsmåten fastsatt i artikkel 22 nr. 2, fastsette gjennomføringsregler for denne artikkel, herunder regler for hvordan søknaden skal utarbeides og framlegges.Før slike gjennomføringsregler vedtas, skal søknaden inngis i samsvar med vedlegget til direktiv [87/153/EØF](eu/31987l0153).
 
-5. Etter samråd med myndigheten skal det fastsettes særlige retningslinjer for godkjenning av tilsetningsstoffer, om nødvendig for hver kategori av tilsetningsstoffer som er nevnt i artikkel 6 nr. 1, etter framgangsmåten fastsatt i artikkel 22 nr. 2. Disse retningslinjene skal ta hensyn til muligheten for å ekstrapolere resultatene fra undersøkelsene som er utført på større arter, til mindre utbredte arter.Etter samråd med myndigheten kan det fastsettes ytterligere gjennomføringsregler for denne artikkelen etter framgangsmåten fastsatt i artikkel 22 nr. 2. Disse gjennomføringsreglene skal, når det er relevant, skille mellom krav til tilsetningsstoffer i fôrvarer som gjelder produksjonsdyr, og krav som gjelder andre dyr, særlig kjæledyr. Gjennomføringsreglene skal omfatte bestemmelser som tillater forenklede framgangsmåter for godkjenning av tilsetningsstoffer som er godkjent for bruk i næringsmidler.
+5\. Etter samråd med myndigheten skal det fastsettes særlige retningslinjer for godkjenning av tilsetningsstoffer, om nødvendig for hver kategori av tilsetningsstoffer som er nevnt i artikkel 6 nr. 1, etter framgangsmåten fastsatt i artikkel 22 nr. 2. Disse retningslinjene skal ta hensyn til muligheten for å ekstrapolere resultatene fra undersøkelsene som er utført på større arter, til mindre utbredte arter.Etter samråd med myndigheten kan det fastsettes ytterligere gjennomføringsregler for denne artikkelen etter framgangsmåten fastsatt i artikkel 22 nr. 2. Disse gjennomføringsreglene skal, når det er relevant, skille mellom krav til tilsetningsstoffer i fôrvarer som gjelder produksjonsdyr, og krav som gjelder andre dyr, særlig kjæledyr. Gjennomføringsreglene skal omfatte bestemmelser som tillater forenklede framgangsmåter for godkjenning av tilsetningsstoffer som er godkjent for bruk i næringsmidler.
 
-6. Myndigheten skal offentliggjøre en detaljert veiledning som skal hjelpe søkeren med å utarbeide og framlegge søknaden.
+6\. Myndigheten skal offentliggjøre en detaljert veiledning som skal hjelpe søkeren med å utarbeide og framlegge søknaden.
 
 ### Artikkel 8. Uttalelse fra myndigheten
 
-1. Myndigheten skal avgi sin uttalelse innen seks måneder etter at en gyldig søknad er mottatt. Denne tidsfristen skal forlenges dersom myndigheten ønsker utfyllende opplysninger fra søkeren i samsvar med nr. 2.
+1\. Myndigheten skal avgi sin uttalelse innen seks måneder etter at en gyldig søknad er mottatt. Denne tidsfristen skal forlenges dersom myndigheten ønsker utfyllende opplysninger fra søkeren i samsvar med nr. 2.
 
-2. Myndigheten kan, når det er relevant, anmode søkeren om å gi utfyllende opplysninger til søknaden innenfor en tidsfrist som fastsettes av myndigheten i samråd med søkeren.
+2\. Myndigheten kan, når det er relevant, anmode søkeren om å gi utfyllende opplysninger til søknaden innenfor en tidsfrist som fastsettes av myndigheten i samråd med søkeren.
 
-3. For å utarbeide sin uttalelse, skal myndigheten:kontrollere at opplysningene og dokumentene som søkeren har inngitt, er i samsvar med artikkel 7, og foreta en risikovurdering for å fastslå om tilsetningsstoffet i fôrvarer oppfyller vilkårene fastsatt i artikkel 5,kontrollere rapporten fra Fellesskapets referanselaboratorium.
+3\. For å utarbeide sin uttalelse, skal myndigheten:kontrollere at opplysningene og dokumentene som søkeren har inngitt, er i samsvar med artikkel 7, og foreta en risikovurdering for å fastslå om tilsetningsstoffet i fôrvarer oppfyller vilkårene fastsatt i artikkel 5,kontrollere rapporten fra Fellesskapets referanselaboratorium.
 
-4. Dersom det avgis en positiv uttalelse om godkjenning av tilsetningsstoffet i fôrvarer, skal uttalelsen også inneholde følgende opplysninger:søkerens navn og adresse,betegnelsen på tilsetningsstoffet i fôrvarer, herunder klassifisering etter kategori og funksjonell gruppe i henhold til artikkel 6, samt spesifikasjoner, herunder renhetskriterier og analysemetoder når det er relevant,avhengig av resultatet av vurderingen, særlige vilkår eller begrensninger vedrørende håndtering, krav om overvåking etter omsetning, og bruk, herunder dyrearter og -kategorier som tilsetningsstoffet er beregnet på,særlige tilleggskrav for merking av tilsetningsstoffet i fôrvarer, som er nødvendig som følge av vilkårene og begrensningene i henhold til bokstav c),et forslag til fastsettelse av grenseverdier for restmengder (MRL) i de relevante næringsmidlene av animalsk opprinnelse, med mindre myndigheten i sin uttalelse konkluderer med at det ikke er nødvendig å fastsette MRL for å beskytte forbrukerne, eller dersom MRL allerede er fastsatt i vedlegg I eller III til rådsforordning [(EØF) nr. 2377/90](eu/31990r2377) av 26. juni 1990 om en framgangsmåte i Fellesskapet for fastsettelse av maksimumsgrenser for restmengder av veterinærpreparater i næringsmidler av animalsk opprinnelse. 17
+4\. Dersom det avgis en positiv uttalelse om godkjenning av tilsetningsstoffet i fôrvarer, skal uttalelsen også inneholde følgende opplysninger:søkerens navn og adresse,betegnelsen på tilsetningsstoffet i fôrvarer, herunder klassifisering etter kategori og funksjonell gruppe i henhold til artikkel 6, samt spesifikasjoner, herunder renhetskriterier og analysemetoder når det er relevant,avhengig av resultatet av vurderingen, særlige vilkår eller begrensninger vedrørende håndtering, krav om overvåking etter omsetning, og bruk, herunder dyrearter og -kategorier som tilsetningsstoffet er beregnet på,særlige tilleggskrav for merking av tilsetningsstoffet i fôrvarer, som er nødvendig som følge av vilkårene og begrensningene i henhold til bokstav c),et forslag til fastsettelse av grenseverdier for restmengder (MRL) i de relevante næringsmidlene av animalsk opprinnelse, med mindre myndigheten i sin uttalelse konkluderer med at det ikke er nødvendig å fastsette MRL for å beskytte forbrukerne, eller dersom MRL allerede er fastsatt i vedlegg I eller III til rådsforordning [(EØF) nr. 2377/90](eu/31990r2377) av 26. juni 1990 om en framgangsmåte i Fellesskapet for fastsettelse av maksimumsgrenser for restmengder av veterinærpreparater i næringsmidler av animalsk opprinnelse. 17
 
-5. Myndigheten skal omgående sende sin uttalelse til Kommisjonen, medlemsstatene og søkeren, sammen med en rapport som beskriver dens vurdering av tilsetningsstoffet i fôrvarer, der den begrunner sin konklusjon.
+5\. Myndigheten skal omgående sende sin uttalelse til Kommisjonen, medlemsstatene og søkeren, sammen med en rapport som beskriver dens vurdering av tilsetningsstoffet i fôrvarer, der den begrunner sin konklusjon.
 
-6. Myndigheten skal offentliggjøre sin uttalelse etter å ha utelatt de opplysninger som i samsvar med artikkel 18 nr. 2, er angitt som fortrolige.
+6\. Myndigheten skal offentliggjøre sin uttalelse etter å ha utelatt de opplysninger som i samsvar med artikkel 18 nr. 2, er angitt som fortrolige.
+
+17 EFT L 224 av 18.8.1990, s. 1. Forordningen sist endret ved kommisjonsforordning [(EF) nr. 1490/2003](eu/32003r1490) (EUT L 214 av 26.8.2003, s. 3).
 
 ### Artikkel 9. Fellesskapets godkjenning
 
-1. Innen tre måneder etter mottak av myndighetens uttalelse, skal Kommisjonen utarbeide et utkast til forordning der godkjenning skal gis eller avslås. Dette utkastet skal ta hensyn til kravene i artikkel 5 nr. 2 og 3, fellesskapsrett og andre legitime faktorer som er relevante for den aktuelle saken, og særlig det som er til nytte for dyrs helse og velferd, og for forbrukeren av animalske produkter.Dersom utkastet ikke er i samsvar med myndighetens uttalelse, skal det gi en forklaring på årsakene til forskjellene.I uvanlig kompliserte saker kan fristen på tre måneder forlenges.
+1\. Innen tre måneder etter mottak av myndighetens uttalelse, skal Kommisjonen utarbeide et utkast til forordning der godkjenning skal gis eller avslås. Dette utkastet skal ta hensyn til kravene i artikkel 5 nr. 2 og 3, fellesskapsrett og andre legitime faktorer som er relevante for den aktuelle saken, og særlig det som er til nytte for dyrs helse og velferd, og for forbrukeren av animalske produkter.Dersom utkastet ikke er i samsvar med myndighetens uttalelse, skal det gi en forklaring på årsakene til forskjellene.I uvanlig kompliserte saker kan fristen på tre måneder forlenges.
 
-2. Utkastet skal vedtas etter framgangsmåten fastsatt i artikkel 22 nr. 2.
+2\. Utkastet skal vedtas etter framgangsmåten fastsatt i artikkel 22 nr. 2.
 
-3. Reglene for gjennomføring av denne artikkel, særlig vedrørende et identifikasjonsnummer for godkjente tilsetningsstoffer, kan fastsettes etter framgangsmåten fastsatt i artikkel 22 nr. 2.
+3\. Reglene for gjennomføring av denne artikkel, særlig vedrørende et identifikasjonsnummer for godkjente tilsetningsstoffer, kan fastsettes etter framgangsmåten fastsatt i artikkel 22 nr. 2.
 
-4. Kommisjonen skal omgående underrette søkeren om den forordningen som er vedtatt i samsvar med nr. 2.
+4\. Kommisjonen skal omgående underrette søkeren om den forordningen som er vedtatt i samsvar med nr. 2.
 
-5. En forordning som gir godkjenning, skal inneholde de opplysningene som er nevnt i artikkel 8 nr. 4 bokstav b), c), d) og e) og et identifikasjonsnummer.
+5\. En forordning som gir godkjenning, skal inneholde de opplysningene som er nevnt i artikkel 8 nr. 4 bokstav b), c), d) og e) og et identifikasjonsnummer.
 
-6. En forordning som gir godkjenning av tilsetningsstoffer som tilhører kategori d) og e) nevnt i artikkel 6 nr. 1, og også for tilsetningsstoffer som består av, inneholder eller er framstilt av genmodifiserte organismer, skal inneholde navnet på innehaveren av godkjenningen, og når det er relevant, det unike identifikasjonsnummeret som er tildelt den genmodifiserte organismen som definert i europaparlaments- og rådsforordning [(EF) nr. 1830/2003](eu/32003r1830) av 22. september 2003 om sporbarhet og merking av genmodifiserte organismer og om sporbarhet av næringsmidler og fôr framstilt på grunnlag av genmodifiserte organismer, og om endring av direktiv [2001/18/EF](eu/32001l0018).18
+6\. En forordning som gir godkjenning av tilsetningsstoffer som tilhører kategori d) og e) nevnt i artikkel 6 nr. 1, og også for tilsetningsstoffer som består av, inneholder eller er framstilt av genmodifiserte organismer, skal inneholde navnet på innehaveren av godkjenningen, og når det er relevant, det unike identifikasjonsnummeret som er tildelt den genmodifiserte organismen som definert i europaparlaments- og rådsforordning [(EF) nr. 1830/2003](eu/32003r1830) av 22. september 2003 om sporbarhet og merking av genmodifiserte organismer og om sporbarhet av næringsmidler og fôr framstilt på grunnlag av genmodifiserte organismer, og om endring av direktiv [2001/18/EF](eu/32001l0018).18
 
-7. Når innholdet av restmengder av et tilsetningsstoff i næringsmidler som kommer fra dyr som er blitt fôret med dette tilsetningsstoffet, kan ha skadevirkning på menneskers helse, skal forordningen inneholde MRL for det aktive stoffet eller for dets metabolitter i det relevante næringsmiddelet av animalsk opprinnelse. I dette tilfellet skal det aktive stoffet i henhold til rådsdirektiv [96/23/EF](eu/31996l0023)19 anses å høre inn under vedlegg I til dette direktiv. Dersom det på fellesskapsplan allerede er fastsatt en MRL for det aktuelle stoffet, skal denne MRL også gjelde for restmengder av det aktive stoffet eller dets metabolitter, som stammer fra bruken av stoffet som tilsetningsstoff i fôrvarer.
+7\. Når innholdet av restmengder av et tilsetningsstoff i næringsmidler som kommer fra dyr som er blitt fôret med dette tilsetningsstoffet, kan ha skadevirkning på menneskers helse, skal forordningen inneholde MRL for det aktive stoffet eller for dets metabolitter i det relevante næringsmiddelet av animalsk opprinnelse. I dette tilfellet skal det aktive stoffet i henhold til rådsdirektiv [96/23/EF](eu/31996l0023)19 anses å høre inn under vedlegg I til dette direktiv. Dersom det på fellesskapsplan allerede er fastsatt en MRL for det aktuelle stoffet, skal denne MRL også gjelde for restmengder av det aktive stoffet eller dets metabolitter, som stammer fra bruken av stoffet som tilsetningsstoff i fôrvarer.
 
-8. Godkjenningen som er gitt etter framgangsmåten fastsatt i denne forordning, skal være gyldig i hele Fellesskapet i ti år og kan fornyes i samsvar med artikkel 14. Det godkjente tilsetningsstoffet i fôrvarer skal føres inn i det registeret som er nevnt i artikkel 17 (heretter kalt «registeret»). Hver post i registeret skal angi godkjenningsdatoen og skal omfatte opplysningene nevnt i nr. 5, 6 og 7.
+8\. Godkjenningen som er gitt etter framgangsmåten fastsatt i denne forordning, skal være gyldig i hele Fellesskapet i ti år og kan fornyes i samsvar med artikkel 14. Det godkjente tilsetningsstoffet i fôrvarer skal føres inn i det registeret som er nevnt i artikkel 17 (heretter kalt «registeret»). Hver post i registeret skal angi godkjenningsdatoen og skal omfatte opplysningene nevnt i nr. 5, 6 og 7.
 
-9. Tildelingen av godkjenning skal ikke berøre det allmenne sivilrettslige og strafferettslige ansvaret som en driftsansvarlig for et fôrforetak har når det gjelder det aktuelle tilsetningsstoffet i fôrvarer.
+9\. Tildelingen av godkjenning skal ikke berøre det allmenne sivilrettslige og strafferettslige ansvaret som en driftsansvarlig for et fôrforetak har når det gjelder det aktuelle tilsetningsstoffet i fôrvarer.
+
+18 EUT L 268 av 18.10.2003, s. 24.19 EFT L 125 av 23.5.1996, s. 10.
 
 ### Artikkel 10. Status for eksisterende produkter
 
-1. Som unntak fra artikkel 3, kan et tilsetningsstoff i fôrvarer som er omsatt i henhold til direktiv [70/524/EØF](eu/31970l0524*), samt urea og dets derivater, en aminosyre, salt av en aminosyre eller en analog, som var oppført i nr. 2.1, 3 og 4 i vedlegget til direktiv [82/471/EØF](eu/31982l0471), omsettes og brukes i samsvar med vilkårene fastsatt i direktiv [70/524/EØF](eu/31970l0524*) eller [82/471/EØF](eu/31982l0471) og deres gjennomføringstiltak, herunder særlig bestemmelser om særlig merking av fôrblandinger og fôrmidler, forutsatt at følgende vilkår er oppfylt:innen ett år fra ikrafttredelsen av denne forordning, skal personer som første gang omsatte tilsetningsstoffet i fôrvarer, eller andre berørte parter, underrette Kommisjonen om dette. Samtidig skal opplysningene nevnt i artikkel 7 nr. 3 bokstav a), b) og c), sendes direkte til myndigheten,innen ett år etter underretningen nevnt i bokstav a), skal myndigheten etter å ha forsikret seg om at alle opplysninger som kreves, er blitt innlevert, underrette Kommisjonen om at den har mottatt opplysningene som kreves i henhold til denne artikkel. De aktuelle produktene skal føres inn i registeret. Hver post i registeret skal angi datoen da det aktuelle produktet først ble ført inn i registeret, og når det er relevant, utløpsdatoen for den eksisterende godkjenningen.
+1\. Som unntak fra artikkel 3, kan et tilsetningsstoff i fôrvarer som er omsatt i henhold til direktiv [70/524/EØF](eu/31970l0524*), samt urea og dets derivater, en aminosyre, salt av en aminosyre eller en analog, som var oppført i nr. 2.1, 3 og 4 i vedlegget til direktiv [82/471/EØF](eu/31982l0471), omsettes og brukes i samsvar med vilkårene fastsatt i direktiv [70/524/EØF](eu/31970l0524*) eller [82/471/EØF](eu/31982l0471) og deres gjennomføringstiltak, herunder særlig bestemmelser om særlig merking av fôrblandinger og fôrmidler, forutsatt at følgende vilkår er oppfylt:innen ett år fra ikrafttredelsen av denne forordning, skal personer som første gang omsatte tilsetningsstoffet i fôrvarer, eller andre berørte parter, underrette Kommisjonen om dette. Samtidig skal opplysningene nevnt i artikkel 7 nr. 3 bokstav a), b) og c), sendes direkte til myndigheten,innen ett år etter underretningen nevnt i bokstav a), skal myndigheten etter å ha forsikret seg om at alle opplysninger som kreves, er blitt innlevert, underrette Kommisjonen om at den har mottatt opplysningene som kreves i henhold til denne artikkel. De aktuelle produktene skal føres inn i registeret. Hver post i registeret skal angi datoen da det aktuelle produktet først ble ført inn i registeret, og når det er relevant, utløpsdatoen for den eksisterende godkjenningen.
 
-2. Det skal inngis en søknad i samsvar med artikkel 7, senest ett år før utløpsdatoen for godkjenningen som er gitt i henhold til direktiv [70/524/EØF](eu/31970l0524*) for tilsetningsstoffer med en begrenset godkjenningsperiode, og senest sju år etter ikrafttredelsen av denne forordning for tilsetningsstoffer som er godkjent uten noen tidsbegrensning eller i henhold til direktiv [82/471/EØF](eu/31982l0471). En detaljert tidsplan med oppføring i prioritert rekkefølge av de forskjellige kategoriene av tilsetningsstoffer som skal vurderes på nytt, kan vedtas etter framgangsmåten fastsatt i artikkel 22 nr. 2. Myndigheten skal rådspørres ved utarbeiding av listen.
+2\. Det skal inngis en søknad i samsvar med artikkel 7, senest ett år før utløpsdatoen for godkjenningen som er gitt i henhold til direktiv [70/524/EØF](eu/31970l0524*) for tilsetningsstoffer med en begrenset godkjenningsperiode, og senest sju år etter ikrafttredelsen av denne forordning for tilsetningsstoffer som er godkjent uten noen tidsbegrensning eller i henhold til direktiv [82/471/EØF](eu/31982l0471). En detaljert tidsplan med oppføring i prioritert rekkefølge av de forskjellige kategoriene av tilsetningsstoffer som skal vurderes på nytt, kan vedtas etter framgangsmåten fastsatt i artikkel 22 nr. 2. Myndigheten skal rådspørres ved utarbeiding av listen.
 
-3. Produkter som er oppført i registeret, skal omfattes av bestemmelsene i denne forordning, særlig artikkel 8, 9, 12, 13, 14 og 16, som uten at det berører særlige vilkår som gjelder merking, omsetning og bruk av hvert stoff i henhold til nr. 1, får anvendelse på slike produkter på samme måte som om de var blitt godkjent i henhold til artikkel 9.
+3\. Produkter som er oppført i registeret, skal omfattes av bestemmelsene i denne forordning, særlig artikkel 8, 9, 12, 13, 14 og 16, som uten at det berører særlige vilkår som gjelder merking, omsetning og bruk av hvert stoff i henhold til nr. 1, får anvendelse på slike produkter på samme måte som om de var blitt godkjent i henhold til artikkel 9.
 
-4. Når det gjelder godkjenninger som ikke er utstedt til en bestemt innehaver, kan enhver person som importerer eller framstiller produktene nevnt i denne artikkel, eller alle andre berørte parter, innlevere opplysningene nevnt i nr. 1 eller søknaden nevnt i nr. 2, til Kommisjonen.
+4\. Når det gjelder godkjenninger som ikke er utstedt til en bestemt innehaver, kan enhver person som importerer eller framstiller produktene nevnt i denne artikkel, eller alle andre berørte parter, innlevere opplysningene nevnt i nr. 1 eller søknaden nevnt i nr. 2, til Kommisjonen.
 
-5. Dersom underretningen og de ledsagende opplysningene nevnt i nr. 1 bokstav a), ikke er innlevert innen den angitte tidsfristen eller viser seg å være uriktige, eller dersom søknaden ikke er innlevert innen den fristen som er angitt i nr. 2, skal det vedtas en forordning etter framgangsmåten fastsatt i artikkel 22 nr. 2, med krav om at de aktuelle tilsetningsstoffene trekkes tilbake fra markedet. I et slikt tiltak kan det fastsettes et begrenset tidsrom der de eksisterende lagerbeholdningene av produktet kan brukes opp.
+5\. Dersom underretningen og de ledsagende opplysningene nevnt i nr. 1 bokstav a), ikke er innlevert innen den angitte tidsfristen eller viser seg å være uriktige, eller dersom søknaden ikke er innlevert innen den fristen som er angitt i nr. 2, skal det vedtas en forordning etter framgangsmåten fastsatt i artikkel 22 nr. 2, med krav om at de aktuelle tilsetningsstoffene trekkes tilbake fra markedet. I et slikt tiltak kan det fastsettes et begrenset tidsrom der de eksisterende lagerbeholdningene av produktet kan brukes opp.
 
-6. Når det ikke er truffet noen beslutning om å fornye godkjenningen før den utløper, og dette skyldes forhold som ligger utenfor søkerens kontroll, skal godkjenningen av produktet forlenges automatisk inntil Kommisjonen treffer en beslutning. Kommisjonen skal underrette søkeren om denne forlengelsen av godkjenningen.
+6\. Når det ikke er truffet noen beslutning om å fornye godkjenningen før den utløper, og dette skyldes forhold som ligger utenfor søkerens kontroll, skal godkjenningen av produktet forlenges automatisk inntil Kommisjonen treffer en beslutning. Kommisjonen skal underrette søkeren om denne forlengelsen av godkjenningen.
 
-7. Som unntak fra artikkel 3, kan stoffer, mikroorganismer og preparater som brukes i Fellesskapet som tilsetningsstoffer til ensilasje på tidspunktet nevnt i artikkel 26 nr. 2, omsettes og brukes forutsatt at bestemmelsene i nr. 1 bokstav a) og b) og i nr. 2 er oppfylt. Nr. 3 og 4 skal anvendes tilsvarende. For disse stoffene skal søknadsfristen som nevnt i nr. 2, være sju år etter ikrafttredelsen av denne forordning.
+7\. Som unntak fra artikkel 3, kan stoffer, mikroorganismer og preparater som brukes i Fellesskapet som tilsetningsstoffer til ensilasje på tidspunktet nevnt i artikkel 26 nr. 2, omsettes og brukes forutsatt at bestemmelsene i nr. 1 bokstav a) og b) og i nr. 2 er oppfylt. Nr. 3 og 4 skal anvendes tilsvarende. For disse stoffene skal søknadsfristen som nevnt i nr. 2, være sju år etter ikrafttredelsen av denne forordning.
 
 ### Artikkel 11. Utfasing
 
-1. Med henblikk på en beslutning om utfasing av bruken av koksidiostatika og histomonostatika som tilsetningsstoffer i fôrvarer innen 31. desember 2012, skal Kommisjonen innen 1. januar 2008 oversende til Europaparlamentet og Rådet en rapport om bruken av disse stoffene som tilsetningsstoffer i fôrvarer og tilgjengelige alternativer, eventuelt ledsaget av forslag til regelverk.
+1\. Med henblikk på en beslutning om utfasing av bruken av koksidiostatika og histomonostatika som tilsetningsstoffer i fôrvarer innen 31. desember 2012, skal Kommisjonen innen 1. januar 2008 oversende til Europaparlamentet og Rådet en rapport om bruken av disse stoffene som tilsetningsstoffer i fôrvarer og tilgjengelige alternativer, eventuelt ledsaget av forslag til regelverk.
 
-2. Som unntak fra artikkel 10 og uten å berøre artikkel 13, kan antibiotika og deres derivater, bortsett fra koksidiostatika og histomonostatika, omsettes og brukes som tilsetningsstoffer i fôrvarer bare fram til 31. desember 2005; fra 1. januar 2006 skal disse stoffene slettes fra registeret.
+2\. Som unntak fra artikkel 10 og uten å berøre artikkel 13, kan antibiotika og deres derivater, bortsett fra koksidiostatika og histomonostatika, omsettes og brukes som tilsetningsstoffer i fôrvarer bare fram til 31. desember 2005; fra 1. januar 2006 skal disse stoffene slettes fra registeret.
 
 ### Artikkel 12. Kontroll
 
-1. Etter at et tilsetningsstoff er blitt godkjent i samsvar med denne forordning, skal enhver person som bruker eller omsetter dette stoffet eller en fôrvare som det er blandet i, eller en annen berørt part, sørge for at alle vilkår eller begrensninger som er knyttet til omsetning, bruk eller håndtering av tilsetningsstoffet eller fôrvaren som det er blandet i, overholdes.
+1\. Etter at et tilsetningsstoff er blitt godkjent i samsvar med denne forordning, skal enhver person som bruker eller omsetter dette stoffet eller en fôrvare som det er blandet i, eller en annen berørt part, sørge for at alle vilkår eller begrensninger som er knyttet til omsetning, bruk eller håndtering av tilsetningsstoffet eller fôrvaren som det er blandet i, overholdes.
 
-2. Dersom krav til overvåking er blitt pålagt, som nevnt i artikkel 8 nr. 4 bokstav c), skal innehaveren av godkjenningen sikre at overvåkingen utføres og innlevere rapporter til Kommisjonen i samsvar med godkjenningen. Innehaveren av godkjenningen skal omgående underrette Kommisjonen om eventuelle nye opplysninger som kan påvirke vurderingen av sikkerheten ved bruk av tilsetningsstoffet i fôrvarer, særlig når det gjelder helsemessig følsomhet hos visse forbrukerkategorier. Innehaveren av godkjenningen skal omgående underrette Kommisjonen om eventuelle forbud eller begrensninger pålagt av vedkommende myndighet i en tredjestat der tilsetningsstoffet i fôrvarer omsettes.
+2\. Dersom krav til overvåking er blitt pålagt, som nevnt i artikkel 8 nr. 4 bokstav c), skal innehaveren av godkjenningen sikre at overvåkingen utføres og innlevere rapporter til Kommisjonen i samsvar med godkjenningen. Innehaveren av godkjenningen skal omgående underrette Kommisjonen om eventuelle nye opplysninger som kan påvirke vurderingen av sikkerheten ved bruk av tilsetningsstoffet i fôrvarer, særlig når det gjelder helsemessig følsomhet hos visse forbrukerkategorier. Innehaveren av godkjenningen skal omgående underrette Kommisjonen om eventuelle forbud eller begrensninger pålagt av vedkommende myndighet i en tredjestat der tilsetningsstoffet i fôrvarer omsettes.
 
 ### Artikkel 13. Endring, midlertidig oppheving og tilbakekalling av godkjenninger
 
-1. På eget initiativ eller etter en anmodning fra en medlemsstat eller fra Kommisjonen, skal myndigheten avgi en uttalelse om hvorvidt en godkjenning fortsatt oppfyller vilkårene fastsatt i denne forordning. Den skal omgående oversende denne uttalelsen til Kommisjonen, til medlemsstatene, og når det er relevant, til innehaveren av godkjenningen. Uttalelsen skal offentliggjøres.
+1\. På eget initiativ eller etter en anmodning fra en medlemsstat eller fra Kommisjonen, skal myndigheten avgi en uttalelse om hvorvidt en godkjenning fortsatt oppfyller vilkårene fastsatt i denne forordning. Den skal omgående oversende denne uttalelsen til Kommisjonen, til medlemsstatene, og når det er relevant, til innehaveren av godkjenningen. Uttalelsen skal offentliggjøres.
 
-2. Kommisjonen skal omgående undersøke myndighetens uttalelse. Eventuelle egnede tiltak skal treffes i samsvar med artikkel 53 og 54 i forordning [(EF) nr. 178/2002](eu/32002r0178). En beslutning om å endre, oppheve midlertidig eller kalle tilbake en godkjenning skal treffes etter framgangsmåten fastsatt i artikkel 22 nr. 2 i denne forordning.
+2\. Kommisjonen skal omgående undersøke myndighetens uttalelse. Eventuelle egnede tiltak skal treffes i samsvar med artikkel 53 og 54 i forordning [(EF) nr. 178/2002](eu/32002r0178). En beslutning om å endre, oppheve midlertidig eller kalle tilbake en godkjenning skal treffes etter framgangsmåten fastsatt i artikkel 22 nr. 2 i denne forordning.
 
-3. Dersom innehaveren av godkjenningen foreslår å endre vilkårene for godkjenningen ved å inngi en søknad til Kommisjonen, ledsaget av de relevante opplysningene som ligger til grunn for anmodningen om endring, skal myndigheten oversende sin uttalelse om forslaget til Kommisjonen og medlemsstatene. Kommisjonen skal omgående undersøke myndighetens uttalelse og treffer sin beslutning etter framgangsmåten fastsatt i artikkel 22 nr. 2.
+3\. Dersom innehaveren av godkjenningen foreslår å endre vilkårene for godkjenningen ved å inngi en søknad til Kommisjonen, ledsaget av de relevante opplysningene som ligger til grunn for anmodningen om endring, skal myndigheten oversende sin uttalelse om forslaget til Kommisjonen og medlemsstatene. Kommisjonen skal omgående undersøke myndighetens uttalelse og treffer sin beslutning etter framgangsmåten fastsatt i artikkel 22 nr. 2.
 
-4. Kommisjonen skal omgående underrette søkeren om den beslutningen som er truffet. Registeret skal endres ved behov.
+4\. Kommisjonen skal omgående underrette søkeren om den beslutningen som er truffet. Registeret skal endres ved behov.
 
-5. Artikkel 7 nr. 1 og 2 og artikkel 8 og 9 får tilsvarende anvendelse.
+5\. Artikkel 7 nr. 1 og 2 og artikkel 8 og 9 får tilsvarende anvendelse.
 
 ### Artikkel 14. Fornyelse av godkjenning
 
-1. Godkjenninger som gis i henhold til denne forordning, skal kunne fornyes med ti år om gangen. En søknad om fornyelse skal sendes til Kommisjonen senest innen ett år før godkjenningen utløper.Dersom en godkjenning ikke er utstedt til en bestemt innehaver, kan den som første gang omsetter tilsetningsstoffet, eller enhver annen berørt part, inngi søknaden til Kommisjonen, og skal dermed anses som søker.Dersom en godkjenning er utstedt til en bestemt innehaver, kan innehaveren av godkjenningen eller dennes rettsetterfølger(e) inngi søknaden til Kommisjonen, og skal dermed anses som søker.
+1\. Godkjenninger som gis i henhold til denne forordning, skal kunne fornyes med ti år om gangen. En søknad om fornyelse skal sendes til Kommisjonen senest innen ett år før godkjenningen utløper.Dersom en godkjenning ikke er utstedt til en bestemt innehaver, kan den som første gang omsetter tilsetningsstoffet, eller enhver annen berørt part, inngi søknaden til Kommisjonen, og skal dermed anses som søker.Dersom en godkjenning er utstedt til en bestemt innehaver, kan innehaveren av godkjenningen eller dennes rettsetterfølger(e) inngi søknaden til Kommisjonen, og skal dermed anses som søker.
 
-2. På søknadstidspunktet skal søkeren sende følgende opplysninger og dokumenter direkte til myndigheten:en kopi av godkjenningen til å omsette tilsetningsstoffet i fôrvarer,en rapport om resultatene av overvåkingen etter omsetningen, dersom godkjenningen inneholder slike krav om overvåking,alle andre nye opplysninger som er blitt tilgjengelige med hensyn til vurdering av sikkerheten ved bruk av tilsetningsstoffet i fôrvarer, samt den risikoen tilsetningsstoffet i fôrvarer utgjør for dyr, mennesker eller miljø,når det er relevant, et forslag til endring eller supplering av vilkårene i den opprinnelige godkjenningen, blant annet vilkårene som gjelder framtidig overvåking.
+2\. På søknadstidspunktet skal søkeren sende følgende opplysninger og dokumenter direkte til myndigheten:en kopi av godkjenningen til å omsette tilsetningsstoffet i fôrvarer,en rapport om resultatene av overvåkingen etter omsetningen, dersom godkjenningen inneholder slike krav om overvåking,alle andre nye opplysninger som er blitt tilgjengelige med hensyn til vurdering av sikkerheten ved bruk av tilsetningsstoffet i fôrvarer, samt den risikoen tilsetningsstoffet i fôrvarer utgjør for dyr, mennesker eller miljø,når det er relevant, et forslag til endring eller supplering av vilkårene i den opprinnelige godkjenningen, blant annet vilkårene som gjelder framtidig overvåking.
 
-3. Artikkel 7 nr. 1, 2, 4 og 5 og artikkel 8 og 9 får tilsvarende anvendelse.
+3\. Artikkel 7 nr. 1, 2, 4 og 5 og artikkel 8 og 9 får tilsvarende anvendelse.
 
-4. Når det ikke er truffet noen beslutning om å fornye godkjenningen før den utløper, og dette skyldes forhold som ligger utenfor søkerens kontroll, skal godkjenningen av produktet forlenges automatisk inntil Kommisjonen treffer en beslutning. Opplysninger om denne forlengelsen av godkjenningen skal gjøres tilgjengelig for offentligheten i registeret fastsatt i artikkel 17.
+4\. Når det ikke er truffet noen beslutning om å fornye godkjenningen før den utløper, og dette skyldes forhold som ligger utenfor søkerens kontroll, skal godkjenningen av produktet forlenges automatisk inntil Kommisjonen treffer en beslutning. Opplysninger om denne forlengelsen av godkjenningen skal gjøres tilgjengelig for offentligheten i registeret fastsatt i artikkel 17.
 
 ### Artikkel 15. Hastegodkjenning
 
@@ -297,36 +363,40 @@ MERKING OG EMBALLERING
 
 ### Artikkel 16. Merking og emballering av tilsetningsstoffer i fôrvarer og premikser
 
-1. Ingen tilsetningsstoffer i fôrvarer eller premikser av tilsetningsstoffer skal omsettes med mindre emballasjen eller beholderen er merket under ansvar av en produsent, emballeringsbedrift, importør, selger eller distributør med virksomhet i Fellesskapet, og inneholder følgende opplysninger som skal være tydelige, lett leselige og ikke skal kunne slettes, og skal for hvert tilsetningsstoff som produktet inneholder, foreligge på minst det eller de nasjonale språkene i den medlemsstaten der det omsettes:navnet på den funksjonelle gruppen nevnt i godkjenningen, etterfulgt av det bestemte navnet som tilsetningsstoffet fikk ved godkjenningen,navnet eller firmaet og adressen eller forretningskontoret til den som har ansvaret for opplysningene nevnt i denne artikkel,nettovekten, eller når det gjelder flytende tilsetningsstoffer og premikser, nettovolumet eller nettovekten,når det er relevant, det godkjenningsnummeret som virksomheten eller mellommannen har fått tildelt i henhold til artikkel 5 i direktiv [95/69/EF](eu/31995l0069), eller det registreringsnummeret som virksomheten eller mellommannen har fått tildelt i henhold til artikkel 10 i nevnte direktiv,bruksanvisning og eventuelle sikkerhetstilrådinger for bruk, og når det er relevant, særlige krav som er nevnt i godkjenningen, herunder dyrearter og -kategorier som tilsetningsstoffet eller premiksen av tilsetningsstoffer er beregnet på,identifikasjonsnummeret,referansenummer for partiet og produksjonsdato.
+1\. Ingen tilsetningsstoffer i fôrvarer eller premikser av tilsetningsstoffer skal omsettes med mindre emballasjen eller beholderen er merket under ansvar av en produsent, emballeringsbedrift, importør, selger eller distributør med virksomhet i Fellesskapet, og inneholder følgende opplysninger som skal være tydelige, lett leselige og ikke skal kunne slettes, og skal for hvert tilsetningsstoff som produktet inneholder, foreligge på minst det eller de nasjonale språkene i den medlemsstaten der det omsettes:navnet på den funksjonelle gruppen nevnt i godkjenningen, etterfulgt av det bestemte navnet som tilsetningsstoffet fikk ved godkjenningen,navnet eller firmaet og adressen eller forretningskontoret til den som har ansvaret for opplysningene nevnt i denne artikkel,nettovekten, eller når det gjelder flytende tilsetningsstoffer og premikser, nettovolumet eller nettovekten,når det er relevant, det godkjenningsnummeret som virksomheten eller mellommannen har fått tildelt i henhold til artikkel 5 i direktiv [95/69/EF](eu/31995l0069), eller det registreringsnummeret som virksomheten eller mellommannen har fått tildelt i henhold til artikkel 10 i nevnte direktiv,bruksanvisning og eventuelle sikkerhetstilrådinger for bruk, og når det er relevant, særlige krav som er nevnt i godkjenningen, herunder dyrearter og -kategorier som tilsetningsstoffet eller premiksen av tilsetningsstoffer er beregnet på,identifikasjonsnummeret,referansenummer for partiet og produksjonsdato.
 
-2. Når det gjelder aromastoffer, kan listen over tilsetningsstoffer erstattes med ordene «blanding av aromastoffer». Dette gjelder ikke for aromastoffer som omfattes av en kvantitativ begrensning når det brukes i fôr og drikkevann.
+2\. Når det gjelder aromastoffer, kan listen over tilsetningsstoffer erstattes med ordene «blanding av aromastoffer». Dette gjelder ikke for aromastoffer som omfattes av en kvantitativ begrensning når det brukes i fôr og drikkevann.
 
-3. I tillegg til opplysningene angitt i nr. 1, skal emballasjen eller beholderen for et tilsetningsstoff som tilhører en funksjonell gruppe angitt i vedlegg III, være forsynt med opplysningene angitt i vedlegg III, og disse skal være tydelige, lett leselige og skal ikke kunne slettes.
+3\. I tillegg til opplysningene angitt i nr. 1, skal emballasjen eller beholderen for et tilsetningsstoff som tilhører en funksjonell gruppe angitt i vedlegg III, være forsynt med opplysningene angitt i vedlegg III, og disse skal være tydelige, lett leselige og skal ikke kunne slettes.
 
-4. Når det gjelder premikser, skal dessuten ordet «PREMIKS» (med store bokstaver) være tydelig angitt på merkingen, og bærestoffet skal angis.
+4\. Når det gjelder premikser, skal dessuten ordet «PREMIKS» (med store bokstaver) være tydelig angitt på merkingen, og bærestoffet skal angis.
 
-5. Tilsetningsstoffer og premikser skal bare omsettes i lukkede emballasjer eller beholdere, hvor lukkemekanismen ødelegges ved åpning og ikke kan brukes om igjen.
+5\. Tilsetningsstoffer og premikser skal bare omsettes i lukkede emballasjer eller beholdere, hvor lukkemekanismen ødelegges ved åpning og ikke kan brukes om igjen.
 
-6. Endringer i vedlegg III for å ta hensyn til teknologiske framskritt og vitenskapelig utvikling, kan vedtas etter framgangsmåten fastsatt i artikkel 22 nr. 2.
+6\. Endringer i vedlegg III for å ta hensyn til teknologiske framskritt og vitenskapelig utvikling, kan vedtas etter framgangsmåten fastsatt i artikkel 22 nr. 2.
 
 ### Kapittel IV
 ALMINNELIGE BESTEMMELSER OG SLUTTBESTEMMELSER
 
 ### Artikkel 17. Fellesskapsregister over tilsetningsstoffer i fôrvarer
 
-1. Kommisjonen skal opprette og ajourføre et fellesskapsregister over tilsetningsstoffer i fôrvarer.
+1\. Kommisjonen skal opprette og ajourføre et fellesskapsregister over tilsetningsstoffer i fôrvarer.
 
-2. Registeret skal være tilgjengelig for offentligheten.
+2\. Registeret skal være tilgjengelig for offentligheten.
+
+►**M6**
 
 ### Artikkel 18. Innsyn og fortrolighet
 
-1. Myndigheten skal offentliggjøre søknaden om godkjenning, relevant underlagsdokumentasjon og eventuelle tilleggsopplysninger som søkeren har framlagt, samt sine vitenskapelige uttalelser, i samsvar med artikkel 38–39e i forordning (EF) nr. 178/2002, som gjelder tilsvarende med nødvendige endringer.
+1\. Myndigheten skal offentliggjøre søknaden om godkjenning, relevant underlagsdokumentasjon og eventuelle tilleggsopplysninger som søkeren har framlagt, samt sine vitenskapelige uttalelser, i samsvar med artikkel 38–39e i forordning (EF) nr. 178/2002, som gjelder tilsvarende med nødvendige endringer.
 
-2. I samsvar med vilkårene og framgangsmåtene i artikkel 39-39e i forordning (EF) nr. 178/2002 og i denne artikkelen kan søkeren framsette en anmodning om at visse deler av opplysningene som er framlagt i henhold til denne forordningen, behandles som fortrolige, ledsaget av en begrunnelse som kan etterprøves. Myndigheten skal vurdere anmodningen om fortrolighet framsatt av søkeren.
+2\. I samsvar med vilkårene og framgangsmåtene i artikkel 39-39e i forordning (EF) nr. 178/2002 og i denne artikkelen kan søkeren framsette en anmodning om at visse deler av opplysningene som er framlagt i henhold til denne forordningen, behandles som fortrolige, ledsaget av en begrunnelse som kan etterprøves. Myndigheten skal vurdere anmodningen om fortrolighet framsatt av søkeren.
 
-3. I tillegg til opplysningene nevnt i artikkel 39 nr. 2 i forordning (EF) nr. 178/2002 og i henhold til artikkel 39 nr. 3 i samme forordning kan myndigheten også behandle følgende opplysninger fortrolig, dersom søkeren dokumenterer at offentliggjøring av slike opplysninger vil kunne skade vedkommendes interesser i vesentlig grad:Planen for undersøkelser som dokumenterer et fôrtilsetningsstoffs virkning sett i forhold til den planlagte bruken i henhold til artikkel 6 nr. 1 i og vedlegg I til denne forordningen.Spesifikasjoner for urenheter i det aktive stoffet og relevante analysemetoder som er utviklet internt av søkeren, unntatt urenheter som kan ha skadevirkninger på dyrs helse, menneskers helse eller miljøet.
+3\. I tillegg til opplysningene nevnt i artikkel 39 nr. 2 i forordning (EF) nr. 178/2002 og i henhold til artikkel 39 nr. 3 i samme forordning kan myndigheten også behandle følgende opplysninger fortrolig, dersom søkeren dokumenterer at offentliggjøring av slike opplysninger vil kunne skade vedkommendes interesser i vesentlig grad:Planen for undersøkelser som dokumenterer et fôrtilsetningsstoffs virkning sett i forhold til den planlagte bruken i henhold til artikkel 6 nr. 1 i og vedlegg I til denne forordningen.Spesifikasjoner for urenheter i det aktive stoffet og relevante analysemetoder som er utviklet internt av søkeren, unntatt urenheter som kan ha skadevirkninger på dyrs helse, menneskers helse eller miljøet.
 
-4. Denne artikkelen berører ikke artikkel 41 i forordning (EF) nr. 178/2002.
+4\. Denne artikkelen berører ikke artikkel 41 i forordning (EF) nr. 178/2002.
+
+◄**M6**
 
 ### Artikkel 19. Administrativ kontroll
 
@@ -338,13 +408,13 @@ Kommisjonen skal treffe en beslutning innen to måneder, og kan eventuelt kreve 
 
 ### Artikkel 20. Datasikring
 
-1. Vitenskapelige data og andre opplysninger i søknadsdokumentene som kreves i henhold til artikkel 7, kan ikke brukes til fordel for en annen søker i et tidsrom på ti år fra godkjenningsdatoen, med mindre den andre søkeren har inngått en avtale med den forrige søkeren om at slike data og opplysninger kan brukes.
+1\. Vitenskapelige data og andre opplysninger i søknadsdokumentene som kreves i henhold til artikkel 7, kan ikke brukes til fordel for en annen søker i et tidsrom på ti år fra godkjenningsdatoen, med mindre den andre søkeren har inngått en avtale med den forrige søkeren om at slike data og opplysninger kan brukes.
 
-2. For å stimulere arbeidet for å oppnå godkjenning av tilsetningsstoffer for mindre utbredte arter utover de artene som tilsetningsstoffene allerede er godkjent for, skal den tiårige datasikringsperioden forlenges med ett år for hver mindre utbredt art som godkjenningen utvides til.
+2\. For å stimulere arbeidet for å oppnå godkjenning av tilsetningsstoffer for mindre utbredte arter utover de artene som tilsetningsstoffene allerede er godkjent for, skal den tiårige datasikringsperioden forlenges med ett år for hver mindre utbredt art som godkjenningen utvides til.
 
-3. Søkeren og den forrige søkeren skal treffe alle nødvendige tiltak for å oppnå enighet om å dele bruken av opplysningene for å unngå å gjenta toksikologiske forsøk på virveldyr. Dersom det ikke oppnås enighet om å dele opplysningene, kan Kommisjonen beslutte å offentliggjøre opplysninger som er nødvendige for å unngå nye toksikologiske forsøk på virveldyr, og samtidig sikre en rimelig likevekt mellom interessene til de berørte parter.
+3\. Søkeren og den forrige søkeren skal treffe alle nødvendige tiltak for å oppnå enighet om å dele bruken av opplysningene for å unngå å gjenta toksikologiske forsøk på virveldyr. Dersom det ikke oppnås enighet om å dele opplysningene, kan Kommisjonen beslutte å offentliggjøre opplysninger som er nødvendige for å unngå nye toksikologiske forsøk på virveldyr, og samtidig sikre en rimelig likevekt mellom interessene til de berørte parter.
 
-4. Etter utløpet av tiårsperioden kan myndigheten anvende resultatene av hele eller en del av vurderingen som ble foretatt på grunnlag av de vitenskapelige dataene og opplysningene i søknadsdokumentene, til fordel for en annen søker.
+4\. Etter utløpet av tiårsperioden kan myndigheten anvende resultatene av hele eller en del av vurderingen som ble foretatt på grunnlag av de vitenskapelige dataene og opplysningene i søknadsdokumentene, til fordel for en annen søker.
 
 ### Artikkel 21. Referanselaboratorier
 
@@ -356,21 +426,21 @@ Nærmere regler for gjennomføring av vedlegg II og eventuelle endringer i nevnt
 
 ### Artikkel 22. Komitéframgangsmåte
 
-1. Kommisjonen skal bistås av Den faste komité for næringsmiddelkjeden og dyrehelsen, nedsatt ved artikkel 58 i forordning [(EF) nr. 178/2002](eu/32002r0178), (heretter kalt «komiteen»).
+1\. Kommisjonen skal bistås av Den faste komité for næringsmiddelkjeden og dyrehelsen, nedsatt ved artikkel 58 i forordning [(EF) nr. 178/2002](eu/32002r0178), (heretter kalt «komiteen»).
 
-2. Når det vises til dette nummer, får artikkel 5 og 7 i beslutning [1999/468/EF](eu/31999d0468) anvendelse, samtidig som det tas hensyn til bestemmelsene i beslutningens artikkel 8.Tidsrommet fastsatt i artikkel 5 nr. 6 i beslutning [1999/468/EF](eu/31999d0468), skal være tre måneder.
+2\. Når det vises til dette nummer, får artikkel 5 og 7 i beslutning [1999/468/EF](eu/31999d0468) anvendelse, samtidig som det tas hensyn til bestemmelsene i beslutningens artikkel 8.Tidsrommet fastsatt i artikkel 5 nr. 6 i beslutning [1999/468/EF](eu/31999d0468), skal være tre måneder.
 
-3. Komiteen fastsetter sin forretningsorden.
+3\. Komiteen fastsetter sin forretningsorden.
 
 ### Artikkel 23. Opphevinger
 
-1. Direktiv [70/524/EØF](eu/31970l0524*) skal oppheves med virkning fra iverksettelsesdatoen for denne forordning. Artikkel 16 i direktiv [70/524/EØF](eu/31970l0524*) skal imidlertid fortsette å gjelde til direktiv [79/373/EØF](eu/31979l0373*) er blitt endret, slik at den omfatter regler for merking av fôrvarer som inneholder tilsetningsstoffer.
+1\. Direktiv [70/524/EØF](eu/31970l0524*) skal oppheves med virkning fra iverksettelsesdatoen for denne forordning. Artikkel 16 i direktiv [70/524/EØF](eu/31970l0524*) skal imidlertid fortsette å gjelde til direktiv [79/373/EØF](eu/31979l0373*) er blitt endret, slik at den omfatter regler for merking av fôrvarer som inneholder tilsetningsstoffer.
 
-2. Nr. 2.1, 3 og 4 i vedlegget til direktiv [82/471/EØF](eu/31982l0471) skal med virkning fra iverksettelsesdatoen for denne forordning, oppheves.
+2\. Nr. 2.1, 3 og 4 i vedlegget til direktiv [82/471/EØF](eu/31982l0471) skal med virkning fra iverksettelsesdatoen for denne forordning, oppheves.
 
-3. Direktiv [87/153/EØF](eu/31987l0153) skal oppheves med virkning fra iverksettelsesdatoen for denne forordning. Vedlegget til nevnte direktiv skal imidlertid fortsette å gjelde inntil gjennomføringsreglene fastsatt i artikkel 7 nr. 4 i denne forordning, vedtas.
+3\. Direktiv [87/153/EØF](eu/31987l0153) skal oppheves med virkning fra iverksettelsesdatoen for denne forordning. Vedlegget til nevnte direktiv skal imidlertid fortsette å gjelde inntil gjennomføringsreglene fastsatt i artikkel 7 nr. 4 i denne forordning, vedtas.
 
-4. Henvisninger til direktiv [70/524/EØF](eu/31970l0524*) skal forstås som henvisninger til denne forordning.
+4\. Henvisninger til direktiv [70/524/EØF](eu/31970l0524*) skal forstås som henvisninger til denne forordning.
 
 ### Artikkel 24. Sanksjoner
 
@@ -380,15 +450,23 @@ Medlemsstatene skal underrette Kommisjonen om disse reglene og tiltakene innen t
 
 ### Artikkel 25. Overgangstiltak
 
-1. Søknader som er inngitt i henhold til artikkel 4 i direktiv [70/524/EØF](eu/31970l0524*) før iverksettelsesdatoen for denne forordning, skal behandles som søknader i henhold til artikkel 7 i denne forordning dersom de innledende bemerkningene fastsatt i artikkel 4 nr. 4 i direktiv [70/524/EØF](eu/31970l0524*), ennå ikke er blitt oversendt til Kommisjonen. En medlemsstat som er utpekt til rapporterende medlemsstat i forbindelse med en slik søknad, skal omgående oversende den dokumentasjonen som er innlevert i forbindelse med søknaden, til Kommisjonen. Uten hensyn til artikkel 23 nr. 1 skal slike søknader fortsatt behandles i samsvar med artikkel 4 i direktiv [70/524/EØF](eu/31970l0524*), dersom de innledende bemerkningene fastsatt i artikkel 4 nr. 4 i direktiv [70/524/EØF](eu/31970l0524*), allerede er blitt oversendt til Kommisjonen.
+1\. Søknader som er inngitt i henhold til artikkel 4 i direktiv [70/524/EØF](eu/31970l0524*) før iverksettelsesdatoen for denne forordning, skal behandles som søknader i henhold til artikkel 7 i denne forordning dersom de innledende bemerkningene fastsatt i artikkel 4 nr. 4 i direktiv [70/524/EØF](eu/31970l0524*), ennå ikke er blitt oversendt til Kommisjonen. En medlemsstat som er utpekt til rapporterende medlemsstat i forbindelse med en slik søknad, skal omgående oversende den dokumentasjonen som er innlevert i forbindelse med søknaden, til Kommisjonen. Uten hensyn til artikkel 23 nr. 1 skal slike søknader fortsatt behandles i samsvar med artikkel 4 i direktiv [70/524/EØF](eu/31970l0524*), dersom de innledende bemerkningene fastsatt i artikkel 4 nr. 4 i direktiv [70/524/EØF](eu/31970l0524*), allerede er blitt oversendt til Kommisjonen.
 
-2. Kravene om merking fastsatt i kapittel III, får ikke anvendelse på produkter som er lovlig framstilt og merket i Fellesskapet, eller som er lovlig importert til Fellesskapet og brakt i omsetning før iverksettelsesdatoen for denne forordning.
+2\. Kravene om merking fastsatt i kapittel III, får ikke anvendelse på produkter som er lovlig framstilt og merket i Fellesskapet, eller som er lovlig importert til Fellesskapet og brakt i omsetning før iverksettelsesdatoen for denne forordning.
 
 ### Artikkel 26. Ikrafttredelse
 
-1. Denne forordning trer i kraft den 20. dag etter at den er kunngjort i *Den europeiske unions tidende*.
+1\. Denne forordning trer i kraft den 20. dag etter at den er kunngjort i *Den europeiske unions tidende*.
 
-2. Den får anvendelse fra tolv måneder etter at den er kunngjort.Denne forordning er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
+2\. Den får anvendelse fra tolv måneder etter at den er kunngjort.Denne forordning er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
+
+Utferdiget i Brussel, 22. september 2003.
+
+|  |  |
+| --- | --- |
+| *For Europaparlamentet* | *For Rådet* |
+| P. COX | R. BUTTIGLIONE |
+| *President* | *Formann* |
 
 ### VEDLEGG I
 GRUPPER AV TILSETNINGSSTOFFER
@@ -403,21 +481,31 @@ GRUPPER AV TILSETNINGSSTOFFER
 ### VEDLEGG II
 OPPGAVER OG PLIKTER FOR FELLESSKAPETS REFERANSELABORATORIUM
 
-1. Fellesskapets referanselaboratorium nevnt i artikkel 21, er Det felles forskningssenter (FFS).
+1\. Fellesskapets referanselaboratorium nevnt i artikkel 21, er Det felles forskningssenter (FFS).
 
-2. I forbindelse med pliktene og oppgavene fastsatt i dette vedlegg kan Fellesskapets referanselaboratorium bistås av en gruppe av nasjonale referanselaboratorier.Fellesskapets referanselaboratorium skal ha ansvaret for:å motta, oppbevare og vedlikeholde prøver av tilsetningsstoffer i fôrvarer som sendes inn av søkeren i samsvar med artikkel 7 nr. 3 bokstav f),å vurdere metoden som brukes for å analysere tilsetningsstoffet og andre relevante metoder for å analysere dette stoffet, på grunnlag av opplysningene i søknaden om godkjenning av tilsetningsstoffet med hensyn til dets egnethet for offentlig kontroll i samsvar med kravene i gjennomføringsreglene nevnt i artikkel 7 nr. 4 og 5 og myndighetens retningslinjer nevnt i artikkel 7 nr. 6,å framlegge en fullstendig vurderingsrapport for myndigheten om resultatene av de plikter og oppgaver som er nevnt i dette vedlegg,prøving av analysemetoden(e), dersom dette er nødvendig.
+► **M2**
 
-3. Fellesskapets referanselaboratorium skal ha ansvaret for å samordne valideringen av analysemetoden(e) for tilsetningsstoffet, etter framgangsmåten fastsatt i artikkel 10 i forordning [(EF) nr. 378/2005](eu/32005r0378).* Denne oppgaven kan omfatte tilberedning av næringsmiddel- eller fôrvareprøvematerialet.
+2\. I forbindelse med pliktene og oppgavene fastsatt i dette vedlegg kan Fellesskapets referanselaboratorium bistås av en gruppe av nasjonale referanselaboratorier.Fellesskapets referanselaboratorium skal ha ansvaret for:å motta, oppbevare og vedlikeholde prøver av tilsetningsstoffer i fôrvarer som sendes inn av søkeren i samsvar med artikkel 7 nr. 3 bokstav f),å vurdere metoden som brukes for å analysere tilsetningsstoffet og andre relevante metoder for å analysere dette stoffet, på grunnlag av opplysningene i søknaden om godkjenning av tilsetningsstoffet med hensyn til dets egnethet for offentlig kontroll i samsvar med kravene i gjennomføringsreglene nevnt i artikkel 7 nr. 4 og 5 og myndighetens retningslinjer nevnt i artikkel 7 nr. 6,å framlegge en fullstendig vurderingsrapport for myndigheten om resultatene av de plikter og oppgaver som er nevnt i dette vedlegg,prøving av analysemetoden(e), dersom dette er nødvendig.
 
-4. Fellesskapets referanselaboratorium skal yte Kommisjonen vitenskapelig og teknisk bistand, særlig i tilfeller der medlemsstater bestrider resultatene av analyser i forbindelse med pliktene og oppgavene nevnt i dette vedlegg, uten at det berører dets oppgaver i henhold til artikkel 11 og 32 i europaparlaments- og rådsforordning [(EF) nr. 882/2004](eu/32004r0882*).**
+3\. Fellesskapets referanselaboratorium skal ha ansvaret for å samordne valideringen av analysemetoden(e) for tilsetningsstoffet, etter framgangsmåten fastsatt i artikkel 10 i forordning [(EF) nr. 378/2005](eu/32005r0378).\* Denne oppgaven kan omfatte tilberedning av næringsmiddel- eller fôrvareprøvematerialet.
 
-5. På Kommisjonens anmodning kan Fellesskapets referanselaboratorium også ha ansvaret for å gjennomføre spesielle analytiske undersøkelser eller andre tilknyttede undersøkelser, i tråd med pliktene og oppgavene nevnt i nr. 2. Dette kan særlig gjelde eksisterende produkter som det er gitt underretning om i samsvar med artikkel 10 og som er oppført i registeret, for tidsrommet inntil en søknad om godkjenning i henhold til artikkel 10 nr. 2 er inngitt i samsvar med artikkel 10 nr. 2.
+4\. Fellesskapets referanselaboratorium skal yte Kommisjonen vitenskapelig og teknisk bistand, særlig i tilfeller der medlemsstater bestrider resultatene av analyser i forbindelse med pliktene og oppgavene nevnt i dette vedlegg, uten at det berører dets oppgaver i henhold til artikkel 11 og 32 i europaparlaments- og rådsforordning [(EF) nr. 882/2004](eu/32004r0882*).\*\*
 
-6. Fellesskapets referanselaboratorium skal ha ansvaret for den overordnede samordningen av gruppen av nasjonale referanselaboratorier. Fellesskapets referanselaboratorium skal sørge for at laboratoriene får tilgang til de relevante opplysninger om søknadene.
+5\. På Kommisjonens anmodning kan Fellesskapets referanselaboratorium også ha ansvaret for å gjennomføre spesielle analytiske undersøkelser eller andre tilknyttede undersøkelser, i tråd med pliktene og oppgavene nevnt i nr. 2. Dette kan særlig gjelde eksisterende produkter som det er gitt underretning om i samsvar med artikkel 10 og som er oppført i registeret, for tidsrommet inntil en søknad om godkjenning i henhold til artikkel 10 nr. 2 er inngitt i samsvar med artikkel 10 nr. 2.
 
-7. Uten at det berører oppgavene til Fellesskapets referanselaboratorier som fastsatt i artikkel 32 i forordning [(EF) nr. 882/2004](eu/32004r0882*), kan Fellesskapets referanselaboratorium opprette og vedlikeholde en database over tilgjengelige analysemetoder for kontroll av tilsetningsstoffer i fôrvarer, og gi offentlige kontrollaboratorier i medlemsstatene og andre berørte parter tilgang til den.
+6\. Fellesskapets referanselaboratorium skal ha ansvaret for den overordnede samordningen av gruppen av nasjonale referanselaboratorier. Fellesskapets referanselaboratorium skal sørge for at laboratoriene får tilgang til de relevante opplysninger om søknadene.
+
+7\. Uten at det berører oppgavene til Fellesskapets referanselaboratorier som fastsatt i artikkel 32 i forordning [(EF) nr. 882/2004](eu/32004r0882*), kan Fellesskapets referanselaboratorium opprette og vedlikeholde en database over tilgjengelige analysemetoder for kontroll av tilsetningsstoffer i fôrvarer, og gi offentlige kontrollaboratorier i medlemsstatene og andre berørte parter tilgang til den.
+
+\* EUT L 59 av 5.3.2005, s. 8.
+
+\*\* EUT L 165 av 30.4.2004, s. 1. Rettelse i EUT L 191 av 28.5.2004, s. 1.
+
+◄ **M2**
 
 ### Vedlegg III
+
+► **M1**
 
 ### 1. SÆRLIGE KRAV TIL MERKING AV VISSE TILSETNINGSSTOFFER I FÔRVARER OG PREMIKSER
 

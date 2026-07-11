@@ -15,7 +15,7 @@ xml_hash: "da4205e5c794d27fb28cde18fa2458f42498994eb5d575632ee51a2190263e04"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-10T17:52:49.841668+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -478,91 +478,16 @@ For gjødsel som selges i granulert form og med foreskrevet findelingsgrad for d
 | Suspensjon av NP-gjødsel | Produkt i flytende form med næringsstoffer fra stoffer som både er oppslemmet og oppløst i vann, uten tilsetning av organiske næringsstoffer av animalsk eller vegetabilsk opprinnelse. | 18% (N + P / 0,436)<br>Største innhold av biuret: urea-N x 0,026 | 3% N<br>2,2% P<br>Største innhold av biuret: urea-N x 0,026 | 1. Totalnitrogen<br>2. Nitratnitrogen<br>3. Ammonium-<br>nitrogen<br>4. Ureanitrogen | 1: Vann-<br>oppløselig P<br>2: P oppløselig i nøytralt ammoniumsitrat<br>3: P oppløselig i nøytralt ammoniumsitrat og i vann |  | 1. Totalnitrogen<br>2. Dersom innholdet av en nitrogen-<br>forbindelse (2-4) utgjør 1 masseprosent eller mer, skal den deklareres. Dersom biuretinnholdet er mindre enn 0,2%, kan «lav biuretinnhold» tilføyes. | 1. Dersom det vannoppløselige P utgjør mindre enn 0,9%, deklareres bare oppløselighet 2.<br>2. Dersom det vannoppløselige P utgjør minst 0,9%, deklareres både oppløselighet 3 og vannoppløselig P. Gjødselen må ikke inneholde thomasslagg, aluminium-<br>kalsium-<br>fosfat, pyrosfosfat, delvis oppløst råfosfat eller råfosfat.<br>Kadmiuminnholdet må ikke overstige 100 mg Cd pr. kg P. |  |
 | NP-gjødsel som inneholder kroto-<br>nyliden-<br>diurea eller isobut-<br>yliden-<br>diurea eller urea-<br>formaldehyd (alt etter omstendig-hetene) | Kjemisk fremstilt produkt som inneholder krotonyliden-<br>diurea eller isobutyliden-<br>diurea eller ureaformaldehyd, uten tilsetning av organiske næringsstoffer av animalsk eller vegetabilsk opprinnelse | 18% (N + P / 0,436) | 5% N<br>Minst 1/4 av det deklarerte innhold av totalnitrogen skal stamme fra nitrogenformene 5, 6 eller 7. Minst 1/4 av det deklarerte nitrogen-<br>innholdet 7, skal være løselig i varmt vann.<br>2,18% P | 1. Totalnitrogen<br>2. Nitratnitrogen<br>3. Ammonium-<br>nitrogen<br>4. Ureanitrogen<br>5. Krotony-<br>lidendiurea-<br>nitrogen<br>6. Isobuty-<br>lidendiuera-<br>nitrogen<br>7. Urea-<br>formaldehyd-<br>nitrogen<br>8. Urea-<br>formaldehyd-<br>nitrogen løselig bare i varmt vann<br>9. Urea-<br>formaldehyd-<br>nitrogen løselig i kaldt vann | 1. Vannløselig P<br>2. P løselig i nøytralt ammoniumsitrat<br>3. P løselig i nøytralt ammoniumsitrat og i vann |  | 1. Totalnitrogen<br>2. Dersom en av nitrogenformene 2-4 utgjør 1 masseprosent eller mer, skal denne deklareres<br>3. En av nitrogenformene 5-7<br>Nitrogenformen 7 skal deklareres som nitrogenformen 8 og 9 | En NP-gjødsel som ikke inneholder thomasfosfat, pyrofosfat, aluminium-<br>kalsium-<br>fosfat, delvis oppløst råfosfat eller råfosfat, skal deklareres etter oppløselighet som angitt under 1, 2 eller 3:<br>Utgjør vannløselig P mindre enn 0,92% deklareres bare løselighet 2,<br>– utgjør vannløselig P minst 0,92%, deklareres løselighet 3 med samtidig angivelse av det vannløselige innhold av P (løselighet 1). Innholdet av P som er løselig i bare mineralsyre må ikke overstige 0,92%. Prøvemengden for bestemmelse av løselighet 2 og 3 skal være 1 g |  |
 
-*NK-gjødsel* *Typebetegnelse**Opplysninger om produksjonsmåte**Minimumsinnhold av næringsstoffer (masseprosent)**Form, oppløselighet og innhold av næringsstoffer som skal deklareres i henhold til spesifikasjoner i spalte 8, 9 og 10. Findelingsgrad**Opplysninger om gjødselens karakteristiske egenskaper. Andre krav**Totalt**For hvert næringsstoff**N**P**K**N**P**K**(1)**(2)**(3)**(4)**(5)**(6)**(7)**(8)**(9)**(10)*NK-gjødselProdukt fremstilt kjemisk eller ved blanding, uten tilsetning av organiske næringsstoffer av animalsk eller vegetabilsk opprinnelse.18 (N + K / 0,83)3% N
-4,1% K1. Totalnitrogen
-2\. Nitratnitrogen
-3\. Ammonium-
-nitrogen
-4\. Ureanitrogen
-5\. Cyanamid-
-nitrogenVann-
-oppløselig K1. Totalnitrogen
-2\. Dersom en av nitrogenformene (2) – (5) utgjør minst 1 masseprosent, skal den deklareres1. Vann-
-oppløselig kalium
-2\. Betegnelse
-«klorfattig» kan bare brukes når klorinnholdet ikke overstiger 2% Cl
-3\. Klor-
-innholdet kan deklareresOppløsning av NK-gjødselProdukt fremstilt kjemisk og ved oppløsning i vann, stabilt ved atmosfærisk trykk, uten tilsetning av organiske næringsstoffer av animalsk eller vegetabilsk opprinnelse.15% (N + K / 0,83)
-Største innhold av biuret: urea-N x 0,0263% N
-4,1% K
-Største innhold av biuret: urea-N x 0,0261. Totalnitrogen
-2\. Nitratnitrogen
-3\. Ammonium-
-nitrogen
-4\. Ureanitrogen1. Vann-
-oppløselig P
-2\. P oppløselig i nøytralt ammoniumsitrat
-3\. P oppløselig i nøytralt ammoniumsitrat og i vann.Vann-
-oppløselig K1. Totalnitrogen
-2\. Dersom innholdet av en nitrogen-
-forbindelse (2-4) utgjør 1 masseprosent eller mer, skal den deklareres. Dersom biuretinnholdet er mindre enn 0,2%, kan «lav biuretinnhold» tilføyes.1. Vann-
-oppløselig kalium
-2\. Betegnelse
-«klorfattig» kan bare brukes når klorinnholdet ikke overstiger 2% Cl
-3\. Klor-
-innholdet kan deklareresSuspensjon av NK-gjødselProdukt i flytende form med næringsstoffer fra stoffer som både er oppslemmet og oppløst i vann, uten tilsetning av organiske næringsstoffer av animalsk eller vegetabilsk opprinnelse.18% (N + K / 0,83)
-Største innhold av biuret: urea-N x 0,0263% N 4,1% K
-Største innhold av biuret: urea-N x 0,0261. Totalnitrogen
-2\. Nitratnitrogen
-3\. Ammonium-
-nitrogen
-4\. UreanitrogenVann-
-oppløselig K1. Totalnitrogen
-2\. Dersom innholdet av en nitrogen-
-forbindelse (2-4) utgjør 1 masseprosent eller mer, skal den deklareres. Dersom biuretinnholdet er mindre enn 0,2%, kan «lav biuretinnhold» tilføyes.1. Vann-
-oppløselig kalium
-2\. Betegnelse
-«klorfattig» kan bare brukes når klorinnholdet ikke overstiger 2% Cl
-3\. Klor-
-innholdet kan deklareresNK-gjødsel som inneholder kroto-
-nylidend-
-iurea eller
-isobu-
-tylidend-
-iurea eller urea-
-formal-
-dehyd (alt etter omstendig-
-hetene)Kjemisk fremstilt produkt som inneholder kroto-
-nylidend-
-iurea eller
-isobuty-
-lidendiurea eller ureaformal-
-dehyd, uten tilsetning av organiske næringsstoffer av animalsk eller vegetabilsk opprinnelse18% (N + K / 0,83)5% N Minst 1/4 av det deklarerte innhold av totalnitrogen skal stamme fra nitrogen-
-formene 5, 6 eller 7. Minst 3/5 av det deklarerte nitrogen-
-innholdet 7, skal være løselig i varmt vann 5% K \* 0,831. Totalnitrogen
-2\. Nitratnitrogen
-3\. Ammonium-
-nitrogen
-4\. Ureanitrogen
-5\. Kroto-
-nylidendiurea-
-nitrogen
-6\. Isobuty-
-lidendiuera-
-nitrogen
-7\. Urea-
-formaldehyd-
-nitrogen
-8\. Ureaformal-
-dehydnitrogen løselig bare i varmt vann
-9\. Ureaformal-
-dehydnitrogen løselig i kaldt vannVannløselig K1. Totalnitrogen
-2\. Dersom en av nitrogenformene 2-4 utgjør 1 masseprosent eller mer, skal denne deklareres. En av nitrogenformene 5-7 (alt etter omstendighetene)
-Nitrogenformen 7 skal deklareres som nitrogenform 8 og 91. Vannløselig kalium
-2\. Betegnelse
-«klorfattig» kan bare brukes når klorinnholdet ikke overstiger 2%.
-3\. Klor-
-innholdet kan deklareres
+*NK-gjødsel*
+
+| *Typebetegnelse* | *Opplysninger om produksjonsmåte* | *Minimumsinnhold av næringsstoffer (masseprosent)* |  | *Form, oppløselighet og innhold av næringsstoffer som skal deklareres i henhold til spesifikasjoner i spalte 8, 9 og 10. Findelingsgrad* |  |  | *Opplysninger om gjødselens karakteristiske egenskaper. Andre krav* |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | *Totalt* | *For hvert næringsstoff* | *N* | *P* | *K* | *N* | *P* | *K* |
+| *(1)* | *(2)* | *(3)* | *(4)* | *(5)* | *(6)* | *(7)* | *(8)* | *(9)* | *(10)* |
+| NK-gjødsel | Produkt fremstilt kjemisk eller ved blanding, uten tilsetning av organiske næringsstoffer av animalsk eller vegetabilsk opprinnelse. | 18 (N + K / 0,83) | 3% N<br>4,1% K | 1. Totalnitrogen<br>2. Nitratnitrogen<br>3. Ammonium-<br>nitrogen<br>4. Ureanitrogen<br>5. Cyanamid-<br>nitrogen |  | Vann-<br>oppløselig K | 1. Totalnitrogen<br>2. Dersom en av nitrogenformene (2) – (5) utgjør minst 1 masseprosent, skal den deklareres |  | 1. Vann-<br>oppløselig kalium<br>2. Betegnelse<br>«klorfattig» kan bare brukes når klorinnholdet ikke overstiger 2% Cl<br>3. Klor-<br>innholdet kan deklareres |
+| Oppløsning av NK-gjødsel | Produkt fremstilt kjemisk og ved oppløsning i vann, stabilt ved atmosfærisk trykk, uten tilsetning av organiske næringsstoffer av animalsk eller vegetabilsk opprinnelse. | 15% (N + K / 0,83)<br>Største innhold av biuret: urea-N x 0,026 | 3% N<br>4,1% K<br>Største innhold av biuret: urea-N x 0,026 | 1. Totalnitrogen<br>2. Nitratnitrogen<br>3. Ammonium-<br>nitrogen<br>4. Ureanitrogen | 1. Vann-<br>oppløselig P<br>2. P oppløselig i nøytralt ammoniumsitrat<br>3. P oppløselig i nøytralt ammoniumsitrat og i vann. | Vann-<br>oppløselig K | 1. Totalnitrogen<br>2. Dersom innholdet av en nitrogen-<br>forbindelse (2-4) utgjør 1 masseprosent eller mer, skal den deklareres. Dersom biuretinnholdet er mindre enn 0,2%, kan «lav biuretinnhold» tilføyes. |  | 1. Vann-<br>oppløselig kalium<br>2. Betegnelse<br>«klorfattig» kan bare brukes når klorinnholdet ikke overstiger 2% Cl<br>3. Klor-<br>innholdet kan deklareres |
+| Suspensjon av NK-gjødsel | Produkt i flytende form med næringsstoffer fra stoffer som både er oppslemmet og oppløst i vann, uten tilsetning av organiske næringsstoffer av animalsk eller vegetabilsk opprinnelse. | 18% (N + K / 0,83)<br>Største innhold av biuret: urea-N x 0,026 | 3% N 4,1% K<br>Største innhold av biuret: urea-N x 0,026 | 1. Totalnitrogen<br>2. Nitratnitrogen<br>3. Ammonium-<br>nitrogen<br>4. Ureanitrogen |  | Vann-<br>oppløselig K | 1. Totalnitrogen<br>2. Dersom innholdet av en nitrogen-<br>forbindelse (2-4) utgjør 1 masseprosent eller mer, skal den deklareres. Dersom biuretinnholdet er mindre enn 0,2%, kan «lav biuretinnhold» tilføyes. |  | 1. Vann-<br>oppløselig kalium<br>2. Betegnelse<br>«klorfattig» kan bare brukes når klorinnholdet ikke overstiger 2% Cl<br>3. Klor-<br>innholdet kan deklareres |
+| NK-gjødsel som inneholder kroto-<br>nylidend-<br>iurea eller<br>isobu-<br>tylidend-<br>iurea eller urea-<br>formal-<br>dehyd (alt etter omstendig-<br>hetene) | Kjemisk fremstilt produkt som inneholder kroto-<br>nylidend-<br>iurea eller<br>isobuty-<br>lidendiurea eller ureaformal-<br>dehyd, uten tilsetning av organiske næringsstoffer av animalsk eller vegetabilsk opprinnelse | 18% (N + K / 0,83) | 5% N Minst 1/4 av det deklarerte innhold av totalnitrogen skal stamme fra nitrogen-<br>formene 5, 6 eller 7. Minst 3/5 av det deklarerte nitrogen-<br>innholdet 7, skal være løselig i varmt vann 5% K \* 0,83 | 1. Totalnitrogen<br>2. Nitratnitrogen<br>3. Ammonium-<br>nitrogen<br>4. Ureanitrogen<br>5. Kroto-<br>nylidendiurea-<br>nitrogen<br>6. Isobuty-<br>lidendiuera-<br>nitrogen<br>7. Urea-<br>formaldehyd-<br>nitrogen<br>8. Ureaformal-<br>dehydnitrogen løselig bare i varmt vann<br>9. Ureaformal-<br>dehydnitrogen løselig i kaldt vann |  | Vannløselig K | 1. Totalnitrogen<br>2. Dersom en av nitrogenformene 2-4 utgjør 1 masseprosent eller mer, skal denne deklareres. En av nitrogenformene 5-7 (alt etter omstendighetene)<br>Nitrogenformen 7 skal deklareres som nitrogenform 8 og 9 |  | 1. Vannløselig kalium<br>2. Betegnelse<br>«klorfattig» kan bare brukes når klorinnholdet ikke overstiger 2%.<br>3. Klor-<br>innholdet kan deklareres |
 
 *PK-gjødsel*
 
@@ -707,7 +632,42 @@ n\*(C12 H14 O8 N2 S)
 | Suspensjon av nitrogengjødsel med ureaformaldehyd | 0,4 |
 | Annen nitrogengjødsel | 0,4 |
 
-*2. Fosforgjødsel (P)* Thomasfosfat– deklarasjon innenfor en margin på 0,9 masseprosent P0– deklarasjon uttrykt i ett enkelt tall0,44Annen fosforgjødsel (nr. på gjødselen i vedlegg 1)P-oppløselighet i:Mineralsyre (3, 6, 7)0,35Maursyre (7)0,35Nøytralt ammoniumsitrat (2a, 2b, 2c)0,35Basisk ammoniumsitrat (4, 5, 6)0,35Vann (2a, 2b, 3)0,39Vann (2c)0,57Annen fosforgjødsel0,4*3. Kaliumgjødsel* Kainitt/kaliumråsalt1,25Beriket kainitt/kaliumråsalt0,83Kaliumklorid– til og med 45,7%0,83– over 45,7%0,42Kaliumklorid med magnesiumsalt1,25Kaliumsulfat0,42Kaliumsulfat med magnesiumsalt1,25Annen kaliumgjødsel0,5*4. Andre stoffer* Klor0,2
+*2. Fosforgjødsel (P)*
+
+|  |  |
+| --- | --- |
+| Thomasfosfat |  |
+| – deklarasjon innenfor en margin på 0,9 masseprosent P | 0 |
+| – deklarasjon uttrykt i ett enkelt tall | 0,44 |
+| Annen fosforgjødsel (nr. på gjødselen i vedlegg 1) |  |
+| P-oppløselighet i: |  |
+| Mineralsyre (3, 6, 7) | 0,35 |
+| Maursyre (7) | 0,35 |
+| Nøytralt ammoniumsitrat (2a, 2b, 2c) | 0,35 |
+| Basisk ammoniumsitrat (4, 5, 6) | 0,35 |
+| Vann (2a, 2b, 3) | 0,39 |
+| Vann (2c) | 0,57 |
+| Annen fosforgjødsel | 0,4 |
+
+*3. Kaliumgjødsel*
+
+|  |  |
+| --- | --- |
+| Kainitt/kaliumråsalt | 1,25 |
+| Beriket kainitt/kaliumråsalt | 0,83 |
+| Kaliumklorid |  |
+| – til og med 45,7% | 0,83 |
+| – over 45,7% | 0,42 |
+| Kaliumklorid med magnesiumsalt | 1,25 |
+| Kaliumsulfat | 0,42 |
+| Kaliumsulfat med magnesiumsalt | 1,25 |
+| Annen kaliumgjødsel | 0,5 |
+
+*4. Andre stoffer*
+
+|  |  |
+| --- | --- |
+| Klor | 0,2 |
 
 > Endret ved [forskrift 26 nov 2014 nr. 1469](forskrift/2014-11-26-1469).
 

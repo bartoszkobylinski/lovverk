@@ -15,7 +15,7 @@ xml_hash: "9df7e0b41eedb09a3410ffb2ae38a1ef941edb59f0955cd3ae1d22832d1afd85"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-10T17:52:49.841668+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -156,4 +156,18 @@ Forskriften trer i kraft 1. januar 2015. Samtidig oppheves [forskrift 22. mars 2
 
 Fra den tid forskriften trer i kraft, gjøres følgende endringer i andre forskrifter:
 
-1\. I [forskrift 23. desember 2011 nr. 1502](forskrift/2011-12-23-1502) om kvoteordningen for melk gjøres følgende endringer: – – –2. I [forskrift 17. januar 2012 nr. 56](forskrift/2012-01-17-56) om erstatning og tilskudd ved klimabetingede skader i plante- og honningproduksjon gjøres følgende endringer: – – –3. I [forskrift 4. mai 2005 nr. 403](forskrift/2005-05-04-403) om godkjenning av omsetningsledd for deltakelse i markedsordningen for poteter gjøres følgende endringer: – – –4. I [forskrift 4. februar 2013 nr. 206](forskrift/2013-02-04-206) om tilskudd til tiltak i beiteområder gjøres følgende endringer: – – –5. I [forskrift 4. juli 2003 nr. 951](forskrift/2003-07-04-951) om gjødselvarer mv. av organisk opphav gjøres følgende endringer: – – –6. I [forskrift 21. juli 2004 nr. 1131](forskrift/2004-07-21-1131) om erstatning etter offentlige pålegg og restriksjoner i plante- og husdyrproduksjon gjøres følgende endringer: – – –7. [Forskrift 21. juli 2004 nr. 1129](forskrift/2004-07-21-1129) om erstatning for tap av sau på beite oppheves.8. [Forskrift 4. mai 2010 nr. 642](forskrift/2010-05-04-642) om tilskudd ved tap i epleproduksjon forårsaket av rognebærmøll oppheves.
+1\. I [forskrift 23. desember 2011 nr. 1502](forskrift/2011-12-23-1502) om kvoteordningen for melk gjøres følgende endringer: – – –
+
+2\. I [forskrift 17. januar 2012 nr. 56](forskrift/2012-01-17-56) om erstatning og tilskudd ved klimabetingede skader i plante- og honningproduksjon gjøres følgende endringer: – – –
+
+3\. I [forskrift 4. mai 2005 nr. 403](forskrift/2005-05-04-403) om godkjenning av omsetningsledd for deltakelse i markedsordningen for poteter gjøres følgende endringer: – – –
+
+4\. I [forskrift 4. februar 2013 nr. 206](forskrift/2013-02-04-206) om tilskudd til tiltak i beiteområder gjøres følgende endringer: – – –
+
+5\. I [forskrift 4. juli 2003 nr. 951](forskrift/2003-07-04-951) om gjødselvarer mv. av organisk opphav gjøres følgende endringer: – – –
+
+6\. I [forskrift 21. juli 2004 nr. 1131](forskrift/2004-07-21-1131) om erstatning etter offentlige pålegg og restriksjoner i plante- og husdyrproduksjon gjøres følgende endringer: – – –
+
+7\. [Forskrift 21. juli 2004 nr. 1129](forskrift/2004-07-21-1129) om erstatning for tap av sau på beite oppheves.
+
+8\. [Forskrift 4. mai 2010 nr. 642](forskrift/2010-05-04-642) om tilskudd ved tap i epleproduksjon forårsaket av rognebærmøll oppheves.

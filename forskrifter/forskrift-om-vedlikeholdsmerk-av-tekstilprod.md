@@ -15,7 +15,7 @@ xml_hash: "ebd38d645303326d25935a64ec7287c5c5eead19f682d8e748588ffc394ac1dd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-10T17:52:49.841668+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -106,7 +106,9 @@ Fra samme tid oppheves [forskrift 9. april 2002 nr. 359](forskrift/2002-04-09-35
 
 Til forskriftens [§ 1](forskrift/2004-10-01-1340/§1)
 
-Unntak fra merkepliktenFølgende produkter er unntatt fra merkeplikten:
+Unntak fra merkeplikten
+
+Følgende produkter er unntatt fra merkeplikten:
 
 1. Ermeholdere
 2. Klokkeremmer i tekstil

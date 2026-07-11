@@ -184,11 +184,15 @@ Det vil ikke bli utstedt sertifikat etter denne forskriften før Direktoratet fo
 
 ## SOLAS 74
 
+Nedenfor gjengis Den internasjonale konvensjon om sikkerhet for menneskeliv til sjøs, 1974 (SOLAS) kapittel XV om sikkerhetstiltak for skip frakter industrielt personell, slik Sjøfartsdirektoratet tolker denne delen av konvensjonen.
+
 ### VEDLEGG
 ENDRINGER I DEN INTERNASJONALE KONVENSJONEN OM SIKKERHET FOR MENNESKELIV TIL SJØS, 1974 (SOLAS 1974)
 
 ### KAPITTEL XV
 SIKKERHETSTILTAK FOR SKIP SOM FRAKTER INDUSTRIELT PERSONELL
+
+Følgende nytt kapittel XV (Sikkerhetstiltak for skip som frakter industrielt personell) tilføyes etter eksisterende kapittel XIV (Sikkerhetstiltak for skip som opererer i polare farvann):
 
 ### KAPITTEL XV
 Sikkerhetstiltak for skip som frakter industrielt personell
@@ -197,35 +201,39 @@ Sikkerhetstiltak for skip som frakter industrielt personell
 
 I dette kapittelet gjelder følgende definisjoner:
 
-1. «Industrielt personell» (IP) er alle personer som transporteres eller innkvarteres om bord i forbindelse med industrivirksomhet til havs utført om bord på andre skip og/eller på anlegg til havs.
+1\. «Industrielt personell» (IP) er alle personer som transporteres eller innkvarteres om bord i forbindelse med industrivirksomhet til havs utført om bord på andre skip og/eller på anlegg til havs.
 
-2. «IP-koden» er de internasjonale sikkerhetsreglene for skip som frakter industrielt personell, vedtatt av sjøsikkerhetskomiteen (MSC) ved resolusjon MSC.527(106), med eventuelle endringer, forutsatt at slike endringer vedtas, iverksettes og trer i kraft i samsvar med bestemmelsene i artikkel VIII i denne konvensjonen om endringsprosedyrene som gjelder for vedlegget med unntak av kapittel I.
+2\. «IP-koden» er de internasjonale sikkerhetsreglene for skip som frakter industrielt personell, vedtatt av sjøsikkerhetskomiteen (MSC) ved resolusjon MSC.527(106), med eventuelle endringer, forutsatt at slike endringer vedtas, iverksettes og trer i kraft i samsvar med bestemmelsene i artikkel VIII i denne konvensjonen om endringsprosedyrene som gjelder for vedlegget med unntak av kapittel I.
 
-3. «Industrivirksomhet til havs» er konstruksjon, vedlikehold, avvikling, drift eller service av anlegg til havs som er tilknyttet, men ikke begrenset til, utforskning og utnytting av ressurser innenfor sektorene for fornybar energi eller hydrokarbonbasert energi, havbruk, gruvedrift til havs eller lignende virksomhet.
+3\. «Industrivirksomhet til havs» er konstruksjon, vedlikehold, avvikling, drift eller service av anlegg til havs som er tilknyttet, men ikke begrenset til, utforskning og utnytting av ressurser innenfor sektorene for fornybar energi eller hydrokarbonbasert energi, havbruk, gruvedrift til havs eller lignende virksomhet.
 
-4. «HSC-koden» er de internasjonale sikkerhetsreglene for hurtiggående fartøy, 2000, vedtatt av sjøsikkerhetskomiteen (MSC) ved resolusjon MSC.97(73), med eventuelle endringer, forutsatt at slike endringer vedtas, iverksettes og trer i kraft i samsvar med bestemmelsene i denne konvensjonens artikkel VIII om endringsprosedyrene som gjelder for vedlegget med unntak av kapittel I.
+4\. «HSC-koden» er de internasjonale sikkerhetsreglene for hurtiggående fartøy, 2000, vedtatt av sjøsikkerhetskomiteen (MSC) ved resolusjon MSC.97(73), med eventuelle endringer, forutsatt at slike endringer vedtas, iverksettes og trer i kraft i samsvar med bestemmelsene i denne konvensjonens artikkel VIII om endringsprosedyrene som gjelder for vedlegget med unntak av kapittel I.
 
 ### Regel 2 – Generelle bestemmelser
 
-1. Når det i IP-koden refereres til krav til passasjerskip, anses de tilsvarende kravene til lasteskip å være overholdt.
+1\. Når det i IP-koden refereres til krav til passasjerskip, anses de tilsvarende kravene til lasteskip å være overholdt.
 
-2. I dette kapittelet skal industrielt personell ikke behandles eller regnes som passasjerer.
+2\. I dette kapittelet skal industrielt personell ikke behandles eller regnes som passasjerer.
 
-3. Når antallet industrielt personell brukes som parameter, enten i dette kapittelet eller i IP-koden, menes det totale antallet industrielt personell, spesialpersonell1 og passasjerer som fraktes om bord, der antallet passasjerer ikke skal overstige 12.
+3\. Når antallet industrielt personell brukes som parameter, enten i dette kapittelet eller i IP-koden, menes det totale antallet industrielt personell, spesialpersonell1 og passasjerer som fraktes om bord, der antallet passasjerer ikke skal overstige 12.
 
-4. Uten hensyn til bestemmelsene i regel 2.1 ovenfor, for hurtiggående fartøy som omfattes av kapittel X, og uten hensyn til bestemmelsene i kapittel 2 til 12 og 18 i HSC-koden, skal et skip som er sertifisert i samsvar med kravene i dette kapittelet og IP-koden, anses å ha oppfylt kravene i kapittel 2 til 12 og 18 i HSC-koden.
+4\. Uten hensyn til bestemmelsene i regel 2.1 ovenfor, for hurtiggående fartøy som omfattes av kapittel X, og uten hensyn til bestemmelsene i kapittel 2 til 12 og 18 i HSC-koden, skal et skip som er sertifisert i samsvar med kravene i dette kapittelet og IP-koden, anses å ha oppfylt kravene i kapittel 2 til 12 og 18 i HSC-koden.
+
+1 Det vises til «Code of Safety for Special Purpose Ships, 2008».
 
 ### Regel 3 – Virkeområde
 
-1. Med mindre annet er uttrykkelig fastsatt, gjelder dette kapittelet for lasteskip og hurtiggående lasteskip med bruttotonnasje 500 eller mer som er bygget 1. juli 2024 eller senere, og som frakter mer enn 12 industrielt personell.
+1\. Med mindre annet er uttrykkelig fastsatt, gjelder dette kapittelet for lasteskip og hurtiggående lasteskip med bruttotonnasje 500 eller mer som er bygget 1. juli 2024 eller senere, og som frakter mer enn 12 industrielt personell.
 
-2. Lasteskip som er bygget før 1. juli 2024 og godkjent av administrasjonen til å frakte mer enn 12 industrielt personell i samsvar med anbefalingene som er utviklet av organisasjonen, skal oppfylle bestemmelsene i regel III/1, III/2 (unntatt nr. 2.1.7), IV/7 og IV/8 i IP-koden innen det første mellomliggende tilsynet eller fornyelsestilsynet, alt etter hva som kommer først, etter 1. juli 2024.
+2\. Lasteskip som er bygget før 1. juli 2024 og godkjent av administrasjonen til å frakte mer enn 12 industrielt personell i samsvar med anbefalingene som er utviklet av organisasjonen, skal oppfylle bestemmelsene i regel III/1, III/2 (unntatt nr. 2.1.7), IV/7 og IV/8 i IP-koden innen det første mellomliggende tilsynet eller fornyelsestilsynet, alt etter hva som kommer først, etter 1. juli 2024.
 
-3. Hurtiggående lasteskip som er bygget før 1. juli 2024 og godkjent av administrasjonen til å frakte mer enn 12 industrielt personell i samsvar med anbefalingene som er utviklet av organisasjonen, skal oppfylle bestemmelsene i regel III/1, III/2 (unntatt nr. 2.1.7), V/7 og V/8 i IP-koden innen det tredje periodiske tilsynet eller det første fornyelsestilsynet, alt etter hva som kommer først, etter 1. juli 2024.
+3\. Hurtiggående lasteskip som er bygget før 1. juli 2024 og godkjent av administrasjonen til å frakte mer enn 12 industrielt personell i samsvar med anbefalingene som er utviklet av organisasjonen, skal oppfylle bestemmelsene i regel III/1, III/2 (unntatt nr. 2.1.7), V/7 og V/8 i IP-koden innen det tredje periodiske tilsynet eller det første fornyelsestilsynet, alt etter hva som kommer først, etter 1. juli 2024.
 
-4. Lasteskip og hurtiggående lasteskip, uansett byggedato, som før 1. juli 2024 ikke er godkjent av administrasjonen til å frakte mer enn 12 industrielt personell i samsvar med anbefalingene som er utviklet av organisasjonen,2 skal oppfylle og være sertifisert i henhold til bestemmelsene i dette kapittelet og IP-koden før de kan frakte mer enn 12 industrielt personell.
+4\. Lasteskip og hurtiggående lasteskip, uansett byggedato, som før 1. juli 2024 ikke er godkjent av administrasjonen til å frakte mer enn 12 industrielt personell i samsvar med anbefalingene som er utviklet av organisasjonen,2 skal oppfylle og være sertifisert i henhold til bestemmelsene i dette kapittelet og IP-koden før de kan frakte mer enn 12 industrielt personell.
 
-5. I dette kapittelet refererer uttrykket «bygget» til beskrivelsen gitt iregel II-2/1.1.2.1, supplert med regel II-2/1.1.3 for lasteskip, ogregel X/1.4, supplert med regel X/1.5 for hurtiggående lasteskip.
+2 Det vises til «Interim recommendations on the safe carriage of more than 12 industrial personnel on board vessels engaged on international voyages» (resolusjon MSC.418(97)).
+
+5\. I dette kapittelet refererer uttrykket «bygget» til beskrivelsen gitt iregel II-2/1.1.2.1, supplert med regel II-2/1.1.3 for lasteskip, ogregel X/1.4, supplert med regel X/1.5 for hurtiggående lasteskip.
 
 ### Regel 4 – Anvendelse av andre kapitler
 
@@ -234,11 +242,13 @@ I dette kapittelet gjelder følgende definisjoner:
 
 ### Regel 5 – Krav
 
-1. Skip og hurtiggående fartøy som omfattes av dette kapittelet,skal være sertifisert som lasteskip eller hurtiggående lasteskip i samsvar med kapittel I, kapittel VIII eller kapittel X, alt etter hva som er relevant,skal oppfylle kravene i IP-koden, ogi tillegg til kravene i kapittel I regel 8, 9 og 10 eller i avsnitt 1.5 til 1.9 i HSC-koden, alt etter hva som er relevant, skal undersøkes og sertifiseres, som fastsatt i IP-koden.
+1\. Skip og hurtiggående fartøy som omfattes av dette kapittelet,skal være sertifisert som lasteskip eller hurtiggående lasteskip i samsvar med kapittel I, kapittel VIII eller kapittel X, alt etter hva som er relevant,skal oppfylle kravene i IP-koden, ogi tillegg til kravene i kapittel I regel 8, 9 og 10 eller i avsnitt 1.5 til 1.9 i HSC-koden, alt etter hva som er relevant, skal undersøkes og sertifiseres, som fastsatt i IP-koden.
 
-2. Skip og hurtiggående fartøy som omfattes av dette kapittelet og har et sertifikat utstedt i henhold til bestemmelsene i regel 5.1 ovenfor, skal kontrolleres som fastsatt i regel I/19 og XI-1/4 og i 1.10 i HSC-koden, alt etter hva som er relevant. For dette formålet skal slike sertifikater behandles som et sertifikat utstedt i henhold til kapittel I regel 12 eller 13.
+2\. Skip og hurtiggående fartøy som omfattes av dette kapittelet og har et sertifikat utstedt i henhold til bestemmelsene i regel 5.1 ovenfor, skal kontrolleres som fastsatt i regel I/19 og XI-1/4 og i 1.10 i HSC-koden, alt etter hva som er relevant. For dette formålet skal slike sertifikater behandles som et sertifikat utstedt i henhold til kapittel I regel 12 eller 13.
 
 ## RESOLUSJON MSC.527(106)
+
+Nedenfor gjengis det internasjonale sikkerhetsregelverket for skip som fører industrielt personell (IP-koden), slik Sjøfartsdirektoratet tolker dette regelverket.
 
 ### RESOLUSJON MSC.527(106)
 (vedtatt 10. november 2022)
@@ -254,33 +264,61 @@ Målet med dette regelverket er å sørge for sikker føring av industrielt pers
 
 ### 2 Definisjoner
 
+2.1
+
 «Føring» er transport, innkvartering eller begge deler.
+
+2.2
 
 «Viktige systemer» er systemer nevnt i SOLAS kapittel II-2 regel 21.4.
 
+2.3
+
 «HSC-koden» er de internasjonale sikkerhetsreglene for hurtiggående fartøy, 2000, vedtatt av IMOs sjøsikkerhetskomité ved resolusjon MSC.97(73), med endringer.
+
+2.4
 
 «Industrielt personell» (IP) er alle personer som transporteres eller innkvarteres om bord i forbindelse med industrivirksomhet til havs utført om bord på andre skip og/eler på anlegg til havs.
 
+2.5
+
 «IP-område» er ethvert område eller rom der IP normalt skal oppholde seg under reiser, eller der slikt personell har adgang.
+
+2.6
 
 «Industrivirksomhet til havs» er konstruksjon, vedlikehold, avvikling, drift eller service av anlegg til havs som er tilknyttet, men ikke begrenset til, utforskning og utnytting av ressurser innenfor sektorene for fornybar energi eller hydrokarbonbasert energi, havbruk, gruvedrift til havs eller lignende virksomhet.
 
+2.7
+
 «Personelloverføring» er hele prosessen med å overføre personell og personellets utstyr til havs til eller fra et skip som omfattes av dette regelverket, og fra eller til et annet skip eller et anlegg til havs.
+
+2.8
 
 «SOLAS» er den internasjonale konvensjonen om sikkerhet for menneskeliv til sjøs, 1974, med endringer.
 
 ### 3 Sertifikat og tilsyn
 
+3.1
+
 Alle skip som dette regelverket gjelder for, skal ha om bord et gyldig sikkerhetssertifikat for industrielt personell.
+
+3.2
 
 Sikkerhetssertifikatet for industrielt personell skal utstedes til skip som oppfyller de relevante kravene i dette regelverket, etter et førstegangs- eller fornyelsestilsyn.
 
+3.3
+
 Sertifikatet nevnt i denne regelen skal utstedes enten av administrasjonen eller av en organisasjon som den har godkjent i samsvar med SOLAS kapittel XI-1 regel 1. Administrasjonen påtar seg i alle tilfeller fullt ansvar for sertifikatet.
+
+3.4
 
 Sikkerhetssertifikatet for industrielt personell skal utformes i et format som følger malen i vedlegget til dette regelverket. Hvis språket ikke er engelsk, fransk eller spansk, skal teksten inkludere en oversettelse til ett av disse språkene.
 
+3.5
+
 Gyldighet, tilsynsdatoer og påtegninger i forbindelse med sikkerhetssertifikatet for industrielt personell skal harmoniseres med relevante SOLAS-sertifikater i samsvar med bestemmelsene i SOLAS kapittel I regel 14 eller kapittel X regel 3.2, alt etter hva som er relevant. Sertifikatet skal inkludere et tillegg som lister opp utstyr som kreves etter dette regelverket.
+
+3.6
 
 Sikkerhetssertifikatet for industrielt personell og utstyrslisten skal utstedes i tillegg til de relevante sertifikatene som kreves i SOLAS kapittel XV regel 5.1.1.
 
@@ -289,7 +327,11 @@ MÅL OG FUNKSJONSKRAV
 
 ### 1 Industrielt personell
 
+###### 1.1 Mål
+
 Målet med dette kapittelet er å sørge forsikker drift ved føring av industrielt personellat det industrielle personellet er helsemessig skikket og er kjent med farene knyttet til driftsmiljøet, inkludert risiko i forbindelse med personelloverføring.
+
+###### 1.2 Funksjonskrav
 
 For å nå målet i nr. 1.1 ovenfor er følgende funksjonskrav nedfelt i reglene i del III:
 
@@ -297,57 +339,97 @@ Det skal stilles midler til rådighet for å sørge for at industrielt personell
 
 ### 2 Sikker overføring av personell
 
+###### 2.1 Mål
+
 Målet med dette kapittelet er å sørge for sikkerhet for alle som er involvert i overføring av personell, inkludert sikre og egnede overføringsmidler og evnen til å utføre operasjoner i forbindelse med personelloverføring på en sikker måte.
+
+###### 2.2 Funksjonskrav
 
 For å nå målet i nr. 2.1 ovenfor er følgende funksjonskrav nedfelt i reglene i del III:
 
+2.2.1
+
 Midler skal stilles til rådighet for å unngå skader under overføring av personell.
+
+2.2.2
 
 Anordninger for personelloverføring skal væreutformet, konstruert og vedlikeholdt for å tåle belastningene de utsettes forutformet og bygget slik at de forblir sikre hvis de mister eller får redusert funksjonsevnei stand til å føre personer som overføres, tilbake til et sikkert sted på en sikker måte hvis de mister drivkraft.
 
+2.2.3
+
 Midler til å holde posisjonen skal stilles til rådighet og være arrangert på en slik måte at ulykker forhindres under personelloverføring, og at de er egnet for driftsformen og samspillet med andre skip eller anlegg til havs.
+
+2.2.4
 
 Midler skal stilles til rådighet for å sørge for at opplysningene om antall industrielt personell om bord og deres identitet holdes oppdatert for å bidra til å sikre at det faktiske antallet personer om bord er kjent til enhver tid.
 
 ### 3 Rominndeling og stabilitet
 
+###### 3.1 Mål
+
 Målet med dette kapittelet er å sørge for at skipet har tilstrekkelig stabilitet, både i intakt og skadet tilstand, tatt i betraktning det totale antallet personer om bord.
+
+###### 3.2 Funksjonskrav
 
 For å nå målet i nr. 3.1 ovenfor skal skipet være utformet med værtette og vanntette avgrensninger som sørger for tilstrekkelig stabilitet, både i intakt og skadet tilstand, tatt i betraktning det totale antallet personer om bord. Dette funksjonskravet er nedfelt i reglene i del IV og V.
 
 ### 4 Maskininstallasjoner
 
+###### 4.1 Mål
+
 Målet med dette kapittelet er å sørge for maskininstallasjoner som kan levere nødvendig funksjonalitet for å sørge for sikker navigering og sikker føring av personer om bord, både under normal drift og i nødssituasjoner, tatt i betraktning det totale antallet personer om bord.
+
+###### 4.2 Funksjonskrav
 
 For å nå målet i nr. 4.1 ovenfor er følgende funksjonskrav nedfelt i reglene i del IV og V:Dersom kapasiteten som trengs for å sikre den påkrevde funksjonaliteten til et maskinerianlegg er avhengig av antallet personer om bord (f.eks. lensepumpesystemer), må det sørges for nødvendig ekstra kapasitet.Styringssystemer skal kunne opprettholde styringen etter enhver hendelse som påvirker maskininstallasjonene.Viktige systemer skal ha nødvendig redundans eller isolasjon, eller en kombinasjon av begge, for å sørge for at personer fortsatt kan innkvarteres trygt om bord etter enhver hendelse som påvirker maskininstallasjonene, tatt i betraktning antallet personer om bord.
 
 ### 5 Elektriske installasjoner
 
+###### 5.1 Mål
+
 Målet med dette kapittelet er å sørge fornødkraftkilder som kan forsyne viktige systemer med strøm slik at de fungerer i nødssituasjoner, tatt i betraktning antallet personer om bordbeskyttelse mot elektriske farer for alle personer om bord.
+
+###### 5.2 Funksjonskrav
 
 For å nå målet i nr. 5.1 ovenfor er følgende funksjonskrav nedfelt i reglene i del IV og V:Nødkrafttilførselen til viktige systemer skal ha nødvendig redundans eller isolasjon, eller en kombinasjon av begge, for å sørge for at personer fortsatt kan innkvarteres om bord på en trygg måte i tilfelle skade, tatt i betraktning antallet personer om bord og tiden det tar å evakuere på systematisk vis.Det skal foreligge sikkerhetstiltak mot støt, brann og andre farer som skyldes elektrisitet.
 
 ### 6 Periodisk ubemannede maskinrom
 
+###### 6.1 Mål
+
 Målet med dette kapittelet er å sørge for at det ikke vil påvirke sikkerheten til skipet eller personene om bord at et maskinrom er ubemannet i perioder.
+
+###### 6.2 Funksjonskrav
 
 For å nå målet i nr. 6.1 ovenfor er følgende funksjonskrav nedfelt i reglene i del IV og V:I periodisk ubemannede maskinrom skal sikker drift være sikret, tatt i betraktning antallet personer om bord.Periodisk ubemannede maskinrom skal være utstyrt med ekstra betjenings-, overvåkings- og alarmsystemer som sørger for sikker drift, tatt i betraktning antallet personer om bord, slik at det oppnås tilsvarende sikkerhet som for maskinrom som er normalt bemannet.
 
 ### 7 Brannsikkerhet
 
+###### 7.1 Mål
+
 Målet med dette kapittelet er å oppfylle brannsikringsmålene i SOLAS eller de grunnleggende prinsippene for brannsikring i HSC-koden, tatt i betraktning antallet personer om bord.
+
+###### 7.2 Funksjonskrav
 
 For å nå målet i nr. 7.1 ovenfor er midlene for å oppfylle funksjonskravene om brannsikring i SOLAS eller de grunnleggende prinsippene for brannsikring i HSC-koden, tatt i betraktning antallet personer om bord, nedfelt i reglene i del IV og V.
 
 ### 8 Redningsredskaper og -anordninger
 
+###### 8.1 Mål
+
 Målet med dette kapittelet er å sørge for egnede og tilstrekkelige midler til å sikre for sikker evakuering av skipet og ombordtaking av personer.
+
+###### 8.2 Funksjonskrav
 
 For å nå målet i nr. 8.1 ovenfor er følgende funksjonskrav nedfelt i reglene i del IV og V:Det skal være redningsfarkost(er) med tilstrekkelig kapasitet til å romme alle om bord.Egnede og tilstrekkelig mange personlige redningsredskaper skal være tilgjengelig for alle om bord.Det skal være tilstrekkelig med plass til samling og mønstring.Det skal finnes kommunikasjons- og alarmsystemer om bord som sørger for at nødkommunikasjon når fram til alle personer om bord.Det skal være midler tilgjengelig for å sørge for sikker ombordtaking av personer.
 
 ### 9 Farlig gods
 
+###### 9.1 Mål
+
 Målet med dette kapittelet er å sørge for sikker føring av industrielt personell ved transport og håndtering av farlig gods på skip som er sertifisert i henhold til dette regelverket, tatt i betraktning det totale antallet personer om bord.
+
+###### 9.2 Funksjonskrav
 
 For å nå målet i nr. 9.1 ovenfor må det tas hensyn til fare som kan oppstå ved transport og håndtering av farlig gods, og risikoen for alle om bord må minimeres, tatt i betraktning egenskapene til det farlige godset. Dette funksjonskravet er nedfelt i reglene i del IV og V.
 
@@ -355,37 +437,69 @@ For å nå målet i nr. 9.1 ovenfor må det tas hensyn til fare som kan oppstå 
 
 ### Regel 1 – Industrielt personell
 
+1.1
+
 For å oppfylle funksjonskravene i nr. II/1.2.1 skal alt industrielt personell være minst 16 år, og det skal dokumenteres overfor skipsfører at personellet er fysisk og medisinsk skikket til å oppfylle alle kravene i denne regelen, basert på en standard som aksepteres av administrasjonen.
+
+1.2
 
 For å oppfylle funksjonskravene i nr. II/1.2.2 skal alt industrielt personell vise at de behersker arbeidsspråket om bord godt nok til å kunne kommunisere effektivt og forstå alle instruksjoner fra skipets mannskap.
 
+1.3
+
 For å oppfylle funksjonskravene i nr. II/1.2.3 skal alt industrielt personell ha fått opplæring eller instruksjoner på følgende områder før de går om bord på skipet:1overlevelse til sjøs, som inkluderer åvite hvilke nødssituasjoner som kan oppstå om bord på et skipbruke personlig redningsutstyrkomme seg trygt i vannet fra høyden og å overleve i vannetkomme seg om bord i en redningsfarkost fra skipet og fra vannet iført redningsvestbrannsikring, inkludert kunnskap om hvilke typer brannfarer som finnes om bord på skip, og hvilke forholdsregler som skal tas for å forhindre brannpersonlig sikkerhet og sosialt ansvar, som inkluderer åforstå den myndigheten skipsføreren eller en representant for denne har om bordfølge instruksjoner gitt av skipspersonelletforstå sikkerhetssymboler, skilter og alarmsignaler om bord på skip.Industrielt personell skal ikke føres om bord med mindre skipsføreren har fått dokumentasjon som bekrefter at slikt personell har fått opplæring eller instruksjoner som kreves etter denne regelen.For å oppfylle funksjonskravet i nr. II/1.2.4 skal alt industrielt personell, før skipet forlater havn eller umiddelbart etter ombordstigning, ha fått en skipsspesifikk sikkerhetsopplæring som skal omfatteutformingen av skipetplasseringen av personlige redningsredskaper, mønstrings- og innskipingsstasjoner, rømningsveier og førstehjelpsstasjonersikkerhetsinformasjon, symboler, skilter og alarmer om bordtiltak som må iverksettes ved utløsning av en lydalarm eller erklæring av en nødssituasjon.For å oppfylle funksjonskravene i nr. II/1.2.5 skal alt industrielt personell før overføring ha fått opplæring i skipets prosedyrer, anordninger og eventuelle ekstra sikkerhetstiltak eller utstyr som brukes ved overføring av personell til andre skip og/eller anlegg til havs.
+
+1 Personell som oppfyller opplæringskravene i nr. 5.5 i "Recommendations for the training and certification of personnel on mobile offshore units" (resolusjon A.1079(28)) eller industristandarder for opplæring, utviklet av for eksempel Global Wind Organization (GWO), Offshore Petroleum Industry Training Organization (OPITO) eller Basic Offshore Safety Induction and Emergency Training (godkjent av OPITO), kan anses å oppfylle kravene i denne delen.
 
 ### Regel 2 – Sikker overføring
 
+2.1
+
 For å oppfylle funksjonskravet i nr. II/2.2.1 gjelder følgende:Innretninger og anordninger for personelloverføring skal holdes rene, være godt vedlikeholdt og kontrolleres regelmessig for å sørge for at det er trygt å bruke dem.Rigging og bruk av anordninger for personelloverføring skal overvåkes av en ansvarlig offiser og betjenes av personell som har fått riktig opplæring. Sikkerhetsprosedyrer skal etableres og følges av personell som er involvert i rigging og bruk av mekanisk utstyr.Det skal finnes løsninger for kommunikasjon mellom den tilsynsansvarlige offiseren og kommandobroen.Alle anordninger for personelloverføring skal være permanent merket for å gjøre det mulig å identifisere hver innretning for besiktelses-, inspeksjons- og dokumentasjonsformål. Dokumentasjon av bruk og vedlikehold skal oppbevares om bord på skipet.Før overføringen av personell starter, må anordningene for personelloverføring kontrolleres for å sørge for at de fungerer som de skal.Det skal finnes løsninger som sørger for sikker og uhindret passasje for industrielt personell mellom anordningene for personelloverføring og områdene der de blir transportert eller innkvartert om bord.Anordningene for personelloverføring, vannet under anordningene og passasjen som nevnt i nr. .6 over skal ha belysning som kan forsynes med strøm fra nødkraftkilden.Dekkområdet der personelloverføring finner sted, skal være øremerket for dette og holdes fritt for hindringer.Det må utføres en «sikker jobb»-analyse når det planlegges, og før det utføres, personelloverføring til havs. Analysen skal ta hensyn til miljømessige forhold samt operasjonelle og utstyrsmessige begrensninger.Ved planlegging av personelloverføring bør det tas hensyn til veiledningen utarbeidet av organisasjonen2 eller annen relevant veiledning3 som administrasjonen aksepterer.
 
+2.2
+
 For å oppfylle funksjonskravet i nr. II/2.2.2 skal anordninger for personelloverføring være utformet, konstruert, testet og installert i samsvar med standarder4 som administrasjonen aksepterer, eller krav fra et klasseselskap som er anerkjent av administrasjonen i samsvar med bestemmelsene i SOLAS kapittel XI-1 regel 1.
+
+2.3
 
 I tillegg gjelder følgende:Utformingen av anordningene for personelloverføring skal passe til anordningen på skipet.Det skal foretas en analyse for å vurdere svikt i IP-overføringsanordningene og alle tilknyttede systemer som kan svekke tilgjengeligheten av overføringsanordningene og/eller sette involverte personers sikkerhet i fare.
 Analysen5 skalvurdere konsekvensen av svikt i alt utstyr og alle systemer på grunn av enkeltfeil, brann i et rom eller oversvømmelse i et vanntett rom som kan påvirke tilgangen på overføringsanordningerfinne løsninger for å sørge for at IP-overføringsanordningene er tilgjengelige, og at sikkerheten til alle involverte ivaretas ved svikt som nevnt i nr. .1.Hvis en enkeltfeil fører til at mer enn én komponent i et system svikter (fellesfeil), skal alle følgefeil vurderes under ett. Hvis en feil direkte fører til flere feil, skal alle disse feilene vurderes under ett.
 
+2.4
+
 For å oppfylle funksjonskravet i nr. II/2.2.3 skal skipets manøvreringsdyktighet og det forventede behovet for at skipet holder samme posisjon over tid, vurderes for å sørge for at posisjonsbevarende utstyr brukes riktig.
 
+2.5
+
 For å oppfylle funksjonskravet i nr. II/2.2.4 skal det være prosedyrer på plass for å sørge for at det til enhver tid finnes korrekt informasjon om antall personell om bord og disses identitet.
+
+2 Se «Guidance on safety when transferring persons at sea» (MSC-MEPC.7/Circ.10).
+
+3 For eksempel siste revisjon av «IMCA M202 Guidance on the transfer of personnel to/from offshore vessels and structures».
+
+4 Se relevante deler av EN 13852-1:2013.
+
+5 En egnet analyse kan være QFA- eller FMEA-analyse og tilhørende rapporter.
 
 ### DEL IV
 TILLEGGSREGLER FOR SKIP SOM ER SERTIFISERT I SAMSVAR MED SOLAS KAPITTEL I
 
 ### Regel 1 – Generelle bestemmelser
 
+1.1
+
 Med mindre annet er uttrykkelig fastsatt i denne delen, skal skip som fører industrielt personell, oppfylle SOLAS-kravene for lasteskip og gjeldende regler i denne delen.
+
+1.2
 
 Skip som overholder nr. 1.1 i tillegg til gjeldende regler i denne delen, anses å oppfylle målene og funksjonskravene i nr. II/3 til II/9.
 
 ### Regel 2 – Rominndeling og stabilitet
 
-For å oppfylle funksjonskravet i nr. II/3.2.1 gjelder følgende:Dersom skipet er sertifisert til å føre mer enn 240 personer om bord, skal det oppfylle kravene i SOLAS regel II-1/5 som om skipet er et passasjerskip, og det industrielle personellet betraktes som passasjerer. SOLAS regel II-1/5.5 gjelder imidlertid ikke.Rominndeling og skadestabilitet skal være i samsvar med SOLAS kapittel II-1, hvor skipet anses som et passasjerskip og industrielt personell regnes som passasjerer, og verdien *R* er da som følger:Dersom skipet er sertifisert til å føre mer enn 240 personer, skal verdien *R* være *R.*Dersom skipet er sertifisert til å føre maksimalt 60 personer, skal verdien *R* være 0,8 *R.*Hvis det er flere enn 60 personer, men maksimalt 240 personer, skal verdien *R* bestemmes ved lineær interpolasjon mellom verdiene angitt i nr. 1 og .2 over. $$\begin{align}\text{R} = 1 -\frac{5,000}{L_s + 2.5N + 15,225}\end{align}$$
+2.1
+
+For å oppfylle funksjonskravet i nr. II/3.2.1 gjelder følgende:Dersom skipet er sertifisert til å føre mer enn 240 personer om bord, skal det oppfylle kravene i SOLAS regel II-1/5 som om skipet er et passasjerskip, og det industrielle personellet betraktes som passasjerer. SOLAS regel II-1/5.5 gjelder imidlertid ikke.Rominndeling og skadestabilitet skal være i samsvar med SOLAS kapittel II-1, hvor skipet anses som et passasjerskip og industrielt personell regnes som passasjerer, og verdien *R* er da som følger:Dersom skipet er sertifisert til å føre mer enn 240 personer, skal verdien *R* være *R.*Dersom skipet er sertifisert til å føre maksimalt 60 personer, skal verdien *R* være 0,8 *R.*Hvis det er flere enn 60 personer, men maksimalt 240 personer, skal verdien *R* bestemmes ved lineær interpolasjon mellom verdiene angitt i nr. 1 og .2 over. $$\\begin{align}\\text{R} = 1 -\\frac{5,000}{L_s + 2.5N + 15,225}\\end{align}$$
 der
 *N = N*1 *+* 2*N*2
 *N*1 = antall personer som det finnes livbåter til
@@ -393,13 +507,21 @@ der
 
 ### Regel 3 – Maskininstallasjoner
 
+3.1
+
 For å oppfylle funksjonskravet i nr. II/4.2.1 skal skipet oppfylle kravene i SOLAS regel II-1/35-1 som om skipet er et passasjerskip.
+
+3.2
 
 For å oppfylle funksjonskravet i nr. II/4.2.2 skal skipet, dersom det er sertifisert for å føre mer enn 240 personer om bord, oppfylle kravene i SOLAS regel II-1/29 som om skipet er et passasjerskip.
 
 ### Regel 4 – Elektriske installasjoner
 
+4.1
+
 For å oppfylle funksjonskravet i nr. II/5.2.1 gjelder følgende:For installasjoner i skip med en lengde på mer enn 50 m som fører inntil 60 personer om bord, skal kravene i SOLAS regel II-1/42.2.6.1 gjelde i tillegg til kravene i SOLAS regel II-1/43.For installasjoner i skip som fører mer enn 60 personer om bord, skal SOLAS regel II-1/42 gjelde.
+
+4.2
 
 For å oppfylle funksjonskravet i nr. II/5.2.2 for installasjoner på skip som fører mer enn 60 personer om bord, skal SOLAS regel II-1/45.12 gjelde.
 
@@ -417,32 +539,60 @@ For å oppfylle funksjonskravene i nr. II/8.2 gjelder følgende:For skip som fø
 
 ### Regel 8 – Farlig gods
 
+###### 8.1 Generelle bestemmelser
+
 Industrielt personell kan bare ha med farlig gods om bord for å utføre sin rolle utenfor skipet og med forhåndssamtykke fra skipsføreren. Dette farlige godset skal anses som last og transporteres i samsvar med SOLAS kapittel VII del A.
+
+###### 8.2 Frakt av farlig gods i pakket form
 
 For å oppfylle funksjonskravene i nr. II/9.2 gjelder følgende:For skip som er sertifisert til å føre mer enn 240 personer om bord, skal SOLAS regel II-2/19.3.6.2 for passasjerskip som fører mer enn 36 passasjerer, gjelde.Med hensyn til kravene i IMDG-koden skal skip sertifisert til å føre mer enn 240 personer om bord regnes som passasjerskip, og skip sertifisert til å føre 240 personer eller færre regnes som lasteskip.
 
+###### 8.3 Frakt av farlig gods i fast form i bulk
+
 For å oppfylle funksjonskravene i nr. II/9.2 gjelder følgende:For skip som er sertifisert til å føre mer enn 240 personer om bord, skal SOLAS regel II-2/19.3.6.2 for passasjerskip som fører mer enn 36 passasjerer, gjelde.Med hensyn til kravene i IMSBC-koden skal industrielt personell betraktes som personell i forbindelse med personellbeskyttelse.
+
+###### 8.4 Frakt av farlige flytende kjemikalier, flytende gasser og olje
+
+8.4.1
 
 For å oppfylle funksjonskravene i nr. II/9.2 skal skip som frakter farlige flytende kjemikalier og/eller flytende gasser som bulklast samtidig med industrielt personell, enten være sertifisert i samsvar med kravene i SOLAS kapittel VII del B eller C eller oppfylle kravene og være sertifisert i samsvar med en standard som ikke har lavere kravnivå enn den organisasjonen har utviklet.6 I tillegg gjelder følgende:Frakt av giftige stoffer, stoffer med lavt flammepunkt eller syrer skal ikke være tillatt når det totale antallet personer om bord er høyere enn 60.Områder og rom i skipet der industrielt personell ikke har adgang, skal være tydelig merket når industrielt personell føres om bord.Anordninger for personelloverføring skal være plassert utenfor lasteområdet.Adgangen til anordninger for personelloverføring skal så langt det er mulig være plassert utenfor lasteområdet.Ombordstigning eller personelloverføring skal ikke skje samtidig med lasting eller lossing av last.
 
+8.4.2
+
 For å oppfylle funksjonskravene i nr. II/9.2 skal skip som samtidig med å føre industrielt personell, fører olje som last, slik som definert i MARPOL vedlegg I, i tillegg omfattes av kravene i nr. 8.4.1.
+
+8.4.3
 
 Med hensyn til dette kravet gjelder følgende:«Stoffer med lavt flammepunkt» betyrskadelige flytende stoffer med et flammepunkt på høyst 60° Colje med et flammepunkt på høyst 60° Cflytende gasser som krever deteksjon av brannfarlig damp i samsvar med IGC-koden kapittel 19.«Giftige stoffer» betyrfarlige kjemikalier som omfattes av det særskilte kravet 15.12 i IBC-kodenflytende gasser som krever deteksjon av giftig damp i samsvar med IGC-koden kapittel 19.«Syrer» betyr farlige kjemikalier som omfattes av det særskilte kravet 15.11 i IBC-koden gjelder for.
 
+8.4.4
+
 For å oppfylle funksjonskravene i nr. II/9.2 når flytende gasser fraktes i bulk, skal industrielt personell, med hensyn til kravene i IGC-koden, betraktes som personell i forbindelse med opplæring og personellbeskyttelse.
+
+6 Se «Code for the Transport and Handling of Hazardous and Noxious Liquid Substances in Bulk on Offshore Support Vessels» (OSV Chemical Code) (resolusjon A.1122(30)).
 
 ### DEL V
 TILLEGGSREGLER FOR FARTØY SOM ER SERTIFISERT I SAMSVAR MED SOLAS KAPITTEL X
 
 ### Regel 1 – Generelle bestemmelser
 
+1.1
+
 Hurtiggående lasteskip som er sertifisert i samsvar med SOLAS kapittel X, skal ikke føre mer enn 60 personer om bord.
+
+1.2
 
 Med mindre annet er uttrykkelig fastsatt i denne delen, skal hurtiggående fartøy som ikke fører mer enn 60 personer om bord, oppfylle HSC-kodens krav til lasteskip og gjeldende regler i denne delen.
 
+1.3
+
 Fartøy som overholder nr. 1.2 ovenfor i tillegg til gjeldende regler i denne delen, anses å oppfylle målene og funksjonskravene i nr. II/3 til II/9.
 
+1.4
+
 Føring av IP på hurtiggående fartøy anses ikke som transittreise («transit voyage»), slik det er definert i nr. 1.9.1.1 i HSC-koden, og det kreves en operasjonstillatelse.
+
+1.5
 
 Når termen «passasjer» er brukt i de gjeldende kravene i HSC-koden, skal det tolkes som «personer om bord som ikke er en del av besetningen».
 
@@ -472,6 +622,10 @@ For å oppfylle funksjonskravene i nr. II/8.2 gjelder følgende:Nr. 4.2.3 i HSC-
 
 ### Regel 8 – Farlig gods
 
+8.1
+
 Industrielt personell kan bare ta med farlig gods om bord for å utføre sin rolle utenfor fartøyet og med forhåndssamtykke fra føreren av fartøyet. Dette farlige godset skal anses som last og transporteres i samsvar med HSC-koden kapittel 7 del D.
+
+8.2
 
 For å oppfylle funksjonskravene i nr. II/9.2 gjelder følgende:Områder og rom i fartøyet der IP ikke har adgang, skal være tydelig merket når IP føres om bord.Anordninger for personelloverføring være plassert utenfor lasteområdet.Adgangen til anordninger for personelloverføring skal så langt det er praktisk mulig være plassert utenfor lasteområdet.Ombordstigning eller personelloverføring skal ikke skje samtidig med lasting eller lossing av last.

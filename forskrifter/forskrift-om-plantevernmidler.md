@@ -397,6 +397,14 @@ For å gjøre det lett å finne frem til ordlyden i de forordningene som blir gj
 
 Nedenfor gjengis til informasjon uoffisiell norsk oversettelse av forordning [(EF) nr. 1107/2009](eu/32009r1107). Dette er grunnrettsakten. Grunnrettsakten er endret ved forordning [(EU) nr. 518/2013](eu/32013r0518), forordning [(EU) 2017/625](eu/32017r0625), forordning [(EU) 2017/1432](eu/32017r1432), forordning [(EU) 2018/605](eu/32018r0605), forordning [(EU) 2019/1009](eu/32019r1009), forordning [(EU) 2019/1381](eu/32019r1381) og forordning [(EU) 2021/383](eu/32021r0383). Alle endringer av grunnrettsakten samt de endringer og tillegg som følger av EØS-tilpasningen av grunnrettsakten i samsvar med [EØS-avtalen vedlegg II kapittel XV](avtale/avt-1992-05-02-1-v2/kapXV) er innarbeidet i vedlegget nedenfor. I tillegg gjelder følgende generelle EØS-tilpasninger:
 
+«EFTA-landene står fritt til å begrense adgangen til sine markeder for plantevernmidler som inneholder aktive stoffer som har blitt godkjent i henhold til Rådsdirektiv [91/414/EØF](eu/31991l0414) eller overgangsbestemmelser i forordning [(EF) nr. 1107/2009](eu/32009r1107) artikkel 80.»
+
+«EFTA-landene, med unntak av Liechtenstein, kan være rapporterende og medrapporterende medlemsstater.»
+
+►**B** Europaparlaments- og rådsforordning [(EF) nr. 1107/2009](eu/32009r1107) av 21. oktober 2009
+
+som endret ved:
+
 - ►**M1** Rådsforordning [(EU) nr. 518/2013](eu/32013r0518) av 13. mai 2013
 - ►**M3** Europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) av 15. mars 2017
 - ►**M4** Kommisjonsforordning [(EU) 2017/1432](eu/32017r1432) av 7. august 2017
@@ -409,6 +417,20 @@ Nedenfor gjengis til informasjon uoffisiell norsk oversettelse av forordning [(E
 ### EUROPAPARLAMENTS- OG RÅDSFORORDNING [(EF) nr. 1107/2009](eu/32009r1107)
 av 21. oktober 2009
 om omsetning av plantevernmidler og om oppheving av rådsdirektiv [79/117/EØF](eu/31979l0117) og [91/414/EØF](eu/31991l0414*)
+
+EUROPAPARLAMENTET OG RÅDET FOR DEN EUROPEISKE UNION HAR –
+
+under henvisning til traktaten om opprettelse av Det europeiske fellesskap, særlig artikkel 37 nr. 2, artikkel 95 og artikkel 152 nr. 4 bokstav b),
+
+under henvisning til forslag fra Kommisjonen,
+
+under henvisning til uttalelse fra Den europeiske økonomiske og sosiale komité,1
+
+under henvisning til uttalelse fra Regionkomiteen,2
+
+etter framgangsmåten fastsatt i traktatens artikkel 2513 og
+
+ut fra følgende betraktninger:
 
 1. I rådsdirektiv [91/414/EØF](eu/31991l0414*) av 15. juli 1991 om markedsføring av plantefarmasøytiske produkter4 er det fastsatt regler for plantevernmidler og aktive stoffer som inngår i disse.
 2. Som følge av framdriftsrapporten som Kommisjonen la fram i henhold til direktiv [91/414/EØF](eu/31991l0414*), anmodet Europaparlamentet gjennom sin resolusjon av 30. mai 20025 og Rådet i sine konklusjoner av 12. desember 2001 Kommisjonen om å gjennomgå direktiv [91/414/EØF](eu/31991l0414*), og formulerte en rekke spørsmål som Kommisjonen burde behandle.
@@ -470,30 +492,64 @@ om omsetning av plantevernmidler og om oppheving av rådsdirektiv [79/117/EØF](
 58. Framgangsmåten med rådgivende komité bør anvendes ved vedtakelse av en del tekniske retningslinjer, ettersom disse ikke er bindende.
 59. Visse bestemmelser i direktiv [91/414/EØF](eu/31991l0414*) bør fortsatt gjelde i overgangsperioden –
 
+1 EUT C 175 av 27.7.2007, s. 44.
+
+2 EUT C 146 av 30.6.2007, s. 48.
+
+3 Europaparlamentsuttalelse av 23. oktober 2007 (EUT C 263 E av 16.10.2008, s. 181), Rådets felles holdning av 15. september 2008 (EUT C 266 E av 21.10.2008, s. 1) og Europaparlamentets holdning av 13. januar 2009 (ennå ikke offentliggjort i EUT). Rådsbeslutning av 24. september 2009.
+
+4 EFT L 230 av 19.8.1991, s. 1.
+
+5 EUT C 187 E av 7.8.2003, s. 173.
+
+6 EFT L 33 av 8.2.1979, s. 36.
+
+7 EFT L 31 av 1.2.2002, s. 1.
+
+8 EFT L 327 av 22.12.2000, s. 1.
+
+9 EUT L 309 av 24.11.2009, s. 71.
+
+10 EUT L 270 av 21.10.2003, s. 1.
+
+11 EFT L 358 av 18.12.1986, s. 1.
+
+12 EFT L 200 av 30.7.1999, s. 1.
+
+13 EUT L 165 av 30.4.2004, s. 1.
+
+14 EUT L 70 av 16.3.2005, s. 1.
+
+15 EFT L 184 av 17.7.1999, s. 23.
+
+VEDTATT DENNE FORORDNING:
+
 ### Kapittel I
 Alminnelige bestemmelser
 
 ### Artikkel 1. Innhold og formål
 
-1. Ved denne forordning fastsettes regler for godkjenning av plantevernmidler i den form de bringes i omsetning, og for omsetning, bruk og kontroll av disse i Fellesskapet.
+1\. Ved denne forordning fastsettes regler for godkjenning av plantevernmidler i den form de bringes i omsetning, og for omsetning, bruk og kontroll av disse i Fellesskapet.
 
-2. Ved denne forordning fastsettes både regler for godkjenning av aktive stoffer, beskyttende midler og synergister som plantevernmidler inneholder eller består av, og regler for hjelpestoffer og formuleringsstoffer.
+2\. Ved denne forordning fastsettes både regler for godkjenning av aktive stoffer, beskyttende midler og synergister som plantevernmidler inneholder eller består av, og regler for hjelpestoffer og formuleringsstoffer.
 
-3. Formålet med denne forordning er å sikre et høyt vernenivå for både menneskers og dyrs helse og miljøet og å forbedre det indre markeds virkemåte ved å harmonisere reglene for omsetning av plantevernmidler og samtidig forbedre landbruksproduksjonen.
+3\. Formålet med denne forordning er å sikre et høyt vernenivå for både menneskers og dyrs helse og miljøet og å forbedre det indre markeds virkemåte ved å harmonisere reglene for omsetning av plantevernmidler og samtidig forbedre landbruksproduksjonen.
 
-4. Bestemmelsene i denne forordning bygger på føre-var-prinsippet for å sikre at aktive stoffer eller produkter som bringes i omsetning, ikke har noen skadevirkninger på menneskers eller dyrs helse eller miljøet. Særlig skal medlemsstatene ikke hindres i å anvende føre-var-prinsippet dersom det foreligger vitenskapelig usikkerhet om risikoene for menneskers eller dyrs helse eller miljøet som er forbundet med plantevernmidler som skal godkjennes på deres territorium.
+4\. Bestemmelsene i denne forordning bygger på føre-var-prinsippet for å sikre at aktive stoffer eller produkter som bringes i omsetning, ikke har noen skadevirkninger på menneskers eller dyrs helse eller miljøet. Særlig skal medlemsstatene ikke hindres i å anvende føre-var-prinsippet dersom det foreligger vitenskapelig usikkerhet om risikoene for menneskers eller dyrs helse eller miljøet som er forbundet med plantevernmidler som skal godkjennes på deres territorium.
 
 ### Artikkel 2. Virkeområde
 
-1. Denne forordning får anvendelse på produkter, i den form de leveres til brukeren, som består av eller inneholder aktive stoffer, beskyttende midler eller synergister, og som er beregnet på ett av følgende bruksområder:å verne planter eller planteprodukter mot alle skadelige organismer eller hindre virkningen av slike organismer, med mindre hovedformålet med produktene anses å være av hygienisk karakter snarere enn å verne planter eller planteprodukter,**►M6** å påvirke planters livsprosesser, for eksempel ved å påvirke plantenes vekst, på annen måte enn som næringsstoff eller biostimulant, ◄**M6**å bevare planteprodukters holdbarhet, i den utstrekning slike stoffer eller produkter ikke omfattes av særlige fellesskapsbestemmelser om konserveringsmidler,å ødelegge uønskede planter eller plantedeler, bortsett fra alger, med mindre produktene brukes på jord eller i vann for å verne planter,å bremse eller forebygge uønsket vekst hos planter, bortsett fra alger, med mindre produktene brukes på jord eller i vann for å verne planter.Disse produktene kalles «plantevernmidler».
+1\. Denne forordning får anvendelse på produkter, i den form de leveres til brukeren, som består av eller inneholder aktive stoffer, beskyttende midler eller synergister, og som er beregnet på ett av følgende bruksområder:å verne planter eller planteprodukter mot alle skadelige organismer eller hindre virkningen av slike organismer, med mindre hovedformålet med produktene anses å være av hygienisk karakter snarere enn å verne planter eller planteprodukter,**►M6** å påvirke planters livsprosesser, for eksempel ved å påvirke plantenes vekst, på annen måte enn som næringsstoff eller biostimulant, ◄**M6**å bevare planteprodukters holdbarhet, i den utstrekning slike stoffer eller produkter ikke omfattes av særlige fellesskapsbestemmelser om konserveringsmidler,å ødelegge uønskede planter eller plantedeler, bortsett fra alger, med mindre produktene brukes på jord eller i vann for å verne planter,å bremse eller forebygge uønsket vekst hos planter, bortsett fra alger, med mindre produktene brukes på jord eller i vann for å verne planter.Disse produktene kalles «plantevernmidler».
 
-2. Denne forordning får anvendelse på stoffer, herunder mikroorganismer med generell eller spesifikk virkning mot skadelige organismer eller på planter, plantedeler eller planteprodukter, kalt «aktive stoffer».
+2\. Denne forordning får anvendelse på stoffer, herunder mikroorganismer med generell eller spesifikk virkning mot skadelige organismer eller på planter, plantedeler eller planteprodukter, kalt «aktive stoffer».
 
-3. Denne forordning får anvendelse påstoffer eller stoffblandinger som tilsettes et plantevernmiddel for å fjerne eller redusere fytotoksiske virkninger av plantevernmiddelet på visse planter, kalt «beskyttende midler»,stoffer eller stoffblandinger som til tross for at de ikke har, eller bare har svak virkning som nevnt i nr. 1, kan gi det eller de aktive stoffene i et plantevernmiddel økt virkning, kalt «synergister»,stoffer eller stoffblandinger som brukes eller skal brukes i et plantevernmiddel eller hjelpestoff, men som verken er aktive stoffer eller beskyttende midler eller synergister, kalt «formuleringsstoffer»,stoffer eller stoffblandinger som består av formuleringsstoffer eller stoffblandinger som inneholder et eller flere formuleringsstoffer, i den form de leveres til brukeren og bringes i omsetning for å blandes av brukeren med et plantevernmiddel, og som øker dets virkning eller andre pesticidegenskaper, kalt «hjelpestoffer».
+3\. Denne forordning får anvendelse påstoffer eller stoffblandinger som tilsettes et plantevernmiddel for å fjerne eller redusere fytotoksiske virkninger av plantevernmiddelet på visse planter, kalt «beskyttende midler»,stoffer eller stoffblandinger som til tross for at de ikke har, eller bare har svak virkning som nevnt i nr. 1, kan gi det eller de aktive stoffene i et plantevernmiddel økt virkning, kalt «synergister»,stoffer eller stoffblandinger som brukes eller skal brukes i et plantevernmiddel eller hjelpestoff, men som verken er aktive stoffer eller beskyttende midler eller synergister, kalt «formuleringsstoffer»,stoffer eller stoffblandinger som består av formuleringsstoffer eller stoffblandinger som inneholder et eller flere formuleringsstoffer, i den form de leveres til brukeren og bringes i omsetning for å blandes av brukeren med et plantevernmiddel, og som øker dets virkning eller andre pesticidegenskaper, kalt «hjelpestoffer».
 
 ### Artikkel 3. Definisjoner
 
 I denne forordning menes med:«restmengder» et eller flere stoffer som forekommer i eller på planter eller planteprodukter, spiselige animalske produkter, drikkevann eller i miljøet for øvrig, og som stammer fra bruken av et plantevernmiddel, herunder dets metabolitter og nedbrytings- eller reaksjonsprodukter,«stoffer» grunnstoffer og deres forbindelser slik de opptrer i naturlig form eller etter industriframstilling, herunder enhver urenhet som er en uunngåelig følge av produksjonsprosessen,«stoffblandinger» blandinger eller løsninger sammensatt av to eller flere stoffer beregnet på bruk som plantevernmiddel eller som hjelpestoff,«potensielt skadelig stoff» ethvert stoff som i seg selv kan ha en skadevirkning på mennesker, dyr eller miljøet, og som finnes eller dannes i et plantevernmiddel i en konsentrasjon som er tilstrekkelig til å utgjøre en risiko for slike virkninger.Slike stoffer omfatter, men er ikke begrenset til, stoffer som oppfyller kriteriene for å klassifiseres som farlige i samsvar med europaparlaments- og rådsforordning [(EF) nr. 1272/2008](eu/32008r1272*) av 16. desember 2008 om klassifisering, merking og emballering av stoffer og stoffblandinger,1 og som forekommer i plantevernmiddelet i en konsentrasjon som gjør at produktet betraktes som farlig i henhold til artikkel 3 i direktiv [1999/45/EF](eu/31999l0045*),«planter» levende planter og levende deler av planter, herunder frisk frukt, friske grønnsaker og frø,«planteprodukter» produkter av vegetabilsk opprinnelse som ikke er bearbeidet eller bare har gjennomgått enkel bearbeiding, som f.eks. maling, tørking eller pressing, unntatt planter,«skadelige organismer» alle arter, stammer eller biotyper fra dyreriket eller planteriket eller sykdomsframkallende stoffer som er skadelige for planter eller planteprodukter,«kjemikaliefrie metoder» alternative metoder til kjemiske pesticider for plantevern og bekjempelse av skadegjørere, basert på landbruksteknikker som dem som er nevnt i nr. 1 i vedlegg III til direktiv [2009/128/EF](eu/32009l0128*), eller fysiske, mekaniske eller biologiske metoder for bekjempelse av skadegjørere,«bringe i omsetning» besittelse med henblikk på salg i Fellesskapet, herunder utbud for salg eller enhver annen form for overdragelse med eller uten vederlag, samt selve salget, distribusjonen og de andre formene for overdragelse, men ikke tilbakelevering til foregående selger. Frigivelse for fri omsetning på Fellesskapets territorium er i henhold til denne forordning det samme som å bringe i omsetning,«godkjenning av et plantevernmiddel» et forvaltningsmessig tiltak der vedkommende myndighet i en medlemsstat godkjenner at et plantevernmiddel bringes i omsetning på dens territorium,«produsent» en person som på egen hånd produserer plantevernmidler, aktive stoffer, beskyttende midler, synergister, formuleringsstoffer eller hjelpestoffer, eller som setter ut produksjonen til en annen part, eller en person som av produsenten er utpekt som dennes enerepresentant med henblikk på overholdelse av denne forordning,«fullmakt» et originaldokument der eieren av opplysninger som er vernet i henhold til denne forordning, gir sitt samtykke til at slike opplysninger kan brukes av vedkommende myndighet på særlige vilkår i forbindelse med godkjenning av et plantevernmiddel eller et aktivt stoff, en synergist eller et beskyttende middel til fordel for en annen søker,«miljø» vann (herunder grunnvann, overflatevann, brakkvann, kystvann og sjøvann), sedimenter, jord, luft, grunn, ville dyre- og plantearter samt enhver innbyrdes sammenheng mellom dem og enhver forbindelse med andre levende organismer,«sårbare grupper» personer som det må tas særlig hensyn til ved vurdering av akutte og kroniske helsevirkninger av plantevernmidler. Disse omfatter blant annet gravide og ammende kvinner, ufødte barn, spedbarn og barn, eldre personer samt, ved høy langvarig eksponering for pesticider, arbeidstakere og beboere,«mikroorganismer» enhver cellulær eller ikke-cellulær mikrobiologisk enhet, herunder laverestående sopper og virus, som kan formere seg eller overføre genmateriale,«genmodifiserte organismer» organismer der genmaterialet er endret i henhold til artikkel 2 nr. 2 i europaparlaments- og rådsdirektiv [2001/18/EF](eu/32001l0018) av 12. mars 2001 om utsetting i miljøet av genmodifiserte organismer,2«sone» en gruppe medlemsstater som angitt i vedlegg I.For bruk i veksthus, som behandling etter innhøsting, for behandling av tomme lagerrom og for frøbeising menes alle soner angitt i vedlegg I,«god plantevernpraksis» en praksis der behandlinger med plantevernmidler på en gitt plante eller et gitt planteprodukt i samsvar med vilkårene for middelets godkjente bruk, velges ut, doseres og tilføres til hensiktsmessig tid for å sikre akseptabel virkning med minst mulig mengde, idet det tas behørig hensyn til lokale forhold og mulighetene for dyrkingsteknisk og biologisk kontroll,«god laboratoriepraksis» en praksis som definert i nr. 2.1 i vedlegg I til europaparlaments- og rådsdirektiv [2004/10/EF](eu/32004l0010) av 11. februar 2004 om tilnærming av lover og forskrifter om bruk av prinsippene for god laboratoriepraksis og kontroll av deres bruk ved forsøk med kjemiske stoffer,3«god forsøkspraksis» en praksis i samsvar med bestemmelsene i retningslinje 181 og 152 fra Plantevernorganisasjonen for Europa og Middelhavsområdet (EPPO),«vern av opplysninger» den midlertidige retten en eier av en forsøks- eller undersøkelsesrapport har til å hindre at rapporten brukes til fordel for en annen søker,«rapporterende medlemsstat» den medlemsstat som påtar seg ansvaret for å vurdere et aktivt stoff, et beskyttende middel eller en synergist,«forsøk og undersøkelser» undersøkelser eller eksperimenter som har som formål å fastsette et aktivt stoffs eller et plantevernmiddels egenskaper og atferd, forutsi eksponering for aktive stoffer og/eller deres relevante metabolitter, fastsette sikre eksponeringsnivåer og fastsette vilkårene for sikker bruk av plantevernmidler,«godkjenningsinnehaver» enhver fysisk eller juridisk person som innehar en godkjenning for et plantevernmiddel,«yrkesbruker» en yrkesbruker som definert i artikkel 3 nr. 1 i direktiv [2009/128/EF](eu/32009l0128*),«bruksområde av mindre betydning» bruk av et plantevernmiddel i en bestemt medlemsstat på planter eller planteprodukter somikke dyrkes i stort omfang i medlemsstaten, ellerdyrkes i stort omfang for å oppfylle et særlig plantevernbehov,«veksthus» et fast, lukket rom med ståhøyde til dyrking av vekster, som vanligvis har et gjennomsiktig ytre skall som gir mulighet for kontrollert utveksling av materialer og energi med omgivelsene og forhindrer utslipp av plantevernmidler til miljøet.I henhold til denne forordning anses også lukkede rom til planteproduksjon der det ytre ikke er gjennomsiktig (f.eks. for produksjon av sopp eller salatsikori), som veksthus,«behandling etter innhøsting» behandling av planter eller planteprodukter etter innhøsting på et isolert sted der avrenning ikke er mulig, f.eks. på et lager,«biologisk mangfold» variasjonsrikdom blant levende organismer fra alle kilder, herunder økosystemer på land og i havet og andre økosystemer i vann og de økologiske sammenhenger de er en del av, og denne variasjonsrikdommen kan omfatte mangfold innenfor arter, mellom arter og av økosystemer,«vedkommende myndighet» en eller flere myndigheter i en medlemsstat som har ansvar for å utføre oppgavene fastsatt i denne forordning,«reklame» et middel til å fremme salg eller bruk av plantevernmidler (rettet mot andre enn godkjenningsinnehaveren, vedkommende som bringer plantevernmiddelet i omsetning eller deres representanter) ved hjelp av trykte eller elektroniske medier,«metabolitt» enhver metabolitt eller ethvert nedbrytingsprodukt av et aktivt stoff, et beskyttende middel eller en synergist, som dannes enten i organismer eller i miljøet.En metabolitt anses som relevant dersom det er grunn til å anta at den har iboende egenskaper som kan sammenlignes med morstoffets når det gjelder dens biologiske innvirkning på målorgansimen, dersom den medfører en risiko som er større enn eller sammenlignbar med morstoffet, eller dersom den har toksikologiske egenskaper som anses som uakseptable. En slik metabolitt er relevant for den overordnede beslutningen om godkjenning eller for fastsettelsen av risikoreduserende tiltak,«urenhet» enhver annen bestanddel enn det rene aktive stoffet og/eller en variant av dette som forekommer i det tekniske materialet (herunder bestanddeler som stammer fra produksjonsprosessen eller fra nedbryting under lagring).►**M6** «biostimulant» et produkt som stimulerer planters næringsprosesser uavhengig av produktets næringsinnhold, og hvis ene formål å forbedre en eller flere av følgende egenskaper ved planten eller plantens rhizosfære:Næringsstoffutnyttelse.Toleranse overfor abiotisk stress.Kvalitetsegenskaper.Tilgjengeligheten av næringsstoffer i jorden eller rhizosfæren. ◄**M6**
+
+1 EUT L 353 av 31.12.2008, s. 1.2 EFT L 106 av 17.4.2001, s. 1.3 EUT L 50 av 20.2.2004, s. 44.
 
 ### [Kapittel](forskrift/2015-05-06-455/kapii) II
 Aktive stoffer, beskyttende midler, synergister og formuleringsstoffer
@@ -501,95 +557,173 @@ Aktive stoffer, beskyttende midler, synergister og formuleringsstoffer
 ### Avsnitt 1
 Aktive stoffer
 
-1. Et aktivt stoff skal godkjennes i samsvar med vedlegg II dersom det ut fra foreliggende vitenskapelig og teknisk kunnskap kan forventes at plantevernmidler som inneholder det aktive stoffet, idet det tas hensyn til godkjenningskriteriene i nr. 2 og 3 i nevnte vedlegg, oppfyller kravene i nr. 2 og 3.Ved vurdering av det aktive stoffet skal det først fastslås om godkjenningskriteriene i nr. 3.6.2–3.6.4 og 3.7 i vedlegg II er oppfylt. Dersom disse kriteriene er oppfylt, skal det videre vurderes om de øvrige godkjenningskriteriene i nr. 2 og 3 i vedlegg II er oppfylt.
+###### Underavsnitt 1
 
-2. Rester av plantevernmidler skal etter behandling i samsvar med god plantevernpraksis og under realistiske bruksforhold oppfylle følgende krav:de skal ikke ha skadelige virkninger på menneskers helse, herunder helsen til sårbare grupper, eller på dyrs helse, idet det tas hensyn til kjente kumulative virkninger og synergivirkninger dersom det foreligger vitenskapelige metoder som er godkjent av Myndigheten til vurdering av slike virkninger, eller på grunnvannet,de skal ikke ha uakseptable virkninger på miljøet.For restmengder som har toksikologisk eller økotoksikologisk betydning eller betydning for miljø eller drikkevann, skal det finnes allment anvendte målemetoder. Analysestandarder skal være allment tilgjengelige.
+Krav og vilkår for godkjenning
 
-3. Et plantevernmiddel skal etter behandling i samsvar med god plantevernpraksis og under realistiske bruksforhold oppfylle følgende krav:det skal være tilstrekkelig effektivt,det skal ikke ha noen umiddelbare eller forsinkede skadelige virkninger på menneskers helse, herunder helsen til sårbare grupper, eller dyrs helse, verken direkte eller gjennom drikkevann (idet det tas hensyn til stoffer som stammer fra vannbehandling), næringsmidler, fôr eller luft, eller konsekvenser på arbeidsplassen eller gjennom indirekte virkninger, idet det tas hensyn til kjente kumulative virkninger og synergivirkninger dersom det finnes vitenskapelige metoder som er godkjent av Myndigheten til vurdering av slike virkninger, eller på grunnvannet,det skal ikke ha noen uakseptable virkninger på planter eller planteprodukter,det skal ikke forårsake unødig lidelse eller smerte hos de virveldyr som skal bekjempes,det skal ikke ha noen uakseptable virkninger på miljøet, idet det særlig tas hensyn til følgende aspekter dersom det finnes vitenskapelige metoder som er godkjent av Myndigheten til vurdering av slike virkninger:dets skjebne og spredning i miljøet, særlig forurensning av overflatevann, herunder estuarvann og kystvann, grunnvann, luft og jord, også på steder langt fra bruksstedet som følge av spredning i miljøet over lange avstander,dets virkning på arter utenfor målgruppen, herunder på disse arters atferd på sikt,dets virkning på det biologiske mangfoldet og økosystemet.
+###### Artikkel 4
 
-4. Kravene i nr. 2 og 3 skal vurderes på bakgrunn av de ensartede prinsippene nevnt i artikkel 29 nr. 6.
+Kriterier for godkjenning av aktive stoffer
 
-5. Når det gjelder godkjenning av et aktivt stoff, skal nr. 1, 2 og 3 anses å være oppfylt dersom det er fastslått at ett eller flere representative bruksområder for minst ett plantevernmiddel som inneholder nevnte aktive stoff, oppfyller disse kravene.
+1\. Et aktivt stoff skal godkjennes i samsvar med vedlegg II dersom det ut fra foreliggende vitenskapelig og teknisk kunnskap kan forventes at plantevernmidler som inneholder det aktive stoffet, idet det tas hensyn til godkjenningskriteriene i nr. 2 og 3 i nevnte vedlegg, oppfyller kravene i nr. 2 og 3.Ved vurdering av det aktive stoffet skal det først fastslås om godkjenningskriteriene i nr. 3.6.2–3.6.4 og 3.7 i vedlegg II er oppfylt. Dersom disse kriteriene er oppfylt, skal det videre vurderes om de øvrige godkjenningskriteriene i nr. 2 og 3 i vedlegg II er oppfylt.
 
-6. Når det gjelder menneskers helse, skal innsamlede opplysninger som gjelder mennesker, ikke benyttes til å senke sikkerhetsmarginene fastsatt på grunnlag av forsøk på eller undersøkelser av dyr.
+2\. Rester av plantevernmidler skal etter behandling i samsvar med god plantevernpraksis og under realistiske bruksforhold oppfylle følgende krav:de skal ikke ha skadelige virkninger på menneskers helse, herunder helsen til sårbare grupper, eller på dyrs helse, idet det tas hensyn til kjente kumulative virkninger og synergivirkninger dersom det foreligger vitenskapelige metoder som er godkjent av Myndigheten til vurdering av slike virkninger, eller på grunnvannet,de skal ikke ha uakseptable virkninger på miljøet.For restmengder som har toksikologisk eller økotoksikologisk betydning eller betydning for miljø eller drikkevann, skal det finnes allment anvendte målemetoder. Analysestandarder skal være allment tilgjengelige.
 
-7. Som unntak fra nr. 1 kan et aktivt stoff godkjennes for et begrenset tidsrom som er nødvendig for å bekjempe en alvorlig fare for plantehelsen, men ikke lengre enn fem år, selv om det ikke oppfyller kriteriene i nr. 3.6.3, 3.6.4, 3.6.5 eller 3.8.2 i vedlegg II, dersom det i søknaden finnes dokumentasjon på at et slikt aktivt stoff er nødvendig for å bekjempe en alvorlig fare for plantehelsen som ikke kan avverges på annen måte, herunder med kjemikaliefrie metoder, forutsatt at bruken av det aktive stoffet gjøres til gjenstand for risikoreduserende tiltak for å sikre at mennesker og miljø eksponeres minst mulig. For slike stoffer skal grenseverdiene for restmengder fastsettes i samsvar med forordning [(EF) nr. 396/2005](eu/32005r0396).Dette unntaket får ikke anvendelse på aktive stoffer som i samsvar med forordning [(EF) nr. 1272/2008](eu/32008r1272*) er klassifisert eller må klassifiseres som kreftframkallende stoff i kategori 1A, kreftframkallende stoff i kategori 1B uten terskelverdi eller reproduksjonstoksisk stoff i kategori 1A.Medlemsstatene kan godkjenne plantevernmidler som inneholder aktive stoffer som er godkjent i samsvar med dette nummer, bare dersom det er nødvendig for å bekjempe nevnte alvorlige fare for plantehelsen på deres territorium.Samtidig skal de utarbeide en utfasingsplan for hvordan den alvorlige faren kan bekjempes på annen måte, herunder med kjemikaliefrie metoder, og umiddelbart oversende denne planen til Kommisjonen.
+3\. Et plantevernmiddel skal etter behandling i samsvar med god plantevernpraksis og under realistiske bruksforhold oppfylle følgende krav:det skal være tilstrekkelig effektivt,det skal ikke ha noen umiddelbare eller forsinkede skadelige virkninger på menneskers helse, herunder helsen til sårbare grupper, eller dyrs helse, verken direkte eller gjennom drikkevann (idet det tas hensyn til stoffer som stammer fra vannbehandling), næringsmidler, fôr eller luft, eller konsekvenser på arbeidsplassen eller gjennom indirekte virkninger, idet det tas hensyn til kjente kumulative virkninger og synergivirkninger dersom det finnes vitenskapelige metoder som er godkjent av Myndigheten til vurdering av slike virkninger, eller på grunnvannet,det skal ikke ha noen uakseptable virkninger på planter eller planteprodukter,det skal ikke forårsake unødig lidelse eller smerte hos de virveldyr som skal bekjempes,det skal ikke ha noen uakseptable virkninger på miljøet, idet det særlig tas hensyn til følgende aspekter dersom det finnes vitenskapelige metoder som er godkjent av Myndigheten til vurdering av slike virkninger:dets skjebne og spredning i miljøet, særlig forurensning av overflatevann, herunder estuarvann og kystvann, grunnvann, luft og jord, også på steder langt fra bruksstedet som følge av spredning i miljøet over lange avstander,dets virkning på arter utenfor målgruppen, herunder på disse arters atferd på sikt,dets virkning på det biologiske mangfoldet og økosystemet.
+
+4\. Kravene i nr. 2 og 3 skal vurderes på bakgrunn av de ensartede prinsippene nevnt i artikkel 29 nr. 6.
+
+5\. Når det gjelder godkjenning av et aktivt stoff, skal nr. 1, 2 og 3 anses å være oppfylt dersom det er fastslått at ett eller flere representative bruksområder for minst ett plantevernmiddel som inneholder nevnte aktive stoff, oppfyller disse kravene.
+
+6\. Når det gjelder menneskers helse, skal innsamlede opplysninger som gjelder mennesker, ikke benyttes til å senke sikkerhetsmarginene fastsatt på grunnlag av forsøk på eller undersøkelser av dyr.
+
+7\. Som unntak fra nr. 1 kan et aktivt stoff godkjennes for et begrenset tidsrom som er nødvendig for å bekjempe en alvorlig fare for plantehelsen, men ikke lengre enn fem år, selv om det ikke oppfyller kriteriene i nr. 3.6.3, 3.6.4, 3.6.5 eller 3.8.2 i vedlegg II, dersom det i søknaden finnes dokumentasjon på at et slikt aktivt stoff er nødvendig for å bekjempe en alvorlig fare for plantehelsen som ikke kan avverges på annen måte, herunder med kjemikaliefrie metoder, forutsatt at bruken av det aktive stoffet gjøres til gjenstand for risikoreduserende tiltak for å sikre at mennesker og miljø eksponeres minst mulig. For slike stoffer skal grenseverdiene for restmengder fastsettes i samsvar med forordning [(EF) nr. 396/2005](eu/32005r0396).Dette unntaket får ikke anvendelse på aktive stoffer som i samsvar med forordning [(EF) nr. 1272/2008](eu/32008r1272*) er klassifisert eller må klassifiseres som kreftframkallende stoff i kategori 1A, kreftframkallende stoff i kategori 1B uten terskelverdi eller reproduksjonstoksisk stoff i kategori 1A.Medlemsstatene kan godkjenne plantevernmidler som inneholder aktive stoffer som er godkjent i samsvar med dette nummer, bare dersom det er nødvendig for å bekjempe nevnte alvorlige fare for plantehelsen på deres territorium.Samtidig skal de utarbeide en utfasingsplan for hvordan den alvorlige faren kan bekjempes på annen måte, herunder med kjemikaliefrie metoder, og umiddelbart oversende denne planen til Kommisjonen.
+
+###### Artikkel 5
+
+Første godkjenning
 
 Den første godkjenningen skal gjelde for et tidsrom på høyst ti år.
 
+###### Artikkel 6
+
+Vilkår og begrensninger
+
 Godkjenning kan underlegges vilkår og begrensninger, herunder med hensyn tilminste renhetsgrad for det aktive stoffet,art og høyeste tillatte innhold av visse urenheter,begrensninger fastsatt på grunnlag av vurderingen av opplysningene nevnt i artikkel 8, idet det tas hensyn til aktuelle landbruks-, plantehelse- og miljøforhold, herunder klimaforhold,typen stoffblanding,bruksmåte og bruksvilkår,framlegging av ytterligere bekreftende opplysninger for medlemsstatene, Kommisjonen og Den europeiske myndighet for næringsmiddeltrygghet («Myndigheten») dersom nye krav fastsettes under vurderingsprosessen eller som følge av ny vitenskapelig og teknisk kunnskap,angivelse av brukerkategorier, f.eks. yrkesbrukere og ikke-yrkesbrukere,angivelse av områder der bruk av plantevernmidler, herunder produkter til behandling av jord, som inneholder det aktive stoffet, ikke kan godkjennes, eller der bruken kan godkjennes på særlige vilkår,behovet for å pålegge risikoreduserende tiltak og overvåking etter bruk,andre særlige vilkår på grunnlag av vurderingen av opplysninger som gjøres tilgjengelige innenfor rammen av denne forordning.
 
-1. En søknad om godkjenning av et aktivt stoff eller om endring av vilkårene for en godkjenning skal inngis av produsenten av det aktive stoffet til en medlemsstat (rapporterende medlemsstat) sammen med et sammendrag og fullstendig dokumentasjon i samsvar med artikkel 8 nr. 1 og 2 i denne forordningen eller en vitenskapelig begrunnelse for hvorfor visse deler av dokumentasjonen mangler, som viser at det aktive stoffet oppfyller godkjenningskriteriene i artikkel 4 i denne forordningen. Søknaden skal inngis i samsvar med standardiserte dataformater, dersom slike finnes, i henhold til artikkel 39f i forordning (EF) nr. 178/2002, som gjelder tilsvarende med nødvendige endringer.◄**M7**En felles søknad kan inngis av en sammenslutning av produsenter utpekt av produsentene med henblikk på å oppfylle bestemmelsene i denne forordning.Søknaden skal behandles av medlemsstaten som søkeren foreslår, med mindre en annen medlemsstat samtykker i å behandle den.
+###### Underavsnitt 2
 
-2. En søknad kan behandles av flere medlemsstater i fellesskap innenfor en ordning med medrapporterende medlemsstater.
+Framgangsmåte for godkjenning
 
-3. Ved inngivelse av søknaden kan søkeren framsette en anmodning i henhold til artikkel 63 om at visse opplysninger, herunder visse deler av dokumentasjonen, behandles som fortrolige, og skal fysisk skille disse opplysningene fra de øvrige opplysningene.Medlemsstatene skal vurdere anmodningene om fortrolighet. Etter samråd med myndigheten skal de rapporterende medlemsstatene beslutte hvilke opplysninger som skal behandles som fortrolige, i samsvar med artikkel 63.Myndigheten skal etter samråd med medlemsstatene fastsette praktiske ordninger for å sikre samsvar mellom disse vurderingene.◄**M7**Medlemsstatene skal vurdere anmodningene om fortrolig behandling. Ved en anmodning om tilgang til opplysninger skal rapporterende medlemsstat avgjøre hvilke opplysninger som skal behandles fortrolig.
+###### Artikkel 7
 
-4. Ved inngivelse av søknaden skal søkeren vedlegge en fullstendig liste over forsøk og undersøkelser som er framlagt i henhold til artikkel 8 nr. 2, og en liste over eventuelle anmodninger om vern av opplysninger i samsvar med artikkel 59.
+Søknad
 
-5. Ved behandling av søknaden kan rapporterende medlemsstat når som helst rådføre seg med Myndigheten.
+►**M7**
 
-1. Sammendraget av dokumentasjonen skal omfatte følgende:opplysninger om ett eller flere representative bruksområder for en vekst som dyrkes i stort omfang i hver sone, for minst ett plantevernmiddel som inneholder det aktive stoffet, der det skal framgå at godkjenningskriteriene i artikkel 4 er oppfylt, og dersom de framlagte opplysningene ikke dekker alle soner, eller dersom de gjelder en vekst som ikke dyrkes i stort omfang, skal dette begrunnes,sammendrag og resultater av forsøk og undersøkelser for hvert punkt i opplysningskravene for det aktive stoffet samt navnet på eieren og på personen eller instituttet som har utført forsøkene og undersøkelsene,sammendrag og resultater av forsøk og undersøkelser for hvert punkt i opplysningskravene for plantevernmiddelet samt navnet på eieren og på personen eller instituttet som har utført forsøkene og undersøkelsene som er relevante for vurderingen av kriteriene i artikkel 4 nr. 2 og 3, for ett eller flere plantevernmidler som er representative for bruksområdene nevnt i bokstav a), idet det tas hensyn til at manglende opplysninger i dokumentasjonen nevnt i nr. 2 i denne artikkel, på grunn av det foreslåtte begrensede antall representative bruksområder for det aktive stoffet kan føre til begrensninger i godkjenningen,for hvert forsøk eller hver undersøkelse som omfatter virveldyr, en begrunnelse for de tiltak som er truffet for å unngå dyreforsøk og gjentakelser av forsøk og undersøkelser med virveldyr,en sjekkliste som viser at dokumentasjonen nevnt i nr. 2 i denne artikkel, er fullstendig med tanke på de bruksområder det søkes om,en begrunnelse for hvorfor de framlagte forsøks- og undersøkelsesrapportene er nødvendige for den første godkjenningen av det aktive stoffet eller for endringer av godkjenningsvilkårene,der det er relevant, en kopi av søknaden om en grenseverdi for restmengder som nevnt i artikkel 7 i forordning [(EF) nr. 396/2005](eu/32005r0396), eller en begrunnelse for ikke å legge fram slike opplysninger,en vurdering av alle framlagte opplysninger.
+1\. En søknad om godkjenning av et aktivt stoff eller om endring av vilkårene for en godkjenning skal inngis av produsenten av det aktive stoffet til en medlemsstat (rapporterende medlemsstat) sammen med et sammendrag og fullstendig dokumentasjon i samsvar med artikkel 8 nr. 1 og 2 i denne forordningen eller en vitenskapelig begrunnelse for hvorfor visse deler av dokumentasjonen mangler, som viser at det aktive stoffet oppfyller godkjenningskriteriene i artikkel 4 i denne forordningen. Søknaden skal inngis i samsvar med standardiserte dataformater, dersom slike finnes, i henhold til artikkel 39f i forordning (EF) nr. 178/2002, som gjelder tilsvarende med nødvendige endringer.◄**M7**En felles søknad kan inngis av en sammenslutning av produsenter utpekt av produsentene med henblikk på å oppfylle bestemmelsene i denne forordning.Søknaden skal behandles av medlemsstaten som søkeren foreslår, med mindre en annen medlemsstat samtykker i å behandle den.
 
-2. Den fullstendige dokumentasjonen skal inneholde hele teksten i alle forsøks- og undersøkelsesrapporter med hensyn til alle opplysninger nevnt i nr. 1 bokstav b) og c). Dokumentasjonen skal ikke inneholde noen rapporter om forsøk eller undersøkelser der det aktive stoffet eller plantevernmiddelet med forsett er gitt til mennesker.
+2\. En søknad kan behandles av flere medlemsstater i fellesskap innenfor en ordning med medrapporterende medlemsstater.
 
-3. Formatet for sammendraget av dokumentasjonen og den fullstendige dokumentasjonen skal fastsettes etter framgangsmåten med rådgivende komité nevnt i artikkel 79 nr. 2.
+►**M7**
 
-4. Opplysningskravene nevnt i nr. 1 og 2 skal omfatte kravene til aktive stoffer og plantevernmidler som fastsatt i vedlegg II og III til direktiv [91/414/EØF](eu/31991l0414*), og som fastsatt i forordninger vedtatt etter framgangsmåten med rådgivende komité nevnt i artikkel 79 nr. 2, uten noen vesentlige endringer. Senere endringer av nevnte forordninger skal vedtas i samsvar med artikkel 78 nr. 1 bokstav b).
+3\. Ved inngivelse av søknaden kan søkeren framsette en anmodning i henhold til artikkel 63 om at visse opplysninger, herunder visse deler av dokumentasjonen, behandles som fortrolige, og skal fysisk skille disse opplysningene fra de øvrige opplysningene.Medlemsstatene skal vurdere anmodningene om fortrolighet. Etter samråd med myndigheten skal de rapporterende medlemsstatene beslutte hvilke opplysninger som skal behandles som fortrolige, i samsvar med artikkel 63.Myndigheten skal etter samråd med medlemsstatene fastsette praktiske ordninger for å sikre samsvar mellom disse vurderingene.◄**M7**Medlemsstatene skal vurdere anmodningene om fortrolig behandling. Ved en anmodning om tilgang til opplysninger skal rapporterende medlemsstat avgjøre hvilke opplysninger som skal behandles fortrolig.
 
-5. Til dokumentasjonen skal søkeren vedlegge vitenskapelig, fagfellevurdert og allment tilgjengelig litteratur, som angitt av Myndigheten, om det aktive stoffet og dets relevante metabolitters bivirkninger for helsen, miljøet og arter utenfor målgruppen, som har vært offentliggjort de siste ti årene før datoen for framlegging av dokumentasjonen.
+4\. Ved inngivelse av søknaden skal søkeren vedlegge en fullstendig liste over forsøk og undersøkelser som er framlagt i henhold til artikkel 8 nr. 2, og en liste over eventuelle anmodninger om vern av opplysninger i samsvar med artikkel 59.
 
-1. Innen 45 dager etter å ha mottatt søknaden skal rapporterende medlemsstat sende søkeren en skriftlig bekreftelse med opplysninger om dato for mottak og ved hjelp av sjekklisten nevnt i artikkel 8 nr. 1 bokstav e) kontrollere at dokumentasjonen som er vedlagt søknaden, inneholder alle elementene fastsatt i artikkel 8. Den skal også kontrollere anmodningene om fortrolig behandling som nevnt i artikkel 7 nr. 3 og de fullstendige listene over prøver og undersøkelser som er framlagt i henhold til artikkel 8 nr. 2.
+5\. Ved behandling av søknaden kan rapporterende medlemsstat når som helst rådføre seg med Myndigheten.
 
-2. Dersom ett eller flere av elementene fastsatt i artikkel 8 mangler, skal rapporterende medlemsstat underrette søkeren om dette og fastsette en frist for når disse skal sendes inn. Fristen skal ikke overstige tre måneder.Dersom søkeren ved utløpet av denne fristen ikke har lagt fram elementene som mangler, skal rapporterende medlemsstat underrette søkeren, de øvrige medlemsstatene og Kommisjonen om at søknaden ikke kan godtas.Det kan til enhver tid inngis en ny søknad for det samme stoffet.
+###### Artikkel 8
 
-3. Dersom dokumentasjonen som er lagt fram sammen med søknaden, inneholder alle elementene fastsatt i artikkel 8, skal rapporterende medlemsstat underrette søkeren, de øvrige medlemsstatene, Kommisjonen og Myndigheten om at søknaden kan godtas, og påbegynne vurderingen av det aktive stoffet.Etter mottak av slik underretning skal søkeren umiddelbart oversende dokumentasjonen angitt i artikkel 8 til de øvrige medlemsstatene, Kommisjonen og Myndigheten med opplysninger om hvilke deler av dokumentasjonen det er anmodet om fortrolig behandling av, som nevnt i artikkel 7 nr. 3.
+Dokumentasjon
+
+1\. Sammendraget av dokumentasjonen skal omfatte følgende:opplysninger om ett eller flere representative bruksområder for en vekst som dyrkes i stort omfang i hver sone, for minst ett plantevernmiddel som inneholder det aktive stoffet, der det skal framgå at godkjenningskriteriene i artikkel 4 er oppfylt, og dersom de framlagte opplysningene ikke dekker alle soner, eller dersom de gjelder en vekst som ikke dyrkes i stort omfang, skal dette begrunnes,sammendrag og resultater av forsøk og undersøkelser for hvert punkt i opplysningskravene for det aktive stoffet samt navnet på eieren og på personen eller instituttet som har utført forsøkene og undersøkelsene,sammendrag og resultater av forsøk og undersøkelser for hvert punkt i opplysningskravene for plantevernmiddelet samt navnet på eieren og på personen eller instituttet som har utført forsøkene og undersøkelsene som er relevante for vurderingen av kriteriene i artikkel 4 nr. 2 og 3, for ett eller flere plantevernmidler som er representative for bruksområdene nevnt i bokstav a), idet det tas hensyn til at manglende opplysninger i dokumentasjonen nevnt i nr. 2 i denne artikkel, på grunn av det foreslåtte begrensede antall representative bruksområder for det aktive stoffet kan føre til begrensninger i godkjenningen,for hvert forsøk eller hver undersøkelse som omfatter virveldyr, en begrunnelse for de tiltak som er truffet for å unngå dyreforsøk og gjentakelser av forsøk og undersøkelser med virveldyr,en sjekkliste som viser at dokumentasjonen nevnt i nr. 2 i denne artikkel, er fullstendig med tanke på de bruksområder det søkes om,en begrunnelse for hvorfor de framlagte forsøks- og undersøkelsesrapportene er nødvendige for den første godkjenningen av det aktive stoffet eller for endringer av godkjenningsvilkårene,der det er relevant, en kopi av søknaden om en grenseverdi for restmengder som nevnt i artikkel 7 i forordning [(EF) nr. 396/2005](eu/32005r0396), eller en begrunnelse for ikke å legge fram slike opplysninger,en vurdering av alle framlagte opplysninger.
+
+2\. Den fullstendige dokumentasjonen skal inneholde hele teksten i alle forsøks- og undersøkelsesrapporter med hensyn til alle opplysninger nevnt i nr. 1 bokstav b) og c). Dokumentasjonen skal ikke inneholde noen rapporter om forsøk eller undersøkelser der det aktive stoffet eller plantevernmiddelet med forsett er gitt til mennesker.
+
+3\. Formatet for sammendraget av dokumentasjonen og den fullstendige dokumentasjonen skal fastsettes etter framgangsmåten med rådgivende komité nevnt i artikkel 79 nr. 2.
+
+4\. Opplysningskravene nevnt i nr. 1 og 2 skal omfatte kravene til aktive stoffer og plantevernmidler som fastsatt i vedlegg II og III til direktiv [91/414/EØF](eu/31991l0414*), og som fastsatt i forordninger vedtatt etter framgangsmåten med rådgivende komité nevnt i artikkel 79 nr. 2, uten noen vesentlige endringer. Senere endringer av nevnte forordninger skal vedtas i samsvar med artikkel 78 nr. 1 bokstav b).
+
+5\. Til dokumentasjonen skal søkeren vedlegge vitenskapelig, fagfellevurdert og allment tilgjengelig litteratur, som angitt av Myndigheten, om det aktive stoffet og dets relevante metabolitters bivirkninger for helsen, miljøet og arter utenfor målgruppen, som har vært offentliggjort de siste ti årene før datoen for framlegging av dokumentasjonen.
+
+###### Artikkel 9
+
+Søknadens godtakbarhet
+
+1\. Innen 45 dager etter å ha mottatt søknaden skal rapporterende medlemsstat sende søkeren en skriftlig bekreftelse med opplysninger om dato for mottak og ved hjelp av sjekklisten nevnt i artikkel 8 nr. 1 bokstav e) kontrollere at dokumentasjonen som er vedlagt søknaden, inneholder alle elementene fastsatt i artikkel 8. Den skal også kontrollere anmodningene om fortrolig behandling som nevnt i artikkel 7 nr. 3 og de fullstendige listene over prøver og undersøkelser som er framlagt i henhold til artikkel 8 nr. 2.
+
+2\. Dersom ett eller flere av elementene fastsatt i artikkel 8 mangler, skal rapporterende medlemsstat underrette søkeren om dette og fastsette en frist for når disse skal sendes inn. Fristen skal ikke overstige tre måneder.Dersom søkeren ved utløpet av denne fristen ikke har lagt fram elementene som mangler, skal rapporterende medlemsstat underrette søkeren, de øvrige medlemsstatene og Kommisjonen om at søknaden ikke kan godtas.Det kan til enhver tid inngis en ny søknad for det samme stoffet.
+
+3\. Dersom dokumentasjonen som er lagt fram sammen med søknaden, inneholder alle elementene fastsatt i artikkel 8, skal rapporterende medlemsstat underrette søkeren, de øvrige medlemsstatene, Kommisjonen og Myndigheten om at søknaden kan godtas, og påbegynne vurderingen av det aktive stoffet.Etter mottak av slik underretning skal søkeren umiddelbart oversende dokumentasjonen angitt i artikkel 8 til de øvrige medlemsstatene, Kommisjonen og Myndigheten med opplysninger om hvilke deler av dokumentasjonen det er anmodet om fortrolig behandling av, som nevnt i artikkel 7 nr. 3.
+
+►**M7**
+
+###### Artikkel 10
+
+Offentlig tilgang til dokumentasjonen
 
 Myndigheten skal umiddelbart gi offentligheten tilgang til dokumentasjonen nevnt i artikkel 8, herunder eventuelle tilleggsopplysninger fra søkeren, med unntak av opplysninger som den rapporterende medlemsstaten har gitt fortrolig behandling i henhold til artikkel 63.◄**M7**
 
-1. Senest tolv måneder etter underretningen fastsatt i artikkel 9 nr. 3 første ledd skal rapporterende medlemsstat utarbeide og legge fram for Kommisjonen, med kopi til Myndigheten, en rapport («utkast til vurderingsrapport») som inneholder medlemsstatens vurdering av hvorvidt det aktive stoffet kan forventes å oppfylle godkjenningskriteriene i artikkel 4.
+###### Artikkel 11
 
-2. Utkastet til vurderingsrapport skal også, der det er relevant, inneholde et forslag om fastsettelse av grenseverdier for restmengder.Rapporterende medlemsstat skal på grunnlag av den foreliggende vitenskapelige og tekniske kunnskap foreta en uavhengig, objektiv og åpen vurdering.Dersom det ved vurderingen i henhold til artikkel 4 nr. 1 fastslås at godkjenningskriteriene i nr. 3.6.2–3.6.4 og nr. 3.7 i vedlegg II ikke er oppfylt, skal utkastet til vurderingsrapport begrenses til å omfatte bare disse deler av vurderingen.
+Utkast til vurderingsrapport
 
-3. Dersom rapporterende medlemsstat har bruk for ytterligere undersøkelser eller opplysninger, skal den fastsette en frist for når søkeren skal legge fram disse. I så tilfelle skal tolvmånedersfristen forlenges med tilleggsperioden som innvilges av rapporterende medlemsstat. Tilleggsperioden skal være på høyst seks måneder og skal opphøre når rapporterende medlemsstat mottar tilleggsopplysningene. Den skal underrette Kommisjonen og Myndigheten om dette.Dersom søkeren ved utløpet av tilleggsperioden ikke har lagt fram tilleggsundersøkelsene eller -opplysningene, skal rapporterende medlemsstat underrette søkeren, Kommisjonen og Myndigheten om dette og angi de manglende elementene i vurderingen som inngår i utkastet til vurderingsrapport.
+1\. Senest tolv måneder etter underretningen fastsatt i artikkel 9 nr. 3 første ledd skal rapporterende medlemsstat utarbeide og legge fram for Kommisjonen, med kopi til Myndigheten, en rapport («utkast til vurderingsrapport») som inneholder medlemsstatens vurdering av hvorvidt det aktive stoffet kan forventes å oppfylle godkjenningskriteriene i artikkel 4.
 
-4. Utkastets utforming skal fastsettes etter framgangsmåten med rådgivende komité nevnt i artikkel 79 nr. 2.
+2\. Utkastet til vurderingsrapport skal også, der det er relevant, inneholde et forslag om fastsettelse av grenseverdier for restmengder.Rapporterende medlemsstat skal på grunnlag av den foreliggende vitenskapelige og tekniske kunnskap foreta en uavhengig, objektiv og åpen vurdering.Dersom det ved vurderingen i henhold til artikkel 4 nr. 1 fastslås at godkjenningskriteriene i nr. 3.6.2–3.6.4 og nr. 3.7 i vedlegg II ikke er oppfylt, skal utkastet til vurderingsrapport begrenses til å omfatte bare disse deler av vurderingen.
 
-1. Myndigheten skal senest 30 dager etter mottak av utkastet til vurderingsrapport fra den rapporterende medlemsstaten sende dette til søkeren og de øvrige medlemsstatene. Den skal anmode søkeren om å sende en ajourføring av dokumentasjonen til medlemsstatene, Kommisjonen og Myndigheten dersom det er relevant.Myndigheten skal gjøre utkastet til vurderingsrapport tilgjengelig for offentligheten etter å ha gitt søkeren en frist på to uker til å anmode, i henhold til artikkel 63, om fortrolig behandling av visse deler av utkastet til vurderingsrapport.Myndigheten skal gi en frist på 60 dager til framlegging av skriftlige merknader.
+3\. Dersom rapporterende medlemsstat har bruk for ytterligere undersøkelser eller opplysninger, skal den fastsette en frist for når søkeren skal legge fram disse. I så tilfelle skal tolvmånedersfristen forlenges med tilleggsperioden som innvilges av rapporterende medlemsstat. Tilleggsperioden skal være på høyst seks måneder og skal opphøre når rapporterende medlemsstat mottar tilleggsopplysningene. Den skal underrette Kommisjonen og Myndigheten om dette.Dersom søkeren ved utløpet av tilleggsperioden ikke har lagt fram tilleggsundersøkelsene eller -opplysningene, skal rapporterende medlemsstat underrette søkeren, Kommisjonen og Myndigheten om dette og angi de manglende elementene i vurderingen som inngår i utkastet til vurderingsrapport.
 
-2. Dersom det er hensiktsmessig, skal Myndigheten gjennomføre et samråd med sakkyndige, herunder sakkyndige fra rapporterende medlemsstat.Innen 120 dager etter utløpet av fristen for framlegging av skriftlige merknader skal Myndigheten vedta en konklusjon på grunnlag av de veiledningsdokumenter som er tilgjengelige på søknadstidspunktet og i lys av den foreliggende vitenskapelige og tekniske kunnskap, om hvorvidt det aktive stoffet kan forventes å oppfylle godkjenningskriteriene i artikkel 4, og skal oversende konklusjonen til søkeren, medlemsstatene og Kommisjonen og gjøre den offentlig tilgjengelig. I tilfelle av samråd som angitt i dette nummer, skal fristen på 120 dager forlenges med 30 dager.Dersom det er hensiktsmessig, skal Myndigheten i sin konklusjon behandle de ulike risikoreduserende tiltak som er angitt i utkastet til vurderingsrapport.
+4\. Utkastets utforming skal fastsettes etter framgangsmåten med rådgivende komité nevnt i artikkel 79 nr. 2.
 
-3. Dersom Myndigheten trenger tilleggsopplysninger, skal den gi søkeren en frist på høyst 90 dager til å legge disse fram for medlemsstatene, Kommisjonen og Myndigheten.Rapporterende medlemsstat skal vurdere tilleggsopplysningene og legge disse fram for Myndigheten omgående og senest 60 dager etter mottak. I dette tilfelle skal fristen på 120 dager i nr. 2 forlenges med en frist som opphører når Myndigheten mottar den nye vurderingen.Myndigheten kan anmode Kommisjonen om å rådføre seg med et av Fellesskapets referanselaboratorier utpekt i henhold til forordning [(EF) nr. 882/2004](eu/32004r0882*) med henblikk på å kontrollere om den analysemetode som søkeren foreslår anvendt til fastsettelse av restmengder, er tilfredsstillende og oppfyller kravene i artikkel 29 nr. 1 bokstav g) i denne forordning. Søkeren skal på anmodning fra Fellesskapets referanselaboratorium legge fram prøver og analysestandarder.
+###### Artikkel 12
 
-4. Myndighetens konklusjon skal inneholde en nærmere beskrivelse av framgangsmåten for vurdering og egenskapene hos det berørte aktive stoffet.
+Myndighetens konklusjon
 
-5. Myndigheten skal fastsette formatet for sin konklusjon, som skal inneholde en nærmere beskrivelse av framgangsmåten for vurdering og egenskapene hos det berørte aktive stoffet.
+1\. Myndigheten skal senest 30 dager etter mottak av utkastet til vurderingsrapport fra den rapporterende medlemsstaten sende dette til søkeren og de øvrige medlemsstatene. Den skal anmode søkeren om å sende en ajourføring av dokumentasjonen til medlemsstatene, Kommisjonen og Myndigheten dersom det er relevant.Myndigheten skal gjøre utkastet til vurderingsrapport tilgjengelig for offentligheten etter å ha gitt søkeren en frist på to uker til å anmode, i henhold til artikkel 63, om fortrolig behandling av visse deler av utkastet til vurderingsrapport.Myndigheten skal gi en frist på 60 dager til framlegging av skriftlige merknader.
 
-6. Fristene for Myndighetens uttalelse om søknader som gjelder grenseverdier for restmengder angitt i artikkel 11, og for beslutninger om søknader som gjelder grenseverdier for restmengder angitt i artikkel 14 i forordning [(EF) nr. 396/2005](eu/32005r0396), skal ikke berøre fristene fastsatt i denne forordning.
+2\. Dersom det er hensiktsmessig, skal Myndigheten gjennomføre et samråd med sakkyndige, herunder sakkyndige fra rapporterende medlemsstat.Innen 120 dager etter utløpet av fristen for framlegging av skriftlige merknader skal Myndigheten vedta en konklusjon på grunnlag av de veiledningsdokumenter som er tilgjengelige på søknadstidspunktet og i lys av den foreliggende vitenskapelige og tekniske kunnskap, om hvorvidt det aktive stoffet kan forventes å oppfylle godkjenningskriteriene i artikkel 4, og skal oversende konklusjonen til søkeren, medlemsstatene og Kommisjonen og gjøre den offentlig tilgjengelig. I tilfelle av samråd som angitt i dette nummer, skal fristen på 120 dager forlenges med 30 dager.Dersom det er hensiktsmessig, skal Myndigheten i sin konklusjon behandle de ulike risikoreduserende tiltak som er angitt i utkastet til vurderingsrapport.
 
-7. Dersom Myndighetens konklusjon vedtas innenfor fristen angitt i nr. 2 i denne artikkel, eventuelt forlenget med en tilleggsperiode fastsatt i samsvar med nr. 3, får bestemmelsene i artikkel 11 i forordning [(EF) nr. 396/2005](eu/32005r0396) ikke anvendelse, og artikkel 14 i samme forordning får anvendelse omgående.
+3\. Dersom Myndigheten trenger tilleggsopplysninger, skal den gi søkeren en frist på høyst 90 dager til å legge disse fram for medlemsstatene, Kommisjonen og Myndigheten.Rapporterende medlemsstat skal vurdere tilleggsopplysningene og legge disse fram for Myndigheten omgående og senest 60 dager etter mottak. I dette tilfelle skal fristen på 120 dager i nr. 2 forlenges med en frist som opphører når Myndigheten mottar den nye vurderingen.Myndigheten kan anmode Kommisjonen om å rådføre seg med et av Fellesskapets referanselaboratorier utpekt i henhold til forordning [(EF) nr. 882/2004](eu/32004r0882*) med henblikk på å kontrollere om den analysemetode som søkeren foreslår anvendt til fastsettelse av restmengder, er tilfredsstillende og oppfyller kravene i artikkel 29 nr. 1 bokstav g) i denne forordning. Søkeren skal på anmodning fra Fellesskapets referanselaboratorium legge fram prøver og analysestandarder.
 
-8. Dersom Myndighetens konklusjon ikke vedtas innenfor fristen fastsatt i nr. 2 i denne artikkel, eventuelt forlenget med en tilleggsperiode fastsatt i samsvar med nr. 3, får bestemmelsene i artikkel 11 og 14 i forordning [(EF) nr. 396/2005](eu/32005r0396) anvendelse omgående.
+4\. Myndighetens konklusjon skal inneholde en nærmere beskrivelse av framgangsmåten for vurdering og egenskapene hos det berørte aktive stoffet.
 
-1. Innen seks måneder etter å ha mottatt konklusjonen fra Myndigheten skal Kommisjonen legge fram en rapport («sammenfattende rapport») og et utkast til forordning for komiteen nevnt i artikkel 79 nr. 1, idet det tas hensyn til utkastet til vurderingsrapport fra rapporterende medlemsstat og Myndighetens konklusjon.Søkeren skal få anledning til å framlegge sine merknader til den sammenfattende rapporten.
+5\. Myndigheten skal fastsette formatet for sin konklusjon, som skal inneholde en nærmere beskrivelse av framgangsmåten for vurdering og egenskapene hos det berørte aktive stoffet.
 
-2. På grunnlag av den sammenfattende rapporten, andre faktorer av betydning for saken og føre-var-prinsippet dersom vilkårene i artikkel 7 nr. 1 i forordning [(EF) nr. 178/2002](eu/32002r0178) er relevante, skal en forordning vedtas etter framgangsmåten med forskriftskomité nevnt i artikkel 79 nr. 3, der det fastsettes atet aktivt stoff godkjennes, eventuelt på visse vilkår og med visse begrensninger som nevnt i artikkel 6,et aktivt stoff ikke godkjennes, ellervilkårene for godkjenning endres.
+6\. Fristene for Myndighetens uttalelse om søknader som gjelder grenseverdier for restmengder angitt i artikkel 11, og for beslutninger om søknader som gjelder grenseverdier for restmengder angitt i artikkel 14 i forordning [(EF) nr. 396/2005](eu/32005r0396), skal ikke berøre fristene fastsatt i denne forordning.
 
-3. Dersom det i forbindelse med godkjenningen fastsettes at det skal sendes inn ytterligere bekreftende opplysninger som nevnt i artikkel 6 bokstav f), skal forordningen fastsette fristen for framlegging av opplysningene for medlemsstatene, Kommisjonen og Myndigheten.Rapporterende medlemsstat skal vurdere tilleggsopplysningene og sende sin vurdering til de øvrige medlemsstatene, Kommisjonen og Myndigheten umiddelbart og senest seks måneder etter mottak av tilleggsopplysningene.
+7\. Dersom Myndighetens konklusjon vedtas innenfor fristen angitt i nr. 2 i denne artikkel, eventuelt forlenget med en tilleggsperiode fastsatt i samsvar med nr. 3, får bestemmelsene i artikkel 11 i forordning [(EF) nr. 396/2005](eu/32005r0396) ikke anvendelse, og artikkel 14 i samme forordning får anvendelse omgående.
 
-4. Godkjente aktive stoffer skal oppføres i forordningen nevnt i artikkel 78 nr. 3, som inneholder listen over allerede godkjente aktive stoffer. Kommisjonen skal føre en liste over godkjente aktive stoffer, som skal være elektronisk tilgjengelig for offentligheten.
+8\. Dersom Myndighetens konklusjon ikke vedtas innenfor fristen fastsatt i nr. 2 i denne artikkel, eventuelt forlenget med en tilleggsperiode fastsatt i samsvar med nr. 3, får bestemmelsene i artikkel 11 og 14 i forordning [(EF) nr. 396/2005](eu/32005r0396) anvendelse omgående.
 
-1. Godkjenningen av et aktivt stoff skal fornyes etter søknad dersom det kan fastslås at godkjenningskriteriene i artikkel 4 er oppfylt.Kriteriene i artikkel 4 skal anses å være oppfylt dersom dette er fastslått med hensyn til ett eller flere representative bruksområder for minst ett plantevernmiddel som inneholder nevnte aktive stoff.En slik fornyelse av godkjenningen kan omfatte vilkår og begrensninger, som nevnt i artikkel 6.
+###### Artikkel 13
 
-2. Fornyelsen av godkjenningen skal gjelde for et tidsrom på høyst 15 år. Fornyelsen av godkjenningen av aktive stoffer som omfattes av artikkel 4 nr. 7, skal gjelde for et tidsrom på høyst fem år.
+Godkjenningsforordning
 
-1. Søknaden nevnt i artikkel 14 i denne forordningen skal inngis av en produsent av det aktive stoffet til en medlemsstat med kopi til Kommisjonen, de andre medlemsstatene og myndigheten senest tre år før godkjenningen utløper. Søknaden skal inngis i samsvar med standardiserte dataformater, dersom slike finnes, i henhold til artikkel 39f i forordning (EF) nr. 178/2002, som gjelder tilsvarende med nødvendige endringer.◄**M7**
+1\. Innen seks måneder etter å ha mottatt konklusjonen fra Myndigheten skal Kommisjonen legge fram en rapport («sammenfattende rapport») og et utkast til forordning for komiteen nevnt i artikkel 79 nr. 1, idet det tas hensyn til utkastet til vurderingsrapport fra rapporterende medlemsstat og Myndighetens konklusjon.Søkeren skal få anledning til å framlegge sine merknader til den sammenfattende rapporten.
 
-2. Søkeren skal i sin søknad om fornyelse angi alle nye opplysninger som vedkommende har til hensikt å legge fram, og vise at disse er nødvendige på grunn av opplysningskrav eller kriterier som ikke var gjeldende på tidspunktet for den siste godkjenningen av det aktive stoffet, eller fordi søknaden gjelder en endret godkjenning. Søkeren skal samtidig legge fram en tidsplan for eventuelle nye og pågående undersøkelser.Søkeren skal angi hvilke deler av de framlagte opplysningene vedkommende anmoder om fortrolig behandling av i samsvar med artikkel 63, sammen med en begrunnelse, og samtidig legge fram eventuelle anmodninger om vern av opplysninger i henhold til artikkel 59.
+2\. På grunnlag av den sammenfattende rapporten, andre faktorer av betydning for saken og føre-var-prinsippet dersom vilkårene i artikkel 7 nr. 1 i forordning [(EF) nr. 178/2002](eu/32002r0178) er relevante, skal en forordning vedtas etter framgangsmåten med forskriftskomité nevnt i artikkel 79 nr. 3, der det fastsettes atet aktivt stoff godkjennes, eventuelt på visse vilkår og med visse begrensninger som nevnt i artikkel 6,et aktivt stoff ikke godkjennes, ellervilkårene for godkjenning endres.
+
+3\. Dersom det i forbindelse med godkjenningen fastsettes at det skal sendes inn ytterligere bekreftende opplysninger som nevnt i artikkel 6 bokstav f), skal forordningen fastsette fristen for framlegging av opplysningene for medlemsstatene, Kommisjonen og Myndigheten.Rapporterende medlemsstat skal vurdere tilleggsopplysningene og sende sin vurdering til de øvrige medlemsstatene, Kommisjonen og Myndigheten umiddelbart og senest seks måneder etter mottak av tilleggsopplysningene.
+
+4\. Godkjente aktive stoffer skal oppføres i forordningen nevnt i artikkel 78 nr. 3, som inneholder listen over allerede godkjente aktive stoffer. Kommisjonen skal føre en liste over godkjente aktive stoffer, som skal være elektronisk tilgjengelig for offentligheten.
+
+###### Underavsnitt 3
+
+Fornyelse og ny vurdering
+
+###### Artikkel 14
+
+Fornyelse av godkjenning
+
+1\. Godkjenningen av et aktivt stoff skal fornyes etter søknad dersom det kan fastslås at godkjenningskriteriene i artikkel 4 er oppfylt.Kriteriene i artikkel 4 skal anses å være oppfylt dersom dette er fastslått med hensyn til ett eller flere representative bruksområder for minst ett plantevernmiddel som inneholder nevnte aktive stoff.En slik fornyelse av godkjenningen kan omfatte vilkår og begrensninger, som nevnt i artikkel 6.
+
+2\. Fornyelsen av godkjenningen skal gjelde for et tidsrom på høyst 15 år. Fornyelsen av godkjenningen av aktive stoffer som omfattes av artikkel 4 nr. 7, skal gjelde for et tidsrom på høyst fem år.
+
+###### Artikkel 15
+
+Søknad om fornyelse
+
+►**M7**
+
+1\. Søknaden nevnt i artikkel 14 i denne forordningen skal inngis av en produsent av det aktive stoffet til en medlemsstat med kopi til Kommisjonen, de andre medlemsstatene og myndigheten senest tre år før godkjenningen utløper. Søknaden skal inngis i samsvar med standardiserte dataformater, dersom slike finnes, i henhold til artikkel 39f i forordning (EF) nr. 178/2002, som gjelder tilsvarende med nødvendige endringer.◄**M7**
+
+2\. Søkeren skal i sin søknad om fornyelse angi alle nye opplysninger som vedkommende har til hensikt å legge fram, og vise at disse er nødvendige på grunn av opplysningskrav eller kriterier som ikke var gjeldende på tidspunktet for den siste godkjenningen av det aktive stoffet, eller fordi søknaden gjelder en endret godkjenning. Søkeren skal samtidig legge fram en tidsplan for eventuelle nye og pågående undersøkelser.Søkeren skal angi hvilke deler av de framlagte opplysningene vedkommende anmoder om fortrolig behandling av i samsvar med artikkel 63, sammen med en begrunnelse, og samtidig legge fram eventuelle anmodninger om vern av opplysninger i henhold til artikkel 59.
+
+►**M7**
+
+###### Artikkel 16
+
+Offentlig tilgang til opplysninger om fornyelse
 
 Myndigheten skal umiddelbart vurdere alle anmodninger om fortrolighet og gi offentlig tilgang til opplysningene fra søkeren i henhold til artikkel 15, samt eventuelle andre tilleggsopplysninger fra søkeren, med unntak av opplysninger som det er anmodet om fortrolig behandling av, og som er gitt fortrolig behandling av myndigheten i henhold til artikkel 63.
 
 Myndigheten skal etter samråd med medlemsstatene fastsette praktiske ordninger for å sikre samsvar mellom disse vurderingene.◄**M7**
+
+###### Artikkel 17
+
+Forlengelse av godkjenningsperioden for å fullføre framgangsmåten
 
 Dersom det på grunn av forhold som ligger utenfor søkerens kontroll, er sannsynlig at godkjenningen vil utløpe før det er truffet beslutning om fornyelse, skal det treffes en beslutning etter framgangsmåten med forskriftskomité nevnt i artikkel 79 nr. 3, om å forlenge godkjenningsperioden for nevnte søker med et tidsrom som er tilstrekkelig til at søknaden kan behandles.
 
@@ -597,71 +731,115 @@ En forordning om forlengelse av godkjenningsperioden med et tidsrom som er tilst
 
 Varigheten av nevnte tidsrom skal fastsettes på grunnlag av følgende:den tiden som er nødvendig for å legge fram opplysningene det er anmodet om,den tiden som er nødvendig for å fullføre framgangsmåten,dersom det er nødvendig, behovet for å sikre at et enhetlig arbeidsprogram opprettes, i samsvar med artikkel 18.
 
+###### Artikkel 18
+
+Arbeidsprogram
+
 Kommisjonen kan opprette et arbeidsprogram der aktive stoffer som ligner på hverandre, samles i grupper, der prioriteringer fastsettes på grunnlag av sikkerheten for menneskers og dyrs helse eller miljøet og der det i størst mulig grad tas hensyn til behovet for effektiv kontroll og håndtering av resistensutvikling hos målgruppen av skadegjørere. I programmet kan det kreves at berørte parter skal legge fram alle nødvendige opplysninger for medlemsstatene, Kommisjonen og Myndigheten innen en frist som fastsettes i programmet.
 
 Programmet skal omfatte følgende:framgangsmåter for inngivelse og vurdering av søknader om fornyelse av godkjenninger,de nødvendige opplysninger som skal legges fram, herunder tiltak for å begrense dyreforsøk til et minimum, særlig forsøksmetoder uten bruk av dyreforsøk og bruk av intelligente forsøksstrategier,fristene for framlegging av slike opplysninger,regler for framlegging av nye opplysninger,frist for vurdering og beslutningstaking,fordelingen mellom medlemsstatene av vurderingen av aktive stoffer, idet det tas hensyn til at ansvaret og arbeidsoppgavene skal fordeles jevnt på de medlemsstater som fungerer som rapporterende medlemsstater.
 
 Fordeling av vurdering av aktive stoffer til en EFTA-stat etter [artikkel 18](forskrift/2015-05-06-455/a18)(f) er betinget av samtykke fra vedkommende stat.
 
+###### Artikkel 19
+
+Gjennomføringstiltak
+
 Ved en forordning vedtatt etter framgangsmåten med forskriftskomité nevnt i artikkel 79 nr. 3, skal det fastsettes bestemmelser som er nødvendige for å gjennomføre framgangsmåten for fornyelse, herunder, der det er relevant, gjennomføringen av et arbeidsprogram som fastsatt i artikkel 18.
 
-1. En forordning skal vedtas etter framgangsmåten med forskriftskomité nevnt i artikkel 79 nr. 3, der det fastsettes atgodkjenningen av et aktivt stoff fornyes, eventuelt på visse vilkår og med visse begrensinger, ellergodkjenningen av et aktivt stoff ikke fornyes.
+###### Artikkel 20
 
-2. Dersom årsakene til ikke å fornye en godkjenning ikke er å verne helsen eller miljøet, skal det ved forordningen nevnt i nr. 1 innvilges en avviklingsperiode på høyst seks måneder for salg og distribusjon av det berørte plantevernmiddelet og dessuten en frist på høyst ett år til å disponere, lagre og bruke eksisterende lagre av det berørte plantevernmiddelet. Ved fastsettelse av avviklingsperioden for salg og distribusjon skal det tas hensyn til plantevernmiddelets alminnelige bruksperiode, men samlet skal den ikke overstige 18 måneder.Dersom en godkjenning tilbakekalles eller ikke fornyes på grunn av umiddelbare bekymringer for menneskers eller dyrs helse eller miljøet, skal de berørte plantevernmidlene trekkes tilbake fra markedet umiddelbart.
+Forordning om fornyelse
 
-3. Artikkel 13 nr. 4 får anvendelse.
+1\. En forordning skal vedtas etter framgangsmåten med forskriftskomité nevnt i artikkel 79 nr. 3, der det fastsettes atgodkjenningen av et aktivt stoff fornyes, eventuelt på visse vilkår og med visse begrensinger, ellergodkjenningen av et aktivt stoff ikke fornyes.
 
-1. Kommisjonen kan når som helst foreta en ny vurdering av godkjenningen av et aktivt stoff. Den skal ta hensyn til en anmodning fra en medlemsstat om å foreta en ny vurdering av godkjenningen av et aktivt stoff på grunnlag av ny vitenskapelig og teknisk kunnskap samt overvåkingsopplysninger, herunder dersom det etter vurderingen av godkjenningene i henhold til artikkel 44 nr. 1 er indikasjoner på at målene fastsatt i samsvar med artikkel 4 nr. 1 bokstav a) iv) og bokstav b) i), samt artikkel 7 nr. 2 og 3 i direktiv [2000/60/EF](eu/32000l0060), ikke oppnås.Dersom Kommisjonen på grunnlag av ny vitenskapelig og teknisk kunnskap anser at det er indikasjoner på at stoffet ikke lenger oppfyller godkjenningskriteriene fastsatt i artikkel 4, eller at ytterligere opplysninger i samsvar med artikkel 6 bokstav f) ikke er lagt fram, skal den underrette medlemsstatene, Myndigheten og produsenten av det aktive stoffet om dette og fastsette en frist for når produsenten skal legge fram sine merknader.
+2\. Dersom årsakene til ikke å fornye en godkjenning ikke er å verne helsen eller miljøet, skal det ved forordningen nevnt i nr. 1 innvilges en avviklingsperiode på høyst seks måneder for salg og distribusjon av det berørte plantevernmiddelet og dessuten en frist på høyst ett år til å disponere, lagre og bruke eksisterende lagre av det berørte plantevernmiddelet. Ved fastsettelse av avviklingsperioden for salg og distribusjon skal det tas hensyn til plantevernmiddelets alminnelige bruksperiode, men samlet skal den ikke overstige 18 måneder.Dersom en godkjenning tilbakekalles eller ikke fornyes på grunn av umiddelbare bekymringer for menneskers eller dyrs helse eller miljøet, skal de berørte plantevernmidlene trekkes tilbake fra markedet umiddelbart.
 
-2. Kommisjonen kan anmode medlemsstatene og Myndigheten om en uttalelse eller om vitenskapelig eller teknisk bistand. Medlemsstatene kan legge fram sine merknader for Kommisjonen senest tre måneder fra datoen for anmodningen. Myndigheten skal legge fram sin uttalelse eller resultatene av sitt arbeid for Kommisjonen innen tre måneder etter datoen for anmodningen.
+3\. Artikkel 13 nr. 4 får anvendelse.
 
-3. Dersom Kommisjonen konkluderer med at godkjenningskriteriene i artikkel 4 ikke lenger er oppfylt, eller at ytterligere opplysninger som kreves i samsvar med artikkel 6 bokstav f) ikke er framlagt, skal en forordning om tilbakekalling eller endring av godkjenningen vedtas etter framgangsmåten med forskriftskomité nevnt i artikkel 79 nr. 3.Artikkel 13 nr. 4 og artikkel 20 nr. 2 får anvendelse.
+###### Artikkel 21
 
-1. Som unntak fra artikkel 5 skal et aktivt stoff som oppfyller kriteriene i artikkel 4, godkjennes for et tidsrom på høyst 15 år dersom det anses å være et aktivt stoff med lav risiko, og dersom det kan forventes at plantevernmidler som inneholder nevnte stoff, vil utgjøre bare en lav risiko for menneskers og dyrs helse og miljøet som fastsatt i artikkel 47 nr. 1.
+Ny vurdering av godkjenning
 
-2. Artikkel 4 og artikkel 6–21 samt vedlegg II nr. 5 får anvendelse. Aktive stoffer med lav risiko skal angis særskilt i forordningen nevnt i artikkel 13 nr. 4.
+1\. Kommisjonen kan når som helst foreta en ny vurdering av godkjenningen av et aktivt stoff. Den skal ta hensyn til en anmodning fra en medlemsstat om å foreta en ny vurdering av godkjenningen av et aktivt stoff på grunnlag av ny vitenskapelig og teknisk kunnskap samt overvåkingsopplysninger, herunder dersom det etter vurderingen av godkjenningene i henhold til artikkel 44 nr. 1 er indikasjoner på at målene fastsatt i samsvar med artikkel 4 nr. 1 bokstav a) iv) og bokstav b) i), samt artikkel 7 nr. 2 og 3 i direktiv [2000/60/EF](eu/32000l0060), ikke oppnås.Dersom Kommisjonen på grunnlag av ny vitenskapelig og teknisk kunnskap anser at det er indikasjoner på at stoffet ikke lenger oppfyller godkjenningskriteriene fastsatt i artikkel 4, eller at ytterligere opplysninger i samsvar med artikkel 6 bokstav f) ikke er lagt fram, skal den underrette medlemsstatene, Myndigheten og produsenten av det aktive stoffet om dette og fastsette en frist for når produsenten skal legge fram sine merknader.
 
-3. Kommisjonen kan foreta en ny vurdering av og ved behov angi nye kriterier for godkjenning av et aktivt stoff som et aktivt stoff med lav risiko i samsvar med artikkel 78 nr. 1 bokstav a).
+2\. Kommisjonen kan anmode medlemsstatene og Myndigheten om en uttalelse eller om vitenskapelig eller teknisk bistand. Medlemsstatene kan legge fram sine merknader for Kommisjonen senest tre måneder fra datoen for anmodningen. Myndigheten skal legge fram sin uttalelse eller resultatene av sitt arbeid for Kommisjonen innen tre måneder etter datoen for anmodningen.
 
-1. Basisstoffer skal godkjennes i samsvar med nr. 2–6. Som unntak fra artikkel 5 skal godkjenningen gjelde for et ubegrenset tidsrom.Ved anvendelsen av nr. 2–6 er et basisstoff et aktivt stoff somikke er et potensielt skadelig stoff, ogi seg selv ikke har hormonforstyrrende, nevrotoksiske eller immuntoksiske egenskaper, ogikke hovedsakelig brukes for plantevernformål, men likevel er nyttig for plantevern enten direkte eller i et produkt som består av stoffet og et enkelt fortynningsmiddel, ogikke bringes i omsetning som et plantevernmiddel.Ved anvendelsen av denne forordning skal et aktivt stoff som oppfyller kriteriene for «næringsmiddel» som definert i artikkel 2 i forordning [(EF) nr. 178/2002](eu/32002r0178), betraktes som et basisstoff.
+3\. Dersom Kommisjonen konkluderer med at godkjenningskriteriene i artikkel 4 ikke lenger er oppfylt, eller at ytterligere opplysninger som kreves i samsvar med artikkel 6 bokstav f) ikke er framlagt, skal en forordning om tilbakekalling eller endring av godkjenningen vedtas etter framgangsmåten med forskriftskomité nevnt i artikkel 79 nr. 3.Artikkel 13 nr. 4 og artikkel 20 nr. 2 får anvendelse.
 
-2. Som unntak fra artikkel 4 skal et basisstoff godkjennes dersom alle relevante vurderinger som er utført i samsvar med andre deler av Fellesskapets regelverk med hensyn til bruken av nevnte stoff for andre formål enn som et plantevernmiddel, viser at stoffet ikke har noen umiddelbare eller forsinkede skadelige virkninger på menneskers eller dyrs helse eller uakseptable virkninger på miljøet.
+###### Underavsnitt 4
 
-3. Som unntak fra artikkel 7 skal en søknad om godkjenning av et basisstoff inngis til Kommisjonen av en medlemsstat eller av en berørt part.Søknaden skal vedlegges følgende opplysninger:eventuelle vurderinger av dets mulige virkninger på menneskers eller dyrs helse eller på miljøet som er gjort i samsvar med andre deler av Fellesskapets regelverk for bruken av stoffet, ogandre relevante opplysninger om dets mulige virkninger på menneskers eller dyrs helse eller på miljøet.
+Unntak
 
-4. Kommisjonen skal anmode Myndigheten om en uttalelse eller om vitenskapelig eller teknisk bistand. Myndigheten skal legge fram sin uttalelse eller resultatene av sitt arbeid for Kommisjonen innen tre måneder etter datoen for anmodningen.
+###### Artikkel 22
 
-5. Artikkel 6 og 13 får anvendelse. Basisstoffene skal angis separat i forordningen nevnt i artikkel 13 nr. 4.
+Aktive stoffer med lav risiko
 
-6. Kommisjonen kan når som helst foreta en ny vurdering av godkjenningen av et basisstoff. Den kan ta hensyn til en anmodning fra en medlemsstat om å foreta en ny vurdering av godkjenningen.Dersom Kommisjonen anser at det er indikasjoner på at stoffet ikke lenger oppfyller kriteriene fastsatt i nr. 1-3, skal den underrette medlemsstatene, Myndigheten og den berørte part og fastsette en frist for når de skal legge fram sine merknader.Kommisjonen skal anmode Myndigheten om en uttalelse eller om vitenskapelig eller teknisk bistand. Myndigheten skal legge fram sin uttalelse eller resultatene av sitt arbeid for Kommisjonen innen tre måneder etter datoen for anmodningen.Dersom Kommisjonen konkluderer med at kriteriene nevnt i nr. 1 ikke lenger er oppfylt, skal en forordning om tilbakekalling eller endring av godkjenningen vedtas etter framgangsmåten med forskriftskomité nevnt i artikkel 79 nr. 3.
+1\. Som unntak fra artikkel 5 skal et aktivt stoff som oppfyller kriteriene i artikkel 4, godkjennes for et tidsrom på høyst 15 år dersom det anses å være et aktivt stoff med lav risiko, og dersom det kan forventes at plantevernmidler som inneholder nevnte stoff, vil utgjøre bare en lav risiko for menneskers og dyrs helse og miljøet som fastsatt i artikkel 47 nr. 1.
 
-1. Et aktivt stoff som oppfyller kriteriene i artikkel 4, skal for et tidsrom på høyst sju år godkjennes som et stoff som skal erstattes dersom det oppfyller ett eller flere av tilleggskriteriene fastsatt i vedlegg II nr. 4. Som unntak fra artikkel 14 nr. 2 kan godkjenningen fornyes en eller flere ganger for et tidsrom på høyst sju år.
+2\. Artikkel 4 og artikkel 6–21 samt vedlegg II nr. 5 får anvendelse. Aktive stoffer med lav risiko skal angis særskilt i forordningen nevnt i artikkel 13 nr. 4.
 
-2. Uten at det berører nr. 1 får artikkel 4–21 anvendelse. Stoffer som skal erstattes, skal angis separat i forordningen nevnt i artikkel 13 nr. 4.
+3\. Kommisjonen kan foreta en ny vurdering av og ved behov angi nye kriterier for godkjenning av et aktivt stoff som et aktivt stoff med lav risiko i samsvar med artikkel 78 nr. 1 bokstav a).
+
+###### Artikkel 23
+
+Kriterier for godkjenning av basisstoffer
+
+1\. Basisstoffer skal godkjennes i samsvar med nr. 2–6. Som unntak fra artikkel 5 skal godkjenningen gjelde for et ubegrenset tidsrom.Ved anvendelsen av nr. 2–6 er et basisstoff et aktivt stoff somikke er et potensielt skadelig stoff, ogi seg selv ikke har hormonforstyrrende, nevrotoksiske eller immuntoksiske egenskaper, ogikke hovedsakelig brukes for plantevernformål, men likevel er nyttig for plantevern enten direkte eller i et produkt som består av stoffet og et enkelt fortynningsmiddel, ogikke bringes i omsetning som et plantevernmiddel.Ved anvendelsen av denne forordning skal et aktivt stoff som oppfyller kriteriene for «næringsmiddel» som definert i artikkel 2 i forordning [(EF) nr. 178/2002](eu/32002r0178), betraktes som et basisstoff.
+
+2\. Som unntak fra artikkel 4 skal et basisstoff godkjennes dersom alle relevante vurderinger som er utført i samsvar med andre deler av Fellesskapets regelverk med hensyn til bruken av nevnte stoff for andre formål enn som et plantevernmiddel, viser at stoffet ikke har noen umiddelbare eller forsinkede skadelige virkninger på menneskers eller dyrs helse eller uakseptable virkninger på miljøet.
+
+3\. Som unntak fra artikkel 7 skal en søknad om godkjenning av et basisstoff inngis til Kommisjonen av en medlemsstat eller av en berørt part.Søknaden skal vedlegges følgende opplysninger:eventuelle vurderinger av dets mulige virkninger på menneskers eller dyrs helse eller på miljøet som er gjort i samsvar med andre deler av Fellesskapets regelverk for bruken av stoffet, ogandre relevante opplysninger om dets mulige virkninger på menneskers eller dyrs helse eller på miljøet.
+
+4\. Kommisjonen skal anmode Myndigheten om en uttalelse eller om vitenskapelig eller teknisk bistand. Myndigheten skal legge fram sin uttalelse eller resultatene av sitt arbeid for Kommisjonen innen tre måneder etter datoen for anmodningen.
+
+5\. Artikkel 6 og 13 får anvendelse. Basisstoffene skal angis separat i forordningen nevnt i artikkel 13 nr. 4.
+
+6\. Kommisjonen kan når som helst foreta en ny vurdering av godkjenningen av et basisstoff. Den kan ta hensyn til en anmodning fra en medlemsstat om å foreta en ny vurdering av godkjenningen.Dersom Kommisjonen anser at det er indikasjoner på at stoffet ikke lenger oppfyller kriteriene fastsatt i nr. 1-3, skal den underrette medlemsstatene, Myndigheten og den berørte part og fastsette en frist for når de skal legge fram sine merknader.Kommisjonen skal anmode Myndigheten om en uttalelse eller om vitenskapelig eller teknisk bistand. Myndigheten skal legge fram sin uttalelse eller resultatene av sitt arbeid for Kommisjonen innen tre måneder etter datoen for anmodningen.Dersom Kommisjonen konkluderer med at kriteriene nevnt i nr. 1 ikke lenger er oppfylt, skal en forordning om tilbakekalling eller endring av godkjenningen vedtas etter framgangsmåten med forskriftskomité nevnt i artikkel 79 nr. 3.
+
+###### Artikkel 24
+
+Stoffer som skal erstattes
+
+1\. Et aktivt stoff som oppfyller kriteriene i artikkel 4, skal for et tidsrom på høyst sju år godkjennes som et stoff som skal erstattes dersom det oppfyller ett eller flere av tilleggskriteriene fastsatt i vedlegg II nr. 4. Som unntak fra artikkel 14 nr. 2 kan godkjenningen fornyes en eller flere ganger for et tidsrom på høyst sju år.
+
+2\. Uten at det berører nr. 1 får artikkel 4–21 anvendelse. Stoffer som skal erstattes, skal angis separat i forordningen nevnt i artikkel 13 nr. 4.
 
 ### Avsnitt 2
 Beskyttende midler og synergister
 
-1. Beskyttende midler eller synergister skal godkjennes dersom de oppfyller kriteriene i artikkel 4.
+###### Artikkel 25
 
-2. Artikkel 5–21 får anvendelse.
+Godkjenning av beskyttende midler og synergister
 
-3. Det skal fastsettes tilsvarende opplysningskrav som dem som er nevnt i artikkel 8 nr. 4, for beskyttende midler og synergister etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 79 nr. 4.
+1\. Beskyttende midler eller synergister skal godkjennes dersom de oppfyller kriteriene i artikkel 4.
+
+2\. Artikkel 5–21 får anvendelse.
+
+3\. Det skal fastsettes tilsvarende opplysningskrav som dem som er nevnt i artikkel 8 nr. 4, for beskyttende midler og synergister etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 79 nr. 4.
+
+###### Artikkel 26
+
+Beskyttende midler og synergister som allerede finnes på markedet
 
 Innen 14. desember 2014 skal det vedtas en forordning etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 79 nr. 4 om opprettelse av et arbeidsprogram for gradvis gjennomgåelse av de synergister og beskyttende midler som finnes på markedet når nevnte forordning trer i kraft. Forordningen skal inneholde bestemmelser om opplysningskrav, herunder tiltak for å begrense dyreforsøk til et minimum, og framgangsmåter for melding, evaluering, vurdering og beslutningstaking. Den skal inneholde et krav om at berørte parter legger fram alle nødvendige opplysninger for medlemsstatene, Kommisjonen og Myndigheten innen en angitt frist.
 
 ### Avsnitt 3
 Uakseptable formuleringsstoffer
 
-1. Et formuleringsstoff skal ikke brukes i et plantevernmiddel dersom det har vist seg atdets reststoffer, etter behandling i samsvar med god plantevernpraksis og under realistiske bruksforhold, har en skadelig virkning på menneskers eller dyrs helse eller på grunnvannet eller en uakseptabel virkning på miljøet, ellerdets bruk, etter behandling i samsvar med god plantevernpraksis og under realistiske bruksforhold, har en skadelig virkning på menneskers eller dyrs helse eller på grunnvannet eller en uakseptabel virkning på miljøet.
+###### Artikkel 27
 
-2. Formuleringsstoffer som ikke kan brukes i et plantevernmiddel i henhold til nr. 1, skal oppføres i vedlegg III etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 79 nr. 4.
+Formuleringsstoffer
 
-3. Kommisjonen kan når som helst foreta en ny vurdering av formuleringsstoffer. Den kan ta hensyn til relevante opplysninger som legges fram av medlemsstatene.
+1\. Et formuleringsstoff skal ikke brukes i et plantevernmiddel dersom det har vist seg atdets reststoffer, etter behandling i samsvar med god plantevernpraksis og under realistiske bruksforhold, har en skadelig virkning på menneskers eller dyrs helse eller på grunnvannet eller en uakseptabel virkning på miljøet, ellerdets bruk, etter behandling i samsvar med god plantevernpraksis og under realistiske bruksforhold, har en skadelig virkning på menneskers eller dyrs helse eller på grunnvannet eller en uakseptabel virkning på miljøet.
 
-4. Artikkel 81 nr. 2 får anvendelse.
+2\. Formuleringsstoffer som ikke kan brukes i et plantevernmiddel i henhold til nr. 1, skal oppføres i vedlegg III etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 79 nr. 4.
 
-5. Nærmere regler for gjennomføring av denne artikkel skal vedtas etter framgangsmåten med forskriftskomité nevnt i artikkel 79 nr. 3.
+3\. Kommisjonen kan når som helst foreta en ny vurdering av formuleringsstoffer. Den kan ta hensyn til relevante opplysninger som legges fram av medlemsstatene.
+
+4\. Artikkel 81 nr. 2 får anvendelse.
+
+5\. Nærmere regler for gjennomføring av denne artikkel skal vedtas etter framgangsmåten med forskriftskomité nevnt i artikkel 79 nr. 3.
 
 ### [Kapittel](forskrift/2015-05-06-455/kapiii) III
 Plantevernmidler
@@ -669,55 +847,97 @@ Plantevernmidler
 ### Avsnitt 1
 Godkjenning
 
-1. Et plantevernmiddel skal ikke bringes i omsetning eller brukes med mindre det er godkjent i den berørte medlemsstaten i samsvar med denne forordning.
+###### Underavsnitt 1
 
-2. Som unntak fra nr. 1 skal det ikke kreves godkjenning i følgende tilfeller:bruk av produkter som utelukkende inneholder ett eller flere basisstoffer,omsetning og bruk av plantevernmidler for forsknings- og utviklingsformål i samsvar med artikkel 54,produksjon, lagring eller transport av et plantevernmiddel beregnet på bruk i en annen medlemsstat, forutsatt at produktet er godkjent i nevnte medlemsstat og at medlemsstaten der produksjon, lagring eller transport skjer, har krav til kontroll for å sikre at plantevernmiddelet ikke brukes på dens territorium,produksjon, lagring eller transport av et plantevernmiddel beregnet på bruk i en tredjestat, forutsatt at medlemsstaten der produksjon, lagring eller transport skjer, har krav til kontroll for å sikre at plantevernmiddelet blir eksportert fra dens territorium,omsetning og bruk av plantevernmidler som det er gitt tillatelse til parallellhandel for, i samsvar med artikkel 52,
+Krav og innhold
 
-1. Uten at det berører artikkel 50, skal et plantevernmiddel tillates bare dersom det i henhold til de ensartede prinsippene nevnt i nr. 6 oppfyller følgende krav:dets aktive stoffer, beskyttende midler og synergister er godkjent,dersom dets aktive stoffer, beskyttende midler eller synergister er produsert av en annen kilde, eller av samme kilde med en endring i produksjonsprosessen og/eller -stedetkan spesifikasjonen i henhold til artikkel 38 ikke avvike vesentlig fra spesifikasjonen oppført i forordningen om godkjenning av nevnte stoff, beskyttende middel eller synergist, ogkan det aktive stoffet, det beskyttende middelet eller synergisten ikke ha flere skadelige virkninger i henhold til artikkel 4 nr. 2 og 3 på grunn av sine urenheter enn dersom det var blitt produsert i samsvar med produksjonsprosessen angitt i dokumentasjonen som underbygde godkjenningen,dets formuleringsstoffer er ikke oppført i vedlegg III,dets tekniske sammensetning er slik at brukereksponering eller andre risikoer er begrenset mest mulig uten at det berører produktets virkemåte,det oppfyller ut fra foreliggende vitenskapelig og teknisk kunnskap kravene fastsatt i artikkel 4 nr. 3,arten og mengden av dets aktive stoffer, beskyttende midler og synergister samt eventuelle toksikologisk, økotoksikologisk eller miljømessig relevante urenheter og formuleringsstoffer kan fastsettes med egnede metoder,dets restmengder som stammer fra godkjent bruk og som er av toksikologisk, økotoksikologisk eller miljømessig betydning, kan fastsettes med egnede og allment anvendte metoder i alle medlemsstater, med egnede påvisningsgrenser for relevante prøver,dets fysiske og kjemiske egenskaper er bestemt og funnet akseptable med henblikk på hensiktsmessig bruk og lagring av produktet,for planter eller planteprodukter som skal brukes som fôr eller næringsmidler, er grenseverdiene for restmengder for de landbruksproduktene som er berørt av bruken nevnt i godkjenningen, fastsatt eller endret i samsvar med forordning [(EF) nr. 396/2005](eu/32005r0396), der det er relevant.
+###### Artikkel 28
 
-2. Søkeren skal vise at kravene fastsatt i nr. 1 bokstav a)–h) er oppfylt.
+Godkjenning for omsetning og bruk
 
-3. Oppfyllelsen av kravene i nr. 1 bokstav b) og e)–h) skal fastsettes ved offisielle eller offisielt anerkjente forsøk og analyser som skal utføres under landbruks-, plantehelse- og miljøforhold som er relevante for bruken av det berørte plantevernmiddelet og er representative for de rådende forhold i sonen der produktet er beregnet brukt.
+1\. Et plantevernmiddel skal ikke bringes i omsetning eller brukes med mindre det er godkjent i den berørte medlemsstaten i samsvar med denne forordning.
 
-4. Når det gjelder nr. 1 bokstav f), kan harmoniserte metoder vedtas etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 79 nr. 4.
+2\. Som unntak fra nr. 1 skal det ikke kreves godkjenning i følgende tilfeller:bruk av produkter som utelukkende inneholder ett eller flere basisstoffer,omsetning og bruk av plantevernmidler for forsknings- og utviklingsformål i samsvar med artikkel 54,produksjon, lagring eller transport av et plantevernmiddel beregnet på bruk i en annen medlemsstat, forutsatt at produktet er godkjent i nevnte medlemsstat og at medlemsstaten der produksjon, lagring eller transport skjer, har krav til kontroll for å sikre at plantevernmiddelet ikke brukes på dens territorium,produksjon, lagring eller transport av et plantevernmiddel beregnet på bruk i en tredjestat, forutsatt at medlemsstaten der produksjon, lagring eller transport skjer, har krav til kontroll for å sikre at plantevernmiddelet blir eksportert fra dens territorium,omsetning og bruk av plantevernmidler som det er gitt tillatelse til parallellhandel for, i samsvar med artikkel 52,
 
-5. Artikkel 81 får anvendelse.
+###### Artikkel 29
 
-6. De ensartede prinsippene for vurdering og godkjenning av plantevernmidler skal inneholde kravene fastsatt i vedlegg VI til direktiv [91/414/EØF](eu/31991l0414*), og skal fastsettes i forordninger som vedtas etter framgangsmåten med rådgivende komité nevnt i artikkel 79 nr. 2 uten noen vesentlige endringer. Senere endringer av nevnte forordninger skal vedtas i samsvar med artikkel 78 nr. 1 bokstav c).
+Krav til godkjenning for omsetning
 
-1. Som unntak fra artikkel 29 nr. 1 bokstav a) kan medlemsstatene for en midlertidig periode på høyst tre år tillate at plantevernmidler som inneholder et aktivt stoff som ennå ikke er godkjent, bringes i omsetning forutsatt atbeslutningen om godkjenning ikke kan ferdigbehandles innen en frist på 30 måneder fra den dato da søknaden ble godtatt, forlenget med en eventuell tilleggsperiode fastsatt i samsvar med artikkel 9 nr. 2, artikkel 11 nr. 3 eller artikkel 12 nr. 2 eller 3, ogdokumentasjonen om det aktive stoffet i henhold til artikkel 9 kan godtas til de foreslåtte bruksområder, ogmedlemsstatene fastslår at det aktive stoffet kan oppfylle kravene i artikkel 4 nr. 2 og 3, og at plantevernmiddelet kan forventes å oppfylle kravene i artikkel 29 nr. 1 bokstav b)–h), oggrenseverdier for restmengder er fastsatt i samsvar med forordning [(EF) nr. 396/2005](eu/32005r0396).
+1\. Uten at det berører artikkel 50, skal et plantevernmiddel tillates bare dersom det i henhold til de ensartede prinsippene nevnt i nr. 6 oppfyller følgende krav:dets aktive stoffer, beskyttende midler og synergister er godkjent,dersom dets aktive stoffer, beskyttende midler eller synergister er produsert av en annen kilde, eller av samme kilde med en endring i produksjonsprosessen og/eller -stedetkan spesifikasjonen i henhold til artikkel 38 ikke avvike vesentlig fra spesifikasjonen oppført i forordningen om godkjenning av nevnte stoff, beskyttende middel eller synergist, ogkan det aktive stoffet, det beskyttende middelet eller synergisten ikke ha flere skadelige virkninger i henhold til artikkel 4 nr. 2 og 3 på grunn av sine urenheter enn dersom det var blitt produsert i samsvar med produksjonsprosessen angitt i dokumentasjonen som underbygde godkjenningen,dets formuleringsstoffer er ikke oppført i vedlegg III,dets tekniske sammensetning er slik at brukereksponering eller andre risikoer er begrenset mest mulig uten at det berører produktets virkemåte,det oppfyller ut fra foreliggende vitenskapelig og teknisk kunnskap kravene fastsatt i artikkel 4 nr. 3,arten og mengden av dets aktive stoffer, beskyttende midler og synergister samt eventuelle toksikologisk, økotoksikologisk eller miljømessig relevante urenheter og formuleringsstoffer kan fastsettes med egnede metoder,dets restmengder som stammer fra godkjent bruk og som er av toksikologisk, økotoksikologisk eller miljømessig betydning, kan fastsettes med egnede og allment anvendte metoder i alle medlemsstater, med egnede påvisningsgrenser for relevante prøver,dets fysiske og kjemiske egenskaper er bestemt og funnet akseptable med henblikk på hensiktsmessig bruk og lagring av produktet,for planter eller planteprodukter som skal brukes som fôr eller næringsmidler, er grenseverdiene for restmengder for de landbruksproduktene som er berørt av bruken nevnt i godkjenningen, fastsatt eller endret i samsvar med forordning [(EF) nr. 396/2005](eu/32005r0396), der det er relevant.
 
-2. I slike tilfeller skal medlemsstatene umiddelbart underrette de øvrige medlemsstatene og Kommisjonen om sin vurdering av dokumentasjonen og av vilkårene for godkjenningen, og minst legge fram opplysningene fastsatt i artikkel 57 nr. 1.
+2\. Søkeren skal vise at kravene fastsatt i nr. 1 bokstav a)–h) er oppfylt.
 
-3. Bestemmelsene i nr. 1 og 2 får anvendelse fra 14. juni 2016. Ved behov kan nevnte frist forlenges etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 79 nr. 4.
+3\. Oppfyllelsen av kravene i nr. 1 bokstav b) og e)–h) skal fastsettes ved offisielle eller offisielt anerkjente forsøk og analyser som skal utføres under landbruks-, plantehelse- og miljøforhold som er relevante for bruken av det berørte plantevernmiddelet og er representative for de rådende forhold i sonen der produktet er beregnet brukt.
 
-1. Godkjenningen skal angi på hvilke planter eller planteprodukter og hvilke andre områder enn landbruksområder (f.eks. jernbaner, offentlige områder, lagerrom) plantevernmiddelet kan anvendes og til hvilke formål.
+4\. Når det gjelder nr. 1 bokstav f), kan harmoniserte metoder vedtas etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 79 nr. 4.
 
-2. Godkjenningen skal angi kravene for omsetning og bruk av plantevernmiddelet. Disse kravene skal minst inneholde bruksvilkårene som er nødvendige for å oppfylle vilkårene, og kravene fastsatt i forordningen om godkjenning av aktive stoffer, beskyttende midler og synergister.Plantevernmiddelet skal i godkjenningen være klassifisert i samsvar med direktiv [1999/45/EF](eu/31999l0045*). Medlemsstatene kan bestemme at godkjenningsinnehaverne skal klassifisere eller ajourføre etiketten uten unødig opphold som følge av en endring i klassifiseringen og merkingen av plantevernmiddelet i samsvar med direktiv [1999/45/EF](eu/31999l0045*). I slike tilfeller skal de umiddelbart underrette vedkommende myndighet om dette.
+5\. Artikkel 81 får anvendelse.
 
-3. Der det er aktuelt, skal kravene nevnt i nr. 2 også omfattehøyeste dose per hektar ved hver behandling,tidsrommet mellom siste behandling og innhøsting,største antall behandlinger per år.
+6\. De ensartede prinsippene for vurdering og godkjenning av plantevernmidler skal inneholde kravene fastsatt i vedlegg VI til direktiv [91/414/EØF](eu/31991l0414*), og skal fastsettes i forordninger som vedtas etter framgangsmåten med rådgivende komité nevnt i artikkel 79 nr. 2 uten noen vesentlige endringer. Senere endringer av nevnte forordninger skal vedtas i samsvar med artikkel 78 nr. 1 bokstav c).
 
-4. Kravene nevnt i nr. 2 kan omfatte følgende:en begrensning, som skal angis på etiketten, med hensyn til distribusjon og bruk av plantevernmiddelet for å verne helsen til berørte distributører, brukere, andre tilstedeværende, beboere, forbrukere eller arbeidstakere, idet det tas hensyn til krav i andre fellesskapsbestemmelser,en plikt til før produktet brukes å underrette eventuelle naboer som kan være eksponert for avdrift fra sprøyting, og som har anmodet om å bli underrettet,anvisninger for riktig bruk i samsvar med prinsippene for integrert bekjempelse av skadegjørere nevnt i artikkel 14 i og vedlegg III til direktiv [2009/128/EF](eu/32009l0128*),angivelse av brukerkategorier, f.eks. yrkesbrukere og ikke-yrkesbrukere,den godkjente etiketten,intervallet mellom behandlingene,tidsrommet mellom siste behandling og inntak av planteproduktet, når dette er relevant,gjeninntredelsesperiode,emballasjestørrelse og -materiale.
+I samsvar med disse prinsipper skal det ved vurdering av plantevernmidler tas hensyn til vekselvirkningene mellom det aktive stoffet, beskyttende midler, synergister og formuleringsstoffer.
 
-1. Gyldighetsperioden skal være fastsatt i godkjenningen.Uten at det berører artikkel 44, skal gyldighetsperioden for en godkjenning ikke overstige ett år fra utløpsdatoen for godkjenningen av aktive stoffer, beskyttende midler og synergister som inngår i plantevernmiddelet, og deretter så lenge som de aktive stoffene, beskyttende midlene og synergistene som inngår i plantevernmiddelet, er godkjent.Denne perioden skal gjøre det mulig å gjennomføre undersøkelsen fastsatt i artikkel 43.
+###### Artikkel 30
 
-2. Godkjenninger kan gis for kortere perioder for å synkronisere nye vurderinger av lignende produkter med tanke på en sammenlignende vurdering av produkter som inneholder stoffer som skal erstattes, i samsvar med artikkel 50.
+Midlertidige godkjenninger
 
-1. En søker som ønsker å bringe et plantevernmiddel i omsetning, skal personlig eller via en representant søke om godkjenning eller endring av en godkjenning i hver medlemsstat der plantevernmiddelet er planlagt brakt i omsetning.
+1\. Som unntak fra artikkel 29 nr. 1 bokstav a) kan medlemsstatene for en midlertidig periode på høyst tre år tillate at plantevernmidler som inneholder et aktivt stoff som ennå ikke er godkjent, bringes i omsetning forutsatt atbeslutningen om godkjenning ikke kan ferdigbehandles innen en frist på 30 måneder fra den dato da søknaden ble godtatt, forlenget med en eventuell tilleggsperiode fastsatt i samsvar med artikkel 9 nr. 2, artikkel 11 nr. 3 eller artikkel 12 nr. 2 eller 3, ogdokumentasjonen om det aktive stoffet i henhold til artikkel 9 kan godtas til de foreslåtte bruksområder, ogmedlemsstatene fastslår at det aktive stoffet kan oppfylle kravene i artikkel 4 nr. 2 og 3, og at plantevernmiddelet kan forventes å oppfylle kravene i artikkel 29 nr. 1 bokstav b)–h), oggrenseverdier for restmengder er fastsatt i samsvar med forordning [(EF) nr. 396/2005](eu/32005r0396).
 
-2. Søknaden skal inneholdeen liste over planlagte bruksområder i hver av sonene angitt i vedlegg I, og de medlemsstater der søkeren har inngitt eller har til hensikt å inngi en søknad,et forslag om hvilken medlemsstat søkeren forventer skal vurdere søknaden i den berørte sonen. Dersom søknaden gjelder bruk i veksthus, behandling etter innhøsting, behandling av tomme lagerrom og frøbeising, skal bare én medlemsstat foreslås, og denne skal vurdere søknaden med hensyn til alle soner. I så fall skal søkeren på anmodning sende sammendraget eller den fullstendige dokumentasjonen nevnt i artikkel 8, til andre medlemsstater,der det er relevant, en kopi av eventuelle godkjenninger som allerede er gitt for nevnte plantevernmiddel i en medlemsstat,der det er relevant, en kopi av den eventuelle konklusjonen fra medlemsstaten som vurderer likeverdighet som nevnt i artikkel 38 nr. 2.
+2\. I slike tilfeller skal medlemsstatene umiddelbart underrette de øvrige medlemsstatene og Kommisjonen om sin vurdering av dokumentasjonen og av vilkårene for godkjenningen, og minst legge fram opplysningene fastsatt i artikkel 57 nr. 1.
 
-3. Søknaden skal vedlegges følgende:for det berørte plantevernmiddelet, fullstendig dokumentasjon og et sammendrag for hvert punkt i opplysningskravene for plantevernmiddelet,for hvert aktive stoff, hvert beskyttende middel og hver synergist som inngår i plantevernmiddelet, fullstendig dokumentasjon og et sammendrag for hvert punkt i opplysningskravene for det aktive stoffet, det beskyttende middelet eller synergisten,for hvert forsøk eller hver undersøkelse som omfatter virveldyr, en begrunnelse for de tiltak som er truffet for å unngå dyreforsøk og gjentakelser av forsøk og undersøkelser med virveldyr,en begrunnelse for hvorfor de framlagte forsøks- og undersøkelsesrapportene er nødvendige for den første godkjenningen eller for endringer av godkjenningsvilkårene,der det er relevant, en kopi av søknaden om en grenseverdi for restmengder som nevnt i artikkel 7 i forordning [(EF) nr. 396/2005](eu/32005r0396), eller en begrunnelse for ikke å legge fram slike opplysninger,der det er relevant for en endring av en godkjenning, en vurdering av alle opplysninger som er lagt fram i samsvar med artikkel 8 nr. 1 bokstav h),utkast til etikett.
+3\. Bestemmelsene i nr. 1 og 2 får anvendelse fra 14. juni 2016. Ved behov kan nevnte frist forlenges etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 79 nr. 4.
 
-4. Ved inngivelse av søknaden kan søkeren i henhold til artikkel 63 anmode om at visse opplysninger, herunder visse deler av dokumentasjonen, behandles fortrolig, og skal fysisk skille disse opplysningene fra de øvrige opplysningene.Søkeren skal samtidig legge fram en fullstendig liste over forsøk og undersøkelser som er framlagt i henhold til artikkel 8 nr. 2, og en liste over eventuelle anmodninger om vern av opplysninger i henhold til artikkel 59.Ved en anmodning om tilgang til opplysninger skal medlemsstaten som behandler søknaden, avgjøre hvilke opplysninger som skal behandles fortrolig.
+###### Artikkel 31
 
-5. På anmodning fra en medlemsstat skal søkeren inngi sin søknad på ett av eller alle de nasjonale eller offisielle språkene i nevnte medlemsstat.
+Godkjenningenes innhold
 
-6. På anmodning skal søkeren legge fram for medlemsstaten prøver av plantevernmiddelet og analysestandarder for dets bestanddeler.
+1\. Godkjenningen skal angi på hvilke planter eller planteprodukter og hvilke andre områder enn landbruksområder (f.eks. jernbaner, offentlige områder, lagerrom) plantevernmiddelet kan anvendes og til hvilke formål.
 
-1. Søkere skal unntas fra kravet om å legge fram forsøks- og undersøkelsesrapportene nevnt i artikkel 33 nr. 3 dersom medlemsstaten som søknaden inngis til, har de aktuelle forsøks- og undersøkelsesrapportene og søkerne viser at de har fått tilgang i samsvar med artikkel 59, 61 eller 62, eller at en eventuell verneperiode for opplysningene er utløpt.
+2\. Godkjenningen skal angi kravene for omsetning og bruk av plantevernmiddelet. Disse kravene skal minst inneholde bruksvilkårene som er nødvendige for å oppfylle vilkårene, og kravene fastsatt i forordningen om godkjenning av aktive stoffer, beskyttende midler og synergister.Plantevernmiddelet skal i godkjenningen være klassifisert i samsvar med direktiv [1999/45/EF](eu/31999l0045*). Medlemsstatene kan bestemme at godkjenningsinnehaverne skal klassifisere eller ajourføre etiketten uten unødig opphold som følge av en endring i klassifiseringen og merkingen av plantevernmiddelet i samsvar med direktiv [1999/45/EF](eu/31999l0045*). I slike tilfeller skal de umiddelbart underrette vedkommende myndighet om dette.
 
-2. Søkere som omfattes av nr. 1, skal imidlertid legge fram følgende opplysninger:alle nødvendige opplysninger for å identifisere plantevernmiddelet, herunder dets fullstendige sammensetning, samt en erklæring om at ingen uakseptable formuleringsstoffer er anvendt,opplysningene som er nødvendige for å identifisere det aktive stoffet, det beskyttende middelet eller synergisten, dersom disse er godkjent, og for å fastslå om vilkårene for godkjenning er oppfylt og om de eventuelt oppfyller kravene i artikkel 29 nr. 1 bokstav b),på anmodning fra den berørte medlemsstaten, opplysningene som er nødvendige for å vise at plantevernmiddelet har virkninger som kan sammenlignes med plantevernmiddelet som de dokumenterer at de har fått tilgang til vernede opplysninger om.
+3\. Der det er aktuelt, skal kravene nevnt i nr. 2 også omfattehøyeste dose per hektar ved hver behandling,tidsrommet mellom siste behandling og innhøsting,største antall behandlinger per år.
+
+4\. Kravene nevnt i nr. 2 kan omfatte følgende:en begrensning, som skal angis på etiketten, med hensyn til distribusjon og bruk av plantevernmiddelet for å verne helsen til berørte distributører, brukere, andre tilstedeværende, beboere, forbrukere eller arbeidstakere, idet det tas hensyn til krav i andre fellesskapsbestemmelser,en plikt til før produktet brukes å underrette eventuelle naboer som kan være eksponert for avdrift fra sprøyting, og som har anmodet om å bli underrettet,anvisninger for riktig bruk i samsvar med prinsippene for integrert bekjempelse av skadegjørere nevnt i artikkel 14 i og vedlegg III til direktiv [2009/128/EF](eu/32009l0128*),angivelse av brukerkategorier, f.eks. yrkesbrukere og ikke-yrkesbrukere,den godkjente etiketten,intervallet mellom behandlingene,tidsrommet mellom siste behandling og inntak av planteproduktet, når dette er relevant,gjeninntredelsesperiode,emballasjestørrelse og -materiale.
+
+###### Artikkel 32
+
+Varighet
+
+1\. Gyldighetsperioden skal være fastsatt i godkjenningen.Uten at det berører artikkel 44, skal gyldighetsperioden for en godkjenning ikke overstige ett år fra utløpsdatoen for godkjenningen av aktive stoffer, beskyttende midler og synergister som inngår i plantevernmiddelet, og deretter så lenge som de aktive stoffene, beskyttende midlene og synergistene som inngår i plantevernmiddelet, er godkjent.Denne perioden skal gjøre det mulig å gjennomføre undersøkelsen fastsatt i artikkel 43.
+
+2\. Godkjenninger kan gis for kortere perioder for å synkronisere nye vurderinger av lignende produkter med tanke på en sammenlignende vurdering av produkter som inneholder stoffer som skal erstattes, i samsvar med artikkel 50.
+
+###### Underavsnitt 2
+
+Framgangsmåte
+
+###### Artikkel 33
+
+Søknad om godkjenning eller endring av en godkjenning
+
+1\. En søker som ønsker å bringe et plantevernmiddel i omsetning, skal personlig eller via en representant søke om godkjenning eller endring av en godkjenning i hver medlemsstat der plantevernmiddelet er planlagt brakt i omsetning.
+
+2\. Søknaden skal inneholdeen liste over planlagte bruksområder i hver av sonene angitt i vedlegg I, og de medlemsstater der søkeren har inngitt eller har til hensikt å inngi en søknad,et forslag om hvilken medlemsstat søkeren forventer skal vurdere søknaden i den berørte sonen. Dersom søknaden gjelder bruk i veksthus, behandling etter innhøsting, behandling av tomme lagerrom og frøbeising, skal bare én medlemsstat foreslås, og denne skal vurdere søknaden med hensyn til alle soner. I så fall skal søkeren på anmodning sende sammendraget eller den fullstendige dokumentasjonen nevnt i artikkel 8, til andre medlemsstater,der det er relevant, en kopi av eventuelle godkjenninger som allerede er gitt for nevnte plantevernmiddel i en medlemsstat,der det er relevant, en kopi av den eventuelle konklusjonen fra medlemsstaten som vurderer likeverdighet som nevnt i artikkel 38 nr. 2.
+
+3\. Søknaden skal vedlegges følgende:for det berørte plantevernmiddelet, fullstendig dokumentasjon og et sammendrag for hvert punkt i opplysningskravene for plantevernmiddelet,for hvert aktive stoff, hvert beskyttende middel og hver synergist som inngår i plantevernmiddelet, fullstendig dokumentasjon og et sammendrag for hvert punkt i opplysningskravene for det aktive stoffet, det beskyttende middelet eller synergisten,for hvert forsøk eller hver undersøkelse som omfatter virveldyr, en begrunnelse for de tiltak som er truffet for å unngå dyreforsøk og gjentakelser av forsøk og undersøkelser med virveldyr,en begrunnelse for hvorfor de framlagte forsøks- og undersøkelsesrapportene er nødvendige for den første godkjenningen eller for endringer av godkjenningsvilkårene,der det er relevant, en kopi av søknaden om en grenseverdi for restmengder som nevnt i artikkel 7 i forordning [(EF) nr. 396/2005](eu/32005r0396), eller en begrunnelse for ikke å legge fram slike opplysninger,der det er relevant for en endring av en godkjenning, en vurdering av alle opplysninger som er lagt fram i samsvar med artikkel 8 nr. 1 bokstav h),utkast til etikett.
+
+4\. Ved inngivelse av søknaden kan søkeren i henhold til artikkel 63 anmode om at visse opplysninger, herunder visse deler av dokumentasjonen, behandles fortrolig, og skal fysisk skille disse opplysningene fra de øvrige opplysningene.Søkeren skal samtidig legge fram en fullstendig liste over forsøk og undersøkelser som er framlagt i henhold til artikkel 8 nr. 2, og en liste over eventuelle anmodninger om vern av opplysninger i henhold til artikkel 59.Ved en anmodning om tilgang til opplysninger skal medlemsstaten som behandler søknaden, avgjøre hvilke opplysninger som skal behandles fortrolig.
+
+5\. På anmodning fra en medlemsstat skal søkeren inngi sin søknad på ett av eller alle de nasjonale eller offisielle språkene i nevnte medlemsstat.
+
+6\. På anmodning skal søkeren legge fram for medlemsstaten prøver av plantevernmiddelet og analysestandarder for dets bestanddeler.
+
+###### Artikkel 34
+
+Unntak fra kravet om å sende inn undersøkelser
+
+1\. Søkere skal unntas fra kravet om å legge fram forsøks- og undersøkelsesrapportene nevnt i artikkel 33 nr. 3 dersom medlemsstaten som søknaden inngis til, har de aktuelle forsøks- og undersøkelsesrapportene og søkerne viser at de har fått tilgang i samsvar med artikkel 59, 61 eller 62, eller at en eventuell verneperiode for opplysningene er utløpt.
+
+2\. Søkere som omfattes av nr. 1, skal imidlertid legge fram følgende opplysninger:alle nødvendige opplysninger for å identifisere plantevernmiddelet, herunder dets fullstendige sammensetning, samt en erklæring om at ingen uakseptable formuleringsstoffer er anvendt,opplysningene som er nødvendige for å identifisere det aktive stoffet, det beskyttende middelet eller synergisten, dersom disse er godkjent, og for å fastslå om vilkårene for godkjenning er oppfylt og om de eventuelt oppfyller kravene i artikkel 29 nr. 1 bokstav b),på anmodning fra den berørte medlemsstaten, opplysningene som er nødvendige for å vise at plantevernmiddelet har virkninger som kan sammenlignes med plantevernmiddelet som de dokumenterer at de har fått tilgang til vernede opplysninger om.
+
+###### Artikkel 35
+
+Medlemsstat som behandler søknaden
 
 Søknaden skal behandles av medlemsstaten som søkeren foreslår, med mindre en annen medlemsstat i samme sone samtykker i å behandle den. Medlemsstaten som skal behandle søknaden, skal underrette søkeren om dette.
 
@@ -727,311 +947,427 @@ De øvrige medlemsstatene i den sonen en søknad er inngitt i, skal ikke arbeide
 
 Dersom en søknad er inngitt i mer enn én sone, skal medlemsstatene som behandler søknaden, bli enige om vurderingen av opplysninger som ikke gjelder miljø- eller landbruksforhold.
 
-1. Medlemsstaten som behandler søknaden, skal foreta en uavhengig, objektiv og åpen vurdering ut fra den foreliggende vitenskapelige og tekniske kunnskap på grunnlag av veiledningsdokumentene som er tilgjengelige på søknadstidspunktet. Den skal gi alle medlemsstater i samme sone anledning til å framlegge merknader som skal tas i betraktning ved vurderingen.Den skal anvende de ensartede prinsippene for vurdering og godkjenning av plantevernmidler som er nevnt i artikkel 29 nr. 6, for å fastslå, i den grad det er mulig, om plantevernmiddelet oppfyller kravene i artikkel 29 i samme sone, dersom det brukes i samsvar med artikkel 55 og under realistiske bruksforhold.Medlemsstaten som behandler søknaden, skal gjøre sin vurdering tilgjengelig for de øvrige medlemsstatene i samme sone. Vurderingsrapportens format skal fastsettes etter framgangsmåten med rådgivende komité nevnt i artikkel 79 nr. 2.
+###### Artikkel 36
 
-2. De berørte medlemsstatene skal i samsvar med artikkel 31 og 32 innvilge eller avslå søknader om godkjenning på grunnlag av konklusjonene i vurderingen fra medlemsstaten som har behandlet søknaden.
+Behandling med sikte på godkjenning
 
-3. Som unntak fra nr. 2 og med forbehold for fellesskapsretten kan egnede vilkår fastsettes når det gjelder kravene nevnt i artikkel 31 nr. 3 og 4 og andre risikoreduserende tiltak som følger av de særlige bruksvilkårene.Dersom en medlemsstats bekymring for dyrs eller menneskers helse eller miljøet ikke kan avhjelpes ved innføring av de nasjonale risikoreduserende tiltakene nevnt i første ledd, kan en medlemsstat avslå en søknad om godkjenning av plantevernmiddelet på sitt territorium dersom den på grunn av sine særlige miljø- eller landbruksforhold har en behørig begrunnelse for å mene at det berørte produktet likevel utgjør en uakseptabel risiko for menneskers eller dyrs helse eller miljøet.Nevnte medlemsstat skal umiddelbart underrette søkeren og Kommisjonen om sin beslutning og legge fram en teknisk eller vitenskapelig begrunnelse for dette.Medlemsstatene skal gi mulighet til å klage beslutningen om å avslå godkjenning for slike produkter inn for nasjonale domstoler eller andre klageinstanser.
+1\. Medlemsstaten som behandler søknaden, skal foreta en uavhengig, objektiv og åpen vurdering ut fra den foreliggende vitenskapelige og tekniske kunnskap på grunnlag av veiledningsdokumentene som er tilgjengelige på søknadstidspunktet. Den skal gi alle medlemsstater i samme sone anledning til å framlegge merknader som skal tas i betraktning ved vurderingen.Den skal anvende de ensartede prinsippene for vurdering og godkjenning av plantevernmidler som er nevnt i artikkel 29 nr. 6, for å fastslå, i den grad det er mulig, om plantevernmiddelet oppfyller kravene i artikkel 29 i samme sone, dersom det brukes i samsvar med artikkel 55 og under realistiske bruksforhold.Medlemsstaten som behandler søknaden, skal gjøre sin vurdering tilgjengelig for de øvrige medlemsstatene i samme sone. Vurderingsrapportens format skal fastsettes etter framgangsmåten med rådgivende komité nevnt i artikkel 79 nr. 2.
 
-1. Medlemsstaten som behandler søknaden, skal innen tolv måneder etter at den mottok søknaden, avgjøre om kravene til godkjenning er oppfylt.Dersom medlemsstaten trenger tilleggsopplysninger, skal den fastsette en frist for når søkeren skal legge disse fram. I så tilfelle skal tolvmånedersfristen forlenges med tilleggsperioden som innvilges av rapporterende medlemsstat. Tilleggsperioden skal være på høyst seks måneder og skal opphøre når rapporterende medlemsstat mottar tilleggsopplysningene. Dersom søkeren ved utløpet av denne fristen ikke har lagt fram elementene som mangler, skal medlemsstaten underrette søkeren om at søknaden ikke kan godtas.
+2\. De berørte medlemsstatene skal i samsvar med artikkel 31 og 32 innvilge eller avslå søknader om godkjenning på grunnlag av konklusjonene i vurderingen fra medlemsstaten som har behandlet søknaden.
 
-2. Fristene i nr. 1 skal utsettes midlertidig under anvendelsen av framgangsmåten fastsatt i artikkel 38.
+3\. Som unntak fra nr. 2 og med forbehold for fellesskapsretten kan egnede vilkår fastsettes når det gjelder kravene nevnt i artikkel 31 nr. 3 og 4 og andre risikoreduserende tiltak som følger av de særlige bruksvilkårene.Dersom en medlemsstats bekymring for dyrs eller menneskers helse eller miljøet ikke kan avhjelpes ved innføring av de nasjonale risikoreduserende tiltakene nevnt i første ledd, kan en medlemsstat avslå en søknad om godkjenning av plantevernmiddelet på sitt territorium dersom den på grunn av sine særlige miljø- eller landbruksforhold har en behørig begrunnelse for å mene at det berørte produktet likevel utgjør en uakseptabel risiko for menneskers eller dyrs helse eller miljøet.Nevnte medlemsstat skal umiddelbart underrette søkeren og Kommisjonen om sin beslutning og legge fram en teknisk eller vitenskapelig begrunnelse for dette.Medlemsstatene skal gi mulighet til å klage beslutningen om å avslå godkjenning for slike produkter inn for nasjonale domstoler eller andre klageinstanser.
 
-3. Når det gjelder en søknad om godkjenning av et plantevernmiddel som inneholder et aktivt stoff som ennå ikke er godkjent, skal medlemsstaten som behandler søknaden, påbegynne sin vurdering så snart den mottar utkastet til vurderingsrapport nevnt i artikkel 12 nr. 1. Dersom søknaden gjelder det samme plantevernmiddelet og de samme bruksområdene som angitt i dokumentasjonen nevnt i artikkel 8, skal medlemsstaten treffe beslutning om søknaden innen seks måneder etter at det aktive stoffet er blitt godkjent.
+###### Artikkel 37
 
-4. De øvrige berørte medlemsstatene skal innen 120 dager etter mottak av vurderingsrapporten og kopien av godkjenningen fra medlemsstaten som behandler søknaden, treffe beslutning om søknaden som nevnt i artikkel 36 nr. 2 og 3. *«For EFTA-landene skal fristen på 120 dager tidligst begynne å løpe fra den dato når forordningene som godkjenner de aktive stoffene i plantevernmiddelet tas inn i EØS-avtalen.»*
+Frist for behandling av søknad
 
-1. Dersom det for et aktivt stoff, et beskyttende middel eller en synergist er nødvendig å fastslå om en annen kilde, eller for samme kilde en endring av produksjonsprosessen og/eller -stedet, oppfyller kravene i artikkel 29 nr. 1 bokstav b), skal dette vurderes av medlemsstaten som har fungert som rapporterende medlemsstat for det aktive stoffet, det beskyttende middelet eller synergisten som nevnt i artikkel 7 nr. 1, med mindre medlemsstaten som behandler søknaden som nevnt i artikkel 35, samtykker i å vurdere likeverdigheten. Søkeren skal legge fram alle nødvendige opplysninger for medlemsstaten som vurderer likeverdighet.
+1\. Medlemsstaten som behandler søknaden, skal innen tolv måneder etter at den mottok søknaden, avgjøre om kravene til godkjenning er oppfylt.Dersom medlemsstaten trenger tilleggsopplysninger, skal den fastsette en frist for når søkeren skal legge disse fram. I så tilfelle skal tolvmånedersfristen forlenges med tilleggsperioden som innvilges av rapporterende medlemsstat. Tilleggsperioden skal være på høyst seks måneder og skal opphøre når rapporterende medlemsstat mottar tilleggsopplysningene. Dersom søkeren ved utløpet av denne fristen ikke har lagt fram elementene som mangler, skal medlemsstaten underrette søkeren om at søknaden ikke kan godtas.
 
-2. Etter å ha gitt søkeren mulighet til å framlegge sine merknader, som søkeren også skal oversende til den rapporterende medlemsstaten eller eventuelt medlemsstaten som behandler søknaden, skal medlemsstaten utarbeide en likeverdighetsrapport innen 60 dager etter å ha mottatt søknaden og skal oversende rapporten til Kommisjonen, de øvrige medlemsstatene og søkeren.
+2\. Fristene i nr. 1 skal utsettes midlertidig under anvendelsen av framgangsmåten fastsatt i artikkel 38.
 
-3. Dersom det foreligger en positiv konklusjon om likeverdighet og det ikke er reist innvendinger mot denne konklusjonen, skal artikkel 19 nr. 1 bokstav b) anses som overholdt. Dersom en medlemsstat som behandler søknaden, ikke er enig i konklusjonen fra rapporterende medlemsstat eller omvendt, skal den underrette søkeren, de øvrige medlemsstatene og Kommisjonen og gi en begrunnelse for dette.De berørte medlemsstatene skal forsøke å komme til enighet om hvorvidt kravene i artikkel 29 nr. 1 bokstav b) er oppfylt. De skal gi søkeren mulighet til å framlegge sine merknader.
+3\. Når det gjelder en søknad om godkjenning av et plantevernmiddel som inneholder et aktivt stoff som ennå ikke er godkjent, skal medlemsstaten som behandler søknaden, påbegynne sin vurdering så snart den mottar utkastet til vurderingsrapport nevnt i artikkel 12 nr. 1. Dersom søknaden gjelder det samme plantevernmiddelet og de samme bruksområdene som angitt i dokumentasjonen nevnt i artikkel 8, skal medlemsstaten treffe beslutning om søknaden innen seks måneder etter at det aktive stoffet er blitt godkjent.
 
-4. Dersom de berørte medlemsstatene ikke kommer til enighet innen 45 dager, skal medlemsstaten som vurderer likeverdighet, legge saken fram for Kommisjonen. En beslutning om hvorvidt vilkårene nevnt i artikkel 19 nr. 1 bokstav b) er oppfylt, skal treffes etter framgangsmåten med forskriftskomité nevnt i artikkel 79 nr. 3. Fristen på 45 dager løper fra datoen da medlemsstaten som behandler søknaden om godkjenning, i samsvar med nr. 3 underretter rapporterende medlemsstat om at den ikke er enig i sistnevntes konklusjon, eller omvendt.Før slik beslutning treffes, kan Kommisjonen anmode Myndigheten om en uttalelse eller anmode om vitenskapelig eller teknisk bistand, som skal gis innen tre måneder etter anmodningen.
+4\. De øvrige berørte medlemsstatene skal innen 120 dager etter mottak av vurderingsrapporten og kopien av godkjenningen fra medlemsstaten som behandler søknaden, treffe beslutning om søknaden som nevnt i artikkel 36 nr. 2 og 3. *«For EFTA-landene skal fristen på 120 dager tidligst begynne å løpe fra den dato når forordningene som godkjenner de aktive stoffene i plantevernmiddelet tas inn i EØS-avtalen.»*
 
-5. Nærmere regler og framgangsmåter for gjennomføring av nr. 1–4 kan vedtas etter framgangsmåten med forskriftskomité nevnt i artikkel 79 nr. 3, etter samråd med Myndigheten.
+###### Artikkel 38
 
-1. Medlemsstatene skal utarbeide en saksmappe for hver søknad. Hver saksmappe skal inneholdeen kopi av søknaden,en rapport som inneholder opplysninger om vurderingen av og beslutningen med hensyn til plantevernmiddelet, der formatet for rapporten skal fastsettes etter framgangsmåten med rådgivende komité nevnt i artikkel 79 nr. 2,et register over forvaltningsvedtak som medlemsstaten har gjort med hensyn til søknaden, og over dokumentasjonen fastsatt i artikkel 33 nr. 3 og artikkel 34 sammen med et sammendrag av sistnevnte,den godkjente etiketten, dersom det er relevant.
+Vurdering av likeverdighet i henhold til artikkel 29 nr. 1 bokstav b)
 
-2. På anmodning skal medlemsstatene uten opphold gjøre tilgjengelig for de øvrige medlemsstatene, Kommisjonen og Myndigheten en saksmappe som inneholder dokumentasjonen fastsatt i nr. 1 bokstav a)–d).
+1\. Dersom det for et aktivt stoff, et beskyttende middel eller en synergist er nødvendig å fastslå om en annen kilde, eller for samme kilde en endring av produksjonsprosessen og/eller -stedet, oppfyller kravene i artikkel 29 nr. 1 bokstav b), skal dette vurderes av medlemsstaten som har fungert som rapporterende medlemsstat for det aktive stoffet, det beskyttende middelet eller synergisten som nevnt i artikkel 7 nr. 1, med mindre medlemsstaten som behandler søknaden som nevnt i artikkel 35, samtykker i å vurdere likeverdigheten. Søkeren skal legge fram alle nødvendige opplysninger for medlemsstaten som vurderer likeverdighet.
 
-3. På anmodning skal søkerne legge fram for medlemsstatene, Kommisjonen og Myndigheten en kopi av dokumentasjonen som skal innsendes sammen med søknaden i henhold til artikkel 33 nr. 3 og artikkel 34.
+2\. Etter å ha gitt søkeren mulighet til å framlegge sine merknader, som søkeren også skal oversende til den rapporterende medlemsstaten eller eventuelt medlemsstaten som behandler søknaden, skal medlemsstaten utarbeide en likeverdighetsrapport innen 60 dager etter å ha mottatt søknaden og skal oversende rapporten til Kommisjonen, de øvrige medlemsstatene og søkeren.
 
-4. Nærmere regler for gjennomføring av nr. 2 og 3 kan vedtas etter framgangsmåten med forskriftskomité nevnt i artikkel 79 nr. 3.
+3\. Dersom det foreligger en positiv konklusjon om likeverdighet og det ikke er reist innvendinger mot denne konklusjonen, skal artikkel 19 nr. 1 bokstav b) anses som overholdt. Dersom en medlemsstat som behandler søknaden, ikke er enig i konklusjonen fra rapporterende medlemsstat eller omvendt, skal den underrette søkeren, de øvrige medlemsstatene og Kommisjonen og gi en begrunnelse for dette.De berørte medlemsstatene skal forsøke å komme til enighet om hvorvidt kravene i artikkel 29 nr. 1 bokstav b) er oppfylt. De skal gi søkeren mulighet til å framlegge sine merknader.
 
-1. Innehaveren av en godkjenning som er gitt i samsvar med artikkel 29, kan søke om godkjenning av samme plantevernmiddel for samme bruksområde og for sammenlignbar landbrukspraksis i en annen medlemsstat etter framgangsmåten for gjensidig anerkjennelse, som fastsatt i dette underavsnitt, i følgende tilfeller:godkjenningen er gitt av en medlemsstat (rapporterende medlemsstat) som tilhører samme sone,godkjenningen er gitt av en medlemsstat (rapporterende medlemsstat) som tilhører en annen sone, under forutsetning av at godkjenningen som søknaden gjaldt, ikke anvendes med henblikk på gjensidig anerkjennelse i en annen medlemsstat i samme sone,godkjenningen er gitt av en medlemsstat for bruk i veksthus, for behandling etter innhøsting, for behandling av tomme lagerrom eller beholdere som brukes til lagring av planter eller planteprodukter eller for frøbeising, uansett hvilken sone den rapporterende medlemsstaten tilhører.
+4\. Dersom de berørte medlemsstatene ikke kommer til enighet innen 45 dager, skal medlemsstaten som vurderer likeverdighet, legge saken fram for Kommisjonen. En beslutning om hvorvidt vilkårene nevnt i artikkel 19 nr. 1 bokstav b) er oppfylt, skal treffes etter framgangsmåten med forskriftskomité nevnt i artikkel 79 nr. 3. Fristen på 45 dager løper fra datoen da medlemsstaten som behandler søknaden om godkjenning, i samsvar med nr. 3 underretter rapporterende medlemsstat om at den ikke er enig i sistnevntes konklusjon, eller omvendt.Før slik beslutning treffes, kan Kommisjonen anmode Myndigheten om en uttalelse eller anmode om vitenskapelig eller teknisk bistand, som skal gis innen tre måneder etter anmodningen.
 
-2. Dersom et plantevernmiddel ikke er godkjent i en medlemsstat fordi det ikke er inngitt søknad om godkjenning i nevnte medlemsstat, kan offisielle eller vitenskapelige organer som deltar i landbruksvirksomhet eller landbruksorganisasjoner, med samtykke fra godkjenningsinnehaveren søke om godkjenning for samme plantevernmiddel, for samme bruksområde og for samme landbrukspraksis i nevnte medlemsstat etter framgangsmåten for gjensidig anerkjennelse nevnt i nr. 1. I slike tilfeller må søkeren dokumentere at bruken av et slikt plantevernmiddel er av allmenn interesse i innførselsmedlemsstaten.Dersom godkjenningsinnehaveren ikke gir sitt samtykke, kan vedkommende myndighet i den berørte medlemsstaten godta søknaden med henvisning til offentlighetens interesse.
+5\. Nærmere regler og framgangsmåter for gjennomføring av nr. 1–4 kan vedtas etter framgangsmåten med forskriftskomité nevnt i artikkel 79 nr. 3, etter samråd med Myndigheten.
 
-1. Medlemsstaten som en søknad i henhold til artikkel 40 er inngitt til, skal, etter å ha behandlet søknaden og følgedokumentene nevnt i artikkel 42 nr. 1, eventuelt ut fra forholdene på sitt territorium, godkjenne det berørte plantevernmiddelet på samme vilkår som medlemsstaten som behandler søknaden, med mindre artikkel 36 nr. 3 får anvendelse.
+###### Artikkel 39
 
-2. Som unntak fra nr. 1 kan medlemsstaten godkjenne plantevernmiddelet dersomdet er søkt om godkjenning i henhold til artikkel 40 nr. 1 bokstav b),det inneholder et stoff som skal erstattes,artikkel 30 har fått anvendelse ellerdet inneholder et stoff som er godkjent i samsvar med artikkel 4 nr. 7.
+Rapportering og utveksling av opplysninger om søknader om godkjenning
 
-1. Søknaden skal vedlegges følgende:en kopi av godkjenningen gitt av den rapporterende medlemsstaten samt en oversettelse av godkjenningen til et offisielt språk i medlemsstaten som mottar søknaden,en formell erklæring om at plantevernmiddelet er identisk med det som er godkjent av den rapporterende medlemsstaten,på medlemsstatens anmodning fullstendig dokumentasjon eller et sammendrag i henhold til artikkel 33 nr. 3,en vurderingsrapport fra den rapporterende medlemsstaten som inneholder opplysninger om vurderingen og beslutningen med hensyn til plantevernmiddelet.
+1\. Medlemsstatene skal utarbeide en saksmappe for hver søknad. Hver saksmappe skal inneholdeen kopi av søknaden,en rapport som inneholder opplysninger om vurderingen av og beslutningen med hensyn til plantevernmiddelet, der formatet for rapporten skal fastsettes etter framgangsmåten med rådgivende komité nevnt i artikkel 79 nr. 2,et register over forvaltningsvedtak som medlemsstaten har gjort med hensyn til søknaden, og over dokumentasjonen fastsatt i artikkel 33 nr. 3 og artikkel 34 sammen med et sammendrag av sistnevnte,den godkjente etiketten, dersom det er relevant.
 
-2. Medlemsstaten som søknaden i henhold til artikkel 40 er inngitt til, skal avgjøre søknaden innen 120 dager. *«For EFTA-landene skal fristen på 120 dager tidligst begynne å løpe fra den dato når forordningene som godkjenner de aktive stoffene i plantevernmiddelet tas inn i EØS-avtalen.»*
+2\. På anmodning skal medlemsstatene uten opphold gjøre tilgjengelig for de øvrige medlemsstatene, Kommisjonen og Myndigheten en saksmappe som inneholder dokumentasjonen fastsatt i nr. 1 bokstav a)–d).
 
-3. På anmodning fra en medlemsstat skal søkeren inngi sin søknad på ett av eller alle de nasjonale eller offisielle språkene i nevnte medlemsstat.
+3\. På anmodning skal søkerne legge fram for medlemsstatene, Kommisjonen og Myndigheten en kopi av dokumentasjonen som skal innsendes sammen med søknaden i henhold til artikkel 33 nr. 3 og artikkel 34.
 
-1. En godkjenning skal fornyes etter søknad fra godkjenningsinnehaveren, forutsatt at kravene nevnt i artikkel 29 fortsatt er oppfylt.
+4\. Nærmere regler for gjennomføring av nr. 2 og 3 kan vedtas etter framgangsmåten med forskriftskomité nevnt i artikkel 79 nr. 3.
 
-2. Søkeren skal innen tre måneder fra fornyelsen av godkjenningen av et aktivt stoff, et beskyttende middel eller en synergist som inngår i plantevernmiddelet, legge fram følgende opplysninger:en kopi av godkjenningen av plantevernmiddelet,eventuelle nye opplysninger som er nødvendige som følge av endringer i opplysningskravene eller kriteriene,dokumentasjon på at de nye opplysningene er sendt inn fordi nevnte opplysningskrav eller kriterier ikke gjaldt da godkjenningen av plantevernmiddelet ble gitt, eller ikke var nødvendige for å endre vilkårene for godkjenning,alle opplysninger som er nødvendige for å vise at plantevernmiddelet oppfyller kravene fastsatt i forordningen om fornyelse av godkjenningen av det aktive stoffet, det beskyttende middelet eller synergisten som inngår i dette,en rapport om overvåkingsopplysninger, dersom godkjenningen har vært betinget av overvåking.
+###### Underavsnitt 3
 
-3. Medlemsstatene skal kontrollere at alle plantevernmidler som inneholder det aktive stoffet, det beskyttende middelet eller synergisten, oppfyller alle vilkår og begrensninger som fastsatt i forordningen om fornyelse av godkjenningen i henhold til artikkel 20.Medlemsstaten nevnt i artikkel 35 skal innenfor hver sone samordne kontrollen av at kravene er oppfylt, og vurderingen av de framlagte opplysningene for alle medlemsstater innenfor denne sonen.
+Gjensidig anerkjennelse av godkjenninger
 
-4. Retningslinjer for tilrettelegging av kontroller av at kravene er oppfylt, kan fastsettes etter framgangsmåten med rådgivende komité nevnt i artikkel 79 nr. 2.
+###### Artikkel 40
 
-5. Medlemsstatene skal treffe beslutning om fornyelse av godkjenningen av et plantevernmiddel senest tolv måneder etter fornyelsen av godkjenningen av det aktive stoffet, det beskyttende middelet eller synergisten som inngår i produktet.
+Gjensidig anerkjennelse
 
-6. Dersom det på grunn av forhold som ligger utenfor godkjenningsinnehaverens kontroll, ikke treffes noen beslutning om fornyelse av godkjenningen før den utløper, skal den berørte medlemsstaten forlenge godkjenningen så lenge det er nødvendig for å fullføre behandlingen og treffe beslutning om fornyelse.
+1\. Innehaveren av en godkjenning som er gitt i samsvar med artikkel 29, kan søke om godkjenning av samme plantevernmiddel for samme bruksområde og for sammenlignbar landbrukspraksis i en annen medlemsstat etter framgangsmåten for gjensidig anerkjennelse, som fastsatt i dette underavsnitt, i følgende tilfeller:godkjenningen er gitt av en medlemsstat (rapporterende medlemsstat) som tilhører samme sone,godkjenningen er gitt av en medlemsstat (rapporterende medlemsstat) som tilhører en annen sone, under forutsetning av at godkjenningen som søknaden gjaldt, ikke anvendes med henblikk på gjensidig anerkjennelse i en annen medlemsstat i samme sone,godkjenningen er gitt av en medlemsstat for bruk i veksthus, for behandling etter innhøsting, for behandling av tomme lagerrom eller beholdere som brukes til lagring av planter eller planteprodukter eller for frøbeising, uansett hvilken sone den rapporterende medlemsstaten tilhører.
 
-1. Medlemsstatene kan til enhver tid foreta en ny vurdering av en godkjenning dersom det er indikasjoner på at et krav nevnt i artikkel 29 ikke lenger er oppfylt.En medlemsstat skal foreta en ny vurdering av en godkjenning dersom den fastslår at det er fare for at målene i artikkel 4 nr. 1 bokstav a) iv) og bokstav b) i) og artikkel 7 nr. 2 og 3 i direktiv [2000/60/EF](eu/32000l0060) ikke vil nås.
+2\. Dersom et plantevernmiddel ikke er godkjent i en medlemsstat fordi det ikke er inngitt søknad om godkjenning i nevnte medlemsstat, kan offisielle eller vitenskapelige organer som deltar i landbruksvirksomhet eller landbruksorganisasjoner, med samtykke fra godkjenningsinnehaveren søke om godkjenning for samme plantevernmiddel, for samme bruksområde og for samme landbrukspraksis i nevnte medlemsstat etter framgangsmåten for gjensidig anerkjennelse nevnt i nr. 1. I slike tilfeller må søkeren dokumentere at bruken av et slikt plantevernmiddel er av allmenn interesse i innførselsmedlemsstaten.Dersom godkjenningsinnehaveren ikke gir sitt samtykke, kan vedkommende myndighet i den berørte medlemsstaten godta søknaden med henvisning til offentlighetens interesse.
 
-2. Dersom en medlemsstat har til hensikt å tilbakekalle eller endre en godkjenning, skal den underrette godkjenningsinnehaveren og gi vedkommende anledning til å legge fram merknader eller ytterligere opplysninger.
+###### Artikkel 41
 
-3. Medlemsstaten skal tilbakekalle eller endre godkjenningen dersomkravene nevnt i artikkel 29 ikke eller ikke lenger er oppfylt,det ble gitt uriktige eller villedende opplysninger om forholdene som ligger til grunn for godkjenningen,et vilkår i godkjenningen ikke er oppfylt,bruksmåte og mengder som brukes, kan endres på grunnlag av den vitenskapelige og tekniske utvikling, ellergodkjenningsinnehaveren ikke oppfyller sine forpliktelser i henhold til denne forordning.
+Godkjenning
 
-4. Dersom en medlemsstat tilbakekaller eller endrer en godkjenning i samsvar med nr. 3, skal den umiddelbart underrette innehaveren av godkjenningen, de øvrige medlemsstatene, Kommisjonen og Myndigheten om dette. De andre medlemsstatene som tilhører samme sone, skal tilbakekalle eller endre godkjenningen tilsvarende samtidig som de tar hensyn til nasjonale forhold og risikoreduserende tiltak, unntatt i tilfeller der artikkel 36 nr. 3 annet, tredje eller fjerde ledd har fått anvendelse. Artikkel 46 får anvendelse når det er relevant.
+1\. Medlemsstaten som en søknad i henhold til artikkel 40 er inngitt til, skal, etter å ha behandlet søknaden og følgedokumentene nevnt i artikkel 42 nr. 1, eventuelt ut fra forholdene på sitt territorium, godkjenne det berørte plantevernmiddelet på samme vilkår som medlemsstaten som behandler søknaden, med mindre artikkel 36 nr. 3 får anvendelse.
 
-1. En godkjenning kan tilbakekalles eller endres på anmodning fra innehaveren av godkjenningen, som skal begrunne sin anmodning.
+2\. Som unntak fra nr. 1 kan medlemsstaten godkjenne plantevernmiddelet dersomdet er søkt om godkjenning i henhold til artikkel 40 nr. 1 bokstav b),det inneholder et stoff som skal erstattes,artikkel 30 har fått anvendelse ellerdet inneholder et stoff som er godkjent i samsvar med artikkel 4 nr. 7.
 
-2. En godkjenning kan endres bare dersom det fastslås at kravene nevnt i artikkel 29 fortsatt er oppfylt.
+###### Artikkel 42
 
-3. Artikkel 46 får anvendelse når det er relevant.
+Framgangsmåte
+
+1\. Søknaden skal vedlegges følgende:en kopi av godkjenningen gitt av den rapporterende medlemsstaten samt en oversettelse av godkjenningen til et offisielt språk i medlemsstaten som mottar søknaden,en formell erklæring om at plantevernmiddelet er identisk med det som er godkjent av den rapporterende medlemsstaten,på medlemsstatens anmodning fullstendig dokumentasjon eller et sammendrag i henhold til artikkel 33 nr. 3,en vurderingsrapport fra den rapporterende medlemsstaten som inneholder opplysninger om vurderingen og beslutningen med hensyn til plantevernmiddelet.
+
+2\. Medlemsstaten som søknaden i henhold til artikkel 40 er inngitt til, skal avgjøre søknaden innen 120 dager. *«For EFTA-landene skal fristen på 120 dager tidligst begynne å løpe fra den dato når forordningene som godkjenner de aktive stoffene i plantevernmiddelet tas inn i EØS-avtalen.»*
+
+3\. På anmodning fra en medlemsstat skal søkeren inngi sin søknad på ett av eller alle de nasjonale eller offisielle språkene i nevnte medlemsstat.
+
+###### Underavsnitt 4
+
+Fornyelse, tilbakekalling og endring
+
+###### Artikkel 43
+
+Fornyelse av godkjenning
+
+1\. En godkjenning skal fornyes etter søknad fra godkjenningsinnehaveren, forutsatt at kravene nevnt i artikkel 29 fortsatt er oppfylt.
+
+2\. Søkeren skal innen tre måneder fra fornyelsen av godkjenningen av et aktivt stoff, et beskyttende middel eller en synergist som inngår i plantevernmiddelet, legge fram følgende opplysninger:en kopi av godkjenningen av plantevernmiddelet,eventuelle nye opplysninger som er nødvendige som følge av endringer i opplysningskravene eller kriteriene,dokumentasjon på at de nye opplysningene er sendt inn fordi nevnte opplysningskrav eller kriterier ikke gjaldt da godkjenningen av plantevernmiddelet ble gitt, eller ikke var nødvendige for å endre vilkårene for godkjenning,alle opplysninger som er nødvendige for å vise at plantevernmiddelet oppfyller kravene fastsatt i forordningen om fornyelse av godkjenningen av det aktive stoffet, det beskyttende middelet eller synergisten som inngår i dette,en rapport om overvåkingsopplysninger, dersom godkjenningen har vært betinget av overvåking.
+
+3\. Medlemsstatene skal kontrollere at alle plantevernmidler som inneholder det aktive stoffet, det beskyttende middelet eller synergisten, oppfyller alle vilkår og begrensninger som fastsatt i forordningen om fornyelse av godkjenningen i henhold til artikkel 20.Medlemsstaten nevnt i artikkel 35 skal innenfor hver sone samordne kontrollen av at kravene er oppfylt, og vurderingen av de framlagte opplysningene for alle medlemsstater innenfor denne sonen.
+
+4\. Retningslinjer for tilrettelegging av kontroller av at kravene er oppfylt, kan fastsettes etter framgangsmåten med rådgivende komité nevnt i artikkel 79 nr. 2.
+
+5\. Medlemsstatene skal treffe beslutning om fornyelse av godkjenningen av et plantevernmiddel senest tolv måneder etter fornyelsen av godkjenningen av det aktive stoffet, det beskyttende middelet eller synergisten som inngår i produktet.
+
+6\. Dersom det på grunn av forhold som ligger utenfor godkjenningsinnehaverens kontroll, ikke treffes noen beslutning om fornyelse av godkjenningen før den utløper, skal den berørte medlemsstaten forlenge godkjenningen så lenge det er nødvendig for å fullføre behandlingen og treffe beslutning om fornyelse.
+
+###### Artikkel 44
+
+Tilbakekalling eller endring av godkjenning
+
+1\. Medlemsstatene kan til enhver tid foreta en ny vurdering av en godkjenning dersom det er indikasjoner på at et krav nevnt i artikkel 29 ikke lenger er oppfylt.En medlemsstat skal foreta en ny vurdering av en godkjenning dersom den fastslår at det er fare for at målene i artikkel 4 nr. 1 bokstav a) iv) og bokstav b) i) og artikkel 7 nr. 2 og 3 i direktiv [2000/60/EF](eu/32000l0060) ikke vil nås.
+
+2\. Dersom en medlemsstat har til hensikt å tilbakekalle eller endre en godkjenning, skal den underrette godkjenningsinnehaveren og gi vedkommende anledning til å legge fram merknader eller ytterligere opplysninger.
+
+3\. Medlemsstaten skal tilbakekalle eller endre godkjenningen dersomkravene nevnt i artikkel 29 ikke eller ikke lenger er oppfylt,det ble gitt uriktige eller villedende opplysninger om forholdene som ligger til grunn for godkjenningen,et vilkår i godkjenningen ikke er oppfylt,bruksmåte og mengder som brukes, kan endres på grunnlag av den vitenskapelige og tekniske utvikling, ellergodkjenningsinnehaveren ikke oppfyller sine forpliktelser i henhold til denne forordning.
+
+4\. Dersom en medlemsstat tilbakekaller eller endrer en godkjenning i samsvar med nr. 3, skal den umiddelbart underrette innehaveren av godkjenningen, de øvrige medlemsstatene, Kommisjonen og Myndigheten om dette. De andre medlemsstatene som tilhører samme sone, skal tilbakekalle eller endre godkjenningen tilsvarende samtidig som de tar hensyn til nasjonale forhold og risikoreduserende tiltak, unntatt i tilfeller der artikkel 36 nr. 3 annet, tredje eller fjerde ledd har fått anvendelse. Artikkel 46 får anvendelse når det er relevant.
+
+###### Artikkel 45
+
+Tilbakekalling eller endring av godkjenning på anmodning fra godkjenningsinnehaver
+
+1\. En godkjenning kan tilbakekalles eller endres på anmodning fra innehaveren av godkjenningen, som skal begrunne sin anmodning.
+
+2\. En godkjenning kan endres bare dersom det fastslås at kravene nevnt i artikkel 29 fortsatt er oppfylt.
+
+3\. Artikkel 46 får anvendelse når det er relevant.
+
+###### Artikkel 46
+
+Avviklingsperiode
 
 Dersom en medlemsstat tilbakekaller eller endrer en godkjenning eller ikke fornyer den, kan den innvilge en avviklingsperiode for disponering, lagring, omsetning og bruk av eksisterende lagre.
 
 Dersom årsakene til tilbakekalling, endring eller manglende fornyelse av godkjenningen ikke er knyttet til vern av menneskers og dyrs helse eller miljøet, skal avviklingsperioden være begrenset og skal ikke overstige seks måneder for salg og distribusjon og ytterligere ett år for disponering, lagring og bruk av eksisterende lagre av de berørte plantevernmidlene.
 
-1. Dersom alle aktive stoffer som inngår i et plantevernmiddel, er aktive stoffer med lav risiko som nevnt i artikkel 22, skal nevnte produkt godkjennes som et plantevernmiddel med lav risiko, forutsatt at ingen særlige risikoreduserende tiltak er nødvendige etter en risikovurdering. Plantevernmiddelet skal også oppfylle følgende krav:de aktive stoffene, de beskyttende midlene og synergistene med lav risiko som inngår i det, er blitt godkjent i henhold til [kapittel II](forskrift/2015-05-06-455/kapii),det inneholder ikke et potensielt skadelig stoff,det er tilstrekkelig effektivt,det forårsaker ikke unødig lidelse eller smerte hos virveldyr som skal bekjempes,det oppfyller kravene i artikkel 29 nr. 1 bokstav b), c) og f)-i).Disse produktene kalles «plantevernmidler med lav risiko».
+###### Underavsnitt 5
 
-2. En søknad om godkjenning av et plantevernmiddel med lav risiko skal vise at kravene fastsatt i nr. 1 er oppfylt, og søkeren skal, sammen med søknaden, sende inn fullstendig dokumentasjon og et sammendrag for hvert punkt i opplysningskravene for det aktive stoffet og plantevernmiddelet.
+Særlige tilfeller
 
-3. Medlemsstaten skal innen 120 dager beslutte om søknaden om godkjenning av et plantevernmiddel med lav risiko skal godkjennes. *«For EFTA-landene skal fristen på 120 dager tidligst begynne å løpe fra den dato når forordningene som godkjenner de aktive stoffene i lavrisiko-preparatet tas inn i EØS-avtalen.»*Dersom medlemsstaten trenger tilleggsopplysninger, skal den fastsette en frist for når søkeren skal legge disse fram. I så tilfelle skal den angitte frist forlenges med tilleggsperioden som innvilges av rapporterende medlemsstat.Tilleggsperioden skal være på høyst seks måneder og skal opphøre når rapporterende medlemsstat mottar tilleggsopplysningene. Dersom søkeren ved utløpet av denne fristen ikke har lagt fram elementene som mangler, skal medlemsstaten underrette søkeren om at søknaden ikke kan godtas.
+###### Artikkel 47
 
-4. Med mindre annet er angitt, får alle bestemmelser om godkjenninger i henhold til denne forordning anvendelse.
+Omsetning av plantevernmidler med lav risiko
 
-1. Et plantevernmiddel som inneholder en organisme som omfattes av direktiv [2001/18/EF](eu/32001l0018), skal i tillegg til vurderingen i henhold til dette kapittel undersøkes med tanke på genmodifiseringen i samsvar med nevnte direktiv.En godkjenning i henhold til denne forordning skal ikke gis for et slikt plantevernmiddel med mindre det er gitt en skriftlig tillatelse, som nevnt i artikkel 19 i direktiv [2001/18/EF](eu/32001l0018).
+1\. Dersom alle aktive stoffer som inngår i et plantevernmiddel, er aktive stoffer med lav risiko som nevnt i artikkel 22, skal nevnte produkt godkjennes som et plantevernmiddel med lav risiko, forutsatt at ingen særlige risikoreduserende tiltak er nødvendige etter en risikovurdering. Plantevernmiddelet skal også oppfylle følgende krav:de aktive stoffene, de beskyttende midlene og synergistene med lav risiko som inngår i det, er blitt godkjent i henhold til [kapittel II](forskrift/2015-05-06-455/kapii),det inneholder ikke et potensielt skadelig stoff,det er tilstrekkelig effektivt,det forårsaker ikke unødig lidelse eller smerte hos virveldyr som skal bekjempes,det oppfyller kravene i artikkel 29 nr. 1 bokstav b), c) og f)-i).Disse produktene kalles «plantevernmidler med lav risiko».
 
-2. Med mindre annet er angitt, får alle bestemmelser om godkjenninger i henhold til denne forordning anvendelse.*«EFTA-landene kan begrense adgangen til sine markeder for plantevernmidler som inneholder genmodifiserte organismer, når adgangen til å begrense eller forby disse organismene i henhold til EØS-avtalens tilpasninger til direktiv [2001/18/EF](eu/32001l0018) artikkel 23 har blitt benyttet.»*
+2\. En søknad om godkjenning av et plantevernmiddel med lav risiko skal vise at kravene fastsatt i nr. 1 er oppfylt, og søkeren skal, sammen med søknaden, sende inn fullstendig dokumentasjon og et sammendrag for hvert punkt i opplysningskravene for det aktive stoffet og plantevernmiddelet.
 
-1. Medlemsstatene skal ikke forby omsetning og bruk av frø som er beiset med plantevernmidler som er godkjent for slik bruk i minst én medlemsstat.
+3\. Medlemsstaten skal innen 120 dager beslutte om søknaden om godkjenning av et plantevernmiddel med lav risiko skal godkjennes. *«For EFTA-landene skal fristen på 120 dager tidligst begynne å løpe fra den dato når forordningene som godkjenner de aktive stoffene i lavrisiko-preparatet tas inn i EØS-avtalen.»*Dersom medlemsstaten trenger tilleggsopplysninger, skal den fastsette en frist for når søkeren skal legge disse fram. I så tilfelle skal den angitte frist forlenges med tilleggsperioden som innvilges av rapporterende medlemsstat.Tilleggsperioden skal være på høyst seks måneder og skal opphøre når rapporterende medlemsstat mottar tilleggsopplysningene. Dersom søkeren ved utløpet av denne fristen ikke har lagt fram elementene som mangler, skal medlemsstaten underrette søkeren om at søknaden ikke kan godtas.
 
-2. Dersom det finnes konkret bekymring for at beisede frø som nevnt i nr. 1 vil kunne utgjøre en alvorlig risiko for menneskers eller dyrs helse eller for miljøet, og for at slik risiko ikke kan kontrolleres på tilfredsstillende måte ved hjelp av tiltak truffet av den eller de berørte medlemsstater, skal tiltak for å begrense eller forby bruk og/eller salg av slike beisede frø treffes umiddelbart etter framgangsmåten med forskriftskomité nevnt i artikkel 79 nr. 3. Før Kommisjonen treffer slike tiltak, skal den undersøke dokumentasjonen og kan anmode om en uttalelse fra Myndigheten. Kommisjonen kan sette en frist for når en slik uttalelse skal legges fram.
+4\. Med mindre annet er angitt, får alle bestemmelser om godkjenninger i henhold til denne forordning anvendelse.
 
-3. Artikkel 70 og 71 får anvendelse.
+###### Artikkel 48
 
-4. Uten at det berører andre deler av Fellesskapets regelverk for merking av frø, skal etiketten og dokumentene som følger de beisede frøene inneholde navnet på plantevernmiddelet som frøene er blitt beiset med, navnet på det eller de aktive stoffene i nevnte produkt, standardsetninger med angivelse av sikkerhetsmessige forholdsregler som fastsatt i direktiv [1999/45/EF](eu/31999l0045*), og om nødvendig risikoreduserende tiltak fastsatt i godkjenningen for nevnte produkt.
+Omsetning og bruk av plantevernmidler som inneholder en genmodifisert organisme
 
-1. Medlemsstatene skal gjennomføre en sammenlignende vurdering når de vurderer en søknad om godkjenning av et plantevernmiddel som inneholder et aktivt stoff som er godkjent som et stoff som skal erstattes. Medlemsstatene skal ikke godkjenne eller skal begrense bruken på en bestemt vekst av et plantevernmiddel som inneholder et stoff som skal erstattes, dersom den sammenlignende vurderingen med avveining av risikoer og fordeler som fastsatt i vedlegg IV, viser atdet for bruksområdene som er angitt i søknaden, finnes et godkjent plantevernmiddel eller en kjemikaliefri bekjempelsesmetode eller forebyggende metode som er vesentlig sikrere for menneskers eller dyrs helse eller miljøet,erstatningen av plantevernmidler eller kjemikaliefrie bekjempelsesmetoder eller forebyggende metoder nevnt i bokstav a) ikke innebærer vesentlige økonomiske eller praktiske ulemper,de aktive stoffenes kjemiske mangfold, der det er relevant, er tilstrekkelig stort, eller metodene og praksisen for avlingsforvaltning og forebygging av skadegjørere er tilstrekkelige til å redusere forekomsten av resistens hos målorganismen til et minimum, ogdet tas hensyn til konsekvensene av godkjenning for bruksområder av mindre betydning.
+1\. Et plantevernmiddel som inneholder en organisme som omfattes av direktiv [2001/18/EF](eu/32001l0018), skal i tillegg til vurderingen i henhold til dette kapittel undersøkes med tanke på genmodifiseringen i samsvar med nevnte direktiv.En godkjenning i henhold til denne forordning skal ikke gis for et slikt plantevernmiddel med mindre det er gitt en skriftlig tillatelse, som nevnt i artikkel 19 i direktiv [2001/18/EF](eu/32001l0018).
 
-2. Som unntak fra artikkel 36 nr. 2 kan medlemsstatene i unntakstilfeller også anvende bestemmelsene i nr. 1 i denne artikkel ved vurdering av en søknad om godkjenning av et plantevernmiddel som ikke inneholder et stoff som skal erstattes, eller et aktivt stoff med lav risiko, dersom det finnes en kjemikaliefri bekjempelsesmetode eller forebyggende metode for samme bruksområde, og det er i allmenn bruk i medlemsstatene.
+2\. Med mindre annet er angitt, får alle bestemmelser om godkjenninger i henhold til denne forordning anvendelse.*«EFTA-landene kan begrense adgangen til sine markeder for plantevernmidler som inneholder genmodifiserte organismer, når adgangen til å begrense eller forby disse organismene i henhold til EØS-avtalens tilpasninger til direktiv [2001/18/EF](eu/32001l0018) artikkel 23 har blitt benyttet.»*
 
-3. Som unntak fra nr. 1 skal et plantevernmiddel som inneholder et aktivt stoff som skal erstattes, godkjennes uten sammenlignende vurdering dersom det er nødvendig først å innhente erfaring med produktet gjennom praktisk bruk.Slike godkjenninger skal gis én gang for et tidsrom på høyst fem år.
+###### Artikkel 49
 
-4. Når det gjelder plantevernmidler som inneholder et stoff som skal erstattes, skal medlemsstatene regelmessig gjennomføre en sammenlignende vurdering som fastsatt i nr. 1, og senest ved fornyelsen eller endringen av godkjenningen.På grunnlag av resultatene av den sammenlignende vurderingen skal medlemsstatene opprettholde, tilbakekalle eller endre godkjenningen.
+Omsetning av beisede frø
 
-5. Dersom en medlemsstat beslutter å tilbakekalle eller endre en godkjenning i samsvar med nr. 4, skal denne tilbakekallingen eller endringen tre i kraft tre år etter medlemsstatens beslutning, eller ved utløpet av godkjenningsperioden for stoffet som skal erstattes, dersom dette inntreffer tidligere.
+1\. Medlemsstatene skal ikke forby omsetning og bruk av frø som er beiset med plantevernmidler som er godkjent for slik bruk i minst én medlemsstat.
 
-6. Med mindre annet er angitt, får alle bestemmelser om godkjenninger i henhold til denne forordning anvendelse.
+2\. Dersom det finnes konkret bekymring for at beisede frø som nevnt i nr. 1 vil kunne utgjøre en alvorlig risiko for menneskers eller dyrs helse eller for miljøet, og for at slik risiko ikke kan kontrolleres på tilfredsstillende måte ved hjelp av tiltak truffet av den eller de berørte medlemsstater, skal tiltak for å begrense eller forby bruk og/eller salg av slike beisede frø treffes umiddelbart etter framgangsmåten med forskriftskomité nevnt i artikkel 79 nr. 3. Før Kommisjonen treffer slike tiltak, skal den undersøke dokumentasjonen og kan anmode om en uttalelse fra Myndigheten. Kommisjonen kan sette en frist for når en slik uttalelse skal legges fram.
 
-1. Godkjenningsinnehaveren, offisielle eller vitenskapelige organer som deltar i landbruksvirksomhet, landbruksorganisasjoner og yrkesbrukere kan anmode om at godkjenningen av et plantevernmiddel som allerede er godkjent i den berørte medlemsstaten, utvides til å gjelde bruksområder av mindre betydning som ennå ikke omfattes av nevnte godkjenning.
+3\. Artikkel 70 og 71 får anvendelse.
 
-2. Medlemsstatene skal utvide godkjenningen dersomden planlagte bruken er av begrenset karakter,vilkårene nevnt i artikkel 4 nr. 3 bokstav b), d) og e) og artikkel 29 nr. 1 bokstav i) er oppfylt,utvidelsen er i offentlighetens interesse ogdokumentasjonen og opplysningene til støtte for en utvidelse av bruken er lagt fram av personene eller organene nevnt i nr. 1, særlig opplysninger om omfanget av restmengder og om nødvendig om risikovurderingen for brukere, arbeidstakere og andre tilstedeværende.
+4\. Uten at det berører andre deler av Fellesskapets regelverk for merking av frø, skal etiketten og dokumentene som følger de beisede frøene inneholde navnet på plantevernmiddelet som frøene er blitt beiset med, navnet på det eller de aktive stoffene i nevnte produkt, standardsetninger med angivelse av sikkerhetsmessige forholdsregler som fastsatt i direktiv [1999/45/EF](eu/31999l0045*), og om nødvendig risikoreduserende tiltak fastsatt i godkjenningen for nevnte produkt.
 
-3. Medlemsstatene kan treffe tiltak for å lette eller oppmuntre til inngivelse av søknader om å utvide godkjenningen av allerede godkjente plantevernmidler til å gjelde bruksområder av mindre betydning.
+###### Artikkel 50
 
-4. Utvidelsen kan gis i form av en endring av eksisterende godkjenning eller kan være en egen godkjenning, i samsvar med den berørte medlemsstatens forvaltningsmessige behandling.
+Sammenlignende vurdering av plantevernmidler som inneholder stoffer som skal erstattes
 
-5. Når medlemsstatene innvilger en utvidelse av en godkjenning til å gjelde bruksområder av mindre betydning, skal de ved behov underrette godkjenningsinnehaveren og anmode vedkommende om å endre merkingen tilsvarende.Dersom godkjenningsinnehaveren ikke godtar dette, skal medlemsstatene sikre at brukerne får tilgang til en fullstendig og detaljert bruksanvisning gjennom en offisiell kunngjøring eller på et offisielt nettsted.Den offisielle kunngjøringen eller eventuelt etiketten skal inneholde en henvisning til ansvaret som brukeren av plantevernmiddelet har med hensyn til manglende virkning eller til giftighet for planter hos produktet som godkjenningen for bruksområder av mindre betydning gjelder. Utvidet godkjenning for bruksområder av mindre betydning skal være angitt særskilt på etiketten.
+1\. Medlemsstatene skal gjennomføre en sammenlignende vurdering når de vurderer en søknad om godkjenning av et plantevernmiddel som inneholder et aktivt stoff som er godkjent som et stoff som skal erstattes. Medlemsstatene skal ikke godkjenne eller skal begrense bruken på en bestemt vekst av et plantevernmiddel som inneholder et stoff som skal erstattes, dersom den sammenlignende vurderingen med avveining av risikoer og fordeler som fastsatt i vedlegg IV, viser atdet for bruksområdene som er angitt i søknaden, finnes et godkjent plantevernmiddel eller en kjemikaliefri bekjempelsesmetode eller forebyggende metode som er vesentlig sikrere for menneskers eller dyrs helse eller miljøet,erstatningen av plantevernmidler eller kjemikaliefrie bekjempelsesmetoder eller forebyggende metoder nevnt i bokstav a) ikke innebærer vesentlige økonomiske eller praktiske ulemper,de aktive stoffenes kjemiske mangfold, der det er relevant, er tilstrekkelig stort, eller metodene og praksisen for avlingsforvaltning og forebygging av skadegjørere er tilstrekkelige til å redusere forekomsten av resistens hos målorganismen til et minimum, ogdet tas hensyn til konsekvensene av godkjenning for bruksområder av mindre betydning.
 
-6. Utvidelser på grunnlag av denne artikkel skal angis særskilt, og ansvarsbegrensninger skal også angis særskilt.
+2\. Som unntak fra artikkel 36 nr. 2 kan medlemsstatene i unntakstilfeller også anvende bestemmelsene i nr. 1 i denne artikkel ved vurdering av en søknad om godkjenning av et plantevernmiddel som ikke inneholder et stoff som skal erstattes, eller et aktivt stoff med lav risiko, dersom det finnes en kjemikaliefri bekjempelsesmetode eller forebyggende metode for samme bruksområde, og det er i allmenn bruk i medlemsstatene.
 
-7. Søkerne nevnt i nr. 1 kan også søke om godkjenning av et plantevernmiddel for bruksområder av mindre betydning i samsvar med artikkel 40 nr. 1, forutsatt at det berørte plantevernmiddelet er godkjent i nevnte medlemsstat. Medlemsstatene skal godkjenne slike bruksområder i samsvar med bestemmelsene i artikkel 41, forutsatt at nevnte bruksområder anses å være av mindre betydning også i medlemsstatene søknadene gjelder.
+3\. Som unntak fra nr. 1 skal et plantevernmiddel som inneholder et aktivt stoff som skal erstattes, godkjennes uten sammenlignende vurdering dersom det er nødvendig først å innhente erfaring med produktet gjennom praktisk bruk.Slike godkjenninger skal gis én gang for et tidsrom på høyst fem år.
 
-8. Medlemsstatene skal utarbeide og regelmessig ajourføre en liste over bruksområder av mindre betydning.
+4\. Når det gjelder plantevernmidler som inneholder et stoff som skal erstattes, skal medlemsstatene regelmessig gjennomføre en sammenlignende vurdering som fastsatt i nr. 1, og senest ved fornyelsen eller endringen av godkjenningen.På grunnlag av resultatene av den sammenlignende vurderingen skal medlemsstatene opprettholde, tilbakekalle eller endre godkjenningen.
 
-9. Innen 14. desember 2011 skal Kommisjonen legge fram for Europaparlamentet og Rådet en rapport om opprettelse av et europeisk fond for bruksområder av mindre betydning, eventuelt ledsaget av et forslag til regelverk.
+5\. Dersom en medlemsstat beslutter å tilbakekalle eller endre en godkjenning i samsvar med nr. 4, skal denne tilbakekallingen eller endringen tre i kraft tre år etter medlemsstatens beslutning, eller ved utløpet av godkjenningsperioden for stoffet som skal erstattes, dersom dette inntreffer tidligere.
 
-10. Med mindre annet er angitt, får alle bestemmelser om godkjenninger i henhold til denne forordning anvendelse.
+6\. Med mindre annet er angitt, får alle bestemmelser om godkjenninger i henhold til denne forordning anvendelse.
 
-1. Et plantevernmiddel som er godkjent i én medlemsstat (opprinnelsesmedlemsstaten) kan, med forbehold for at det gis tillatelse til parallellhandel, innføres, bringes i omsetning eller brukes i en annen medlemsstat (innførselsmedlemsstaten), dersom denne medlemsstaten fastslår at plantevernmiddelet har en sammensetning som er identisk med sammensetningen til et plantevernmiddel som allerede er godkjent på dens territorium (referanseprodukt). Søknaden skal legges fram for vedkommende myndighet i innførselsmedlemsstaten.
+###### Artikkel 51
 
-2. Tillatelse til parallellhandel skal gis etter en forenklet framgangsmåte innen 45 virkedager etter at en fullstendig søknad er mottatt, dersom plantevernmiddelet som skal innføres, er identisk i henhold til nr. 3. Medlemsstatene skal på anmodning legge fram for hverandre opplysningene som er nødvendige for å vurdere om produktene er identiske, innen ti virkedager etter at anmodningen er mottatt. Framgangsmåten for å gi tillatelse til parallellhandel avbrytes fra og med den dag anmodningen om opplysninger sendes til vedkommende myndighet i opprinnelsesmedlemsstaten, og fram til de fullstendige opplysningene som det er anmodet om, er gitt til vedkommende myndighet i innførselsmedlemsstaten.
+Utvidelse av godkjenninger for bruksområder av mindre betydning
 
-3. Plantevernmidler skal anses som identiske med referanseprodukter dersomde er produsert av samme selskap eller av et tilknyttet foretak eller på lisens i samsvar med samme produksjonsprosess,de er identiske når det gjelder spesifikasjon og innhold av aktive stoffer, beskyttende midler og synergister samt med hensyn til utforming, ogde er enten de samme eller likeverdige med hensyn til formuleringsstoffene som inngår, og emballasjens størrelse, materiale eller form, når det gjelder mulig negativ innvirkning på produktsikkerheten med tanke på menneskers eller dyrs helse eller miljøet.
+1\. Godkjenningsinnehaveren, offisielle eller vitenskapelige organer som deltar i landbruksvirksomhet, landbruksorganisasjoner og yrkesbrukere kan anmode om at godkjenningen av et plantevernmiddel som allerede er godkjent i den berørte medlemsstaten, utvides til å gjelde bruksområder av mindre betydning som ennå ikke omfattes av nevnte godkjenning.
 
-4. Søknaden om tillatelse til parallellhandel skal inneholde følgende opplysninger:plantevernmiddelets navn og registreringsnummer i opprinnelsesmedlemsstaten,opprinnelsesmedlemsstat,navn og adresse på godkjenningsinnehaveren i opprinnelsesmedlemsstaten,opprinnelig etikett og bruksanvisninger som plantevernmiddelet som skal innføres, distribueres med i opprinnelsesmedlemsstaten, dersom dette anses som nødvendig for undersøkelsen som skal utføres av vedkommende myndighet i innførselsmedlemsstaten. Denne vedkommende myndighet kan kreve en oversettelse av relevante deler av den opprinnelige bruksanvisningen,søkerens navn og adresse,navnet som skal gis plantevernmiddelet som skal distribueres i innførselsmedlemsstaten,et utkast til etikett for produktet som skal bringes i omsetning,en prøve av produktet som ønskes innført, dersom vedkommende myndighet i innførselsmedlemsstaten anser at dette er nødvendig,navn og registreringsnummer for referanseproduktet.Opplysningskravene kan endres eller utfylles, og det skal utarbeides ytterligere opplysninger og særlige krav dersom søknaden gjelder et plantevernmiddel som allerede er omfattet av en tillatelse til parallellhandel, og dersom søknaden gjelder et plantevernmiddel til personlig bruk etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 79 nr. 4.
+2\. Medlemsstatene skal utvide godkjenningen dersomden planlagte bruken er av begrenset karakter,vilkårene nevnt i artikkel 4 nr. 3 bokstav b), d) og e) og artikkel 29 nr. 1 bokstav i) er oppfylt,utvidelsen er i offentlighetens interesse ogdokumentasjonen og opplysningene til støtte for en utvidelse av bruken er lagt fram av personene eller organene nevnt i nr. 1, særlig opplysninger om omfanget av restmengder og om nødvendig om risikovurderingen for brukere, arbeidstakere og andre tilstedeværende.
 
-5. Et plantevernmiddel som det er utstedt en tillatelse til parallellhandel for, skal bringes i omsetning og brukes bare i samsvar med bestemmelsene i godkjenningen for referanseproduktet. For å lette overvåking og kontroll skal Kommisjonen fastsette særlige kontrollkrav for produktet som skal innføres ved en forordning nevnt i artikkel 68.
+3\. Medlemsstatene kan treffe tiltak for å lette eller oppmuntre til inngivelse av søknader om å utvide godkjenningen av allerede godkjente plantevernmidler til å gjelde bruksområder av mindre betydning.
 
-6. Tillatelsen til parallellhandel skal ha samme gyldighetsperiode som godkjenningen av referanseproduktet. Dersom godkjenningsinnehaveren for referanseproduktet søker om tilbakekalling av godkjenningen i samsvar med artikkel 45 nr. 1, og kravene i artikkel 29 fortsatt er oppfylt, skal tillatelsen til parallellhandel utløpe på datoen da godkjenningen av referanseproduktet normalt ville ha utløpt.
+4\. Utvidelsen kan gis i form av en endring av eksisterende godkjenning eller kan være en egen godkjenning, i samsvar med den berørte medlemsstatens forvaltningsmessige behandling.
 
-7. Uten at det berører de særlige bestemmelsene i denne artikkel, får artikkel 44, 45, 46 og 55 og artikkel 56 nr. 4 samt [kapittel VI](forskrift/2015-05-06-455/kapvi)–X tilsvarende anvendelse på plantevernmidler som er gjenstand for parallellhandel.
+5\. Når medlemsstatene innvilger en utvidelse av en godkjenning til å gjelde bruksområder av mindre betydning, skal de ved behov underrette godkjenningsinnehaveren og anmode vedkommende om å endre merkingen tilsvarende.Dersom godkjenningsinnehaveren ikke godtar dette, skal medlemsstatene sikre at brukerne får tilgang til en fullstendig og detaljert bruksanvisning gjennom en offisiell kunngjøring eller på et offisielt nettsted.Den offisielle kunngjøringen eller eventuelt etiketten skal inneholde en henvisning til ansvaret som brukeren av plantevernmiddelet har med hensyn til manglende virkning eller til giftighet for planter hos produktet som godkjenningen for bruksområder av mindre betydning gjelder. Utvidet godkjenning for bruksområder av mindre betydning skal være angitt særskilt på etiketten.
 
-8. Uten at det berører artikkel 44, kan en tillatelse til parallellhandel tilbakekalles dersom godkjenningen av det innførte plantevernmiddelet tilbakekalles i opprinnelsesmedlemsstaten av sikkerhets- eller virkningshensyn.
+6\. Utvidelser på grunnlag av denne artikkel skal angis særskilt, og ansvarsbegrensninger skal også angis særskilt.
 
-9. Dersom produktet ikke er identisk med referanseproduktet i henhold til nr. 3, kan innførselsmedlemsstaten innvilge bare den godkjenningen som er nødvendig for å bringe produktet i omsetning og bruk i samsvar med artikkel 29.
+7\. Søkerne nevnt i nr. 1 kan også søke om godkjenning av et plantevernmiddel for bruksområder av mindre betydning i samsvar med artikkel 40 nr. 1, forutsatt at det berørte plantevernmiddelet er godkjent i nevnte medlemsstat. Medlemsstatene skal godkjenne slike bruksområder i samsvar med bestemmelsene i artikkel 41, forutsatt at nevnte bruksområder anses å være av mindre betydning også i medlemsstatene søknadene gjelder.
 
-10. Bestemmelsene i denne artikkel får ikke anvendelse på plantevernmidler som er godkjent i opprinnelsesmedlemsstaten i samsvar med artikkel 53 eller 54.
+8\. Medlemsstatene skal utarbeide og regelmessig ajourføre en liste over bruksområder av mindre betydning.
 
-11. Uten at det berører artikkel 63, skal medlemsstatene offentliggjøre opplysninger om tillatelser til parallellhandel.
+9\. Innen 14. desember 2011 skal Kommisjonen legge fram for Europaparlamentet og Rådet en rapport om opprettelse av et europeisk fond for bruksområder av mindre betydning, eventuelt ledsaget av et forslag til regelverk.
 
-1. Som unntak fra artikkel 28 kan en medlemsstat under særlige omstendigheter tillate at plantevernmidler for et tidsrom på høyst 120 dager bringes i omsetning med henblikk på begrenset og kontrollert bruk, dersom et slikt tiltak er nødvendig på grunn av en fare som ikke kan avverges på noen annen rimelig måte.Den berørte medlemsstaten skal umiddelbart underrette de øvrige medlemsstatene og Kommisjonen om tiltaket som er truffet, og legge fram en detaljert beskrivelse av situasjonen og alle tiltak som er truffet for å ivareta forbrukernes sikkerhet.
+10\. Med mindre annet er angitt, får alle bestemmelser om godkjenninger i henhold til denne forordning anvendelse.
 
-2. Kommisjonen kan anmode Myndigheten om en uttalelse eller om vitenskapelig eller teknisk bistand.Myndigheten skal legge fram sin uttalelse eller resultatene av sitt arbeid for Kommisjonen innen én måned etter datoen for anmodningen.
+###### Artikkel 52
 
-3. Ved behov skal en beslutning treffes etter framgangsmåten med forskriftskomité nevnt i artikkel 79 nr. 3 med hensyn til når og under hvilke omstendigheter medlemsstatenkan eller ikke kan forlenge tiltakets varighet eller gjenta det, ellerskal oppheve eller endre sitt tiltak.
+Parallellhandel
 
-4. Nr. 1–3 får ikke anvendelse på plantevernmidler som inneholder eller består av genmodifiserte organismer, med mindre slik utsetting er godtatt i samsvar med direktiv [2001/18/EF](eu/32001l0018).
+1\. Et plantevernmiddel som er godkjent i én medlemsstat (opprinnelsesmedlemsstaten) kan, med forbehold for at det gis tillatelse til parallellhandel, innføres, bringes i omsetning eller brukes i en annen medlemsstat (innførselsmedlemsstaten), dersom denne medlemsstaten fastslår at plantevernmiddelet har en sammensetning som er identisk med sammensetningen til et plantevernmiddel som allerede er godkjent på dens territorium (referanseprodukt). Søknaden skal legges fram for vedkommende myndighet i innførselsmedlemsstaten.
 
-1. Som unntak fra artikkel 28 kan forsøk og undersøkelser for forsknings- eller utviklingsformål som innebærer utslipp til miljøet av et ikke-godkjent plantevernmiddel, eller som innebærer ikke-godkjent bruk av et plantevernmiddel, utføres dersom medlemsstaten der forsøket eller undersøkelsen skal utføres, har vurdert de tilgjengelige opplysningene og gitt en tillatelse for forsøksformål. I tillatelsen kan det fastsettes en begrensning av de mengder som kan brukes og de områder som skal behandles, og ytterligere vilkår for å forebygge eventuelle skadelige virkninger på menneskers eller dyrs helse eller uakseptable skadevirkninger for miljøet, f.eks. for å forhindre at fôr og næringsmidler som inneholder restmengder, kommer inn i næringsmiddelkjeden, med mindre en relevant bestemmelse allerede er fastsatt i henhold til forordning [(EF) nr. 396/2005](eu/32005r0396).Medlemsstaten kan forhåndsgodkjenne et forsøks- eller undersøkelsesprogram eller kreve en tillatelse for hvert forsøk og hver undersøkelse.
+2\. Tillatelse til parallellhandel skal gis etter en forenklet framgangsmåte innen 45 virkedager etter at en fullstendig søknad er mottatt, dersom plantevernmiddelet som skal innføres, er identisk i henhold til nr. 3. Medlemsstatene skal på anmodning legge fram for hverandre opplysningene som er nødvendige for å vurdere om produktene er identiske, innen ti virkedager etter at anmodningen er mottatt. Framgangsmåten for å gi tillatelse til parallellhandel avbrytes fra og med den dag anmodningen om opplysninger sendes til vedkommende myndighet i opprinnelsesmedlemsstaten, og fram til de fullstendige opplysningene som det er anmodet om, er gitt til vedkommende myndighet i innførselsmedlemsstaten.
 
-2. Søknaden skal inngis i den medlemsstaten der forsøket eller undersøkelsen skal utføres, sammen med dokumentasjon som inneholder alle tilgjengelige opplysninger, for at det skal være mulig å foreta en vurdering av mulige virkninger på menneskers eller dyrs helse eller på miljøet.
+3\. Plantevernmidler skal anses som identiske med referanseprodukter dersomde er produsert av samme selskap eller av et tilknyttet foretak eller på lisens i samsvar med samme produksjonsprosess,de er identiske når det gjelder spesifikasjon og innhold av aktive stoffer, beskyttende midler og synergister samt med hensyn til utforming, ogde er enten de samme eller likeverdige med hensyn til formuleringsstoffene som inngår, og emballasjens størrelse, materiale eller form, når det gjelder mulig negativ innvirkning på produktsikkerheten med tanke på menneskers eller dyrs helse eller miljøet.
 
-3. En tillatelse for forsøksformål skal ikke gis for forsøk eller undersøkelser som innebærer utslipp til miljøet av genmodifiserte organismer, med mindre dette er godkjent i henhold til direktiv [2001/18/EF](eu/32001l0018).
+4\. Søknaden om tillatelse til parallellhandel skal inneholde følgende opplysninger:plantevernmiddelets navn og registreringsnummer i opprinnelsesmedlemsstaten,opprinnelsesmedlemsstat,navn og adresse på godkjenningsinnehaveren i opprinnelsesmedlemsstaten,opprinnelig etikett og bruksanvisninger som plantevernmiddelet som skal innføres, distribueres med i opprinnelsesmedlemsstaten, dersom dette anses som nødvendig for undersøkelsen som skal utføres av vedkommende myndighet i innførselsmedlemsstaten. Denne vedkommende myndighet kan kreve en oversettelse av relevante deler av den opprinnelige bruksanvisningen,søkerens navn og adresse,navnet som skal gis plantevernmiddelet som skal distribueres i innførselsmedlemsstaten,et utkast til etikett for produktet som skal bringes i omsetning,en prøve av produktet som ønskes innført, dersom vedkommende myndighet i innførselsmedlemsstaten anser at dette er nødvendig,navn og registreringsnummer for referanseproduktet.Opplysningskravene kan endres eller utfylles, og det skal utarbeides ytterligere opplysninger og særlige krav dersom søknaden gjelder et plantevernmiddel som allerede er omfattet av en tillatelse til parallellhandel, og dersom søknaden gjelder et plantevernmiddel til personlig bruk etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 79 nr. 4.
 
-4. Nr. 2 får ikke anvendelse dersom medlemsstaten har gitt den berørte personen rett til å utføre bestemte forsøk og undersøkelser og fastsatt vilkårene for forsøkene og undersøkelsene som skal utføres.
+5\. Et plantevernmiddel som det er utstedt en tillatelse til parallellhandel for, skal bringes i omsetning og brukes bare i samsvar med bestemmelsene i godkjenningen for referanseproduktet. For å lette overvåking og kontroll skal Kommisjonen fastsette særlige kontrollkrav for produktet som skal innføres ved en forordning nevnt i artikkel 68.
 
-5. Nærmere regler for gjennomføringen av denne artikkel, særlig største tillatte mengder av plantevernmidler som kan slippes ut under forsøk eller undersøkelser, samt minstekrav til opplysningene som skal legges fram i samsvar med artikkel 2, kan vedtas etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 79 nr. 4.
+6\. Tillatelsen til parallellhandel skal ha samme gyldighetsperiode som godkjenningen av referanseproduktet. Dersom godkjenningsinnehaveren for referanseproduktet søker om tilbakekalling av godkjenningen i samsvar med artikkel 45 nr. 1, og kravene i artikkel 29 fortsatt er oppfylt, skal tillatelsen til parallellhandel utløpe på datoen da godkjenningen av referanseproduktet normalt ville ha utløpt.
+
+7\. Uten at det berører de særlige bestemmelsene i denne artikkel, får artikkel 44, 45, 46 og 55 og artikkel 56 nr. 4 samt [kapittel VI](forskrift/2015-05-06-455/kapvi)–X tilsvarende anvendelse på plantevernmidler som er gjenstand for parallellhandel.
+
+8\. Uten at det berører artikkel 44, kan en tillatelse til parallellhandel tilbakekalles dersom godkjenningen av det innførte plantevernmiddelet tilbakekalles i opprinnelsesmedlemsstaten av sikkerhets- eller virkningshensyn.
+
+9\. Dersom produktet ikke er identisk med referanseproduktet i henhold til nr. 3, kan innførselsmedlemsstaten innvilge bare den godkjenningen som er nødvendig for å bringe produktet i omsetning og bruk i samsvar med artikkel 29.
+
+10\. Bestemmelsene i denne artikkel får ikke anvendelse på plantevernmidler som er godkjent i opprinnelsesmedlemsstaten i samsvar med artikkel 53 eller 54.
+
+11\. Uten at det berører artikkel 63, skal medlemsstatene offentliggjøre opplysninger om tillatelser til parallellhandel.
+
+###### Underavsnitt 6
+
+Unntak
+
+###### Artikkel 53
+
+Nødssituasjoner på plantevernområdet
+
+1\. Som unntak fra artikkel 28 kan en medlemsstat under særlige omstendigheter tillate at plantevernmidler for et tidsrom på høyst 120 dager bringes i omsetning med henblikk på begrenset og kontrollert bruk, dersom et slikt tiltak er nødvendig på grunn av en fare som ikke kan avverges på noen annen rimelig måte.Den berørte medlemsstaten skal umiddelbart underrette de øvrige medlemsstatene og Kommisjonen om tiltaket som er truffet, og legge fram en detaljert beskrivelse av situasjonen og alle tiltak som er truffet for å ivareta forbrukernes sikkerhet.
+
+2\. Kommisjonen kan anmode Myndigheten om en uttalelse eller om vitenskapelig eller teknisk bistand.Myndigheten skal legge fram sin uttalelse eller resultatene av sitt arbeid for Kommisjonen innen én måned etter datoen for anmodningen.
+
+3\. Ved behov skal en beslutning treffes etter framgangsmåten med forskriftskomité nevnt i artikkel 79 nr. 3 med hensyn til når og under hvilke omstendigheter medlemsstatenkan eller ikke kan forlenge tiltakets varighet eller gjenta det, ellerskal oppheve eller endre sitt tiltak.
+
+4\. Nr. 1–3 får ikke anvendelse på plantevernmidler som inneholder eller består av genmodifiserte organismer, med mindre slik utsetting er godtatt i samsvar med direktiv [2001/18/EF](eu/32001l0018).
+
+###### Artikkel 54
+
+Forskning og utvikling
+
+1\. Som unntak fra artikkel 28 kan forsøk og undersøkelser for forsknings- eller utviklingsformål som innebærer utslipp til miljøet av et ikke-godkjent plantevernmiddel, eller som innebærer ikke-godkjent bruk av et plantevernmiddel, utføres dersom medlemsstaten der forsøket eller undersøkelsen skal utføres, har vurdert de tilgjengelige opplysningene og gitt en tillatelse for forsøksformål. I tillatelsen kan det fastsettes en begrensning av de mengder som kan brukes og de områder som skal behandles, og ytterligere vilkår for å forebygge eventuelle skadelige virkninger på menneskers eller dyrs helse eller uakseptable skadevirkninger for miljøet, f.eks. for å forhindre at fôr og næringsmidler som inneholder restmengder, kommer inn i næringsmiddelkjeden, med mindre en relevant bestemmelse allerede er fastsatt i henhold til forordning [(EF) nr. 396/2005](eu/32005r0396).Medlemsstaten kan forhåndsgodkjenne et forsøks- eller undersøkelsesprogram eller kreve en tillatelse for hvert forsøk og hver undersøkelse.
+
+2\. Søknaden skal inngis i den medlemsstaten der forsøket eller undersøkelsen skal utføres, sammen med dokumentasjon som inneholder alle tilgjengelige opplysninger, for at det skal være mulig å foreta en vurdering av mulige virkninger på menneskers eller dyrs helse eller på miljøet.
+
+3\. En tillatelse for forsøksformål skal ikke gis for forsøk eller undersøkelser som innebærer utslipp til miljøet av genmodifiserte organismer, med mindre dette er godkjent i henhold til direktiv [2001/18/EF](eu/32001l0018).
+
+4\. Nr. 2 får ikke anvendelse dersom medlemsstaten har gitt den berørte personen rett til å utføre bestemte forsøk og undersøkelser og fastsatt vilkårene for forsøkene og undersøkelsene som skal utføres.
+
+5\. Nærmere regler for gjennomføringen av denne artikkel, særlig største tillatte mengder av plantevernmidler som kan slippes ut under forsøk eller undersøkelser, samt minstekrav til opplysningene som skal legges fram i samsvar med artikkel 2, kan vedtas etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 79 nr. 4.
 
 ### Avsnitt 2
 Bruk og opplysninger
+
+###### Artikkel 55
+
+Bruk av plantevernmidler
 
 Plantevernmidler skal brukes korrekt.
 
 Korrekt bruk omfatter anvendelse av prinsippene for god plantevernpraksis og overholdelse av vilkårene fastsatt i samsvar med artikkel 31 og angitt på emballasjen. Ved korrekt bruk skal også bestemmelsene i direktiv [2009/128/EF](eu/32009l0128*) overholdes og særlig de allmenne prinsippene for integrert bekjempelse av skadegjørere som nevnt i artikkel 14 i og vedlegg III til nevnte direktiv, som får anvendelse senest 1. januar 2014.
 
-1. Innehaveren av en godkjenning for et plantevernmiddel skal umiddelbart underrette medlemsstatene som har gitt godkjenningen, om alle nye opplysninger om nevnte plantevernmiddel, det aktive stoffet, dets metabolitter, et beskyttende middel, en synergist eller et formuleringsstoff som inngår i plantevernmiddelet, som tilsier at plantevernmiddelet ikke lenger oppfyller kriteriene fastsatt i henholdsvis artikkel 29 og artikkel 4.Særlig skal underretningen gjelde mulige skadelige virkninger av nevnte plantevernmiddel eller av restmengder av et aktivt stoff, dets metabolitter, et beskyttende middel, en synergist eller et formuleringsstoff som inngår i det, på menneskers eller dyrs helse eller på grunnvannet, eller deres mulige uakseptable virkninger på planter eller planteprodukter eller miljøet.For dette formål skal godkjenningsinnehaveren registrere og rapportere alle mistenkte negative virkninger på mennesker, dyr og miljøet knyttet til bruken av plantevernmiddelet.Meldingsplikten omfatter plikten til å legge fram relevante opplysninger om beslutninger eller vurderinger fra internasjonale organisasjoner eller offentlige organer som godkjenner plantevernmidler eller aktive stoffer i tredjestater.
+###### Artikkel 56
 
-2. Meldingen skal inneholde en vurdering av om og hvordan de nye opplysningene kan innebære at plantevernmiddelet eller det aktive stoffet, dets metabolitter, et beskyttende middel, en synergist eller et formuleringsstoff ikke lenger oppfyller kravene i henholdsvis artikkel 29 og artikkel 4 eller artikkel 27.
+Opplysninger om mulige skadelige eller uakseptable virkninger
 
-3. Uten at det berører medlemsstatenes rett til å vedta foreløpige vernetiltak, skal medlemsstaten som først ga en godkjenning i en sone, evaluere opplysningene som er mottatt, og underrette de øvrige medlemsstatene som tilhører samme sone, dersom den beslutter å tilbakekalle eller endre godkjenningen i henhold til artikkel 44.Nevnte medlemsstat skal underrette de øvrige medlemsstatene og Kommisjonen dersom den anser at vilkårene for godkjenning av det aktive stoffet, det beskyttende middelet eller synergisten som inngår i plantevernmiddelet, ikke lenger er oppfylt, eller dersom det gjelder et formuleringsstoff, er vurdert som uakseptable, og foreslå at godkjenningen trekkes tilbake eller vilkårene endres.
+1\. Innehaveren av en godkjenning for et plantevernmiddel skal umiddelbart underrette medlemsstatene som har gitt godkjenningen, om alle nye opplysninger om nevnte plantevernmiddel, det aktive stoffet, dets metabolitter, et beskyttende middel, en synergist eller et formuleringsstoff som inngår i plantevernmiddelet, som tilsier at plantevernmiddelet ikke lenger oppfyller kriteriene fastsatt i henholdsvis artikkel 29 og artikkel 4.Særlig skal underretningen gjelde mulige skadelige virkninger av nevnte plantevernmiddel eller av restmengder av et aktivt stoff, dets metabolitter, et beskyttende middel, en synergist eller et formuleringsstoff som inngår i det, på menneskers eller dyrs helse eller på grunnvannet, eller deres mulige uakseptable virkninger på planter eller planteprodukter eller miljøet.For dette formål skal godkjenningsinnehaveren registrere og rapportere alle mistenkte negative virkninger på mennesker, dyr og miljøet knyttet til bruken av plantevernmiddelet.Meldingsplikten omfatter plikten til å legge fram relevante opplysninger om beslutninger eller vurderinger fra internasjonale organisasjoner eller offentlige organer som godkjenner plantevernmidler eller aktive stoffer i tredjestater.
 
-4. Innehaveren av en godkjenning for et plantevernmiddel skal rapportere årlig til vedkommende myndigheter i medlemsstatene som har godkjent plantevernmiddelet, dersom det foreligger opplysninger om manglende forventet virkning, utvikling av resistens eller uventede virkninger på planter, planteprodukter eller miljøet.
+2\. Meldingen skal inneholde en vurdering av om og hvordan de nye opplysningene kan innebære at plantevernmiddelet eller det aktive stoffet, dets metabolitter, et beskyttende middel, en synergist eller et formuleringsstoff ikke lenger oppfyller kravene i henholdsvis artikkel 29 og artikkel 4 eller artikkel 27.
 
-1. Medlemsstatene skal oppbevare opplysningene om plantevernmidler som er godkjent eller tilbakekalt i samsvar med denne forordning, elektronisk tilgjengelig for offentligheten, idet det minst opplyses omnavn eller firma til den som innehar godkjenningen, og godkjenningsnummer,produktets handelsnavn,typen stoffblanding,navnet på og mengden av hvert aktive stoff, beskyttende middel eller synergist som det inneholder,klassifisering og risiko- og sikkerhetssetninger i samsvar med direktiv [1999/45/EF](eu/31999l0045*) og forordningen nevnt i artikkel 65,bruk eller bruksområder som omfattes av godkjenningen,årsakene til tilbakekalling av en godkjenning dersom de er knyttet til sikkerhetsspørsmål,listen over bruksområder av mindre betydning nevnt i artikkel 51 nr. 8.
+3\. Uten at det berører medlemsstatenes rett til å vedta foreløpige vernetiltak, skal medlemsstaten som først ga en godkjenning i en sone, evaluere opplysningene som er mottatt, og underrette de øvrige medlemsstatene som tilhører samme sone, dersom den beslutter å tilbakekalle eller endre godkjenningen i henhold til artikkel 44.Nevnte medlemsstat skal underrette de øvrige medlemsstatene og Kommisjonen dersom den anser at vilkårene for godkjenning av det aktive stoffet, det beskyttende middelet eller synergisten som inngår i plantevernmiddelet, ikke lenger er oppfylt, eller dersom det gjelder et formuleringsstoff, er vurdert som uakseptable, og foreslå at godkjenningen trekkes tilbake eller vilkårene endres.
 
-2. Opplysningene nevnt i nr. 1 skal være lett tilgjengelige og ajourføres minst hver tredje måned.
+4\. Innehaveren av en godkjenning for et plantevernmiddel skal rapportere årlig til vedkommende myndigheter i medlemsstatene som har godkjent plantevernmiddelet, dersom det foreligger opplysninger om manglende forventet virkning, utvikling av resistens eller uventede virkninger på planter, planteprodukter eller miljøet.
 
-3. Det skal innføres et informasjonssystem for godkjenninger etter framgangsmåten nevnt i artikkel 79 nr. 3 for å lette anvendelsen av nr. 1 og 2 i denne artikkel.
+###### Artikkel 57
+
+Plikt til å oppbevare opplysninger tilgjengelig
+
+1\. Medlemsstatene skal oppbevare opplysningene om plantevernmidler som er godkjent eller tilbakekalt i samsvar med denne forordning, elektronisk tilgjengelig for offentligheten, idet det minst opplyses omnavn eller firma til den som innehar godkjenningen, og godkjenningsnummer,produktets handelsnavn,typen stoffblanding,navnet på og mengden av hvert aktive stoff, beskyttende middel eller synergist som det inneholder,klassifisering og risiko- og sikkerhetssetninger i samsvar med direktiv [1999/45/EF](eu/31999l0045*) og forordningen nevnt i artikkel 65,bruk eller bruksområder som omfattes av godkjenningen,årsakene til tilbakekalling av en godkjenning dersom de er knyttet til sikkerhetsspørsmål,listen over bruksområder av mindre betydning nevnt i artikkel 51 nr. 8.
+
+2\. Opplysningene nevnt i nr. 1 skal være lett tilgjengelige og ajourføres minst hver tredje måned.
+
+3\. Det skal innføres et informasjonssystem for godkjenninger etter framgangsmåten nevnt i artikkel 79 nr. 3 for å lette anvendelsen av nr. 1 og 2 i denne artikkel.
 
 ### [Kapittel](forskrift/2015-05-06-455/kapiv) IV
 Hjelpestoffer
 
 ### Artikkel 58. Omsetning og bruk av hjelpestoffer
 
-1. Et hjelpestoff skal ikke bringes i omsetning eller benyttes med mindre det er godkjent i den berørte medlemsstaten i samsvar med vilkårene fastsatt i forordningen nevnt i nr. 2.
+1\. Et hjelpestoff skal ikke bringes i omsetning eller benyttes med mindre det er godkjent i den berørte medlemsstaten i samsvar med vilkårene fastsatt i forordningen nevnt i nr. 2.
 
-2. Nærmere regler for godkjenningen av hjelpestoffer, herunder opplysningskrav, og framgangsmåtene for melding, evaluering, vurdering og beslutningstaking skal fastsettes i en forordning som skal vedtas etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 79 nr. 4.
+2\. Nærmere regler for godkjenningen av hjelpestoffer, herunder opplysningskrav, og framgangsmåtene for melding, evaluering, vurdering og beslutningstaking skal fastsettes i en forordning som skal vedtas etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 79 nr. 4.
 
-3. Artikkel 81 nr. 3 får anvendelse.
+3\. Artikkel 81 nr. 3 får anvendelse.
 
 ### [Kapittel V](forskrift/2015-05-06-455/kapv)
 Vern av opplysninger og felles bruk av opplysninger
 
 ### Artikkel 59. Vern av opplysninger
 
-1. Forsøks- og undersøkelsesrapportene skal omfattes av bestemmelsene om vern av opplysninger i henhold til vilkårene fastsatt i denne artikkel.Vernet skal gjelde for forsøks- og undersøkelsesrapporter om det aktive stoffet, det beskyttende middelet eller synergisten, hjelpestoffer og plantevernmiddelet som nevnt i artikkel 8 nr. 2, som en søker legger fram for en medlemsstat for godkjenning i henhold til denne forordning (første søker), forutsatt at nevnte forsøks- og undersøkelsesrapporter varnødvendige for godkjenningen eller endring av godkjenningen for å tillate bruk på en annen vekst ogbekreftet å være i samsvar med prinsippene for god laboratoriepraksis eller god forsøkspraksis.Dersom en rapport vernes, kan en medlemsstat som har mottatt den, ikke bruke den til fordel for andre søkere i forbindelse med godkjenning av plantevernmidler, beskyttende midler eller synergister og hjelpestoffer, unntatt som fastsatt i nr. 2 i denne artikkel, i artikkel 62 eller i artikkel 80.Verneperioden for opplysninger er ti år fra datoen for den første godkjenningen i nevnte medlemsstat, unntatt som fastsatt i nr. 2 i denne artikkel eller i artikkel 62. Denne perioden forlenges til 13 år for plantevernmidler som omfattes av artikkel 47.Nevnte perioder skal forlenges med tre måneder for hver forlengelse av godkjenningen for bruksområder av mindre betydning som definert i artikkel 51 nr. 1, unntatt når forlengelsen av godkjenningen bygger på ekstrapolering, dersom søknadene om slike godkjenninger inngis av godkjenningsinnehaveren senest fem år etter datoen for første godkjenning i den aktuelle medlemsstaten. Den samlede verneperioden for opplysninger kan ikke under noen omstendighet være på mer enn 13 år. For plantevernmidler som omfattes av artikkel 47, kan samlet verneperiode for opplysningene ikke under noen omstendighet være på mer enn 15 år.De samme reglene for vern av opplysninger som for den første godkjenningen skal også gjelde for forsøks- og undersøkelsesrapporter som legges fram av tredjemann med sikte på utvidelse av godkjenningen til bruksområder av mindre betydning i samsvar med artikkel 51 nr. 1.En undersøkelse skal også omfattes av vernet dersom undersøkelsen har vært nødvendig for å fornye eller foreta en ny vurdering av en godkjenning. Verneperioden for opplysninger skal være 30 måneder. Første til og med fjerde ledd får tilsvarende anvendelse.
+1\. Forsøks- og undersøkelsesrapportene skal omfattes av bestemmelsene om vern av opplysninger i henhold til vilkårene fastsatt i denne artikkel.Vernet skal gjelde for forsøks- og undersøkelsesrapporter om det aktive stoffet, det beskyttende middelet eller synergisten, hjelpestoffer og plantevernmiddelet som nevnt i artikkel 8 nr. 2, som en søker legger fram for en medlemsstat for godkjenning i henhold til denne forordning (første søker), forutsatt at nevnte forsøks- og undersøkelsesrapporter varnødvendige for godkjenningen eller endring av godkjenningen for å tillate bruk på en annen vekst ogbekreftet å være i samsvar med prinsippene for god laboratoriepraksis eller god forsøkspraksis.Dersom en rapport vernes, kan en medlemsstat som har mottatt den, ikke bruke den til fordel for andre søkere i forbindelse med godkjenning av plantevernmidler, beskyttende midler eller synergister og hjelpestoffer, unntatt som fastsatt i nr. 2 i denne artikkel, i artikkel 62 eller i artikkel 80.Verneperioden for opplysninger er ti år fra datoen for den første godkjenningen i nevnte medlemsstat, unntatt som fastsatt i nr. 2 i denne artikkel eller i artikkel 62. Denne perioden forlenges til 13 år for plantevernmidler som omfattes av artikkel 47.Nevnte perioder skal forlenges med tre måneder for hver forlengelse av godkjenningen for bruksområder av mindre betydning som definert i artikkel 51 nr. 1, unntatt når forlengelsen av godkjenningen bygger på ekstrapolering, dersom søknadene om slike godkjenninger inngis av godkjenningsinnehaveren senest fem år etter datoen for første godkjenning i den aktuelle medlemsstaten. Den samlede verneperioden for opplysninger kan ikke under noen omstendighet være på mer enn 13 år. For plantevernmidler som omfattes av artikkel 47, kan samlet verneperiode for opplysningene ikke under noen omstendighet være på mer enn 15 år.De samme reglene for vern av opplysninger som for den første godkjenningen skal også gjelde for forsøks- og undersøkelsesrapporter som legges fram av tredjemann med sikte på utvidelse av godkjenningen til bruksområder av mindre betydning i samsvar med artikkel 51 nr. 1.En undersøkelse skal også omfattes av vernet dersom undersøkelsen har vært nødvendig for å fornye eller foreta en ny vurdering av en godkjenning. Verneperioden for opplysninger skal være 30 måneder. Første til og med fjerde ledd får tilsvarende anvendelse.
 
-2. Nr. 1 får ikke anvendelsepå forsøks- og undersøkelsesrapporter som søkeren har lagt fram en fullmakt for, ellerdersom verneperioden for opplysninger for de berørte forsøks- og undersøkelsesrapportene er utløpt for et annet plantevernmiddel.
+2\. Nr. 1 får ikke anvendelsepå forsøks- og undersøkelsesrapporter som søkeren har lagt fram en fullmakt for, ellerdersom verneperioden for opplysninger for de berørte forsøks- og undersøkelsesrapportene er utløpt for et annet plantevernmiddel.
 
-3. Vern av opplysninger i henhold til nr. 1 skal gis bare dersom den første søkeren har anmodet om vern av opplysninger for forsøks- og undersøkelsesrapportene om det aktive stoffet, det beskyttende middelet eller synergisten, hjelpestoffet og plantevernmidler på det tidspunktet da dokumentasjonen ble lagt fram, og for hver forsøks- og undersøkelsesrapport har gitt den berørte medlemsstaten opplysningene nevnt i artikkel 8 nr. 1 bokstav f) og artikkel 33 nr. 3 bokstav d) samt bekreftelse på at det ikke er gitt andre verneperioder for opplysningene for den aktuelle forsøks- eller undersøkelsesrapporten, eller at en eventuell periode som er gitt, ikke er utløpt.
+3\. Vern av opplysninger i henhold til nr. 1 skal gis bare dersom den første søkeren har anmodet om vern av opplysninger for forsøks- og undersøkelsesrapportene om det aktive stoffet, det beskyttende middelet eller synergisten, hjelpestoffet og plantevernmidler på det tidspunktet da dokumentasjonen ble lagt fram, og for hver forsøks- og undersøkelsesrapport har gitt den berørte medlemsstaten opplysningene nevnt i artikkel 8 nr. 1 bokstav f) og artikkel 33 nr. 3 bokstav d) samt bekreftelse på at det ikke er gitt andre verneperioder for opplysningene for den aktuelle forsøks- eller undersøkelsesrapporten, eller at en eventuell periode som er gitt, ikke er utløpt.
 
 ### Artikkel 60. Liste over forsøks- og undersøkelsesrapporter
 
-1. For hvert aktive stoff, beskyttende middel, synergist og hjelpestoff skal rapporterende medlemsstater utarbeide en liste over forsøks- og undersøkelsesrapportene som kreves for den første godkjenningen, for endring av vilkårene for godkjenning eller for fornyelse av godkjenningen, og gjøre den tilgjengelig for medlemsstatene og Kommisjonen.
+1\. For hvert aktive stoff, beskyttende middel, synergist og hjelpestoff skal rapporterende medlemsstater utarbeide en liste over forsøks- og undersøkelsesrapportene som kreves for den første godkjenningen, for endring av vilkårene for godkjenning eller for fornyelse av godkjenningen, og gjøre den tilgjengelig for medlemsstatene og Kommisjonen.
 
-2. For hvert plantevernmiddel som medlemsstatene godkjenner, skal de oppbevare og på anmodning gjøre tilgjengelig for alle berørte parteren liste over de forsøks- og undersøkelsesrapportene om det aktive stoffet, det beskyttende middelet eller synergisten, hjelpestoffet og plantevernmiddelet som er nødvendige for den første godkjenningen, for endring av vilkårene for godkjenning og for fornyelse av godkjenningen, ogen liste over forsøks- og undersøkelsesrapporter som søkeren har anmodet om vern for i henhold til artikkel 59, og alle begrunnelser som er gitt i samsvar med nevnte artikkel.
+2\. For hvert plantevernmiddel som medlemsstatene godkjenner, skal de oppbevare og på anmodning gjøre tilgjengelig for alle berørte parteren liste over de forsøks- og undersøkelsesrapportene om det aktive stoffet, det beskyttende middelet eller synergisten, hjelpestoffet og plantevernmiddelet som er nødvendige for den første godkjenningen, for endring av vilkårene for godkjenning og for fornyelse av godkjenningen, ogen liste over forsøks- og undersøkelsesrapporter som søkeren har anmodet om vern for i henhold til artikkel 59, og alle begrunnelser som er gitt i samsvar med nevnte artikkel.
 
-3. Listene i nr. 1 og 2 skal inneholde opplysninger om hvorvidt nevnte forsøks- og undersøkelsesrapporter ble bekreftet å være i samsvar med prinsippene for god laboratoriepraksis og god forsøkspraksis.
+3\. Listene i nr. 1 og 2 skal inneholde opplysninger om hvorvidt nevnte forsøks- og undersøkelsesrapporter ble bekreftet å være i samsvar med prinsippene for god laboratoriepraksis og god forsøkspraksis.
 
 ### Artikkel 61. Allmenne regler for å unngå gjentakelse av forsøk
 
-1. For å unngå gjentakelse av forsøk skal alle personer som har til hensikt å søke om godkjenning av et plantevernmiddel, før noen forsøk eller undersøkelser utføres, konsultere opplysningene nevnt i artikkel 57 for å undersøke om og til hvem det allerede er gitt godkjenning for et plantevernmiddel som inneholder samme aktive stoff, beskyttende middel eller synergist, eller for et hjelpestoff. Vedkommende myndighet skal på anmodning fra den potensielle søkeren gi vedkommende en liste over forsøks- og undersøkelsesrapporter utarbeidet i samsvar med artikkel 60 for nevnte produkt.Den potensielle søkeren skal legge fram alle opplysninger om identiteten til og urenheter i det aktive stoffet vedkommende har til hensikt å bruke. Forespørselen skal underbygges med dokumentasjon av at den potensielle søkeren har til hensikt å søke om godkjenning.
+1\. For å unngå gjentakelse av forsøk skal alle personer som har til hensikt å søke om godkjenning av et plantevernmiddel, før noen forsøk eller undersøkelser utføres, konsultere opplysningene nevnt i artikkel 57 for å undersøke om og til hvem det allerede er gitt godkjenning for et plantevernmiddel som inneholder samme aktive stoff, beskyttende middel eller synergist, eller for et hjelpestoff. Vedkommende myndighet skal på anmodning fra den potensielle søkeren gi vedkommende en liste over forsøks- og undersøkelsesrapporter utarbeidet i samsvar med artikkel 60 for nevnte produkt.Den potensielle søkeren skal legge fram alle opplysninger om identiteten til og urenheter i det aktive stoffet vedkommende har til hensikt å bruke. Forespørselen skal underbygges med dokumentasjon av at den potensielle søkeren har til hensikt å søke om godkjenning.
 
-2. Vedkommende myndighet i medlemsstaten skal, dersom den er overbevist om at den potensielle søkeren har til hensikt å søke om godkjenning eller fornye eller foreta en ny vurdering av en godkjenning, oppgi navn og adresse på innehaveren eller innehaverne av relevante tidligere godkjenninger, og skal samtidig underrette disse innehaverne av godkjenninger om søkerens navn og adresse.
+2\. Vedkommende myndighet i medlemsstaten skal, dersom den er overbevist om at den potensielle søkeren har til hensikt å søke om godkjenning eller fornye eller foreta en ny vurdering av en godkjenning, oppgi navn og adresse på innehaveren eller innehaverne av relevante tidligere godkjenninger, og skal samtidig underrette disse innehaverne av godkjenninger om søkerens navn og adresse.
 
-3. Den potensielle søkeren som søker om godkjenning eller om fornyelse eller ny vurdering av godkjenningen og innehaveren eller innehaverne av relevante godkjenninger skal treffe alle rimelige tiltak for å komme til enighet om deling av eventuelle forsøks- og undersøkelsesrapporter som er vernet i henhold til artikkel 59, på en rettferdig og åpen måte som ikke innebærer forskjellsbehandling.
+3\. Den potensielle søkeren som søker om godkjenning eller om fornyelse eller ny vurdering av godkjenningen og innehaveren eller innehaverne av relevante godkjenninger skal treffe alle rimelige tiltak for å komme til enighet om deling av eventuelle forsøks- og undersøkelsesrapporter som er vernet i henhold til artikkel 59, på en rettferdig og åpen måte som ikke innebærer forskjellsbehandling.
 
 ### Artikkel 62. Deling av forsøk og undersøkelser med virveldyr
 
-1. Forsøk på virveldyr i henhold til denne forordning skal skje bare dersom ingen annen metode er tilgjengelig. Gjentakelse av forsøk og undersøkelser med virveldyr skal unngås i henhold til denne forordning i samsvar med nr. 2–6.
+1\. Forsøk på virveldyr i henhold til denne forordning skal skje bare dersom ingen annen metode er tilgjengelig. Gjentakelse av forsøk og undersøkelser med virveldyr skal unngås i henhold til denne forordning i samsvar med nr. 2–6.
 
-2. Medlemsstatene skal ikke godta gjentakelse av forsøk og undersøkelser med virveldyr eller allerede iverksatte forsøk og undersøkelser med virveldyr dersom konvensjonelle metoder som de som er beskrevet i vedlegg II til direktiv [1999/45/EF](eu/31999l0045*), med rimelighet kunne ha vært anvendt som støtte for en søknad om godkjenning. Personer som har til hensikt å utføre forsøk og undersøkelser med virveldyr, skal treffe de nødvendige tiltak for å bekrefte at de nevnte forsøkene og undersøkelsene ikke allerede er foretatt eller igangsatt.
+2\. Medlemsstatene skal ikke godta gjentakelse av forsøk og undersøkelser med virveldyr eller allerede iverksatte forsøk og undersøkelser med virveldyr dersom konvensjonelle metoder som de som er beskrevet i vedlegg II til direktiv [1999/45/EF](eu/31999l0045*), med rimelighet kunne ha vært anvendt som støtte for en søknad om godkjenning. Personer som har til hensikt å utføre forsøk og undersøkelser med virveldyr, skal treffe de nødvendige tiltak for å bekrefte at de nevnte forsøkene og undersøkelsene ikke allerede er foretatt eller igangsatt.
 
-3. Den potensielle søkeren og innehaveren eller innehaverne av de relevante godkjenningene skal gjøre det de kan for å sikre at rapporter om forsøk og undersøkelser med virveldyr blir delt. Kostnadene ved å dele forsøks- og undersøkelsesrapporter skal fastsettes på en rettferdig og åpen måte som ikke innebærer forskjellsbehandling. Den potensielle søkeren har bare plikt til å dele kostnadene for de opplysningene søkeren er pålagt å legge fram for å oppfylle godkjenningskravene.
+3\. Den potensielle søkeren og innehaveren eller innehaverne av de relevante godkjenningene skal gjøre det de kan for å sikre at rapporter om forsøk og undersøkelser med virveldyr blir delt. Kostnadene ved å dele forsøks- og undersøkelsesrapporter skal fastsettes på en rettferdig og åpen måte som ikke innebærer forskjellsbehandling. Den potensielle søkeren har bare plikt til å dele kostnadene for de opplysningene søkeren er pålagt å legge fram for å oppfylle godkjenningskravene.
 
-4. Dersom den potensielle søkeren og innehaveren eller innehaverne av de relevante godkjenninger av plantevernmidler som inneholder samme aktive stoff, beskyttende middel eller synergist, eller av hjelpestoffer, ikke kan komme til enighet om delingen av forsøks- og undersøkelsesrapporter om virveldyr, skal den potensielle søkeren underrette vedkommende myndighet i medlemsstaten nevnt i artikkel 61 nr. 1.Dersom partene ikke kan komme til enighet i samsvar med nr. 3, skal dette ikke være til hinder for at vedkommende myndighet i den berørte medlemsstaten bruker rapportene om forsøk og undersøkelser med virveldyr i forbindelse med søknaden fra den potensielle søkeren.
+4\. Dersom den potensielle søkeren og innehaveren eller innehaverne av de relevante godkjenninger av plantevernmidler som inneholder samme aktive stoff, beskyttende middel eller synergist, eller av hjelpestoffer, ikke kan komme til enighet om delingen av forsøks- og undersøkelsesrapporter om virveldyr, skal den potensielle søkeren underrette vedkommende myndighet i medlemsstaten nevnt i artikkel 61 nr. 1.Dersom partene ikke kan komme til enighet i samsvar med nr. 3, skal dette ikke være til hinder for at vedkommende myndighet i den berørte medlemsstaten bruker rapportene om forsøk og undersøkelser med virveldyr i forbindelse med søknaden fra den potensielle søkeren.
 
-5. Innen 14. desember 2016 skal Kommisjonen avlegge rapport om virkningene av bestemmelsene i denne forordning om vern av opplysninger som gjelder forsøk og undersøkelser med virveldyr. Kommisjonen skal framlegge denne rapporten for Europaparlamentet og Rådet, ved behov sammen med egnede forslag til regelverk.
+5\. Innen 14. desember 2016 skal Kommisjonen avlegge rapport om virkningene av bestemmelsene i denne forordning om vern av opplysninger som gjelder forsøk og undersøkelser med virveldyr. Kommisjonen skal framlegge denne rapporten for Europaparlamentet og Rådet, ved behov sammen med egnede forslag til regelverk.
 
-6. Innehaveren eller innehaverne av den relevante godkjenningen skal ha rett til å kreve at den potensielle søkeren betaler en rimelig andel av innehaverens kostnader. Vedkommende myndighet i medlemsstaten kan oppfordre de berørte partene til å løse tvisten ved formell og bindende voldgift forvaltet i henhold til nasjonal lovgivning. Ellers kan partene løse tvisten gjennom å bringe saken inn for medlemsstatenes domstoler. Voldgiftsavgjørelser eller rettsavgjørelser skal ta hensyn til prinsippene fastsatt i nr. 3 og skal kunne fullbyrdes i medlemsstatenes domstoler.
+6\. Innehaveren eller innehaverne av den relevante godkjenningen skal ha rett til å kreve at den potensielle søkeren betaler en rimelig andel av innehaverens kostnader. Vedkommende myndighet i medlemsstaten kan oppfordre de berørte partene til å løse tvisten ved formell og bindende voldgift forvaltet i henhold til nasjonal lovgivning. Ellers kan partene løse tvisten gjennom å bringe saken inn for medlemsstatenes domstoler. Voldgiftsavgjørelser eller rettsavgjørelser skal ta hensyn til prinsippene fastsatt i nr. 3 og skal kunne fullbyrdes i medlemsstatenes domstoler.
 
 ### Kapittel VI
 Offentlig tilgang til opplysninger
 
+►**M7**
+
 ### Artikkel 63. Fortrolighet
 
-1. En søker kan framsette en anmodning om at visse deler av opplysningene som er framlagt i henhold til denne forordningen, behandles som fortrolige, ledsaget av en begrunnelse som kan etterprøves.
+1\. En søker kan framsette en anmodning om at visse deler av opplysningene som er framlagt i henhold til denne forordningen, behandles som fortrolige, ledsaget av en begrunnelse som kan etterprøves.
 
-2. Fortrolig behandling kan gis bare med hensyn til følgende opplysninger dersom søkeren dokumenterer at offentliggjøring av slike opplysninger kan skade vedkommendes interesser i vesentlig grad:Opplysninger nevnt i artikkel 39 nr. 2 i forordning (EF) nr. 178/2002.Spesifikasjonen av urenheter i det aktive stoffet og de tilknyttede metodene for analyse av urenheter i det aktive stoffet slik det er produsert, bortsett fra urenheter som anses å være av toksikologisk, økotoksikologisk eller miljømessig betydning, og de tilknyttede metodene for analyse av slike urenheter.Resultatene for produksjonspartier av det aktive stoffet, herunder urenheter.Opplysninger om et plantevernmiddels fullstendige sammensetning.
+2\. Fortrolig behandling kan gis bare med hensyn til følgende opplysninger dersom søkeren dokumenterer at offentliggjøring av slike opplysninger kan skade vedkommendes interesser i vesentlig grad:Opplysninger nevnt i artikkel 39 nr. 2 i forordning (EF) nr. 178/2002.Spesifikasjonen av urenheter i det aktive stoffet og de tilknyttede metodene for analyse av urenheter i det aktive stoffet slik det er produsert, bortsett fra urenheter som anses å være av toksikologisk, økotoksikologisk eller miljømessig betydning, og de tilknyttede metodene for analyse av slike urenheter.Resultatene for produksjonspartier av det aktive stoffet, herunder urenheter.Opplysninger om et plantevernmiddels fullstendige sammensetning.
 
 2a. Dersom myndigheten vurderer anmodninger om fortrolighet i henhold til denne forordningen, skal vilkårene og framgangsmåtene i artikkel 39–39e i forordning (EF) nr. 178/2002 og nr. 2 i denne artikkelen anvendes.
 
 2b. Dersom medlemsstatene vurderer anmodninger om fortrolighet i henhold til denne forordningen, skal følgende krav og framgangsmåter anvendes:Fortrolig behandling kan bare gis med hensyn til opplysningene oppført i nr. 2.Dersom medlemsstaten har besluttet hvilke opplysninger som skal behandles som fortrolige, skal den underrette søkeren om sin beslutning.Medlemsstatene, Kommisjonen og myndigheten skal treffe nødvendige tiltak for å sikre at opplysninger som er gitt fortrolig behandling, ikke offentliggjøres.Artikkel 39e i forordning (EF) nr. 178/2002 gjelder tilsvarende med nødvendige endringer.Uten hensyn til nr. 2 og bokstav c) og d) i dette nummeretkan medlemsstaten offentliggjøre opplysningene nevnt i nr. 2 dersom hastetiltak er nødvendige for å beskytte menneskers eller dyrs helse eller miljøet, for eksempel i nødssituasjoner,skal opplysninger som utgjør en del av konklusjonene i vitenskapelige resultater som leveres av myndigheten, og som gjelder forventede virkninger på menneskers ellers dyrs helse eller miljøet, likevel offentliggjøres; i så fall skal artikkel 39c i forordning (EF) nr. 178/2002 anvendes.Dersom en søker trekker eller har trukket en søknad, skal medlemsstatene, Kommisjonen og myndigheten respektere den fortrolige behandlingen som er gitt i samsvar med denne artikkelen. Dersom søknaden trekkes før medlemsstaten har truffet en beslutning om den relevante anmodningen om fortrolighet, skal medlemsstatene, Kommisjonen og myndigheten ikke offentliggjøre de opplysningene som det er anmodet om fortrolig behandling av.
 
-3. Denne artikkelen berører ikke europaparlaments- og rådsdirektiv [2003/4/EF](eu/32003l0004)* og europaparlaments- og rådsforordning [(EF) nr. 1049/2001](eu/32001r1049)** og (EF) nr. [1367/2006/EF](eu/32006r1367)***.
+3\. Denne artikkelen berører ikke europaparlaments- og rådsdirektiv [2003/4/EF](eu/32003l0004)\* og europaparlaments- og rådsforordning [(EF) nr. 1049/2001](eu/32001r1049)\*\* og (EF) nr. [1367/2006/EF](eu/32006r1367)\*\*\*.
+
+\* Europaparlaments- og rådsdirektiv [2003/4/EF](eu/32003l0004) av 28. januar 2003 om offentlig tilgang til miljøinformasjon, og om oppheving av rådsdirektiv [90/313/EØF](eu/31990l0313) (EUT L 41 av 14.2.2003, s. 26).\*\* Europaparlaments- og rådsforordning [(EF) nr. 1049/2001](eu/32001r1049) av 30. mai 2001 om offentlig tilgang til Europaparlamentets, Rådets og Kommisjonens dokumenter (EFT L 145 av 31.5.2001, s. 43).\*\*\* Europaparlaments- og rådsforordning [(EF) nr. 1367/2006](eu/32006r1367) av 6. september 2006 om anvendelse på fellesskapsinstitusjoner og -organer av bestemmelsene i [Århus-konvensjonen](traktat/1998-06-25-1) om tilgang til miljøinformasjon, allmenn deltakelse i beslutningsprosesser og tilgang til rettsmidler i saker vedrørende miljø (EUT L 264 av 25.9.2006, s. 13).
+
+◄**M7**
 
 ### [Kapittel](forskrift/2015-05-06-455/kapvii) VII
 Emballering, merking og reklame for plantevernmidler og hjelpestoffer
 
 ### Artikkel 64. Emballering og presentasjon
 
-1. Plantevernmidler og hjelpestoffer som kan forveksles med næringsmidler, drikker eller fôr, skal merkes slik at sannsynligheten for slik forveksling begrenses mest mulig.
+1\. Plantevernmidler og hjelpestoffer som kan forveksles med næringsmidler, drikker eller fôr, skal merkes slik at sannsynligheten for slik forveksling begrenses mest mulig.
 
-2. Plantevernmidler og hjelpestoffer som er tilgjengelige for allmennheten og kan forveksles med næringsmidler, drikker eller fôr, skal inneholde bestanddeler som reduserer risikoen for eller hindrer inntak.
+2\. Plantevernmidler og hjelpestoffer som er tilgjengelige for allmennheten og kan forveksles med næringsmidler, drikker eller fôr, skal inneholde bestanddeler som reduserer risikoen for eller hindrer inntak.
 
-3. Artikkel 9 i direktiv [1999/45/EF](eu/31999l0045*) får også anvendelse på plantevernmidler og hjelpestoffer som ikke omfattes av nevnte direktiv.
+3\. Artikkel 9 i direktiv [1999/45/EF](eu/31999l0045*) får også anvendelse på plantevernmidler og hjelpestoffer som ikke omfattes av nevnte direktiv.
 
 ### Artikkel 65. Merking
 
-1. Merkingen av plantevernmidler skal omfatte klassifiserings-, merkings- og emballeringskravene i direktiv [1999/45/EF](eu/31999l0045*) og skal oppfylle kravene fastsatt i en forordning vedtatt etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 79 nr. 4.Nevnte forordning skal også inneholde standardsetninger for særlige risikoer og sikkerhetsmessige forholdsregler som utfyller setningene i direktiv [1999/45/EF](eu/31999l0045*). Den skal omfatte teksten i artikkel 16 og teksten i vedlegg IV og V til direktiv [91/414/EØF](eu/31991l0414*) med eventuelle nødvendige endringer.
+1\. Merkingen av plantevernmidler skal omfatte klassifiserings-, merkings- og emballeringskravene i direktiv [1999/45/EF](eu/31999l0045*) og skal oppfylle kravene fastsatt i en forordning vedtatt etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 79 nr. 4.Nevnte forordning skal også inneholde standardsetninger for særlige risikoer og sikkerhetsmessige forholdsregler som utfyller setningene i direktiv [1999/45/EF](eu/31999l0045*). Den skal omfatte teksten i artikkel 16 og teksten i vedlegg IV og V til direktiv [91/414/EØF](eu/31991l0414*) med eventuelle nødvendige endringer.
 
-2. Medlemsstater kan kreve prøveeksemplarer eller modeller av emballasjen og utkast til etiketter og brosjyrer, som skal sendes inn før godkjenning gis.
+2\. Medlemsstater kan kreve prøveeksemplarer eller modeller av emballasjen og utkast til etiketter og brosjyrer, som skal sendes inn før godkjenning gis.
 
-3. Dersom en medlemsstat anser at det er behov for ytterligere setninger for å verne menneskers eller dyrs helse eller miljøet, skal den umiddelbart underrette de øvrige medlemsstatene og Kommisjonen og skal videresende tilleggssetningen eller -setningene sammen med en begrunnelse for disse kravene.Det skal vurderes om disse setningene skal oppføres i forordningen nevnt i nr. 1.I påvente av slik oppføring kan medlemsstaten kreve å få bruke tilleggssetningen eller -setningene.
+3\. Dersom en medlemsstat anser at det er behov for ytterligere setninger for å verne menneskers eller dyrs helse eller miljøet, skal den umiddelbart underrette de øvrige medlemsstatene og Kommisjonen og skal videresende tilleggssetningen eller -setningene sammen med en begrunnelse for disse kravene.Det skal vurderes om disse setningene skal oppføres i forordningen nevnt i nr. 1.I påvente av slik oppføring kan medlemsstaten kreve å få bruke tilleggssetningen eller -setningene.
 
 ### Artikkel 66. Reklame
 
-1. Det skal ikke reklameres for plantevernmidler som ikke er godkjent. All reklame for et plantevernmiddel skal ledsages av setningene «Bruk plantevernmidler forsvarlig. Les alltid etiketten og produktinformasjonen før bruk.» Disse setningene skal være lett leselige og klart atskilt fra resten av reklamen. Ordene «plantevernmidler» kan erstattes med en mer presis beskrivelse av produkttypen, f.eks. soppdrepende middel, insektmiddel eller ugressmiddel.
+1\. Det skal ikke reklameres for plantevernmidler som ikke er godkjent. All reklame for et plantevernmiddel skal ledsages av setningene «Bruk plantevernmidler forsvarlig. Les alltid etiketten og produktinformasjonen før bruk.» Disse setningene skal være lett leselige og klart atskilt fra resten av reklamen. Ordene «plantevernmidler» kan erstattes med en mer presis beskrivelse av produkttypen, f.eks. soppdrepende middel, insektmiddel eller ugressmiddel.
 
-2. Reklamen skal ikke under noen omstendighet inneholde opplysninger i tekst eller bilder som kan være villedende med hensyn til mulige risikoer for menneskers eller dyrs helse eller miljøet, som betegnelsene «lavrisiko», «giftfritt» eller «uskadelig».Bare når det gjelder plantevernmidler med lav risiko skal begrepet «godkjent som et plantevernmiddel med lav risiko i samsvar med forordning [(EF) nr. 1107/2009](eu/32009r1107)» være tillatt i reklamen. Det kan ikke brukes som en påstand på etiketten til plantevernmiddelet.
+2\. Reklamen skal ikke under noen omstendighet inneholde opplysninger i tekst eller bilder som kan være villedende med hensyn til mulige risikoer for menneskers eller dyrs helse eller miljøet, som betegnelsene «lavrisiko», «giftfritt» eller «uskadelig».Bare når det gjelder plantevernmidler med lav risiko skal begrepet «godkjent som et plantevernmiddel med lav risiko i samsvar med forordning [(EF) nr. 1107/2009](eu/32009r1107)» være tillatt i reklamen. Det kan ikke brukes som en påstand på etiketten til plantevernmiddelet.
 
-3. Medlemsstatene kan i henhold til fellesskapsretten forby eller begrense reklame for plantevernmidler i visse medier.
+3\. Medlemsstatene kan i henhold til fellesskapsretten forby eller begrense reklame for plantevernmidler i visse medier.
 
-4. Det skal være teknisk belegg for alle uttalelser som brukes til reklameformål.
+4\. Det skal være teknisk belegg for alle uttalelser som brukes til reklameformål.
 
-5. Reklamen skal ikke inneholde noen visuell framstilling av potensielt farlig praksis, som blanding eller bruk uten hensiktsmessig verneutstyr eller bruk i nærheten av næringsmidler eller i nærheten av barn.
+5\. Reklamen skal ikke inneholde noen visuell framstilling av potensielt farlig praksis, som blanding eller bruk uten hensiktsmessig verneutstyr eller bruk i nærheten av næringsmidler eller i nærheten av barn.
 
-6. Reklame- og markedsføringsmateriellet skal rette oppmerksomheten mot relevante advarselssetninger og symboler på merkingen.
+6\. Reklame- og markedsføringsmateriellet skal rette oppmerksomheten mot relevante advarselssetninger og symboler på merkingen.
 
 ### [Kapittel](forskrift/2015-05-06-455/kapviii) VIII
 Kontroller
 
 ### Artikkel 67. Registrering
 
-1. Produsenter, leverandører, distributører, importører og eksportører av plantevernmidler skal i minst fem år oppbevare opplysninger over de plantevernmidler som de produserer, importerer, eksporterer, lagrer eller bringer i omsetning. Yrkesbrukere av plantevernmidler skal i minst tre år oppbevare opplysninger over plantevernmidler de bruker, inklusive navn på plantevernmiddelet, tidspunkt for behandling og dosen som er brukt, samt området og veksten som plantevernmiddelet ble brukt på.De skal på anmodning gjøre de relevante opplysningene i disse registrene tilgjengelige for vedkommende myndigheter. Tredjemann, som drikkevannsindustrien, detaljister og forbrukere, kan anmode om tilgang til disse opplysningene ved å henvende seg til vedkommende myndighet.Vedkommende myndigheter skal gi tilgang til slike opplysninger i samsvar med gjeldende nasjonal lovgivning eller fellesskapsretten.Innen 14. desember 2012 skal Kommisjonen legge fram for Europaparlamentet og Rådet en rapport om kostnadene og fordelene ved opplysningenes sporbarhet fra bruker til detaljist når det gjelder bruk av plantevernmidler på landbruksprodukter, ved behov sammen med egnede forslag til regelverk.
+1\. Produsenter, leverandører, distributører, importører og eksportører av plantevernmidler skal i minst fem år oppbevare opplysninger over de plantevernmidler som de produserer, importerer, eksporterer, lagrer eller bringer i omsetning. Yrkesbrukere av plantevernmidler skal i minst tre år oppbevare opplysninger over plantevernmidler de bruker, inklusive navn på plantevernmiddelet, tidspunkt for behandling og dosen som er brukt, samt området og veksten som plantevernmiddelet ble brukt på.De skal på anmodning gjøre de relevante opplysningene i disse registrene tilgjengelige for vedkommende myndigheter. Tredjemann, som drikkevannsindustrien, detaljister og forbrukere, kan anmode om tilgang til disse opplysningene ved å henvende seg til vedkommende myndighet.Vedkommende myndigheter skal gi tilgang til slike opplysninger i samsvar med gjeldende nasjonal lovgivning eller fellesskapsretten.Innen 14. desember 2012 skal Kommisjonen legge fram for Europaparlamentet og Rådet en rapport om kostnadene og fordelene ved opplysningenes sporbarhet fra bruker til detaljist når det gjelder bruk av plantevernmidler på landbruksprodukter, ved behov sammen med egnede forslag til regelverk.
 
-2. Produsentene av plantevernmidler skal på anmodning fra vedkommende myndigheter utføre overvåking etter godkjenning. De skal underrette vedkommende myndigheter om de relevante resultatene.
+2\. Produsentene av plantevernmidler skal på anmodning fra vedkommende myndigheter utføre overvåking etter godkjenning. De skal underrette vedkommende myndigheter om de relevante resultatene.
 
-3. Godkjenningsinnehavere skal i samsvar med Fellesskapets regelverk for statistikk over plantevernmidler legge fram for vedkommende myndigheter i medlemsstatene alle opplysninger om salgsvolum for plantevernmidler.
+3\. Godkjenningsinnehavere skal i samsvar med Fellesskapets regelverk for statistikk over plantevernmidler legge fram for vedkommende myndigheter i medlemsstatene alle opplysninger om salgsvolum for plantevernmidler.
 
-4. For å sikre ensartet anvendelse av nr. 1, 2 og 3 kan det vedtas gjennomføringstiltak etter framgangsmåten med forskriftskomité nevnt i artikkel 79 nr. 3.
+4\. For å sikre ensartet anvendelse av nr. 1, 2 og 3 kan det vedtas gjennomføringstiltak etter framgangsmåten med forskriftskomité nevnt i artikkel 79 nr. 3.
 
 ### Artikkel 68. Overvåking og kontroller
 
+►**M3**
+
 Medlemsstatene skal innen 31. august hvert år framlegge for Kommisjonen en rapport for det foregående året om omfanget og resultatet av den offentlige kontrollen som er gjennomført for å verifisere at denne forordning overholdes.
+
+◄**M3**
+
+►**M3** – – – ►**M3**
 
 ### [Kapittel](forskrift/2015-05-06-455/kapix) IX
 Nødssituasjoner
@@ -1048,11 +1384,11 @@ De tiltakene som er truffet, skal så snart som mulig og senest etter ti virkeda
 
 ### Artikkel 71. Andre nødtiltak
 
-1. Dersom en medlemsstat offisielt underretter Kommisjonen om at det er nødvendig å treffe nødtiltak, og Kommisjonen ikke treffer tiltak i samsvar med artikkel 69 eller 70, kan medlemsstaten vedta midlertidige vernetiltak. I så fall skal den umiddelbart underrette de andre medlemsstatene og Kommisjonen.
+1\. Dersom en medlemsstat offisielt underretter Kommisjonen om at det er nødvendig å treffe nødtiltak, og Kommisjonen ikke treffer tiltak i samsvar med artikkel 69 eller 70, kan medlemsstaten vedta midlertidige vernetiltak. I så fall skal den umiddelbart underrette de andre medlemsstatene og Kommisjonen.
 
-2. Kommisjonen skal innen 30 virkedager framlegge saken for komiteen nevnt i artikkel 79 nr. 1, etter framgangsmåten med forskriftskomité nevnt i artikkel 79 nr. 3, med henblikk på å forlenge, endre eller oppheve det midlertidige nasjonale vernetiltaket.
+2\. Kommisjonen skal innen 30 virkedager framlegge saken for komiteen nevnt i artikkel 79 nr. 1, etter framgangsmåten med forskriftskomité nevnt i artikkel 79 nr. 3, med henblikk på å forlenge, endre eller oppheve det midlertidige nasjonale vernetiltaket.
 
-3. Medlemsstatene kan opprettholde de midlertidige nasjonale vernetiltakene til fellesskapstiltakene er vedtatt.
+3\. Medlemsstatene kan opprettholde de midlertidige nasjonale vernetiltakene til fellesskapstiltakene er vedtatt.
 
 ### [Kapittel X](forskrift/2015-05-06-455/kapx)
 Administrative og finansielle bestemmelser
@@ -1069,27 +1405,29 @@ Tildeling av godkjenning og alle andre tiltak i samsvar med denne forordning ber
 
 ### Artikkel 74. Gebyrer og avgifter
 
-1. Medlemsstatene kan kreve å få dekket kostnadene ved eventuelt arbeid de utfører for å oppfylle forpliktelsene i henhold til denne forordning, ved å kreve inn gebyrer eller avgifter.
+1\. Medlemsstatene kan kreve å få dekket kostnadene ved eventuelt arbeid de utfører for å oppfylle forpliktelsene i henhold til denne forordning, ved å kreve inn gebyrer eller avgifter.
 
-2. Medlemsstatene skal sikre at gebyrene eller avgiftene nevnt i nr. 1fastsettes på en måte som sikrer åpenhet, ogsvarer til de faktiske kostnadene for det aktuelle arbeidet med mindre det er i offentlighetens interesse å senke gebyrene eller avgiftene.
+2\. Medlemsstatene skal sikre at gebyrene eller avgiftene nevnt i nr. 1fastsettes på en måte som sikrer åpenhet, ogsvarer til de faktiske kostnadene for det aktuelle arbeidet med mindre det er i offentlighetens interesse å senke gebyrene eller avgiftene.
+
+Det kan fastsettes faste satser for gebyrene og avgiftene basert på gjennomsnittlige kostnader for arbeidet nevnt i nr. 1.
 
 ### Artikkel 75. Vedkommende myndighet
 
-1. Hver medlemsstat skal utpeke en eller flere vedkommende myndigheter som skal oppfylle medlemsstatens forpliktelser som fastsatt i denne forordning.
+1\. Hver medlemsstat skal utpeke en eller flere vedkommende myndigheter som skal oppfylle medlemsstatens forpliktelser som fastsatt i denne forordning.
 
-2. Hver medlemsstat skal utpeke en samordnende nasjonal myndighet som skal samordne og sikre alle nødvendige kontakter med søkere, andre medlemsstater, Kommisjonen og Myndigheten.
+2\. Hver medlemsstat skal utpeke en samordnende nasjonal myndighet som skal samordne og sikre alle nødvendige kontakter med søkere, andre medlemsstater, Kommisjonen og Myndigheten.
 
-3. Medlemsstatene skal sikre at vedkommende myndigheter har et tilstrekkelig antall behørig kvalifiserte og erfarne medarbeidere, slik at forpliktelsene i denne forordning kan oppfylles på en effektiv måte.
+3\. Medlemsstatene skal sikre at vedkommende myndigheter har et tilstrekkelig antall behørig kvalifiserte og erfarne medarbeidere, slik at forpliktelsene i denne forordning kan oppfylles på en effektiv måte.
 
-4. Hver medlemsstat skal gi opplysninger om den eller de nasjonale vedkommende myndigheter til Kommisjonen, Myndigheten og de samordnende nasjonale myndigheter i øvrige medlemsstater og underrette dem om eventuelle endringer av disse opplysningene.
+4\. Hver medlemsstat skal gi opplysninger om den eller de nasjonale vedkommende myndigheter til Kommisjonen, Myndigheten og de samordnende nasjonale myndigheter i øvrige medlemsstater og underrette dem om eventuelle endringer av disse opplysningene.
 
-5. Kommisjonen skal på sitt nettsted offentliggjøre en liste over myndighetene nevnt i nr. 1 og 2 og holde denne listen à jour.
+5\. Kommisjonen skal på sitt nettsted offentliggjøre en liste over myndighetene nevnt i nr. 1 og 2 og holde denne listen à jour.
 
 ### Artikkel 76. Kommisjonens utgifter
 
-1. Kommisjonen kan pådra seg utgifter i forbindelse med virksomhet som bidrar til å nå målene for denne forordning, blant annet for følgende:utvikling av et harmonisert system, herunder en hensiktsmessig database, for innsamling og lagring av alle opplysninger om aktive stoffer, beskyttende midler, synergister, formuleringsstoffer, plantevernmidler og hjelpestoffer, og for å gjøre slike opplysninger tilgjengelige for medlemsstatene, produsenter og andre berørte parter,gjennomføring av de undersøkelsene som er nødvendige for å utarbeide og videreutvikle regelverket for omsetning og bruk av plantevernmidler og hjelpestoffer,gjennomføring av de undersøkelsene som er nødvendige for å harmonisere framgangsmåter, kriterier for beslutningstaking og opplysningskrav,samordning, ved behov elektronisk, av samarbeidet mellom medlemsstatene, Kommisjonen og Myndigheten og tiltak for å lette arbeidsfordelingen,utvikling og vedlikehold av en ordning for samordnet elektronisk innsending og vurdering med sikte på å fremme elektronisk overføring av dokumenter og arbeidsdeling mellom søkere, medlemsstater, Kommisjonen og Myndigheten,utarbeiding av retningslinjer som kan lette den løpende anvendelsen av denne forordning,reise- og oppholdsutgifter som medlemsstatenes sakkyndige pådrar seg som følge av at Kommisjonen utnevner dem til å bistå sine sakkyndige i forbindelse med kontrollvirksomheten fastsatt i artikkel 68,opplæring av kontrollpersonale,finansiering av andre tiltak som er nødvendige for å sikre anvendelsen av forordningen vedtatt i henhold til artikkel 68.
+1\. Kommisjonen kan pådra seg utgifter i forbindelse med virksomhet som bidrar til å nå målene for denne forordning, blant annet for følgende:utvikling av et harmonisert system, herunder en hensiktsmessig database, for innsamling og lagring av alle opplysninger om aktive stoffer, beskyttende midler, synergister, formuleringsstoffer, plantevernmidler og hjelpestoffer, og for å gjøre slike opplysninger tilgjengelige for medlemsstatene, produsenter og andre berørte parter,gjennomføring av de undersøkelsene som er nødvendige for å utarbeide og videreutvikle regelverket for omsetning og bruk av plantevernmidler og hjelpestoffer,gjennomføring av de undersøkelsene som er nødvendige for å harmonisere framgangsmåter, kriterier for beslutningstaking og opplysningskrav,samordning, ved behov elektronisk, av samarbeidet mellom medlemsstatene, Kommisjonen og Myndigheten og tiltak for å lette arbeidsfordelingen,utvikling og vedlikehold av en ordning for samordnet elektronisk innsending og vurdering med sikte på å fremme elektronisk overføring av dokumenter og arbeidsdeling mellom søkere, medlemsstater, Kommisjonen og Myndigheten,utarbeiding av retningslinjer som kan lette den løpende anvendelsen av denne forordning,reise- og oppholdsutgifter som medlemsstatenes sakkyndige pådrar seg som følge av at Kommisjonen utnevner dem til å bistå sine sakkyndige i forbindelse med kontrollvirksomheten fastsatt i artikkel 68,opplæring av kontrollpersonale,finansiering av andre tiltak som er nødvendige for å sikre anvendelsen av forordningen vedtatt i henhold til artikkel 68.
 
-2. Nødvendige bevilgninger i henhold til nr. 1 skal hvert regnskapsår godkjennes av budsjettmyndigheten.
+2\. Nødvendige bevilgninger i henhold til nr. 1 skal hvert regnskapsår godkjennes av budsjettmyndigheten.
 
 ### Artikkel 77. Veiledningsdokumenter
 
@@ -1097,54 +1435,58 @@ Kommisjonen kan etter framgangsmåten med rådgivende komité nevnt i artikkel 7
 
 ### Artikkel 78. Endringer og gjennomføringstiltak
 
-1. Følgende tiltak, som har som formål å endre ikke-grunnleggende bestemmelser i denne forordning, blant annet ved å utfylle den, skal vedtas etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 79 nr. 4:endringer av vedleggene, idet det tas hensyn til foreliggende vitenskapelig og teknisk kunnskap,endringer i forordninger om opplysningskrav for aktive stoffer og plantevernmidler som nevnt i artikkel 8 nr. 1 bokstav b) og c), idet det tas hensyn til foreliggende vitenskapelig og teknisk kunnskap,endringer i forordningen om ensartede prinsipper for vurdering og godkjenning av plantevernmidler som nevnt i artikkel 29 nr. 6, idet det tas hensyn til foreliggende vitenskapelig og teknisk kunnskap,en forordning om forlengelse av godkjenningsperioden nevnt i artikkel 17 annet ledd,en forordning om opplysningskrav for beskyttende midler og synergister nevnt i artikkel 25 nr. 3,en forordning om opprettelse av et arbeidsprogram for beskyttende midler og synergister nevnt i artikkel 26,vedtakelse av de harmoniserte metodene nevnt i artikkel 29 nr. 4,oppføring av formuleringsstoffer i vedlegg III som nevnt i artikkel 27 nr. 2,utsettelse av datoen for anvendelse av denne forordning for midlertidige godkjenninger som nevnt i artikkel 30 nr. 3,opplysningskrav i forbindelse med parallellhandel som nevnt i artikkel 52 nr. 4,regler for anvendelsen av artikkel 54, særlig største tillatte mengde av plantevernmidler som kan slippes ut,nærmere regler for hjelpestoffer som nevnt i artikkel 58 nr. 2,en forordning som inneholder kravene til merking av plantevernmidler, som nevnt i artikkel 65 nr. 1,
+1\. Følgende tiltak, som har som formål å endre ikke-grunnleggende bestemmelser i denne forordning, blant annet ved å utfylle den, skal vedtas etter framgangsmåten med forskriftskomité med kontroll nevnt i artikkel 79 nr. 4:endringer av vedleggene, idet det tas hensyn til foreliggende vitenskapelig og teknisk kunnskap,endringer i forordninger om opplysningskrav for aktive stoffer og plantevernmidler som nevnt i artikkel 8 nr. 1 bokstav b) og c), idet det tas hensyn til foreliggende vitenskapelig og teknisk kunnskap,endringer i forordningen om ensartede prinsipper for vurdering og godkjenning av plantevernmidler som nevnt i artikkel 29 nr. 6, idet det tas hensyn til foreliggende vitenskapelig og teknisk kunnskap,en forordning om forlengelse av godkjenningsperioden nevnt i artikkel 17 annet ledd,en forordning om opplysningskrav for beskyttende midler og synergister nevnt i artikkel 25 nr. 3,en forordning om opprettelse av et arbeidsprogram for beskyttende midler og synergister nevnt i artikkel 26,vedtakelse av de harmoniserte metodene nevnt i artikkel 29 nr. 4,oppføring av formuleringsstoffer i vedlegg III som nevnt i artikkel 27 nr. 2,utsettelse av datoen for anvendelse av denne forordning for midlertidige godkjenninger som nevnt i artikkel 30 nr. 3,opplysningskrav i forbindelse med parallellhandel som nevnt i artikkel 52 nr. 4,regler for anvendelsen av artikkel 54, særlig største tillatte mengde av plantevernmidler som kan slippes ut,nærmere regler for hjelpestoffer som nevnt i artikkel 58 nr. 2,en forordning som inneholder kravene til merking av plantevernmidler, som nevnt i artikkel 65 nr. 1,
+
+►**M3**
 
 1. – – – ◄**M3**
 
-2. Eventuelle ytterligere tiltak for gjennomføringen av denne forordning kan vedtas etter framgangsmåten med forskriftskomité nevnt i artikkel 79 nr. 3.
+2\. Eventuelle ytterligere tiltak for gjennomføringen av denne forordning kan vedtas etter framgangsmåten med forskriftskomité nevnt i artikkel 79 nr. 3.
 
-3. Etter framgangsmåten med rådgivende komité nevnt i artikkel 79 nr. 2 skal det vedtas en forordning som inneholder listen over aktive stoffer oppført i vedlegg I til direktiv [91/414/EØF](eu/31991l0414*). Disse stoffene skal anses å ha blitt godkjent i henhold til denne forordning.
+3\. Etter framgangsmåten med rådgivende komité nevnt i artikkel 79 nr. 2 skal det vedtas en forordning som inneholder listen over aktive stoffer oppført i vedlegg I til direktiv [91/414/EØF](eu/31991l0414*). Disse stoffene skal anses å ha blitt godkjent i henhold til denne forordning.
 
 ### Artikkel 79. Komitéframgangsmåte
 
-1. Kommisjonen skal bistås av Den faste komité for næringsmiddelkjeden og dyrehelsen nedsatt ved artikkel 58 i forordning [(EF) nr. 178/2002](eu/32002r0178).
+1\. Kommisjonen skal bistås av Den faste komité for næringsmiddelkjeden og dyrehelsen nedsatt ved artikkel 58 i forordning [(EF) nr. 178/2002](eu/32002r0178).
 
-2. Når det vises til dette nummer, får artikkel 3 og 7 i beslutning [1999/468/EF](eu/31999d0468) anvendelse, samtidig som det tas hensyn til bestemmelsene i beslutningens artikkel 8.
+2\. Når det vises til dette nummer, får artikkel 3 og 7 i beslutning [1999/468/EF](eu/31999d0468) anvendelse, samtidig som det tas hensyn til bestemmelsene i beslutningens artikkel 8.
 
-3. Når det vises til dette nummer, får artikkel 5 og 7 i beslutning [1999/468/EF](eu/31999d0468) anvendelse, samtidig som det tas hensyn til bestemmelsene i beslutningens artikkel 8.Tidsrommet fastsatt i artikkel 5 nr. 6 i beslutning [1999/468/EF](eu/31999d0468) skal være tre måneder.
+3\. Når det vises til dette nummer, får artikkel 5 og 7 i beslutning [1999/468/EF](eu/31999d0468) anvendelse, samtidig som det tas hensyn til bestemmelsene i beslutningens artikkel 8.Tidsrommet fastsatt i artikkel 5 nr. 6 i beslutning [1999/468/EF](eu/31999d0468) skal være tre måneder.
 
-4. Når det vises til dette nummer, får artikkel 5a nr. 1–4 og artikkel 7 i beslutning [1999/468/EF](eu/31999d0468) anvendelse, samtidig som det tas hensyn til bestemmelsene i beslutningens artikkel 8.
+4\. Når det vises til dette nummer, får artikkel 5a nr. 1–4 og artikkel 7 i beslutning [1999/468/EF](eu/31999d0468) anvendelse, samtidig som det tas hensyn til bestemmelsene i beslutningens artikkel 8.
 
-5. Når det vises til dette nummer, får artikkel 5a nr. 1–4 og nr. 5 bokstav b) samt artikkel 7 i beslutning [1999/468/EF](eu/31999d0468) anvendelse, samtidig som det tas hensyn til bestemmelsene i beslutningens artikkel 8.Fristene fastsatt i artikkel 5a nr. 3 bokstav c) og nr. 4 bokstav b) og e) i beslutning [1999/468/EF](eu/31999d0468) skal være henholdsvis to måneder, én måned og to måneder.
+5\. Når det vises til dette nummer, får artikkel 5a nr. 1–4 og nr. 5 bokstav b) samt artikkel 7 i beslutning [1999/468/EF](eu/31999d0468) anvendelse, samtidig som det tas hensyn til bestemmelsene i beslutningens artikkel 8.Fristene fastsatt i artikkel 5a nr. 3 bokstav c) og nr. 4 bokstav b) og e) i beslutning [1999/468/EF](eu/31999d0468) skal være henholdsvis to måneder, én måned og to måneder.
 
 ### [Kapittel](forskrift/2015-05-06-455/kapxi) XI
 Overgangs- og sluttbestemmelser
 
 ### Artikkel 80. Overgangstiltak
 
-1. Når det gjelder framgangsmåten og vilkårene for godkjenning, får direktiv [91/414/EØF](eu/31991l0414*) fortsatt anvendelse påaktive stoffer som det er truffet beslutning om i samsvar med artikkel 6 nr. 3 i direktiv [91/414/EØF](eu/31991l0414*) før 14. juni 2011,aktive stoffer som er oppført i vedlegg I til forordning [(EF) nr. 737/2007](eu/32007r0737),1aktive stoffer for hvilke det er fastslått at søknadene er fullstendige i samsvar med artikkel 16 i forordning [(EF) nr. 33/2008](eu/32008r0033),2aktive stoffer for hvilke det er fastslått at søknadene er fullstendige i samsvar med artikkel 6 i forordning [(EF) nr. 33/2008](eu/32008r0033) før 14. juni 2011.På grunnlag av undersøkelsen gjennomført i henhold til direktiv [91/414/EØF](eu/31991l0414*), skal en forordning om godkjenning av et slikt stoff vedtas i samsvar med artikkel 13 nr. 2 i denne forordning. For aktive stoffer som nevnt i bokstav b) i dette nummer skal nevnte godkjenning ikke betraktes som en fornyelse av godkjenningen nevnt i artikkel 14 i denne forordning.
+1\. Når det gjelder framgangsmåten og vilkårene for godkjenning, får direktiv [91/414/EØF](eu/31991l0414*) fortsatt anvendelse påaktive stoffer som det er truffet beslutning om i samsvar med artikkel 6 nr. 3 i direktiv [91/414/EØF](eu/31991l0414*) før 14. juni 2011,aktive stoffer som er oppført i vedlegg I til forordning [(EF) nr. 737/2007](eu/32007r0737),1aktive stoffer for hvilke det er fastslått at søknadene er fullstendige i samsvar med artikkel 16 i forordning [(EF) nr. 33/2008](eu/32008r0033),2aktive stoffer for hvilke det er fastslått at søknadene er fullstendige i samsvar med artikkel 6 i forordning [(EF) nr. 33/2008](eu/32008r0033) før 14. juni 2011.På grunnlag av undersøkelsen gjennomført i henhold til direktiv [91/414/EØF](eu/31991l0414*), skal en forordning om godkjenning av et slikt stoff vedtas i samsvar med artikkel 13 nr. 2 i denne forordning. For aktive stoffer som nevnt i bokstav b) i dette nummer skal nevnte godkjenning ikke betraktes som en fornyelse av godkjenningen nevnt i artikkel 14 i denne forordning.
 
-2. Artikkel 13 nr. 1–4 og vedlegg II og III til direktiv [91/414/EØF](eu/31991l0414*) får fortsatt anvendelse på aktive stoffer oppført i vedlegg I til nevnte direktiv, og aktive stoffer godkjent i samsvar med nr. 1 i denne artikkelfor et tidsrom på fem år fra datoen for oppføring eller godkjenning for aktive stoffer som omfattes av artikkel 8 nr. 2 i direktiv [91/414/EØF](eu/31991l0414*),for et tidsrom på ti år fra datoen for oppføring eller godkjenning for aktive stoffer som ikke var i omsetning 26. juli 1993,for et tidsrom på fem år fra datoen for fornyelse av oppføringen eller godkjenningen for aktive stoffer hvis oppføring i vedlegg I til direktiv [91/414/EØF](eu/31991l0414*) utløper senest 24. november 2011. Denne bestemmelse får anvendelse bare på opplysninger som er nødvendige for fornyelse av godkjenningen, og som er bekreftet å være i samsvar med prinsippene for god laboratoriepraksis eller god forsøkspraksis senest den datoen.
+2\. Artikkel 13 nr. 1–4 og vedlegg II og III til direktiv [91/414/EØF](eu/31991l0414*) får fortsatt anvendelse på aktive stoffer oppført i vedlegg I til nevnte direktiv, og aktive stoffer godkjent i samsvar med nr. 1 i denne artikkelfor et tidsrom på fem år fra datoen for oppføring eller godkjenning for aktive stoffer som omfattes av artikkel 8 nr. 2 i direktiv [91/414/EØF](eu/31991l0414*),for et tidsrom på ti år fra datoen for oppføring eller godkjenning for aktive stoffer som ikke var i omsetning 26. juli 1993,for et tidsrom på fem år fra datoen for fornyelse av oppføringen eller godkjenningen for aktive stoffer hvis oppføring i vedlegg I til direktiv [91/414/EØF](eu/31991l0414*) utløper senest 24. november 2011. Denne bestemmelse får anvendelse bare på opplysninger som er nødvendige for fornyelse av godkjenningen, og som er bekreftet å være i samsvar med prinsippene for god laboratoriepraksis eller god forsøkspraksis senest den datoen.
 
-3. Dersom artikkel 13 i direktiv [91/414/EØF](eu/31991l0414*) får anvendelse i samsvar med nr. 1 eller nr. 2 i denne artikkel, skal den omfattes av eventuelle særlige bestemmelser om direktiv [91/414/EØF](eu/31991l0414*) fastsatt i tiltredelsesakten for en medlemsstats tiltredelse til Fellesskapet.
+3\. Dersom artikkel 13 i direktiv [91/414/EØF](eu/31991l0414*) får anvendelse i samsvar med nr. 1 eller nr. 2 i denne artikkel, skal den omfattes av eventuelle særlige bestemmelser om direktiv [91/414/EØF](eu/31991l0414*) fastsatt i tiltredelsesakten for en medlemsstats tiltredelse til Fellesskapet.
 
-4. Når det gjelder aktive stoffer hvis første godkjenning utløper senest 14. desember 2012, skal søknaden omhandlet i artikkel 14 inngis av en produsent av det aktive stoffet til en medlemsstat, med kopi til de øvrige medlemsstatene, Kommisjonen og Myndigheten, senest tre år før utløpet av den første godkjenningen.
+4\. Når det gjelder aktive stoffer hvis første godkjenning utløper senest 14. desember 2012, skal søknaden omhandlet i artikkel 14 inngis av en produsent av det aktive stoffet til en medlemsstat, med kopi til de øvrige medlemsstatene, Kommisjonen og Myndigheten, senest tre år før utløpet av den første godkjenningen.
 
-5. Beslutninger om søknader om godkjenning av plantevernmidleri henhold til artikkel 4 i direktiv [91/414/EØF](eu/31991l0414*) som er til behandling i medlemsstatene, ellersom skal endres eller tilbakekalles etter oppføring i vedlegg I til direktiv [91/414/EØF](eu/31991l0414*) eller etter en godkjenning i samsvar med nr. 1 i denne artikkel, 14. juni 2011, skal treffes i henhold til gjeldende nasjonal lovgivning før den datoen.Etter nevnte beslutning får denne forordning anvendelse.
+5\. Beslutninger om søknader om godkjenning av plantevernmidleri henhold til artikkel 4 i direktiv [91/414/EØF](eu/31991l0414*) som er til behandling i medlemsstatene, ellersom skal endres eller tilbakekalles etter oppføring i vedlegg I til direktiv [91/414/EØF](eu/31991l0414*) eller etter en godkjenning i samsvar med nr. 1 i denne artikkel, 14. juni 2011, skal treffes i henhold til gjeldende nasjonal lovgivning før den datoen.Etter nevnte beslutning får denne forordning anvendelse.
 
-6. [Produkter merket i samsvar med artikkel 16 i direktiv [91/414/EØF](eu/31991l0414*) kan fortsatt bringes i omsetning fram til 14. juni 2015.] *«Plantevernmidler som er godkjent i henhold til nasjonalt regelverk som var gjeldende på godkjenningstidspunktet, kan fortsatt markedsføres inntil de har blitt risikovurdert på nytt i henhold til forordning [(EF) nr. 1107/2009](eu/32009r1107).»*
+6\. [Produkter merket i samsvar med artikkel 16 i direktiv [91/414/EØF](eu/31991l0414*) kan fortsatt bringes i omsetning fram til 14. juni 2015.] *«Plantevernmidler som er godkjent i henhold til nasjonalt regelverk som var gjeldende på godkjenningstidspunktet, kan fortsatt markedsføres inntil de har blitt risikovurdert på nytt i henhold til forordning [(EF) nr. 1107/2009](eu/32009r1107).»*
 
-7. Innen 14. desember 2013 skal Kommisjonen utarbeide en liste over de stoffene oppført i vedlegg I til direktiv [91/414/EØF](eu/31991l0414*) som oppfyller kriteriene fastsatt i nr. 4 i vedlegg II til denne forordning, og som bestemmelsene i artikkel 50 i denne forordning får anvendelse på.
+7\. Innen 14. desember 2013 skal Kommisjonen utarbeide en liste over de stoffene oppført i vedlegg I til direktiv [91/414/EØF](eu/31991l0414*) som oppfyller kriteriene fastsatt i nr. 4 i vedlegg II til denne forordning, og som bestemmelsene i artikkel 50 i denne forordning får anvendelse på.
 
-8. ►**M6** For et produkt som er blitt godkjent i henhold til artikkel 32 nr. 1 på grunnlag av en søknad inngitt før 15. juli 2019, og som etter denne datoen omfattes av definisjonen i artikkel 3 nr. 34, får denne forordningen fortsatt anvendelse i den perioden som er angitt i godkjenningen. ◄**M6**
+8\. ►**M6** For et produkt som er blitt godkjent i henhold til artikkel 32 nr. 1 på grunnlag av en søknad inngitt før 15. juli 2019, og som etter denne datoen omfattes av definisjonen i artikkel 3 nr. 34, får denne forordningen fortsatt anvendelse i den perioden som er angitt i godkjenningen. ◄**M6**
+
+1 EUT L 169 av 29.6.2007, s. 10.2 EUT L 15 av 18.1.2008, s. 5.
 
 ### Artikkel 81. Unntak for beskyttende midler og synergister, formuleringsstoffer og hjelpestoffer
 
-1. Som unntak fra artikkel 28 nr. 1 kan en medlemsstat for et tidsrom på fem år etter vedtakelsen av programmet nevnt i artikkel 26, godkjenne omsetning på sitt territorium av plantevernmidler som inneholder beskyttende midler og synergister som ikke er godkjent, men som omfattes av nevnte program.
+1\. Som unntak fra artikkel 28 nr. 1 kan en medlemsstat for et tidsrom på fem år etter vedtakelsen av programmet nevnt i artikkel 26, godkjenne omsetning på sitt territorium av plantevernmidler som inneholder beskyttende midler og synergister som ikke er godkjent, men som omfattes av nevnte program.
 
-2. Som unntak fra artikkel 27, og uten at det berører fellesskapsretten, kan medlemsstatene anvende nasjonale bestemmelser for formuleringsstoffer som ikke er oppført i vedlegg III, fram til 14. juni 2016.Dersom en medlemsstat etter 14. juni 2016 har alvorlig mistanke om at et formuleringsstoff som ikke er oppført i vedlegg III, sannsynligvis utgjør en alvorlig risiko for menneskers eller dyrs helse eller miljøet, kan den midlertidig forby eller begrense bruken av det aktuelle formuleringsstoffet på sitt territorium. Medlemsstaten skal umiddelbart underrette de øvrige medlemsstatene og Kommisjonen om dette, og begrunne sin beslutning. Artikkel 71 får anvendelse.
+2\. Som unntak fra artikkel 27, og uten at det berører fellesskapsretten, kan medlemsstatene anvende nasjonale bestemmelser for formuleringsstoffer som ikke er oppført i vedlegg III, fram til 14. juni 2016.Dersom en medlemsstat etter 14. juni 2016 har alvorlig mistanke om at et formuleringsstoff som ikke er oppført i vedlegg III, sannsynligvis utgjør en alvorlig risiko for menneskers eller dyrs helse eller miljøet, kan den midlertidig forby eller begrense bruken av det aktuelle formuleringsstoffet på sitt territorium. Medlemsstaten skal umiddelbart underrette de øvrige medlemsstatene og Kommisjonen om dette, og begrunne sin beslutning. Artikkel 71 får anvendelse.
 
-3. Som unntak fra artikkel 58 nr. 1 kan medlemsstatene anvende nasjonale bestemmelser for godkjenning av hjelpestoffer fram til vedtakelsen av de nærmere reglene nevnt i artikkel 58 nr. 2.
+3\. Som unntak fra artikkel 58 nr. 1 kan medlemsstatene anvende nasjonale bestemmelser for godkjenning av hjelpestoffer fram til vedtakelsen av de nærmere reglene nevnt i artikkel 58 nr. 2.
 
 ### Artikkel 82. Revisjonsklausul
 
@@ -1168,16 +1510,32 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Strasbourg, 21. oktober 2009.
 
+|  |  |
+| --- | --- |
+| *For Europaparlamentet* | *For Rådet* |
+|  |  |
+| J. BUZEK | C. MALMSTRÖM |
+|  |  |
+| *President* | *Formann* |
+
+►**M1**
+
 ### Vedlegg I
 Fastsettelse av soner for godkjenning av plantevernmidler som nevnt i artikkel 3 nr. 17
+
+*Sone A – nord*
 
 Følgende medlemsstater tilhører denne sonen:
 
 Danmark, Estland, Latvia, Litauen, Finland, Sverige, «Island, Norge»
 
+*Sone B – sentrum*
+
 Følgende medlemsstater tilhører denne sonen:
 
 Belgia, Den tsjekkiske republikk, Tyskland, Irland, Luxembourg, Ungarn, Nederland, Østerrike, Polen, Romania, Slovenia, Slovakia, Det forente kongerike, «Liechtenstein»
+
+*Sone C – sør*
 
 Følgende medlemsstater tilhører denne sonen:
 
@@ -1186,21 +1544,41 @@ Bulgaria, Hellas, Spania, Frankrike, Italia, Kroatia, Kypros, Malta, Portugal◄
 ### Vedlegg II
 Framgangsmåte og kriterier for godkjenning av aktive stoffer, beskyttende midler og synergister i samsvar med [kapittel II](forskrift/2015-05-06-455/kapii)
 
+1.*Vurdering*
+
+1.1
+
 Under vurderings- og beslutningsprosessen nevnt i artikkel 4–21 skal rapporterende medlemsstat og Myndigheten samarbeide med søkerne for hurtig å løse eventuelle problemer eller for tidlig i prosessen å klarlegge behovet for ytterligere forklaringer eller undersøkelser for å kunne vurdere dokumentasjonen, herunder opplysninger som utelukker nødvendigheten av å begrense godkjenningen, eller for å endre foreslåtte vilkår for bruken av plantevernmiddelet eller for å endre dets art eller sammensetning for å sikre fullstendig overholdelse av kravene i denne forordning.
+
+1.2
 
 Myndighetens og den rapporterende medlemsstatens vurdering skal bygge på vitenskapelige prinsipper og råd fra sakkyndige.
 
+1.3
+
 Under vurderings- og beslutningsprosessen nevnt i artikkel 4–21 skal medlemsstatene og Myndigheten ta i betraktning alle ytterligere retningslinjer som er utarbeidet av Den faste komité for næringsmiddelkjeden og dyrehelsen med sikte på, der det er relevant, å justere risikovurderingene.
 
+2.*Allmenne kriterier for beslutningstaking*
+
+2.1
+
 Artikkel 4 skal anses å være oppfylt bare dersom det på grunnlag av den innsendte dokumentasjonen forventes å være mulig i minst én medlemsstat å godkjenne minst ett plantevernmiddel som inneholder det aktive stoffet for minst ett av de representative bruksområdene.
+
+2.2*Framlegging av ytterligere opplysninger*
 
 I prinsippet skal et aktivt stoff, et beskyttende middel eller en synergist godkjennes bare dersom det er sendt inn fullstendig dokumentasjon.
 
 I unntakstilfeller kan et aktivt stoff, et beskyttende middel eller en synergist godkjennes før alle opplysninger er sendt inn dersomopplysningskravene er endret eller tilpasset etter at dokumentasjonen er sendt inn, elleropplysningene anses å være rent bekreftende og bare har til formål å underbygge beslutningen.
 
+2.3*Begrenset godkjenning*
+
 Godkjenningen kan ved behov underlegges vilkår og begrensninger som nevnt i artikkel 6.
 
 Dersom rapporterende medlemsstat anser at den innsendte dokumentasjonen mangler visse opplysninger slik at det aktive stoffet bare kan godkjennes med begrensninger, skal den kontakte søkeren på et tidlig tidspunkt for å innhente ytterligere opplysninger slik at disse begrensningene eventuelt kan fjernes.
+
+3.*Kriterier for godkjenning av et aktivt stoff*
+
+3.1*Dokumentasjon*
 
 Dokumentasjonen som sendes inn i henhold til artikkel 7 nr. 1, skal inneholde alle opplysninger som er nødvendige for å fastsette, der det er relevant, akseptabelt daglig inntak (ADI), akseptabelt nivå for brukereksponering (AOEL) og akutt referansedose (ARfD).
 
@@ -1212,39 +1590,81 @@ Dokumentasjonen skal særlig gjøre det mulig åfastsette restmengder av betydni
 
 Dokumentasjonen som sendes inn i henhold til artikkel 7 nr. 1, skal være tilstrekkelig til at det, der det er relevant, kan gjøres et anslag over det aktive stoffets skjebne og spredning i miljøet og dets virkning på arter utenfor målgruppen.
 
+3.2*Virkning*
+
 Et aktivt stoff alene eller sammen med et beskyttende middel eller en synergist skal godkjennes bare dersom det for ett eller flere bruksområder er fastsatt at plantevernmiddelet etter behandling i samsvar med god plantevernpraksis og under realistiske bruksforhold, er tilstrekkelig effektivt. Dette kravet skal vurderes i samsvar med de ensartede prinsippene for vurdering og godkjenning av plantevernmidler som nevnt i artikkel 29 nr. 6.
+
+3.3*Metabolitters relevans*
 
 Der dette er relevant, skal den innsendte dokumentasjonen være tilstrekkelig omfattende til at det er mulig å fastslå metabolittenes toksikologiske, økotoksikologiske eller miljømessige relevans.
 
+►**M9**
+
+3.4.
+
 Sammensetning av det aktive stoffet, det beskyttende middelet eller synergisten
+
+3.4.1.
 
 For kjemiske aktive stoffer, beskyttende midler og synergister skal spesifikasjonen angi minste renhetsgrad, identiteten til og høyeste tillatte innhold av urenheter og, der det er relevant, av isomerer/diastereoisomerer og tilsetningsstoffer, samt innholdet av urenheter av toksikologisk, økotoksikologisk eller miljømessig betydning innenfor akseptable grenser.
 
+3.4.2.
+
 For kjemiske aktive stoffer, beskyttende midler og synergister skal spesifikasjonen eventuelt være i samsvar med den relevante spesifikasjonen fra FNs organisasjon for ernæring og landbruk (FAO), der slik spesifikasjon finnes. Det kan imidlertid vedtas strengere spesifikasjoner dersom dette er nødvendig av hensyn til menneskers eller dyrs helse eller miljøet.
+
+3.4.3.
 
 Aktive stoffer som er mikroorganismer, skal deponeres i en internasjonalt anerkjent kultursamling og ha et deponeringsnummer. Mikroorganismenes artsnavn skal entydig identifiseres på grunnlag av de nyeste vitenskapelige data, og mikroorganismene skal navngis på stammenivå, herunder enhver annen betegnelse som kan være relevant (f.eks. isolatnivå, dersom det er relevant for virus). Det skal angis om mikroorganismene er villtyper eller spontane eller induserte mutanter, eller genmodifiserte organismer.
 
+3.4.4.
+
 For aktive stoffer som er mikroorganismer, skal spesifikasjonen angi minste og høyeste innhold av mikroorganismen, identiteten til og innholdet av relevante forurensende mikroorganismer, metabolitter som gir grunn til bekymring og urenheter av toksikologisk, økotoksikologisk eller miljømessig betydning innenfor akseptable grenser.
+
+3.5.
 
 Analysemetoder
 
+3.5.1.
+
 Metodene for analyse av de kjemiske aktive stoffene, de beskyttende midlene eller synergistene i tilvirket form, og for fastsettelse av urenheter av toksikologisk, økotoksikologisk eller miljømessig betydning eller som forekommer i mengder større enn 1 g/kg i det aktive stoffet, det beskyttende middelet eller synergisten i tilvirket form, skal være godkjent og ha vist seg å være tilstrekkelig spesifikke, korrekt kalibrert, nøyaktige og presise.
+
+3.5.2.
 
 Metodene for analyse av restmengder av kjemiske aktive stoffer og relevante metabolitter i plante-, dyre- og miljømatriser og drikkevann, alt etter som, skal være godkjent og ha vist seg å være tilstrekkelig følsomme med hensyn til mengdene som anses å gi grunn til bekymring.
 
+3.5.3.
+
 Vurderingen skal være gjennomført i samsvar med de ensartede prinsippene for vurdering og godkjenning av plantevernmidler som nevnt i artikkel 29 nr. 6.
+
+3.5.4.
 
 For aktive stoffer som er mikroorganismer, skal analysemetodene for å identifisere og kvantifisere dem og relevante forurensende mikroorganismer være godkjent og ha vist seg å være tilstrekkelig spesifikke, korrekt kalibrert, nøyaktige og presise.
 
+3.5.5.
+
 For aktive stoffer som er mikroorganismer, skal analysemetodene for metabolitter som gir grunn til bekymring og relevante urenheter være godkjent og ha vist seg å være tilstrekkelig spesifikke, korrekt kalibrert, nøyaktige og presise.
+
+◄**M9**
+
+3.6*Virkning på menneskers helse*
+
+3.6.1
 
 Der det er relevant, skal ADI, AOEL og ARfD fastsettes. Ved fastsettelse av slike verdier skal en egnet sikkerhetsmargin på minst 100 sikres med hensyn til virkningenes art og alvorlighetsgrad samt sårbarhet hos særlige befolkningsgrupper. Når kritisk virkning anses å være av særlig betydning, som utviklingsnevrotoksiske eller immuntoksiske virkninger, skal en økt sikkerhetsmargin vurderes og ved behov anvendes.
 
+3.6.2
+
 Et aktivt stoff, et beskyttende middel eller en synergist skal godkjennes bare dersom det på grunnlag av vurderingen av genotoksisitetsforsøk på høyere nivå som er utført i samsvar med opplysningskravene for de aktive stoffene, de beskyttende midlene eller synergistene og andre tilgjengelige opplysninger, herunder en gjennomgåelse av den vitenskapelige litteraturen, som er gjennomgått av Myndigheten, ikke er klassifisert eller skal klassifiseres som et arvestoffskadelig stoff i kategori 1A eller 1B i samsvar med bestemmelsene i forordning [(EF) nr. 1272/2008](eu/32008r1272*).
+
+3.6.3
 
 Et aktivt stoff, et beskyttende middel eller en synergist skal godkjennes bare dersom det på grunnlag av vurderingen av forsøk for kreftframkallende virkning utført i samsvar med opplysningskravene for de aktive stoffene, de beskyttende midlene eller synergistene og andre tilgjengelige opplysninger, herunder en gjennomgåelse av den vitenskapelige litteraturen, som er gjennomgått av Myndigheten, ikke er klassifisert eller skal klassifiseres som et kreftframkallende stoff i kategori 1A eller 1B i samsvar med bestemmelsene i forordning [(EF) nr. 1272/2008](eu/32008r1272*), med mindre menneskers eksponering for nevnte aktive stoff, beskyttende middel eller synergist i et plantevernmiddel under realistiske foreslåtte bruksforhold er ubetydelig, det vil si der produktet brukes i lukkede systemer eller under andre forhold som utelukker kontakt med mennesker, og der rester av det aktive stoffet, det beskyttende middelet eller synergisten i næringsmidler eller fôr ikke overskrider standardverdien fastsatt i samsvar med artikkel 18 nr. 1 bokstav b) i forordning [(EF) nr. 396/2005](eu/32005r0396).
 
+3.6.4
+
 Et aktivt stoff, et beskyttende middel eller en synergist skal godkjennes bare dersom det på grunnlag av vurderingen av forsøk for reproduksjonstoksisitet utført i samsvar med opplysningskravene for de aktive stoffene, beskyttende midlene eller synergistene og andre tilgjengelige opplysninger, herunder en gjennomgåelse av den vitenskapelige litteraturen, som er gjennomgått av Myndigheten, ikke er klassifisert eller skal klassifiseres som et reproduksjonstoksisk stoff i kategori 1A eller 1B i samsvar med bestemmelsene i forordning [(EF) nr. 1272/2008](eu/32008r1272*), med mindre menneskers eksponering for nevnte aktive stoff, beskyttende middel eller synergist i et plantevernmiddel under realistiske foreslåtte bruksforhold er ubetydelig, det vil si der produktet brukes i lukkede systemer eller under andre forhold som utelukker kontakt med mennesker, og der rester av det aktive stoffet, det beskyttende middelet eller synergisten i næringsmidler eller fôr ikke overskrider standardverdien fastsatt i samsvar med artikkel 18 nr. 1 bokstav b) i forordning [(EF) nr. 396/2005](eu/32005r0396).
+
+3.6.5
 
 Et aktivt stoff, et beskyttende middel eller en synergist skal godkjennes bare dersom det på grunnlag av en vurdering av fellesskapsretningslinjer eller internasjonalt omforente retningslinjer for forsøk, eller andre tilgjengelige opplysninger, herunder en gjennomgåelse av den vitenskapelige litteraturen, som er gjennomgått av Myndigheten, ikke anses å ha hormonforstyrrende egenskaper som kan forårsake skadevirkninger hos mennesker, med mindre menneskers eksponering for nevnte aktive stoff, beskyttende middel eller synergist i et plantevernmiddel under realistiske foreslåtte bruksforhold er ubetydelig, det vil si der produktet brukes i lukkede systemer eller under andre forhold som utelukker kontakt med mennesker, og der rester av det berørte aktive stoffet, beskyttende middelet eller synergisten i næringsmidler eller fôr ikke overskrider standardverdien fastsatt i samsvar med artikkel 18 nr. 1 bokstav b) i forordning [(EF) nr. 396/2005](eu/32005r0396).
 
@@ -1254,47 +1674,87 @@ Inntil disse kriteriene er vedtatt, skal stoffer som er klassifisert eller skal 
 
 I tillegg kan stoffer som de som er klassifisert eller skal klassifiseres som reproduksjonstoksiske i kategori 2 i samsvar med bestemmelsene i forordning [(EF) nr. 1272/2008](eu/32008r1272*), og som har giftvirkninger på endokrine organer, anses å ha slike hormonforstyrrende egenskaper.
 
+►**M5**
+
 Fra 10. november 2018 skal et aktivt stoff, et beskyttende middel eller en synergist anses å ha hormonforstyrrende egenskaper som kan gi skadevirkninger hos mennesker, dersom det ut fra sjette ledd nr. 1)–4) er et stoff som oppfyller samtlige av følgende kriterier, med mindre det foreligger dokumentasjon som viser at de påviste skadevirkningene ikke er relevante for mennesker:Det gir en skadevirkning i en intakt organisme eller dens avkom, som er en endring i morfologi, fysiologi, vekst, utvikling, reproduksjon eller levetid hos en organisme, et system eller en (del)populasjon som fører til svekket funksjonsevne, svekket evne til å kompensere for ekstra belastning eller økt mottakelighet for andre påvirkninger.Det har en endokrin virkemåte, dvs. at det endrer hormonsystemets (det endokrine systemet) funksjon(er).Skadevirkningen er en følge av den endokrine virkemåten.
 
 Påvisning av et aktivt stoff, et beskyttende middel eller en synergist som et hormonforstyrrende stoff som kan gi skadevirkninger hos mennesker i samsvar med femte ledd, skal baseres på samtlige av følgende punkter:Alle tilgjengelige relevante vitenskapelige data (in vivo-studier eller tilstrekkelig validerte alternative testsystemer som sier noe om skadevirkninger hos mennesker eller dyr, samt in vivo-, in vitro- eller eventuelt in silico-studier som gir kunnskap om endokrine virkemåter):Vitenskapelige data framskaffet i samsvar med internasjonalt omforente studieprotokoller, særlig dem oppført i Kommisjonens meldinger i forbindelse med fastsettelse av opplysningskrav for aktive stoffer og plantevernmidler, i samsvar med denne forordning.Andre vitenskapelige data valgt etter en metode som gir systematisk oversikt, særlig følgende veiledning om litteraturopplysninger som er oppført i Kommisjonens meldinger i forbindelse med fastsettelse av opplysningskrav for aktive stoffer og plantevernmidler, i samsvar med denne forordning.En vurdering av tilgjengelige relevante vitenskapelige data basert på en bestemmelse av dataenes beviskraft, for å fastslå om kriteriene i femte ledd er oppfylt; ved bestemmelsen av dataenes beviskraft skal vurderingen av den vitenskapelige dokumentasjonen ta hensyn til samtlige av følgende faktorer:Både positive og negative resultater.Hvor relevant utformingen av studiene er for vurderingen av skadevirkninger og for den endokrine virkemåten.Dataenes kvalitet og konsistens med tanke på resultatenes mønster og sammenheng i og mellom studier med liknende utforming og på tvers av ulike arter.Undersøkelser om eksponeringsvei, toksikokinetiske undersøkelser og metabolismeundersøkelser.Begrepet grensedose samt internasjonale retningslinjer for høyeste anbefalte doser og for å vurdere feiltolkning av høy giftighet.Ved bruk av en metode basert på bestemmelse av dataenes beviskraft skal sammenhengen mellom skadevirkningen(e) og den endokrine virkemåten fastsettes ut fra biologisk plausibilitet, som skal fastslås i lys av gjeldende vitenskapelig kunnskapsnivå og idet det tas høyde for internasjonalt omforente retningslinjer.Ved identifisering av stoffet som hormonforstyrrende skal det ikke tas hensyn til skadevirkninger som er uspesifikke sekundære konsekvenser av andre toksiske virkninger.
+
+◄**M5**
+
+►**M9**
+
+3.6.6.
 
 Aktive stoffer som er mikroorganismer, skal godkjennes bare dersom det, på grunnlag av den vurderingen som er foretatt av informasjonen som er framlagt i samsvar med opplysningskravene, konkluderes med at mikroorganismens stamme ikke er patogen for mennesker.
 
 Dessuten gjelder følgende:Virus skal godkjennes bare dersom det, på grunnlag av den vurderingen som er foretatt av informasjonen som er framlagt i samsvar med opplysningskravene, konkluderes med at virusisolatet ikke er infeksiøst for mennesker.Bakteriestammer skal godkjennes bare dersom det, på grunnlag av den vurderingen som er foretatt av informasjonen som er framlagt i samsvar med opplysningskravene, konkluderes med at de ikke har noe kjent, funksjonelt og overførbart gen som koder for resistens mot relevante antimikrobielle stoffer som definert i samsvar med opplysningskravene.
 
+◄**M9**
+
+3.7*Skjebne og atferd i miljøet*
+
+3.7.1
+
 Et aktivt stoff, et beskyttende middel eller en synergist skal godkjennes bare dersom det ikke anses å være et persistent organisk forurensende stoff (POP).
 
 Et stoff som oppfyller alle tre kriterier fastsatt i avsnittene nedenfor, er et POP-stoff.
 
+*3.7.1.1**Persistens*
+
 Et aktivt stoff, et beskyttende middel eller en synergist oppfyller persistenskriteriet når det foreligger dokumentasjon på at tiden det tar for en nedbrytning av 50 % (DT50) i vann er på over to måneder, eller at dets DT50 i jord er på over seks måneder, eller at dets DT50 i sediment er på over seks måneder.
+
+3.7.1.2*Bioakkumulering*
 
 Et aktivt stoff, et beskyttende middel eller en synergist oppfyller bioakkumuleringskriteriet når det foreliggerdokumentasjon på at dets biokonsentrasjonsfaktor eller bioakkumuleringsfaktor hos arter som lever i vann, er større enn 5 000 eller, dersom slike opplysninger ikke foreligger, at fordelingskoeffisienten n-oktanol/vann (log Ko/w) er større enn 5, ellerdokumentasjon på at det aktive stoffet, det beskyttende middelet eller synergisten gir andre grunner til bekymring, f.eks. høy bioakkumulering hos arter utenfor målgruppen, høy toksisitet eller økotoksisitet.
 
+3.7.1.3*Potensial for spredning i miljøet over lange avstander:*
+
 Et aktivt stoff, et beskyttende middel eller en synergist oppfyller kriteriet for potensial for spredning i miljøet over lange avstander dersommålte nivåer av det aktive stoffet, det beskyttende middelet eller synergisten på steder langt fra utslippskildene kan gi grunn til bekymring,overvåkingsopplysninger viser at det aktive stoffet, det beskyttende middelet eller synergisten kan ha blitt spredt over store avstander i miljøet via luft, vann eller trekkende arter, med mulighet for overføring til et mottakermiljø, ellerstoffets skjebne i miljøet og/eller modellresultater viser at det aktive stoffet, det beskyttende middelet eller synergisten har potensial for spredning i miljøet over lange avstander gjennom luft, vann eller trekkende arter, med potensial for overføring til et mottakermiljø på steder langt fra utslippskildene. For et aktivt stoff, et beskyttende middel eller en synergist som hovedsakelig spres gjennom luften, skal DT50 være på mer enn to dager.
+
+3.7.2
 
 Et aktivt stoff, et beskyttende middel eller en synergist skal godkjennes bare dersom det ikke anses å være et persistent, bioakkumulerende og giftig stoff (PBT).
 
 Et stoff som oppfyller alle tre kriterier fastsatt i strekpunktene nedenfor, er et PBT-stoff.
 
+3.7.2.1*Persistens*
+
 Et aktivt stoff, et beskyttende middel eller en synergist oppfyller persistenskriteriet dersomhalveringstiden i sjøvann er over 60 dager,halveringstiden i ferskvann eller estuarvann er over 40 dager,halveringstiden i sedimenter i sjøvann er over 180 dager,halveringstiden i sedimenter i ferskvann eller estuarvann er over 120 dager, ellerhalveringstiden i jord er over 120 dager.
 
 Vurdering av persistens i miljøet skal bygge på tilgjengelige opplysninger om halveringstid innsamlet under egnede forhold, som søkeren skal beskrive.
+
+3.7.2.2*Bioakkumulering*
 
 Et aktivt stoff, et beskyttende middel eller en synergist oppfyller bioakkumuleringskriteriet dersom biokonsentrasjonsfaktoren er over 2 000.
 
 Vurdering av bioakkumulering skal bygge på målte data for biokonsentrasjonen hos arter som lever i vann. Opplysninger fra både ferskvanns- og sjøvannsarter kan benyttes.
 
+3.7.2.3*Giftighet*
+
 Et aktivt stoff, et beskyttende middel eller en synergist oppfyller giftighetskriteriet dersomlangtidskonsentrasjonen uten observert virkning for sjøvanns- eller ferskvannsorganismer er under 0,01 mg/l,stoffet er klassifisert som kreftframkallende (kategori 1A eller 1B), arvestoffskadelig (kategori 1A eller 1B) eller reproduksjonstoksisk (kategori 1A, 1B eller 2) i samsvar med forordning [(EF) nr. 1272/2008](eu/32008r1272*), ellerdet finnes andre bevis på kronisk giftighet, fastsatt ved klassifikasjonene STOT RE 1 eller STOT RE 2 i samsvar med forordning [(EF) nr. 1272/2008](eu/32008r1272*).
+
+3.7.3
 
 Et aktivt stoff, et beskyttende middel eller en synergist skal godkjennes bare dersom det ikke anses å være et svært persistent og svært bioakkumulerende stoff (vPvB).
 
 Et stoff som oppfyller de to kriteriene fastsatt i strekpunktene nedenfor, er et vPvB-stoff.
 
+3.7.3.1*Persistens*
+
 Et aktivt stoff, et beskyttende middel eller en synergist oppfyller kriteriet «svært persistent» dersomhalveringstiden i sjøvann, ferskvann eller estuarvann er over 60 dager,halveringstiden i sedimenter i sjøvann, ferskvann eller estuarvann er over 180 dager, ellerhalveringstiden i jord er over 180 dager.
+
+3.7.3.2*Bioakkumulering*
 
 Et aktivt stoff, et beskyttende middel eller en synergist oppfyller kriteriet «svært bioakkumulerende» dersom biokonsentrasjonsfaktoren er over 5 000.
 
+3.8*Økotoksikologi*
+
+3.8.1
+
 Et aktivt stoff, et beskyttende middel eller en synergist skal godkjennes bare dersom risikovurderingen viser at risikoene er akseptable ut fra kriteriene fastsatt i de ensartede prinsippene for vurdering og godkjenning av plantevernmidler som nevnt i artikkel 29 nr. 6, under realistiske foreslåtte bruksforhold for et plantevernmiddel som inneholder det aktive stoffet, det beskyttende middelet eller synergisten. Ved vurderingen må det tas hensyn til virkningenes alvorlighetsgrad, usikkerhetsmomenter i datamaterialet og antallet organismegrupper som det aktive stoffet, det beskyttende middelet eller synergisten forventes å forårsake skadevirkninger hos gjennom den tilsiktede bruken.
+
+3.8.2
 
 Et aktivt stoff, et beskyttende middel eller en synergist skal godkjennes bare dersom det på grunnlag av en vurdering av fellesskapsretningslinjer eller internasjonalt omforente retningslinjer for forsøk, ikke anses å ha hormonforstyrrende egenskaper som kan forårsake skadevirkninger hos organismer utenfor målgruppen, med mindre eksponeringen av organismer utenfor målgruppen for nevnte aktive stoff i et plantevernmiddel under realistiske foreslåtte bruksforhold er ubetydelig.►**M5**
 
@@ -1303,25 +1763,51 @@ Fra 10. november 2018 skal et aktivt stoff, et beskyttende middel eller en syner
 Identifisering av et aktivt stoff, et beskyttende middel eller en synergist som et hormonforstyrrende stoff som kan gi skadevirkninger hos organismer utenfor målgruppen i samsvar med annet ledd, skal bygge på samtlige av følgende punkter:Alle tilgjengelige relevante vitenskapelige data (in vivo-studier eller tilstrekkelig validerte alternative testsystemer som sier noe om skadevirkninger hos mennesker eller dyr, samt in vivo-, in vitro- eller eventuelt in silico-studier som gir kunnskap om endokrine virkemåter):Vitenskapelige data framskaffet i samsvar med internasjonalt omforente studieprotokoller, særlig dem oppført i Kommisjonens meldinger i forbindelse med fastsettelse av opplysningskrav for aktive stoffer og plantevernmidler, i samsvar med denne forordning,Andre vitenskapelige data valgt etter en metode som gir systematisk oversikt, særlig følgende veiledning om litteraturopplysninger som er oppført i Kommisjonens meldinger i forbindelse med fastsettelse av opplysningskrav for aktive stoffer og plantevernmidler, i samsvar med denne forordning.En vurdering av tilgjengelige relevante vitenskapelige data basert på en bestemmelse av dataenes beviskraft, for å fastslå om kriteriene i annet ledd er oppfylt; ved bestemmelsen av dataenes beviskraft skal vurderingen av den vitenskapelige dokumentasjonen ta hensyn til samtlige av følgende faktorer:Både positive og negative resultater, der det skjelnes mellom taksonomiske grupper (for eksempel pattedyr, fugler, fisk, amfibier) når det er relevant.Hvor relevant utformingen av studiene er for vurderingen av skadevirkninger og dens relevans på (del)populasjonsnivå og for vurderingen av endokrin virkemåte.Skadevirkningene på reproduksjon og vekst/utvikling samt andre relevante skadevirkninger som vil kunne påvirke (del)populasjoner. Det skal også tas hensyn til tilstrekkelige, pålitelige og representative felt- eller overvåkingsdata og/eller resultater fra populasjonsmodeller, når de foreligger.Dataenes kvalitet og konsistens, med tanke på resultatenes mønster og sammenheng i og mellom studier med liknende utforming og på tvers av ulike taksonomiske grupper.Begrepet grensedose samt internasjonale retningslinjer for høyeste anbefalte doser og for å vurdere feiltolkning av høy giftighet.Ved bruk av en metode basert på bestemmelse av dataenes beviskraft skal sammenhengen mellom skadevirkningen(e) og den endokrine virkemåten fastsettes ut fra biologisk plausibilitet, som skal fastslås i lys av gjeldende vitenskapelig kunnskapsnivå og idet det tas høyde for internasjonalt omforente retningslinjer.Ved identifisering av stoffet som hormonforstyrrende for organismer utenfor målgruppen skal det ikke tas hensyn til skadevirkninger som er uspesifikke sekundære konsekvenser av andre toksiske virkninger.
 ◄**M5**
 
+3.8.3
+
 Et aktivt stoff, et beskyttende middel eller en synergist skal godkjennes bare dersom det etter en hensiktsmessig risikovurdering på grunnlag av fellesskapsretningslinjer eller internasjonalt omforente retningslinjer for forsøk, er fastslått at bruken under foreslåtte bruksforhold av plantevernmidler som inneholder nevnte aktive stoff, beskyttende middel eller synergistvil føre til ubetydelig eksponering av honningbier, ellerikke har noen uakseptable akutte eller kroniske virkninger på bifolkets overlevelse og utvikling, idet det tas hensyn til virkningen på honningbielarver og honningbienes atferd.
+
+3.9*Definisjon av restmengder*
 
 Et aktivt stoff, et beskyttende middel eller en synergist skal godkjennes bare dersom det, der det er relevant, kan fastsettes en definisjon av restmengder for risikovurderings- og håndhevingsformål.
 
+3.10*Skjebne og atferd i grunnvann*
+
 Et aktivt stoff skal godkjennes bare dersom det for ett eller flere representative bruksområder er fastslått at den forventede konsentrasjonen av det aktive stoffet eller metabolitter, nedbrytings- eller reaksjonsprodukter i grunnvannet etter bruk av plantevernmiddelet under realistiske bruksforhold, oppfyller de respektive kriterier i de ensartede prinsippene for vurdering og godkjenning av plantevernmidler som nevnt i artikkel 29 nr. 6.
+
+4.*Stoff som skal erstattes*
 
 Et aktivt stoff skal godkjennes som et stoff som skal erstattes i henhold til artikkel 24, dersom ett av følgende vilkår er oppfylt:dets ADI, ARfD eller AOEL er betydelig lavere enn for de fleste godkjente aktive stoffer i stoffgruppene/brukskategoriene,det oppfyller to av kriteriene for å betraktes som et PBT-stoff,de kritiske virkningene av stoffet er av en slik art (f.eks. utviklingsnevrotoksiske eller immuntoksiske virkninger) at de i kombinasjon med bruks-/eksponeringsmønstrene innebærer at bruken, selv med svært strenge risikohåndteringstiltak (f.eks. fullgodt personlig verneutstyr eller svært store buffersoner) kan gi grunn til bekymring, f.eks. i form av en høy potensiell risiko for grunnvannet,det inneholder en betydelig andel ikke-aktive isomerer,det er klassifisert eller skal klassifiseres som kreftframkallende stoff i kategori 1A eller 1B i samsvar med bestemmelsene i forordning [(EF) nr. 1272/2008](eu/32008r1272*), dersom stoffet ikke er utelukket i samsvar med kriteriene fastsatt i nr. 3.6.3,det er klassifisert eller skal klassifiseres som reproduksjonstoksisk i kategori 1A eller 1B i samsvar med bestemmelsene i forordning [(EF) nr. 1272/2008](eu/32008r1272*), dersom stoffet ikke er utelukket i samsvar med kriteriene fastsatt i nr. 3.6.4,dersom det på grunnlag av en vurdering av fellesskapsretningslinjer eller internasjonalt omforente retningslinjer for forsøk eller andre tilgjengelige opplysninger, som er gjennomgått av Myndigheten, anses å ha hormonforstyrrende egenskaper som kan forårsake skadevirkninger hos mennesker, dersom stoffet ikke er utelukket i samsvar med kriteriene fastsatt i nr. 3.6.5.
 
+►**M4**
+
+5.*Aktive stoffer med lav risiko*
+
+5.1.*Andre aktive stoffer enn mikroorganismer*
+
+5.1.1.
+
 Et annet aktivt stoff enn en mikroorganisme skal ikke anses som et stoff med lav risiko dersom det oppfyller noen av følgende kriterier:det er klassifisert eller skal klassifiseres i samsvar med forordning [(EF) nr. 1272/2008 i](eu/32008r1272*) en eller flere følgende kategorier:kreftframkallende i kategori 1A, 1B eller 2,arvestoffskadelig i kategori 1A, 1B eller 2,reproduksjonstoksisk i kategori 1A, 1B eller 2,hudetsende i kategori 1,alvorlig øyeskadelig i kategori 1,åndedrettssensibiliserende i kategori 1,akutt giftig i kategori 1, 2 eller 3,giftig for bestemte organer i kategori 1 eller 2,akutt og kronisk giftig for liv i vann, kategori 1, på grunnlag av egnede standardforsøk,eksplosivt,hudetsende i kategori 1A, 1B eller 1C.Det er identifisert som et prioritert stoff i henhold til direktiv [2000/60/EF](eu/32000l0060).Det anses som en hormonhermer, ellerDet har nevrotoksiske eller immuntoksiske egenskaper.
+
+5.1.2.
 
 Andre aktive stoffer enn mikroorganismer skal ikke anses som stoffer med lav risiko dersom de er persistent (halveringstiden i jord er over 60 dager) eller biokonsentrasjonsfaktoren er høyere enn 100.
 
 Aktive stoffer som forekommer naturlig og som ikke tilsvarer nr. 5.1.1 bokstav a)–d), kan imidlertid anses som stoffer med lav risiko, selv om de er persistente (halveringstiden i jord er over 60 dager) eller biokonsentrasjonsfaktoren er høyere enn 100.
 
+5.1.3.
+
 Andre aktive stoffer enn mikroorganismer som avgis av planter, dyr og andre organismer og som tjener til kommunikasjon, skal anses som stoffer med lav risiko dersom de ikke tilsvarer nr. 5.1.1 bokstav a)–d).►**M9**
+
+5.2.
 
 Mikroorganismer
 
+5.2.1.
+
 Et aktivt stoff som er en mikroorganisme, men ikke et virus, kan anses som et aktivt stoff med lav risiko unntatt dersom stoffets følsomhet for minst to grupper av antimikrobielle stoffer ikke er påvist.
+
+5.2.2.
 
 Et aktivt stoff som er et virus, kan anses som et aktivt stoff med lav risiko, unntatt dersom det eret bakulovirus med påviste skadevirkninger på insekter som ikke er målarter, elleren ikke-virulent variant av et plantepatogen med påviste skadevirkninger for planter som ikke er målarter.◄**M9**
 ◄**M4**
@@ -1329,6 +1815,10 @@ Et aktivt stoff som er et virus, kan anses som et aktivt stoff med lav risiko, u
 ### Vedlegg III
 ►**M8**
 Liste over formuleringsstoffer som ikke er godkjent for bruk i plantevernmidler som nevnt i artikkel 27
+
+[pdf-fil](static/SF/sf-20150506-0455-32009r1107-v3-01-01.pdf)
+
+◄**M8**
 
 ### Vedlegg IV
 Sammenlignende vurdering i henhold til artikkel 50
@@ -1342,6 +1832,112 @@ Ved den sammenlignende vurderingen skal det tas hensyn til godkjente bruksområd
 ### Vedlegg V
 Opphevede direktiver med endringer som nevnt i artikkel 83
 
+*A. Direktiv [91/414/EØF](eu/31991l0414*)*
+
+| *Rettsakter som endrer direktiv [91/414/EØF](eu/31991l0414*)* | *Frist for innarbeiding* |
+| --- | --- |
+| Direktiv [93/71/EØF](eu/31993l0071*) | 3. august 1994 |
+| Direktiv [94/37/EF](eu/31994l0037) | 31. juli 1995 |
+| Direktiv [94/79/EF](eu/31994l0079*) | 31. januar 1996 |
+| Direktiv [95/35/EF](eu/31995l0035) | 30. juni 1996 |
+| Direktiv [95/36/EF](eu/31995l0036) | 30. april 1996 |
+| Direktiv [96/12/EF](eu/31996l0012) | 31. mars 1997 |
+| Direktiv [96/46/EF](eu/31996l0046) | 30. april 1997 |
+| Direktiv [96/68/EF](eu/31996l0068) | 30. november 1997 |
+| Direktiv [97/57/EF](eu/31997l0057) | 1. oktober 1997 |
+| Direktiv [2000/80/EF](eu/32000l0080) | 1. juli 2002 |
+| Direktiv [2001/21/EF](eu/32001l0021) | 1. juli 2002 |
+| Direktiv [2001/28/EF](eu/32001l0028) | 1. august 2001 |
+| Direktiv [2001/36/EF](eu/32001l0036) | 1. mai 2002 |
+| Direktiv [2001/47/EF](eu/32001l0047) | 31. desember 2001 |
+| Direktiv [2001/49/EF](eu/32001l0049) | 31. desember 2001 |
+| Direktiv [2001/87/EF](eu/32001l0087) | 31. mars 2002 |
+| Direktiv [2001/99/EF](eu/32001l0099) | 1. januar 2003 |
+| Direktiv [2001/103/EF](eu/32001l0103) | 1. april 2003 |
+| Direktiv [2002/18/EF](eu/32002l0018) | 30. juni 2003 |
+| Direktiv [2002/37/EF](eu/32002l0037) | 31. august 2003 |
+| Direktiv [2002/48/EF](eu/32002l0048) | 31. desember 2002 |
+| Direktiv [2002/64/EF](eu/32002l0064) | 31. mars 2003 |
+| Direktiv [2002/81/EF](eu/32002l0081) | 30. juni 2003 |
+| Direktiv [2003/5/EF](eu/32003l0005) | 30. april 2004 |
+| Direktiv [2003/23/EF](eu/32003l0023) | 31. desember 2003 |
+| Direktiv [2003/31/EF](eu/32003l0031) | 30. juni 2004 |
+| Direktiv [2003/39/EF](eu/32003l0039) | 30. september 2004 |
+| Direktiv [2003/68/EF](eu/32003l0068) | 31. mars 2004 |
+| Direktiv [2003/70/EF](eu/32003l0070) | 30. november 2004 |
+| Direktiv [2003/79/EF](eu/32003l0079) | 30. juni 2004 |
+| Direktiv [2003/81/EF](eu/32003l0081) | 31. januar 2005 |
+| Direktiv [2003/82/EF](eu/32003l0082) | 30. juli 2004 |
+| Direktiv [2003/84/EF](eu/32003l0084) | 30. juni 2004 |
+| Direktiv [2003/112/EF](eu/32003l0112) | 30. april 2005 |
+| Direktiv [2003/119/EF](eu/32003l0119) | 30. september 2004 |
+| Forordning [(EF) nr. 806/2003](eu/32003r0806*) | – |
+| Direktiv [2004/20/EF](eu/32004l0020) | 31. juli 2005 |
+| Direktiv [2004/30/EF](eu/32004l0030) | 30. november 2004 |
+| Direktiv [2004/58/EF](eu/32004l0058) | 31. august 2005 |
+| Direktiv [2004/60/EF](eu/32004l0060) | 28. februar 2005 |
+| Direktiv [2004/62/EF](eu/32004l0062) | 31. mars 2005 |
+| Direktiv [2004/66/EF](eu/32004l0066) | 1. mai 2004 |
+| Direktiv [2004/71/EF](eu/32004l0071) | 31. mars 2005 |
+| Direktiv [2004/99/EF](eu/32004l0099) | 30. juni 2005 |
+| Direktiv [2005/2/EF](eu/32005l0002) | 30. september 2005 |
+| Direktiv [2005/3/EF](eu/32005l0003) | 30. september 2005 |
+| Direktiv [2005/25/EF](eu/32005l0025) | 28. mai 2006 |
+| Direktiv [2005/34/EF](eu/32005l0034) | 30. november 2005 |
+| Direktiv [2005/53/EF](eu/32005l0053) | 31. august 2006 |
+| Direktiv [2005/54/EF](eu/32005l0054) | 31. august 2006 |
+| Direktiv [2005/57/EF](eu/32005l0057) | 31. oktober 2006 |
+| Direktiv [2005/58/EF](eu/32005l0058) | 31. mai 2006 |
+| Direktiv [2005/72/EF](eu/32005l0072) | 31. desember 2006 |
+| Direktiv [2006/5/EF](eu/32006l0005) | 31. mars 2007 |
+| Direktiv [2006/6/EF](eu/32006l0006) | 31. mars 2007 |
+| Direktiv [2006/10/EF](eu/32006l0010) | 30. september 2006 |
+| Direktiv [2006/16/EF](eu/32006l0016) | 31. januar 2007 |
+| Direktiv [2006/19/EF](eu/32006l0019) | 30. september 2006 |
+| Direktiv [2006/39/EF](eu/32006l0039) | 31. juli 2007 |
+| Direktiv [2006/41/EF](eu/32006l0041) | 31. januar 2007 |
+| Direktiv [2006/45/EF](eu/32006l0045) | 18. september 2006 |
+| Direktiv [2006/64/EF](eu/32006l0064*) | 31. oktober 2007 |
+| Direktiv [2006/74/EF](eu/32006l0074) | 30. november 2007 |
+| Direktiv [2006/75/EF](eu/32006l0075) | 31. mars 2007 |
+| Direktiv [2006/85/EF](eu/32006l0085) | 31. januar 2008 |
+| Direktiv [2006/104/EF](eu/32006l0104) | 1. januar 2007 |
+| Direktiv [2006/131/EF](eu/32006l0131) | 30. juni 2007 |
+| Direktiv [2006/132/EF](eu/32006l0132) | 30. juni 2007 |
+| Direktiv [2006/133/EF](eu/32006l0133) | 30. juni 2007 |
+| Direktiv [2006/134/EF](eu/32006l0134) | 30. juni 2007 |
+| Direktiv [2006/135/EF](eu/32006l0135) | 30. juni 2007 |
+| Direktiv [2006/136/EF](eu/32006l0136) | 30. juni 2007 |
+| Direktiv [2007/5/EF](eu/32007l0005) | 31. mars 2008 |
+| Direktiv [2007/6/EF](eu/32007l0006) | 31. juli 2007 |
+| Direktiv [2007/21/EF](eu/32007l0021) | 12. desember 2007 |
+| Direktiv [2007/25/EF](eu/32007l0025) | 31. mars 2008 |
+| Direktiv [2007/31/EF](eu/32007l0031) | 1. september 2007 |
+| Direktiv [2007/50/EF](eu/32007l0050) | 31. mai 2008 |
+| Direktiv [2007/52/EF](eu/32007l0052) | 31. mars 2008 |
+| Direktiv [2007/76/EF](eu/32007l0076) | 30. april 2009 |
+| Direktiv [2008/40/EF](eu/32008l0040) | 30. april 2009 |
+| Direktiv [2008/41/EF](eu/32008l0041) | 30. juni 2009 |
+| Direktiv [2008/45/EF](eu/32008l0045) | 8. august 2008 |
+| Direktiv [2008/66/EF](eu/32008l0066) | 30. juni 2009 |
+
+*B. Direktiv [79/117/EØF](eu/31979l0117)*
+
+| *Rettsakter som endrer direktiv [79/117/EØF](eu/31979l0117)* | *Frist for innarbeiding* |
+| --- | --- |
+| Direktiv [83/131/EØF](eu/31983l0131) | 1. oktober 1984 |
+| Direktiv [85/298/EØF](eu/31985l0298) | 1. januar 1986 |
+| Direktiv [86/214/EØF](eu/31986l0214) | – |
+| Direktiv [86/355/EØF](eu/31986l0355) | 1. juli 1987 |
+| Direktiv [87/181/EØF](eu/31987l0181) | 1. januar 1988 og<br>1. januar 1989 |
+| Direktiv [87/477/EØF](eu/31987l0477) | 1. januar 1988 |
+| Direktiv [89/365/EØF](eu/31989l0365) | 31. desember 1989 |
+| Direktiv [90/335/EØF](eu/31990l0335) | 1. januar 1991 |
+| Direktiv [90/533/EØF](eu/31990l0533) | 31. desember 1990 og<br>30. september 1990 |
+| Direktiv [91/188/EØF](eu/31991l0188) | 31. mars 1992 |
+| Forordning [(EF) nr. 807/2003](eu/32003r0807) | – |
+| Forordning [(EF) nr. 850/2004](eu/32004r0850*) | – |
+
 ## Forordninger i pdf
 
 ### Forordning (EU) nr. 540/2011 (ikke konsolidert)
@@ -1353,6 +1949,11 @@ Nedenfor gjengis til informasjon norsk uoffisiell oversettelse av forordning [(E
 Endringsforordningene er ikke innarbeidet i grunnrettsakten, men gjengis nedenfor. I tillegg gjelder følgende generelle EØS-tilpasning av grunnrettsakten i samsvar med EØS-avtalen vedlegg 2 kapittel XV:
 
 *«EFTA-landene står fritt til å begrense adgangen til sine markeder for plantevernmidler som inneholder aktive stoffer som har blitt godkjent i henhold til Rådsdirektiv [91/414/EØF](eu/31991l0414*) eller overgangsbestemmelser i forordning [(EF) nr. 1107/2009](eu/32009r1107) artikkel 80.»*
+
+►**B** Forordning [(EU) nr. 540/2011](eu/32011r0540*)
+[pdf-fil](static/SF/32011r0540u.pdf)
+
+som endret ved:
 
 - **►M1** Forordning [(EU) nr. 541/2011](eu/32011r0541)
 [pdf-fil](static/SF/32011r0541u.pdf)
@@ -2008,6 +2609,8 @@ Foreligger foreløpig ikke på norsk.►**M196** Forordning [(EU) 2016/2016](eu/
 [pdf-fil](static/SF/32026r0355u-01.pdf)► **M495** Forordning [(EU) 2026/747](eu/32026r0747)
 [pdf-fil](static/SF/32026r0747u-01.pdf)
 
+Nedenfor gjengis til informasjon norske uoffisielle oversettelser av forordninger om avslag på godkjenning av aktive stoffer som ikke følger av [§ 4](forskrift/2015-05-06-455/§4):
+
 - Forordning [(EU) nr. 942/2011](eu/32011r0942)
 [pdf-fil](static/SF/32011r0942u.pdf)
 - Forordning [(EU) nr. 943/2011](eu/32011r0943)
@@ -2101,12 +2704,16 @@ Foreligger foreløpig ikke på norsk.►**M196** Forordning [(EU) 2016/2016](eu/
 - Forordning [(EU) 2024/2766](eu/32024r2766)
 [pdf-fil](static/SF/32024r2766u-01.pdf)
 
+Nedenfor gjengis til informasjon norske uoffisielle oversettelser av forordninger vedrørende datakrav ved godkjenning av aktive stoffer:
+
 - Forordning [(EU) nr. 283/2013](eu/32013r0283)
 [pdf-fil](static/SF/32013r0283u.pdf)
 - Forordning [(EU) nr. 1136/2014](eu/32014r1136)
 [pdf-fil](static/SF/32014r1136u.pdf)
 - Forordning [(EU) 2022/1439](eu/32022r1439)
 [pdf-fil](static/SF/32022r1439u-01.pdf)
+
+Nedenfor gjengis til informasjon norske uoffisielle oversettelser av forordninger vedrørende datakrav for godkjenning av plantevernmidler:
 
 - Forordning [(EU) nr. 284/2013](eu/32013r0284)
 [pdf-fil](static/SF/32013r0284u.pdf)
@@ -2115,6 +2722,8 @@ Foreligger foreløpig ikke på norsk.►**M196** Forordning [(EU) 2016/2016](eu/
 - Forordning [(EU) 2022/1440](eu/32022r1440)
 [pdf-fil](static/SF/32022r1440u-01.pdf)
 
+Nedenfor gjengis til informasjon norsk uoffisiell oversettelse av forordninger vedrørende krav til ensartede prinsipper ved vurdering og godkjenning av plantevernmidler:
+
 - Forordning [(EU) nr. 546/2011](eu/32011r0546)
 [pdf-fil](static/SF/32011r0546u.pdf)
 - Forordning [(EU) 2018/676](eu/32018r0676)
@@ -2122,8 +2731,12 @@ Foreligger foreløpig ikke på norsk.►**M196** Forordning [(EU) 2016/2016](eu/
 - Forordning [(EU) 2022/1441](eu/32022r1441)
 [pdf-fil](static/SF/32022r1441u-01.pdf)
 
+Nedenfor gjengis til informasjon norsk uoffisiell oversettelse av forordning vedrørende merkekrav for plantevernmidler. Alle tillegg til rettsakten som følger av EØS-tilpasninger i EØS-avtalen vedlegg 2 kapittel XV er innarbeidet i det vedlagte dokumentet:
+
 - Forordning [(EU) nr. 547/2011](eu/32011r0547)
 [pdf-fil](static/SF/32011r0547u.pdf)
+
+Nedenfor gjengis til informasjon norske uoffisielle oversettelser av forordninger vedrørende utløpsdatoer for godkjenning av visse aktive stoffer:
 
 - Forordning [(EU) nr. 823/2012](eu/32012r0823)
 [pdf-fil](static/SF/32012r0823u.pdf)
@@ -2132,8 +2745,12 @@ Foreligger foreløpig ikke på norsk.►**M196** Forordning [(EU) 2016/2016](eu/
 - Forordning [(EU) nr. 460/2014](eu/32014r0460)
 [pdf-fil](static/SF/32014r0460u.pdf)
 
+Nedenfor gjengis til informasjon norsk uoffisiell oversettelse av forordning om prosedyre for fornyelse av aktive stoffer i henhold til forordning [(EF) nr. 1107/2009](eu/32009r1107):
+
 - Forordning [(EU) 2020/1740](eu/32020r1740)
 [pdf-fil](static/SF/32020r1740u-01.pdf)
+
+Nedenfor gjengis til informasjon norske uoffisielle oversettelser av forordninger vedrørende oppgavefordeling mellom medlemsland:
 
 - Forordning [(EU) nr. 686/2012](eu/32012r0686)
 [pdf-fil](static/SF/32012r0686u.pdf)
@@ -2163,6 +2780,8 @@ Foreligger foreløpig ikke på norsk.►**M196** Forordning [(EU) 2016/2016](eu/
 [pdf-fil](static/SF/32024r1734u-01.pdf)
 - Forordning [(EU) 2026/398](eu/32026r0398)
 [pdf-fil](static/SF/32026r0398u-01.pdf)
+
+Nedenfor gjengis til informasjon norsk uoffisiell oversettelse av forordninger om etablering av liste over kandidater for substitusjon:
 
 - Forordning [(EU) 2015/408](eu/32015r0408)
 [pdf-fil](static/SF/32015r0408u.pdf)
@@ -2195,11 +2814,17 @@ Foreligger foreløpig ikke på norsk.►**M196** Forordning [(EU) 2016/2016](eu/
 - Forordning [(EU) 2025/1152](eu/32025r1152)
 [pdf-fil](static/SF/32025r1152u-01.pdf).
 
+Nedenfor gjengis til informasjon norsk uoffisiell oversettelse av forordning med bestemmelser om dataformat ved innsending av søknad om godkjenning av aktive stoffer:
+
 - Forordning [(EU) 2021/428](eu/32021r0428)
 [pdf-fil](static/SF/32021r0428u-01.pdf)
 
+Nedenfor gjengis til informasjon norsk uoffisiell oversettelse av forordning om fastsettelse av datakrav for godkjenning av beskyttende midler og synergister og om fastsettelse av et arbeidsprogram for gradvis revurdering av beskyttende midler og synergister på markedet:
+
 - Forordning [(EU) 2024/1487](eu/32024r1487)
 [pdf-fil](static/SF/32024r1487u-01.pdf)
+
+Nedenfor gjengis til informasjon norsk uoffisiell oversettelse av forordning om fastsettelse av detaljerte regler for identifisering av formuleringsstoffer som ikke er tillatt brukt i plantevernmidler:
 
 - Forordning [(EU) 2023/574](eu/32023r0574)
 [pdf-fil](static/SF/32023r0574u-01.pdf)

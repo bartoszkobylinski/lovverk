@@ -15,7 +15,7 @@ xml_hash: "1a91560a996ed75a2abe672940a444118723bb09fa5bee63e201c1444038fa92"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-10T17:52:49.841668+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -262,7 +262,11 @@ Her er det gitt hjemmel for opprettelse av et register over foretak som har påt
 
 *Om bestemmelser i kapittel 29*
 
-*§ 29-7a Tilsyn med produkter til byggverk**§ 29-7b Tvangsmulkt**§ 29-7c Overtredelsesgebyr*
+*§ 29-7a Tilsyn med produkter til byggverk*
+
+*§ 29-7b Tvangsmulkt*
+
+*§ 29-7c Overtredelsesgebyr*
 
 Av særlig betydning er § 29-7a tredje ledd. Bestemmelsen gir lokalstyret plikt til å bistå DiBK for å forhindre ulovlige produkter. De tre nye bestemmelsene er en logisk følge av § 29-7 om krav til produkter, og vil være av betydning for å sikre at det brukes godkjente materialer.
 

@@ -17,7 +17,7 @@ xml_hash: "c0466de1d347841961119c161516b8b0a331f2921f4db8e7e5e6e774a0a6f994"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-10T17:52:49.841668+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -168,7 +168,9 @@ Ambulerende dyrehelsepersonell bør gi dyreeiere råd om forsvarlig håndtering 
 
 Bestemmelsen innebærer en plikt til å hindre fare for forurensing og spredning av smitte gjennom forsvarlig håndtering mv. av avfallet. Plikt til å hindre andre negative virkninger forbundet med avfallet, for eksempel stikk- og kuttskader, kan følge av annet regelverk. Et eksempel er [lov 11. juni 1976 nr. 79](lov/1976-06-11-79) om kontroll med produkter og forbrukertjenester [§ 3](lov/1976-06-11-79/§3), som krever at alle som behandler produkter skal forebygge at produktet medfører helseskade, miljøforstyrrelse, forurensning, støy og lignende, og begrense slike virkninger.
 
-*Til første ledd – oppbevaring, håndtering og transport av smittefarlig avfall slik at det ikke medfører fare for forurensning eller spredning av smitte**Oppbevaring og håndtering av smittefarlig avfall i helsetjenesten og dyrehelsetjenesten*
+*Til første ledd – oppbevaring, håndtering og transport av smittefarlig avfall slik at det ikke medfører fare for forurensning eller spredning av smitte*
+
+*Oppbevaring og håndtering av smittefarlig avfall i helsetjenesten og dyrehelsetjenesten*
 
 Smittefarlig avfall bør samles opp i støtsikre og fukttette beholdere. Beholderne bør være av et materiale og utformes slik at avrenning er forhindret ved oppbevaring og videre transport helt frem til behandlingsanlegget.
 

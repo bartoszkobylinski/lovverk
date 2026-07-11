@@ -15,7 +15,7 @@ xml_hash: "7b6d38ab09a7192575bbfd795ee9cdfef284dd9184fb7ddc9b737ba052e999f5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-10T17:52:49.841668+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -737,7 +737,9 @@ The object of the controls contained in this Annex should not be defeated by the
 
 The items specified in this Annex include both new and used goods.
 
-*General Technology Note (GTN)*(To be read in conjunction with Section B of Part 1)
+*General Technology Note (GTN)*
+
+(To be read in conjunction with Section B of Part 1)
 
 1\.
 
@@ -920,7 +922,15 @@ Annex III: Websites for information on the competent authorities and address for
 
 *B. Address for notifications to, or other communication with, the European Commission:*
 
-European CommissionService for Foreign Policy Instruments (FPI)EEAS 02/3091049 Bruxelles/BrusselBELGIQUE/BELGIË
+European Commission
+
+Service for Foreign Policy Instruments (FPI)
+
+EEAS 02/309
+
+1049 Bruxelles/Brussel
+
+BELGIQUE/BELGIË
 
 > Endret ved [forskrift 14 feb 2014 nr. 214](forskrift/2014-02-14-214).
 

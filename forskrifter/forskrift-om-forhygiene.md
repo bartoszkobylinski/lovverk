@@ -16,7 +16,7 @@ xml_hash: "cbcd3036d469c454838f86596fa35ed4b1474f064a7fa90b3787ba23299f01f7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-10T17:52:49.841668+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -450,9 +450,13 @@ Fôrforetakene skal ha et personale i tilstrekkelig stort antall og med de ferdi
 3. Det skal utarbeides og iverksettes en skriftlig kvalitetskontrollplan, og den skal særlig omfatte kontroll av kritiske punkter i framstillingsprosessen, framgangsmåter for og hyppighet av prøvetaking, analysemetoder og -hyppighet, en undersøkelse av om alt fra foredlede råvarer til sluttprodukter samsvarer med spesifikasjonene, og en angivelse av hva som skjer dersom det ikke er samsvar.
 4. Dokumentasjon knyttet til råvarene som brukes i sluttproduktene, skal oppbevares av produsenten for å sikre sporbarheten. Slik dokumentasjon skal være tilgjengelig for vedkommende myndigheter i et passende tidsrom avhengig av det formål produktene omsettes for. I tillegg skal det tas prøver av ingrediensene og av hvert parti produkter som framstilles og omsettes, eller av hver bestemt del av produksjonen (ved kontinuerlig produksjon), i tilstrekkelige mengder, etter en framgangsmåte som produsenten har fastsatt på forhånd, og prøvene skal oppbevares for å sikre sporbarheten (på et regelmessig grunnlag dersom framstillingen skjer utelukkende til produsentens eget bruk). Prøvene skal forsegles og merkes slik at de lett kan identifiseres, og de skal oppbevares under forhold som sikrer mot unormal endring av prøvenes sammensetning eller unormal forringelse. De skal stilles til rådighet for vedkommende myndigheter i et passende tidsrom avhengig av det formål produktene omsettes for. Når det gjelder fôrvarer til dyr som ikke er beregnet på næringsmiddelproduksjon, skal fôrprodusenten bare oppbevare prøver av det ferdige produktet.
 
-► **M1**► **M2**
+► **M1**
 
-*Dioksinovervåking av oljer, fett og produkter framstilt av disse*◄ **M2**
+► **M2**
+
+*Dioksinovervåking av oljer, fett og produkter framstilt av disse*
+
+◄ **M2**
 
 1. Driftsansvarlige for fôrforetak som markedsfører fett, oljer eller produkter framstilt av disse og som er beregnet til bruk i fôrvarer, herunder fôrblandinger, skal analysere disse produktene i akkrediterte laboratorier for summen av dioksiner og dioksinlignende PCB i samsvar med kommisjonsforordning [(EF) nr. 152/2009](eu/32009r0152)(\*).
 ► **M2**

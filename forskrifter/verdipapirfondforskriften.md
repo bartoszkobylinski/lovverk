@@ -15,7 +15,7 @@ xml_hash: "9224bd7cfe191104842e5f461cba844118ad729eb7dd354b0f8f8d8635239c62"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-10T17:52:49.841668+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1192,7 +1192,21 @@ EØS-avtalen vedlegg IX forordning [(EU) 2016/1212](eu/32016r1212) (om fastsette
 
 (1) Fra 1. januar 2012 gjøres følgende endringer i andre forskrifter:
 
-1\. [Forskrift 1. juni 1990 nr. 435](forskrift/1990-06-01-435) om beregning av ansvarlig kapital for finansinstitusjoner, oppgjørssentraler og verdipapirforetak: – – –2. [Forskrift 28. mai 1999 nr. 654](forskrift/1999-05-28-654) om årsregnskap m.m. for verdipapirfond: – – –3. [Forskrift 29. juni 2007 nr. 747](forskrift/2007-06-29-747) om forsvarlig likviditetsstyring: – – –4. [Forskrift 29. juni 2007 nr. 876](forskrift/2007-06-29-876) til verdipapirhandelloven (verdipapirforskriften): – – –5. [Forskrift 17. desember 2007 nr. 1456](forskrift/2007-12-17-1456) skadeforsikringsselskapers kapitalforvaltning: – – –6. [Forskrift 17. desember 2007 nr. 1457](forskrift/2007-12-17-1457) om livsforsikringsselskapers og pensjonsforetaks kapitalforvaltning: – – –7. [Forskrift 1. desember 2010 nr. 1507](forskrift/2010-12-01-1507) om godtgjørelsesordninger i finansinstitusjoner, verdipapirforetak og forvaltningsselskap for verdipapirfond: – – –§ 14-3. *Overgangsbestemmelser*
+1\. [Forskrift 1. juni 1990 nr. 435](forskrift/1990-06-01-435) om beregning av ansvarlig kapital for finansinstitusjoner, oppgjørssentraler og verdipapirforetak: – – –
+
+2\. [Forskrift 28. mai 1999 nr. 654](forskrift/1999-05-28-654) om årsregnskap m.m. for verdipapirfond: – – –
+
+3\. [Forskrift 29. juni 2007 nr. 747](forskrift/2007-06-29-747) om forsvarlig likviditetsstyring: – – –
+
+4\. [Forskrift 29. juni 2007 nr. 876](forskrift/2007-06-29-876) til verdipapirhandelloven (verdipapirforskriften): – – –
+
+5\. [Forskrift 17. desember 2007 nr. 1456](forskrift/2007-12-17-1456) skadeforsikringsselskapers kapitalforvaltning: – – –
+
+6\. [Forskrift 17. desember 2007 nr. 1457](forskrift/2007-12-17-1457) om livsforsikringsselskapers og pensjonsforetaks kapitalforvaltning: – – –
+
+7\. [Forskrift 1. desember 2010 nr. 1507](forskrift/2010-12-01-1507) om godtgjørelsesordninger i finansinstitusjoner, verdipapirforetak og forvaltningsselskap for verdipapirfond: – – –
+
+§ 14-3. *Overgangsbestemmelser*
 
 (1) For norske verdipapirfond som er godkjent før denne forskrifts ikrafttredelse kan det frem til 1. juli 2012, i stedet for nøkkelinformasjon, benyttes forenklet prospekt som definert i vedlegg 1 til direktiv [2001/107/EF](eu/32001l0107).
 

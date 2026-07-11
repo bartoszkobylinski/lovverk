@@ -15,7 +15,7 @@ xml_hash: "f3b71d555770f5a7653f00ff6c63ed868a4b3e6285d2c8bfb30932488f4890ce"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-10T17:52:49.841668+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -164,4 +164,6 @@ Forskriften trer i kraft 1. januar 2010.
 
 Fra samme tidspunkt som denne forskriften trer i kraft gjøres følgende endringer:
 
-1\. I [forskrift 21. desember 2000 nr. 1382](forskrift/2000-12-21-1382) om praktisk tjeneste (turnustjeneste) for helsepersonell gjøres følgende endringer: – – –2. [Forskrift 24. juni 1983 nr. 1229](forskrift/1983-06-24-1229) om turnusordningen for fysioterapikandidater i kommunehelsetjenesten oppheves.
+1\. I [forskrift 21. desember 2000 nr. 1382](forskrift/2000-12-21-1382) om praktisk tjeneste (turnustjeneste) for helsepersonell gjøres følgende endringer: – – –
+
+2\. [Forskrift 24. juni 1983 nr. 1229](forskrift/1983-06-24-1229) om turnusordningen for fysioterapikandidater i kommunehelsetjenesten oppheves.

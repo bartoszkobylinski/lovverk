@@ -15,7 +15,7 @@ xml_hash: "db67093486d2c27c96d8183604f265e5a54dda2421941bdbe3a961a6a084e3ff"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-01T08:08:55.828874+00:00"
+retrieved_at: "2026-07-10T17:52:49.841668+00:00"
 status: "current"
 eu_basis: []
 ---

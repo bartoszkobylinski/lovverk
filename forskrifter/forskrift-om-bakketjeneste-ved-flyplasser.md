@@ -15,14 +15,18 @@ xml_hash: "e358b386398471003d5c984f7f7f2ffc1de5ffac5e5899e5a80f282fe960a024"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-10T17:52:49.841668+00:00"
 status: "current"
 eu_basis: []
 ---
 
 # Forskrift om bakketjeneste ved flyplasser (BSL E 4-1)
 
-Til forskriften er knyttet følgende vedlegg som gjelder som forskrift:Vedlegg 1. Signaler fra lufttrafikktjenesten til personer på bakkenVedlegg 2. Flyplasshåndbokens innhold
+Til forskriften er knyttet følgende vedlegg som gjelder som forskrift:
+
+Vedlegg 1. Signaler fra lufttrafikktjenesten til personer på bakken
+
+Vedlegg 2. Flyplasshåndbokens innhold
 
 (Bestemmelser som er merket med (\*) under teksten har veiledende materiale i BSL E del 2.)
 

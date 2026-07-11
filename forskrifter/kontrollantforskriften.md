@@ -15,7 +15,7 @@ xml_hash: "eee92ac65cbaebbd422f1175be57b4f919cec8a9b5c36428933bcc9250a8ec78"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-10T17:52:49.841668+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -160,7 +160,9 @@ Forskriften gjelder fra 1. januar 2004.
 
 ### Til § 4
 
-*Til [§ 4](forskrift/2003-12-10-1745/§4) (1) Autorisasjon av kontrollanter**I. En ikke-uttømmende oversikt over formelle krav iht. JAR-FCL 1 og 2 er listet under:*
+*Til [§ 4](forskrift/2003-12-10-1745/§4) (1) Autorisasjon av kontrollanter*
+
+*I. En ikke-uttømmende oversikt over formelle krav iht. JAR-FCL 1 og 2 er listet under:*
 
 - En kontrollantkandidat må inneha de sertifikater og rettigheter som minst tilsvarer de sertifikatene og de rettighetene han søker autorisasjon for å avholde ferdighetsprøve eller ferdighetskontroll i.
 - En kontrollantkandidat må inneha instruktørrettigheter til de sertifikater og rettigheter han søker autorisasjon for å avholde ferdighetsprøve eller ferdighetskontroll i.

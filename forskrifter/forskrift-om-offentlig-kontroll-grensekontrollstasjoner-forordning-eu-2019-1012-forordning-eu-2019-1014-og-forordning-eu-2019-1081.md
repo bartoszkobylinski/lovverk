@@ -17,7 +17,7 @@ xml_hash: "b5f79cfd1d98d6bba354260ac706896ef4196094a6824da8a1db9366f86deabe"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-05-30T06:43:29.855289+00:00"
+retrieved_at: "2026-07-10T17:52:49.841668+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -299,21 +299,47 @@ Utferdiget i Brussel 12. juni 2019.
 
 ### VEDLEGG II
 
-**Felt 1: Grensekontrollstasjon/kontrollsted**Navn på grensekontrollstasjon/kontrollsted
+**Felt 1: Grensekontrollstasjon/kontrollsted**
 
-**Felt 2: Kontaktopplysninger for grensekontrollstasjon og kontrollsted**Fullstendig adresseE-postadresseTelefonnummerÅpningstider (obligatorisk bare for grensekontrollstasjonen)Nettsted (obligatorisk bare for grensekontrollstasjonen)
+Navn på grensekontrollstasjon/kontrollsted
 
-**Felt 3:**Tildelt TRACES-kode
+**Felt 2: Kontaktopplysninger for grensekontrollstasjon og kontrollsted**
 
-**Felt 4: Transporttype for grensekontrollstasjonen**A = LufthavnF = JernbaneP = HavnR = Vei
+Fullstendig adresse
+
+E-postadresse
+
+Telefonnummer
+
+Åpningstider (obligatorisk bare for grensekontrollstasjonen)
+
+Nettsted (obligatorisk bare for grensekontrollstasjonen)
+
+**Felt 3:**
+
+Tildelt TRACES-kode
+
+**Felt 4: Transporttype for grensekontrollstasjonen**
+
+A = Lufthavn
+
+F = Jernbane
+
+P = Havn
+
+R = Vei
 
 **Felt 5: Kontrollsentre**
 
 (Bemerk at det kan være flere kontrollsentre underlagt en grensekontrollstasjon)Kontrollsenterets navnAdresse og kontaktopplysninger
 
-**Felt 6: Grensekontrollstasjon og kontrollsted**Kategorier av dyr og varer og spesifikasjoner
+**Felt 6: Grensekontrollstasjon og kontrollsted**
 
-**Felt 7: Grensekontrollstasjon og kontrollsted**Tilleggsspesifikasjoner om omfanget av utpekingen: fritekst hvor det kan gis tilleggsspesifikasjoner.
+Kategorier av dyr og varer og spesifikasjoner
+
+**Felt 7: Grensekontrollstasjon og kontrollsted**
+
+Tilleggsspesifikasjoner om omfanget av utpekingen: fritekst hvor det kan gis tilleggsspesifikasjoner.
 
 ### Forkortelser og spesifikasjoner som gjelder kategoriene av dyr og varer som grensekontrollstasjonen/kontrollstedet er utpekt for, herunder kontrollsentre dersom det er relevant.
 

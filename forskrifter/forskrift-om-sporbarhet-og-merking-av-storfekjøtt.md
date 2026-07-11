@@ -251,9 +251,23 @@ For å gjøre det lett å finne frem til ordlyden i de forordningene som blir gj
 
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EF) nr. 1760/2000](eu/32000r1760). Dette er grunnrettsakten. Grunnrettsakten er endret ved forordning [(EF) nr. 1791/2006](eu/32006r1791), forordning [(EU) nr. 517/2013](eu/32013r0517) og forordning [(EU) nr. 653/2014](eu/32014r0653). Alle endringer av grunnrettsakten samt de endringer og tillegg som følger av EØS-tilpasningen av grunnrettsakten i samsvar med vedlegg I, er innarbeidet nedenfor.
 
+► **B** Forordning [(EF) nr. 1760/2000](eu/32000r1760)
+
+som endret ved
+
+► **M1** Forordning [(EF) nr. 1791/2006](eu/32006r1791)
+
+► **M2** Forordning [(EU) nr. 517/2013](eu/32013r0517)
+
+► **M3** Forordning [(EU) nr. 653/2014](eu/32014r0653)
+
+► **M4** Forordning [(EU) 2016/429](eu/32016r0429)
+
 ### EUROPAPARLAMENTS- OG RÅDSFORORDNING [(EF) nr. 1760/2000](eu/32000r1760)
 av 17. juli 2000
 om opprettelse av et system for identifikasjon og registrering av storfe og om merking av storfekjøtt og storfekjøttprodukter og om oppheving av rådsforordning [(EF) nr. 820/97](eu/31997r0820)
+
+[EUROPAPARLAMENTET OG RÅDET FOR DEN EUROPEISKE UNION HAR1 –
 
 under henvisning til traktaten om opprettelse av Det europeiske fellesskap, særlig artikkel 37 og 152,
 
@@ -267,8 +281,48 @@ etter framgangsmåten fastsatt i traktatens artikkel 2515 og
 
 ut fra følgende betraktninger:I artikkel 19 i rådsforordning [(EF) nr. 820/97](eu/31997r0820) av 21. april 1997 om opprettelse av et system for identifikasjon og registrering av storfe og om merking av storfekjøtt og storfekjøttprodukter6 er det fastsatt at det skal innføres et obligatorisk system for merking av storfekjøtt som skal være obligatorisk i alle medlemsstatene fra 1. januar 2000. I samme artikkel fastsettes det også at på grunnlag av forslag fra Kommisjonen, skal det vedtas alminnelige regler for det obligatoriske systemet før denne dato.Ved rådsforordning [(EF) nr. 2772/1999](eu/31999r2772) av 21. desember 1999 om fastsettelse av alminnelige regler for et obligatorisk system for merking av storfekjøtt,7 er det fastsatt at disse alminnelige reglene skal gjelde bare midlertidig i et tidsrom på høyst åtte måneder, det vil si fra 1. februar til 31. august 2000.Av klarhetshensyn bør forordning [(EF) nr. 820/97](eu/31997r0820) oppheves og erstattes med denne forordning.Som følge av det ustabile markedet for storfekjøtt og storfekjøttprodukter som skyldes bovin spongiform encefalopati-krisen, har den større åpenheten omkring vilkårene for produksjon og markedsføring av de aktuelle produktene, særlig når det gjelder sporbarhet, hatt en positiv innvirkning på konsumet av storfekjøtt. For å bevare og styrke forbrukernes tillit til storfekjøtt og for å unngå å villede dem, er det nødvendig å utvikle et rammeverk der opplysninger gjøres tilgjengelig for forbrukerne gjennom en passende og klar produktmerking.For å oppnå dette er det viktig å opprette både et effektivt system for identifikasjon og registrering av storfe på produksjonsstadiet og et særskilt system for fellesskapsmerking i storfekjøttsektoren basert på objektive kriterier på markedsføringsstadiet.En slik forbedring vil gi garantier for at det også blir mulig å oppfylle visse krav av allmenn interesse, særlig når det gjelder vern av folkehelsen og dyrehelsen.Dette vil dessuten bidra til å styrke forbrukernes tillit til kvaliteten på storfekjøtt og storfekjøttprodukter, bevare et høyt nivå for beskyttelse av folkehelsen og styrke den varige stabiliteten på markedet for storfekjøtt.Ved artikkel 3 nr. 1 bokstav c) i rådsdirektiv [90/425/EØF](eu/31990l0425) av 26. juni 1990 om veterinærkontroll og avlskontroll ved handel med visse levende dyr og produkter innenfor Fellesskapet med sikte på gjennomføring av det indre marked,8 er det fastsatt at dyr beregnet på handel innenfor Fellesskapet, skal identifiseres i samsvar med fellesskapsreglene og registreres på en slik måte at de kan spores tilbake til avsender- eller transittdriftsenheten, -senteret eller -organisasjonen, og at disse identifikasjons- og registreringssystemene innen 1. januar 1993 skal utvides til å omfatte forflytning av dyr innenfor hver medlemsstats territorium.Ved artikkel 14 i rådsdirektiv [91/496/EØF](eu/31991l0496*) av 15. juli 1991 om fastsettelse av prinsippene for organisering av veterinærkontrollene av dyr som innføres til Fellesskapet fra tredjestater, og om endring av direktiv [89/662/EØF](eu/31989l0662*), [90/425/EØF](eu/31990l0425) og [90/675/EØF](eu/31990l0675),9 er det fastsatt at identifikasjonen og registreringen av slike dyr, bortsett fra slaktedyr og registrerte dyr av hestefamilien, i henhold til artikkel 3 nr. 1 bokstav c) i direktiv [90/425/EØF](eu/31990l0425) skal finne sted etter at denne kontrollen er utført.Forvaltningen av visse fellesskapsstøtteordninger i landbrukssektoren krever individuell identifikasjon av visse typer husdyr. Identifikasjons- og registreringssystemene må derfor være egnet for anvendelse og kontroll av disse ordningene.Det er nødvendig å sikre hurtig og effektiv utveksling av opplysninger mellom medlemsstatene, slik at denne forordning kan anvendes på en korrekt måte. Det er fastsatt fellesskapsbestemmelser om dette ved rådsforordning [(EØF) nr. 1468/81](eu/31981r1468) av 19. mai 1981 om gjensidig bistand mellom medlemsstatenes forvaltningsmyndigheter og om samarbeid mellom dem og Kommisjonen for å sikre riktig anvendelse av reglene for toll- eller landbrukssaker,10 og ved rådsdirektiv [89/608/EØF](eu/31989l0608) av 21. november 1989 om gjensidig bistand mellom medlemsstatenes forvaltningsmyndigheter og om samarbeid mellom dem og Kommisjonen for å sikre riktig anvendelse av veterinær- og avlsbestemmelsene.11Gjeldende regler for identifisering og registrering av storfe er fastsatt i rådsdirektiv [92/102/EØF](eu/31992l0102) av 27. november 1992 om identifikasjon og registrering av dyr,12 og i forordning [(EF) nr. 820/97](eu/31997r0820). Erfaringen har vist at gjennomføringen av direktiv [92/102/EØF](eu/31992l0102) ikke har vært helt tilfredsstillende med hensyn til storfe, og at ytterligere forbedring er nødvendig. Det er derfor nødvendig å vedta en egen forordning for storfe for å styrke direktivets bestemmelser.Dersom innføringen av et forbedret identifikasjonssystem skal bli akseptert, er det viktig at produsentene ikke pålegges for store administrative krav. Det må fastsettes rimelige frister for gjennomføringen.For å kunne tilbakespore dyr hurtig og effektivt av hensyn til kontrollen av Fellesskapets støtteordninger, må hver enkelt medlemsstat opprette en nasjonal edb-basert database som kan registrere dyrenes identitet, alle driftsenhetene på dens territorium og forflytningene av dyrene i samsvar med bestemmelsene i rådsdirektiv [97/12/EF](eu/31997l0012) av 17. mars 1997 om endring og ajourføring av direktiv [64/432/EØF](eu/31964l0432*) om dyrehelseproblemer ved handel med storfe og svin innenfor Fellesskapet,13 som klarlegger helsekravene i forbindelse med denne databasen.Det er viktig at hver medlemsstat treffer de tiltak som eventuelt fortsatt er nødvendige for å sikre at den nasjonale edb-baserte databasen er i full drift så raskt som mulig.Det må tas skritt for å sørge for at det foreligger tekniske vilkår som sikrer best mulig kommunikasjon mellom produsenten og databasen og en utstrakt bruk av databasene.For å gjøre det mulig å tilbakespore forflytningene av storfe, må dyrene identifiseres med et øremerke i hvert øre og i prinsippet ledsages av et pass under alle forflytninger. Utformingen av øremerket og passet må fastsettes på fellesskapsplan. I prinsippet må det utstedes et pass for hvert dyr som har fått tildelt øremerke.Dyr som importeres fra tredjestater i samsvar med direktiv [91/496/EØF](eu/31991l0496*), må omfattes av de samme kravene til identifikasjon.Hvert dyr må beholde øremerkene hele livet.På grunnlag av arbeidet i Det felles forskningssenter er Kommisjonen i ferd med å undersøke mulighetene for å identifisere dyr elektronisk.Dyreholdere, unntatt transportører, må føre et ajourført register over dyrene på sine driftsenheter. Utformingen av registeret må fastsettes på fellesskapsplan. Vedkommende myndighet må på anmodning ha tilgang til dette registeret.Medlemsstatene kan fordele kostnadene ved gjennomføringen av disse tiltakene på hele storfekjøttsektoren.Myndigheten eller myndighetene som er ansvarlige for gjennomføringen av den enkelte avdeling i denne forordning, må utpekes.Det bør innføres et obligatorisk system for merking av storfekjøtt som skal være obligatorisk i alle medlemsstater. I samsvar med det obligatoriske systemet skal næringsdrivende og organisasjoner som markedsfører storfekjøtt, på merket angi opplysninger om storfekjøttet og om det stedet hvor dyret eller dyrene som storfekjøttet stammer fra, ble slaktet.Det obligatoriske systemet for merking av storfekjøtt bør styrkes fra 1. januar 2002. Innenfor rammen av det obligatoriske systemet skal næringsdrivende og organisasjoner som markedsfører storfekjøtt, i tillegg angi på merket opplysninger om opprinnelse, særlig om det stedet hvor dyret eller dyrene som storfekjøttet stammer fra, ble født, oppfôret og slaktet.Opplysninger i tillegg til opplysningene om det stedet hvor dyret eller dyrene som storfekjøttet stammer fra, ble født, oppfôret og slaktet, kan gis innenfor rammen av det frivillige systemet for merking av storfekjøtt.Det obligatoriske systemet for opprinnelsesmerking bør ha trådt i kraft fra 1. januar 2002, idet det bare kreves fullstendige opplysninger om forflytninger av storfe i Fellesskapet for dyr som er født etter 31. desember 1997.Det obligatoriske systemet for merking av storfekjøtt bør også gjelde for storfekjøtt som importeres til Fellesskapet. Det må imidlertid tas hensyn til det faktum at ikke alle opplysninger som kreves for merking av storfekjøtt produsert i Fellesskapet, er tilgjengelige for næringsdrivende eller organisasjoner i tredjestater. Det bør derfor fastsettes hvilke minimumsopplysninger som tredjestater må sikre er angitt i merkingen.For næringsdrivende eller organisasjoner som produserer og markedsfører hakket storfekjøtt, og som ikke er i stand til å framskaffe alle opplysninger som kreves i henhold til det obligatoriske systemet for merking av storfekjøtt, må det fastsettes unntak som sikrer et visst minimum av opplysninger.Formålet med merking er å skape størst mulig åpenhet omkring markedsføringen av storfekjøtt.Bestemmelsene i denne forordning må ikke påvirke rådsforordning [(EØF) nr. 2081/92](eu/31992r2081) av 14. juli 1992 om beskyttelse av geografiske betegnelser og opprinnelsesbetegnelser for landbruksvarer og næringsmidler.14For alle andre angivelser enn dem som hører under det obligatoriske systemet for merking av storfekjøtt, bør det også fastsettes en fellesskapsramme for merking av storfekjøtt, og i lys av de forskjellige beskrivelsene av storfekjøtt som markedsføres i Fellesskapet, er opprettelsen av et frivillig system for merking av storfekjøtt den mest hensiktsmessige løsningen. Dersom et slikt frivillig merkingssystem skal fungere effektivt, må det være mulig å spore merket storfekjøtt tilbake til dyret eller dyrene det stammer fra. Merkingen som gjøres av en næringsdrivende eller en organisasjon, skal godkjennes først etter at vedkommende myndighet har mottatt en spesifikasjon. Næringsdrivende og organisasjoner skal bare ha rett til å merke storfekjøtt dersom merket inneholder deres navn eller identifikasjonslogo. Vedkommende myndigheter i medlemsstatene skal ha tillatelse til å trekke tilbake sin godkjenning av hvilken som helst spesifikasjon i tilfelle uregelmessigheter. For å sikre at merkingsspesifikasjonene kan bli anerkjent i hele Fellesskapet, er det nødvendig å sørge for utveksling av opplysninger mellom medlemsstatene.Næringsdrivende og organisasjoner som importerer storfekjøtt til Fellesskapet fra tredjestater, ønsker kanskje også å merke sine produkter i samsvar med det frivillige merkingssystemet. Det bør derfor fastsettes bestemmelser som i størst mulig omfang gjør det mulig å sikre at tiltakene for merking av importert storfekjøtt er like pålitelige som for storfekjøtt fra Fellesskapet.Ved overgangen fra bestemmelsene fastsatt i avdeling II i forordning EF nr. 820/97, til bestemmelsene i denne forordning kan det oppstå vanskeligheter som det ikke er tatt hensyn til i denne forordning. For å være forberedt på disse mulighetene bør Kommisjonen derfor kunne vedta nødvendige overgangsbestemmelser. Kommisjonen bør også være bemyndiget til å løse særlige praktiske problemer, når dette er berettiget.For å sikre at tiltakene fastsatt i denne forordning er pålitelige, er det nødvendig å pålegge medlemsstatene å utføre egnede og effektive kontrolltiltak. Disse kontrollene skal ikke berøre annen kontroll som Kommisjonen kan foreta analogt med artikkel 9 i rådsforordning [(EF, Euratom) nr. 2988/95](eu/31995r2988*) av 18. desember 1995 om beskyttelse av Det europeiske fellesskaps økonomiske interesser.15Det må fastsettes egnede sanksjoner i tilfelle overtredelse av bestemmelsene i denne forordning.De nødvendige tiltak for gjennomføringen av denne forordning bør vedtas i samsvar med rådsbeslutning [1999/468/EF](eu/31999d0468) av 28. juni 1999 om fastsettelse av nærmere regler for utøvelsen av den gjennomføringsmyndighet som er tillagt Kommisjonen16 –
 
+1 Ordlyden i fortalen til de rettsaktene som EØS-avtalens vedlegg omhandler, er ikke tilpasset til EØS, jf. EØS-avtalens protokoll 1 nr. 1. Fortalen er bare relevant i den grad den kan bidra til en korrekt tolkning av bestemmelsene i rettsaktene innenfor rammen av EØS-avtalen.
+
+2 EFT C 376 E av 28.12.1999, s. 42.
+
+3 EFT C 117 av 26.4.2000, s. 47.
+
+4 EFT C 226 av 8.8.2000, s. 9.
+
+5 Europaparlamentsuttalelse av 12. april 2000 (ennå ikke offentliggjort i EFT), Rådets felles holdning av 6. juni 2000 (ennå ikke offentliggjort i EFT) og europaparlamentsbeslutning av 6. juli 2000 (ennå ikke offentliggjort i EFT).
+
+6 EFT L 117 av 7.5.1997, s. 1.
+
+7 EFT L 334 av 28.12.1999, s. 1.
+
+8 EFT L 224 av 18.8.1990, s. 29. Direktivet sist endret ved direktiv [92/118/EØF](eu/31992l0118) (EFT L 62 av 15.3.1993, s. 49).
+
+9 EFT L 268 av 24.9.1991, s. 56. Direktivet sist endret ved direktiv [96/43/EF](eu/31996l0043) (EFT L 162 av 1.7.1996, s. 1).
+
+10 EFT L 144 av 2.6.1981, s. 1. Direktivet opphevet ved forordning [(EF) nr. 515/97](eu/31997r0515*) (EFT L 82 av 22.3.1997, s. 1).
+
+11 EFT L 351 av 2.12.1989, s. 34.
+
+12 EFT L 355 av 5.12.1992, s. 32. Direktivet sist endret av tiltredelsesakten av 1994.
+
+13 EFT L 109 av 25.4.1997, s. 1.
+
+14 EFT L 208 av 24.7.1992, s. 1.
+
+15 EFT L 312 av 23.12.1995, s. 1. Forordningen sist endret ved forordning [(EF) nr. 1036/1999](eu/31999r1036*) (EFT L 127 av 21.5.1999, s. 4).
+
+16 EFT L 184 av 17.7.1999, s. 23.
+
+VEDTATT DENNE FORORDNING:]
+
 ### Avdeling I
 Identifikasjon og registrering av storfe
+
+►**M4**
+
+Artikkel 1 til 10 opphevet.
+
+◄**M4**
 
 ### Avdeling II
 Merking av storfekjøtt og storfekjøttprodukter
@@ -287,15 +341,23 @@ I denne avdeling menes med:«storfekjøtt» alle produkter som hører under KN-k
 ### Avsnitt I
 EØS-system for obligatorisk merking av storfekjøtt
 
-1. Næringsdrivende og organisasjoner som markedsfører storfekjøtt i EØS, skal merke det i samsvar med denne artikkel.Det obligatoriske merkingssystemet skal sikre at det er forbindelse mellom på den ene siden identifikasjonen av en skrott, en kvart skrott eller kjøttstykker, og på den andre siden det enkelte dyr, eller, der dette er tilstrekkelig for å kontrollere nøyaktigheten av opplysningene på merket, den berørte gruppen av dyr.
+###### Artikkel 13
 
-2. Et merke skal inneholde følgende opplysninger:et referansenummer eller en referansekode som sikrer forbindelsen mellom kjøttet og dyret eller dyrene. Dette nummeret kan være det identifikasjonsnummeret for det enkelte dyr som storfekjøttet stammer fra, eller identifikasjonsnummeret for en gruppe av dyr,godkjenningsnummeret for slakteriet der dyret eller gruppen av dyr ble slaktet, og EØS-staten eller tredjestaten der slakteriet ligger. Angivelsen skal ha følgende form: «Slaktet i (EØS-statens eller tredjestatens navn) (godkjenningsnummer)»,godkjenningsnummeret for nedskjæringsanlegget der skrotten eller gruppen av skrotter ble nedskåret, og EØS-staten eller tredjestaten der anlegget ligger. Angivelsen skal ha følgende form: «Nedskåret i (EØS-statens eller tredjestatens navn) (godkjenningsnummer)».► **M3**◄ **M3**
+Alminnelige regler
+
+1\. Næringsdrivende og organisasjoner som markedsfører storfekjøtt i EØS, skal merke det i samsvar med denne artikkel.Det obligatoriske merkingssystemet skal sikre at det er forbindelse mellom på den ene siden identifikasjonen av en skrott, en kvart skrott eller kjøttstykker, og på den andre siden det enkelte dyr, eller, der dette er tilstrekkelig for å kontrollere nøyaktigheten av opplysningene på merket, den berørte gruppen av dyr.
+
+2\. Et merke skal inneholde følgende opplysninger:et referansenummer eller en referansekode som sikrer forbindelsen mellom kjøttet og dyret eller dyrene. Dette nummeret kan være det identifikasjonsnummeret for det enkelte dyr som storfekjøttet stammer fra, eller identifikasjonsnummeret for en gruppe av dyr,godkjenningsnummeret for slakteriet der dyret eller gruppen av dyr ble slaktet, og EØS-staten eller tredjestaten der slakteriet ligger. Angivelsen skal ha følgende form: «Slaktet i (EØS-statens eller tredjestatens navn) (godkjenningsnummer)»,godkjenningsnummeret for nedskjæringsanlegget der skrotten eller gruppen av skrotter ble nedskåret, og EØS-staten eller tredjestaten der anlegget ligger. Angivelsen skal ha følgende form: «Nedskåret i (EØS-statens eller tredjestatens navn) (godkjenningsnummer)».► **M3**◄ **M3**
 
 5.► **M3**Næringsdrivende og organisasjoner skal også angi på merkene:
 ◄ **M3**EØS-staten eller tredjestaten der dyret er født,EØS-statene eller tredjestatene der oppfôringen fant sted,EØS-staten eller tredjestaten der slaktingen fant sted.Dersom storfekjøttet stammer fra dyr som er født, oppdrettet og slaktet:i én og samme EØS-stat, kan angivelsen imidlertid være som følger: «Opprinnelse: (EØS-statens navn)»,i én og samme tredjestat, kan angivelsen imidlertid være som følger: «Opprinnelse: (tredjestatens navn)».
 ► **M3**
 
-6. For å unngå unødvendig gjentakelse av opplysninger på storfekjøttets merke om i hvilke medlemsstater eller tredjestater avl har funnet sted, skal Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 22b om en forenklet angivelse dersom dyret bare har oppholdt seg i veldig kort tid i den medlemsstaten eller tredjestaten det ble født eller slaktet.Kommisjonen skal ved hjelp av gjennomføringsrettsakter vedta regler for øvre grense for størrelse og hvilken sammensetning gruppen av dyr nevnt i nr. 1 og nr. 2 bokstav a) kan ha, og samtidig ta hensyn til begrensninger når det gjelder ensartethet for gruppene det nedskårede kjøttet og avskjær fra renskjæring kommer fra. Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med undersøkelseskomité nevnt i artikkel 23 nr. 2.◄ **M3**
+6\. For å unngå unødvendig gjentakelse av opplysninger på storfekjøttets merke om i hvilke medlemsstater eller tredjestater avl har funnet sted, skal Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 22b om en forenklet angivelse dersom dyret bare har oppholdt seg i veldig kort tid i den medlemsstaten eller tredjestaten det ble født eller slaktet.Kommisjonen skal ved hjelp av gjennomføringsrettsakter vedta regler for øvre grense for størrelse og hvilken sammensetning gruppen av dyr nevnt i nr. 1 og nr. 2 bokstav a) kan ha, og samtidig ta hensyn til begrensninger når det gjelder ensartethet for gruppene det nedskårede kjøttet og avskjær fra renskjæring kommer fra. Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med undersøkelseskomité nevnt i artikkel 23 nr. 2.◄ **M3**
+
+###### Artikkel 14
+
+Unntak fra det obligatoriske merkingssystemet
 
 Som unntak fra artikkel 13 nr. 2 bokstav b) og c) og fra artikkel 13 nr. 5 bokstav a) punkt i) og ii), skal en næringsdrivende eller en organisasjon som produserer kvernet storfekjøtt, angi følgende på merkingen: «Produsert i (EØS-statens eller tredjestatens navn)», avhengig av hvor kjøttet er produsert, og «Opprinnelse i» når den eller de berørte stater ikke er produksjonsstaten.
 
@@ -305,10 +367,22 @@ Derimot, kan en næringsdrivende eller en organisasjon i tillegg angi følgende 
 
 For å sikre samsvar med de horisontale reglene om merking i dette avsnitt skal Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 22b for å fastsette regler, basert på erfaringen med kvernet kjøtt, tilsvarende reglene i de tre første leddene i denne artikkel, for avskjær fra renskjæring og nedskåret kjøtt.◄ **M3**► **M3**
 
+###### Artikkel 15
+
+Obligatorisk merking av storfekjøtt fra tredjestater
+
 Som unntak fra artikkel 13 skal alt storfekjøtt som importeres til Unionens territorium, og som ikke alle de opplysninger som er fastsatt i artikkel 13, foreligger for, merkes med angivelsen: «Opprinnelse: utenfor EU» og «Slaktet i: (tredjestatens navn)».◄ **M3**► **M3**
 
 ### Avsnitt II
 Frivillig merking
+
+◄ **M3**
+
+► **M3**
+
+###### Artikkel 15a
+
+Alminnelige regler
 
 Andre næringsmiddelopplysninger enn de fastsatt i artikkel 13, 14 og 15 som næringsdrivende eller organisasjoner som markedsfører storfekjøtt, frivillig tilføyer merkingen, skal være objektivt kontrollerbare av vedkommende myndighet og forståelige for forbrukerne.
 
@@ -318,45 +392,115 @@ Dersom næringsdrivende eller organisasjoner som markedsfører storfekjøtt, ikk
 
 Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 22b om definisjoner av og kravene til betegnelser eller kategorier av betegnelser som skal brukes ved merking av ferdigpakket ferskt og fryst storfekjøtt.◄ **M3**
 
+###### Artikkel 16
+
+► **M3**
+
+◄ **M3**
+
+###### Artikkel 17
+
+► **M3**
+
+◄ **M3**
+
+###### Artikkel 18
+
+► **M3**
+
+◄ **M3**
+
 ### Avsnitt III
 Alminnelige bestemmelser
+
+###### Artikkel 19
+
+► **M3**
+
+◄ **M3**
+
+###### Artikkel 20
+
+► **M3**
+
+◄ **M3**
+
+###### Artikkel 21
+
+► **M3**
+
+◄ **M3**
 
 ### Avdeling III
 Felles bestemmelser
 
-1. Medlemsstatene skal treffe alle tiltak som er nødvendige for å sikre at bestemmelsene i denne forordningen overholdes.De kontrollene som er fastsatt, skal utføres uten å berøre kontroller som Kommisjonen kan foreta i henhold til artikkel 9 i forordning [(EF, Euratom) nr. 2988/95](eu/31995r2988).Eventuelle sanksjoner som medlemsstaten pålegger næringsdrivende eller organisasjoner som markedsfører storfekjøtt, skal være virkningsfulle, virke avskrekkende og stå i forhold til overtredelsen.
+►**M3**
 
-2. Uten hensyn til nr. 1, dersom næringsdrivende og organisasjoner som markedsfører storfekjøtt har merket storfekjøtt uten at de oppfyller kravene fastsatt i avdeling II, og der det er aktuelt og i samsvar med forholdsmessighetsprinsippet, skal medlemsstatene kreve at storfekjøttet fjernes fra markedet. I tillegg til sanksjonene nevnt i nr. 1 kan medlemsstatene,dersom det berørte kjøttet oppfyller de relevante veterinær- og hygienereglene, tillate at dette storfekjøttetbringes i omsetning etter å ha blitt riktig merket i samsvar med Unionens krav, ellersendes direkte til bearbeiding til andre produkter enn dem som er angitt i artikkel 12 første punkt,beordre midlertidig oppheving eller tilbakekalling av godkjenningen av berørte næringsdrivende og organisasjoner.
+►**M4**
 
-3. Sakkyndige fra Kommisjonen skal, i samarbeid med vedkommende myndighetkontrollere at medlemsstatene oppfyller kravene fastsatt i denne forordningen,foreta kontroll på stedet for å sikre at kontrollene utføres i samsvar med denne forordningen.
+###### Artikkel 22
 
-4. En medlemsstat på hvis territorium kontrollen på stedet blir foretatt, skal gi Kommisjonens sakkyndige all den bistanden de trenger for å utføre sine oppgaver. Kontrollresultatene skal drøftes med vedkommende myndighet i den berørte medlemsstaten før endelig rapport blir utarbeidet og utsendt. Denne rapporten skal, der det er aktuelt, inneholde anbefalinger for medlemsstatene om hvordan de bedre kan overholde denne forordningen.**◄M4**
+1\. Medlemsstatene skal treffe alle tiltak som er nødvendige for å sikre at bestemmelsene i denne forordningen overholdes.De kontrollene som er fastsatt, skal utføres uten å berøre kontroller som Kommisjonen kan foreta i henhold til artikkel 9 i forordning [(EF, Euratom) nr. 2988/95](eu/31995r2988).Eventuelle sanksjoner som medlemsstaten pålegger næringsdrivende eller organisasjoner som markedsfører storfekjøtt, skal være virkningsfulle, virke avskrekkende og stå i forhold til overtredelsen.
+
+2\. Uten hensyn til nr. 1, dersom næringsdrivende og organisasjoner som markedsfører storfekjøtt har merket storfekjøtt uten at de oppfyller kravene fastsatt i avdeling II, og der det er aktuelt og i samsvar med forholdsmessighetsprinsippet, skal medlemsstatene kreve at storfekjøttet fjernes fra markedet. I tillegg til sanksjonene nevnt i nr. 1 kan medlemsstatene,dersom det berørte kjøttet oppfyller de relevante veterinær- og hygienereglene, tillate at dette storfekjøttetbringes i omsetning etter å ha blitt riktig merket i samsvar med Unionens krav, ellersendes direkte til bearbeiding til andre produkter enn dem som er angitt i artikkel 12 første punkt,beordre midlertidig oppheving eller tilbakekalling av godkjenningen av berørte næringsdrivende og organisasjoner.
+
+3\. Sakkyndige fra Kommisjonen skal, i samarbeid med vedkommende myndighetkontrollere at medlemsstatene oppfyller kravene fastsatt i denne forordningen,foreta kontroll på stedet for å sikre at kontrollene utføres i samsvar med denne forordningen.
+
+4\. En medlemsstat på hvis territorium kontrollen på stedet blir foretatt, skal gi Kommisjonens sakkyndige all den bistanden de trenger for å utføre sine oppgaver. Kontrollresultatene skal drøftes med vedkommende myndighet i den berørte medlemsstaten før endelig rapport blir utarbeidet og utsendt. Denne rapporten skal, der det er aktuelt, inneholde anbefalinger for medlemsstatene om hvordan de bedre kan overholde denne forordningen.**◄M4**
+
+###### Artikkel 22a
+
+Vedkommende myndigheter
 
 Medlemsstatene skal utpeke vedkommende myndighet eller myndigheter som er ansvarlig for å sikre at denne forordning og enhver rettsakt som vedtas av Kommisjonen på grunnlag av denne, overholdes.
 
 De skal underrette Kommisjonen og de andre medlemsstatene om hvem disse myndighetene er.◄**M3**
 
-1. Myndigheten til å vedta delegerte rettsakter gis Kommisjonen med forbehold for vilkårene fastsatt i denne artikkelen.
+►**M4**
 
-2. Myndigheten til å vedta de delegerte rettsaktene nevnt i artikkel 13 nr. 6, artikkel 14 nr. 4 og artikkel 15a, skal gis Kommisjonen for en periode på fem år fra 20. april 2016. Kommisjonen skal utarbeide en rapport om den delegerte myndigheten senest ni måneder før utgangen av femårsperioden. Den delegerte myndigheten skal stilltiende forlenges med perioder av samme varighet, med mindre Europaparlamentet eller Rådet senest tre måneder før utgangen av hver periode har motsatt seg slik forlengelse.
+###### Artikkel 22b
 
-3. Den delegerte myndigheten nevnt i artikkel 13 nr. 6, artikkel 14 nr. 4 og artikkel 15a kan når som helst tilbakekalles av Europaparlamentet eller Rådet. En beslutning om tilbakekalling innebærer at den delegerte myndigheten som angis i beslutningen, opphører å gjelde. Beslutningen får anvendelse dagen etter at den er kunngjort i Den europeiske unions tidende eller på et senere tidspunkt angitt i beslutningen. Den berører ikke gyldigheten av delegerte rettsakter som allerede er trådt i kraft.
+Utøvelse av delegert myndighet
 
-4. Så snart Kommisjonen vedtar en delegert rettsakt, skal den underrette Europaparlamentet og Rådet samtidig om dette.
+1\. Myndigheten til å vedta delegerte rettsakter gis Kommisjonen med forbehold for vilkårene fastsatt i denne artikkelen.
 
-5. En delegert rettsakt vedtatt i henhold til artikkel 13 nr. 6, artikkel 14 nr. 4 og artikkel 15a trer i kraft bare dersom verken Europaparlamentet eller Rådet har gjort innsigelse mot rettsakten innen en frist på to måneder etter at rettsakten ble meddelt Europaparlamentet eller Rådet, eller dersom Europaparlamentet og Rådet innen utløpet av denne fristen begge har underrettet Kommisjonen om at de ikke har til hensikt å gjøre innsigelse. På Europaparlamentets eller Rådets initiativ forlenges denne fristen med to måneder.
+2\. Myndigheten til å vedta de delegerte rettsaktene nevnt i artikkel 13 nr. 6, artikkel 14 nr. 4 og artikkel 15a, skal gis Kommisjonen for en periode på fem år fra 20. april 2016. Kommisjonen skal utarbeide en rapport om den delegerte myndigheten senest ni måneder før utgangen av femårsperioden. Den delegerte myndigheten skal stilltiende forlenges med perioder av samme varighet, med mindre Europaparlamentet eller Rådet senest tre måneder før utgangen av hver periode har motsatt seg slik forlengelse.
 
-1. Kommisjonen skal, for de gjennomføringsrettsaktene som vedtas i henhold til artikkel 13 nr. 6 i denne forordningen, bistås av Den faste komité for planter, dyr, næringsmidler og fôr nedsatt ved artikkel 58 nr. 1 i europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178)*.Nevnte komité skal være en komité i henhold til europaparlaments- og rådsforordning [(EU) nr. 182/2011](eu/32011r0182)**.
+3\. Den delegerte myndigheten nevnt i artikkel 13 nr. 6, artikkel 14 nr. 4 og artikkel 15a kan når som helst tilbakekalles av Europaparlamentet eller Rådet. En beslutning om tilbakekalling innebærer at den delegerte myndigheten som angis i beslutningen, opphører å gjelde. Beslutningen får anvendelse dagen etter at den er kunngjort i Den europeiske unions tidende eller på et senere tidspunkt angitt i beslutningen. Den berører ikke gyldigheten av delegerte rettsakter som allerede er trådt i kraft.
 
-2. Når det vises til dette nummeret, får artikkel 5 i forordning (EU) nr. 182/2011 anvendelse.Dersom komiteens uttalelse skal innhentes ved skriftlig prosedyre, skal prosedyren avsluttes uten resultat dersom komitélederen beslutter det eller et simpelt flertall av komitémedlemmene anmoder om det innen fristen for å avgi uttalelse.
+4\. Så snart Kommisjonen vedtar en delegert rettsakt, skal den underrette Europaparlamentet og Rådet samtidig om dette.
+
+5\. En delegert rettsakt vedtatt i henhold til artikkel 13 nr. 6, artikkel 14 nr. 4 og artikkel 15a trer i kraft bare dersom verken Europaparlamentet eller Rådet har gjort innsigelse mot rettsakten innen en frist på to måneder etter at rettsakten ble meddelt Europaparlamentet eller Rådet, eller dersom Europaparlamentet og Rådet innen utløpet av denne fristen begge har underrettet Kommisjonen om at de ikke har til hensikt å gjøre innsigelse. På Europaparlamentets eller Rådets initiativ forlenges denne fristen med to måneder.
+
+###### Artikkel 23
+
+Komitéprosedyre
+
+1\. Kommisjonen skal, for de gjennomføringsrettsaktene som vedtas i henhold til artikkel 13 nr. 6 i denne forordningen, bistås av Den faste komité for planter, dyr, næringsmidler og fôr nedsatt ved artikkel 58 nr. 1 i europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178)\*.Nevnte komité skal være en komité i henhold til europaparlaments- og rådsforordning [(EU) nr. 182/2011](eu/32011r0182)\*\*.
+
+2\. Når det vises til dette nummeret, får artikkel 5 i forordning (EU) nr. 182/2011 anvendelse.Dersom komiteens uttalelse skal innhentes ved skriftlig prosedyre, skal prosedyren avsluttes uten resultat dersom komitélederen beslutter det eller et simpelt flertall av komitémedlemmene anmoder om det innen fristen for å avgi uttalelse.
+
+\* Europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178) av 28. januar 2002 om fastsettelse av allmenne prinsipper og krav i næringsmiddelregelverket, om opprettelse av Den europeiske myndighet for næringsmiddeltrygghet og om fastsettelse av framgangsmåter i forbindelse med næringsmiddeltrygghet (EFT L 31 av 1.2.2002, s. 1).\*\* Europaparlaments- og rådsforordning [(EU) nr. 182/2011](eu/32011r0182) av 16. februar 2011 om fastsettelse av allmenne regler og prinsipper for medlemsstatenes kontroll med Kommisjonens utøvelse av sin gjennomføringsmyndighet (EUT L 55 av 28.2.2011, s. 13).
+
+◄**M4**
+
+► **M3**
+
+###### Artikkel 23a
+
+Rapport og utvikling av regelverk
 
 Ikke senere enn:18. juli 2019 for bestemmelser om frivillig merking, og18. juli 2023 for bestemmelser om elektronisk identifisering,skal Kommisjonen framlegge tilhørende rapporter for Europaparlamentet og Rådet om gjennomføringen og innvirkningen av denne forordning, herunder i det første tilfellet muligheten til å gjennomgå bestemmelsene om frivillig merking, og i det andre tilfellet den tekniske og økonomiske muligheten for å innføre obligatorisk elektronisk identifisering i hele Unionen.
 
 Rapportene skal om nødvendig følges av egnede forslag til nytt regelverk.◄ **M3**
 
-1. Forordning [(EF) nr. 820/97](eu/31997r0820) oppheves.
+###### Artikkel 24
 
-2. Henvisninger til forordning [(EF) nr. 820/97](eu/31997r0820) skal forstås som henvisninger til denne forordning og leses som angitt i sammenligningstabellen i vedlegget.
+1\. Forordning [(EF) nr. 820/97](eu/31997r0820) oppheves.
+
+2\. Henvisninger til forordning [(EF) nr. 820/97](eu/31997r0820) skal forstås som henvisninger til denne forordning og leses som angitt i sammenligningstabellen i vedlegget.
+
+###### Artikkel 25
 
 [Denne forordning trer i kraft den tredje dag etter at den er kunngjort i *De Europeiske Fellesskaps Tidende*.
 
@@ -366,10 +510,46 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel, 17. juli 2000.]1
 
-*For Europaparlamentet**For Rådet*N. FONTAINEJ. GLAVANYPresidentFormann
+|  |  |
+| --- | --- |
+| *For Europaparlamentet* | *For Rådet* |
+| N. FONTAINE | J. GLAVANY |
+| President | Formann |
+
+1 Ikrafttredelse i EØS følger av [EØS-komiteens beslutning nr. 21/2009](eu/22009d0021) og [EØS-komiteens beslutning nr. 132/2007](eu/22007d0132). Rettsvirkningene i EFTA-landenes interne rett følger av EØS-avtalens artikkel 7.
 
 ### Vedlegg
 Sammenligningstabell
+
+| Forordning [(EF) nr. 820/97](eu/31997r0820) | Denne forordning |
+| --- | --- |
+| Artikkel 1 | Artikkel 1 |
+| Artikkel 2 | Artikkel 2 |
+| Artikkel 3 | Artikkel 3 |
+| Artikkel 4 | Artikkel 4 |
+| Artikkel 5 | Artikkel 5 |
+| Artikkel 6 | Artikkel 6 |
+| Artikkel 7 | Artikkel 7 |
+| Artikkel 8 | Artikkel 8 |
+| Artikkel 9 | Artikkel 9 |
+| Artikkel 10 | Artikkel 10 |
+| Artikkel 11 | – |
+| Artikkel 12 | Artikkel 11 |
+| Artikkel 13 | Artikkel 12 |
+| Artikkel 14 nr. 1 | Artikkel 16 nr. 1 |
+| Artikkel 14 nr. 2 | Artikkel 16 nr. 2 |
+| Artikkel 14 nr. 3 | Artikkel 16 nr. 5 |
+| Artikkel 14 nr. 4 | Artikkel 16 nr. 4 |
+| Artikkel 15 | Artikkel 17 |
+| Artikkel 16 nr. 1 | Artikkel 16 nr. 3 |
+| Artikkel 16 nr. 2 | Artikkel 16 nr. 3 |
+| Artikkel 16 nr. 3 | Artikkel 13 nr. 2 bokstav a) |
+| Artikkel 17 | Artikkel 18 |
+| Artikkel 18 | Artikkel 19 |
+| Artikkel 19 | – |
+| Artikkel 20 | Artikkel 20 |
+| Artikkel 21 | Artikkel 22 |
+| Artikkel 22 | Artikkel 25 |
 
 ### ► **M3** Vedlegg I
 Identifikasjonsmerker
@@ -378,3 +558,5 @@ Identifikasjonsmerker
 2. ELEKTRONISK IDENTIFIKATOR I FORM AV ET ELEKTRONISK ØREMERKE
 3. ELEKTRONISK IDENTIFIKATOR I FORM AV EN RUMINAL BOLUS
 4. ELEKTRONISK IDENTIFIKATOR I FORM AV EN INJISERBAR SIGNALGIVER
+
+◄ **M3**

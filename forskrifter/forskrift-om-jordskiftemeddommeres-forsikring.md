@@ -15,7 +15,7 @@ xml_hash: "cc662933bff338270a2e29548debdbe2cb285fc7bd1bc32e48d514eeffc456b9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-10T17:52:49.841668+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -36,11 +36,17 @@ Før det avgis forsikring skal jordskiftedommeren gjøre jordskiftemeddommeren k
 
 Forsikringen har følgende ordlyd:
 
-*Bokmål*«Forsikrer du at du i denne saken og i alle framtidige saker etter jordskifteloven, vil følge med på og ta hensyn til alt som kommer fram, og utføre dine plikter samvittighetsfullt og etter beste overbevisning, så gjenta etter meg: Det forsikrer jeg.»
+*Bokmål*
 
-*Nynorsk*«Lovar du at du i denne saka og i alle framtidige saker etter jordskiftelova, vil følgja med på og ta omsyn til alt som kjem fram, og utføra pliktene dine samvitsfullt og etter beste overtyding, så sei etter meg: Det lovar eg.»
+«Forsikrer du at du i denne saken og i alle framtidige saker etter jordskifteloven, vil følge med på og ta hensyn til alt som kommer fram, og utføre dine plikter samvittighetsfullt og etter beste overbevisning, så gjenta etter meg: Det forsikrer jeg.»
 
-*Nordsamisk*«Dáhkidat go dán áššis ja buot boahtteáiggi áššiin mat gusket eanajuohkinláhkii, ahte áiggut čuovvut mielde ja váldit vuhtii buot mii boahtá ovdan, ja doaimmahit iežat geatnegasvuođaid oamedovddolaččat ja nu bures go vejolaš, de gearddut mu sániid: dan mun dáhkidan.»
+*Nynorsk*
+
+«Lovar du at du i denne saka og i alle framtidige saker etter jordskiftelova, vil følgja med på og ta omsyn til alt som kjem fram, og utføra pliktene dine samvitsfullt og etter beste overtyding, så sei etter meg: Det lovar eg.»
+
+*Nordsamisk*
+
+«Dáhkidat go dán áššis ja buot boahtteáiggi áššiin mat gusket eanajuohkinláhkii, ahte áiggut čuovvut mielde ja váldit vuhtii buot mii boahtá ovdan, ja doaimmahit iežat geatnegasvuođaid oamedovddolaččat ja nu bures go vejolaš, de gearddut mu sániid: dan mun dáhkidan.»
 
 ## § 4.
 

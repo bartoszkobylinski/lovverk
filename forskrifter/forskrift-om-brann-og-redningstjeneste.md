@@ -15,7 +15,7 @@ xml_hash: "d77384fe24a6fbe6ebbee8a166c600fa2e9c9c42f8baddb3d82e76275d7a3d85"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-10T17:52:49.841668+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -125,7 +125,15 @@ I denne forskrift menes med:
 | 9 | 61 m – inntil 76 m | 7 m |
 | 10 | 76 m – inntil 90 m | 8 m |
 
-Tabell 1 – Oversikt over brann- og redningskategorier basert på flytypens totale lengde og skrogbredde.*Brann- og redningskategori**Helikoptertypens totale lengde*H1– inntil 15 mH215 m – inntil 24 mH324 m – inntil 35 mTabell 2 – Oversikt over brann- og redningskategorier basert på helikoptertypens totale lengde inklusive rotorer.
+Tabell 1 – Oversikt over brann- og redningskategorier basert på flytypens totale lengde og skrogbredde.
+
+| *Brann- og redningskategori* | *Helikoptertypens totale lengde* |
+| --- | --- |
+| H1 | – inntil 15 m |
+| H2 | 15 m – inntil 24 m |
+| H3 | 24 m – inntil 35 m |
+
+Tabell 2 – Oversikt over brann- og redningskategorier basert på helikoptertypens totale lengde inklusive rotorer.
 
 Se [§ 19](forskrift/2006-05-12-545/§19) for overgangsregel.
 

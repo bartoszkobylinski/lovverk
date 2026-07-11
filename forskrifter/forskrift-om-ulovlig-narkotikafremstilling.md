@@ -15,7 +15,7 @@ xml_hash: "077d3626ad4ea69e98819f16775ab4f91ed3c69820acd760c747bdbc27979a66"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-10T17:52:49.841668+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -238,7 +238,79 @@ Saltene av stoffene oppført i denne kategori i alle tilfeller der forekomst av 
 
 ## Vedlegg II
 
-*Eksport av stoffer i kategori 3 til følgende land krever eksporttillatelse*Antigua og BarbudaBeninBolivia1,2,4,5BrasilCanadaCayman-øyeneColombiaCosta RicaDe forente arabiske emiraterEcuadorEgyptEtiopiaFilippineneHaitiIndiaJordanKasakhstanLibanonMadagaskarMalaysia2MaldiveneMexicoMoldovaNigeriaPakistan1ParaguayPeru1,2,3,4,5,6RomaniaRussland (Den russiske føderasjonen)Saudi-ArabiaTadsjikistanTanzaniaTsjekkia3TunisiaTyrkiaVenezuela
+*Eksport av stoffer i kategori 3 til følgende land krever eksporttillatelse*
+
+Antigua og Barbuda
+
+Benin
+
+Bolivia1,2,4,5
+
+Brasil
+
+Canada
+
+Cayman-øyene
+
+Colombia
+
+Costa Rica
+
+De forente arabiske emirater
+
+Ecuador
+
+Egypt
+
+Etiopia
+
+Filippinene
+
+Haiti
+
+India
+
+Jordan
+
+Kasakhstan
+
+Libanon
+
+Madagaskar
+
+Malaysia2
+
+Maldivene
+
+Mexico
+
+Moldova
+
+Nigeria
+
+Pakistan1
+
+Paraguay
+
+Peru1,2,3,4,5,6
+
+Romania
+
+Russland (Den russiske føderasjonen)
+
+Saudi-Arabia
+
+Tadsjikistan
+
+Tanzania
+
+Tsjekkia3
+
+Tunisia
+
+Tyrkia
+
+Venezuela
 
 Kravet om eksporttillatelse gjelder kun følgende stoff (i kategori 3):
 

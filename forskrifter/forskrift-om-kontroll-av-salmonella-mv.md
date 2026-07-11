@@ -16,7 +16,7 @@ xml_hash: "0445f2e32b20d84f2ae7e8b02669253bac6f945cd3f72a0d14c3c3ed9dd2cd0f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-10T17:52:49.841668+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -79,7 +79,27 @@ Denne forskriften trer i kraft straks.
 
 Nedenfor gjengis til informasjon [EØS-avtalen vedlegg I](avtale/avt-1992-05-02-1-v1) kapittel I del 7.1 nr. 8b (forordning [(EF) nr. 2160/2003](eu/32003r2160)) med endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg I til [EØS-avtalen](lov/1992-11-27-109/eøsl). Forordning [(EF) nr. 2160/2003](eu/32003r2160) er konsolidert til og med endringer gjennomført ved forordning [(EU) 2016/429](eu/32016r0429).
 
-► **B** Europaparlaments- og rådsforordning [(EF) nr. 2160/2003](eu/32003r2160) av 17. november 2003som endret ved:► **M1** Kommisjonsforordning [(EF) nr. 1003/2005](eu/32005r1003) av 30. juni 2005► **M2** Rådsforordning [(EF) nr. 1791/2006](eu/32006r1791) av 20. november 2006► **M3** Kommisjonsforordning [(EF) nr. 1237/2007](eu/32007r1237) av 23. oktober 2007► **M4** Kommisjonsforordning [(EF) nr. 213/2009](eu/32009r0213) av 18. mars 2009► **M6** Kommisjonsforordning [(EU) nr. 517/2011](eu/32011r0517*) av 25. mai 2011► **M7** Kommisjonsforordning [(EF) nr. 1086/2011](eu/32011r1086*) av 27. oktober 2011► **M8** Kommisjonsforordning [(EU) nr. 517/2013](eu/32013r0517) av 13. mai 2013► **M9** Europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) av 9. mars 2016► **EØS** Tilpasning som følger av [EØS-avtalen vedlegg I](avtale/avt-1992-05-02-1-v1)
+► **B** Europaparlaments- og rådsforordning [(EF) nr. 2160/2003](eu/32003r2160) av 17. november 2003
+
+som endret ved:
+
+► **M1** Kommisjonsforordning [(EF) nr. 1003/2005](eu/32005r1003) av 30. juni 2005
+
+► **M2** Rådsforordning [(EF) nr. 1791/2006](eu/32006r1791) av 20. november 2006
+
+► **M3** Kommisjonsforordning [(EF) nr. 1237/2007](eu/32007r1237) av 23. oktober 2007
+
+► **M4** Kommisjonsforordning [(EF) nr. 213/2009](eu/32009r0213) av 18. mars 2009
+
+► **M6** Kommisjonsforordning [(EU) nr. 517/2011](eu/32011r0517*) av 25. mai 2011
+
+► **M7** Kommisjonsforordning [(EF) nr. 1086/2011](eu/32011r1086*) av 27. oktober 2011
+
+► **M8** Kommisjonsforordning [(EU) nr. 517/2013](eu/32013r0517) av 13. mai 2013
+
+► **M9** Europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) av 9. mars 2016
+
+► **EØS** Tilpasning som følger av [EØS-avtalen vedlegg I](avtale/avt-1992-05-02-1-v1)
 
 ### EUROPAPARLAMENTS- OG RÅDSFORORDNING [(EF) nr. 2160/2003](eu/32003r2160)
 av 17. november 2003
@@ -520,7 +540,13 @@ Utferdiget i Brussel, 1. august 2006.
 
 Nedenfor gjengis til informasjon EØS-avtalen vedlegg I kapittel I del 7.2 nr. 53 (forordning [(EU) nr. 200/2010](eu/32010r0200)) med endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg I til EØS-avtalen. Forordning [(EU) nr. 200/2010](eu/32010r0200) er konsolidert til og med endringer gjennomført ved forordning [(EU) 2019/268](eu/32019r0268).
 
-► **B** Kommisjonsforordning [(EU) nr. 200/2010](eu/32010r0200) av 10. mars 2010som endret ved► **M1** Kommisjonsforordning [(EU) nr. 517/2011](eu/32011r0517*) av 25. mai 2011► **M2** Forordning [(EU) 2019/268](eu/32019r0268) av 15. februar 2019
+► **B** Kommisjonsforordning [(EU) nr. 200/2010](eu/32010r0200) av 10. mars 2010
+
+som endret ved
+
+► **M1** Kommisjonsforordning [(EU) nr. 517/2011](eu/32011r0517*) av 25. mai 2011
+
+► **M2** Forordning [(EU) 2019/268](eu/32019r0268) av 15. februar 2019
 
 ### KOMMISJONSFORORDNING [(EU) nr. 200/2010](eu/32010r0200)
 av 10. mars 2010
@@ -689,7 +715,9 @@ Dersom det er fastsatt ISO-standarder for klargjøring av relevante prøver for 
 Ved innsamling av stoffsvabere i samsvar med nr. 2.2.2.1 bokstav d) eller ett par sokkeprøver og to fuktede stoffsvabere i samsvar med 2.2.2.1 bokstav e) skal det blandes i samsvar med nr. 3.1.3 bokstav b).
 ◄**M2**
 
-3.2.*Påvisningsmetode*►**M2**
+3.2.*Påvisningsmetode*
+
+►**M2**
 
 Påvisning av *Salmonella* spp. skal utføres i samsvar med EN ISO 6579-1.
 ◄**M2**
@@ -730,7 +758,11 @@ Resultatene og eventuelle ytterligere relevante opplysninger skal tas med i rapp
 
 Nedenfor gjengis til informasjon EØS-avtalen vedlegg I kapittel I del 7.2 nr. 55 (forordning [(EU) nr. 517/2011](eu/32011r0517*)) med endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg I til EØS-avtalen. Forordning [(EU) nr. 517/2011](eu/32011r0517*) er konsolidert til og med endringer gjennomført ved forordning [(EU) 2019/268](eu/32019r0268).
 
-►**B** Kommisjonsforordning [(EU) nr. 517/2011](eu/32011r0517*) av 25. mai 2011som endret ved:►**M1** Forordning [(EU) 2019/268](eu/32019r0268) av 15. februar 2019
+►**B** Kommisjonsforordning [(EU) nr. 517/2011](eu/32011r0517*) av 25. mai 2011
+
+som endret ved:
+
+►**M1** Forordning [(EU) 2019/268](eu/32019r0268) av 15. februar 2019
 
 ### KOMMISJONSFORORDNING [(EU) nr. 517/2011](eu/32011r0517*)
 av 25. mai 2011
@@ -882,7 +914,9 @@ Dersom det er fastsatt ISO-standarder for klargjøring av relevante prøver for 
 Ved innsamling av stoffsvabere i samsvar med nr. 2.2.1 bokstav a) annet ledd skal det blandes i samsvar med nr. 3.1.1.
 ◄**M1**
 
-3.2.*Påvisningsmetode*►**M1**
+3.2.*Påvisningsmetode*
+
+►**M1**
 
 Påvisning av *Salmonella* spp. skal utføres i samsvar med EN ISO 6579-1.
 ◄**M1**
@@ -944,7 +978,11 @@ Resultatene og eventuelle ytterligere relevante opplysninger skal tas med i rapp
 
 Nedenfor gjengis til informasjon EØS-avtalen vedlegg I kapittel I del 7.2 nr. 57 (forordning [(EU) nr. 200/2012](eu/32012r0200*)) med endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg I til EØS-avtalen. Forordning [(EU) nr. 200/2012](eu/32012r0200*) er konsolidert til og med endringer gjennomført ved forordning [(EU) 2019/268](eu/32019r0268).
 
-►**B** Kommisjonsforordning [(EU) nr. 200/2012](eu/32012r0200*) av 8. mars 2012som endret ved:►**M1** Forordning [(EU) 2019/268](eu/32019r0268) av 15. februar 2019
+►**B** Kommisjonsforordning [(EU) nr. 200/2012](eu/32012r0200*) av 8. mars 2012
+
+som endret ved:
+
+►**M1** Forordning [(EU) 2019/268](eu/32019r0268) av 15. februar 2019
 
 ### KOMMISJONSFORORDNING [(EU) nr. 200/2012](eu/32012r0200*)
 av 8. mars 2012
@@ -1137,7 +1175,11 @@ Uoffisiell oversettelse.
 
 Nedenfor gjengis til informasjon EØS-avtalen vedlegg I kapittel I del 7.2 nr. 51 (forordning [(EU) nr. 1190/2012](eu/32012r1190*)) med endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg I til EØS-avtalen. Forordning [(EU) nr. 1190/2012](eu/32012r1190*) er konsolidert til og med endringer gjennomført ved forordning [(EU) 2019/268](eu/32019r0268).
 
-►**B** Kommisjonsforordning [(EU) nr. 1190/2012](eu/32012r1190*) av 12. desember 2012som endret ved:►**M1** Forordning [(EU) 2019/268](eu/32019r0268) av 15. februar 2019
+►**B** Kommisjonsforordning [(EU) nr. 1190/2012](eu/32012r1190*) av 12. desember 2012
+
+som endret ved:
+
+►**M1** Forordning [(EU) 2019/268](eu/32019r0268) av 15. februar 2019
 
 ### KOMMISJONSFORORDNING [(EU) nr. 1190/2012](eu/32012r1190*)
 av 12. desember 2012

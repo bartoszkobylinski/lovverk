@@ -17,7 +17,7 @@ xml_hash: "5e19be7aad83212e4c1001daecf3816415af9cc76b6e59dd461d2993b37af31b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-10T17:52:49.841668+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -269,7 +269,8 @@ Obligatoriske næringsmiddelopplysninger
 ### Avsnitt 1
 Innhold og presentasjon
 
-Artikkel 9
+###### Artikkel 9
+
 Liste over obligatoriske opplysninger
 
 1\. I samsvar med artikkel 10–35 og med forbehold for unntakene fastsatt i dette kapittel er følgende opplysninger obligatoriske:næringsmiddelets betegnelse,ingredienslisten,ingredienser eller tekniske hjelpestoffer som er oppført i vedlegg II, eller som er avledet av et stoff eller produkt som er oppført i vedlegg II, som forårsaker allergier eller intoleranser, og som anvendes i framstillingen eller tilberedningen av et næringsmiddel og fortsatt finnes i det ferdige produktet, eventuelt i endret form,mengden av visse ingredienser eller kategorier av ingredienser,nettoinnholdet av næringsmiddelet,holdbarhetsdato eller siste forbruksdato,særlige vilkår for oppbevaring og/eller bruk,navn eller firma og adresse for den driftsansvarlige for næringsmiddelforetaket som nevnt i artikkel 8 nr. 1,opprinnelsesstat eller opphavssted, dersom det er fastsatt i artikkel 26,bruksanvisning i de tilfeller der det vil være vanskelig å bruke næringsmiddelet på riktig måte dersom en slik bruksanvisning ikke finnes,for drikker som inneholder mer enn 1,2 volumprosent alkohol, angivelse av det faktiske alkoholinnholdet i volumprosent,en næringsdeklarasjon.
@@ -280,19 +281,22 @@ Liste over obligatoriske opplysninger
 
 4\. For å sikre ensartet gjennomføring av nr. 3 i denne artikkel kan Kommisjonen vedta gjennomføringsrettsakter med gjennomføringsregler for kriteriene fastsatt i nr. 3 med tanke på å angi én eller flere opplysninger ved hjelp av piktogrammer eller symboler i stedet for med ord eller tall. Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med undersøkelseskomité omhandlet i artikkel 48 nr. 2.
 
-Artikkel 10
+###### Artikkel 10
+
 Supplerende obligatoriske opplysninger for visse typer eller kategorier av næringsmidler
 
 1\. I tillegg til opplysningene oppført i artikkel 9 nr. 1 er det i vedlegg III fastsatt supplerende obligatoriske opplysninger for visse typer eller kategorier av næringsmidler.
 
 2\. For å sikre forbrukeropplysninger om visse typer eller kategorier av næringsmidler og for å ta hensyn til den tekniske og vitenskapelige utvikling, vern av forbrukernes helse eller sikker bruk av et næringsmiddel kan Kommisjonen endre vedlegg III ved hjelp av delegerte rettsakter i samsvar med artikkel 51.Dersom det foreligger tvingende hasteårsaker som skyldes en oppstått fare for forbrukernes helse, får framgangsmåten fastsatt i artikkel 52 anvendelse på delegerte rettsakter som vedtas i henhold til denne artikkel.
 
-Artikkel 11
+###### Artikkel 11
+
 Mål og vekt
 
 Artikkel 9 berører ikke mer spesifikke unionsbestemmelser om mål og vekt.
 
-Artikkel 12
+###### Artikkel 12
+
 Tilgjengelighet og plassering av obligatoriske næringsmiddelopplysninger
 
 1\. I samsvar med denne forordning skal obligatoriske næringsmiddelopplysninger for alle næringsmidler være lett tilgjengelige.
@@ -305,7 +309,8 @@ Tilgjengelighet og plassering av obligatoriske næringsmiddelopplysninger
 
 5\. For næringsmidler som ikke er ferdigpakket, får bestemmelsene i artikkel 44 anvendelse.
 
-Artikkel 13
+###### Artikkel 13
+
 Presentasjon av obligatoriske opplysninger
 
 1\. Uten at det berører nasjonale tiltak vedtatt i henhold til artikkel 44 nr. 2, skal obligatoriske næringsmiddelopplysninger plasseres på et iøynefallende sted, slik at de er godt synlige, lett leselige og eventuelt ikke kan fjernes. Andre angivelser, bilder eller materialer skal under ingen omstendigheter skjule, tildekke, avlede oppmerksomheten fra eller dele opp de obligatoriske næringsmiddelopplysningene.
@@ -320,7 +325,8 @@ Presentasjon av obligatoriske opplysninger
 
 6\. Nr. 5 i denne artikkel får ikke anvendelse i tilfellene nevnt i artikkel 16 nr. 1 og 2.
 
-Artikkel 14
+###### Artikkel 14
+
 Fjernsalg
 
 1\. Uten at det berører opplysningskravene fastsatt i artikkel 9, gjelder følgende for ferdigpakkede næringsmidler som tilbys for salg via fjernkommunikasjonsmidler:Obligatoriske næringsmiddelopplysninger, med unntak av opplysningene fastsatt i artikkel 9 nr. 1 bokstav f), skal foreligge før kjøpet avsluttes, og de skal være oppført i støttemateriellet som brukes til fjernsalg, eller gjøres tilgjengelige på andre relevante måter som skal være tydelig angitt av den driftsansvarlige for næringsmiddelforetaket. Dersom andre egnede måter anvendes, skal de obligatoriske opplysningene gjøres tilgjengelige uten at den driftsansvarlige for næringsmiddelforetaket pålegger forbrukerne tilleggskostnader.Alle obligatoriske opplysninger skal foreligge på leveringstidspunktet.
@@ -329,7 +335,8 @@ Fjernsalg
 
 3\. Nr. 1 bokstav a) får ikke anvendelse på næringsmidler som tilbys for salg i salgsautomater eller automatiserte salgslokaler.
 
-Artikkel 15
+###### Artikkel 15
+
 Språkkrav
 
 1\. Uten at det berører artikkel 9 nr. 3, skal obligatoriske næringsmiddelopplysninger gis på et språk som er lett forståelig for forbrukerne i de medlemsstatene der et næringsmiddel omsettes.
@@ -338,7 +345,8 @@ Språkkrav
 
 3\. Nr. 1 og 2 er ikke til hinder for at opplysningene gis på flere språk.
 
-Artikkel 16
+###### Artikkel 16
+
 Utelatelse av visse obligatoriske opplysninger
 
 1\. For glassflasker som er beregnet på ombruk og er merket med opplysninger som ikke kan fjernes, og som derfor verken er påført etikett, halsetikett eller krage, er bare opplysningene i artikkel 9 nr. 1 bokstav a), c), e), f) og l) obligatoriske.
@@ -352,7 +360,8 @@ Utelatelse av visse obligatoriske opplysninger
 ### Avsnitt 2
 Detaljerte bestemmelser om obligatoriske opplysninger
 
-Artikkel 17
+###### Artikkel 17
+
 Næringsmiddelets betegnelse
 
 1\. Næringsmiddelets betegnelse skal være dets lovbestemte betegnelse. I mangel av en slik betegnelse skal næringsmiddelets betegnelse være dets vanlige betegnelse, eller det skal, dersom en vanlig betegnelse ikke finnes eller den vanlige betegnelsen ikke er i bruk, angis en beskrivende betegnelse.
@@ -365,7 +374,8 @@ Næringsmiddelets betegnelse
 
 5\. I vedlegg VI fastsettes særlige bestemmelser om næringsmiddelets betegnelse og opplysninger som skal ledsage den.
 
-Artikkel 18
+###### Artikkel 18
+
 Ingrediensliste
 
 1\. Ingredienslisten skal ha en passende overskrift eller innledning som består av eller inneholder ordet «ingredienser». Den skal omfatte alle ingrediensene i næringsmiddelet angitt i synkende rekkefølge etter vekt som registrert på framstillingstidspunktet.
@@ -378,33 +388,38 @@ Ingrediensliste
 
 5\. For å nå målene i denne forordning skal Kommisjonen ved hjelp av delegerte rettsakter i samsvar med artikkel 51 endre og tilpasse definisjonen av industrielt framstilte nanomaterialer nevnt i artikkel 2 nr. 2 bokstav t) til den tekniske og vitenskapelige utvikling eller til definisjoner det er oppnådd enighet om på internasjonalt plan.
 
-Artikkel 19
+###### Artikkel 19
+
 Utelatelse av ingredienslisten
 
 1\. Ingredienslisten kan utelates for følgende næringsmidler:frisk frukt og friske grønnsaker, herunder poteter, som ikke er skrelt, snittet eller behandlet på lignende måte,vann som er tilsatt karbondioksid, og der dette framgår av betegnelsen,eddik framstilt ved gjæring, dersom den utelukkende kommer fra én enkelt råvare og det ikke er tilsatt andre ingredienser,ost, smør, syrnet melk og syrnet fløte som ikke er tilsatt andre ingredienser enn melkeprodukter, næringsmiddelenzymer og mikroorganismekulturer som er nødvendige for framstillingen, eller det salt som er nødvendig for framstilling av annen ost enn fersk ost og smelteost,næringsmidler som består av én ingrediens:dersom næringsmiddelets betegnelse er identisk med ingrediensens betegnelse, ellerdersom ingrediensens art klart framgår av næringsmiddelets betegnelse.
 
 2\. For å ta hensyn til relevansen for forbrukeren av en ingrediensliste over visse typer eller kategorier av næringsmidler kan Kommisjonen i unntakstilfeller ved hjelp av delegerte rettsakter i samsvar med artikkel 51 utfylle nr. 1 i denne artikkel, forutsatt at utelatelsene ikke fører til at sluttforbrukere eller storhusholdninger blir utilstrekkelig informert.
 
-Artikkel 20
+###### Artikkel 20
+
 Utelatelse av næringsmiddelbestanddeler fra ingredienslisten
 
 Uten at det berører artikkel 21, kan følgende næringsmiddelbestanddeler utelates fra ingredienslisten:bestanddeler i en ingrediens som under framstillingsprosessen midlertidig fjernes for deretter å bli tilsatt igjen i en mengde som ikke overstiger de opprinnelige andelene,tilsetningsstoffer og næringsmiddelenzymersom forekommer i et næringsmiddel bare fordi de forekom i én eller flere av ingrediensene i det aktuelle næringsmiddelet, i samsvar med overføringsprinsippet omhandlet i artikkel 18 nr. 1 bokstav a) og b) i forordning [(EF) nr. 1333/2008](eu/32008r1333), forutsatt at de ikke lenger har noen teknisk funksjon i det ferdige produkt, ellersom brukes som tekniske hjelpestoffer,bærestoffer og stoffer som ikke er tilsetningsstoffer, men som brukes på samme måte og med samme formål som bærestoffer, og som brukes i strengt nødvendige mengder,stoffer som ikke er tilsetningsstoffer, men som brukes på samme måte og med samme formål som hjelpestoffer og fortsatt finnes i det ferdige produkt, også i endret form,vannnår vannet under framstillingsprosessen utelukkende brukes til å rekonstituere en konsentrert eller tørket ingrediens, ellerfor en lake som vanligvis ikke konsumeres.
 
-Artikkel 21
+###### Artikkel 21
+
 Merking av visse stoffer eller produkter som forårsaker allergier eller intoleranser
 
 1\. Uten at det berører bestemmelsene vedtatt i henhold til artikkel 44 nr. 2, skal opplysningene nevnt i artikkel 9 nr. 1 bokstav c), oppfylle følgende krav:De skal angis i ingredienslisten i samsvar med bestemmelsene fastsatt i artikkel 18 nr. 1, med tydelig henvisning til betegnelsen på det stoffet eller produktet som står oppført i vedlegg II, ogbetegnelsen på stoffet eller produktet som står oppført i vedlegg II, skal framheves visuelt på en måte som tydelig skiller det fra resten av ingredienslisten, for eksempel ved hjelp av skrifttype, skriftstil eller bakgrunnsfarge.Dersom det ikke finnes noen ingrediensliste, skal angivelsen av opplysningene nevnt i artikkel 9 nr. 1 bokstav c) omfatte ordet «inneholder» etterfulgt av betegnelsen på det stoffet eller produktet som står oppført i vedlegg II.Dersom flere ingredienser eller tekniske hjelpestoffer i et næringsmiddel stammer fra ett enkelt stoff eller produkt som står oppført i vedlegg II, skal dette i merkingen klart framgå for hver av de aktuelle ingrediensene eller hvert av de tekniske hjelpestoffene.Angivelse av opplysningene nevnt i artikkel 9 nr. 1 bokstav c) er ikke påkrevd dersom næringsmiddelets betegnelse klart viser til det aktuelle stoffet eller produktet.
 
 2\. For å sikre bedre informasjon til forbrukerne og ta hensyn til den seneste utviklingen i vitenskapelig og tekniske kunnskap skal Kommisjonen på nytt systematisk undersøke og om nødvendig ajourføre listen i vedlegg II ved hjelp av delegerte rettsakter, i samsvar med artikkel 51.Dersom det foreligger tvingende hasteårsaker som skyldes en oppstått fare for forbrukernes helse, får framgangsmåten fastsatt i artikkel 52 anvendelse på delegerte rettsakter som vedtas i henhold til denne artikkel.
 
-Artikkel 22
+###### Artikkel 22
+
 Mengdeangivelse av ingredienser
 
 1\. Mengden av en ingrediens eller kategori av ingredienser som brukes i produksjonen eller tilberedningen av et næringsmiddel, skal angis dersom den aktuelle ingrediensen eller kategorien av ingredienserinngår i næringsmiddelbetegnelsen eller vanligvis forbindes med den betegnelsen av forbrukeren,framheves i merkingen ved hjelp av ord, bilder eller en grafisk framstilling, ellerer av vesentlig betydning for å kjennetegne et næringsmiddel og skille det fra andre produkter det vil kunne forveksles med på grunn av sin betegnelse eller sitt utseende.
 
 2\. Tekniske bestemmelser om anvendelsen av nr. 1, herunder særlige tilfeller der det for visse ingredienser ikke kreves mengdeangivelse, er fastsatt i vedlegg VIII.
 
-Artikkel 23
+###### Artikkel 23
+
 Nettoinnhold
 
 1\. Et næringsmiddels nettoinnhold skal uttrykkes i liter, centiliter, milliliter, kilogram eller gram, avhengig av hva som måles, og skal angisi volumenheter for flytende produkter,i masseenheter for andre produkter.
@@ -413,7 +428,8 @@ Nettoinnhold
 
 3\. Tekniske bestemmelser for anvendelsen av nr. 1, herunder særlige tilfeller der det ikke kreves angivelse av nettoinnhold, er fastsatt i vedlegg IX.
 
-Artikkel 24
+###### Artikkel 24
+
 Holdbarhetsdato, siste forbruksdato og dato for innfrysing
 
 1\. For næringsmidler som ut fra et mikrobiologisk synspunkt er lett bedervelige, og som derfor etter et kort tidsrom kan utgjøre en umiddelbar fare for menneskers helse, skal holdbarhetsdatoen erstattes med siste forbruksdato. Etter siste forbruksdato skal et næringsmiddel anses for ikke å være trygt i samsvar med artikkel 14 nr. 2–5 i forordning [(EF) nr. 178/2002](eu/32002r0178).
@@ -422,14 +438,16 @@ Holdbarhetsdato, siste forbruksdato og dato for innfrysing
 
 3\. For å sikre en ensartet anvendelse av angivelsesmåten for holdbarhetsdatoen nevnt i nr. 1 bokstav c) i vedlegg X kan Kommisjonen vedta gjennomføringsrettsakter som fastsetter regler for dette. Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med undersøkelseskomité omhandlet i artikkel 48 nr. 2.
 
-Artikkel 25
+###### Artikkel 25
+
 Vilkår for oppbevaring og bruk
 
 1\. Dersom næringsmidler krever særlige oppbevarings- og/eller bruksvilkår, skal disse angis.
 
 2\. For å muliggjøre korrekt oppbevaring eller bruk av næringsmiddelet etter at pakningen er åpnet, skal oppbevaringsvilkårene og/eller bruksperioden etter åpning eventuelt angis.
 
-Artikkel 26
+###### Artikkel 26
+
 Opprinnelsesstat eller opphavssted
 
 1\. Denne artikkel berører ikke krav til merking fastsatt i særlige unionsbestemmelser, særlig rådsforordning [(EF) nr. 509/2006](eu/32006r0509) av 20. mars 2006 om garanterte tradisjonelle spesialiteter av landbruksvarer og næringsmidler1 og rådsforordning [(EF) nr. 510/2006](eu/32006r0510) av 20. mars 2006 om vern av geografiske betegnelser og opprinnelsesbetegnelser for landbruksvarer og næringsmidler.2
@@ -452,14 +470,16 @@ Opprinnelsesstat eller opphavssted
 
 1 EUT L 93 av 31.3.2006, s. 1.2 EUT L 93 av 31.3.2006, s. 12.
 
-Artikkel 27
+###### Artikkel 27
+
 Bruksanvisning
 
 1\. Bruksanvisningen for et næringsmiddel skal utformes slik at næringsmiddelet kan brukes på riktig måte.
 
 2\. Kommisjonen kan vedta gjennomføringsrettsakter som fastsetter nærmere regler for gjennomføringen av nr. 1 for visse næringsmidler. Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med undersøkelseskomité omhandlet i artikkel 48 nr. 2.
 
-Artikkel 28
+###### Artikkel 28
+
 Alkoholstyrke
 
 1\. Nærmere regler for angivelse av alkoholstyrke i volumprosent skal for produkter som klassifiseres i KN-kode 2204, være som fastsatt i de særlige unionsbestemmelsene som gjelder for disse produktene.
@@ -469,7 +489,8 @@ Alkoholstyrke
 ### Avsnitt 3
 Næringsdeklarasjon
 
-Artikkel 29
+###### Artikkel 29
+
 Forholdet til annet regelverk
 
 1\. Dette avsnitt får ikke anvendelse på næringsmidler som omfattes av følgende regelverk:europaparlaments- og rådsdirektiv [2002/46/EF](eu/32002l0046) av 10. juni 2002 om tilnærming av medlemsstatenes lovgivning om kosttilskudd,1europaparlaments- og rådsdirektiv [2009/54/EF](eu/32009l0054) av 18. juni 2009 om utnyttelse og markedsføring av naturlig mineralvann.2
@@ -478,7 +499,8 @@ Forholdet til annet regelverk
 
 1 EFT L 183 av 12.7.2002, s. 51.2 EUT L 164 av 26.6.2009, s. 45.3 EUT L 124 av 20.5.2009, s. 21.
 
-Artikkel 30
+###### Artikkel 30
+
 Innhold
 
 1\. Den obligatoriske næringsdeklarasjonen skal inneholde følgende opplysninger:energiinnhold, ogmengden av fett, mettede fettsyrer, karbohydrater, sukkerarter, protein og salt.En opplysning om at saltinnholdet utelukkende skyldes naturlig forekommende natrium kan eventuelt oppføres i umiddelbar nærhet av næringsdeklarasjonen.
@@ -495,7 +517,8 @@ Innhold
 
 7\. Kommisjonen skal senest 13. desember 2014, idet det tas hensyn til vitenskapelig dokumentasjon og erfaringer fra medlemsstatene, framlegge en rapport om forekomsten av transfettsyrer i næringsmidler og i det samlede kostholdet til befolkningen i Unionen. Målet med rapporten er å vurdere virkningen av egnede metoder som kan gjøre forbrukerne i stand til å velge sunnere næringsmidler og et generelt sunnere kosthold, eller som kan fremme tilbudet av sunnere næringsmidler til forbrukerne, blant annet ved at det opplyses om transfettsyrer til forbrukerne, eller ved begrensning av bruken av dem. Kommisjonens rapport skal eventuelt ledsages av et forslag til regelverk.
 
-Artikkel 31
+###### Artikkel 31
+
 Beregning
 
 1\. Energiinnholdet skal beregnes ved hjelp av omregningsfaktorene oppført i vedlegg XIV.
@@ -506,7 +529,8 @@ Beregning
 
 4\. De deklarerte verdiene skal, alt etter omstendighetene, være gjennomsnittsverdier fastsatt på grunnlag avprodusentens analyse av næringsmiddelet,beregning ut fra kjente eller faktiske gjennomsnittsverdier for ingrediensene som brukes, ellerberegning ut fra alminnelig etablerte og aksepterte data.Kommisjonen kan vedta gjennomføringsrettsakter som fastsetter nærmere regler for ensartet gjennomføring av dette nummer med hensyn til nøyaktigheten av deklarerte verdier, for eksempel forskjeller mellom deklarerte verdier og de verdier som framkommer ved offentlig kontroll. Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med undersøkelseskomité omhandlet i artikkel 48 nr. 2.
 
-Artikkel 32
+###### Artikkel 32
+
 Angivelse per 100 g eller per 100 ml
 
 1\. Energiinnholdet og mengden av næringsstoffer nevnt i artikkel 30 nr. 1–5 skal uttrykkes med målenhetene oppført i vedlegg XV.
@@ -519,7 +543,8 @@ Angivelse per 100 g eller per 100 ml
 
 5\. Dersom opplysninger angis i samsvar med nr. 4, skal det i umiddelbar nærhet av disse tilføyes følgende forklaring: «Referanseinntak for en voksen gjennomsnittsperson (8 400 kJ/2 000 kcal)».
 
-Artikkel 33
+###### Artikkel 33
+
 Angivelse per porsjon eller per forbruksenhet
 
 1\. I følgende tilfeller kan energiinnholdet og mengden av næringsstoffer nevnt i artikkel 30 nr. 1–5 angis per porsjon og/eller per forbruksenhet på en måte som er lett gjenkjennelig for forbrukeren, forutsatt at den anvendte porsjonen eller forbruksenheten er angitt på etiketten, og at antallet porsjoner eller enheter i pakningen angis:i tillegg til uttrykksformen per 100 g eller per 100 ml nevnt i artikkel 32 nr. 2,i tillegg til uttrykksformen per 100 g eller per 100 ml nevnt i artikkel 32 nr. 3 når det gjelder innholdet av vitaminer og mineraler,i tillegg til eller i stedet for uttrykksformen per 100 g eller per 100 ml nevnt i artikkel 32 nr. 4.
@@ -532,7 +557,8 @@ Angivelse per porsjon eller per forbruksenhet
 
 5\. For å sikre ensartet gjennomføring av angivelsen av næringsinnhold per porsjon eller per forbruksenhet og for å gi forbrukerne et ensartet sammenligningsgrunnlag skal Kommisjonen, idet det tas hensyn til forbrukernes faktiske forbruksatferd og til kostanbefalinger, ved hjelp av gjennomføringsrettsakter vedta regler for angivelsen per porsjon eller per forbruksenhet for visse næringsmiddelkategorier. Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med undersøkelseskomité omhandlet i artikkel 48 nr. 2.
 
-Artikkel 34
+###### Artikkel 34
+
 Presentasjon
 
 1\. Opplysningene nevnt i artikkel 30 nr. 1 og 2 skal angis i samme synsfelt. De skal angis samlet i et tydelig format og eventuelt i rekkefølgen angitt i vedlegg XV.
@@ -547,7 +573,8 @@ Presentasjon
 
 6\. For å sikre ensartet anvendelse av presentasjonsmåten for næringsdeklarasjon i formatene nevnt i nr. 1–4 i denne artikkel kan Kommisjonen vedta gjennomføringsrettsakter om dette. Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med undersøkelseskomité omhandlet i artikkel 48 nr. 2.
 
-Artikkel 35
+###### Artikkel 35
+
 Supplerende uttrykks- og presentasjonsformer
 
 1\. I tillegg til uttrykksformene nevnt i artikkel 32 nr. 2 og 4 og artikkel 33 samt presentasjonsformen nevnt i artikkel 34 nr. 2 kan energiinnholdet og mengden av næringsstoffer nevnt i artikkel 30 nr. 1–5 angis med andre uttrykksformer og/eller presenteres ved hjelp av grafikk eller symboler i tillegg til ord eller tall, forutsatt at følgende krav er oppfylt:De bygger på velfunderte og vitenskapelig gyldige forbrukerundersøkelser og villeder ikke forbrukeren som nevnt i artikkel 7,de er utviklet etter samråd med en rekke interessegrupper,de har til formål å gjøre det lettere for forbrukerne å forstå næringsmiddelets bidrag til eller betydning for kostens energi- og næringsinnhold,det finnes vitenskapelig gyldig dokumentasjon på at gjennomsnittsforbrukeren forstår disse uttrykks- og presentasjonsformene,når det gjelder andre uttrykksformer, skal de bygge enten på de harmoniserte referansemengdene for inntak fastsatt i vedlegg XIII eller dersom slike ikke er fastsatt, på allment anerkjente vitenskapelige råd om inntak av energi eller næringsstoffer,de er objektive og ikke-diskriminerende, ogbruken av dem er ikke til hinder for fritt varebytte.

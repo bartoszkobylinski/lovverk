@@ -17,7 +17,7 @@ xml_hash: "e75ebebf12060fd17c22b0e34767f4096bcbdfa34e250410c0739c946be8a7d9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-11T05:13:32.337092+00:00"
+retrieved_at: "2026-07-10T17:52:49.841668+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -223,7 +223,8 @@ Framgangsmåte for søknader om grenseverdier for restmengder
 ### Avsnitt 1
 Inngivelse av søknader om grenseverdier for restmengder
 
-Artikkel 6
+###### Artikkel 6
+
 Søknader
 
 1\. Når en medlemsstat vurderer å gi en godkjenning eller en midlertidig godkjenning til å bruke et plantefarmasøytisk produkt i samsvar med direktiv [91/414/EØF](eu/31991l0414*), skal medlemsstaten vurdere om det som følge av slik bruk er nødvendig å endre en eksisterende grenseverdi for restmengder som oppført i vedlegg II eller III til denne forordning, om det er nødvendig å fastsette en ny grenseverdi for restmengder eller om det virksomme stoffet skal oppføres i vedlegg IV. Om nødvendig skal medlemsstaten kreve at den som søker om godkjenning, inngir en søknad i samsvar med artikkel 7.
@@ -234,14 +235,16 @@ Søknader
 
 4\. Søknader om importtoleranser skal inngis til rapporterende medlemsstater utpekt i samsvar med direktiv [91/414/EØF](eu/31991l0414*) eller, dersom det ikke er utpekt en slik rapportør, til de medlemsstatene som Kommisjonen har utpekt i henhold til framgangsmåten nevnt i artikkel 45 nr. 2 i denne forordning på anmodning fra søkeren. Slike søknader skal utarbeides i samsvar med artikkel 7 i denne forordning.
 
-Artikkel 7
+###### Artikkel 7
+
 Krav som gjelder for søknader om grenseverdier for restmengder
 
 1\. Søkeren skal framlegge følgende opplysninger og dokumenter i sin søknad om grenseverdier for restmengder:navn og adresse på søkeren,en presentasjon av dokumentasjonen for søknaden, herunder:et sammendrag av søknaden,de viktigste saksforholdene,en innholdsfortegnelse for dokumentasjonen,en kopi av den relevante GAP som gjelder for den bestemte bruken av det aktuelle virksomme stoffet,en fullstendig oversikt over relevante betenkeligheter som er kommet fram i tilgjengelig vitenskapelig litteratur om det plantefarmasøytiske produktet og/eller restmengder av dette,opplysningene oppført i vedlegg II og III til direktiv [91/414/EØF](eu/31991l0414*) med hensyn til krav om dokumentasjon for å fastsette grenseverdier for restmengder av plantevernmidler, herunder om nødvendig toksikologiske opplysninger og opplysninger om rutinemessige analysemetoder som brukes i kontrollaboratorier, samt opplysninger om planter og dyrs metabolisme.Dersom relevante opplysninger allerede er gjort offentlig tilgjengelig, særlig i de tilfeller der et virksomt stoff allerede er blitt vurdert i samsvar med direktiv [91/414/EØF](eu/31991l0414*), eller dersom en CXL-grenseverdi foreligger og slike opplysninger inngis av søkeren, kan en medlemsstat også bruke disse opplysningene ved vurdering av en søknad. I slike tilfeller skal vurderingsrapporten omfatte en grunngitt uttalelse for hvorfor slike opplysninger er brukt eller ikke.
 
 2\. Den medlemsstaten som foretar vurderingen, kan om nødvendig kreve at søkeren skal framlegge utfyllende opplysninger i tillegg til de opplysningene som kreves i henhold til nr. 1, innenfor en tidsfrist som fastsettes av medlemsstaten. Denne fristen må ikke under noen omstendigheter overskride to år.
 
-Artikkel 8
+###### Artikkel 8
+
 Vurdering av søknader
 
 1\. En medlemsstat som i samsvar med artikkel 7 mottar en søknad som oppfyller kravene i artikkel 6, skal omgående sende en kopi til myndigheten og Kommisjonen og utarbeide en vurderingsrapport uten unødige forsinkelser.
@@ -252,7 +255,8 @@ Vurdering av søknader
 
 4\. Når en medlemsstat støter på vanskeligheter med hensyn til vurderingen av en søknad eller for å unngå dobbeltarbeid, kan det i henhold til framgangsmåten nevnt i artikkel 45 nr. 2 besluttes hvilken medlemsstat som skal vurdere bestemte søknader.
 
-Artikkel 9
+###### Artikkel 9
+
 Inngivelse av vurderte søknader til Kommisjonen og myndigheten
 
 1\. Når vurderingsrapporten er avsluttet, skal medlemsstaten sende rapporten til Kommisjonen. Kommisjonen skal omgående underrette medlemsstatene og sende søknaden, vurderingsrapporten og dokumentasjonen til myndigheten.
@@ -262,7 +266,8 @@ Inngivelse av vurderte søknader til Kommisjonen og myndigheten
 ### Avsnitt 2
 Myndighetens behandling av søknader om grenseverdier for restmengder
 
-Artikkel 10
+###### Artikkel 10
+
 Myndighetens uttalelse om søknader om grenseverdier for restmengder
 
 1\. Myndigheten skal vurdere søknadene og vurderingsrapportene og avgi en begrunnet uttalelse, særlig om farene for forbrukeren og eventuelt for dyr med hensyn til å fastsette, endre eller stryke en grenseverdi for restmengder. Uttalelsen skal omfatte:en vurdering av hvorvidt analysemetoden for rutinemessig overvåking som foreslås i søknaden, er hensiktsmessig med hensyn til formålet med kontrollen,den forventede bestemmelsesgrensen for kombinasjonen plantevernmiddel/produkt,en vurdering av risikoene for at det akseptable daglige inntaket eller den akutte referansedosen overskrides som følge av at grenseverdien for restmengder endres; en vurdering av bidraget til inntaket som følge av restmengder i det produktet som det er søkt om en grenseverdi for,alle andre faktorer som er relevante for risikovurderingen.
@@ -271,21 +276,24 @@ Myndighetens uttalelse om søknader om grenseverdier for restmengder
 
 3\. Med forbehold for artikkel 39 i forordning [(EF) nr. 178/2002](eu/32002r0178) skal myndigheten offentliggjøre sin grunngitte uttalelse.
 
-Artikkel 11
+###### Artikkel 11
+
 Frister for myndighetens uttalelse om søknader om grenseverdier for restmengder
 
 1\. Myndigheten skal avgi sin grunngitte uttalelse som fastsatt i artikkel 10 så snart som mulig, og senest tre måneder fra den datoen søknaden ble mottatt.I særlige tilfeller når det er behov for å foreta mer detaljerte vurderinger, kan tidsfristen som fastsatt i første ledd, forlenges til seks måneder fra den datoen den gyldige søknaden ble mottatt.
 
 2\. Når myndigheten krever utfyllende opplysninger, skal tidsfristen fastsatt i nr. 1 forlenges, inntil disse opplysningene er framlagt. Slike forlengelser er underlagt artikkel 13.
 
-Artikkel 12
+###### Artikkel 12
+
 Myndighetens vurdering av eksisterende grenseverdier for restmengder
 
 1\. Myndigheten skal senest tolv måneder fra datoen for når et virksomt stoff ble oppført eller ikke i vedlegg I til direktiv [91/414/EØF](eu/31991l0414*) etter at denne forordning trådte i kraft, framlegge for Kommisjonen og medlemsstatene en grunngitt uttalelse som særlig bygger på den relevante vurderingsrapporten som er utarbeidet i henhold til direktiv [91/414/EØF](eu/31991l0414*), om:eksisterende grenseverdier for restmengder for det aktuelle virksomme stoffet som er oppført i vedlegg II eller III til denne forordning,behovet for å fastsette nye grenseverdier for restmengder for det aktuelle virksomme stoffet, eller oppføre det i vedlegg IV til denne forordning,bestemte bearbeidingsfaktorer som nevnt i artikkel 20 nr.2 i denne forordning som det aktuelle virksomme stoffet kan ha behov for,de grenseverdiene for restmengder som Kommisjonen kan vurdere å føre opp i vedlegg II og/eller vedlegg III til denne forordning, og de grenseverdiene for restmengder som kan strykes for dette virksomme stoffet.
 
 2\. For stoffer omfattet av vedlegg I til direktiv [91/414/EØF](eu/31991l0414*) før denne forordning trer i kraft, skal den grunngitte uttalelsen nevnt i nr. 1 i denne artikkel, avgis senest tolv måneder etter at denne forordning er trådt i kraft.
 
-Artikkel 13
+###### Artikkel 13
+
 Administrativ kontroll
 
 Dersom myndigheten treffer en beslutning eller unnlater å handle i henhold til den myndigheten som er blitt tildelt gjennom denne forordning, kan Kommisjonen på eget initiativ eller på anmodning fra en medlemsstat eller fra en person som direkte eller personlig er berørt, gjennomføre en administrativ kontroll av beslutningen eller unnlatelsen.
@@ -297,7 +305,8 @@ Kommisjonen skal treffe en beslutning innen to måneder og eventuelt kreve at my
 ### Avsnitt 3
 Fastsette, endre eller stryke grenseverdier for restmengder
 
-Artikkel 14
+###### Artikkel 14
+
 Beslutninger vedrørende søknader om grenseverdier for restmengder
 
 1\. Når Kommisjonen har mottatt myndighetens uttalelse og idet den tar hensyn til denne uttalelsen, utarbeider Kommisjonen umiddelbart og senest innen tre måneder en forordning om fastsettelse, endring og stryking av en grenseverdi for restmengder eller et vedtak om avslag på søknaden og framlegger denne rettsakten for vedtakelse i henhold til framgangsmåten nevnt i artikkel 45 nr. 2.
@@ -306,21 +315,24 @@ Beslutninger vedrørende søknader om grenseverdier for restmengder
 
 3\. Kommisjonen kan til enhver tid kreve at søkeren eller myndigheten framlegger utfyllende opplysninger. Kommisjonen skal stille alle utfyllende opplysninger som den har mottatt, til rådighet for medlemsstatene og myndigheten.
 
-Artikkel 15
+###### Artikkel 15
+
 Oppføring av nye eller endrede grenseverdier for restmengder i vedlegg II og III
 
 1\. Forordningen som er nevnt i artikkel 14 nr. 1 skal:fastsette nye eller endrede grenseverdier for restmengder og føre dem opp i vedlegg II til denne forordning, når de virksomme stoffene er blitt oppført i vedlegg I til direktiv [91/414/EØF](eu/31991l0414*), ellerfastsette eller endre midlertidige grenseverdier for restmengder og føre dem opp i vedlegg III til denne forordning, når virksomme stoffer ikke er oppført i vedlegg I til direktiv [91/414/EØF](eu/31991l0414*), ellerfastsette midlertidige grenseverdier for restmengder og føre dem opp i vedlegg III til denne forordning i de tilfellene som er nevnt i artikkel 16.
 
 2\. Når det fastsettes en midlertidig grenseverdi for restmengder i samsvar med nr. 1 bokstav b, skal den strykes i vedlegg III gjennom en forordning ett år etter datoen for når det berørte virksomme stoffet ble oppført eller ikke i vedlegg I til direktiv [91/414/EØF i](eu/31991l0414*) samsvar med artikkel 45 nr. 2 i denne forordning. Dersom en eller flere medlemsstater anmoder om det, kan den imidlertid opprettholdes i ytterligere ett år i påvente av en bekreftelse om at vitenskapelige undersøkelser som er nødvendige som underlag for en søknad for å fastsette en grenseverdi for restmengder, er blitt gjennomført. I de tilfeller der en slik bekreftelse foreligger, skal den midlertidige grenseverdien for restmengder opprettholdes for ytterligere to år, forutsatt at det ikke er konstatert noen uakseptabel risiko for forbrukerens sikkerhet.
 
-Artikkel 16
+###### Artikkel 16
+
 Framgangsmåte for å fastsette midlertidige grenseverdier for restmengder under visse omstendigheter
 
 1\. Forordningen nevnt i artikkel 14 nr. 1 kan også fastsette en midlertidig grenseverdi for restmengder som skal oppføres i vedlegg III i følgende tilfeller:unntaksvis og særlig når det kan forekomme rester av plantevernmidler som følge av miljøforurensning eller annen forurensning eller som følge av bruk av plantefarmasøytiske produkter i samsvar med artikkel 8 nr. 4 i direktiv [91/414/EØF](eu/31991l0414*), ellernår de berørte produktene utgjør en liten del av forbrukernes kosthold, og ikke utgjør en vesentlig del av kostholdet til relevante undergrupper, og eventuelt av fôrvarer, ellerfor honning, ellerfor urtete, ellernår viktige anvendelsesområder for plantefarmasøytiske produkter er blitt fastsatt ved et vedtak om å stryke et virksomt stoff eller ikke å føre opp et virksomt stoff i vedlegg I til direktiv [91/414/EØF](eu/31991l0414*), ellernår nye produkter, produktgrupper og/eller deler av produkter er blitt oppført i vedlegg I, og en eller flere medlemsstater anmoder om det, for at vitenskapelige undersøkelser som er nødvendige for å underbygge en søknad om fastsettelse av en grenseverdi for restmengder, skal kunne gjennomføres og vurderes, forutsatt at det ikke er konstatert noen uakseptabel risiko for forbrukerens sikkerhet.
 
 2\. Oppføringen av midlertidige grenseverdier for restmengder som nevnt i nr. 1, skal bygge på uttalelsen fra myndigheten, overvåkingsopplysninger og en vurdering som godtgjør at det ikke foreligger noen uakseptable risikoer for forbrukere eller dyr.De midlertidige grenseverdiene for restmengder som er nevnt i nr. 1 bokstav a), b), c) og d), skal tas opp til ny vurdering minst én gang hvert tiende år for å beslutte om de fortsatt skal få anvendelse, og de skal om nødvendig endres eller strykes.Grenseverdiene for restmengder nevnt i nr. 1 bokstav e), skal tas opp til ny vurdering når den perioden som den viktige anvendelsen ble godkjent for, utløper. De grenseverdiene for restmengder som er nevnt i nr. 1bokstav f), skal tas opp til ny vurdering når de vitenskapelige undersøkelsene er blitt fullført og vurdert, men ikke senere enn fire år etter at de er blitt oppført i vedlegg III.
 
-Artikkel 17
+###### Artikkel 17
+
 Endringer av grenseverdier for restmengder etter at godkjenninger av plantefarmasøytiske produkter tilbakekalles
 
 Endringer i vedlegg II eller III som er nødvendige for å stryke en grenseverdi for restmengder, etter at en eksisterende godkjenning av et plantefarmasøytisk produkt tilbakekalles, kan vedtas uten å innhente en uttalelse fra myndigheten.
@@ -387,7 +399,7 @@ Offentlige kontroller av grenseverdier for restmengder
 
 ►**M32**
 
-Artikkel 26.
+###### Artikkel 26.
 
 – – –
 
@@ -395,13 +407,14 @@ Artikkel 26.
 
 ►**M32**
 
-Artikkel 27.
+###### Artikkel 27.
 
 – – –
 
 ◄**M32**
 
-Artikkel 28
+###### Artikkel 28
+
 Analysemetoder
 
 ►**M32**
@@ -417,7 +430,8 @@ Analysemetoder
 ### Avsnitt 2
 Fellesskapets kontrollprogram
 
-Artikkel 29
+###### Artikkel 29
+
 Fellesskapets kontrollprogram
 
 1\. Kommisjonen skal utarbeide et samordnet flerårig kontrollprogram i Fellesskapet som angir de bestemte prøvene som skal inngå i de nasjonale kontrollprogrammene, og som tar hensyn til de problemene som er avklart med hensyn til overholdelse av de grenseverdiene for restmengder som er fastsatt i denne forordning, for å vurdere forbrukereksponering og anvendelse av gjeldende lovgivning.
@@ -429,7 +443,7 @@ Nasjonale kontrollprogrammer
 
 ►**M32**
 
-Artikkel 30.
+###### Artikkel 30.
 
 – – –
 
@@ -438,14 +452,16 @@ Artikkel 30.
 ### Avsnitt 4
 Opplysninger fra medlemsstatene og årlig rapport
 
-Artikkel 31
+###### Artikkel 31
+
 Opplysninger fra medlemsstatene
 
 1\. Medlemsstatene skal framlegge følgende opplysninger om foregående kalenderår for Kommisjonen, myndigheten og de andre medlemsstatene innen 31. august hvert år:resultatene av de offentlige kontrollene i henhold til artikkel 26 nr. 1,de bestemmelsesgrensene som er anvendt i de nasjonale kontrollprogrammene nevnt i artikkel 30, og i Fellesskapets kontrollprogram nevnt i artikkel 29,opplysninger om analyselaboratorienes deltaking i Fellesskapets egnethetsprøvinger nevnt i artikkel 28 nr. 3 og andre egnethetsprøvinger som er relevante for kombinasjoner av plantevernmiddel/produkt, som det er tatt prøver av innenfor rammen av det nasjonale kontrollprogrammet,opplysninger om akkrediteringsstatusen til de analyselaboratoriene som er ansvarlige for de kontrollene som er nevnt i bokstav a),opplysninger om hvilke håndhevingstiltak som er truffet, når dette er tillatt i henhold til nasjonal lovgivning.
 
 2\. Gjennomføringstiltakene for de opplysningene som medlemsstatene skal framlegge, kan fastsettes i samsvar med framgangsmåten nevnt i artikkel 45 nr. 2 etter samråd med myndigheten.
 
-Artikkel 32
+###### Artikkel 32
+
 Den årlige rapporten om rester av plantevernmidler
 
 1\. Myndigheten skal utarbeide en årlig rapport om rester av plantevernmidler på grunnlag av de opplysningene som medlemsstatene framlegger i samsvar med artikkel 31 nr. 1.
@@ -462,7 +478,8 @@ Den årlige rapporten om rester av plantevernmidler
 
 7\. Medlemsstaten skal offentliggjøre den årlige rapporten, samt eventuelle merknader fra Kommisjonen eller medlemsstatene.
 
-Artikkel 33
+###### Artikkel 33
+
 Innlevering av den årlige rapporten om rester av plantevernmidler til komiteen
 
 Kommisjonen skal omgående framlegge den årlige rapporten om rester av plantevernmidler for den komiteen som er nevnt i artikkel 45 nr. 1, for at komiteen skal kunne gjennomgå og utforme rekommandasjoner om eventuelle nødvendige tiltak som skal treffes med hensyn til rapporterte overtredelser av de grenseverdiene for restmengder, som er fastsatt i vedlegg II og III.
@@ -470,7 +487,8 @@ Kommisjonen skal omgående framlegge den årlige rapporten om rester av planteve
 ### Avsnitt 5
 Sanksjoner
 
-Artikkel 34
+###### Artikkel 34
+
 Sanksjoner
 
 Medlemsstatene skal fastsette bestemmelser om sanksjoner for overtredelser av bestemmelsene i denne forordning, og treffe alle nødvendige tiltak for å sikre at de gjennomføres. Sanksjonene som fastsettes må være effektive, stå i et rimelig forhold til overtredelsen og virke forebyggende.

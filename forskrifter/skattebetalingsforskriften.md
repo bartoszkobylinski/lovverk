@@ -15,7 +15,7 @@ xml_hash: "96790e5b7305ee06d6f07d1fd55b051e3a6f0d7694e702a0843c1f41cf051a23"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-01T08:08:55.828874+00:00"
+retrieved_at: "2026-07-10T17:52:49.841668+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1286,7 +1286,7 @@ Hvis en personlig skattyter under ordningen dør, skal det anses som uttreden.
 
 ### Beløpsgrenser
 
-§ 10-4-1. Beløpsgrense for betaling og tilbakebetaling av skatte- og avgiftskrav
+###### § 10-4-1. Beløpsgrense for betaling og tilbakebetaling av skatte- og avgiftskrav
 
 (1) Skatte- og avgiftskrav samt tilgodebeløp, inkludert eventuelle gebyrer og renter etter [skattebetalingsloven § 11-2](lov/2005-06-17-67/§11-2), [§ 11-4](lov/2005-06-17-67/§11-4) og [§ 11-5](lov/2005-06-17-67/§11-5), som alene utgjør under 100 kroner, betales eller tilbakebetales ikke. Dette gjelder likevel ikke for:sjømenn som er skattepliktig etter [skatteloven § 2-3](lov/1999-03-26-14/§2-3) første ledd, hvor beløpsgrensen er 2 000 kroner,betaling av krav på tollavgift, merverdiavgift og særavgifter som kreves opp ved innførsel, jf. [skattebetalingsloven § 10-41](lov/2005-06-17-67/§10-41), hvor beløpsgrensen er 50 kroner, unntatt for alkoholholdig drikk og tobakk, hvor det ikke gjelder noen beløpsgrense. Det gjelder heller ingen beløpsgrense for betaling av krav på merverdiavgift og særavgifter fra andre enn næringsdrivende og offentlig virksomhet.betaling av vektårsavgift med døgnsats etter bestemmelsene om korttidsbruk av tilhenger jf. [forskrift 29. juni 2000 nr. 688](forskrift/2000-06-29-688) om vektårsavgift [§ 7](forskrift/2000-06-29-688/§7),engangsavgift på motorvogner, hvor beløpsgrensen er 200 kroner, ogtilleggsavgift for forsinket betaling av årsavgift med redusert sats, hvor beløpsgrensen er 50 kroner.
 
@@ -1294,19 +1294,19 @@ Hvis en personlig skattyter under ordningen dør, skal det anses som uttreden.
 
 > Endret ved [forskrifter 25 mars 2010 nr. 462](forskrift/2010-03-25-462) (i kraft 1 april 2010), [19 des 2019 nr. 2036](forskrift/2019-12-19-2036) (i kraft 1 jan 2020), [22 des 2022 nr. 2488](forskrift/2022-12-22-2488) (i kraft 1 jan 2023).
 
-§ 10-4-2. Beløpsgrense for renter og rentegodtgjørelse
+###### § 10-4-2. Beløpsgrense for renter og rentegodtgjørelse
 
 Forsinkelsesrenter, jf. [skattebetalingsloven § 11-1](lov/2005-06-17-67/§11-1) og [§ 11-3](lov/2005-06-17-67/§11-3), mindre enn 50 kroner betales eller tilbakebetales ikke. Tilsvarende gjelder dersom renter og rentegodtgjørelse etter [§ 11-2](forskrift/2007-12-21-1766/§11-2) og [§ 11-4](forskrift/2007-12-21-1766/§11-4) i særlige tilfeller oppstår som krav på slik måte at rentene faller utenfor regulering sammen med hovedstol etter [§ 10-4-1](forskrift/2007-12-21-1766/§10-4-1).
 
 > Endret ved [forskrift 25 mars 2010 nr. 462](forskrift/2010-03-25-462) (i kraft 1 april 2010).
 
-§ 10-4-3. Beløpsgrense for bortskriving eller inntektsføring av små, gjenstående restbeløp
+###### § 10-4-3. Beløpsgrense for bortskriving eller inntektsføring av små, gjenstående restbeløp
 
 Restbeløp til innbetaling under 50 kroner kan frafalles. Tilsvarende har skatte- eller avgiftspliktige ikke krav på å få utbetalt restbeløp under 50 kroner. Beløp som nevnt i første og annet punktum kan henholdsvis utgiftsføres eller inntektsføres i regnskapet.
 
 > Tilføyd ved [forskrift 25 mars 2010 nr. 462](forskrift/2010-03-25-462) (i kraft 1 april 2010).
 
-§ 10-4-4. Avrunding
+###### § 10-4-4. Avrunding
 
 Ved beregning av skatte- og avgiftskrav avrundes beløpet ned til nærmeste hele krone.
 
@@ -1322,43 +1322,43 @@ Ved beregning av skatte- og avgiftskrav avrundes beløpet ned til nærmeste hele
 
 ### Unntak fra terminvise forfall
 
-§ 10-10-1. (Opphevet)
+###### § 10-10-1. (Opphevet)
 
 > Opphevet ved [forskrift 30 sep 2011 nr. 980](forskrift/2011-09-30-980) (i kraft 1 jan 2012, se denne for overgangsregel).
 
-§ 10-10-2. Forfallsfrist for forskuddstrekk i beløp utbetalt i medhold av statsgarantiloven
+###### § 10-10-2. Forfallsfrist for forskuddstrekk i beløp utbetalt i medhold av statsgarantiloven
 
 Når det er foretatt forskuddstrekk i beløp som utbetales i medhold av [lov 14. desember 1973 nr. 61 om statsgaranti for lønnskrav ved konkurs m.v.](lov/1973-12-14-61), kan oppgjør for forskuddstrekk etter [skattebetalingsloven § 10-10](lov/2005-06-17-67/§10-10), utsettes til 15. januar i året etter inntektsåret. Oppgjøret per 15. januar skal i så fall omfatte alt forskuddstrekk som er foretatt i det foregående inntektsåret.
 
 > Endret ved [forskrifter 18 des 2014 nr. 1792](forskrift/2014-12-18-1792) (fom inntektsåret 2015), [8 aug 2025 nr. 1606](forskrift/2025-08-08-1606) (i kraft 1 jan 2026).
 
-§ 10-10-3. Forfallsfrist for arbeidsgiveravgift fra arbeidsgivere mv. som leverer opplysninger etter særregler
+###### § 10-10-3. Forfallsfrist for arbeidsgiveravgift fra arbeidsgivere mv. som leverer opplysninger etter særregler
 
 Arbeidsgiveravgift fra arbeidsgivere som har lønnsutbetalinger som er fritatt for arbeidsgiveravgift etter [folketrygdloven § 23-2](lov/1997-02-28-19/§23-2) syvende til åttende ledd, og som leverer opplysninger etter [a-opplysningsforskriften § 2-1 åttende ledd](forskrift/2014-06-24-857/§2-1/ledd/8), forfaller til betaling samme dag som det skal leveres opplysninger etter [a-opplysningsforskriften § 2-1](forskrift/2014-06-24-857/§2-1).
 
 > Endret ved [forskrifter 2 juli 2008 nr. 776](forskrift/2008-07-02-776), [11 juli 2008 nr. 809](forskrift/2008-07-11-809), [25 mars 2010 nr. 462](forskrift/2010-03-25-462) (i kraft 1 april 2010), [18 des 2014 nr. 1792](forskrift/2014-12-18-1792) (fom inntektsåret 2015), [9 des 2016 nr. 1537](forskrift/2016-12-09-1537) (i kraft 1 jan 2017), [10 jan 2018 nr. 21](forskrift/2018-01-10-21), [8 aug 2025 nr. 1606](forskrift/2025-08-08-1606) (i kraft 1 jan 2026).
 
-§ 10-10-4. (Opphevet)
+###### § 10-10-4. (Opphevet)
 
 > Opphevet ved [forskrift 25 mars 2010 nr. 462](forskrift/2010-03-25-462) (i kraft 1 april 2010).
 
-§ 10-10-5. Forfallsfrist ved forsinket skattemelding og førstegangsfastsetting av arbeidsgiveravgift og finansskatt på lønn
+###### § 10-10-5. Forfallsfrist ved forsinket skattemelding og førstegangsfastsetting av arbeidsgiveravgift og finansskatt på lønn
 
 Bestemmelsen i [skattebetalingsloven § 10-10 annet ledd](lov/2005-06-17-67/§10-10/ledd/2) gjelder også arbeidsgiveravgift og finansskatt på lønn innrapportert på skattemelding som ikke er levert innen leveringsfristen. Tilsvarende gjelder ved førstegangsfastsetting av arbeidsgiveravgift og finansskatt på lønn når skattemelding ikke er levert.
 
 > Tilføyd ved [forskrift 19 des 2008 nr. 1487](forskrift/2008-12-19-1487), endret ved [forskrifter 25 mars 2010 nr. 462](forskrift/2010-03-25-462) (i kraft 1 april 2010), [21 des 2016 nr. 1796](forskrift/2016-12-21-1796) (i kraft 1 jan 2017), [26 juni 2026 nr. 1385](forskrift/2026-06-26-1385).
 
-§ 10-10-6. (Opphevet)
+###### § 10-10-6. (Opphevet)
 
 > Tilføyd ved [forskrift 18 des 2014 nr. 1792](forskrift/2014-12-18-1792) (fom inntektsåret 2015), endret ved [forskrifter 30 okt 2020 nr. 2221](forskrift/2020-10-30-2221) (i kraft 1 nov 2020), [13 juni 2025 nr. 1006](forskrift/2025-06-13-1006) (i kraft 1 jan 2026), opphevet ved forskrift [8 aug 2025 nr. 1606](forskrift/2025-08-08-1606) (i kraft 1 jan 2026).
 
-§ 10-10-7. Forfallsfrist for trygdeavgift som fastsettes av Arbeids- og velferdsetaten
+###### § 10-10-7. Forfallsfrist for trygdeavgift som fastsettes av Arbeids- og velferdsetaten
 
 Trygdeavgift som fastsettes av Arbeids- og velferdsetaten i medhold av skatteforvaltningsloven skal innbetales i slike terminer og på den måten som Arbeids- og velferdsdirektoratet bestemmer. Dersom ikke annet er bestemt, skal avgiften betales kvartalvis.
 
 > Tilføyd ved [forskrift 9 des 2016 nr. 1537](forskrift/2016-12-09-1537) (i kraft 1 jan 2017).
 
-§ 10-10-8. Unntak fra forfallsfristen for forskuddstrekk mv.
+###### § 10-10-8. Unntak fra forfallsfristen for forskuddstrekk mv.
 
 (1) Statlige arbeidsgivere (statsforvaltningen) skal betale forskuddstrekk og skattetrekk den 5. i måneden etter at pliktig trekk etter [skattebetalingsloven § 5-4](lov/2005-06-17-67/§5-4) er gjennomført. Med statsforvaltningen menes:forvaltningsorganer som får fastsatt sine driftsbevilgninger over statsbudsjettet, herunder statens forretningsdrift og statsbankene, ogforvaltningsorganer med unntak fra bruttobudsjetteringsprinsippet (såkalte post 50 virksomheter).
 
@@ -1874,7 +1874,7 @@ Skattedirektoratet og Tolldirektoratet kan gi nærmere bestemmelser til presiser
 
 ### A. Tollkreditt
 
-§ 14-20-1. Søknad og innvilgelse av tollkreditt
+###### § 14-20-1. Søknad og innvilgelse av tollkreditt
 
 (1) Skattekontoret kan etter søknad på fastsatt blankett innvilge foretak kreditt for krav som oppstår i forbindelse med innførsel eller utførsel av en vare.
 
@@ -1886,7 +1886,7 @@ Skattedirektoratet og Tolldirektoratet kan gi nærmere bestemmelser til presiser
 
 > Endret ved [forskrifter 21 jan 2010 nr. 45](forskrift/2010-01-21-45), [8 okt 2013 nr. 1204](forskrift/2013-10-08-1204) (i kraft 1 nov 2013), [15 des 2015 nr. 1602](forskrift/2015-12-15-1602) (i kraft 1 jan 2016).
 
-§ 14-20-2. Vilkår for bruk av tollkreditt
+###### § 14-20-2. Vilkår for bruk av tollkreditt
 
 (1) Tollkreditten kan kun benyttes av tollavgiftspliktige eller den som opptrer på hans vegne for deklarasjoner via elektronisk datautveksling.
 
@@ -1900,7 +1900,7 @@ Skattedirektoratet og Tolldirektoratet kan gi nærmere bestemmelser til presiser
 
 > Endret ved [forskrifter 25 mars 2010 nr. 462](forskrift/2010-03-25-462) (i kraft 1 april 2010), [8 okt 2013 nr. 1204](forskrift/2013-10-08-1204) (i kraft 1 nov 2013), [15 des 2015 nr. 1602](forskrift/2015-12-15-1602) (i kraft 1 jan 2016), [22 des 2022 nr. 2488](forskrift/2022-12-22-2488) (i kraft 1 jan 2023).
 
-§ 14-20-3. Tilbakekallelse av tollkreditt
+###### § 14-20-3. Tilbakekallelse av tollkreditt
 
 (1) Innvilget tollkreditt kan omgående stoppes og tilbakekalles uten varsel når:foretaket eller dets ledelse/tillitsmenn har disponert over en vare i strid med [vareførselsloven](lov/2022-03-11-9),det er disponert over en innvilget tollkredittkonto i strid med skattebetalingsloven med forskrifter eller meddelt tillatelse, herunder ved mislighold av forfallsbestemmelsene,det ikke gis opplysninger som omhandlet i [§ 14-20-2](forskrift/2007-12-21-1766/§14-20-2) fjerde og femte ledd,foretaket mangler lovpålagt styreleder eller revisor,årsoppgjør og revisjonsinnberetning ikke er sendt Regnskapsregisteret i samsvar med aksje- og regnskapslovgivningens frister, eller pliktig aksjekapital ikke er innbetalt i samsvar med aksjelovgivningen ellerforetaket ikke lenger anses kredittverdig.
 
@@ -1908,7 +1908,7 @@ Skattedirektoratet og Tolldirektoratet kan gi nærmere bestemmelser til presiser
 
 > Endret ved [forskrifter 8 okt 2013 nr. 1204](forskrift/2013-10-08-1204) (i kraft 1 nov 2013), [15 des 2015 nr. 1602](forskrift/2015-12-15-1602) (i kraft 1 jan 2016), [9 des 2016 nr. 1537](forskrift/2016-12-09-1537) (i kraft 1 jan 2017), [22 des 2022 nr. 2488](forskrift/2022-12-22-2488) (i kraft 1 jan 2023).
 
-§ 14-20-4. Sikkerhetsstillelse for tollkreditt
+###### § 14-20-4. Sikkerhetsstillelse for tollkreditt
 
 (1) Sikkerhetsstillelse kan kreves både ved innvilgelse av tollkreditt, mens tollkreditten består og ved eventuell gjenåpning av stengt tollkredittkonto. Sikkerhetsstillelsens størrelse og varighet fastsettes av skattekontoret. Skattedirektoratet utarbeider en standard garantitekst som skal benyttes.
 
@@ -1918,13 +1918,13 @@ Skattedirektoratet og Tolldirektoratet kan gi nærmere bestemmelser til presiser
 
 > Endret ved [forskrift 15 des 2015 nr. 1602](forskrift/2015-12-15-1602) (i kraft 1 jan 2016).
 
-§ 14-20-5. Godtgjørelse til statskassen ved bruk av tollkreditt
+###### § 14-20-5. Godtgjørelse til statskassen ved bruk av tollkreditt
 
 Foretak som er innvilget tollkreditt, skal betale godtgjørelse til statskassen på kr 100,- per måned i måneder der tollkreditten er benyttet ved innførsel av varer. Godtgjørelsen forfaller til betaling samtidig med tollkreditten.
 
 > Endret ved [forskrift 21 des 2012 nr. 1421](forskrift/2012-12-21-1421) (i kraft 1 jan 2013).
 
-§ 14-20-6. Utfyllende bestemmelser tollkreditt
+###### § 14-20-6. Utfyllende bestemmelser tollkreditt
 
 Skattedirektoratet kan gi nærmere bestemmelser til presisering, utfylling og gjennomføring av bestemmelsene om tollkreditt.
 
@@ -1932,7 +1932,7 @@ Skattedirektoratet kan gi nærmere bestemmelser til presisering, utfylling og gj
 
 ### B. Dagsoppgjør
 
-§ 14-20-10. Søknad og innvilgelse av dagsoppgjør
+###### § 14-20-10. Søknad og innvilgelse av dagsoppgjør
 
 (1) Skattekontoret kan etter søknad på fastsatt blankett innvilge speditører tillatelse til å foreta samlet oppgjør for de deklarasjoner som er innlevert i løpet av en dag jf. [skattebetalingslovens § 14-20](lov/2005-06-17-67/§14-20).
 
@@ -1946,7 +1946,7 @@ Skattedirektoratet kan gi nærmere bestemmelser til presisering, utfylling og gj
 
 > Endret ved [forskrifter 19 des 2008 nr. 1487](forskrift/2008-12-19-1487), [21 jan 2010 nr. 45](forskrift/2010-01-21-45), [15 des 2015 nr. 1602](forskrift/2015-12-15-1602) (i kraft 1 jan 2016).
 
-§ 14-20-11. Oppebærelse av dagsoppgjør
+###### § 14-20-11. Oppebærelse av dagsoppgjør
 
 (1) Deklarasjoner kan avvises dersom fastsatt kredittgrense overskrides.
 
@@ -1958,7 +1958,7 @@ Skattedirektoratet kan gi nærmere bestemmelser til presisering, utfylling og gj
 
 > Endret ved [forskrifter 15 des 2015 nr. 1602](forskrift/2015-12-15-1602) (i kraft 1 jan 2016), [30 okt 2020 nr. 2221](forskrift/2020-10-30-2221) (i kraft 1 nov 2020).
 
-§ 14-20-12. Tilbakekallelse av tillatelse til dagsoppgjør
+###### § 14-20-12. Tilbakekallelse av tillatelse til dagsoppgjør
 
 (1) Tillatelse til å foreta dagsoppgjør kan omgående stoppes og tilbakekalles uten varsel når:foretaket eller dets ledelse/tillitsmenn har disponert over en vare i strid med [vareførselsloven](lov/2022-03-11-9),tillatelse til dagsoppgjør benyttes i strid med skattebetalingsloven med forskrifter eller meddelt tillatelse, herunder ved mislighold av forfallsbestemmelsene,det ikke gis slike opplysninger som er fastsatt i [§ 14-20-11](forskrift/2007-12-21-1766/§14-20-11) tredje ledd,foretaket mangler lovpålagt styreleder eller revisor,årsoppgjør og revisjonsinnberetning ikke er sendt Regnskapsregisteret i samsvar med aksje- og regnskapslovgivningens frister, eller pliktig aksjekapital ikke er innbetalt i samsvar med aksjelovgivningen,foretaket ikke lenger anses kredittverdig.
 
@@ -1966,7 +1966,7 @@ Skattedirektoratet kan gi nærmere bestemmelser til presisering, utfylling og gj
 
 > Endret ved [forskrifter 19 des 2008 nr. 1487](forskrift/2008-12-19-1487), [15 des 2015 nr. 1602](forskrift/2015-12-15-1602) (i kraft 1 jan 2016), [9 des 2016 nr. 1537](forskrift/2016-12-09-1537) (i kraft 1 jan 2017), [22 des 2022 nr. 2488](forskrift/2022-12-22-2488) (i kraft 1 jan 2023).
 
-§ 14-20-13. Sikkerhetsstillelse ved tillatelse til dagsoppgjør
+###### § 14-20-13. Sikkerhetsstillelse ved tillatelse til dagsoppgjør
 
 (1) Sikkerhetsstillelse kan kreves ved innvilgelse av tillatelse til å foreta dagsoppgjør, mens dagsoppgjørsordningen består og ved ny tillatelse etter tidligere tilbakekalt tillatelse. Sikkerhetsstillelsens størrelse og varighet fastsettes av skattekontoret. Skattedirektoratet utarbeider en standard garantitekst som skal benyttes.
 
@@ -1976,7 +1976,7 @@ Skattedirektoratet kan gi nærmere bestemmelser til presisering, utfylling og gj
 
 > Endret ved [forskrifter 19 des 2008 nr. 1487](forskrift/2008-12-19-1487), [15 des 2015 nr. 1602](forskrift/2015-12-15-1602) (i kraft 1 jan 2016).
 
-§ 14-20-14. Utfyllende bestemmelser dagsoppgjør
+###### § 14-20-14. Utfyllende bestemmelser dagsoppgjør
 
 Skattedirektoratet kan gi nærmere bestemmelser til presisering, utfylling og gjennomføring av bestemmelsene om dagsoppgjør.
 
@@ -1986,7 +1986,7 @@ Skattedirektoratet kan gi nærmere bestemmelser til presisering, utfylling og gj
 
 > Overskrift tilføyd ved forskrift [19 des 2023 nr. 2198](forskrift/2023-12-19-2198) (i kraft 1 jan 2024).
 
-§ 14-20-20. Månedsoppgjør
+###### § 14-20-20. Månedsoppgjør
 
 (1) Skattekontoret kan etter søknad på fastsatt blankett innvilge speditører tillatelse til å foreta samlet oppgjør for de deklarasjoner som er innlevert i løpet av en kalendermåned jf. [skattebetalingslovens § 14-20 andre ledd](lov/2005-06-17-67/§14-20/ledd/2). Ordningen omfatter deklarasjoner med flere mottakere i samme deklarasjon (samlefortolling), jf. [vareførselsforskriften § 4-1-5](forskrift/2022-10-27-1901/§4-1-5).
 

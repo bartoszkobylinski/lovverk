@@ -15,7 +15,7 @@ xml_hash: "a1058cb5190c7d5908bf419b7d68143cb96289522cee5e546e28ed335e6f5372"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-10T17:52:49.841668+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -120,7 +120,21 @@ Nedenfor følger EØS-avtalen vedlegg XX nr. 32c og vedlegg XIII nr. 56b slik Kl
 av 20. november 2013
 om gjenvinning av skip og om endring av forordning [(EF) nr. 1013/2006](eu/32006r1013*) og direktiv [2009/16/EF](eu/32009l0016*)
 
-EUROPAPARLAMENTET OG RÅDET FOR DEN EUROPEISKE UNION HAR –under henvisning til traktaten om Den europeiske unions virkemåte, særlig artikkel 192 nr. 1,under henvisning til forslag fra Europakommisjonen,etter oversending av utkast til regelverksakt til de nasjonale parlamentene,under henvisning til uttalelse fra Den europeiske økonomiske og sosiale komité,1etter samråd med Regionkomiteen,etter den ordinære regelverksprosedyren2 ogut fra følgende betraktninger:
+EUROPAPARLAMENTET OG RÅDET FOR DEN EUROPEISKE UNION HAR –
+
+under henvisning til traktaten om Den europeiske unions virkemåte, særlig artikkel 192 nr. 1,
+
+under henvisning til forslag fra Europakommisjonen,
+
+etter oversending av utkast til regelverksakt til de nasjonale parlamentene,
+
+under henvisning til uttalelse fra Den europeiske økonomiske og sosiale komité,1
+
+etter samråd med Regionkomiteen,
+
+etter den ordinære regelverksprosedyren2 og
+
+ut fra følgende betraktninger:
 
 1. Skip som utgjør avfall, og som transporteres over landegrensene for gjenvinning, reguleres av Basel-konvensjonen av 22. mars 1989 om kontroll av grensekryssende transport av farlig avfall og dets disponering («Basel-konvensjonen») og europaparlaments- og rådsforordning [(EF) nr. 1013/2006](eu/32006r1013*).3 Ved forordning [(EF) nr. 1013/2006](eu/32006r1013*) gjennomføres Basel-konvensjonen og en endring4 av denne konvensjonen vedtatt i 1995, som ennå ikke er trådt i kraft på internasjonalt plan, og som innfører et forbud mot eksport av farlig avfall til stater som ikke er medlem av Organisasjonen for økonomisk samarbeid og utvikling (OECD). Slike skip klassifiseres vanligvis som farlig avfall og kan ikke eksporteres fra Unionen for gjenvinning på anlegg i stater som ikke er medlem av OECD.
 2. Ordningene for å kontrollere anvendelsen og håndhevingen av gjeldende unionsrett og folkerett er ikke tilpasset særtrekkene ved skip og internasjonal skipsfart. Gjennom arbeidet som involverer samarbeid mellom Den internasjonale arbeidsorganisasjon (ILO), Den internasjonale sjøfartsorganisasjon (IMO) og sekretariatet for Basel-konvensjonen, har det lyktes på globalt plan å oppnå enighet om å innføre obligatoriske krav for å sikre en effektiv og virkningsfull løsning på usikker og uforsvarlig praksis med gjenvinning av skip, i form av den internasjonale Hongkong-konvensjonen om sikker og miljømessig forsvarlig gjenvinning av skip (nedenfor kalt «Hongkong-konvensjonen»).

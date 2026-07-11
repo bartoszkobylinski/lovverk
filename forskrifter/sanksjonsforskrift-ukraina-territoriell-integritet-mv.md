@@ -15,7 +15,7 @@ xml_hash: "01378d8bc65063b8d1378e4c00a9c3bc8d726066f94c93ee13986b84ef116643"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-02T08:26:01.859598+00:00"
+retrieved_at: "2026-07-10T17:52:49.841668+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -2726,13 +2726,21 @@ Vedlegget omfatter fysiske og juridiske personer som er militære sluttbrukere, 
 
 > Tilføyd ved [forskrift 10 okt 2014 nr. 1278](forskrift/2014-10-10-1278), endret ved forskrift [18 mars 2022 nr. 410](forskrift/2022-03-18-410).
 
-OPK OBORONPROMUNITED AIRCRAFT CORPORATIONURALVAGONZAVOD
+OPK OBORONPROM
+
+UNITED AIRCRAFT CORPORATION
+
+URALVAGONZAVOD
 
 ## Vedlegg VIII. Liste over juridiske personer omtalt i § 8b tredje ledd, bokstav b
 
 > Tilføyd ved [forskrift 10 okt 2014 nr. 1278](forskrift/2014-10-10-1278), endret ved forskrift [18 mars 2022 nr. 410](forskrift/2022-03-18-410).
 
-ROSNEFTTRANSNEFTGAZPROM NEFT
+ROSNEFT
+
+TRANSNEFT
+
+GAZPROM NEFT
 
 ## Vedlegg IX. Liste over varer og teknologi som omtalt i [§ 16a](forskrift/2014-08-15-1076/§16a) og [§ 16b](forskrift/2014-08-15-1076/§16b)
 

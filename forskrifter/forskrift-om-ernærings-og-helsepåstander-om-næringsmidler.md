@@ -100,6 +100,10 @@ For å gjøre det lett å finne frem til ordlyden i de forordningene som blir gj
 
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EF) nr. 1924/2006](eu/32006r1924). Dette er grunnrettsakten. Grunnrettsakten er endret ved forordning [(EF) nr. 109/2008](eu/32008r0109), forordning [(EU) nr. 116/2010](eu/32010r0116), forordning [(EU) nr. 1169/2011](eu/32011r1169) og forordning [(EU) nr. 1047/2012](eu/32012r1047). Alle endringer av grunnrettsakten samt de endringer og tillegg som følger av EØS-tilpasningen av grunnrettsakten i samsvar med [vedlegg II kapittel XII](avtale/avt-1992-05-02-1-v2/kapXII) nr. 54zzzt er innarbeidet nedenfor.
 
+► **B** Europaparlaments- og rådsforordning [(EF) nr. 1924/2004](eu/32004r1924) av 20. desember 2006
+
+som endret ved
+
 - ►**M1** Kommisjonsforordning [(EF) nr. 109/2008](eu/32008r0109) av 15. januar 2008
 - ►**M2** Kommisjonsforordning [(EU) nr. 116/2010](eu/32010r0116) av 9. februar 2010
 - ►**M3** Forordning [(EU) nr. 1047/2012](eu/32012r1047)
@@ -108,6 +112,8 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EF) nr. 1924
 ### EUROPAPARLAMENTS- OG RÅDSFORORDNING [(EF) nr. 1924/2006](eu/32006r1924*)
 av 20. desember 2006
 om ernærings- og helsepåstander om næringsmidler
+
+EUROPAPARLAMENTET OG RÅDET FOR DEN EUROPEISKE UNION HAR –
 
 under henvisning til traktaten om opprettelse av Det europeiske fellesskap, særlig artikkel 95,
 
@@ -119,25 +125,53 @@ etter framgangsmåten fastsatt i traktatens artikkel 2512 og
 
 ut fra følgende betraktninger:Stadig flere næringsmidler i Fellesskapet er forsynt med merking og reklame med ernærings- og helsepåstander. For å sikre et høyt nivå av forbrukervern og gjøre valget enklere for forbrukerne, bør produkter som bringes i omsetning, herunder importerte produkter, være trygge og merket riktig. Et variert og balansert kosthold er en forutsetning for god helse, og betydningen av enkeltprodukter bør ses i sammenheng med hele kostholdet.Forskjeller i nasjonale bestemmelser om slike påstander kan hindre fri omsetning av næringsmidler og skape ulike konkurransevilkår. De har derfor en direkte innvirkning på det indre markeds virkemåte. Det er derfor nødvendig å vedta fellesskapsbestemmelser for bruken av ernærings- og helsepåstander om næringsmidler.Alminnelige bestemmelser om merking finnes i europaparlaments- og rådsdirektiv [2000/13/EF](eu/32000l0013*) av 20. mars 2000 om tilnærming av medlemsstatenes lovgivning om merking og presentasjon av samt reklamering for næringsmidler.3 Direktiv [2000/13/EF](eu/32000l0013*) inneholder et generelt forbud mot å villede kjøperen eller å tillegge næringsmidler medisinske egenskaper. Denne forordning bør utfylle de allmenne prinsippene i direktiv [2000/13/EF](eu/32000l0013*) og fastsette særlige bestemmelser om bruken av ernærings- og helsepåstander om næringsmidler som skal leveres som dette til forbrukeren.Denne forordning bør få anvendelse på alle ernærings- og helsepåstander i kommersiell kommunikasjon, herunder blant annet kollektive reklamekampanjer for næringsmidler og salgsfremmende kampanjer, for eksempel kampanjer som helt eller delvis støttes av offentlige myndigheter. Den bør ikke få anvendelse på påstander som framsettes i ikke-kommersiell kommunikasjon, som veiledning eller råd om kosthold fra offentlige helsemyndigheter og -organer, eller ikke-kommersiell kommunikasjon og informasjon i pressen og i vitenskapelige publikasjoner. Denne forordning bør også få anvendelse på varemerker og andre handelsbetegnelser som kan fortolkes som ernærings- eller helsepåstander.Generiske beskrivelser (betegnelser) som tradisjonelt er brukt til å angi en egenskap ved en gruppe næringsmidler eller drikkevarer, og som antyder en virkning for menneskers helse, som «digestiv» eller «hostepastiller», bør unntas fra denne forordnings virkeområde.Ugunstige ernæringspåstander omfattes ikke av denne forordning, og medlemsstater som har til hensikt å innføre nasjonale ordninger for ugunstige ernæringspåstander, bør underrette Kommisjonen og øvrige medlemsstater om slike ordninger i samsvar med europaparlaments- og rådsdirektiv [98/34/EF](eu/31998l0034) av 22. juni 1998 om en informasjonsprosedyre for standarder og tekniske forskrifter samt regler for informasjonssamfunnstjenester.4På internasjonalt plan vedtok Codex Alimentarius i 1991 overordnede retningslinjer for påstander og i 1997 retningslinjer for bruken av ernæringspåstander. En endring av sistnevnte ble vedtatt av Codex Alimentarius-kommisjonen i 2004. Denne endringen går ut på at retningslinjene fra 1997 også skal omfatte helsepåstander. Det skal tas behørig hensyn til definisjonene og vilkårene i retningslinjene fra Codex Alimentarius.Muligheten for å benytte påstanden «lavt fettinnhold» om smørbart fett i henhold til rådsforordning [(EF) nr. 2991/94](eu/31994r2991*) av 5. desember 1994 om fastsettelse av standarder for smørbart fett,5 bør snarest mulig tilpasses bestemmelsene i denne forordning. I mellomtiden får forordning [(EF) nr. 2991/94](eu/31994r2991*) anvendelse på de produktene den omfatter.Det finnes en lang rekke næringsstoffer og andre stoffer, herunder, men ikke begrenset til, vitaminer, mineraler (herunder sporstoffer), aminosyrer, essensielle fettsyrer, kostfiber samt ulike planter og urteekstrakter med en ernæringsmessig eller fysiologisk effekt som kan forekomme i et næringsmiddel og gjøres til gjenstand for en påstand. Det bør derfor fastsettes allmenne prinsipper som skal gjelde for alle påstander om næringsmidler, med henblikk på å sikre et høyt nivå av forbrukervern, gi forbrukerne de nødvendige opplysningene for at de skal kunne foreta et valg med fullt kjennskap til produktet, samt skape like konkurransevilkår for næringsmiddelindustrien.Forbrukerne kan tro at næringsmidler som markedsføres med påstander, har ernæringsmessige, fysiologiske eller andre helsemessige fordeler sammenlignet med lignende produkter eller andre produkter som ikke er tilsatt slike næringsstoffer og andre stoffer. Dette kan oppmuntre forbrukerne til å foreta valg som direkte påvirker deres samlede inntak av enkelte næringsstoffer eller andre stoffer på en måte som strider mot vitenskapelige råd. For å motvirke denne mulige uønskede virkningen, bør det innføres visse begrensninger når det gjelder produkter som er forsynt med påstander. I denne sammenheng er faktorer som forekomst av visse stoffer eller et produkts ernæringsprofil relevante kriterier for å fastslå om produktet kan forsynes med påstander. Bruken av slike kriterier på nasjonalt plan kan være berettiget for å gi forbrukerne mulighet til å foreta velbegrunnede ernæringsmessige valg, men vil kunne føre til handelshindringer i Fellesskapet og bør derfor harmoniseres på fellesskapsplan. Helseopplysninger og -kommunikasjon som støtter budskapet fra nasjonale myndigheter eller Fellesskapet om farene ved alkoholmisbruk, bør ikke omfattes av denne forordnings virkeområde.Anvendelsen av ernæringsprofiler som et kriterium brukes for å unngå en situasjon der ernærings- eller helsepåstander tilslører et næringsmiddels samlede ernæringsmessige status, noe som kan villede forbrukerne når de forsøker å foreta sunne valg for et balansert kosthold. Ernæringsprofiler som fastsatt i denne forordning, bør bare ha som eneste formål å regulere under hvilke omstendigheter det kan framsettes påstander. De bør bygge på allment anerkjente vitenskapelige bevis om forholdet mellom kosthold og helse. Profilene bør imidlertid åpne for produktutvikling og ta hensyn til variasjoner i kostvaner og -tradisjoner, samt det faktum at enkeltprodukter kan spille en viktig rolle i det samlede kostholdet.Ved fastsettelsen av ernæringsprofiler bør det tas hensyn til innholdet av ulike næringsstoffer og stoffer med en ernæringsmessig eller fysiologisk effekt, særlig stoffer som fett, mettet fett, transfettsyrer, salt/natrium og sukker, som ifølge anbefalingene ikke bør utgjøre en for stor del av det samlede kostholdet, samt fler- og enumettet fett, andre karbohydrater enn sukkerarter, vitaminer, mineraler, proteiner og kostfiber. Ved fastsettelse av ernæringsprofilene bør det tas hensyn til de forskjellige næringsmiddelgruppene og til de gjeldende næringsmidlenes betydning og rolle i det samlede kostholdet, og det bør tas behørig hensyn til de variasjonene i kostvaner og forbruksmønstre som finnes i medlemsstatene. Det kan være nødvendig å unnta visse næringsmidler eller næringsmiddelgrupper fra kravet om å overholde de fastsatte ernæringsprofilene, avhengig av deres rolle og betydning i befolkningens kosthold. Dette arbeidet er teknisk komplisert, og det bør overlates til Kommisjonen å treffe de relevante tiltakene, idet det tas hensyn til uttalelse avgitt av Den europeiske myndighet for næringsmiddeltrygghet.Kosttilskudd som definert i europaparlaments- og rådsdirektiv [2002/46/EF](eu/32002l0046) av 10. juni 2002 om tilnærming av medlemsstatenes lovgivning om kosttilskudd,6 i flytende form og med et innhold på mer enn 1,2 volumprosent alkohol, anses ikke som drikkevarer i henhold til denne forordning.I enkelte medlemsstater framsettes for tiden en lang rekke påstander i merkingen av og reklamen for næringsmidler om stoffer som ikke er påvist å være gunstige, eller som det for tiden ikke er tilstrekkelig vitenskapelig enighet om. Det er nødvendig å sikre at det er dokumentert at stoffene som omfattes av en påstand, har en gunstig ernæringsmessig eller fysiologisk effekt.For å sikre at påstandene er sannferdige, er det nødvendig at det stoffet som påstanden omfatter, forekommer i tilstrekkelige mengder i sluttproduktet, eller stoffet må ikke forekomme eller bare forekomme i passende redusert mengde, slik at produktet får den påståtte ernæringsmessige eller fysiologiske effekten. Stoffet bør også foreligge i en form som kroppen kan utnytte. Dessuten, og når det er aktuelt, bør en betydelig mengde av det stoffet som gir den påståtte ernæringsmessige eller fysiologiske effekten, kunne fås fra den mengden av næringsmiddelet som med rimelighet forventes å bli inntatt.Det er viktig at påstander om næringsmidler kan bli forstått av forbrukeren, og alle forbrukere bør beskyttes mot villedende påstander. Etter iverksettingen av rådsdirektiv [84/450/EØF](eu/31984l0450) av 10. september 1984 om villedende og sammenlignende reklame,7 har imidlertid De europeiske fellesskaps domstol i forbindelse med avgjørelser i saker som gjelder reklame, funnet det nødvendig å undersøke virkningen på en tenkt, typisk forbruker. I samsvar med forholdsmessighetsprinsippet og for at de beskyttelsestiltakene som forordningen omfatter, faktisk skal kunne fungere, benytter denne forordning som utgangspunkt en alminnelig opplyst, rimelig oppmerksom og velunderrettet gjennomsnittsforbruker, idet det tas hensyn til sosiale, kulturelle og språklige forhold, i samsvar med Domstolens fortolkning, men den inneholder også bestemmelser for å hindre utnyttelse av forbrukere med egenskaper som gjør dem særlig sårbare overfor villedende påstander. Dersom en påstand særlig rettes mot en bestemt forbrukergruppe, som for eksempel barn, bør virkningen av den gjeldende påstanden vurderes ut fra hvordan den oppleves av en gjennomsnittlig representant for denne gruppen. Begrepet gjennomsnittsforbruker er ikke et statistisk begrep. Nasjonale domstoler og myndigheter bør etter eget skjønn, idet det tas hensyn til Domstolens rettspraksis, foreta en vurdering for å fastsette gjennomsnittsforbrukerens typiske reaksjon i et gitt tilfelle.Det er først og fremst vitenskapelig dokumentasjon som bør tas i betraktning ved bruken av ernærings- og helsepåstander, og driftsansvarlige for næringsmiddelforetak som benytter påstandene, bør dokumentere dem. En påstand bør dokumenteres vitenskapelig, idet det tas hensyn til alle tilgjengelige vitenskapelige opplysninger og ved en avveining av bevisene.En ernærings- eller helsepåstand bør ikke framsettes dersom den er uforenlig med allment anerkjente ernærings- og helsemessige prinsipper, eller dersom den oppmuntrer til eller tolererer overdrevet inntak av et næringsmiddel eller nedvurderer gode kostvaner.På grunn av det positive bildet som næringsmidler med ernærings- og helsepåstander har, og den mulige innvirkningen slike næringsmidler kan ha på kostvaner og på det samlede inntaket av næringsstoffer, bør det være mulig for forbrukeren å vurdere deres samlede ernæringsmessige kvalitet. Deklarasjon av næringsinnhold bør derfor være obligatorisk og utførlig for alle næringsmidler som er forsynt med helsepåstander.Alminnelige bestemmelser om angivelse av næringsinnhold finnes i rådsdirektiv [90/496/EØF](eu/31990l0496) av 24. september 1990 om deklarasjon av næringsinnhold i næringsmidler.8 I henhold til dette direktiv er deklarasjon av næringsinnhold obligatorisk når en ernæringspåstand forekommer på merkingen, på pakningsutformingen eller i reklamen, med unntak av kollektive reklamekampanjer. I forbindelse med en ernæringspåstand om sukkerarter, mettede fettsyrer, kostfiber eller natrium, skal informasjonen som oppgis, bestå av informasjon i gruppe 2 som definert i artikkel 4 nr. 1 i direktiv [90/496/EØF](eu/31990l0496). For å oppnå et høyt nivå av forbrukervern bør denne plikten til å skaffe informasjon som er nevnt i gruppe 2, få tilsvarende anvendelse i forbindelse med helsepåstander, unntatt ved kollektive reklamekampanjer.Det bør også utarbeides en liste over tillatte ernæringspåstander og deres særlige vilkår for bruk på grunnlag av de vilkårene for bruken av slike påstander som er avtalt på nasjonalt eller internasjonalt plan og fastsatt i Fellesskapets regelverk. Alle påstander som anses å ha den samme betydningen for forbrukerne som en ernæringspåstand oppført på ovennevnte liste, bør omfattes av de samme vilkårene for bruk som angis der. Påstander i forbindelse med tilsetting av vitaminer og mineraler, som «med ...», «tilbakeført ...», «tilsatt ...» eller «anriket med ...», bør for eksempel omfattes av de samme vilkårene som for påstanden «kilde til». Listen bør ajourføres regelmessig for å ta hensyn til den vitenskapelige og teknologiske utviklingen. For sammenlignende påstander er det dessuten nødvendig å angi tydelig for sluttforbrukeren hvilke produkter som sammenlignes med hverandre.Vilkårene for påstander som «laktosefri» eller «glutenfri», som retter seg mot en gruppe forbrukere med særlige lidelser, bør være behandlet i rådsdirektiv [89/398/EØF](eu/31989l0398*) av 3. mai 1989 om tilnærming av medlemsstatens lovgivning om næringsmidler beregnet på spesielle ernæringsmessige behov.9 I henhold til dette direktiv kan det for vanlige næringsmidler dessuten angis om de er egnet for disse forbrukergruppene, dersom de oppfyller vilkårene for en slik angivelse. Inntil vilkårene for slike angivelser er fastsatt på fellesskapsplan, kan medlemsstater opprettholde eller vedta relevante nasjonale tiltak.Helsepåstander bør bare godkjennes for bruk i Fellesskapet etter en vitenskapelig vurdering på høyest mulig nivå. For å sikre en harmonisert vitenskapelig vurdering av disse påstandene bør Den europeiske myndighet for næringsmiddeltrygghet utføre vurderingen. Søkeren bør på anmodning få adgang til sin saksmappe for å kontrollere den aktuelle sakens status.Det finnes mange andre faktorer enn de rent kostholdsmessige som kan påvirke psykologiske og atferdsmessige funksjoner. Det er derfor svært komplisert å informere om disse funksjonene, og det er vanskelig å formidle et fullstendig, sannferdig og meningsfylt budskap i en kort påstand som skal benyttes i merkingen av og reklamen for næringsmidler. Det er derfor hensiktsmessig å kreve vitenskapelig dokumentasjon ved bruk av påstander knyttet til psykologiske og atferdsmessige virkninger.I lys av kommisjonsdirektiv [96/8/EF](eu/31996l0008) av 26. februar 1996 om næringsmiddel til bruk i kalorifattige diettar med sikte på vekttap10 som forbyr at det i merkingen, presentasjonen av eller reklamen for produkter som omfattes av nevnte direktiv, angis hvor raskt eller hvor mye man kan gå ned i vekt ved bruk av disse produktene, anses det for hensiktsmessig å utvide denne begrensningen til å omfatte alle næringsmidler.Andre helsepåstander enn dem som viser til redusert sykdomsrisiko og barns utvikling og helse, og som bygger på allment anerkjente vitenskapelige bevis, bør gjennomgå en annen type vurdering og godkjenning. Det er derfor nødvendig å vedta en fellesskapsliste over slike tillatte påstander etter samråd med Den europeiske myndighet for næringsmiddeltrygghet. Med henblikk på å oppmuntre til nyskaping bør dessuten de helsepåstandene som bygger på nyutviklede vitenskapelige bevis, gjennomgå en framskyndet framgangsmåte for godkjenning.For å holde tritt med den vitenskapelige og teknologiske utviklingen bør ovennevnte liste revideres raskt ved behov. For å forenkle og framskynde framgangsmåten bør revideringen ta form av gjennomføringstiltak av teknisk art, og ansvaret for å vedta dem bør overlates til Kommisjonen.Kostholdet er én av mange faktorer som kan utløse visse sykdommer hos mennesker. Andre faktorer som alder, genetisk disponering, graden av fysisk aktivitet, forbruk av tobakk og andre narkotika, miljøeksponering og stress kan alle utløse sykdommer hos mennesker. Det bør derfor gjelde særlige merkingskrav for påstander om redusert sykdomsrisiko.For å sikre at helsepåstandene er sannferdige, tydelige, pålitelige og nyttige for forbrukerens valg av et sunt kosthold, bør det tas hensyn til formuleringen og presentasjonen av helsepåstandene i uttalelsen til Den europeiske myndighet for næringsmiddeltrygghet og i de påfølgende framgangsmåtene.I noen tilfeller kan ikke en vitenskapelig risikovurdering alene gi alle de opplysningene som en avgjørelse om risikohåndtering bør bygges på. Det bør derfor tas hensyn til andre berettigede faktorer som er relevante for det aktuelle tilfellet.Av klarhetshensyn og for å unngå gjentatte søknader om påstander som allerede er vurdert, bør Kommisjonen opprette og ajourføre et offentlig register som inneholder listene over slike påstander.For å oppmuntre til forskning og utvikling innen den landbruksbaserte næringsmiddelindustrien er det hensiktsmessig å beskytte de investeringene som nyskapere har gjort i forbindelse med innsamling av opplysninger og data til støtte for en søknad i henhold til denne forordning. Beskyttelsen bør imidlertid begrenses til et bestemt tidsrom for å unngå unødvendige gjentakelser av undersøkelser og forsøk, og for å tilrettelegge for bruken av påstander for små og mellomstore bedrifter (SMB) som sjelden har økonomisk evne til å drive forskningsvirksomhet.SMB-er representerer en vesentlig merverdi for den europeiske næringsmiddelindustrien når det gjelder kvalitet og bevaring av forskjellige kostvaner. For å lette gjennomføringen av denne forordning bør Den europeiske myndighet for næringsmiddeltrygghet i god tid stille hensiktsmessig teknisk rådgivning og hensiktsmessige verktøy til rådighet, særlig for SMB-er.Ettersom næringsmidler som er forsynt med påstander, er av en særlig art, bør kontrollorganene ha flere midler til rådighet enn normalt, slik at det blir lettere å føre effektiv kontroll med produktene.Det er nødvendig med tilstrekkelige overgangstiltak for at driftsansvarlige for næringsmiddelforetak skal kunne tilpasse seg kravene i denne forordning.Ettersom målet med denne forordning, som er å sikre at det indre marked fungerer tilfredsstillende når det gjelder ernærings- og helsepåstander og samtidig sikre et høyt nivå av forbrukervern, ikke kan nås i tilstrekkelig grad av medlemsstatene og derfor bedre kan nås på fellesskapsplan, kan Fellesskapet vedta tiltak i samsvar med nærhetsprinsippet som fastsatt i traktatens artikkel 5. I samsvar med forholdsmessighetsprinsippet fastsatt i nevnte artikkel, går denne forordning ikke lenger enn det som er nødvendig for å nå dette målet.De tiltak som er nødvendige for gjennomføringen av denne forordning, bør vedtas i samsvar med rådsbeslutning [1999/468/EF](eu/31999d0468) av 28. juni 1999 om fastsettelse av nærmere regler for utøvelsen av den gjennomføringsmyndighet som er tillagt Kommisjonen11 –
 
+1 EUT C 110 av 30.4.2004, s. 18.
+
+2 Europaparlamentsuttalelse av 26. mai 2005 (EUT C 117 E av 18.5.2006, s. 187), Rådets felles holdning av 8. desember 2005 (EUT C 80 E av 4.4.2006, s. 43) og Europaparlamentets holdning av 16. mai 2006 (ennå ikke offentliggjort i EUT). Rådsbeslutning av 12. oktober 2006.
+
+3 EFT L 109 av 6.5.2000, s. 29. Direktivet sist endret ved direktiv [2003/89/EF](eu/32003l0089) (EUT L 308 av 25.11.2003, s. 15).
+
+4 EFT L 204 av 21.7.1998, s. 37. Direktivet sist endret ved tiltredelsesakten av 2003.
+
+5 EFT L 316 av 9.12.1994, s. 2.
+
+6 EFT L 183 av 12.7.2002, s. 51. Direktivet endret ved kommisjonsdirektiv [2006/37/EF](eu/32006l0037) (EUT L 94 av 1.4.2006, s. 32).
+
+7 EFT L 250 av 19.9.1984, s. 17. Direktivet sist endret ved europaparlaments- og rådsdirektiv [2005/29/EF](eu/32005l0029) (EUT L 149 av 11.6.2005, s. 22).
+
+8 EFT L 276 av 6.10.1990, s. 40. Direktivet sist endret ved kommisjonsdirektiv [2003/120/EF](eu/32003l0120) (EUT L 333 av 20.12.2003, s. 51).
+
+9 EFT L 186 av 30.6.1989, s. 27. Direktivet sist endret ved europaparlaments- og rådsforordning [(EF) nr. 1882/2003](eu/32003r1882) (EUT L 284 av 31.10.2003, s. 1).
+
+10 EFT L 55 av 6.3.1996, s. 22.
+
+11 EFT L 184 av 17.7.1999, s. 23.
+
+VEDTATT DENNE FORORDNING:
+
 ### Kapittel I
 Formål, virkeområde og definisjoner
 
 ### Artikkel 1. Formål og virkeområde
 
-1. Ved denne forordning harmoniseres medlemsstatenes lover eller forskrifter om ernærings- og helsepåstander med det formål å sikre at det indre marked fungerer tilfredsstillende, samtidig som det sikres et høyt nivå av forbrukervern.
+1\. Ved denne forordning harmoniseres medlemsstatenes lover eller forskrifter om ernærings- og helsepåstander med det formål å sikre at det indre marked fungerer tilfredsstillende, samtidig som det sikres et høyt nivå av forbrukervern.
 
-2. Denne forordning får anvendelse på ernærings- og helsepåstander i kommersiell kommunikasjon, uansett om disse finnes på merkingen, pakningsutformingen eller i reklamen for næringsmidler som skal leveres som dette til sluttforbrukeren.For næringsmidler som ikke er ferdigpakket (herunder ferske produkter som frukt, grønnsaker eller brød), som tilbys for salg til sluttforbrukere eller storhusholdninger, og næringsmidler som pakkes på salgsstedet på kjøperens anmodning, eller som er ferdigpakket med sikte på umiddelbart salg, får artikkel 7 og artikkel 10 nr. 2 bokstav a) og b) ikke anvendelse. Nasjonale bestemmelser kan anvendes inntil det vedtas fellesskapstiltak etter framgangsmåten fastsatt i artikkel 25 nr. 2.Denne forordning får også anvendelse på næringsmidler som er beregnet på levering til restauranter, sykehus, skoler, kantiner og lignende storhusholdninger.
+2\. Denne forordning får anvendelse på ernærings- og helsepåstander i kommersiell kommunikasjon, uansett om disse finnes på merkingen, pakningsutformingen eller i reklamen for næringsmidler som skal leveres som dette til sluttforbrukeren.For næringsmidler som ikke er ferdigpakket (herunder ferske produkter som frukt, grønnsaker eller brød), som tilbys for salg til sluttforbrukere eller storhusholdninger, og næringsmidler som pakkes på salgsstedet på kjøperens anmodning, eller som er ferdigpakket med sikte på umiddelbart salg, får artikkel 7 og artikkel 10 nr. 2 bokstav a) og b) ikke anvendelse. Nasjonale bestemmelser kan anvendes inntil det vedtas fellesskapstiltak etter framgangsmåten fastsatt i artikkel 25 nr. 2.Denne forordning får også anvendelse på næringsmidler som er beregnet på levering til restauranter, sykehus, skoler, kantiner og lignende storhusholdninger.
 
-3. Et varemerke, en handelsbetegnelse eller et fantasinavn som finnes på merkingen, pakningsutformingen eller i reklamen for et næringsmiddel, og som kan oppfattes som en ernærings- eller helsepåstand, kan benyttes uten å gjennomgå framgangsmåten for godkjenning som fastsatt i denne forordning, forutsatt at merkingen, pakningsutformingen eller reklamen også inneholder en beslektet ernærings- eller helsepåstand som er i samsvar med bestemmelsene i denne forordning.
+3\. Et varemerke, en handelsbetegnelse eller et fantasinavn som finnes på merkingen, pakningsutformingen eller i reklamen for et næringsmiddel, og som kan oppfattes som en ernærings- eller helsepåstand, kan benyttes uten å gjennomgå framgangsmåten for godkjenning som fastsatt i denne forordning, forutsatt at merkingen, pakningsutformingen eller reklamen også inneholder en beslektet ernærings- eller helsepåstand som er i samsvar med bestemmelsene i denne forordning.
 
-4. For generiske beskrivelser (betegnelser) som tradisjonelt er brukt til å angi en egenskap ved en gruppe næringsmidler eller drikkevarer, og som antyder en virkning for menneskers helse, kan det etter framgangsmåten i artikkel 25 nr. 2 vedtas et unntak fra nr. 3 etter søknad fra de berørte driftsansvarlige for næringsmiddelforetak. Søknaden skal sendes til vedkommende nasjonale myndighet i medlemsstaten, som omgående skal videresende den til Kommisjonen. Kommisjonen skal vedta og offentliggjøre de reglene som driftsansvarlige for næringsmiddelforetak skal overholde i forbindelse med slike søknader, for å sikre at søknadene behandles på en måte som gir innsyn, og innen rimelig tid.
+4\. For generiske beskrivelser (betegnelser) som tradisjonelt er brukt til å angi en egenskap ved en gruppe næringsmidler eller drikkevarer, og som antyder en virkning for menneskers helse, kan det etter framgangsmåten i artikkel 25 nr. 2 vedtas et unntak fra nr. 3 etter søknad fra de berørte driftsansvarlige for næringsmiddelforetak. Søknaden skal sendes til vedkommende nasjonale myndighet i medlemsstaten, som omgående skal videresende den til Kommisjonen. Kommisjonen skal vedta og offentliggjøre de reglene som driftsansvarlige for næringsmiddelforetak skal overholde i forbindelse med slike søknader, for å sikre at søknadene behandles på en måte som gir innsyn, og innen rimelig tid.
 
-5. Denne forordning får anvendelse med forbehold for følgende fellesskapsbestemmelser:direktiv [89/398/EØF](eu/31989l0398*) og vedtatte direktiver om næringsmidler for spesielle ernæringsmessige behov,rådsdirektiv [80/777/EØF](eu/31980l0777) av 15. juli 1980 om tilnærming av medlemsstatenes lovgivning om utnyttelse og markedsføring av naturlig mineralvann,1rådsdirektiv [98/83/EF](eu/31998l0083*) av 3. november 1998 om drikkevannets kvalitet,2direktiv [2002/46/EF](eu/32002l0046).
+5\. Denne forordning får anvendelse med forbehold for følgende fellesskapsbestemmelser:direktiv [89/398/EØF](eu/31989l0398*) og vedtatte direktiver om næringsmidler for spesielle ernæringsmessige behov,rådsdirektiv [80/777/EØF](eu/31980l0777) av 15. juli 1980 om tilnærming av medlemsstatenes lovgivning om utnyttelse og markedsføring av naturlig mineralvann,1rådsdirektiv [98/83/EF](eu/31998l0083*) av 3. november 1998 om drikkevannets kvalitet,2direktiv [2002/46/EF](eu/32002l0046).
+
+1 EFT L 229 av 30.8.1980, s. 1. Direktivet sist endret ved forordning [(EF) nr. 1882/2003](eu/32003r1882).2 EFT L 330 av 5.12.1998, s. 32. Direktivet endret ved forordning [(EF) nr. 1882/2003](eu/32003r1882).
 
 ### Artikkel 2. Definisjoner
 
 1. I denne forordning menes med:«næringsmidler», «driftsansvarlig for næringsmiddelforetak», «bringe i omsetning» og «sluttforbruker» definisjonene i artikkel 2 og 3 nr. 3, 8 og 18 i europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178) av 28. januar 2002 om fastsettelse av allmenne prinsipper og krav i næringsmiddelregelverket, om opprettelse av Den europeiske myndighet for næringsmiddeltrygghet og om fastsettelse av framgangsmåter i forbindelse med næringsmiddeltrygghet,1«kosttilskudd» definisjonen i direktiv [2002/46/EF](eu/32002l0046),«deklarasjon av næringsinnhold», «protein», «karbohydrat», «sukkerarter», «fett», «mettede fettsyrer», «en-umettede fettsyrer», «flerumettede fettsyrer» og «kostfiber» definisjonene i direktiv [90/496/EØF](eu/31990l0496),«merking» definisjonen i artikkel 1 nr. 3 bokstav a) i direktiv [2000/13/EF](eu/32000l0013*).
 2. Videre menes i denne forordning med:«påstand» ethvert budskap eller enhver framstilling som ikke er obligatorisk i henhold til Fellesskapets regelverk eller nasjonal lovgivning, herunder bilder, grafikk eller symboler uansett form, som angir, antyder eller gir inntrykk av at næringsmiddelet har særlige egenskaper,«næringsstoff» protein, karbohydrat, fett, kostfiber, natrium, vitaminer og mineraler oppført i vedlegget til direktiv [90/496/EØF](eu/31990l0496), samt stoffer som tilhører eller er bestanddeler i én av disse gruppene,«annet stoff» et stoff som ikke er et næringsstoff, og som har en ernæringsmessig eller fysiologisk effekt,«ernæringspåstand» enhver påstand som angir, antyder eller gir inntrykk av at et næringsmiddel har særlige gunstige ernæringsmessige egenskaper som skyldes:den energi (kaloriinnhold) dettilfører,tilfører i redusert eller økt mengde, ellerikke tilfører, og/ellerde næringsstoffene eller de andre stoffene som detinneholder,inneholder i redusert eller økt forhold, ellerikke inneholder,«helsepåstand» enhver påstand som angir, antyder eller gir inntrykk av at det er en sammenheng mellom en næringsmiddelgruppe, et næringsmiddel eller én av dets bestanddeler og helse,«påstand om redusert sykdomsrisiko» enhver helsepåstand som angir, antyder eller gir inntrykk av at inntak av en næringsmiddelgruppe, et næringsmiddel eller én av dets bestanddeler, i betydelig grad reduserer en risikofaktor for utvikling av sykdom hos mennesker,«myndighet» Den europeiske myndighet for næringsmiddeltrygghet, opprettet ved forordning [(EF) nr. 178/2002](eu/32002r0178).
+
+1 EFT L 31 av 1.2.2002, s. 1. Forordningen sist endret ved kommisjonsforordning [(EF) nr. 575/2006](eu/32006r0575) (EUT L 100 av 8.4.2006, s. 3).
 
 ### Kapittel II
 Allmenne prinsipper
@@ -150,37 +184,43 @@ Med forbehold for direktiv [2000/13/EF](eu/32000l0013*) og [84/450/EØF](eu/3198
 
 ### Artikkel 4. Vilkårene for bruk av ernærings- og helsepåstander
 
-1. Senest 19. januar 2009 skal Kommisjonen etter framgangsmåten fastsatt i artikkel 25 nr. 2, fastsette særlige ernæringsprofiler, herunder unntak, som næringsmidler eller visse næringsmiddelgrupper skal overholde for å være forsynt med ernærings- og helsepåstander, samt vilkårene ved bruk av ernærings- og helsepåstander om næringsmidler eller næringsmiddelgrupper med hensyn til ernæringsprofilene.Ernæringsprofilene for næringsmidler og/eller visse næringsmiddelgrupper skal fastsettes idet det særlig tas hensyn til:mengdene av visse næringsstoffer og andre stoffer i næringsmiddelet som fett, mettede fettsyrer, transfettsyrer, sukkerarter og salt/natrium,næringsmiddelets (eller næringsmiddelgruppenes) rolle og betydning for og bidrag til kostholdet for befolkningen generelt, eller dersom det er relevant, for visse risikogrupper, herunder barn,den samlede ernæringsmessige sammensetningen av næringsmiddelet og forekomsten av næringsstoffer som er vitenskapelig anerkjent å ha en helsevirkning.Ernæringsprofilene skal bygge på vitenskapelig kunnskap om kosthold og ernæring, og deres sammenheng med helse.Ved fastsettelse av ernæringsprofilene skal Kommisjonen anmode myndigheten om innen tolv måneder å gi relevante vitenskapelige råd, særlig med hensyn til:om profilene bør fastsettes for næringsmidler generelt og/eller næringsmiddelgrupper,valget av og avveiningen mellom næringsstoffer som skal tas i betraktning,valget av referansemengde/-grunnlag for profilene,framgangsmåten for beregning av profilene, oggjennomførbarhet og prøving av et foreslått system.Ved fastsettelse av ernæringsprofilene skal Kommisjonen rådspørre berørte parter, særlig driftsansvarlige for næringsmiddelforetak og forbrukergrupper.Ernæringsprofilene og deres vilkår for bruk skal ajourføres for å ta hensyn til den vitenskapelige utviklingen på området, etter framgangsmåten fastsatt i artikkel 25 nr. 2, og etter samråd med berørte parter, særlig driftsansvarlige for næringsmiddelforetak og forbrukergrupper.
+1\. Senest 19. januar 2009 skal Kommisjonen etter framgangsmåten fastsatt i artikkel 25 nr. 2, fastsette særlige ernæringsprofiler, herunder unntak, som næringsmidler eller visse næringsmiddelgrupper skal overholde for å være forsynt med ernærings- og helsepåstander, samt vilkårene ved bruk av ernærings- og helsepåstander om næringsmidler eller næringsmiddelgrupper med hensyn til ernæringsprofilene.Ernæringsprofilene for næringsmidler og/eller visse næringsmiddelgrupper skal fastsettes idet det særlig tas hensyn til:mengdene av visse næringsstoffer og andre stoffer i næringsmiddelet som fett, mettede fettsyrer, transfettsyrer, sukkerarter og salt/natrium,næringsmiddelets (eller næringsmiddelgruppenes) rolle og betydning for og bidrag til kostholdet for befolkningen generelt, eller dersom det er relevant, for visse risikogrupper, herunder barn,den samlede ernæringsmessige sammensetningen av næringsmiddelet og forekomsten av næringsstoffer som er vitenskapelig anerkjent å ha en helsevirkning.Ernæringsprofilene skal bygge på vitenskapelig kunnskap om kosthold og ernæring, og deres sammenheng med helse.Ved fastsettelse av ernæringsprofilene skal Kommisjonen anmode myndigheten om innen tolv måneder å gi relevante vitenskapelige råd, særlig med hensyn til:om profilene bør fastsettes for næringsmidler generelt og/eller næringsmiddelgrupper,valget av og avveiningen mellom næringsstoffer som skal tas i betraktning,valget av referansemengde/-grunnlag for profilene,framgangsmåten for beregning av profilene, oggjennomførbarhet og prøving av et foreslått system.Ved fastsettelse av ernæringsprofilene skal Kommisjonen rådspørre berørte parter, særlig driftsansvarlige for næringsmiddelforetak og forbrukergrupper.Ernæringsprofilene og deres vilkår for bruk skal ajourføres for å ta hensyn til den vitenskapelige utviklingen på området, etter framgangsmåten fastsatt i artikkel 25 nr. 2, og etter samråd med berørte parter, særlig driftsansvarlige for næringsmiddelforetak og forbrukergrupper.
 
-2. Som unntak fra nr. 1 skal ernæringspåstander:om reduksjon av fett, mettede fettsyrer, transfettsyrer, sukkerarter og salt/natrium være tillatt uten henvisning til en profil for det eller de bestemte næringsstoffene som påstanden gjelder, forutsatt at de oppfyller vilkårene fastsatt i denne forordning,være tillatt selv om et enkelt næringsstoff overskrider ernæringsprofilen, forutsatt at opplysninger er angitt om det bestemte næringsstoffet i nærheten av, på samme side og like iøynefallende som påstanden. Opplysningen skal formuleres slik: «Høyt innhold av [ ...* ] ».
+2\. Som unntak fra nr. 1 skal ernæringspåstander:om reduksjon av fett, mettede fettsyrer, transfettsyrer, sukkerarter og salt/natrium være tillatt uten henvisning til en profil for det eller de bestemte næringsstoffene som påstanden gjelder, forutsatt at de oppfyller vilkårene fastsatt i denne forordning,være tillatt selv om et enkelt næringsstoff overskrider ernæringsprofilen, forutsatt at opplysninger er angitt om det bestemte næringsstoffet i nærheten av, på samme side og like iøynefallende som påstanden. Opplysningen skal formuleres slik: «Høyt innhold av [ ...\* ] ».
 
-3. For drikkevarer med mer enn 1,2 volumprosent alkohol skal det ikke brukes helsepåstander.For drikkevarer med mer enn 1,2 volumprosent alkohol skal det bare brukes ernæringspåstander som viser til et lavt alkoholinnhold eller et redusert alkohol- eller energiinnhold.
+3\. For drikkevarer med mer enn 1,2 volumprosent alkohol skal det ikke brukes helsepåstander.For drikkevarer med mer enn 1,2 volumprosent alkohol skal det bare brukes ernæringspåstander som viser til et lavt alkoholinnhold eller et redusert alkohol- eller energiinnhold.
 
-4. Dersom det ikke finnes særlige fellesskapsbestemmelser om ernæringspåstander som viser til et lavt alkoholinnhold, eller et redusert innhold eller fravær av alkohol eller energi i drikkevarer som vanligvis inneholder alkohol, kan relevante nasjonale regler få anvendelse i samsvar med traktatens bestemmelser.
+4\. Dersom det ikke finnes særlige fellesskapsbestemmelser om ernæringspåstander som viser til et lavt alkoholinnhold, eller et redusert innhold eller fravær av alkohol eller energi i drikkevarer som vanligvis inneholder alkohol, kan relevante nasjonale regler få anvendelse i samsvar med traktatens bestemmelser.
 
-5. Andre næringsmidler eller næringsmiddelgrupper enn dem som er nevnt i nr. 3, for hvilke ernærings- eller helsepåstander skal begrenses eller forbys, kan fastsettes etter framgangsmåten fastsatt i artikkel 25 nr. 2, og i lys av vitenskapelige data.
+5\. Andre næringsmidler eller næringsmiddelgrupper enn dem som er nevnt i nr. 3, for hvilke ernærings- eller helsepåstander skal begrenses eller forbys, kan fastsettes etter framgangsmåten fastsatt i artikkel 25 nr. 2, og i lys av vitenskapelige data.
+
+\* Navnet på næringsmiddelet som overskrider ernæringsprofilen.
 
 ### Artikkel 5. Allmenne vilkår
 
-1. Bruk av ernærings- og helsepåstander er bare tillatt dersom følgende vilkår er oppfylt:Forekomsten, fraværet eller det reduserte innholdet i et næringsmiddel eller en næringsmiddelgruppe av et næringsstoff eller et annet stoff som påstanden gjelder, har vist seg å ha en gunstig ernæringsmessig eller fysiologisk effekt som er dokumentert gjennom allment anerkjente vitenskapelige bevis.Det næringsstoffet eller det andre stoffet som påstanden gjelder:forekommer i sluttproduktet i en betydelig mengde som definert i Fellesskapets regelverk, eller når slike regler ikke finnes, i en mengde som vil frambringe den påståtte ernæringsmessige eller fysiologiske effekten, dokumentert gjennom allment anerkjente vitenskapelige bevis, ellerforekommer ikke eller forekommer i en redusert mengde som vil frambringe den påståtte ernæringsmessige eller fysiologiske effekten, som er dokumentert gjennom allment anerkjente vitenskapelige bevis.Når det er relevant, det næringsstoffet eller det andre stoffet som påstanden gjelder, foreligger i en form som kroppen kan utnytte.Den mengden av produktet som med rimelighet kan antas å bli inntatt, gir en betydelig mengde av det næringsstoffet eller det andre stoffet som påstanden gjelder, som definert i Fellesskapets regelverk eller når slike regler ikke finnes, en betydelig mengde som vil frambringe den påståtte ernæringsmessige eller fysiologiske effekten, som er dokumentert gjennom allment anerkjente vitenskapelige bevis.De særlige vilkårene i kapittel III eller IV, etter hva som er relevant, er oppfylt.
+1\. Bruk av ernærings- og helsepåstander er bare tillatt dersom følgende vilkår er oppfylt:Forekomsten, fraværet eller det reduserte innholdet i et næringsmiddel eller en næringsmiddelgruppe av et næringsstoff eller et annet stoff som påstanden gjelder, har vist seg å ha en gunstig ernæringsmessig eller fysiologisk effekt som er dokumentert gjennom allment anerkjente vitenskapelige bevis.Det næringsstoffet eller det andre stoffet som påstanden gjelder:forekommer i sluttproduktet i en betydelig mengde som definert i Fellesskapets regelverk, eller når slike regler ikke finnes, i en mengde som vil frambringe den påståtte ernæringsmessige eller fysiologiske effekten, dokumentert gjennom allment anerkjente vitenskapelige bevis, ellerforekommer ikke eller forekommer i en redusert mengde som vil frambringe den påståtte ernæringsmessige eller fysiologiske effekten, som er dokumentert gjennom allment anerkjente vitenskapelige bevis.Når det er relevant, det næringsstoffet eller det andre stoffet som påstanden gjelder, foreligger i en form som kroppen kan utnytte.Den mengden av produktet som med rimelighet kan antas å bli inntatt, gir en betydelig mengde av det næringsstoffet eller det andre stoffet som påstanden gjelder, som definert i Fellesskapets regelverk eller når slike regler ikke finnes, en betydelig mengde som vil frambringe den påståtte ernæringsmessige eller fysiologiske effekten, som er dokumentert gjennom allment anerkjente vitenskapelige bevis.De særlige vilkårene i kapittel III eller IV, etter hva som er relevant, er oppfylt.
 
-2. Bruk av ernærings- og helsepåstander skal bare være tillatt dersom gjennomsnittsforbrukeren kan forventes å forstå de gunstige virkningene slik de uttrykkes i påstanden.
+2\. Bruk av ernærings- og helsepåstander skal bare være tillatt dersom gjennomsnittsforbrukeren kan forventes å forstå de gunstige virkningene slik de uttrykkes i påstanden.
 
-3. Ernærings- og helsepåstander skal gjelde næringsmidler som er konsumferdige i henhold til produsentens anvisninger.
+3\. Ernærings- og helsepåstander skal gjelde næringsmidler som er konsumferdige i henhold til produsentens anvisninger.
 
 ### Artikkel 6. Vitenskapelig dokumentasjon for påstander
 
-1. Ernærings- og helsepåstander skal bygge på og være dokumentert gjennom allment anerkjente vitenskapelige bevis.
+1\. Ernærings- og helsepåstander skal bygge på og være dokumentert gjennom allment anerkjente vitenskapelige bevis.
 
-2. En driftsansvarlig for næringsmiddelforetak som framsetter en ernærings- eller helsepåstand, skal underbygge bruken av påstanden.
+2\. En driftsansvarlig for næringsmiddelforetak som framsetter en ernærings- eller helsepåstand, skal underbygge bruken av påstanden.
 
-3. Vedkommende myndigheter i medlemsstatene kan kreve at en driftsansvarlig for et næringsmiddelforetak eller en person som bringer et produkt i omsetning, framlegger all relevant dokumentasjon og alle relevante data som bekrefter at bestemmelsene i denne forordning overholdes.
+3\. Vedkommende myndigheter i medlemsstatene kan kreve at en driftsansvarlig for et næringsmiddelforetak eller en person som bringer et produkt i omsetning, framlegger all relevant dokumentasjon og alle relevante data som bekrefter at bestemmelsene i denne forordning overholdes.
 
 ### Artikkel 7. Opplysninger om næringsinnhold
+
+►**M4**
 
 Deklarasjon av næringsinnhold er obligatorisk for produkter som det framsettes en ernærings- og/eller helsepåstand om, med mindre det dreier seg om kollektive reklamekampanjer. Den informasjonen som skal gis, skal bestå av opplysningene nevnt i artikkel 30 nr. 1 i europaparlaments- og rådsforordning [(EU) nr. 1169/2011](eu/32011r1169) av 25. oktober 2011 om næringsmiddelopplysninger til forbrukerne. Dersom det framsettes en ernærings- og/eller helsepåstand om et næringsstoff nevnt i artikkel 30 nr. 2 i forordning [(EU) nr. 1169/2011](eu/32011r1169), skal mengden av dette næringsstoffet angis i samsvar med artikkel 31–34 i nevnte forordning.
 
 Mengden av det eller de stoffene som ernærings- eller helsepåstanden gjelder, og som ikke framgår av deklarasjonen av næringsinnhold, skal angis i samme synsfelt som deklarasjonen av næringsinnhold og uttrykkes i samsvar med artikkel 31, 32 og 33 i forordning [(EU) nr. 1169/2011](eu/32011r1169). Målenhetene som anvendes for å angi mengden av et stoff, skal være relevante for hvert av de aktuelle stoffene.
+
+◄**M4**
 
 For kosttilskudd skal opplysningene om næringsinnhold gis i samsvar med artikkel 8 i direktiv [2002/46/EF](eu/32002l0046).
 
@@ -189,28 +229,28 @@ Ernæringspåstander
 
 ### Artikkel 8. Særlige vilkår
 
-1. Det er bare tillatt å framsette ernæringspåstander dersom de er oppført i vedlegget og er i samsvar med vilkårene i denne forordning.
+1\. Det er bare tillatt å framsette ernæringspåstander dersom de er oppført i vedlegget og er i samsvar med vilkårene i denne forordning.
 
-2. Endringer av vedlegget skal vedtas etter framgangsmåten fastsatt i artikkel 25 nr. 2, og når det er relevant, etter samråd med myndigheten. Kommisjonen skal når det er relevant, trekke inn berørte parter, særlig driftsansvarlige for næringsmiddelforetak og forbrukergrupper, for å vurdere hvordan de aktuelle påstandene oppfattes og forstås.
+2\. Endringer av vedlegget skal vedtas etter framgangsmåten fastsatt i artikkel 25 nr. 2, og når det er relevant, etter samråd med myndigheten. Kommisjonen skal når det er relevant, trekke inn berørte parter, særlig driftsansvarlige for næringsmiddelforetak og forbrukergrupper, for å vurdere hvordan de aktuelle påstandene oppfattes og forstås.
 
 ### Artikkel 9. Sammenlignende påstander
 
-1. Med forbehold for direktiv [84/450/EØF](eu/31984l0450) kan en sammenligning bare foretas mellom næringsmidler i samme gruppe, idet det tas hensyn til et utvalg av næringsmidler som tilhører samme gruppe. Forskjellen i mengden av et næringsstoff og/eller energiinnholdet skal angis, og sammenligningen skal gjelde samme mengde av næringsmiddelet.
+1\. Med forbehold for direktiv [84/450/EØF](eu/31984l0450) kan en sammenligning bare foretas mellom næringsmidler i samme gruppe, idet det tas hensyn til et utvalg av næringsmidler som tilhører samme gruppe. Forskjellen i mengden av et næringsstoff og/eller energiinnholdet skal angis, og sammenligningen skal gjelde samme mengde av næringsmiddelet.
 
-2. Sammenlignende ernæringspåstander skal sammenligne sammensetningen av det aktuelle næringsmiddelet med et utvalg næringsmidler i samme gruppe, som ikke har en sammensetning som gjør at de kan forsynes med en påstand, herunder næringsmidler av andre varemerker.
+2\. Sammenlignende ernæringspåstander skal sammenligne sammensetningen av det aktuelle næringsmiddelet med et utvalg næringsmidler i samme gruppe, som ikke har en sammensetning som gjør at de kan forsynes med en påstand, herunder næringsmidler av andre varemerker.
 
 ### Kapittel IV
 Helsepåstander
 
 ### Artikkel 10. Særlige vilkår
 
-1. Helsepåstander er forbudt med mindre de oppfyller de allmenne kravene i kapittel II og de særlige kravene i dette kapittel, og er godkjent i samsvar med denne forordning og oppført på listene over godkjente påstander som fastsatt i artikkel 13 og 14.
+1\. Helsepåstander er forbudt med mindre de oppfyller de allmenne kravene i kapittel II og de særlige kravene i dette kapittel, og er godkjent i samsvar med denne forordning og oppført på listene over godkjente påstander som fastsatt i artikkel 13 og 14.
 
-2. Det er bare tillatt å framsette helsepåstander dersom følgende opplysninger framgår av merkingen, eller dersom det ikke finnes en slik merking, av pakningsutformingen og reklamen:en angivelse om betydningen av et variert og balansert kosthold og en sunn livsstil,den mengden næringsmiddel og det forbruksmønsteret som kreves for å oppnå den påståtte gunstige virkningen,når det er relevant, en angivelse rettet mot personer som bør unngå å innta næringsmiddelet, ogen hensiktsmessig advarsel mot produkter som kan utgjøre en helserisiko dersom de inntas i for store mengder.
+2\. Det er bare tillatt å framsette helsepåstander dersom følgende opplysninger framgår av merkingen, eller dersom det ikke finnes en slik merking, av pakningsutformingen og reklamen:en angivelse om betydningen av et variert og balansert kosthold og en sunn livsstil,den mengden næringsmiddel og det forbruksmønsteret som kreves for å oppnå den påståtte gunstige virkningen,når det er relevant, en angivelse rettet mot personer som bør unngå å innta næringsmiddelet, ogen hensiktsmessig advarsel mot produkter som kan utgjøre en helserisiko dersom de inntas i for store mengder.
 
-3. Henvisninger til allmenne, ikke-spesifikke gunstige virkninger som næringsstoffet eller næringsmiddelet har på allmenn helse og velferd, kan bare benyttes dersom de følges av en spesifikk helsepåstand som er oppført på listene som fastsatt i artikkel 13 eller 14.
+3\. Henvisninger til allmenne, ikke-spesifikke gunstige virkninger som næringsstoffet eller næringsmiddelet har på allmenn helse og velferd, kan bare benyttes dersom de følges av en spesifikk helsepåstand som er oppført på listene som fastsatt i artikkel 13 eller 14.
 
-4. Når det er relevant, skal det vedtas retningslinjer for gjennomføringen av denne artikkel etter framgangsmåten fastsatt i artikkel 25 nr. 2 og om nødvendig i samråd med berørte parter, særlig driftsansvarlige for næringsmiddelforetak og forbrukergrupper.
+4\. Når det er relevant, skal det vedtas retningslinjer for gjennomføringen av denne artikkel etter framgangsmåten fastsatt i artikkel 25 nr. 2 og om nødvendig i samråd med berørte parter, særlig driftsansvarlige for næringsmiddelforetak og forbrukergrupper.
 
 ### Artikkel 11. Nasjonale organisasjoner for yrkesutøvere innen medisin, ernæring eller kosthold samt veldedige organisasjoner på helseområdet
 
@@ -222,94 +262,98 @@ Følgende helsepåstander er ikke tillatt:påstander som antyder at helsen kan p
 
 ### Artikkel 13. Andre helsepåstander enn dem som viser til redusert sykdomsrisiko og barns utvikling og helse
 
-1. Helsepåstander som beskriver eller viser til:betydningen et næringsstoff eller et annet stoff har for kroppens vekst, utvikling og funksjoner, ellerpsykologiske og atferdsmessige funksjoner, ellermed forbehold for direktiv [96/8/EF](eu/31996l0008), slanking, vektkontroll, nedsatt sultfølelse eller økt metthetsfølelse eller reduksjon av energiinnholdet i kostholdet, og som er angitt i listen som fastsatt i nr. 3, kan framsettes uten å gjennomgå framgangsmåtene fastsatt i artikkel 15-19, dersom de:bygger på allment anerkjente vitenskapelige bevis, ogforstås fullt ut av en gjennomsnittsforbruker.
+1\. Helsepåstander som beskriver eller viser til:betydningen et næringsstoff eller et annet stoff har for kroppens vekst, utvikling og funksjoner, ellerpsykologiske og atferdsmessige funksjoner, ellermed forbehold for direktiv [96/8/EF](eu/31996l0008), slanking, vektkontroll, nedsatt sultfølelse eller økt metthetsfølelse eller reduksjon av energiinnholdet i kostholdet, og som er angitt i listen som fastsatt i nr. 3, kan framsettes uten å gjennomgå framgangsmåtene fastsatt i artikkel 15-19, dersom de:bygger på allment anerkjente vitenskapelige bevis, ogforstås fullt ut av en gjennomsnittsforbruker.
 
-2. Medlemsstatene skal innen 31. januar 2008 framlegge listene med påstandene nevnt i nr. 1, for Kommisjonen, sammen med vilkårene som gjelder for dem, og henvisninger til relevant vitenskapelig dokumentasjon.
+2\. Medlemsstatene skal innen 31. januar 2008 framlegge listene med påstandene nevnt i nr. 1, for Kommisjonen, sammen med vilkårene som gjelder for dem, og henvisninger til relevant vitenskapelig dokumentasjon.
 
-3. Etter samråd med myndigheten, skal Kommisjonen innen 31. januar 2010 etter framgangsmåten fastsatt i artikkel 25 nr. 2, vedta en fellesskapsliste med tillatte påstander som nevnt i nr. 1, og alle nødvendige vilkår for bruken av påstandene.
+3\. Etter samråd med myndigheten, skal Kommisjonen innen 31. januar 2010 etter framgangsmåten fastsatt i artikkel 25 nr. 2, vedta en fellesskapsliste med tillatte påstander som nevnt i nr. 1, og alle nødvendige vilkår for bruken av påstandene.
 
-4. Alle endringer i listen nevnt i nr. 3, som bygger på allment anerkjente vitenskapelige bevis, skal vedtas etter framgangsmåten fastsatt i artikkel 25 nr. 2 etter samråd med myndigheten, enten på Kommisjonens initiativ eller etter anmodning fra en medlemsstat.
+4\. Alle endringer i listen nevnt i nr. 3, som bygger på allment anerkjente vitenskapelige bevis, skal vedtas etter framgangsmåten fastsatt i artikkel 25 nr. 2 etter samråd med myndigheten, enten på Kommisjonens initiativ eller etter anmodning fra en medlemsstat.
 
-5. Alle tilføyelser til listen over påstander nevnt i nr. 3, som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data som er underlagt eiendomsrett, skal vedtas etter framgangsmåten fastsatt i artikkel 18, med unntak for påstander om barns utvikling og helse, som skal godkjennes etter framgangsmåten fastsatt i artikkel 15, 16, 17 og 19.
+5\. Alle tilføyelser til listen over påstander nevnt i nr. 3, som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data som er underlagt eiendomsrett, skal vedtas etter framgangsmåten fastsatt i artikkel 18, med unntak for påstander om barns utvikling og helse, som skal godkjennes etter framgangsmåten fastsatt i artikkel 15, 16, 17 og 19.
 
 ### Artikkel 14. Påstander om redusert sykdomsrisiko og om barns utvikling og helse
 
-1. Uten hensyn til bestemmelsene i artikkel 2 nr. 1 bokstav b) i direktiv [2000/13/EF](eu/32000l0013*), kan det benyttes følgende påstander dersom de er godkjent etter framgangsmåten som er fastsatt i artikkel 15, 16, 17 og 19 i denne forordning, med henblikk på oppføring på en fellesskapsliste over slike tillatte påstander sammen med alle de nødvendige vilkårene for bruk av påstandene:påstand om redusert sykdomsrisiko,påstand om barns utvikling og helse.
+► **M1**
 
-2. I tillegg til de allmenne kravene i denne forordning og de særlige kravene i nr. 1, skal merkingen, eller dersom det ikke finnes noen merking, pakningsutformingen eller reklamen, ved påstander om redusert sykdomsrisiko, også inneholde en angivelse av at den sykdommen påstanden gjelder, kan ha mange risikofaktorer, og at en endring av en av disse risikofaktorene kan, men ikke nødvendigvis vil, ha en gunstig virkning.
+1\. Uten hensyn til bestemmelsene i artikkel 2 nr. 1 bokstav b) i direktiv [2000/13/EF](eu/32000l0013*), kan det benyttes følgende påstander dersom de er godkjent etter framgangsmåten som er fastsatt i artikkel 15, 16, 17 og 19 i denne forordning, med henblikk på oppføring på en fellesskapsliste over slike tillatte påstander sammen med alle de nødvendige vilkårene for bruk av påstandene:påstand om redusert sykdomsrisiko,påstand om barns utvikling og helse.
+
+◄ **M1**
+
+2\. I tillegg til de allmenne kravene i denne forordning og de særlige kravene i nr. 1, skal merkingen, eller dersom det ikke finnes noen merking, pakningsutformingen eller reklamen, ved påstander om redusert sykdomsrisiko, også inneholde en angivelse av at den sykdommen påstanden gjelder, kan ha mange risikofaktorer, og at en endring av en av disse risikofaktorene kan, men ikke nødvendigvis vil, ha en gunstig virkning.
 
 ### Artikkel 15. Søknad om godkjenning
 
-1. Når det vises til denne artikkel, skal en søknad om godkjenning innleveres i samsvar med følgende numre.
+1\. Når det vises til denne artikkel, skal en søknad om godkjenning innleveres i samsvar med følgende numre.
 
-2. Søknaden skal sendes til vedkommende nasjonale myndighet i medlemsstaten.Vedkommende nasjonale myndighet skal:skriftlig bekrefte at søknaden er mottatt innen 14 dager fra mottakelsen. I bekreftelsen skal det opplyses om når søknaden ble mottatt,snarest underrette myndigheten, ogstille søknaden og eventuelle utfyllende opplysninger den har mottatt fra søkeren, til rådighet for myndigheten.Myndigheten skal:straks underrette de øvrige medlemsstatene og Kommisjonen om søknaden og stille søknaden og eventuelle utfyllende opplysninger den har mottatt fra søkeren, til rådighet for dem,stille et sammendrag av søknaden som nevnt i nr. 3 bokstav g), til rådighet for offentligheten.
+2\. Søknaden skal sendes til vedkommende nasjonale myndighet i medlemsstaten.Vedkommende nasjonale myndighet skal:skriftlig bekrefte at søknaden er mottatt innen 14 dager fra mottakelsen. I bekreftelsen skal det opplyses om når søknaden ble mottatt,snarest underrette myndigheten, ogstille søknaden og eventuelle utfyllende opplysninger den har mottatt fra søkeren, til rådighet for myndigheten.Myndigheten skal:straks underrette de øvrige medlemsstatene og Kommisjonen om søknaden og stille søknaden og eventuelle utfyllende opplysninger den har mottatt fra søkeren, til rådighet for dem,stille et sammendrag av søknaden som nevnt i nr. 3 bokstav g), til rådighet for offentligheten.
 
-3. Søknaden skal inneholde følgende:søkerens navn og adresse,det næringsstoffet eller det andre stoffet, eller det næringsmiddelet eller den næringsmiddelgruppen, som helsepåstanden gjelder, og de særlige egenskapene det er snakk om,en kopi av de undersøkelsene, herunder uavhengige, fagfellevurderte undersøkelser når slike finnes, som er utført vedrørende helsepåstanden, samt all annen tilgjengelig dokumentasjon som kan påvise at helsepåstanden oppfyller kriteriene som er fastsatt i denne forordning,når det er aktuelt, en angivelse av hvilke opplysninger som anses å være underlagt eiendomsrett, sammen med en kontrollerbar begrunnelse,en kopi av andre vitenskapelige undersøkelser som er relevante for helsepåstanden,et forslag til formulering av helsepåstanden som søknaden om godkjenning gjelder, herunder eventuelle særlige vilkår for bruk,et sammendrag av søknaden.
+3\. Søknaden skal inneholde følgende:søkerens navn og adresse,det næringsstoffet eller det andre stoffet, eller det næringsmiddelet eller den næringsmiddelgruppen, som helsepåstanden gjelder, og de særlige egenskapene det er snakk om,en kopi av de undersøkelsene, herunder uavhengige, fagfellevurderte undersøkelser når slike finnes, som er utført vedrørende helsepåstanden, samt all annen tilgjengelig dokumentasjon som kan påvise at helsepåstanden oppfyller kriteriene som er fastsatt i denne forordning,når det er aktuelt, en angivelse av hvilke opplysninger som anses å være underlagt eiendomsrett, sammen med en kontrollerbar begrunnelse,en kopi av andre vitenskapelige undersøkelser som er relevante for helsepåstanden,et forslag til formulering av helsepåstanden som søknaden om godkjenning gjelder, herunder eventuelle særlige vilkår for bruk,et sammendrag av søknaden.
 
-4. Etter samråd med myndigheten skal Kommisjonen etter framgangsmåten fastsatt i artikkel 25 nr. 2, opprette gjennomføringsregler for denne artikkel, herunder regler for utarbeiding og framlegging av søknaden.
+4\. Etter samråd med myndigheten skal Kommisjonen etter framgangsmåten fastsatt i artikkel 25 nr. 2, opprette gjennomføringsregler for denne artikkel, herunder regler for utarbeiding og framlegging av søknaden.
 
-5. Kommisjonen skal i nært samarbeid med myndigheten stille hensiktsmessig teknisk rådgivning og hensiktsmessige verktøy til rådighet for å bistå driftsansvarlige for næringsmiddelforetak, særlig små og mellomstore bedrifter, med å utarbeide og framlegge søknader for vitenskapelig vurdering.
+5\. Kommisjonen skal i nært samarbeid med myndigheten stille hensiktsmessig teknisk rådgivning og hensiktsmessige verktøy til rådighet for å bistå driftsansvarlige for næringsmiddelforetak, særlig små og mellomstore bedrifter, med å utarbeide og framlegge søknader for vitenskapelig vurdering.
 
 ### Artikkel 16. Myndighetens uttalelse
 
-1. Myndigheten skal avgi sin uttalelse innen fem måneder fra den dagen en gyldig søknad ble mottatt. Dersom myndigheten ønsker utfyllende opplysninger fra søkeren i henhold til nr. 2, skal denne fristen forlenges med inntil to måneder etter den dagen de ønskede opplysningene fra søkeren ble mottatt.
+1\. Myndigheten skal avgi sin uttalelse innen fem måneder fra den dagen en gyldig søknad ble mottatt. Dersom myndigheten ønsker utfyllende opplysninger fra søkeren i henhold til nr. 2, skal denne fristen forlenges med inntil to måneder etter den dagen de ønskede opplysningene fra søkeren ble mottatt.
 
-2. Myndigheten eller en vedkommende nasjonal myndighet som handler gjennom myndigheten, kan om nødvendig anmode søkeren om å gi utfyllende opplysninger til søknaden innen en fastsatt tidsfrist.
+2\. Myndigheten eller en vedkommende nasjonal myndighet som handler gjennom myndigheten, kan om nødvendig anmode søkeren om å gi utfyllende opplysninger til søknaden innen en fastsatt tidsfrist.
 
-3. For å utarbeide sin uttalelse skal myndigheten kontrollere:at helsepåstanden er dokumentert gjennom vitenskapelige bevis,at formuleringen av helsepåstanden oppfyller kriteriene fastsatt i denne forordning.
+3\. For å utarbeide sin uttalelse skal myndigheten kontrollere:at helsepåstanden er dokumentert gjennom vitenskapelige bevis,at formuleringen av helsepåstanden oppfyller kriteriene fastsatt i denne forordning.
 
-4. Dersom uttalelsen er positiv til en godkjenning av helsepåstanden, skal den inneholde følgende opplysninger:søkerens navn og adresse,det næringsstoffet eller det andre stoffet, eller det næringsmiddelet eller den næringsmiddelgruppen, som påstanden gjelder og de særlige egenskapene det er snakk om,et forslag til formulering av helsepåstanden, herunder eventuelle særlige vilkår for bruk,når det er relevant, vilkår eller begrensninger for bruk av næringsmiddelet og/eller en tilleggsangivelse eller -advarsel som bør ledsage helsepåstanden på etiketten og i reklamen.
+4\. Dersom uttalelsen er positiv til en godkjenning av helsepåstanden, skal den inneholde følgende opplysninger:søkerens navn og adresse,det næringsstoffet eller det andre stoffet, eller det næringsmiddelet eller den næringsmiddelgruppen, som påstanden gjelder og de særlige egenskapene det er snakk om,et forslag til formulering av helsepåstanden, herunder eventuelle særlige vilkår for bruk,når det er relevant, vilkår eller begrensninger for bruk av næringsmiddelet og/eller en tilleggsangivelse eller -advarsel som bør ledsage helsepåstanden på etiketten og i reklamen.
 
-5. Myndigheten skal framlegge sin uttalelse for Kommisjonen, medlemsstatene og søkeren sammen med en rapport som beskriver dens vurdering av helsepåstanden og gir en begrunnelse for uttalelsen, samt de opplysningene som uttalelsen bygger på.
+5\. Myndigheten skal framlegge sin uttalelse for Kommisjonen, medlemsstatene og søkeren sammen med en rapport som beskriver dens vurdering av helsepåstanden og gir en begrunnelse for uttalelsen, samt de opplysningene som uttalelsen bygger på.
 
-6. Myndigheten skal i samsvar med artikkel 38 nr. 1 i forordning [(EF) nr. 178/2002](eu/32002r0178) offentliggjøre sin uttalelse.Søkeren eller enhver annen person kan framsette kommentarer til Kommisjonen innen 30 dager fra offentliggjøringen.
+6\. Myndigheten skal i samsvar med artikkel 38 nr. 1 i forordning [(EF) nr. 178/2002](eu/32002r0178) offentliggjøre sin uttalelse.Søkeren eller enhver annen person kan framsette kommentarer til Kommisjonen innen 30 dager fra offentliggjøringen.
 
 ### Artikkel 17. Fellesskapsgodkjenning
 
-1. Innen to måneder etter mottak av myndighetens uttalelse, skal Kommisjonen framlegge for den komiteen som er omhandlet i artikkel 23 nr. 2, et utkast til vedtak om listene over tillatte helsepåstander, idet det tas hensyn til myndighetens uttalelse, relevante bestemmelser i Fellesskapets regelverk og andre berettigede faktorer som er relevante for det aktuelle tilfellet. Dersom utkastet til vedtak ikke er i samsvar med myndighetens uttalelse, skal Kommisjonen gi en forklaring på årsakene til forskjellene.
+1\. Innen to måneder etter mottak av myndighetens uttalelse, skal Kommisjonen framlegge for den komiteen som er omhandlet i artikkel 23 nr. 2, et utkast til vedtak om listene over tillatte helsepåstander, idet det tas hensyn til myndighetens uttalelse, relevante bestemmelser i Fellesskapets regelverk og andre berettigede faktorer som er relevante for det aktuelle tilfellet. Dersom utkastet til vedtak ikke er i samsvar med myndighetens uttalelse, skal Kommisjonen gi en forklaring på årsakene til forskjellene.
 
-2. Ethvert utkast til vedtak om å endre listene over tillatte helsepåstander, skal inneholde opplysningene nevnt i artikkel 16 nr. 4.
+2\. Ethvert utkast til vedtak om å endre listene over tillatte helsepåstander, skal inneholde opplysningene nevnt i artikkel 16 nr. 4.
 
-3. Et endelig vedtak om søknaden skal gjøres etter framgangsmåten fastsatt i artikkel 25 nr. 2.
+3\. Et endelig vedtak om søknaden skal gjøres etter framgangsmåten fastsatt i artikkel 25 nr. 2.
 
-4. Kommisjonen skal omgående underrette søkeren om vedtaket som er gjort, og kunngjøre nærmere opplysninger om vedtaket i *Den europeiske unions tidende*.
+4\. Kommisjonen skal omgående underrette søkeren om vedtaket som er gjort, og kunngjøre nærmere opplysninger om vedtaket i *Den europeiske unions tidende*.
 
-5. Helsepåstandene oppført på listene fastsatt i artikkel 13 og 14, kan enhver driftsansvarlig for næringsmiddelforetak bruke i samsvar med vilkårene som gjelder for dem, dersom bruken ikke er begrenset i samsvar med bestemmelsene i artikkel 21.
+5\. Helsepåstandene oppført på listene fastsatt i artikkel 13 og 14, kan enhver driftsansvarlig for næringsmiddelforetak bruke i samsvar med vilkårene som gjelder for dem, dersom bruken ikke er begrenset i samsvar med bestemmelsene i artikkel 21.
 
-6. Tildelingen av en godkjenning skal ikke begrense det allmenne sivilrettslige og strafferettslige ansvaret som en driftsansvarlig for et næringsmiddelforetak har når det gjelder det aktuelle næringsmiddelet.
+6\. Tildelingen av en godkjenning skal ikke begrense det allmenne sivilrettslige og strafferettslige ansvaret som en driftsansvarlig for et næringsmiddelforetak har når det gjelder det aktuelle næringsmiddelet.
 
 ### Artikkel 18. Påstander nevnt i artikkel 13 nr. 5
 
-1. En driftsansvarlig for et næringsmiddelforetak som har til hensikt å bruke en helsepåstand som ikke er oppført på listen som fastsatt i artikkel 13 nr. 3, kan søke om at påstanden føres opp på denne listen.
+1\. En driftsansvarlig for et næringsmiddelforetak som har til hensikt å bruke en helsepåstand som ikke er oppført på listen som fastsatt i artikkel 13 nr. 3, kan søke om at påstanden føres opp på denne listen.
 
-2. En slik søknad om oppføring skal innleveres til vedkommende nasjonale myndighet i medlemsstaten, som innen 14 dager etter at søknaden er mottatt, skal sende en skriftlig bekreftelse på dette. I bekreftelsen skal det opplyses om når søknaden ble mottatt. Søknaden skal inneholde opplysningene nevnt i artikkel 15 nr. 3, og begrunnelsen for søknaden.
+2\. En slik søknad om oppføring skal innleveres til vedkommende nasjonale myndighet i medlemsstaten, som innen 14 dager etter at søknaden er mottatt, skal sende en skriftlig bekreftelse på dette. I bekreftelsen skal det opplyses om når søknaden ble mottatt. Søknaden skal inneholde opplysningene nevnt i artikkel 15 nr. 3, og begrunnelsen for søknaden.
 
-3. Den gyldige søknaden som er i samsvar med rådgivningen nevnt i artikkel 15 nr. 5, og alle opplysninger som gis av søkeren, skal omgående sendes til myndigheten for en vitenskapelig vurdering samt til Kommisjonen og medlemsstatene til orientering. Myndigheten skal avgi sin uttalelse innen fem måneder fra den dagen søknaden ble mottatt. Denne tidsfristen kan forlenges med inntil én måned dersom myndigheten finner det nødvendig å be om ytterligere opplysninger fra søkeren. I så fall skal søkeren framlegge de ønskede opplysningene innen 15 dager etter at myndighetens anmodning ble mottatt.Framgangsmåten fastsatt i artikkel 16 nr. 3 bokstav a) og b), artikkel 5 og 6, får tilsvarende anvendelse.
+3\. Den gyldige søknaden som er i samsvar med rådgivningen nevnt i artikkel 15 nr. 5, og alle opplysninger som gis av søkeren, skal omgående sendes til myndigheten for en vitenskapelig vurdering samt til Kommisjonen og medlemsstatene til orientering. Myndigheten skal avgi sin uttalelse innen fem måneder fra den dagen søknaden ble mottatt. Denne tidsfristen kan forlenges med inntil én måned dersom myndigheten finner det nødvendig å be om ytterligere opplysninger fra søkeren. I så fall skal søkeren framlegge de ønskede opplysningene innen 15 dager etter at myndighetens anmodning ble mottatt.Framgangsmåten fastsatt i artikkel 16 nr. 3 bokstav a) og b), artikkel 5 og 6, får tilsvarende anvendelse.
 
-4. Dersom myndigheten etter den vitenskapelige rådgivningen avgir en uttalelse til støtte for oppføring av påstanden på listen som fastsatt i artikkel 13 nr. 3, skal Kommisjonen treffe en beslutning om søknaden, idet det tas hensyn til myndighetens uttalelse, relevante bestemmelser i Fellesskapets regelverk og andre berettigede faktorer som er relevante for den aktuelle saken, etter samråd med medlemsstatene og innen to måneder etter mottak av myndighetens uttalelse.Dersom myndigheten avgir en uttalelse som ikke støtter oppføringen av påstanden på denne listen, skal det treffes en beslutning om søknaden etter framgangsmåten nevnt i artikkel 25 nr. 2.
+4\. Dersom myndigheten etter den vitenskapelige rådgivningen avgir en uttalelse til støtte for oppføring av påstanden på listen som fastsatt i artikkel 13 nr. 3, skal Kommisjonen treffe en beslutning om søknaden, idet det tas hensyn til myndighetens uttalelse, relevante bestemmelser i Fellesskapets regelverk og andre berettigede faktorer som er relevante for den aktuelle saken, etter samråd med medlemsstatene og innen to måneder etter mottak av myndighetens uttalelse.Dersom myndigheten avgir en uttalelse som ikke støtter oppføringen av påstanden på denne listen, skal det treffes en beslutning om søknaden etter framgangsmåten nevnt i artikkel 25 nr. 2.
 
 ### Artikkel 19. Endring, midlertidig oppheving og tilbakekalling av godkjenning
 
-1. Søkeren/brukeren av en påstand oppført på en av listene fastsatt i artikkel 13 og 14, kan søke om en endring av den relevante listen. Framgangsmåtene fastsatt i artikkel 15-18 får tilsvarende anvendelse.
+1\. Søkeren/brukeren av en påstand oppført på en av listene fastsatt i artikkel 13 og 14, kan søke om en endring av den relevante listen. Framgangsmåtene fastsatt i artikkel 15-18 får tilsvarende anvendelse.
 
-2. På eget initiativ eller etter anmodning fra en medlemsstat eller fra Kommisjonen, skal myndigheten avgi en uttalelse om hvorvidt en helsepåstand oppført på en av listene fastsatt i artikkel 13 og 14, fortsatt oppfyller vilkårene fastsatt i denne forordning.Myndigheten skal omgående oversende uttalelsen til Kommisjonen, medlemsstatene og når det er relevant, til den opprinnelige søkeren av den aktuelle påstanden. Myndigheten skal i samsvar med artikkel 38 nr. 1 i forordning [(EF) nr. 178/2002](eu/32002r0178) offentliggjøre sin uttalelse.Søkeren/brukeren eller enhver annen person kan framsette kommentarer til Kommisjonen innen 30 dager fra offentliggjøringen.Kommisjonen skal snarest mulig behandle myndighetens uttalelse og eventuelle innsendte kommentarer. Når det er aktuelt, skal godkjenningen endres, oppheves midlertidig eller tilbakekalles etter framgangsmåtene fastsatt i artikkel 17 og 18.
+2\. På eget initiativ eller etter anmodning fra en medlemsstat eller fra Kommisjonen, skal myndigheten avgi en uttalelse om hvorvidt en helsepåstand oppført på en av listene fastsatt i artikkel 13 og 14, fortsatt oppfyller vilkårene fastsatt i denne forordning.Myndigheten skal omgående oversende uttalelsen til Kommisjonen, medlemsstatene og når det er relevant, til den opprinnelige søkeren av den aktuelle påstanden. Myndigheten skal i samsvar med artikkel 38 nr. 1 i forordning [(EF) nr. 178/2002](eu/32002r0178) offentliggjøre sin uttalelse.Søkeren/brukeren eller enhver annen person kan framsette kommentarer til Kommisjonen innen 30 dager fra offentliggjøringen.Kommisjonen skal snarest mulig behandle myndighetens uttalelse og eventuelle innsendte kommentarer. Når det er aktuelt, skal godkjenningen endres, oppheves midlertidig eller tilbakekalles etter framgangsmåtene fastsatt i artikkel 17 og 18.
 
 ### Kapittel V
 Alminnelige bestemmelser og sluttbestemmelser
 
 ### Artikkel 20. Fellesskapsregister
 
-1. Kommisjonen skal opprette og opprettholde et fellesskapsregister over ernærings- og helsepåstander om næringsmidler, heretter kalt «registeret».
+1\. Kommisjonen skal opprette og opprettholde et fellesskapsregister over ernærings- og helsepåstander om næringsmidler, heretter kalt «registeret».
 
-2. Registeret skal inneholde følgende:ernæringspåstandene og vilkårene som gjelder for dem, som fastsatt i vedlegget,de begrensningene som er vedtatt i samsvar med artikkel 4 nr. 5,de godkjente helsepåstandene og vilkårene som gjelder for dem, som fastsatt i artikkel 13 nr. 3 og 5, artikkel 14 nr. 1, artikkel 19 nr. 2, artikkel 21, artikkel 24 nr. 2 og artikkel 28 nr. 6 samt de nasjonale tiltakene nevnt i artikkel 23 nr. 3,en liste over helsepåstander som er avslått, og årsakene til at de ble avslått.Helsepåstander som er godkjent på grunnlag av data som er underlagt eiendomsrett, skal føres opp i et eget vedlegg til registeret sammen med følgende opplysninger:datoen for Kommisjonens godkjenning av helsepåstanden samt navnet på den opprinnelige søkeren som fikk tildelt godkjenningen,bekreftelse på at Kommisjonen har godkjent helsepåstanden på grunnlag av data som er underlagt eiendomsrett,bekreftelse på at bruken av helsepåstanden er begrenset, med mindre en etterfølgende søker får godkjent påstanden uten henvisning til dataene som er underlagt eiendomsrett, fra den opprinnelige søkeren,
+2\. Registeret skal inneholde følgende:ernæringspåstandene og vilkårene som gjelder for dem, som fastsatt i vedlegget,de begrensningene som er vedtatt i samsvar med artikkel 4 nr. 5,de godkjente helsepåstandene og vilkårene som gjelder for dem, som fastsatt i artikkel 13 nr. 3 og 5, artikkel 14 nr. 1, artikkel 19 nr. 2, artikkel 21, artikkel 24 nr. 2 og artikkel 28 nr. 6 samt de nasjonale tiltakene nevnt i artikkel 23 nr. 3,en liste over helsepåstander som er avslått, og årsakene til at de ble avslått.Helsepåstander som er godkjent på grunnlag av data som er underlagt eiendomsrett, skal føres opp i et eget vedlegg til registeret sammen med følgende opplysninger:datoen for Kommisjonens godkjenning av helsepåstanden samt navnet på den opprinnelige søkeren som fikk tildelt godkjenningen,bekreftelse på at Kommisjonen har godkjent helsepåstanden på grunnlag av data som er underlagt eiendomsrett,bekreftelse på at bruken av helsepåstanden er begrenset, med mindre en etterfølgende søker får godkjent påstanden uten henvisning til dataene som er underlagt eiendomsrett, fra den opprinnelige søkeren,
 
-3. Registeret skal være tilgjengelig for offentligheten.
+3\. Registeret skal være tilgjengelig for offentligheten.
 
 ### Artikkel 21. Datasikring
 
-1. Vitenskapelige data og andre opplysninger i søknaden som kreves i henhold til artikkel 15 nr. 3, kan i et tidsrom på fem år etter godkjenningsdatoen ikke brukes til fordel for en etterfølgende søker, med mindre den etterfølgende søkeren har inngått en avtale med den forrige søkeren om at slike data og opplysninger kan brukes, dersom:vitenskapelige data og andre opplysninger ble angitt å være underlagt eiendomsrett av den forrige søkeren da den forrige søknaden ble innlevert, ogden forrige søkeren hadde enerett på å kunne vise til de dataene som var underlagt eiendomsrett, da den forrige søknaden ble innlevert, oghelsepåstanden ikke kunne ha blitt godkjent uten at den forrige søkeren hadde framlagt de dataene som var underlagt eiendomsrett.
+1\. Vitenskapelige data og andre opplysninger i søknaden som kreves i henhold til artikkel 15 nr. 3, kan i et tidsrom på fem år etter godkjenningsdatoen ikke brukes til fordel for en etterfølgende søker, med mindre den etterfølgende søkeren har inngått en avtale med den forrige søkeren om at slike data og opplysninger kan brukes, dersom:vitenskapelige data og andre opplysninger ble angitt å være underlagt eiendomsrett av den forrige søkeren da den forrige søknaden ble innlevert, ogden forrige søkeren hadde enerett på å kunne vise til de dataene som var underlagt eiendomsrett, da den forrige søknaden ble innlevert, oghelsepåstanden ikke kunne ha blitt godkjent uten at den forrige søkeren hadde framlagt de dataene som var underlagt eiendomsrett.
 
-2. Innen utgangen av femårsperioden som fastsatt i nr. 1, skal ingen etterfølgende søker ha rett til å vise til data som er angitt å være underlagt eiendomsrett av en tidligere søker, med mindre og inntil Kommisjonen treffer en beslutning om hvorvidt en påstand kan oppføres eller kunne ha vært oppført på listen fastsatt i artikkel 14, eller når det er aktuelt, artikkel 13, uten å framlegge de dataene som ble angitt å være underlagt eiendomsrett av den forrige søkeren.
+2\. Innen utgangen av femårsperioden som fastsatt i nr. 1, skal ingen etterfølgende søker ha rett til å vise til data som er angitt å være underlagt eiendomsrett av en tidligere søker, med mindre og inntil Kommisjonen treffer en beslutning om hvorvidt en påstand kan oppføres eller kunne ha vært oppført på listen fastsatt i artikkel 14, eller når det er aktuelt, artikkel 13, uten å framlegge de dataene som ble angitt å være underlagt eiendomsrett av den forrige søkeren.
 
 ### Artikkel 22. Nasjonale bestemmelser
 
@@ -317,27 +361,27 @@ Med forbehold for traktaten, særlig artikkel 28 og 30 i denne, kan medlemsstate
 
 ### Artikkel 23. Framgangsmåte for underretning
 
-1. Dersom en medlemsstat anser at det er nødvendig å vedta ny lovgivning, skal den underrette Kommisjonen og de andre medlemsstatene om de planlagte tiltakene og begrunne dem.
+1\. Dersom en medlemsstat anser at det er nødvendig å vedta ny lovgivning, skal den underrette Kommisjonen og de andre medlemsstatene om de planlagte tiltakene og begrunne dem.
 
-2. Kommisjonen skal rådspørre Den faste komité for næringsmiddelkjeden og dyrehelsen som er nedsatt ved artikkel 58 nr. 1 i forordning [(EF) nr. 178/2002](eu/32002r0178) (heretter kalt «komiteen»), dersom den anser at slik rådspørring er nyttig eller dersom en medlemsstat anmoder om det, og skal avgi en uttalelse om de planlagte tiltakene.
+2\. Kommisjonen skal rådspørre Den faste komité for næringsmiddelkjeden og dyrehelsen som er nedsatt ved artikkel 58 nr. 1 i forordning [(EF) nr. 178/2002](eu/32002r0178) (heretter kalt «komiteen»), dersom den anser at slik rådspørring er nyttig eller dersom en medlemsstat anmoder om det, og skal avgi en uttalelse om de planlagte tiltakene.
 
-3. Berørte medlemsstater kan treffe de planlagte tiltakene seks måneder etter at underretningen nevnt i nr. 1 er gitt, forutsatt at Kommisjonen ikke har uttalt seg negativt.Dersom Kommisjonens uttalelse er negativ, skal den etter framgangsmåten fastsatt i artikkel 25 nr. 2 og før utløpet av tidsrommet nevnt i første ledd i dette nummer, fastsette hvorvidt de planlagte tiltakene kan gjennomføres. Kommisjonen kan kreve at det gjøres visse endringer i de planlagte tiltakene.
+3\. Berørte medlemsstater kan treffe de planlagte tiltakene seks måneder etter at underretningen nevnt i nr. 1 er gitt, forutsatt at Kommisjonen ikke har uttalt seg negativt.Dersom Kommisjonens uttalelse er negativ, skal den etter framgangsmåten fastsatt i artikkel 25 nr. 2 og før utløpet av tidsrommet nevnt i første ledd i dette nummer, fastsette hvorvidt de planlagte tiltakene kan gjennomføres. Kommisjonen kan kreve at det gjøres visse endringer i de planlagte tiltakene.
 
 ### Artikkel 24. Beskyttelsestiltak
 
-1. Dersom en medlemsstat har tungtveiende grunner for å anta at en påstand ikke er i samsvar med denne forordning, eller den vitenskapelige dokumentasjonen fastsatt i artikkel 6 ikke er tilstrekkelig, kan denne medlemsstaten midlertidig oppheve bruken av denne påstanden på sitt territorium.Medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om dette og begrunne den midlertidige opphevingen.
+1\. Dersom en medlemsstat har tungtveiende grunner for å anta at en påstand ikke er i samsvar med denne forordning, eller den vitenskapelige dokumentasjonen fastsatt i artikkel 6 ikke er tilstrekkelig, kan denne medlemsstaten midlertidig oppheve bruken av denne påstanden på sitt territorium.Medlemsstaten skal underrette de øvrige medlemsstatene og Kommisjonen om dette og begrunne den midlertidige opphevingen.
 
-2. Det skal treffes en beslutning etter framgangsmåten fastsatt i artikkel 25 nr. 2, etter at det eventuelt er innhentet en uttalelse fra myndigheten.Kommisjonen kan på egen initiativ innlede denne framgangsmåten.
+2\. Det skal treffes en beslutning etter framgangsmåten fastsatt i artikkel 25 nr. 2, etter at det eventuelt er innhentet en uttalelse fra myndigheten.Kommisjonen kan på egen initiativ innlede denne framgangsmåten.
 
-3. Den medlemsstaten som er nevnt i nr. 1, kan opprettholde den midlertidige opphevingen inntil den har mottatt underretning om beslutningen som nevnt i nr. 2.
+3\. Den medlemsstaten som er nevnt i nr. 1, kan opprettholde den midlertidige opphevingen inntil den har mottatt underretning om beslutningen som nevnt i nr. 2.
 
 ### Artikkel 25. Komitéframgangsmåte
 
-1. Kommisjonen skal bistås av komiteen.
+1\. Kommisjonen skal bistås av komiteen.
 
-2. Når det vises til dette nummer, får artikkel 5 og 7 i beslutning [1999/468/EF](eu/31999d0468) anvendelse, idet det tas hensyn til bestemmelsene i beslutningens artikkel 8.Tidsrommet fastsatt i artikkel 5 nr. 6 i beslutning [1999/468/EF](eu/31999d0468), skal fastsettes til tre måneder.
+2\. Når det vises til dette nummer, får artikkel 5 og 7 i beslutning [1999/468/EF](eu/31999d0468) anvendelse, idet det tas hensyn til bestemmelsene i beslutningens artikkel 8.Tidsrommet fastsatt i artikkel 5 nr. 6 i beslutning [1999/468/EF](eu/31999d0468), skal fastsettes til tre måneder.
 
-3. Komiteen fastsetter sin forretningsorden.
+3\. Komiteen fastsetter sin forretningsorden.
 
 ### Artikkel 26. Overvåking
 
@@ -349,17 +393,21 @@ Kommisjonen skal innen 19. januar 2013 framlegge for Europaparlamentet og Rådet
 
 ### Artikkel 28. Overgangstiltak
 
-1. Næringsmidler som bringes i omsetning eller merkes før datoen for anvendelse av denne forordning, og som ikke er i samsvar med denne forordning, kan bringes i omsetning fram til holdbarhetsdatoen, men ikke etter 31. juli 2009. Når det gjelder bestemmelsene i artikkel 4 nr. 1, kan næringsmidler bringes i omsetning inntil 24 måneder etter vedtakelsen av de relevante ernæringsprofilene og deres vilkår for bruk.
+1\. Næringsmidler som bringes i omsetning eller merkes før datoen for anvendelse av denne forordning, og som ikke er i samsvar med denne forordning, kan bringes i omsetning fram til holdbarhetsdatoen, men ikke etter 31. juli 2009. Når det gjelder bestemmelsene i artikkel 4 nr. 1, kan næringsmidler bringes i omsetning inntil 24 måneder etter vedtakelsen av de relevante ernæringsprofilene og deres vilkår for bruk.
 
-2. Produkter som er forsynt med varemerker eller handelsbetegnelser som eksisterte før 1. januar 2005, og som ikke er i samsvar med denne forordning, kan fortsatt bringes i omsetning fram til 19. januar 2022, etter denne datoen får bestemmelsene i denne forordning anvendelse.
+2\. Produkter som er forsynt med varemerker eller handelsbetegnelser som eksisterte før 1. januar 2005, og som ikke er i samsvar med denne forordning, kan fortsatt bringes i omsetning fram til 19. januar 2022, etter denne datoen får bestemmelsene i denne forordning anvendelse.
 
-3. Ernæringspåstander som har vært brukt i en medlemsstat før 1. januar 2006 i samsvar med nasjonale bestemmelser som gjelder for dem, og som ikke er oppført i vedlegget, kan fortsatt brukes fram til 19. januar 2010, på den driftsansvarlige for næringsmiddelforetakets ansvar og uten at det berører vedtakelsen av beskyttelsestiltak som nevnt i artikkel 24.
+3\. Ernæringspåstander som har vært brukt i en medlemsstat før 1. januar 2006 i samsvar med nasjonale bestemmelser som gjelder for dem, og som ikke er oppført i vedlegget, kan fortsatt brukes fram til 19. januar 2010, på den driftsansvarlige for næringsmiddelforetakets ansvar og uten at det berører vedtakelsen av beskyttelsestiltak som nevnt i artikkel 24.
 
-4. For ernæringspåstander i form av bilder, grafikk eller symboler som er i samsvar med de allmenne prinsippene i denne forordning, men som ikke inngår i vedlegget og som brukes i samsvar med særlige vilkår og kriterier som er utarbeidet i nasjonale bestemmelser eller regler, skal følgende gjelde:medlemsstatene skal innen 31. januar 2008 underrette Kommisjonen om slike ernæringspåstander og gjeldende nasjonale bestemmelser og regler, ledsaget av vitenskapelige data som støtter disse bestemmelsene eller reglene,Kommisjonen skal gjøre et vedtak om bruken av slike påstander etter framgangsmåten fastsatt i artikkel 25 nr. 2.Ernæringspåstander som ikke er godkjent etter denne framgangsmåten, kan fortsatt brukes i tolv måneder etter at dette vedtak er gjort.
+4\. For ernæringspåstander i form av bilder, grafikk eller symboler som er i samsvar med de allmenne prinsippene i denne forordning, men som ikke inngår i vedlegget og som brukes i samsvar med særlige vilkår og kriterier som er utarbeidet i nasjonale bestemmelser eller regler, skal følgende gjelde:medlemsstatene skal innen 31. januar 2008 underrette Kommisjonen om slike ernæringspåstander og gjeldende nasjonale bestemmelser og regler, ledsaget av vitenskapelige data som støtter disse bestemmelsene eller reglene,Kommisjonen skal gjøre et vedtak om bruken av slike påstander etter framgangsmåten fastsatt i artikkel 25 nr. 2.Ernæringspåstander som ikke er godkjent etter denne framgangsmåten, kan fortsatt brukes i tolv måneder etter at dette vedtak er gjort.
 
-5. Helsepåstander som nevnt i artikkel 13 nr. 1, kan framsettes fra den datoen denne forordning trer i kraft og til vedtakelsen av listen angitt i artikkel 13 nr. 3, på den driftsansvarlige for næringsmiddelforetakets ansvar, under forutsetning av at de er i samsvar med denne forordning og gjeldende nasjonale bestemmelser, og uten at dette berører vedtakelsen av beskyttelsestiltak som nevnt i artikkel 24.
+5\. Helsepåstander som nevnt i artikkel 13 nr. 1, kan framsettes fra den datoen denne forordning trer i kraft og til vedtakelsen av listen angitt i artikkel 13 nr. 3, på den driftsansvarlige for næringsmiddelforetakets ansvar, under forutsetning av at de er i samsvar med denne forordning og gjeldende nasjonale bestemmelser, og uten at dette berører vedtakelsen av beskyttelsestiltak som nevnt i artikkel 24.
 
-6. Andre helsepåstander enn dem som er angitt i artikkel 13 nr. 1 bokstav a) og artikkel 14 nr. 1 bokstav a), som er benyttet i samsvar med nasjonale bestemmelser før denne forordnings ikrafttredelsesdato, skal omfattes av følgende:
+► **M1**
+
+6\. Andre helsepåstander enn dem som er angitt i artikkel 13 nr. 1 bokstav a) og artikkel 14 nr. 1 bokstav a), som er benyttet i samsvar med nasjonale bestemmelser før denne forordnings ikrafttredelsesdato, skal omfattes av følgende:
+
+◄ **M1**
 
 1. helsepåstander som er blitt vurdert og godkjent i en medlemsstat, skal godkjennes som følger:medlemsstatene skal innen 31. januar 2008 underrette Kommisjonen om slike påstander, ledsaget av en rapport med en vurdering av de vitenskapelige dataene som støtter påstanden,etter å ha rådspurt myndigheten skal Kommisjonen etter framgangsmåten fastsatt i artikkel 25 nr. 2, gjøre et vedtak om helsepåstandene som er godkjent på denne måten.Helsepåstander som ikke er godkjent etter denne framgangsmåten, kan fortsatt brukes i seks måneder etter at dette vedtak er gjort.
 2. helsepåstander som ikke er blitt vurdert og godkjent i en medlemsstat, kan fortsatt brukes forutsatt at en søknad innleveres i samsvar med denne forordning innen 19. januar 2008; helsepåstander som ikke er godkjent etter denne framgangsmåten, kan fortsatt brukes i seks måneder etter at det er gjort et vedtak i henhold til artikkel 17 nr. 3.
@@ -374,52 +422,108 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel, 20. desember 2006.
 
+|  |  |
+| --- | --- |
+| *For Europaparlamentet* | *For Rådet* |
+| J. BORRELL FONTELLES | J. KORKEAOJA |
+| *President* | *Formann* |
+
 ### Vedlegg
 Ernæringspåstander og vilkårene som gjelder for dem
 
+*Lavt energiinnhold*
+
 En påstand om at et næringsmiddel har lavt energiinnhold, og enhver annen påstand som kan antas å ha samme betydning for forbrukeren, kan bare framsettes dersom produktet ikke inneholder mer enn 40 kcal (170 kJ) per 100 g for næringsmidler i fast form, eller mer enn 20 kcal (80 kJ) per 100 ml for næringsmidler i flytende form. For bordsøtningsmidler gjelder grensen på 4 kcal (17 kJ) per porsjon med søtende egenskaper, som tilsvarer 6 g sukrose (cirka 1 teskje sukrose).
+
+*Redusert energiinnhold*
 
 En påstand om at et næringsmiddel har redusert energiinnhold, og enhver annen påstand som kan antas å ha samme betydning for forbrukeren, kan bare framsettes dersom energiinnholdet er redusert med minst 30 %, og med en angivelse av de egenskapene som gjør at næringsmiddelets samlede energiinnhold er redusert.
 
+*Energifri*
+
 En påstand om at et næringsmiddel er energifritt, og enhver annen påstand som kan antas å ha samme betydning for forbrukeren, kan bare framsettes dersom produktet ikke inneholder mer enn 4 kcal (17 kJ) per 100 ml. For bordsøtningsmidler gjelder grensen på 0,4 kcal (1,7 kJ) per porsjon med søtende egenskaper, som tilsvarer 6 g sukrose (cirka 1 teskje sukrose).
+
+*Lavt fettinnhold*
 
 En påstand om at et næringsmiddel har lavt fettinnhold, og enhver annen påstand som kan antas å ha samme betydning for forbrukeren, kan bare framsettes dersom produktet ikke inneholder mer enn 3 g fett per 100 g for næringsmidler i fast form eller 1,5 g fett per 100 ml for næringsmidler i flytende form (1,8 g fett per 100 ml for delvis skummet melk).
 
+*Fettfri*
+
 En påstand om at et næringsmiddel er fettfritt, og enhver annen påstand som kan antas å ha samme betydning for forbrukeren, kan bare framsettes dersom produktet ikke inneholder mer enn 0,5 g fett per 100 g eller 100 ml. Påstander med uttrykk som «X % fettfri», er imidlertid forbudt.
+
+*Lavt innhold av mettet fett*
 
 En påstand om at et næringsmiddel har lavt innhold av mettet fett, og enhver annen påstand som kan antas å ha samme betydning for forbrukeren, kan bare framsettes dersom mengden av mettede fettsyrer og transfettsyrer i produktet ikke overstiger 1,5 g per 100 g for næringsmidler i fast form eller 0,75 g per 100 ml for næringsmidler i flytende form, og i begge tilfellene må mengden av mettede fettsyrer og transfettsyrer samlet ikke utgjøre mer enn 10 % av energiinnholdet.
 
+*Fri for mettet fett*
+
 En påstand om at et næringsmiddel ikke inneholder mettet fett, og enhver annen påstand som kan antas å ha samme betydning for forbrukeren, kan bare framsettes dersom mengden av mettede fettsyrer og transfettsyrer ikke overstiger 0,1 g mettet fett per 100 g eller 100 ml.
+
+*Lavt sukkerinnhold*
 
 En påstand om at et næringsmiddel har lavt sukkerinnhold, og enhver annen påstand som kan antas å ha samme betydning for forbrukeren, kan bare framsettes dersom produktet ikke inneholder mer enn 5 g sukkerarter per 100 g for næringsmidler i fast form, eller mer enn 2,5 g sukkerarter per 100 ml for næringsmidler i flytende form.
 
+*Sukkerfri*
+
 En påstand om at et næringsmiddel ikke inneholder sukker, og enhver annen påstand som kan antas å ha samme betydning for forbrukeren, kan bare framsettes dersom produktet ikke inneholder mer enn 0,5 g sukkerarter per 100 g eller 100 ml.
+
+*Uten tilsatt sukker*
 
 En påstand om at et næringsmiddel ikke er tilsatt sukker, og enhver annen påstand som kan antas å ha samme betydning for forbrukeren, kan bare framsettes dersom produktet ikke er tilsatt monosakkarider eller disakkarider eller andre næringsmidler på grunn av deres søtende egenskaper. Dersom sukkeret forekommer naturlig i næringsmiddelet, bør også følgende angivelse finnes på etiketten: «MED ET NATURLIG INNHOLD AV SUKKER».
 
+*Lavt natriuminnhold/lavt saltinnhold*
+
 En påstand om at et næringsmiddel har et lavt natriuminnhold/saltinnhold, og enhver annen påstand som kan antas å ha samme betydning for forbrukeren, kan bare framsettes dersom produktet ikke inneholder mer enn 0,12 g natrium eller tilsvarende verdi for salt, per 100 g eller per 100 ml. For annet vann enn naturlig mineralvann som omfattes av direktiv [80/777/EØF](eu/31980l0777), bør denne verdien ikke overstige 2 mg natrium per 100 ml.
+
+► **M3**
+
+*Uten tilsatt natrium/salt*
 
 En påstand om at et næringsmiddel ikke er tilsatt natrium eller salt, og enhver annen påstand som kan antas å ha samme betydning for forbrukeren, kan bare framsettes dersom produktet ikke inneholder tilsatt natrium eller salt eller noen annen bestanddel som inneholder tilsatt natrium eller salt, og dersom produktet ikke inneholder mer enn 0,12 g natrium eller tilsvarende verdi for salt, per 100 g eller per 100 ml.◄ **M3**
 
+*Svært lavt natriuminnhold/svært lavt saltinnhold*
+
 En påstand om at et næringsmiddel har et svært lavt natriuminnhold/saltinnhold, og enhver annen påstand som kan antas å ha samme betydning for forbrukeren, kan bare framsettes dersom produktet ikke inneholder mer enn 0,04 g natrium eller tilsvarende verdi for salt, per 100 g eller 100 ml. Det er ikke tillatt å bruke denne påstanden om naturlig mineralvann eller annet vann.
+
+*Natriumfri eller saltfri*
 
 En påstand om at et næringsmiddel ikke inneholder natrium eller salt, og enhver annen påstand som kan antas å ha samme betydning for forbrukeren, kan bare framsettes dersom produktet ikke inneholder mer enn 0,005 g natrium eller tilsvarende verdi for salt, per 100 g.
 
+*Kostfiberkilde*
+
 En påstand om at et næringsmiddel er en kostfiberkilde, og enhver annen påstand som kan antas å ha samme betydning for forbrukeren, kan bare framsettes dersom produktet inneholder minst 3 g kostfiber per 100 g, eller minst 1,5 g kostfiber per 100 kcal.
+
+*Høyt kostfiberinnhold*
 
 En påstand om at et næringsmiddel har et høyt kostfiberinnhold, og enhver annen påstand som kan antas å ha samme betydning for forbrukeren, kan bare framsettes dersom produktet inneholder minst 6 g kostfiber per 100 g, eller minst 3 g kostfiber per 100 kcal.
 
+*Proteinkilde*
+
 En påstand om at et næringsmiddel er en proteinkilde, og enhver annen påstand som kan antas å ha samme betydning for forbrukeren, kan bare framsettes dersom minst 12 % av energiinnholdet i næringsmiddelet kommer fra proteiner.
+
+*Høyt proteininnhold*
 
 En påstand om at et næringsmiddel har et høyt proteininnhold, og enhver annen påstand som kan antas å ha samme betydning for forbrukeren, kan bare framsettes dersom minst 20 % av energiinnholdet i næringsmiddelet kommer fra proteiner.
 
+*Kilde til [navn på vitamin] og/eller [navn på mineral]*
+
 En påstand om at et næringsmiddel er en kilde til vitaminer og/eller mineraler, og enhver annen påstand som kan antas å ha samme betydning for forbrukeren, kan bare framsettes dersom produktet minst inneholder en betydelig mengde som definert i vedlegget til direktiv [90/496/EØF](eu/31990l0496), eller en mengde som omfattes av unntakene fastsatt i artikkel 6 i europaparlaments- og rådsforordning [(EF) nr. 1925/2006](eu/32006r1925) av 20. desember 2006 om tilsetting av vitaminer, mineraler og visse andre stoffer i næringsmidler.1
+
+1 EUT L 404 av 30.12.2006, s. 26.
+
+*Høyt innhold av [navn på vitamin] og/eller [navn på mineral]*
 
 En påstand om at et næringsmiddel har et høyt vitamin- og/eller mineralinnhold, og enhver annen påstand som kan antas å ha samme betydning for forbrukeren, kan bare framsettes dersom produktet inneholder minst det dobbelte av mengden vist til under «kilde til [NAVN PÅ VITAMIN] – og/eller [NAVN PÅ MINERAL]».
 
+*Inneholder [navn på næringsstoff eller annet stoff]*
+
 En påstand om at et næringsmiddel inneholder et næringsstoff eller annet stoff som det ikke er fastsatt særlige vilkår for i denne forordning, eller enhver annen påstand som kan anses å ha samme betydning for forbrukeren, kan bare framsettes dersom produktet overholder alle gjeldende bestemmelser i denne forordning, og særlig artikkel 5. For vitaminer og mineraler skal vilkårene for påstanden «kilde til» gjelde.
 
+*Økt innhold av [næringsstoffets navn]*
+
 En påstand om at innholdet i ett eller flere næringsstoffer, bortsett fra vitaminer og mineraler, er blitt økt, og enhver annen påstand som kan antas å ha samme betydning for forbrukeren, kan bare framsettes dersom produktet oppfyller vilkårene for påstanden «kilde til» og innholdet av det aktuelle stoffet er minst 30 % høyere enn i et lignende produkt.
+
+*Redusert innhold av [næringsstoffets navn]*
 
 En påstand om at innholdet i ett eller flere næringsstoffer er blitt redusert, og enhver annen påstand som kan anses å ha samme betydning for forbrukeren, kan bare framsettes dersom innholdet av det aktuelle stoffet er minst 30 % lavere enn i et lignende produkt, unntatt for mikronæringsstoffer, der det skal godtas en forskjell på 10 % i referanseverdiene som er fastsatt i direktiv [90/496/EØF](eu/31990l0496), og for natrium eller tilsvarende verdi for salt, der det skal godtas en forskjell på 25 %.► **M3**
 
@@ -427,19 +531,35 @@ Påstanden «redusert innhold av mettet fett» og enhver annen påstand som kan 
 
 Påstanden «redusert innhold av sukker» og enhver annen påstand som kan antas å ha samme betydning for forbrukeren, kan bare framsettes dersom energiinnholdet i produktet som påstanden gjelder, er det samme som eller lavere enn i et lignende produkt.◄ **M3**
 
+*Lett/light*
+
 En påstand om at et produkt er «lett» eller «light», og enhver annen påstand som kan antas å ha samme betydning for forbrukeren, skal oppfylle de samme vilkårene som for uttrykket «redusert», og påstanden skal dessuten ledsages av en angivelse av hvilke egenskaper som gjør næringsmiddelet «lett» eller «light».
+
+*Naturlig*
 
 Dersom et næringsmiddel naturlig oppfyller vilkårene i dette vedlegg for bruken av en ernæringspåstand, kan uttrykket «naturlig» brukes i tilknytning til påstanden.► **M2**
 
+*Kilde til omega-3-fettsyrer*
+
 En påstand om at et næringsmiddel er en kilde til omega-3-fettsyrer, og enhver annen påstand som kan antas å ha samme betydning for forbrukeren, kan framsettes bare dersom produktet inneholder minst 0,3 g alfalinolensyre per 100 g og per 100 kcal, eller minst 40 mg eikosapentaensyre og dokosaheksaensyre til sammen per 100 g og per 100 kcal.
+
+*Høyt innhold av omega-3-fettsyrer*
 
 En påstand om at et næringsmiddel har høyt innhold av omega-3-fettsyrer, og enhver annen påstand som kan antas å ha samme betydning for forbrukeren, kan framsettes bare dersom produktet inneholder minst 0,6 g alfalinolensyre per 100 g og per 100 kcal, eller minst 80 mg eikosapentaensyre og dokosaheksaensyre til sammen per 100 g og per 100 kcal.
 
+*Høyt innhold av enumettet fett*
+
 En påstand om at et næringsmiddel har høyt innhold av enumettet fett, og enhver annen påstand som kan antas å ha samme betydning for forbrukeren, kan framsettes bare dersom minst 45 % av fettsyrene i produktet stammer fra enumettet fett og dersom enumettet fett representerer mer enn 20 % av produktets energiinnhold.
+
+*Høyt innhold av flerumettet fett*
 
 En påstand om at et næringsmiddel har høyt innhold av flerumettet fett, og enhver annen påstand som kan antas å ha samme betydning for forbrukeren, kan framsettes bare dersom minst 45 % av fettsyrene i produktet stammer fra flerumettet fett og dersom flerumettet fett representerer mer enn 20 % av produktets energiinnhold.
 
+*Høyt innhold av umettet fett*
+
 En påstand om at et næringsmiddel har høyt innhold av umettet fett, og enhver annen påstand som kan antas å ha samme betydning for forbrukeren, kan framsettes bare dersom minst 70 % av fettsyrene i produktet stammer fra umettet fett og dersom umettet fett representerer mer enn 20 % av produktets energiinnhold.
+
+◄ **M2**
 
 ### Konsolidert forordning (EF) nr. 353/2008
 
@@ -451,6 +571,8 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EF) nr. 353/
 av 18. april 2008
 om fastsettelse av gjennomføringsregler for søknader om godkjenning av helsepåstander som fastsatt i artikkel 15 i europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*)
 
+KOMMISJONEN FOR DE EUROPEISKE FELLESSKAP HAR –
+
 under henvisning til traktaten om opprettelse av Det europeiske fellesskap,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler,1 særlig artikkel 15 nr. 4,
@@ -458,6 +580,12 @@ under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](e
 etter samråd med Den europeiske myndighet for næringsmiddeltrygghet og
 
 ut fra følgende betraktninger:Forordning [(EF) nr. 1924/2006](eu/32006r1924*) fastsetter regler for bruken av påstander i merking og presentasjon av samt reklame for næringsmidler.I søknader om godkjenning av helsepåstander bør det på en hensiktsmessig og tilstrekkelig måte godtgjøres at den aktuelle helsepåstanden bygger på og er dokumentert gjennom allment anerkjente vitenskapelige bevis, ved at det er tatt hensyn til alle tilgjengelige vitenskapelige data og foretatt en avveining av bevisene.Som fastsatt i artikkel 15 nr. 4 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det nødvendig å fastsette gjennomføringsregler for søknader om helsepåstander som inngis i samsvar med nevnte forordning, herunder regler for utarbeiding og framlegging av slike søknader.Gjennomføringsreglene bør sikre at dokumentasjonen som ledsager slike søknader, er utarbeidet på en slik måte at den definerer og klassifiserer de vitenskapelige data som er nødvendige for at Den europeiske myndighet for næringsmiddeltrygghet kan vurdere søknadene.Gjennomføringsreglene er hovedsakelig ment som allmenne retningslinjer, og arten og omfanget av de undersøkelsene som er nødvendige for å vurdere en påstands vitenskapelige verdi, kan variere avhengig av påstandens art.I søknader om godkjenning av helsepåstander bør det tas hensyn til kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), særlig de allmenne prinsippene og vilkårene fastsatt i forordningens artikkel 3 og 5. Det bør framlegges særskilt søknad for hver enkelt helsepåstand, med en beskrivelse av påstandens type.De opplysningene og dokumentene som skal framlegges i henhold til denne forordning, bør ikke være til hinder for at Den europeiske myndighet for næringsmiddeltrygghet (heretter kalt «Myndigheten») om nødvendig kan anmode søkeren om utfyllende opplysninger i samsvar med artikkel 16 nr. 2 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).På anmodning fra Kommisjonen har Myndigheten avgitt en uttalelse om vitenskapelige og tekniske retningslinjer for utarbeiding og framlegging av søknader om godkjenning av helsepåstander.2 For å sikre harmonisering av søknader som framlegges for Myndigheten, bør søknadene overholde Myndighetens retningslinjer og gjennomføringsreglene.For at anmodninger om sikring av data som er underlagt eiendomsrett, som fastsatt i artikkel 21 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), skal kunne innvilges, må anmodningene være begrunnet, og alle data må være oppført i en særskilt del av søknaden.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for næringsmiddelkjeden og dyrehelsen –
+
+1 EUT L 404 av 30.12.2006, s. 9, rettet i EUT L 12 av 18.1.2007, s. 3. Forordningen sist endret ved forordning [(EF) nr. 109/2008](eu/32008r0109) (EUT L 39 av 13.2.2008, s. 14).
+
+2[http://www.efsa.europa.eu/EFSA/efsa_locale-1178620753812_1178623592471.htm](https://www.efsa.europa.eu/EFSA/efsa_locale-1178620753812_1178623592471.htm)
+
+VEDTATT DENNE FORORDNING:
 
 ### Artikkel 1. Formål
 
@@ -489,19 +617,19 @@ Søknaden skal utarbeides og framlegges i samsvar med de tekniske bestemmelsene 
 
 ### Artikkel 7a. Medlemsstatenes kontroll av søknaders gyldighet
 
-1. I samsvar med artikkel 15 nr. 2 bokstav a) og artikkel 18 nr. 3 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) skal medlemsstatene kontrollere at søknader er gyldige før de stiller dem til rådighet for Myndigheten.
+1\. I samsvar med artikkel 15 nr. 2 bokstav a) og artikkel 18 nr. 3 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) skal medlemsstatene kontrollere at søknader er gyldige før de stiller dem til rådighet for Myndigheten.
 
-2. Ved anvendelsen av nr. 1 skal vedkommende nasjonale myndighet kontrollere at søknader inngitt i henhold til artikkel 15 eller 18 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) inneholder opplysningene nevnt i artikkel 15 nr. 3 i samme forordning.
+2\. Ved anvendelsen av nr. 1 skal vedkommende nasjonale myndighet kontrollere at søknader inngitt i henhold til artikkel 15 eller 18 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) inneholder opplysningene nevnt i artikkel 15 nr. 3 i samme forordning.
 
-3. Vedkommende nasjonale myndighet skal også kontrollereat helsespåstanden, for søknader inngitt i henhold til artikkel 15 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), er en påstand som viser til redusert sykdomsrisiko eller til barns utvikling og helse,at helsepåstanden, for søknader inngitt i henhold til artikkel 18 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), er en helsepåstand nevnt i artikkel 13 nr. 5 i samme forordning, med unntak for påstander som viser til barns utvikling og helse.
+3\. Vedkommende nasjonale myndighet skal også kontrollereat helsespåstanden, for søknader inngitt i henhold til artikkel 15 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), er en påstand som viser til redusert sykdomsrisiko eller til barns utvikling og helse,at helsepåstanden, for søknader inngitt i henhold til artikkel 18 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), er en helsepåstand nevnt i artikkel 13 nr. 5 i samme forordning, med unntak for påstander som viser til barns utvikling og helse.
 
 ### Artikkel 7b. Tilbaketrekking av søknader
 
-1. En søknad inngitt i henhold til artikkel 15 eller 18 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) kan trekkes tilbake av søkeren fram til det tidspunkt Myndigheten vedtar sin uttalelse i henhold til artikkel 16 nr. 1 eller artikkel 18 nr. 3 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).
+1\. En søknad inngitt i henhold til artikkel 15 eller 18 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) kan trekkes tilbake av søkeren fram til det tidspunkt Myndigheten vedtar sin uttalelse i henhold til artikkel 16 nr. 1 eller artikkel 18 nr. 3 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).
 
-2. En anmodning om tilbaketrekking av en søknad i en medlemsstat skal inngis til vedkommende nasjonale myndighet som søknaden ble inngitt til i samsvar med artikkel 15 nr. 2 eller artikkel 18 nr. 2 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).
+2\. En anmodning om tilbaketrekking av en søknad i en medlemsstat skal inngis til vedkommende nasjonale myndighet som søknaden ble inngitt til i samsvar med artikkel 15 nr. 2 eller artikkel 18 nr. 2 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).
 
-3. Vedkommende nasjonale myndighet skal omgående underrette Myndigheten, Kommisjonen og de andre medlemsstatene om tilbaketrekkingen. Det er bare tilbaketrekking av en søknad i samsvar med vilkårene i nr. 1 og i dette nummer som bringer framgangsmåten til opphør.◄ **M1**
+3\. Vedkommende nasjonale myndighet skal omgående underrette Myndigheten, Kommisjonen og de andre medlemsstatene om tilbaketrekkingen. Det er bare tilbaketrekking av en søknad i samsvar med vilkårene i nr. 1 og i dette nummer som bringer framgangsmåten til opphør.◄ **M1**
 
 ### Artikkel 8
 
@@ -511,8 +639,17 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel, 18. april 2008.
 
+|  |  |
+| --- | --- |
+|  | For Kommisjonen |
+|  |  |
+|  | Androulla VASSILIOU |
+|  | Medlem av Kommisjonen |
+
 ### VEDLEGG
 Tekniske bestemmelser om utarbeiding og framlegging av søknader om godkjenning av helsepåstander
+
+*INNLEDNING*
 
 1. Dette vedlegg gjelder helsepåstander vedrørende konsum av en næringsmiddelgruppe, et næringsmiddel eller av deres bestanddeler (herunder et næringsstoff eller annet stoff eller en kombinasjon av næringsstoffer eller andre stoffer), heretter kalt «næringsmiddel».
 2. Dersom søkeren utelater noen av de data som kreves i henhold til dette vedlegg, fordi søkeren ikke anser dem relevante for den aktuelle søknaden, skal utelatelsen begrunnes i søknaden.
@@ -522,59 +659,121 @@ Tekniske bestemmelser om utarbeiding og framlegging av søknader om godkjenning 
 6. Som relevante vitenskapelige data regnes alle undersøkelser, uansett om de er utført på mennesker eller ikke, og uansett om de er offentliggjort eller ikke, som er relevante som dokumentasjon i forbindelse med den påstanden søknaden gjelder, ved at de omhandler sammenhengen mellom næringsmiddelet og den påståtte virkningen, uansett om de taler for eller imot en slik sammenheng. Relevante offentliggjorte data fra undersøkelser av mennesker skal identifiseres ved en omfattende analyse.
 7. Det skal ikke henvises til utdrag fra fagtidsskrifter og artikler offentliggjort i aviser, tidsskrifter, informasjonsblader eller pressemeldinger som ikke er blitt fagfellevurdert. Det skal ikke henvises til bøker som er beregnet på forbrukerne eller allmennheten, eller til kapitler i slike bøker.
 
+*ALMINNELIGE PRINSIPPER FOR DEN VITENSKAPELIGE DOKUMENTASJONEN*
+
 1. Søknaden skal inneholde alle vitenskapelige data som er relevante for helsepåstanden, uansett om de er offentliggjort eller ikke, og uansett om de taler for eller imot helsepåstanden, sammen med en omfattende analyse av data fra undersøkelser av mennesker, for å vise at helsepåstanden er dokumentert ved de samlede vitenskapelige data og en avveining av bevisene. Som dokumentasjon for en helsepåstand kreves det data fra undersøkelser av mennesker vedrørende sammenhengen mellom konsum av næringsmiddelet og den påståtte virkningen.
 2. Søknaden skal inneholde en omfattende analyse av data fra undersøkelser av mennesker vedrørende den særskilte sammenhengen mellom næringsmiddelet og den påståtte virkningen. Denne analysen samt angivelsen av de data som anses relevante for helsepåstanden, skal utføres på en systematisk og oversiktlig måte for å vise at søknaden gir et riktig og balansert bilde av alle tilgjengelige bevis.
 3. Helsepåstander skal dokumenteres ved at alle tilgjengelige vitenskapelige data tas i betraktning, og dokumentasjonen skal ved en avveining av bevisene vise i hvilken utstrekningnæringsmiddelets påståtte virkning er gunstig for menneskers helse,det kan fastslås en årsakssammenheng mellom konsum av næringsmiddelet og den påståtte virkningen hos mennesker (for eksempel hvor sterk, konsekvent og spesifikk sammenhengen er, forholdet mellom dosering og virkning samt den biologiske sannsynligheten for sammenhengen),den mengden av næringsmiddelet og det forbruksmønsteret som kreves for å oppnå den påståtte virkningen, med rimelighet kan inngå i et balansert kosthold,den eller de undersøkte gruppene som bevisene stammer fra, er representative for den befolkningsgruppen helsepåstanden er ment for.
 
+*NÆRINGSMIDDELETS EGENSKAPER*
+
 Følgende opplysninger skal gis om den næringsmiddelbestanddelen, det næringsmiddelet eller den næringsmiddelgruppen som helsepåstanden gjelder.For en næringsmiddelbestanddel:kilde og spesifikasjoner1 så som fysiske og kjemiske egenskaper og sammensetning, ogdersom det er relevant, næringsbestanddelens mikrobiologiske bestanddeler.For et næringsmiddel eller en næringsmiddelgruppe:en beskrivelse av næringsmiddelet eller næringsmiddelgruppen, herunder en karakterisering av næringsmiddelmatrisen og den generelle sammensetningen, inkludert næringsmiddelets næringsinnhold,kilde og spesifikasjoner for næringsmiddelet eller næringsmiddelgruppen, særlig innholdet av den eller de bestanddelene som er forbundet med helsepåstanden.I alle tilfeller:dersom det er relevant, graden av variasjon mellom partier,anvendt analysemetode,dersom det er relevant, et sammendrag av de undersøkelsene som er foretatt av produksjonsvilkårene, variasjonen mellom partier og analysemetodene, og av resultatene og konklusjonene fra stabilitetsundersøkelsene, samt konklusjonene med hensyn til lagringsvilkår og holdbarhetstid,dersom det er relevant, relevante data samt belegg for at den bestanddelen som helsepåstanden gjelder, foreligger i en form som kan utnyttes av menneskekroppen,dersom opptak i kroppen ikke er nødvendig for å frambringe den påståtte virkningen, hvilket gjelder eksempelvis for plantesteroler, fibre og melkesyrebakterier, relevante data samt belegg for at bestanddelen når fram til målstedet,alle tilgjengelige data om faktorer som kan påvirke kroppens evne til å ta opp eller utnytte den bestanddelen som helsepåstanden gjelder.
+
+*OPPSTILLING AV RELEVANTE VITENSKAPELIGE DATA*
 
 1. De identifiserte vitenskapelige dataene skal stilles opp slik at data fra undersøkelser av mennesker står foran eventuelle data fra andre typer undersøkelser.
 2. Data fra undersøkelser av mennesker skal klassifiseres i følgende rekkefølge etter undersøkelsestype:intervensjonsundersøkelser av mennesker, randomiserte kontrollerte undersøkelser, andre randomiserte undersøkelser (ikke-kontrollerte), kontrollerte (ikke-randomiserte) undersøkelser, andre intervensjonsundersøkelser,observasjonsundersøkelser av mennesker, kohortundersøkelser, kontrollerte enkeltundersøkelser, tverrsnittsundersøkelser, andre observasjonsundersøkelser, for eksempel tilfellerapporter,andre undersøkelser av mennesker som gjelder de mekanismene som gjør at næringsmiddelet vil kunne forårsake den påståtte virkningen, herunder undersøkelser av biotilgjengelighet.
 3. Data fra undersøkelser som ikke er utført på mennesker, skal bestå av:data fra undersøkelser av dyr som gjelder faktorer forbundet med opptak, fordeling, stoffskifte og utskilling av næringsmiddelet, mekanistiske undersøkelser og andre undersøkelser,data fra *ex vivo*- eller *in vitro*-undersøkelser som er basert på biologiske prøver fra mennesker eller dyr, og som gjelder de mekanismene som gjør at næringsmiddelet vil kunne forårsake den påståtte virkningen, samt andre undersøkelser som ikke er utført på mennesker.
 
+*SAMMENDRAG AV RELEVANTE VITENSKAPELIGE DATA*
+
 I tillegg til det sammendraget som kreves i henhold til artikkel 15 nr. 3 bokstav g) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), skal søkerne framlegge et sammendrag av de relevante vitenskapelige data, som skal inneholde følgende opplysninger:et sammendrag av data fra relevante undersøkelser av mennesker, med angivelse av i hvilken utstrekning dataene underbygger sammenhengen mellom næringsmiddelet og den påståtte virkningen,et sammendrag av data fra relevante undersøkelser som ikke er utført på mennesker, med angivelse av hvorvidt og i hvilken utstrekning undersøkelsene kan bidra til å underbygge sammenhengen mellom næringsmiddelet og den påståtte virkningen hos mennesker,de overordnede konklusjonene på grunnlag av en avveining av alle data, uansett om de taler for eller imot sammenhengen. Av de overordnede konklusjonene skal det klart framgå i hvilken utstrekningnæringsmiddelets påståtte virkning er gunstig for menneskers helse,det kan fastslås en årsakssammenheng mellom konsum av næringsmiddelet og den påståtte virkningen hos mennesker (for eksempel hvor sterk, konsekvent og spesifikk sammenhengen er, forholdet mellom dosering og virkning samt den biologiske sannsynligheten for sammenhengen),den mengden av næringsmiddelet og det forbruksmønsteret som kreves for å oppnå den påståtte virkningen, med rimelighet kan inngå i et balansert kosthold,den eller de undersøkelsesgruppene som bevisene stammer fra, er representative for den befolkningsgruppen helsepåstanden er ment for.
+
+*SØKNADENS OPPBYGNING*
 
 Søknadene skal ha den oppbygningen som er vist nedenfor. Visse deler kan utelates, forutsatt at søkeren gir en begrunnelse for dette.
 
+*Del 1 – Administrative og tekniske data*
+
+1.1.
+
 Innholdsfortegnelse
+
+1.2.
 
 Søknadsskjema
 
+1.3.
+
 Alminnelige opplysninger
+
+1.4.
 
 Detaljert beskrivelse av helsepåstanden
 
+1.5.
+
 Sammendrag av søknaden
 
+1.6.
+
 Henvisninger
+
+*Del 2 – Næringsmiddelets/bestanddelens egenskaper*
+
+2.1.
 
 Næringsmiddelbestanddel
 
+2.2.
+
 Næringsmiddel eller næringsmiddelgruppe
+
+2.3.
 
 Henvisninger
 
+*Del 3 – Overordnet sammendrag av relevante vitenskapelige data*
+
+3.1.
+
 Sammendrag i tabellform av alle identifiserte relevante undersøkelser
+
+3.2.
 
 Sammendrag i tabellform av data fra relevante undersøkelser utført på mennesker
 
+3.3.
+
 Skriftlig sammendrag av data fra relevante undersøkelser utført på mennesker
+
+3.4.
 
 Skriftlig sammendrag av data fra relevante undersøkelser som ikke er utført på mennesker
 
+3.5.
+
 Overordnede konklusjoner
+
+*Del 4 – Samlede relevante vitenskapelige data*
+
+4.1.
 
 Identifikasjon av relevante vitenskapelige data
 
+4.2.
+
 Identifiserte relevante data
+
+*Del 5 – Vedlegg til søknaden*
+
+5.1.
 
 Ordliste/forkortelser
 
+5.2.
+
 Kopier/utdrag av relevante offentliggjorte data
+
+5.3.
 
 Fullstendige undersøkelsesrapporter over relevante data som ikke er offentliggjort
 
+5.4.
+
 Annet
+
+1 Dersom det er relevant, kan det henvises til internasjonalt anerkjente spesifikasjoner.
 
 ### Konsolidert forordning (EF) nr. 983/2009
 
@@ -588,11 +787,59 @@ om godkjenning og avslag på godkjenning av visse helsepåstander om næringsmid
 
 som endret ved►**M1** Kommisjonsforordning [(EU) nr. 376/2010](eu/32010r0376) av 3. mai 2010►**M2** Kommisjonsforordning [(EU) nr. 686/2014](eu/32014r0686)
 
+KOMMISJONEN FOR DE EUROPEISKE FELLESSKAP HAR –
+
 under henvisning til traktaten om opprettelse av Det europeiske fellesskap,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler,1 særlig artikkel 17 nr. 3, og
 
 ut fra følgende betraktninger:I henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924*) er helsepåstander om næringsmidler forbudt med mindre de er godkjent av Kommisjonen i samsvar med nevnte forordning og oppført på listen over tillatte påstander.Ved forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det også fastsatt at driftsansvarlige for næringsmiddelforetak kan innlevere søknader om godkjenning av helsepåstander til vedkommende nasjonale myndighet i en medlemsstat. Vedkommende nasjonale myndighet skal videresende søknadene til Den europeiske myndighet for næringsmiddeltrygghet (EFSA), heretter kalt «myndigheten».Etter at det er mottatt en søknad, skal myndigheten umiddelbart underrette de øvrige medlemsstatene og Kommisjonen om søknaden og avgi en uttalelse om den aktuelle helsepåstanden.Kommisjonen skal avgjøre om helsepåstandene skal godkjennes, idet det tas hensyn til myndighetens uttalelse.Kommisjonen og myndighetene mottok 19. august 2008 sju uttalelser om søknader om godkjenning av helsepåstander fra myndigheten. Kommisjonen og medlemsstatene mottok 22. september 2008 én uttalelse om en søknad om godkjenning av en helsepåstand fra myndigheten. Kommisjonen og medlemsstatene mottok 22. oktober 2008 åtte uttalelser om søknader om godkjenning av helsepåstander fra myndigheten. Kommisjonen og medlemsstatene mottok 31. oktober 2008 fem uttalelser om søknader om godkjenning av helsepåstander fra myndigheten. Kommisjonen og medlemsstatene mottok 14. november 2008 to uttalelser om søknader om godkjenning av helsepåstander fra myndigheten.Seks av uttalelsene gjaldt søknader om påstander om redusert sykdomsrisiko, som nevnt i artikkel 14 nr. 1 bokstav a) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), og 17 uttalelser gjaldt søknader om helsepåstander som viser til barns utvikling og helse, som nevnt i artikkel 14 nr. 1 bokstav b) i forordning [(EF) nr. 1924/2006](eu/32006r1924*). I mellomtiden er én søknad om godkjenning av en helsepåstand blitt trukket tilbake av søkeren, mens en annen søknad om godkjenning av en helsepåstand vil bli gjort til gjenstand for en ytterligere avgjørelse.Etter at det var mottatt en søknad fra Unilever PLC (Det forente kongerike) og Unilever NV (Nederland), innlevert i samsvar med artikkel 14 nr. 1 bokstav a) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble myndigheten bedt om å avgi en uttalelse om en helsepåstand om virkningene av plantesteroler på kolesterolinnholdet i blodet og risikoen for koronar hjertesykdom (spørsmål nr. EFSA-Q-2008-085).2 Den helsepåstanden som søkeren foreslo, var formulert slik: «Det er bevist at plantesteroler senker/reduserer kolesterolinnholdet i blodet vesentlig. Det er bevist at risikoen for (koronar) hjertesykdom reduseres når kolesterolinnholdet i blodet senkes.»På grunnlag av de opplysningene som ble framlagt, konkluderte myndigheten at det kunne fastslås en årsakssammenheng mellom inntak av plantesteroler og påstått virkning. Med forbehold om at formuleringen endres, bør påstanden anses å oppfylle kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), særlig artikkel 14 nr. 1 bokstav a), og den bør oppføres på fellesskapslisten over tillatte påstander.Etter at det var mottatt en søknad fra McNeil Nutritionals, innlevert i samsvar med artikkel 14 nr. 1 bokstav a) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble myndigheten bedt om å avgi en uttalelse om en helsepåstand om virkningene av plantestanolestere på kolesterolinnholdet i blodet og risikoen for koronar hjertesykdom (spørsmål nr. EFSA-Q-2008-118).3 Den helsepåstanden som søkeren foreslo, var formulert slik: «Ved aktivt å senke/redusere LDL-kolesterolinnholdet (med opptil 14 % på to uker ved å blokkere opptaket av kolesterol) reduserer plantestanolestere risikoen for (koronar) hjertesykdom».På grunnlag av de opplysningene som ble framlagt, konkluderte myndigheten at det kunne fastslås en årsakssammenheng mellom inntak av plantestanolestere og påstått virkning. Med forbehold om at formuleringen endres, bør påstanden anses å oppfylle kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), særlig artikkel 14 nr. 1 bokstav a), og den bør oppføres på fellesskapslisten over tillatte påstander.Etter at det var mottatt en søknad fra Unilever PLC/NV, innlevert i samsvar med artikkel 14 nr. 1 bokstav b) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble myndigheten bedt om å avgi en uttalelse om en helsepåstand om virkningene av α-linolensyre (ALA) og linolsyre (LA) på barns vekst og utvikling (spørsmål nr. EFSA-Q-2008-079).4 Den helsepåstanden som søkeren foreslo, var formulert slik: «Et regelmessig inntak av essensielle fettsyrer er viktig for barns vekst og utvikling».På grunnlag av de opplysningene som ble framlagt, konkluderte myndigheten at det kunne fastslås en årsakssammenheng mellom inntak av ALA og LA og påstått virkning. En helsepåstand som gjenspeiler denne konklusjonen, bør anses å oppfylle kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), og den bør oppføres på fellesskapslisten over tillatte påstander.Etter at det var mottatt en søknad fra Association de la Transformation Laitière Française (ATLA), innlevert i samsvar med artikkel 14 nr. 1 bokstav b) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble myndigheten bedt om å avgi en uttalelse om en helsepåstand om virkningene av vitamin D på beinvekst (spørsmål nr. EFSA-Q-2008-323).5 Den helsepåstanden som søkeren foreslo, var formulert slik: «Vitamin D er nødvendig for barns beinvekst».På grunnlag av de opplysningene som ble framlagt, konkluderte myndigheten at det kunne fastslås en årsakssammenheng mellom inntak av vitamin D og påstått virkning. En helsepåstand som gjenspeiler denne konklusjonen, bør anses å oppfylle kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), og den bør oppføres på fellesskapslisten over tillatte påstander.Etter at det var mottatt en søknad fra Yoplait Dairy Crest Ltd., innlevert i samsvar med artikkel 14 nr. 1 bokstav b) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble myndigheten bedt om å avgi en uttalelse om en helsepåstand om virkningene av kalsium og vitamin D på beinstyrken (spørsmål nr. EFSA-Q-2008-116).6 Den helsepåstanden som søkeren foreslo, var formulert slik: «Inntak av kalsium og vitamin D som en del av et sunt kosthold og en sunn livsførsel, gir barn og ungdommer sterkere bein».På grunnlag av de opplysningene som ble framlagt, konkluderte myndigheten at det kunne fastslås en årsakssammenheng mellom inntak av kalsium og vitamin D og påstått virkning. En helsepåstand som gjenspeiler denne konklusjonen, bør anses å oppfylle kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), og den bør oppføres på fellesskapslisten over tillatte påstander.Etter at det var mottatt en søknad fra Association de la Transformation Laitière Française (ATLA), innlevert i samsvar med artikkel 14 nr. 1 bokstav b) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble myndigheten bedt om å avgi en uttalelse om en helsepåstand om virkningene av kalsium på beinvekst (spørsmål nr. EFSA-Q-2008-322).7 Den helsepåstanden som søkeren foreslo, var formulert slik: «Kalsium er nødvendig for barns sunne beinvekst».På grunnlag av de opplysningene som ble framlagt, konkluderte myndigheten at det kunne fastslås en årsakssammenheng mellom inntak av kalsium og påstått virkning. En helsepåstand som gjenspeiler denne konklusjonen, bør anses å oppfylle kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), og den bør oppføres på fellesskapslisten over tillatte påstander.Etter at det var mottatt en søknad fra Association de la Transformation Laitière Française (ATLA), innlevert i samsvar med artikkel 14 nr. 1 bokstav b) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble myndigheten bedt om å avgi en uttalelse om en helsepåstand om virkningene av proteiner av animalsk opprinnelse på beinvekst (spørsmål nr. EFSA-Q-2008-326).8 Den helsepåstanden som søkeren foreslo, var formulert slik: «Proteiner av animalsk opprinnelse bidrar til barns beinvekst».På grunnlag av de opplysningene som ble framlagt, konkluderte myndigheten at det kunne fastslås en årsakssammenheng mellom det samlede proteininntaket og påstått virkning. En helsepåstand som gjenspeiler denne konklusjonen, bør anses å oppfylle kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), og den bør oppføres på fellesskapslisten over tillatte påstander.Ved artikkel 16 nr. 4 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det fastsatt at en positiv uttalelse om godkjenning av en helsepåstand skal inneholde bestemte opplysninger. Disse opplysningene skal derfor angis i vedlegg I til denne forordning for de sju godkjente påstandene, og de bør eventuelt omfatte en endret formulering av påstanden, særlige vilkår for bruk av påstanden og, når det er relevant, vilkår eller begrensninger for bruk av næringsmiddelet og/eller en tilleggsangivelse eller -advarsel i samsvar med bestemmelsene fastsatt i forordning [(EF) nr. 1924/2006](eu/32006r1924*), og i tråd med myndighetens uttalelser.Ett av målene med forordning [(EF) nr. 1924/2006](eu/32006r1924*) er å sikre at helsepåstander er sannferdige, tydelige, pålitelige og nyttige for forbrukeren, og at det tas hensyn til formuleringen og presentasjonen av dem. Når påstandenes formulering har samme betydning for forbrukerne som en godkjent helsepåstand som angitt i vedlegg I, idet de viser den samme sammenhengen mellom en næringsmiddelgruppe, et næringsmiddel eller en bestanddel av dette og helse, bør de også omfattes av de samme vilkårene for bruk som angis der.Etter at det var mottatt en søknad fra BIO SERAE, innlevert i samsvar med artikkel 14 nr. 1 bokstav a) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble myndigheten bedt om å avgi en uttalelse om en helsepåstand om virkningene av NeOpuntia® på blodlipidparametrer som knyttes til risikoen for hjerte og -karsykdommer, særlig HDL-kolesterolinnholdet (spørsmål nr. EFSA-Q-2008-214).9 Den helsepåstanden som søkeren foreslo, var formulert slik: «NeOpuntia® bidrar til å forbedre blodlipidparametrer som er knyttet til risikoen for hjerte- og karsykdommer, særlig HDL-kolesterolinnholdet».På grunnlag av de opplysningene som ble framlagt, konkluderte myndigheten at det ikke kunne fastslås en årsakssammenheng mellom inntak av NeOpuntia® og påstått virkning. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter at det var mottatt en søknad fra Valio Ltd., innlevert i samsvar med artikkel 14 nr. 1 bokstav a) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble myndigheten bedt om å avgi en uttalelse om en helsepåstand om virkningene av *Lactobacillus helveticus*-gjærede Evolus® -melkeprodukter med lavt fettinnhold på arteriell stivhet (spørsmål nr. EFSA-Q-2008-218).10 Den helsepåstanden som søkeren foreslo, var formulert slik: «Evolus® reduserer arteriell stivhet».På grunnlag av de opplysningene som ble framlagt, konkluderte myndigheten at det ikke kunne fastslås en årsakssammenheng mellom inntak av *Lactobacillus helveticus*-gjærede Evolus® -melkeprodukter med lavt fettinnhold og påstått virkning. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter at det var mottatt en søknad fra Martek Biosciences Corporation, innlevert i samsvar med artikkel 14 nr. 1 bokstav b) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble myndigheten bedt om å avgi en uttalelse om en helsepåstand om virkningene av dokosaheksaensyre (DHA) og arakidonsyre (ARA) på utviklingen av nervene i hjernen og øynene (spørsmål nr. EFSA-Q-2008-120).11 Den helsepåstanden som søkeren foreslo, var formulert slik: «DHA og ARA støtter utviklingen av nervene i hjernen og øynene».På grunnlag av de opplysningene som ble framlagt, konkluderte myndigheten at det ikke kunne fastslås en årsakssammenheng mellom inntak av næringsmiddelet/bestanddelen (DHA og ARA) fra seksmånedersalderen og påstått virkning. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes. Myndigheten konkluderte også at inntaket av barnemat/morsmelkerstatning tilsatt DHA og ARA fra seks- til tolvmånedersalderen, kunne ha en gunstig virkning på utviklingen av synsevnen hos spedbarn som var blitt ammet til de var fire til seks måneder gamle. Myndigheten konkluderte også at det ikke var framlagt dokumentasjon på virkningene av tilsetning av DHA og ARA fra seksmånedersalderen på utviklingen av synsevnen hos friske spedbarn som ikke var blitt ammet, men som hadde fått morsmelkerstatning uten tilsetning de første levemånedene. En helsepåstand som gjenspeiler denne konklusjonen, vil ikke kunne oppfylle de allmenne prinsippene og kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), særlig artikkel 3, 5 og 6, og bør ikke godkjennes.Etter at det var mottatt en søknad fra National Dairy Council, innlevert i samsvar med artikkel 14 nr. 1 bokstav b) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble myndigheten bedt om å avgi en uttalelse om en helsepåstand om virkningene av meieriprodukter (melk og ost) på tannhelsen (spørsmål nr. EFSA-Q-2008-112).12 Den helsepåstanden som søkeren foreslo, var formulert slik: «Meieriprodukter (melk og ost) fremmer barns tannhelse».På grunnlag av de opplysningene som ble framlagt, konkluderte myndigheten at næringsmiddelgruppen meieriprodukter (melk og ost) som helsepåstand ikke var tilstrekkelig definert, og at det ikke kunne fastslås en årsakssammenheng mellom inntak av melk eller ost og påstått virkning. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter at det var mottatt en søknad fra National Dairy Council, innlevert i samsvar med artikkel 14 nr. 1 bokstav b) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble myndigheten bedt om å avgi en uttalelse om en helsepåstand om virkningene av meieriprodukter på sunn kroppsvekt (spørsmål nr. EFSA-Q-2008-110).13 Den helsepåstanden som søkeren foreslo, var formulert slik: «Tre porsjoner meieriprodukter hver dag kan som en del av et allsidig kosthold bidra til å fremme en sunn kroppsvekt hos barn og ungdommer».På grunnlag av de opplysningene som ble framlagt, konkluderte myndigheten at næringsmiddelgruppen meieriprodukter (melk og ost) som helsepåstand ikke var tilstrekkelig definert, og at det ikke kunne fastslås en årsakssammenheng mellom daglig inntak av meieriprodukter (melk, ost og yoghurt) og påstått virkning. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter at det var mottatt en søknad fra enzyme.pro.ag, innlevert i samsvar med artikkel 14 nr. 1 bokstav b) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble myndigheten bedt om å avgi en uttalelse om en helsepåstand om virkningen av regulat® .pro.kid IMMUN på immunsystemet hos barn som er i vekst (spørsmål nr. EFSA-Q-2008-082).14 Den helsepåstanden som søkeren foreslo, var formulert slik: «regulat® .pro.kid IMMUN støtter, stimulerer og modulerer immunsystemet hos barn som er i vekst».På grunnlag av de opplysningene som ble framlagt, konkluderte myndigheten at det næringsmiddelet som helsepåstanden omhandlet, dvs. «regulat® .pro.kid IMMUN», ikke var tilstrekkelig definert, og at det ikke kunne fastslås en årsakssammenheng mellom inntaket av regulat® .pro.kid IMMUN og påstått virkning. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter at det var mottatt en søknad fra enzyme.pro.ag, innlevert i samsvar med artikkel 14 nr. 1 bokstav b) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble myndigheten bedt om å avgi en uttalelse om en helsepåstand om virkningen av regulat® .pro.kid BRAIN på barns psykiske og kognitive utvikling (spørsmål nr. EFSA-Q-2008-083).15 Den helsepåstanden som søkeren foreslo, var formulert slik: «regulat® .pro.kid BRAIN bidrar til psykisk og kognitiv utvikling hos barn».På grunnlag av de opplysningene som ble framlagt, konkluderte myndigheten at det næringsmiddelet som helsepåstanden omhandlet, dvs. «regulat® .pro.kid BRAIN», ikke var tilstrekkelig definert, og at det ikke kunne fastslås en årsakssammenheng mellom inntaket av regulat® .pro.kid BRAIN og påstått virkning. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter at det var mottatt to søknader fra Pharma Consulting & Industries, innlevert i samsvar med artikkel 14 nr. 1 bokstav b) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble myndigheten bedt om å avgi en uttalelse om en helsepåstand om den beroligende virkningen av I omega kids® /Pufan 3 kids® (spørsmål nr. EFSA-Q-2008-091 og spørsmål nr. EFSA-Q-2008-096).16 Den helsepåstanden som søkeren foreslo, var formulert slik: «Beroligende».På grunnlag av de opplysningene som ble framlagt, konkluderte myndigheten at det ikke kunne fastslås en årsakssammenheng mellom inntak av DHA og eikosapentaensyre (EPA) og påstått virkning. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter at det var mottatt to søknader fra Pharma Consulting & Industries, innlevert i samsvar med artikkel 14 nr. 1 bokstav b) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble myndigheten bedt om å avgi en uttalelse om en helsepåstand om den beroligende virkningen av I omega kids® /Pufan 3 kids® (spørsmål nr. EFSA-Q-2008-092 og spørsmål nr. EFSA-Q-2008-097).17 Den helsepåstanden som søkeren foreslo, var formulert slik: «Virker beroligende og gir rom for en positiv utvikling hos barnet».På grunnlag av de opplysningene som ble framlagt, konkluderte myndigheten at det ikke kunne fastslås en årsakssammenheng mellom inntak av DHA og EPA og påstått virkning. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter at det var mottatt to søknader fra Pharma Consulting & Industries, innlevert i samsvar med artikkel 14 nr. 1 bokstav b) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble myndigheten bedt om å avgi en uttalelse om en helsepåstand om virkningen av I omega kids® /Pufan 3 kids® på synet (spørsmål nr. EFSA-Q-2008-095 og spørsmål nr. EFSA-Q-2008-100).18 Den helsepåstanden som søkeren foreslo, var formulert slik: «Bidrar til bedre syn».På grunnlag av de opplysningene som ble framlagt, konkluderte myndigheten at det ikke kunne fastslås en årsakssammenheng mellom inntak av DHA og EPA og påstått virkning. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter at det var mottatt to søknader fra Pharma Consulting & Industries, innlevert i samsvar med artikkel 14 nr. 1 bokstav b) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble myndigheten bedt om å avgi en uttalelse om en helsepåstand om virkningen av I omega kids® /Pufan 3 kids® på den psykiske utviklingen (spørsmål nr. EFSA-Q-2008-098 og spørsmål nr. EFSA-Q-2008-104).19 Den helsepåstanden som søkeren foreslo, var formulert slik: «Bidrar til å fremme den psykiske utviklingen».På grunnlag av de opplysningene som ble framlagt, konkluderte myndigheten at det ikke kunne fastslås en årsakssammenheng mellom inntak av DHA og EPA og påstått virkning. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter at det var mottatt to søknader fra Pharma Consulting & Industries, innlevert i samsvar med artikkel 14 nr. 1 bokstav b) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble myndigheten bedt om å avgi en uttalelse om en helsepåstand om virkningen av I omega kids® /Pufan 3 kids® på konsentrasjonsevnen (spørsmål nr. EFSA-Q-2008-094 og spørsmål nr. EFSA-Q-2008-099).20 Den helsepåstanden som søkeren foreslo, var formulert slik: «Bidrar til å øke konsentrasjonsevnen».På grunnlag av de opplysningene som ble framlagt, konkluderte myndigheten at det ikke kunne fastslås en årsakssammenheng mellom inntak av DHA og EPA og påstått virkning. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter at det var mottatt to søknader fra Pharma Consulting & Industries, innlevert i samsvar med artikkel 14 nr. 1 bokstav b) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble myndigheten bedt om å avgi en uttalelse om en helsepåstand om virkningen av I omega kids® /Pufan 3 kids® på tankeevnen (spørsmål nr. EFSA-Q-2008-093 og spørsmål nr. EFSA-Q-2008-101).21 Den helsepåstanden som søkeren foreslo, var formulert slik: «Bidrar til å øke tankeevnen».På grunnlag av de opplysningene som ble framlagt, konkluderte myndigheten at det ikke kunne fastslås en årsakssammenheng mellom inntak av DHA og EPA og påstått virkning. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter at det var mottatt to søknader fra Pharma Consulting & Industries, innlevert i samsvar med artikkel 14 nr. 1 bokstav b) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble myndigheten bedt om å avgi en uttalelse om en helsepåstand om virkningen av I omega kids® /Pufan 3 kids® på læringsevnen (spørsmål nr. EFSA-Q-2008-102 og spørsmål nr. EFSA-Q-2008-103).22 Den helsepåstanden som søkeren foreslo, var formulert slik: «Bidrar til å øke læringsevnen».På grunnlag av de opplysningene som ble framlagt, konkluderte myndigheten at det ikke kunne fastslås en årsakssammenheng mellom inntak av DHA og EPA og påstått virkning. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.De kommentarene som søkere og enhver annen person framsetter for Kommisjonen i samsvar med artikkel 16 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), er tatt i betraktning ved fastsettelse av de tiltakene som er fastsatt i denne forordning.I samsvar med artikkel 28 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) kan helsepåstander som nevnt i artikkel 14 nr. 1 bokstav b) i nevnte forordning, og som ikke er godkjent ved denne forordning, fortsatt få anvendelse i seks måneder etter at det er gjort et vedtak i henhold til artikkel 17 nr. 3 i forordning [(EF) nr. 1924/2006](eu/32006r1924*). For søknader som ikke er innlevert innen 19. januar 2008, er imidlertid kravet fastsatt i artikkel 28 nr. 6 bokstav b) ikke oppfylt, og den overgangsperioden som er fastsatt i nevnte artikkel, får ikke anvendelse. Det bør derfor fastsettes en overgangsperiode på seks måneder for at driftsansvarlige for næringsmiddelforetak skal kunne tilpasse seg de kravene som er fastsatt i denne forordning.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for næringsmiddelkjeden og dyrehelsen –
+
+1 EUT L 404 av 30.12.2006, s. 9.
+
+2 EFSA Journal (2008) 781, s. 1–2
+
+3 EFSA Journal (2008) 825, s. 1–13.
+
+4 EFSA Journal (2008) 783, s. 1–10.
+
+5 EFSA Journal (2008) 827, s. 1–2.
+
+6 EFSA Journal (2008) 828, s. 1–13.
+
+7 EFSA Journal (2008) 826, s. 1–11.
+
+8 EFSA Journal (2008) 858, s. 1–2.
+
+9 EFSA Journal (2008) 788, s. 1–2.
+
+10 EFSA Journal (2008) 824, s. 1–2.
+
+11 EFSA Journal (2008) 794, s. 1–2.
+
+12 EFSA Journal (2008) 787, s. 1–2.
+
+13 EFSA Journal (2008) 786, s. 1–10.
+
+14 EFSA Journal (2008) 782, s. 1–2.
+
+15 EFSA Journal (2008) 829, s. 1–2.
+
+16 EFSA Journal (2008) 830, s. 1–2.
+
+17 EFSA Journal (2008) 831, s. 1–2.
+
+18 EFSA Journal (2008) 832, s. 1–8.
+
+19 EFSA Journal (2008) 847, s. 1–10.
+
+20 EFSA Journal (2008) 846, s. 1–10.
+
+21 EFSA Journal (2008) 845, s. 1–2.
+
+22 EFSA Journal (2008) 848, s. 1–10.
+
+VEDTATT DENNE FORORDNING:
 
 ### Artikkel 1
 
@@ -616,11 +863,46 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel, 21. oktober 2009.
 
+|  |  |
+| --- | --- |
+|  | For Kommisjonen |
+|  |  |
+|  | Androulla VASSILIOU |
+|  |  |
+|  | Medlem av Kommisjonen |
+
 ### VEDLEGG I
 TILLATTE HELSEPÅSTANDER
 
+| *Søknad – Relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Søker – Adresse* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe* | *Påstand* | *Vilkår for bruk av påstanden* | *Vilkår og/eller begrensninger for bruk av næringsmiddelet og/eller en tilleggsangivelse eller -advarsel* | *EFSA-uttalelse* |
+| --- | --- | --- | --- | --- | --- | --- |
+| Artikkel 14 nr. 1 bokstav a) – helsepåstand om redusert sykdomsrisiko | Unilever PLC, Port Sunlight, Wirral, Merseyside, CH62 4ZD, Det forente kongerike og Unilever NV, Weena 455, Rotterdam, 3013 AL, Nederland | Plantesteroler: Steroler som er utvunnet fra planter, frie eller forestret med fettsyrer av næringsmiddelkvalitet | Plantesteroler har vist seg å senke/redusere kolesterolinnholdet i blodet. Et høyt kolesterolinnhold er en risikofaktor for utviklingen av koronar hjertesykdom | ►**M2** Forbrukeren informeres om at den gunstige virkningen oppnås ved et daglig inntak på 1,5–3 g fytosteroler. Det kan vises til omfanget av virkningen bare for næringsmidler i følgende kategorier: smørbare fettstoffer, meieriprodukter, majones og salatdressinger. Når det vises til omfanget av virkningen, skal forbrukeren opplyses om området «7 til 10 %» for næringsmidler som gir et daglig inntak på 1,5–2,4 gram fytosteroler, eller området «10 til 12,5 %» for næringsmidler som gir et daglig inntak på 2,5–3 gram fytosteroler, og at det tar «2 til 3 uker» før virkningen oppnås. ◄**M2** |  | ►**M2** Q-2008-085 Q-2009-00530 og Q-2009-00718 Q-2011-01241 ◄**M2** |
+| Artikkel 14 nr. 1 bokstav a) – helsepåstand om redusert sykdomsrisiko | McNeil Nutritionals, 1 Landis und Gyr Strasse, 6300 Zug, Sveits | Plantestanolestere | Plantestanolestere har vist seg å senke/redusere kolesterolinnholdet i blodet. Et høyt kolesterolinnhold er en risikofaktor for utviklingen av koronar hjertesykdom | ►**M2** Forbrukeren skal informeres om at den gunstige virkningen oppnås ved et daglig inntak på 1,5–3 g fytostanoler. Det kan vises til omfanget av virkningen bare for næringsmidler i følgende kategorier: smørbare fettstoffer, meieriprodukter, majones og salatdressinger. Når det vises til omfanget av virkningen, skal forbrukeren opplyses om området «7 til 10 %» for næringsmidler som gir et daglig inntak på 1,5–2,4 gram fytostanoler, eller «10 til 12,5 %» for næringsmidler som gir et daglig inntak på 2,5–3 gram fytostanoler, og at det tar «2 til 3 uker» før virkningen oppnås ◄**M2** |  | ►**M2** Q-2008-118 Q-2009-00530 og Q-2009-00718 Q-2011-00851 Q-2011-01241 ◄**M2** |
+| Artikkel 14 nr. 1 bokstav b) – helsepåstand om barns utvikling og helse | Unilever PLC, Port Sunlight, Wirral, Merseyside, CH62 4ZD, Det forente kongerike og Unilever NV, Weena 455, Rotterdam, 3013 AL, Nederland | α-linolensyre og linolsyre | Essensielle fettsyrer er nødvendige for barnets normale vekst og utvikling | ► **M1** Forbrukeren skal opplyses om at den gunstige virkningen oppnås ved et daglig innhold på 2 g α-linolensyre (ALA) og et daglig inntak på 10 g linolsyre (LA) ◄ **M1** |  | Q-2008-079 |
+| Artikkel 14 nr. 1 bokstav b) – helsepåstand om barns utvikling og helse | Association de la Transformation Laitière Française (ATLA), 42, rue du Châteaudun, 75314 Paris Cedex 09, Frankrike | Kalsium | Kalsium er nødvendig for at barns bein skal vokse og utvikles normalt | Påstanden kan brukes bare på næringsmidler som minst er en kalsiumkilde i henhold til det som er angitt i påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL], som oppført i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*) |  | Q-2008-322 |
+| Artikkel 14 nr. 1 bokstav b) – helsepåstand om barns utvikling og helse | Association de la Transformation Laitière Française (ATLA), 42, rue du Châteaudun, 75314 Paris Cedex 09, Frankrike | Protein | Protein er nødvendig for at barns bein skal vokse og utvikles normalt | Påstanden kan brukes bare på næringsmidler som minst er en proteinkilde i henhold til det som er angitt i påstanden PROTEINKILDE, som oppført i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*) |  | Q-2008-326 |
+| Artikkel 14 nr. 1 bokstav b) – helsepåstand om barns utvikling og helse | Yoplait Dairy Crest Ltd., Claygate House, Claygate, Surrey, KT10 9PN, Det forente kongerike | Kalsium og vitamin D | Kalsium og vitamin D er nødvendig for at barns bein skal vokse og utvikles normalt | Påstanden kan brukes bare på næringsmidler som minst er en kilde til kalsium og vitamin D i henhold til det som er angitt i påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL], som oppført i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*) |  | Q-2008-116 |
+| Artikkel 14 nr. 1 bokstav b) – helsepåstand om barns utvikling og helse | Association de la Transformation Laitière Française (ATLA), 42, rue du Châteaudun, 75314 Paris Cedex 09, Frankrike | Vitamin D | Vitamin D er nødvendig for at barns bein skal vokse og utvikles normalt | Påstanden kan brukes bare på næringsmidler som minst er en kilde til vitamin D i henhold til det som er angitt i påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL], som oppført i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*) |  | Q-2008-323 |
+
 ### VEDLEGG II
 AVSLÅTTE HELSEPÅSTANDER
+
+| *Søknad – Relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe* | *Påstand* | *EFSA-uttalelse* |
+| --- | --- | --- | --- |
+| Artikkel 14 nr. 1 bokstav a) – helsepåstand om redusert sykdomsrisiko | NeOpuntia® | NeOpuntia® bidrar til å forbedre blodlipidparametrer som er knyttet til risikoen for hjerte- og karsykdommer, særlig HDL-kolesterolinnholdet | EFSA-Q-2008-214 |
+| Artikkel 14 nr. 1 bokstav a) – helsepåstand om redusert sykdomsrisiko | *Lactobacillus helveticus*-gjærede Evolus®-melkeprodukter med lavt fettinnhold | Evolus® reduserer arteriell stivhet | EFSA-Q-2008-218 |
+| Artikkel 14 nr. 1 bokstav b) – helsepåstand om barns utvikling og helse | regulat® .pro.kid IMMUN | regulat® .pro.kid IMMUN støtter, stimulerer og modulerer immunsystemet hos barn som er i vekst | EFSA-Q-2008-082 |
+| Artikkel 14 nr. 1 bokstav b) – helsepåstand om barns utvikling og helse | Meieriprodukter | Tre porsjoner meieriprodukter hver dag kan som en del av et allsidig kosthold bidra til å fremme en sunn kroppsvekt hos barn og ungdommer | EFSA-Q-2008-110 |
+| Artikkel 14 nr. 1 bokstav b) – helsepåstand om barns utvikling og helse | Meieriprodukter | Meieriprodukter (melk og ost) fremmer barns tannhelse | EFSA-Q-2008-112 |
+| Artikkel 14 nr. 1 bokstav b) – helsepåstand om barns utvikling og helse | Dokosaheksaensyre (DHA) og arakidonsyre (ARA) | DHA og ARA støtter utviklingen av nervene i hjernen og øynene | EFSA-Q-2008-120 |
+| Artikkel 14 nr. 1 bokstav b) – helsepåstand om barns utvikling og helse | regulat®.pro.kid BRAIN | regulat®.pro.kid BRAIN bidrar til psykisk og kognitiv utvikling hos barn | EFSA-Q-2008-083 |
+| Artikkel 14 nr. 1 bokstav b) – helsepåstand om barns utvikling og helse | Dokosaheksaensyre (DHA) og eikosapentaensyre (EPA) | Beroligende | EFSA-Q-2008-091 og<br>EFSA-Q-2008-096 |
+| Artikkel 14 nr. 1 bokstav b) – helsepåstand om barns utvikling og helse | Dokosaheksaensyre (DHA) og eikosapentaensyre (EPA) | Virker beroligende og gir rom for en positiv utvikling hos barnet | EFSA-Q-2008-092 og<br>EFSA-Q-2008-097 |
+| Artikkel 14 nr. 1 bokstav b) – helsepåstand om barns utvikling og helse | Dokosaheksaensyre (DHA) og eikosapentaensyre (EPA) | Bidrar til bedre syn | EFSA-Q-2008-095 og<br>EFSA-Q-2008-100 |
+| Artikkel 14 nr. 1 bokstav b) – helsepåstand om barns utvikling og helse | Dokosaheksaensyre (DHA) og eikosapentaensyre (EPA) | Bidrar til å fremme den psykiske utviklingen | EFSA-Q-2008-098 og<br>EFSA-Q-2008-104 |
+| Artikkel 14 nr. 1 bokstav b) – helsepåstand om barns utvikling og helse | Dokosaheksaensyre (DHA) og eikosapentaensyre (EPA) | Bidrar til å øke konsentrasjonsevnen | EFSA-Q-2008-094 og<br>EFSA-Q-2008-099 |
+| Artikkel 14 nr. 1 bokstav b) – helsepåstand om barns utvikling og helse | Dokosaheksaensyre (DHA) og eikosapentaensyre (EPA) | Bidrar til å øke tankeevnen | EFSA-Q-2008-093 og<br>EFSA-Q-2008-101 |
+| Artikkel 14 nr. 1 bokstav b) – helsepåstand om barns utvikling og helse | Dokosaheksaensyre (DHA) og eikosapentaensyre (EPA) | Bidrar til å øke læringsevnen | EFSA-Q-2008-102 og<br>EFSA-Q-2008-103 |
 
 ### Forordning (EF) nr. 984/2009
 
@@ -632,11 +914,21 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EF) nr. 984/
 av 21. oktober 2009
 om avslag på godkjenning av visse andre helsepåstander om næringsmidler enn dem som viser til redusert sykdomsrisiko og barns utvikling og helse
 
+KOMMISJONEN FOR DE EUROPEISKE FELLESSKAP HAR –
+
 under henvisning til traktaten om opprettelse av Det europeiske fellesskap,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler,1 særlig artikkel 18 nr. 5, og
 
 ut fra følgende betraktninger:I henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924*) er helsepåstander om næringsmidler forbudt med mindre de er godkjent av Kommisjonen i samsvar med nevnte forordning og oppført på en liste over tillatte påstander.Ved forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det også fastsatt at driftsansvarlige for næringsmiddelforetak kan sende søknader om godkjenning av helsepåstander til vedkommende nasjonale myndighet i en medlemsstat. Vedkommende nasjonale myndighet skal videresende søknader til Den europeiske myndighet for næringsmiddeltrygghet (EFSA), heretter kalt «Myndigheten».Etter at søknaden er mottatt, skal Myndigheten straks underrette de øvrige medlemsstatene og Kommisjonen og avgi en uttalelse om den aktuelle helsepåstanden.Kommisjonen skal ta hensyn til uttalelsen fra Myndigheten når den treffer beslutning om godkjenning av helsepåstander.Etter en søknad fra Pierre Fabre Dermo Cosmétique som ble inngitt 14. april 2008 i henhold til artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om virkningene av Elancyl Global Silhouette® på reguleringen av kroppssammensetningen hos personer med lett til moderat overvekt (spørsmål nr. EFSA-Q-2008-285).2 Søkerens foreslåtte påstand hadde følgende ordlyd: «Klinisk bevist virkning etter 14 dager. Etter 28 dager er hele din figur synlig omformet og forbedret».Kommisjonen og medlemsstatene mottok 12. august 2008 den vitenskapelige uttalelsen fra Myndigheten, der den konkluderte med at det på grunnlag av de framlagte opplysningene ikke kunne påvises noen årsakssammenheng mellom bruk av Elancyl Global Silhouette® i de mengder og over det tidsrom som søkeren foreslo, og den påståtte virkningen. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den derfor ikke godkjennes.Etter en søknad fra Valio Ltd. som ble inngitt 8. juli 2008 i henhold til artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om virkningene av LGG® MAX på plager i mage-tarm-kanalen (spørsmål nr. EFSA-Q-2008-444).3 Søkerens foreslåtte påstand hadde følgende ordlyd: «LGG® MAX bidrar til å lindre plager i mage-tarm-kanalen».Kommisjonen og medlemsstatene mottok 30. august 2008 den vitenskapelige uttalelsen fra Myndigheten, der den konkluderte med at det på grunnlag av de framlagte opplysningene ikke kunne påvises noen årsakssammenheng mellom bruk av LGG® MAX (blanding A eller blanding B) og den påståtte virkningen. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den derfor ikke godkjennes.De kommentarene som Kommisjonen har mottatt fra søkerne og andre personer i samsvar med artikkel 16 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), er tatt i betraktning ved fastsettelsen av tiltakene i denne forordning.Helsepåstanden «LGG® MAX bidrar til å lindre plager i mage-tarm-kanalen» er en helsepåstand som omhandlet i artikkel 13 nr. 1 bokstav a) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), og omfattes derfor av overgangstiltaket fastsatt i artikkel 28 nr. 5 i samme forordning. Ettersom Myndigheten konkluderte med at det ikke er påvist noen årsakssammenheng mellom bruk av LGG® MAX og den påståtte virkningen, er påstanden ikke i samsvar med forordning [(EF) nr. 1924/2006](eu/32006r1924*), og overgangsperioden fastsatt i artikkel 28 nr. 5 får derfor ikke anvendelse. Det bør fastsettes en overgangsperiode på seks måneder for å gi driftsansvarlige for næringsmiddelforetak mulighet til å tilpasse seg kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*). Helsepåstanden «Klinisk bevist virkning etter 14 dager. Etter 28 dager er hele din figur synlig omformet og forbedret» er en helsepåstand som omhandlet i artikkel 13 nr. 1 bokstav c) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), og omfattes derfor av overgangstiltaket fastsatt i artikkel 28 nr. 6 i samme forordning. Ettersom søknaden ikke ble inngitt innen 19. januar 2008, er imidlertid kravet fastsatt i artikkel 28 nr. 6 bokstav b) ikke oppfylt, og overgangsperioden fastsatt i samme artikkel får ikke anvendelse. Det bør derfor fastsettes en overgangsperiode på seks måneder for å gi driftsansvarlige for næringsmiddelforetak mulighet til å tilpasse seg kravene i denne forordning.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for næringsmiddelkjeden og dyrehelsen –
+
+1 EUT L 404 av 30.12.2006, s. 9.
+
+2 *The EFSA Journal* (2008) 789, s. 1–2.
+
+3 *The EFSA Journal* (2008) 853, s. 1–2.
+
+VEDTATT DENNE FORORDNING:
 
 ### Artikkel 1
 
@@ -654,8 +946,21 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel, 21. oktober 2009.
 
+|  |  |
+| --- | --- |
+|  | For Kommisjonen |
+|  |  |
+|  | Androulla VASSILIOU |
+|  |  |
+|  | Medlem av Kommisjonen |
+
 ### VEDLEGG
 AVSLÅTTE HELSEPÅSTANDER
+
+| *Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori* | *Påstand* | *EFSA-uttalelsens referansenummer* |
+| --- | --- | --- | --- |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data som er underlagt eiendomsrett | Elancyl Global Silhouette® | Klinisk bevist virkning etter 14 dager. Etter 28 dager er hele din figur synlig omformet og forbedret. | EFSA-Q-2008-285 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data som er underlagt eiendomsrett | LGG® MAX flerartsprobiotikum | LGG® MAX bidrar til å lindre plager i mage-tarm-kanalen. | EFSA-Q-2008-444 |
 
 ### Forordning (EF) nr. 1024/2009
 
@@ -667,11 +972,49 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EF) nr. 1024
 av 29. oktober 2009
 om godkjenning og avslag på godkjenning av visse helsepåstander om næringsmidler som viser til en redusert sykdomsrisiko og barns utvikling og helse
 
+KOMMISJONEN FOR DE EUROPEISKE FELLESSKAP HAR –
+
 under henvisning til traktaten om opprettelse av Det europeiske fellesskap,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler,1 særlig artikkel 17 nr. 3, og
 
 ut fra følgende betraktninger:I henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924*) er helsepåstander om næringsmidler forbudt med mindre de er godkjent av Kommisjonen i samsvar med nevnte forordning, og oppført på listen over tillatte påstander.Ved forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det også fastsatt at driftsansvarlige for næringsmiddelforetak kan innlevere søknader om godkjenning av helsepåstander til vedkommende nasjonale myndighet i en medlemsstat. Vedkommende nasjonale myndighet skal videresende gyldige søknader til Den europeiske myndighet for næringsmiddeltrygghet (EFSA), heretter kalt «Myndigheten».Etter å ha mottatt en søknad skal Myndigheten umiddelbart underrette de øvrige medlemsstatene og Kommisjonen om søknaden og avgi en uttalelse om den aktuelle helsepåstanden.Kommisjonen skal avgjøre om helsepåstandene skal godkjennes, idet det tas hensyn til Myndighetens uttalelse.14. november 2008 mottok Kommisjonen og medlemsstatene to uttalelser om søknader om godkjenning av helsepåstander fra Myndigheten. 10. desember 2008 mottok Kommisjonen og medlemsstatene fem uttalelser om søknader om godkjenning av helsepåstander fra Myndigheten. 19. desember 2008 mottok Kommisjonen og medlemsstatene ni uttalelser om søknader om godkjenning av helsepåstander fra Myndigheten. 15. januar 2009 mottok Kommisjonen og medlemsstatene én uttalelse om en søknad om godkjenning av en helsepåstand fra Myndigheten. I mellomtiden var én søknad om godkjenning av en helsepåstand gjort til gjenstand for en tidligere avgjørelse.Én uttalelse gjaldt en søknad om påstand om redusert sykdomsrisiko som nevnt i artikkel 14 nr. 1 bokstav a) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), og 15 uttalelser gjaldt søknader om helsepåstander som viser til barns utvikling og helse, som nevnt i artikkel 14 nr. 1 bokstav b) i forordning [(EF) nr. 1924/2006](eu/32006r1924*).Etter å ha mottatt en søknad fra Leaf Int og Leaf Holland og Leaf Suomi Oy, innlevert i samsvar med artikkel 14 nr. 1 bokstav a) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), skulle Myndigheten avgi en uttalelse om en helsepåstand om virkningene av xylitol-tyggegummi/-pastiller på risikoen for karies (spørsmål nr. EFSA-Q-2008-321).2 Den helsepåstanden som søkeren foreslo, hadde følgende formulering: «Xylitol-tyggegummi/-pastiller reduserer risikoen for karies».På grunnlag av opplysninger som er framlagt, konkluderte Myndigheten at det kunne fastslås en årsakssammenheng mellom forbruk av tyggegummi tilsatt 100 % av søtstoffet xylitol, og påstått virkning. Myndigheten konkluderte likevel at det ikke kunne fastslås en årsakssammenheng mellom forbruk av pastiller tilsatt minst 56 % av søtstoffet xylitol, og påstått virkning. Med forbehold om at formuleringen endres bør påstanden anses å oppfylle kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*) og særlig artikkel 14 nr. 1 bokstav a), og den bør oppføres på fellesskapslisten over tillatte påstander.Etter å ha mottatt en søknad fra Danone SA, innlevert i samsvar med artikkel 14 nr. 1 bokstav b) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), skulle Myndigheten avgi en uttalelse om en helsepåstand om virkningene av frisk ost med et vesentlig innhold av kalsium, vitamin D, fosfor og protein på bentilvekst (spørsmål nr. EFSA-Q-2008-217).3 Den helsepåstanden som søkeren foreslo, hadde følgende formulering: «Frisk ost inneholder kalsium, vitamin D, fosfor og protein. Dette er næringsstoffer som bidrar til en sunn bentilvekst».På grunnlag av opplysninger som er framlagt, konkluderte Myndigheten at det kunne fastslås en årsakssammenheng mellom inntak av kalsium, vitamin D, fosfor og protein og påstått virkning. Med hensyn til at helsepåstanden om samme påståtte virkning er godkjent for kalsium, vitamin D og protein, bør påstanden om fosfor, forutsatt at dens formulering endres, anses å oppfylle kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), og den bør oppføres på fellesskapslisten over tillatte påstander.Ved artikkel 16 nr. 4 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det fastsatt at en positiv uttalelse om godkjenning av en helsepåstand skal inneholde bestemte opplysninger. Disse opplysningene skal derfor angis i vedlegg I til denne forordning for de to godkjente påstandene, og de bør eventuelt omfatte en endret formulering av påstanden, særlige vilkår for bruk av påstanden og, når det er relevant, vilkår eller begrensninger for bruk av næringsmiddelet og/eller en tilleggsangivelse eller -advarsel i samsvar med bestemmelsene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), og i tråd med Myndighetens uttalelser.Ett av målene med forordning [(EF) nr. 1924/2006](eu/32006r1924*) er å sikre at helsepåstander er sannferdige, tydelige, pålitelige og nyttige for forbrukeren, og at det tas hensyn til formuleringen og presentasjonen av dem. Når formuleringen har samme betydning for forbrukerne som en godkjent helsepåstand som angitt i vedlegg I til nevnte forordning, idet de viser den samme sammenhengen mellom en næringsmiddelgruppe, et næringsmiddel eller en bestanddel av dette og helse, bør de også være omfattet av de samme vilkårene for bruk som angis der.Etter å ha mottatt en søknad fra Institute of Biotechnology, Sera and Vaccines Biomed SA, innlevert i samsvar med artikkel 14 nr. 1 bokstav b) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), skulle Myndigheten avgi en uttalelse om en helsepåstand om virkningene av Lactoral på fordøyelseskanalens normale funksjon (spørsmål nr. EFSA-Q-2008-269).4 Den helsepåstanden som søkeren foreslo, hadde følgende formulering: «Lactoral bidrar til å gjenopprette fordøyelseskanalens normale funksjon ved forstyrrelser i dens mikroflora (for eksempel ved løs avføring, etter inntak av antibiotika eller ved tarmforstyrrelser forårsaket av sykdomsframkallende tarmbakterier)».På grunnlag av opplysninger som er framlagt, konkluderte Myndigheten at bestanddelene i Lactoral ikke er tilstrekkelig definert, og at det ikke var fastslått en årsakssammenheng mellom inntak av Lactoral og påstått virkning. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*) bør den ikke godkjennes.Etter å ha mottatt en søknad fra Institute of Biotechnology, Sera and Vaccines Biomed SA, innlevert i samsvar med artikkel 14 nr. 1 bokstav b) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), skulle Myndigheten avgi en uttalelse om en helsepåstand om virkningene av Lactoral som et middel for å forbedre immunforsvaret generelt (spørsmål nr. EFSA-Q-2008-477).5 Den helsepåstanden som søkeren foreslo, hadde følgende formulering: «Lactoral anbefales som middel for å forbedre immunforsvaret generelt ved at den mikrobiologiske balansen opprettholdes».På grunnlag av opplysninger som er framlagt, konkluderte Myndigheten at bestanddelene i Lactoral ikke er tilstrekkelig definert, og at det ikke var fastslått en årsakssammenheng mellom inntak av Lactoral og påstått virkning. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*) bør den ikke godkjennes.Etter å ha mottatt en søknad fra Institute of Biotechnology, Sera and Vaccines Biomed SA, innlevert i samsvar med artikkel 14 nr. 1 bokstav b) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), skulle Myndigheten avgi en uttalelse om en helsepåstand om virkningene av Lactoral på oppbyggingen av den naturlige tarmbarrieren (spørsmål nr. EFSA-Q-2008-478).6 Den helsepåstanden som søkeren foreslo, hadde følgende formulering: «Lactoral bidrar til å beskytte fordøyelsessystemet mot sykdomsframkallende tarmbakterier takket være sine sterke antagonistiske egenskaper og bidrar til å bygge opp den naturlige tarmbarrieren».På grunnlag av opplysninger som er framlagt, konkluderte Myndigheten at bestanddelene i Lactoral ikke er tilstrekkelig definert, og at det ikke var fastslått en årsakssammenheng mellom inntak av Lactoral og påstått virkning. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*) bør den ikke godkjennes.Etter å ha mottatt en søknad fra Institute of Biotechnology, Sera and Vaccines Biomed SA, innlevert i samsvar med artikkel 14 nr. 1 bokstav b) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), skulle Myndigheten avgi en uttalelse om en helsepåstand om virkningene av Lactoral for å opprettholde den naturlige mikrofloraen i tarmen under reiser (spørsmål nr. EFSA-Q-2008-479).7 Den helsepåstanden som søkeren foreslo, hadde følgende formulering: «Lactoral bidrar til å opprettholde den naturlige mikrofloraen i tarmen under reiser, ved endring av klimasoner eller ved endret kost, særlig under dårlige hygieneforhold».På grunnlag av opplysninger som er framlagt, konkluderte Myndigheten at bestanddelene i Lactoral ikke er tilstrekkelig definert, og at det ikke var fastslått en årsakssammenheng mellom inntak av Lactoral og påstått virkning. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*) bør den ikke godkjennes.Etter å ha mottatt en søknad fra Institute of Biotechnology, Sera and Vaccines Biomed SA, innlevert i samsvar med artikkel 14 nr. 1 bokstav b) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), skulle Myndigheten avgi en uttalelse om en helsepåstand om virkningene av Lactoral på levende probiotiske bakterier (spørsmål nr. EFSA-Q-2008-480).8 Den helsepåstanden som søkeren foreslo, hadde følgende formulering: «Lactoral inneholder levende probiotiske bakterier som har god evne til å kolonisere tarmkanalen, og som er isolert fra friske spedbarn som ammes».På grunnlag av opplysninger som er framlagt, konkluderte Myndigheten at bestanddelene i Lactoral ikke er tilstrekkelig definert, og at påstått virkning ikke var dokumentert. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*) bør den ikke godkjennes.Etter å ha mottatt en søknad fra Potters Ltd., innlevert i samsvar med artikkel 14 nr. 1 bokstav b) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), skulle Myndigheten avgi en uttalelse om en helsepåstand om virkningene av Mumomega® på utviklingen av sentralnervesystemet (spørsmål nr. EFSA-Q-2008-328).9 Den helsepåstanden som søkeren foreslo, hadde følgende formulering: «Mumomega® gir næring som fremmer en sunn utvikling av sentralnervesystemet».På grunnlag av opplysninger som er framlagt, konkluderte Myndigheten at det ikke kunne fastslås en årsakssammenheng mellom inntak av næringsmiddelet og påstått virkning. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*) bør den ikke godkjennes.Etter å ha mottatt en søknad fra Efamol Ltd., innlevert i samsvar med artikkel 14 nr. 1 bokstav b) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), skulle Myndigheten avgi en uttalelse om en helsepåstand om virkningene av Efalex® på koordineringsevnen (spørsmål nr. EFSA-Q-2008-121).10 Den helsepåstanden som søkeren foreslo, hadde følgende formulering: «Efalex® kan bidra til å bevare koordineringsevnen».På grunnlag av opplysninger som er framlagt, konkluderte Myndigheten at det ikke kunne fastslås en årsakssammenheng mellom inntak av Efalex® og påstått virkning. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*) bør den ikke godkjennes.Etter å ha mottatt en søknad fra Efamol Ltd., innlevert i samsvar med artikkel 14 nr. 1 bokstav b) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), skulle Myndigheten avgi en uttalelse om en helsepåstand om virkningene av Efalex® på konsentrasjonsevnen (spørsmål nr. EFSA-Q-2008-317).11 Den helsepåstanden som søkeren foreslo, hadde følgende formulering: «Efalex® kan bidra til å bevare konsentrasjonsevnen».På grunnlag av opplysninger som er framlagt, konkluderte Myndigheten at det ikke kunne fastslås en årsakssammenheng mellom inntak av Efalex® og påstått virkning. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*) bør den ikke godkjennes.Etter å ha mottatt en søknad fra Efamol Ltd., innlevert i samsvar med artikkel 14 nr. 1 bokstav b) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), skulle Myndigheten avgi en uttalelse om en helsepåstand om virkningene av Efalex® på hjernens utvikling og funksjon (spørsmål nr. EFSA-Q-2008-318).12 Den helsepåstanden som søkeren foreslo, hadde følgende formulering: «Efalex® kan bidra til å opprettholde og støtte hjernens utvikling og funksjon».På grunnlag av opplysninger som er framlagt, konkluderte Myndigheten at det ikke kunne fastslås en årsakssammenheng mellom inntak av Efalex® og påstått virkning. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*) bør den ikke godkjennes.Etter å ha mottatt en søknad fra Efamol Ltd., innlevert i samsvar med artikkel 14 nr. 1 bokstav b) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), skulle Myndigheten avgi en uttalelse om en helsepåstand om virkningene av Efalex® på innlæringsevnen (spørsmål nr. EFSA-Q-2008-319).13 Den helsepåstanden som søkeren foreslo, hadde følgende formulering: «Efalex® kan bidra til å bevare innlæringsevnen».På grunnlag av opplysninger som er framlagt, konkluderte Myndigheten at det ikke kunne fastslås en årsakssammenheng mellom inntak av Efalex® og påstått virkning. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*) bør den ikke godkjennes.Etter å ha mottatt en søknad fra Efamol Ltd., innlevert i samsvar med artikkel 14 nr. 1 bokstav b) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), skulle Myndigheten avgi en uttalelse om en helsepåstand om virkningene av Efalex® på øyets utvikling og funksjon (spørsmål nr. EFSA-Q-2008-320).14 Den helsepåstanden som søkeren foreslo, hadde følgende formulering: «Efalex® kan bidra til å opprettholde og støtte øyets utvikling og funksjon».På grunnlag av opplysninger som er framlagt, konkluderte Myndigheten at det ikke kunne fastslås en årsakssammenheng mellom inntak av Efalex® og påstått virkning. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*) bør den ikke godkjennes.Etter å ha mottatt en søknad fra Potters Ltd., innlevert i samsvar med artikkel 14 nr. 1 bokstav b) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), skulle Myndigheten avgi en uttalelse om en helsepåstand om virkningene av Eye q baby® på utviklingen av sentralnervesystemet (spørsmål nr. EFSA-Q-2008-119).15 Den helsepåstanden som søkeren foreslo, hadde følgende formulering: «Eye q baby® gir næring som fremmer en sunn utvikling av sentralnervesystemet».På grunnlag av opplysninger som er framlagt, konkluderte Myndigheten at det ikke kunne fastslås en årsakssammenheng mellom inntak av Eye q baby® og påstått virkning. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*) bør den ikke godkjennes.Etter å ha mottatt en søknad fra Potters Ltd., innlevert i samsvar med artikkel 14 nr. 1 bokstav b) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), skulle Myndigheten avgi en uttalelse om en helsepåstand om virkningene av Eye q® på hjernefunksjoner (spørsmål nr. EFSA-Q-2008-329).16 Den helsepåstanden som søkeren foreslo, hadde følgende formulering: «Eye q® gir næring som bidrar til å opprettholde sunne hjernefunksjoner hos barn».På grunnlag av opplysninger som er framlagt, konkluderte Myndigheten at det ikke kunne fastslås en årsakssammenheng mellom inntak av Eye q baby® og påstått virkning. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*) bør den ikke godkjennes.Etter å ha mottatt en søknad fra Potters Ltd., innlevert i samsvar med artikkel 14 nr. 1 bokstav b) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), skulle Myndigheten avgi en uttalelse om en helsepåstand om virkningene av Eye q® på konsentrasjonsevnen (spørsmål nr. EFSA-Q-2008-330).17 Den helsepåstanden som søkeren foreslo, hadde følgende formulering: «Eye q® gir næring som bidrar til å bevare konsentrasjonsevnen hos barn».På grunnlag av opplysninger som er framlagt, konkluderte Myndigheten at det ikke kunne fastslås en årsakssammenheng mellom inntak av Eye q baby® og påstått virkning. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*) bør den ikke godkjennes.De kommentarene som søkere og enhver annen person framsetter for Kommisjonen i samsvar med artikkel 16 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), er tatt i betraktning ved fastsettelse av tiltakene i denne forordning.I samsvar med artikkel 28 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) kan helsepåstander som nevnt i artikkel 14 nr. 1 bokstav b) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), og som ikke er godkjent ved denne forordning, fortsatt få anvendelse i seks måneder etter at det er gjort et vedtak i henhold til artikkel 17 nr. 3 i forordning [(EF) nr. 1924/2006](eu/32006r1924*). For søknader som ikke er innlevert innen 19. januar 2008, er imidlertid kravet i artikkel 28 nr. 6 bokstav b) ikke oppfylt, og den overgangsperioden som er fastsatt i artikkelen, får ikke anvendelse. Det bør derfor fastsettes en overgangsperiode på seks måneder for at driftsansvarlige for næringsmiddelforetak skal kunne tilpasse seg kravene fastsatt i denne forordning.Tiltakene fastsatt i dette direktiv er i samsvar med uttalelsen fra Den faste komité for næringsmiddelkjeden og dyrehelsen –
+
+1 EUT L 404 av 30.12.2006, s. 9.
+
+2 EFSA Journal (2008) 852, s. 1–16.
+
+3 EFSA Journal (2008) 895, s. 1–10.
+
+4 EFSA Journal (2008) 861, s. 1–9.
+
+5 EFSA Journal (2008) 860, s. 1–8.
+
+6 EFSA Journal (2008) 859, s. 1–9.
+
+7 EFSA Journal (2008) 863, s. 1–8.
+
+8 EFSA Journal (2008) 862, s. 1–2.
+
+9 EFSA Journal (2008) 902, s. 1–9.
+
+10 EFSA Journal (2008) 896, s. 1–9.
+
+11 EFSA Journal (2008) 897, s. 1–10.
+
+12 EFSA Journal (2008) 898, s. 1–2.
+
+13 EFSA Journal (2008) 899, s. 1–10.
+
+14 EFSA Journal (2008) 900, s. 1–2.
+
+15 EFSA Journal (2008) 901, s. 1–8.
+
+16 EFSA Journal (2008) 903, s. 1–8.
+
+17 EFSA Journal (2008) 904, s. 1–2.
+
+VEDTATT DENNE FORORDNING:
 
 ### Artikkel 1
 
@@ -693,11 +1036,41 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel, 29. oktober 2009.
 
+|  |  |
+| --- | --- |
+|  | For Kommisjonen |
+|  |  |
+|  | Androulla VASSILIOU |
+|  |  |
+|  | Medlem av Kommisjonen |
+
 ### VEDLEGG I
 TILLATTE HELSEPÅSTANDER
 
+| *Søknad – Relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Søker – Adresse* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe* | *Påstand* | *Vilkår for bruk av påstanden* | *Vilkår og/eller begrensninger for bruk av næringsmiddelet og/eller en tilleggsangivelse eller -advarsel* | *EFSA-uttalelse* |
+| --- | --- | --- | --- | --- | --- | --- |
+| Artikkel 14 nr. 1 bokstav a) – helsepåstand om redusert sykdomsrisiko | Leaf Int og Leaf Holland, Hoevestein 26, 4903 SC Oosterhout NB, Nederland, og Leaf Suomi Oy, PO Box 25, FI-21381 Aura, Finland | Tyggegummi tilsatt 100 % av søtstoffet xylitol | Tyggegummi tilsatt 100 % av søtstoffet xylitol har vist å redusere plakk på tenner. Høyt innhold/nivå av plakk på tenner er en risikofaktor for utvikling av karies hos barn | Forbrukerne informeres om at den gunstige virkningen oppnås ved et forbruk på 2–3 g tyggegummi tilsatt 100 % av søtstoffet xylitol, minst tre ganger per dag etter et måltid |  | Q-2008-321 |
+| Artikkel 14 nr. 1 bokstav b) – helsepåstand om barns utvikling og helse | Danone SA, C/Buenos Aires, 21, 08029 Barcelona, Spania | Fosfor | Fosfor er nødvendig for at barnets benstamme skal vokse og utvikles normalt | Påstanden kan bare brukes på næringsmidler som minst er en kilde til fosfor i henhold til det som er angitt i påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL], som er oppført i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*) |  | Q-2008-217 |
+
 ### VEDLEGG II
 AVSLÅTTE HELSEPÅSTANDER
+
+| *Søknad – Relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe* | *Påstand* | *EFSA-uttalelse* |
+| --- | --- | --- | --- |
+| Artikkel 14 nr. 1 bokstav b) – helsepåstand om barns utvikling og helse | Lactoral | Lactoral bidrar til å gjenopprette fordøyelseskanalens normale funksjon ved forstyrrelser i dens mikroflora (for eksempel ved løs avføring, etter inntak av antibiotika eller ved tarmforstyrrelser forårsaket av sykdomsframkallende tarmbakterier) | EFSA-Q-2008-269 |
+| Artikkel 14 nr. 1 bokstav b) – helsepåstand om barns utvikling og helse | Lactoral | Lactoral anbefales som middel for å forbedre immunforsvaret generelt ved at den mikrobiologiske balansen opprettholdes | EFSA-Q-2008-477 |
+| Artikkel 14 nr. 1 bokstav b) – helsepåstand om barns utvikling og helse | Lactoral | Lactoral bidrar til å beskytte fordøyelsessystemet mot sykdomsframkallende tarmbakterier takket være sine sterke antagonistiske egenskaper og bidrar til å bygge opp den naturlige tarmbarrieren | EFSA-Q-2008-478 |
+| Artikkel 14 nr. 1 bokstav b) – helsepåstand om barns utvikling og helse | Lactoral | Lactoral bidrar til å opprettholde den naturlige mikrofloraen i tarmen under reiser, ved endring av klimasoner eller ved endret kost, særlig under dårlige hygieneforhold | EFSA-Q-2008-479 |
+| Artikkel 14 nr. 1 bokstav b) – helsepåstand om barns utvikling og helse | Lactoral | Lactoral inneholder levende probiotiske bakterier som har god evne til å kolonisere tarmkanalen, og som er isolert fra friske spedbarn som ammes | EFSA-Q-2008-480 |
+| Artikkel 14 nr. 1 bokstav b) – helsepåstand om barns utvikling og helse | Mumomega® | Mumomega® gir næring som fremmer en sunn utvikling av sentralnervesystemet | EFSA-Q-2008-328 |
+| Artikkel 14 nr. 1 bokstav b) – helsepåstand om barns utvikling og helse | Efalex® | Efalex® kan bidra til å bevare koordineringsevnen | EFSA-Q-2008-121 |
+| Artikkel 14 nr. 1 bokstav b) – helsepåstand om barns utvikling og helse | Efalex® | Efalex® kan bidra til å bevare konsentrasjonsevnen | EFSA-Q-2008-317 |
+| Artikkel 14 nr. 1 bokstav b) – helsepåstand om barns utvikling og helse | Efalex® | Efalex® kan bidra til å opprettholde og støtte hjernens utvikling og funksjon | EFSA-Q-2008-318 |
+| Artikkel 14 nr. 1 bokstav b) – helsepåstand om barns utvikling og helse | Efalex® | Efalex® kan bidra til å bevare innlæringsevnen | EFSA-Q-2008-319 |
+| Artikkel 14 nr. 1 bokstav b) – helsepåstand om barns utvikling og helse | Efalex® | Efalex® kan bidra til å opprettholde og støtte øyets utvikling og funksjon | EFSA-Q-2008-320 |
+| Artikkel 14 nr. 1 bokstav b) – helsepåstand om barns utvikling og helse | Eye q baby® | Eye q baby® gir næring som fremmer en sunn utvikling av sentralnervesystemet | EFSA-Q-2008-119 |
+| Artikkel 14 nr. 1 bokstav b) – helsepåstand om barns utvikling og helse | Eye q® | Eye q® gir næring som bidrar til å opprettholde sunne hjernefunksjoner hos barn | EFSA-Q-2008-329 |
+| Artikkel 14 nr. 1 bokstav b) – helsepåstand om barns utvikling og helse | Eye q® | Eye q® gir næring som bidrar til å bevare konsentrasjonsevnen hos barn | EFSA-Q-2008-330 |
 
 ### Forordning (EF) nr. 1025/2009
 
@@ -709,11 +1082,21 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EF) nr. 1025
 av 29. oktober 2009
 om avslag på godkjenning av visse andre helsepåstander om næringsmidler enn dem som viser til redusert sykdomsrisiko og barns utvikling og helse
 
+KOMMISJONEN FOR DE EUROPEISKE FELLESSKAP HAR –
+
 under henvisning til traktaten om opprettelse av Det europeiske fellesskap,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler,1 særlig artikkel 18 nr. 5, og
 
 ut fra følgende betraktninger:I henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924*) er helsepåstander om næringsmidler forbudt med mindre de er godkjent av Kommisjonen i samsvar med nevnte forordning og oppført på en liste over tillatte påstander.Ved forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det også fastsatt at driftsansvarlige for næringsmiddelforetak kan sende søknader om godkjenning av helsepåstander til vedkommende nasjonale myndighet i en medlemsstat. Vedkommende nasjonale myndighet skal videresende gyldige søknader til Den europeiske myndighet for næringsmiddeltrygghet (EFSA), heretter kalt «Myndigheten».Etter at søknaden er mottatt, skal Myndigheten straks underrette de øvrige medlemsstatene og Kommisjonen og avgi en uttalelse om den aktuelle helsepåstanden.Kommisjonen skal ta hensyn til uttalelsen fra Myndigheten når den treffer beslutning om godkjenning av helsepåstander.Etter en søknad fra Elvir SAS som ble inngitt 30. juli 2008 i henhold til artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om at et meieriprodukt anriket med melkepeptid og magnesium skulle ha en angstdempende virkning (spørsmål nr. EFSA-Q-2008-476).2 Søkerens foreslåtte påstand hadde følgende ordlyd: «Dette produktet bidrar til å dempe angstsymptomer hos moderat stressfølsomme voksne takket være sitt innhold av melkepeptid og magnesium».Kommisjonen og medlemsstatene mottok 19. desember 2008 den vitenskapelige uttalelsen fra Myndigheten, der den konkluderte med at det på grunnlag av de framlagte opplysningene ikke kunne påvises noen årsakssammenheng mellom bruk av de bestanddeler som angivelig skulle gi den påståtte virkningen, og den påståtte virkningen. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den derfor ikke godkjennes.Etter en søknad fra Unilever plc (Det forente kongerike) og Unilever NV (Nederland) som ble inngitt 7. juli 2008 i henhold til artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om at svart te av *Camellia Sinensis* skulle bidra til å forbedre konsentrasjonsevnen (spørsmål nr. EFSA-Q-2008-434).3 Søkerens foreslåtte påstand hadde følgende ordlyd: «Svart te bidrar til å forbedre konsentrasjonsevnen».Kommisjonen og medlemsstatene mottok 22. desember 2008 den vitenskapelige uttalelsen fra Myndigheten, der den konkluderte med at det på grunnlag av de framlagte opplysningene ikke kunne påvises noen årsakssammenheng mellom bruk av svart te av *Camellia Sinensis* og den påståtte virkningen. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den derfor ikke godkjennes.De kommentarene som Kommisjonen har mottatt fra søkerne og andre personer i samsvar med artikkel 16 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), er tatt i betraktning ved fastsettelsen av tiltakene i denne forordning.Helsepåstandenee «Dette produktet bidrar til å dempe angstsymptomer hos moderat stressfølsomme voksne takket være sitt innhold av melkepeptid og magnesium» og «Svart te bidrar til å forbedre konsentrasjonsevnen» er helsepåstander som omtalt i artikkel 13 nr. 1 bokstav b) i forordning [(EF) nr. 1924/2006](eu/32006r1924*). Begge påstander omfattes derfor av overgangstiltakene fastsatt i artikkel 28 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924*). Ettersom søknadene ikke ble inngitt innen 19. januar 2008, er imidlertid kravet fastsatt i artikkel 28 nr. 6 bokstav b) ikke oppfylt, og overgangsperioden fastsatt i samme artikkel får ikke anvendelse. Det bør derfor fastsettes en overgangsperiode på seks måneder for å gi driftsansvarlige for næringsmiddelforetak mulighet til å tilpasse seg kravene i denne forordning.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for næringsmiddelkjeden og dyrehelsen –
+
+1 EUT L 404 av 30.12.2006, s. 9.
+
+2 *The EFSA Journal* (2008) 905, s. 1–10.
+
+3 *The EFSA Journal* (2008) 906, s. 1–10.
+
+VEDTATT DENNE FORORDNING:
 
 ### Artikkel 1
 
@@ -729,8 +1112,21 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel, 29. oktober 2009.
 
+|  |  |
+| --- | --- |
+|  | For Kommisjonen |
+|  |  |
+|  | Androulla VASSILIOU |
+|  |  |
+|  | Medlem av Kommisjonen |
+
 ### VEDLEGG
 AVSLÅTTE HELSEPÅSTANDER
+
+| *Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori* | *Påstand* | *EFSA-uttalelsens referansenummer* |
+| --- | --- | --- | --- |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data som er underlagt eiendomsrett | Meieriprodukt anriket med melkepeptid og magnesium | Dette produktet bidrar til å dempe angstsymptomer hos moderat stressfølsomme voksne takket være sitt innhold av melkepeptid og magnesium. | Q-2008-476 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data som er underlagt eiendomsrett | Svart te av *Camellia Sinensis* | Svart te bidrar til å forbedre konsentrasjonsevnen. | Q-2008-434 |
 
 ### Forordning (EF) nr. 1167/2009
 
@@ -742,11 +1138,25 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EF) nr. 1167
 av 30. november 2009
 om avslag på godkjenning av visse helsepåstander om næringsmidler som viser til redusert sykdomsrisiko og barns utvikling og helse
 
+KOMMISJONEN FOR DE EUROPEISKE FELLESSKAP HAR –
+
 under henvisning til traktaten om opprettelse av Det europeiske fellesskap,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler,1 særlig artikkel 17 nr. 3, og
 
 ut fra følgende betraktninger:I henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924*) er helsepåstander om næringsmidler forbudt med mindre de er godkjent av Kommisjonen i samsvar med nevnte forordning og oppført på en liste over tillatte påstander.Ved forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det også fastsatt at driftsansvarlige for næringsmiddelforetak kan sende søknader om godkjenning av helsepåstander til vedkommende nasjonale myndighet i en medlemsstat. Vedkommende nasjonale myndighet skal videresende gyldige søknader til Den europeiske myndighet for næringsmiddeltrygghet (EFSA), heretter kalt «Myndigheten».Etter at søknaden er mottatt, skal Myndigheten straks underrette de øvrige medlemsstatene og Kommisjonen om søknaden og avgi en uttalelse om den aktuelle helsepåstanden.Kommisjonen skal ta hensyn til uttalelsen fra Myndigheten når den treffer beslutning om godkjenning av helsepåstander.Kommisjonen og medlemsstatene mottok 13. februar 2009 fire uttalelser fra Myndigheten om søknader om godkjenning av helsepåstander. Kommisjonen og medlemsstatene mottok 16. mars 2009 én uttalelse fra Myndigheten om en søknad om godkjenning av en helsepåstand.To av uttalelsene gjaldt søknader om godkjenning av påstander om redusert sykdomsrisiko som omhandlet i artikkel 14 nr. 1 bokstav a) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), og tre av uttalelsene gjaldt søknader om godkjenning av påstander om barns utvikling og helse som omhandlet i artikkel 14 nr. 1 bokstav b) i samme forordning. En av disse søknadene om godkjenning vil bli gjenstand for en særskilt beslutning.Etter en søknad fra UNICER Bebidas de Portugal SGPS som ble inngitt i henhold til artikkel 14 nr. 1 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om at Melgaço® mineralvann skulle ha en virkning som reduserer blodsukkeret (spørsmål nr. EFSA-Q-2008-219).2 Søkerens foreslåtte påstand hadde følgende ordlyd: «Regelmessig konsum av Melgaço mineralvann reduserer for høyt blodsukker».Myndigheten konkluderte med at det på grunnlag av de framlagte opplysningene ikke kunne påvises noen årsakssammenheng mellom konsum av Melgaço® mineralvann og den påståtte virkningen. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den derfor ikke godkjennes.Etter en søknad fra Ocean Spray International Services (UK) Ltd. som ble inngitt i henhold til artikkel 14 nr. 1 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om virkningene av Ocean Spray Cranberry Products® på urinveisinfeksjoner hos kvinner (spørsmål nr. EFSA-Q-2008-117).3 Søkerens foreslåtte påstand hadde følgende ordlyd: «Regelmessig inntak av to daglige porsjoner av et Ocean Spray-produkt, som hvert vanligvis inneholder 80 mg proantocyanidiner fra tranebær, bidrar til å redusere risikoen for urinveisinfeksjon hos kvinner ved å hindre at visse bakterier fester seg i urinveiene».Myndigheten konkluderte med at det på grunnlag av de framlagte opplysningene ikke kunne påvises noen årsakssammenheng mellom konsum av Ocean Spray Cranberry Products® og den påståtte virkningen. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den derfor ikke godkjennes.Etter en søknad fra Soremartec Italia SRL som ble inngitt i henhold til artikkel 14 nr. 1 bokstav b) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om virkningene av Kinder Chocolate® på veksten (spørsmål nr. EFSA-Q-2008-283).4 Søkerens foreslåtte påstand hadde følgende ordlyd: «Kinder Chocolate, sjokoladen som hjelper deg å vokse».Myndigheten konkluderte med at det på grunnlag av de framlagte opplysningene ikke kunne påvises noen årsakssammenheng mellom konsum av Kinder Chocolate® og den påståtte virkningen. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den derfor ikke godkjennes.Etter en søknad fra Plada Industriale SRL som ble inngitt i henhold til artikkel 14 nr. 1 bokstav b) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om virkningene av tilskuddsblandinger med bioaktive bestanddeler på tarmplager (spørsmål nr. EFSA-Q-2008-270).5 Søkerens foreslåtte påstand hadde følgende ordlyd: «Hjelper mot lettere tarmplager (så som kolikk, forstoppelse og fordøyelsessymptomer)».Myndigheten konkluderte med at det på grunnlag av de framlagte opplysningene ikke kunne påvises noen årsakssammenheng mellom konsum av tilskuddsblandinger med en fast kombinasjon av kortkjedede galakto-oligosakkarider, syrnet melk, nukleotider og beta-palmitat, og den påståtte virkningen. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den derfor ikke godkjennes.De kommentarene som Kommisjonen har mottatt fra søkerne og andre personer i samsvar med artikkel 16 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), er tatt i betraktning ved fastsettelsen av tiltakene i denne forordning.I samsvar med artikkel 28 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) kan helsepåstander som er omhandlet i forordningens artikkel 14 nr. 1 bokstav b) og ikke er godkjent ved en beslutning i henhold til forordningens artikkel 17 nr. 3, fortsatt brukes i seks måneder etter at denne forordning er vedtatt. Ettersom de aktuelle søknadene ikke ble inngitt innen 19. januar 2008, er imidlertid kravet fastsatt i artikkel 28 nr. 6 bokstav b) ikke oppfylt, og overgangsperioden fastsatt i samme artikkel får ikke anvendelse. Det bør derfor fastsettes en overgangsperiode på seks måneder for å gi driftsansvarlige for næringsmiddelforetak mulighet til å tilpasse seg kravene i denne forordning.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for næringsmiddelkjeden og dyrehelsen –
+
+1 EUT L 404 av 30.12.2006, s. 9.
+
+2 *The EFSA Journal* (2009) 944, s. 1–9.
+
+3 *The EFSA Journal* (2009) 943, s. 1–16.
+
+4 *The EFSA Journal* (2009) 940, s. 1–8.
+
+5 *The EFSA Journal* (2009) 939, s. 1–10.
+
+VEDTATT DENNE FORORDNING:
 
 ### Artikkel 1
 
@@ -762,8 +1172,23 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel, 30. november 2009.
 
+|  |  |
+| --- | --- |
+|  | For Kommisjonen |
+|  |  |
+|  | Androulla VASSILIOU |
+|  |  |
+|  | Medlem av Kommisjonen |
+
 ### VEDLEGG
 AVSLÅTTE HELSEPÅSTANDER
+
+| *Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori* | *Påstand* | *EFSA-uttalelsens referansenummer* |
+| --- | --- | --- | --- |
+| Artikkel 14 nr. 1 bokstav a) – helsepåstand som viser til redusert sykdomsrisiko | Melgaço® mineralvann | Regelmessig konsum av Melgaço mineralvann reduserer for høyt blodsukker. | Q-2008-219 |
+| Artikkel 14 nr. 1 bokstav a) – helsepåstand som viser til redusert sykdomsrisiko | Ocean Spray Cranberry Products® | Regelmessig inntak av to daglige porsjoner av et Ocean Spray-produkt, som hvert vanligvis inneholder 80 mg proantocyanidiner fra tranebær, bidrar til å redusere risikoen for urinveisinfeksjon hos kvinner ved å hindre at visse bakterier fester seg i urinveiene. | Q-2008-117 |
+| Artikkel 14 nr. 1 bokstav b) – helsepåstand som viser til barns utvikling og helse | Kinder Chocolate® | Kinder Chocolate, sjokoladen som hjelper deg å vokse. | Q-2008-283 |
+| Artikkel 14 nr. 1 bokstav b) – helsepåstand som viser til barns utvikling og helse | Tilskuddsblandinger med en fast kombinasjon av kortkjedede galakto-oligosakkarider, syrnet melk, nukleotider og beta-palmitat | Hjelper mot lettere tarmplager (så som kolikk, forstoppelse og fordøyelsessymptomer). | Q-2008-270 |
 
 ### Forordning (EF) nr. 1168/2009
 
@@ -775,11 +1200,19 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EF) nr. 1168
 av 30. november 2009
 om avslag på godkjenning av en helsepåstand om næringsmidler som ikke viser til redusert sykdomsrisiko og barns utvikling og helse
 
+KOMMISJONEN FOR DE EUROPEISKE FELLESSKAP HAR –
+
 under henvisning til traktaten om opprettelse av Det europeiske fellesskap,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler,1 særlig artikkel 18 nr. 5, og
 
 ut fra følgende betraktninger:I henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924*) er helsepåstander om næringsmidler forbudt med mindre de er godkjent av Kommisjonen i samsvar med nevnte forordning og oppført på en liste over tillatte påstander.Ved forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det også fastsatt at driftsansvarlige for næringsmiddelforetak kan sende søknader om godkjenning av helsepåstander til vedkommende nasjonale myndighet i en medlemsstat. Vedkommende nasjonale myndighet skal videresende gyldige søknader til Den europeiske myndighet for næringsmiddeltrygghet (EFSA), heretter kalt «Myndigheten».Etter at søknaden er mottatt, skal Myndigheten straks underrette de øvrige medlemsstatene og Kommisjonen og avgi en uttalelse om den aktuelle helsepåstanden.Kommisjonen skal ta hensyn til uttalelsen fra Myndigheten når den treffer beslutning om godkjenning av helsepåstander.Etter en søknad fra Brudy Technology SL som ble inngitt 9. oktober 2008 i henhold til artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om virkningene av Algatrium® på den antioksidative reaksjonen (spørsmål nr. EFSA-Q-2008-705).2 Søkerens foreslåtte påstand hadde følgende ordlyd: «Algatrium® fremmer din antioksidative reaksjon: Dette særegne næringsstoffet med vitenskapelig dokumentert virkning stimulerer cellenes antioksidative forsvar hos mennesker».Kommisjonen og medlemsstatene mottok 16. mars 2009 den vitenskapelige uttalelsen fra Myndigheten, der den konkluderte med at det på grunnlag av de framlagte opplysningene ikke kunne påvises noen årsakssammenheng mellom bruk av Algatrium® og den påståtte virkningen. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den derfor ikke godkjennes.De kommentarene som Kommisjonen har mottatt fra søkerne og andre personer i samsvar med artikkel 16 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), er tatt i betraktning ved fastsettelsen av tiltakene i denne forordning.Helsepåstander som omhandlet i artikkel 13 nr. 1 bokstav a) i forordning [(EF) nr. 1924/2006](eu/32006r1924*) omfattes av overgangstiltakene fastsatt i artikkel 28 nr. 5 i samme forordning. Når det gjelder helsepåstanden «Algatrium® fremmer din antioksidative reaksjon: Dette særegne næringsstoffet med vitenskapelig dokumentert virkning stimulerer cellenes antioksidative forsvar hos mennesker», konkluderte Myndigheten imidlertid med at det ikke var påvist noen årsakssammenheng mellom bruk av Algatrium® og den påståtte virkningen. Påstanden er derfor ikke i samsvar med forordning [(EF) nr. 1924/2006](eu/32006r1924*), og overgangsperioden fastsatt i artikkel 28 nr. 5 i samme forordning får følgelig ikke anvendelse. Det bør fastsettes en overgangsperiode på seks måneder for å gi driftsansvarlige for næringsmiddelforetak mulighet til å tilpasse seg kravene i denne forordning.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for næringsmiddelkjeden og dyrehelsen –
+
+1 EUT L 404 av 30.12.2006, s. 9.
+
+2 *The EFSA Journal* (2009) 942, s. 1–9.
+
+VEDTATT DENNE FORORDNING:
 
 ### Artikkel 1
 
@@ -795,8 +1228,20 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel, 30. november 2009.
 
+|  |  |
+| --- | --- |
+|  | For Kommisjonen |
+|  |  |
+|  | Androulla VASSILIOU |
+|  |  |
+|  | Medlem av Kommisjonen |
+
 ### VEDLEGG
 AVSLÅTT HELSEPÅSTAND
+
+| *Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori* | *Påstand* | *EFSA-uttalelsens referansenummer* |
+| --- | --- | --- | --- |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data som er underlagt eiendomsrett | Algatrium® | Algatrium® fremmer din antioksidative reaksjon: Dette særegne næringsstoffet med vitenskapelig dokumentert virkning stimulerer cellenes antioksidative forsvar hos mennesker. | Q-2008-705 |
 
 ### Forordning (EU) nr. 375/2010
 
@@ -808,11 +1253,19 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 375/
 av 3. mai 2010
 om avslag på godkjenning av ein helsepåstand om næringsmiddel som ikkje viser til redusert sjukdomsrisiko og til utviklinga og helsa til barn
 
+EUROPAKOMMISJONEN HAR,
+
 med tilvising til traktaten om verkemåten til Den europeiske unionen,
 
 med tilvising til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om nye næringsmidler og nye næringsmiddelingredienser,1 særleg artikkel 18 nr. 5 og
 
 ut frå desse synsmåtane:I medhald av forordning [(EF) nr. 1924/2006](eu/32006r1924*) er helsepåstandar om næringsmiddel forbodne med mindre dei er godkjende av Kommisjonen i samsvar med den nemnde forordninga og førde opp i ei liste over påstandar som er tillatne.Ved forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det òg fastsett at driftsansvarlege for næringsmiddelføretak kan sende søknader om godkjenning av helsepåstandar til den rette nasjonale styresmakta i ein medlemsstat. Den rette nasjonale styresmakta skal sende gyldige søknader vidare til Den europeiske styresmakta for næringsmiddeltryggleik (EFSA), heretter kalla «Styresmakta».Etter at søknaden er motteken, skal Styresmakta straks melde frå til dei andre medlemsstatane og Kommisjonen og gje ei fråsegn om den aktuelle helsepåstanden.Kommisjonen skal ta omsyn til fråsegna frå Styresmakta når han tek avgjerd om godkjenning av helsepåstandar.Etter ein søknad frå PROBI AB, send over 22. desember 2008 i medhald av artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), vart Styresmakta bede om å gje ei fråsegn om ein helsepåstand om verknadene av *Lactobacillus plantarum* 299v på betra jernopptak (spørsmål nr. EFSA-Q-2008-785).2 Den påstanden som søkjaren hadde gjort framlegg om, hadde følgjande ordlyd: «*Lactobacillus plantarum* 299v (DSM 9843) betrar jernopptaket».Kommisjonen og medlemsstatane mottok 6. april 2009 den vitskaplege fråsegna frå Styresmakta, der han konkluderte med at det på grunnlag av dei framlagde opplysningane ikkje kunne påvisast nokon årsakssamanheng mellom inntak av *Lactobacillus plantarum* 299v (DSM 9843) og den påståtte verknaden. Ettersom påstanden ikkje stettar krava i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør han difor ikkje godkjennast.Ved fastsetjinga av tiltaka i denne forordninga er det teke omsyn til dei kommentarane som Kommisjonen har motteke frå søkjarane og andre personar i samsvar med artikkel 16 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).Dei helsepåstandane som er nemnde i artikkel 13 nr. 1 bokstav a) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), er omfatta av overgangstiltaka som er fastsette i artikkel 28 nr. 5 i den same forordninga, berre dersom dei stettar krava i den artikkelen, mellom anna at dei må stette forordninga. Ettersom Styresmakta konkluderte med at det ikkje var påvist nokon årsakssamanheng mellom inntak av *Lactobacillus plantarum* 299v (DSM 9843) og den påståtte verknaden, er påstanden difor ikkje i samsvar med forordning [(EF) nr. 1924/2006](eu/32006r1924*), og den overgangsperioden som er fastsett i artikkel 28 nr. 5 i den same forordninga, vert følgjeleg ikkje nytta. Det bør fastsetjast ein overgangsperiode på seks månader for å gjere det mogleg for driftsansvarlege for næringsmiddelføretak å tilpasse seg krava i denne forordninga.Dei tiltaka som er fastsette i denne forordninga, er i samsvar med fråsegna frå Det faste utvalet for næringsmiddelkjeda og dyrehelsa og verken Europaparlamentet eller Rådet har sett seg imot dei –
+
+1 TEU L 404 av 30.12.2006, s. 9.
+
+2 *The EFSA Journal* (2009) 999, s. 1–9.
+
+VEDTEKE DENNE FORORDNINGA:
 
 ### Artikkel 1
 
@@ -828,8 +1281,20 @@ Denne forordninga er bindande i alle delar og gjeld direkte i alle medlemsstatan
 
 Utferda i Brussel, 3. mai 2010.
 
+|  |  |
+| --- | --- |
+|  | For Kommisjonen |
+|  |  |
+|  | President |
+|  |  |
+|  | José Manuel BARROSO |
+
 ### VEDLEGG
 Avviste helsepåstandar
+
+| *Søknad – relevante føresegner i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe* | *Påstand* | *Referansenummeret til EFSA-fråsegna* |
+| --- | --- | --- | --- |
+| Artikkel 13 nr. 5 – helsepåstand som byggjer på nyutvikla vitskaplege prov og/eller inneheld ei oppmoding om sikring av data som er underlagde eigendomsrett | *Lactobacillus plantarum* 299v (DSM 9843) | *Lactobacillus plantarum* 299v (DSM 9843) betrar jernopptaket | Q-2008-785 |
 
 ### Forordning (EU) nr. 382/2010
 
@@ -841,11 +1306,25 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 382/
 av 5. mai 2010
 om avslag på godkjenning av visse andre helsepåstandar om næringsmiddel enn dei som viser til redusert sjukdomsrisiko og til utviklinga og helsa til barn
 
+EUROPAKOMMISJONEN HAR,
+
 med tilvising til traktaten om verkemåten til Den europeiske unionen,
 
 med tilvising til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om nye næringsmidler og nye næringsmiddelingredienser,1 særleg artikkel 18 nr. 5 og
 
 ut frå desse synsmåtane:I medhald av forordning [(EF) nr. 1924/2006](eu/32006r1924*) er helsepåstandar om næringsmiddel forbodne med mindre dei er godkjende av Kommisjonen i samsvar med den nemnde forordninga og førde opp i ei liste over påstandar som er tillatne.Ved forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det òg fastsett at driftsansvarlege for næringsmiddelføretak kan sende søknader om godkjenning av helsepåstandar til den rette nasjonale styresmakta i ein medlemsstat. Den rette nasjonale styresmakta skal sende gyldige søknader vidare til Den europeiske styresmakta for næringsmiddeltryggleik (EFSA), heretter kalla «Styresmakta».Etter at søknaden er motteken, skal Styresmakta straks melde frå til dei andre medlemsstatane og Kommisjonen og gje ei fråsegn om den aktuelle helsepåstanden.Kommisjonen skal ta omsyn til fråsegna frå Styresmakta når han tek avgjerd om godkjenning av helsepåstandar.Etter ein søknad frå The Natural Push-Up Company, send over 28. november 2008 i medhald av artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), vart Styresmakta bede om å gje ei fråsegn om ein helsepåstand om verknadene av Natural Push-Up®-tablettar og Natural Push-Up®-kapslar på brystvekst hjå kvinner (spørsmål nr. EFSA-Q-2008-784).2 Den påstanden som søkjaren hadde gjort framlegg om, hadde følgjande ordlyd: «NPU-tablettar etterliknar brystvekstprosessen hjå kvinner gjennom 8-PN (8-prenylnaringenin)».Kommisjonen og medlemsstatane mottok 5. juni 2009 den vitskaplege fråsegna frå Styresmakta, der han konkluderte med at det på grunnlag av dei framlagde opplysningane ikkje kunne påvisast nokon årsakssamanheng mellom inntak av Natural Push-Up®-tablettar og Natural Push-Up®-kapslar og den påståtte verknaden. Ettersom påstanden ikkje stettar krava i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør han difor ikkje godkjennast.Etter ein søknad frå Clasado Ltd., send over 29. desember 2008 i medhald av artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), vart Styresmakta bede om å gje ei fråsegn om ein helsepåstand om verknadene av BimunoBT (BGOS) Prebiotic på ivaretaking av ein sunn mage- og tarmfunksjon (spørsmål nr. EFSA-Q-2009-00231).3 Den påstanden som søkjaren hadde gjort framlegg om, hadde følgjande ordlyd: «Medverkar til ein sunn mage- og tarmfunksjon (GI)».Kommisjonen og medlemsstatane mottok 7. juli 2009 den vitskaplege fråsegna frå Styresmakta, der han konkluderte med at det på grunnlag av dei framlagde opplysningane ikkje kunne påvisast nokon årsakssamanheng mellom inntak av BimunoBT (BGOS) Prebiotic og den påståtte verknaden. Ettersom påstanden ikkje stettar krava i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør han difor ikkje godkjennast.Etter ein søknad frå Clasado Ltd., send over 15. juli 2008 i medhald av artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), vart Styresmakta bede om å gje ei fråsegn om ein helsepåstand om verknadene av of BimunoBT (BGOS) Prebiotic på støtte til immunforsvaret (spørsmål nr. EFSA-Q-2009-00230).4 Den påstanden som søkjaren hadde gjort framlegg om, hadde følgjande ordlyd: «Støttar det naturlege forsvaret ditt».Kommisjonen og medlemsstatane mottok 7. juli 2009 den vitskaplege fråsegna frå Styresmakta, der han konkluderte med at det på grunnlag av dei framlagde opplysningane ikkje kunne påvisast nokon årsakssamanheng mellom inntak av BimunoBT (BGOS) Prebiotic og den påståtte verknaden. Ettersom påstanden ikkje stettar krava i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør han difor ikkje godkjennast.Etter ein søknad frå Sunstar Suisse S.A., send over 4. februar 2009 i medhald av artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), vart Styresmakta bede om å gje ei fråsegn om ein helsepåstand om verknadene av Gum PeriobalanceTM -tablettar og -tyggegummi på munnhelsa (spørsmål nr. EFSA-Q-2009-00373).5 Den påstanden som søkjaren hadde gjort framlegg om, hadde følgjande ordlyd: «Gum PeriobalanceTM medverkar saman med riktig munnhygiene til å rette opp att balansen i mikrofloraen i munnen og betre munnhelsa».Kommisjonen og medlemsstatane mottok 20. juli 2009 den vitskaplege fråsegna frå Styresmakta, der han konkluderte med at det på grunnlag av dei framlagde opplysningane ikkje kunne påvisast nokon årsakssamanheng mellom inntak av Gum PeriobalanceTM -tablettar og -tyggegummi og den påståtte verknaden. Ettersom påstanden ikkje stettar krava i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør han difor ikkje godkjennast.Ved fastsetjinga av tiltaka i denne forordninga er det teke omsyn til dei kommentarane som Kommisjonen har motteke frå søkjarane og andre personar i samsvar med artikkel 16 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).Dei helsepåstandane som er nemnde i artikkel 13 nr. 1 bokstav a) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), er omfatta av overgangstiltaka som er fastsette i artikkel 28 nr. 5 i den same forordninga, berre dersom dei stettar krava i den artikkelen, mellom anna at dei må stette forordninga. Når det gjeld dei fire påstandane som er omfatta av denne forordninga, konkluderte Styresmakta med at det ikkje var påvist nokon årsakssamanheng mellom inntak av næringsmidla og dei påståtte verknadene, og dermed er påstandane ikkje i samsvar med forordning [(EF) nr. 1924/2006](eu/32006r1924*) og vert ikkje omfatta av den overgangsperioden som er fastsett i artikkel 28 nr. 5 i den same forordninga. Det bør fastsetjast ein overgangsperiode på seks månader for å gjere det mogleg for driftsansvarlege for næringsmiddelføretak å tilpasse seg krava i denne forordninga.Dei tiltaka som er fastsette i denne forordninga, er i samsvar med fråsegna frå Det faste utvalet for næringsmiddelkjeda og dyrehelsa og verken Europaparlamentet eller Rådet har sett seg imot dei –
+
+1 TEU L 404 av 30.12.2006, s. 9.
+
+2 *The EFSA Journal* (2009) 1100, s. 1–9.
+
+3 The EFSA Journal (2009) 1107, s. 1–10.
+
+4 *The EFSA Journal* (2009) 1106, s. 1–8.
+
+5 *The EFSA Journal* (2009) 1178, s. 1–8.
+
+VEDTEKE DENNE FORORDNINGA:
 
 ### Artikkel 1
 
@@ -861,8 +1340,23 @@ Denne forordninga er bindande i alle delar og gjeld direkte i alle medlemsstatan
 
 Utferda i Brussel, 5. mai 2010.
 
+|  |  |
+| --- | --- |
+|  | For Kommisjonen |
+|  |  |
+|  | José Manuel BARROSO |
+|  |  |
+|  | President |
+
 ### VEDLEGG
 Avviste helsepåstandar
+
+| *Søknad – relevante føresegner i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe* | *Påstand* | *Referansenummeret til EFSA-fråsegna* |
+| --- | --- | --- | --- |
+| Artikkel 13 nr. 5 – helsepåstand som byggjer på nyutvikla vitskaplege prov og/eller inneheld ei oppmoding om sikring av data som er underlagde eigendomsrett | Natural Push-Up®-tablettar og Natural Push-Up®-kapslar | NPU-tablettar etterliknar brystvekstprosessen hjå kvinner gjennom 8-PN (8-prenylnaringenin) | Q-2008-784 |
+| Artikkel 13 nr. 5 – helsepåstand som byggjer på nyutvikla vitskaplege prov og/eller inneheld ei oppmoding om sikring av data som er underlagde eigendomsrett | BimunoBT (BGOS) Prebiotic | Medverkar til ein sunn mage- og tarmfunksjon (GI) | Q-2009-00231 |
+| Artikkel 13 nr. 5 – helsepåstand som byggjer på nyutvikla vitskaplege prov og/eller inneheld ei oppmoding om sikring av data som er underlagde eigendomsrett | BimunoBT (BGOS) Prebiotic | Støttar det naturlege forsvaret ditt | Q-2009-00231 |
+| Artikkel 13 nr. 5 – helsepåstand som byggjer på nyutvikla vitskaplege prov og/eller inneheld ei oppmoding om sikring av data som er underlagde eigendomsrett | Gum PeriobalanceTM -tablettar og -tyggegummi | Gum PeriobalanceTM medverkar saman med riktig munnhygiene til å rette opp att balansen i mikrofloraen i munnen og betre munnhelsa | Q-2009-00373 |
 
 ### Forordning (EU) nr. 383/2010
 
@@ -874,11 +1368,19 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 383/
 av 5. mai 2010
 om avslag på godkjenning av ein helsepåstand om næringsmiddel som ikkje viser til redusert sjukdomsrisiko og til utviklinga og helsa til barn
 
+EUROPAKOMMISJONEN HAR,
+
 med tilvising til traktaten om verkemåten til Den europeiske unionen,
 
 med tilvising til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om nye næringsmidler og nye næringsmiddelingredienser,1 særleg artikkel 18 nr. 5 og
 
 ut frå desse synsmåtane:I medhald av forordning [(EF) nr. 1924/2006](eu/32006r1924*) er helsepåstandar om næringsmiddel forbodne med mindre dei er godkjende av Kommisjonen i samsvar med den nemnde forordninga og førde opp i ei liste over påstandar som er tillatne.Ved forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det òg fastsett at driftsansvarlege for næringsmiddelføretak kan sende søknader om godkjenning av helsepåstandar til den rette nasjonale styresmakta i ein medlemsstat. Den rette nasjonale styresmakta skal sende gyldige søknader vidare til Den europeiske styresmakta for næringsmiddeltryggleik (EFSA), heretter kalla «Styresmakta».Etter at søknaden er motteken, skal Styresmakta straks melde frå til dei andre medlemsstatane og Kommisjonen og gje ei fråsegn om den aktuelle helsepåstanden.Kommisjonen skal ta omsyn til fråsegna frå Styresmakta når han tek avgjerd om godkjenning av helsepåstandar.Etter ein søknad frå ELVIR S.A.S., send over 5. juni 2008 i medhald av artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), vart Styresmakta bede om å gje ei fråsegn om ein helsepåstand om verknadene av eit fiber- og proteinrikt mjølkeprodukt (spørsmål nr. EFSA-Q-2008-396).2 Den påstanden som søkjaren hadde gjort framlegg om, hadde følgjande ordlyd: «Dette produktet reduserer sultkjensla».Kommisjonen og medlemsstatane mottok 19. desember 2008 den vitskaplege fråsegna frå Styresmakta. Ut frå fråsegna og seinare presisering frå Styresmakta går det fram at det på grunnlag av dei framlagde opplysningane ikkje kunne påvisast nokon årsakssamanheng mellom inntak av det fiber- og proteinrike mjølkeproduktet og ein reduksjon av sultkjensla av næringsmessig eller fysiologisk verdi med omsyn til verknaden på energiinntaket gjennom kosten. I lys av dette fastslo Det faste utvalet for næringsmiddelkjeda og dyrehelsa på møtet sitt 27. april 2009 at helsepåstanden burde undersøkjast ytterlegare og Kommisjonen sende 24. juni 2009 inn ein førespurnad til Styresmakta om ytterlegare opplysningar om fleire sider ved den innsende søknaden.Medlemsstatane og Kommisjonen mottok 22. juli 2009 svaret frå Styresmakta der det vart presisert at den verknaden som er observert, ikkje berre kunne tilskrivast dei næringsmidla som er granska, på grunn av mangelen på opplysningar om dei kostspesifikke vilkåra i granskingane. Helsepåstanden kan difor ikkje reknast å stette krava i forordning [(EF) nr. 1924/2006](eu/32006r1924*) og bør ikkje godkjennast.Ved fastsetjinga av tiltaka i denne forordninga er det teke omsyn til dei kommentarane som Kommisjonen har motteke frå søkjarane og andre personar i samsvar med artikkel 16 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).Dei helsepåstandane som er nemnde i artikkel 13 nr. 1 bokstav c) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), er omfatta av dei overgangstiltaka som er fastsette i artikkel 28 nr. 6 i den same forordninga, berre dersom dei stettar krava i den artikkelen, mellom anna at søknader om helsepåstandar som ikkje er vortne vurderte og godkjende i ein medlemsstat, må vere sende inn innan 19. januar 2008. Ettersom søknaden om godkjenning av den helsepåstanden som er omfatta av denne forordninga, ikkje vart send inn innan den datoen, kan han ikkje verte omfatta av den overgangsperioden som er fastsett i artikkel 28 nr. 6 i den forordninga.Dei tiltaka som er fastsette i denne forordninga, er i samsvar med fråsegna frå Det faste utvalet for næringsmiddelkjeda og dyrehelsa og verken Europaparlamentet eller Rådet har sett seg imot dei –
+
+1 TEU L 404 av 30.12.2006, s. 9.
+
+2 *The EFSA Journal* (2008) 894, s. 1–9.
+
+VEDTEKE DENNE FORORDNINGA:
 
 ### Artikkel 1
 
@@ -892,8 +1394,20 @@ Denne forordninga er bindande i alle delar og gjeld direkte i alle medlemsstatan
 
 Utferda i Brussel, 5. mai 2010.
 
+|  |  |
+| --- | --- |
+|  | For Kommisjonen |
+|  |  |
+|  | José Manuel BARROSO |
+|  |  |
+|  | President |
+
 ### VEDLEGG
 Avvist helsepåstand
+
+| *Søknad – relevante føresegner i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe* | *Påstand* | *Referansenummeret til EFSA-fråsegna* |
+| --- | --- | --- | --- |
+| Artikkel 13 nr. 5 – helsepåstand som byggjer på nyutvikla vitskaplege prov og/eller inneheld ei oppmoding om sikring av data som er underlagde eigendomsrett | Fiber- og proteinrikt mjølkeprodukt | Dette produktet reduserer sultkjensla | Q-2008-396 |
 
 ### Forordning (EU) nr. 384/2010
 
@@ -905,11 +1419,29 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 384/
 av 5. mai 2010
 om godkjenning og avslag på godkjenning av visse helsepåstandar om næringsmiddel som viser til redusert sjukdomsrisiko og til utviklinga og helsa til barn
 
+som endret ved
+
+►**M1** Forordning [(EU) nr. 686/2014](eu/32014r0686)
+
+EUROPAKOMMISJONEN HAR,
+
 med tilvising til traktaten om verkemåten til Den europeiske unionen,
 
 med tilvising til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om nye næringsmidler og nye næringsmiddelingredienser,1 særleg artikkel 17 nr. 3 og
 
 ut frå desse synsmåtane:I medhald av forordning [(EF) nr. 1924/2006](eu/32006r1924*) er helsepåstandar om næringsmiddel forbodne med mindre dei er godkjende av Kommisjonen i samsvar med den nemnde forordninga og førde opp i ei liste over påstandar som er tillatne.Ved forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det òg fastsett at driftsansvarlege for næringsmiddelføretak kan sende søknader om godkjenning av helsepåstandar til den rette nasjonale styresmakta i ein medlemsstat. Den rette nasjonale styresmakta skal sende gyldige søknader vidare til Den europeiske styresmakta for næringsmiddeltryggleik (EFSA), heretter kalla «Styresmakta».Etter at søknaden er motteken, skal Styresmakta straks melde frå til dei andre medlemsstatane og Kommisjonen og gje ei fråsegn om den aktuelle helsepåstanden.Kommisjonen skal ta omsyn til fråsegna frå Styresmakta når han tek avgjerd om godkjenning av helsepåstandar.Alle dei fråsegnene som er nemnde i denne forordninga, er knytte til søknader som gjeld påstandar om redusert sjukdomsrisiko, som nemnd i artikkel 14 nr. 1 bokstav a) i forordning [(EF) nr. 1924/2006](eu/32006r1924*).Etter ein søknad som Danone France sende inn i medhald av artikkel 14 nr. 1 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), vart Styresmakta bede om å gje ei fråsegn om ein helsepåstand om verknadene av Danacol® på blodkolesterol (spørsmål nr. EFSA-Q-2008-779).2 Den påstanden som søkjaren hadde gjort framlegg om, hadde følgjande ordlyd: «Danacol® reduserer LDL-kolesterolet med 10 % på 3 veker og verknaden vert halden lag ved dagleg inntak. Høgt blodkolesterol er ein av dei største risikofaktorane i utviklinga av (koronar) hjartesjukdom».På grunnlag av dei opplysningane som vart lagde fram, konkluderte Styresmakta i den vitskaplege fråsegna si som Kommisjonen mottok 3. august 2009, at det er ein årsakssamanheng mellom dagleg inntak av 1,6 g fytosterolar og den påståtte verknaden. Ein helsepåstand som svarar til denne konklusjonen, kan difor reknast å stette krava i forordning [(EF) nr. 1924/2006](eu/32006r1924*) og bør førast opp på lista over påstandar som er tillatne.På grunnlag av ei oppmoding frå Kommisjonen og ei liknande oppmoding frå Frankrike som følgje av konklusjonane til Det faste utvalet for næringsmiddelkjeda og dyrehelsa og i samsvar med artikkel 19 nr. 2 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), mottok Kommisjonen og medlemsstatane 3. august 2009 også den vitskaplege fråsegna frå Styresmakta om høvet til å opplyse om ein kvantitativ verknad i helsepåstandar om verknader av fytosterolar/fytostanolesterar og redusering av blodkolesterol (spørsmål nr. EFSA-Q-2009-00530 og Q-2009-00718).3 Styresmakta konkluderte med at med eit dagleg inntak på 1,5–2,4 g fytosterolar eller fytostanolar som er tilsette i næringsmiddel som til dømes gule, smørbare feittstoff, meieriprodukt, majones og salatdressingar, kan ein vente ein gjennomsnittleg reduksjon på mellom 7 og 10,5 % og ein slik reduksjon er biologisk signifikant. I tillegg opplyste Styresmakta at verknaden i form av reduksjon av LDL-kolesterolet i blodet vanlegvis vert oppnådd innan 2–3 veker og kan haldast ved lag ved kontinuerleg inntak av fytosterolar/fytostanolar.Samstundes som det vert teke omsyn til den vitskaplege fråsegna frå Styresmakta og med sikte på å sikre at slike helsepåstandar som viser til omfanget av den påståtte verknaden, er godkjende på ein slik måte at forbrukaren ikkje vert villeidd, og at bruksvilkåra vert fastsette på ein heilskapleg måte, er det difor naudsynt å fastsetje andre bruksvilkår enn dei som søkjaren har lagd fram.I artikkel 16 nr. 4 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det fastsett at ei fråsegn om godkjenning av ein helsepåstand bør innehalde visse opplysningar. Desse opplysningane bør difor førast opp i vedlegg I til denne forordninga for den godkjende påstanden og, der det høver, omfatte den reviderte ordlyden til påstanden, særskilde bruksvilkår for påstanden, og eventuelt vilkår eller restriksjonar for bruk av næringsmiddelet og/eller ei tilleggsfråsegn eller -åtvaring, i samsvar med føresegnene i forordning [(EF) nr. 1924/2006](eu/32006r1924*) og i tråd med fråsegnene til Styresmakta.Eit av måla med forordning [(EF) nr. 1924/2006](eu/32006r1924*) er å sikre at helsepåstandar er sannferdige, tydelege og pålitelege og nyttige for forbrukaren, og at det vert teke omsyn til ordlyd og presentasjon i denne samanhengen. Når ordlyden til ein påstand gjev den same meininga for forbrukarane som ein godkjend helsepåstand fordi han syner det same sambandet mellom ei næringsmiddelgruppe og eit næringsmiddel eller ein av ingrediensane i næringsmiddelet, og helse, bør påstanden vere omfatta av dei same bruksvilkåra, som nemnt i vedlegg I.Etter ein søknad som Cambridge Theranostics Ltd. sende inn i medhald av artikkel 14 nr. 1 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), vart Styresmakta bede om å gje ei fråsegn om ein helsepåstand om verknadene av lykopen-mysekompleks på aterosklerotisk plakk (spørsmål nr. EFSA-Q-2008-703).4 Den påstanden som søkjaren hadde gjort framlegg om, hadde følgjande ordlyd: «Lykopen-mysekompleks hindrar oksidativ skade på lipoprotein i plasma, noko som dermed reduserer oppbygginga av plakk i arteriane og reduserer risikoen for hjartesjukdom, slagtilfelle og andre kliniske komplikasjonar som følgje av aterosklerose».På grunnlag av dei opplysningane som vart lagde fram, konkluderte Styresmakta i den vitskaplege fråsegna si som Kommisjonen mottok 3. august 2009, at det ikkje er ein årsakssamanheng mellom inntak av lykopen-mysekompleks og den påståtte verknaden. Ettersom påstanden ikkje stettar krava i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør han difor ikkje godkjennast.Etter ein søknad som Cambridge Theranostics Ltd. sende inn i medhald av artikkel 14 nr. 1 bokstav a) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), vart Styresmakta bede om å gje ei fråsegn om ein helsepåstand om verknadene av BimunoTM (BGOS) Prebiotic på reduksjon av dei skadelege bakteriane som kan føre til reisediaré (spørsmål nr. EFSA-Q-2008-232).5 Den påstanden som søkjaren hadde gjort framlegg om, hadde følgjande ordlyd: «Jamleg inntak av BimunoTM (BGOS) Prebiotic medverkar til vern mot dei skadelege bakteriane som kan føre til reisediaré».På grunnlag av dei opplysningane som vart lagde fram, konkluderte Styresmakta i den vitskaplege fråsegna si som Kommisjonen mottok 7. juli 2009, at det ikkje er ein årsakssamanheng mellom inntak av BimunoTM (BGOS) Prebiotic og den påståtte verknaden. Ettersom påstanden ikkje stettar krava i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør han difor ikkje godkjennast.Ved fastsetjinga av tiltaka i denne forordninga er det teke omsyn til dei kommentarane som Kommisjonen har motteke frå søkjarane og andre personar i samsvar med artikkel 16 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).Dei tiltaka som er fastsette i denne forordninga, er i samsvar med fråsegna frå Det faste utvalet for næringsmiddelkjeda og dyrehelsa og verken Europaparlamentet eller Rådet har sett seg imot dei –
+
+1 TEU L 404 av 30.12.2006, s. 9.
+
+2 *The EFSA Journal* (2009) 1177, s. 1–12.
+
+3 *The EFSA Journal* (2009) 1175, s. 1–9.
+
+4 *The EFSA Journal* (2009) 1179, s. 1–10.
+
+5 *The EFSA Journal* (2009) 1105, s. 1–9.
+
+VEDTEKE DENNE FORORDNINGA:
 
 ### Artikkel 1
 
@@ -929,11 +1461,28 @@ Denne forordninga er bindande i alle delar og gjeld direkte i alle medlemsstatan
 
 Utferda i Brussel, 5. mai 2010.
 
+|  |  |
+| --- | --- |
+|  | For Kommisjonen |
+|  |  |
+|  | President |
+|  |  |
+|  | José Manuel BARROSO |
+
 ### VEDLEGG I
 Helsepåstandar som er tillatne
 
+| *Søknad – relevante føresegner i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Søkjar – adresse* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe* | *Påstand* | *Bruksvilkår for påstanden* | *Vilkår og/eller restriksjonar for bruk av næringsmiddelet og/eller ei tilleggsfråsegn eller -åtvaring* | *Referanse-nummeret til EFSA-fråsegna* |
+| --- | --- | --- | --- | --- | --- | --- |
+| Artikkel 14 nr. 1 bokstav a) – helsepåstand om redusert sjukdomsrisiko | Danone France, 150 Bd Victor Hugo, 93589 Saint-Ouen Cedex, Frankrike | Fytosterolar/fytostanolesterar | Det er påvist at fytosterolar/fytostanolesterar senkar/reduserer blodkolesterolet. Høgt blodkolesterol er ein risikofaktor i utviklinga av koronar hjartesjukdom. | ►**M1** Forbrukarane vert informerte om at den gunstige verknaden vert oppnådd ved eit dagleg inntak på 1,5–3 g fytosterolar/fytostanolar. Det kan visast til omfanget av verknaden berre for næringsmiddel innanfor følgjande grupper: gule smørbare feittstoff, meieriprodukt, majones og salatdressingar. Når det vert vist til omfanget av verknaden, skal forbrukaren opplysast om skalaen «7 til 10 %» for næringsmiddel som gjev eit dagleg inntak på 1,5–2,4 g fytosterolar/fytostanolar, og skalaen «10 til 12,5 %» for næringsmiddel som gjev eit dagleg inntak på 2,5–3 g fytosterolar/fytostanolar, og at det tek «2 til 3 veker» før verknaden vert oppnådd. ◄**M1** |  | ►**M1** Q-2008-779 Q-2009-00530 og Q-2009-00718 Q-2011-01241 ◄**M1** |
+
 ### VEDLEGG II
 Avviste helsepåstandar
+
+| *Søknad – relevante føresegner i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe* | *Påstand* | *Referansenummeret til EFSA-fråsegna* |
+| --- | --- | --- | --- |
+| Artikkel 14 nr. 1 bokstav a) – helsepåstand om redusert sjukdomsrisiko | Lykopen-mysekompleks | Lykopen-mysekompleks hindrar oksidativ skade på lipoprotein i plasma, noko som dermed reduserer oppbygginga av plakk i arteriane og reduserer risikoen for hjartesjukdom, slagtilfelle og andre kliniske komplikasjonar som følgje av aterosklerose. | Q-2008-703 |
+| Artikkel 14 nr. 1 bokstav a) – helsepåstand om redusert sjukdomsrisiko | BimunoBT (BGOS) Prebiotic | Jamleg inntak av BimunoTM (BGOS) Prebiotic medverkar til vern mot dei skadelege bakteriane som kan føre til reisediaré. | Q-2009-00232 |
 
 ### Forordning (EU) nr. 957/2010
 
@@ -945,11 +1494,27 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 957/
 av 22. oktober 2010
 om godkjenning og avslag på godkjenning av visse helsepåstander om næringsmidler som viser til redusert sykdomsrisiko og barns utvikling og helse
 
+EUROPAKOMMISJONEN HAR –
+
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler,1 særlig artikkel 17 nr. 3, og
 
 ut fra følgende betraktninger:I henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924*) er helsepåstander om næringsmidler forbudt med mindre de er godkjent av Kommisjonen i samsvar med nevnte forordning og oppført på en liste over tillatte påstander.Ved forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det også fastsatt at driftsansvarlige for næringsmiddelforetak kan sende søknader om godkjenning av helsepåstander til vedkommende nasjonale myndighet i en medlemsstat. Vedkommende nasjonale myndighet skal videresende gyldige søknader til Den europeiske myndighet for næringsmiddeltrygghet (EFSA), heretter kalt «Myndigheten».Etter at det er mottatt en søknad, skal Myndigheten straks underrette de øvrige medlemsstatene og Kommisjonen om søknaden og avgi en uttalelse om den aktuelle helsepåstanden.Kommisjonen skal ta hensyn til uttalelsen fra Myndigheten når den treffer beslutning om godkjenning av helsepåstander.To av uttalelsene som det vises til i denne forordning, gjelder søknader om godkjenning av påstander om redusert sykdomsrisiko som omhandlet i artikkel 14 nr. 1 bokstav a) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), og tre gjelder søknader om godkjenning av påstander om barns utvikling og helse som omhandlet i artikkel 14 nr. 1 bokstav b) i samme forordning.Etter en søknad fra Association de la Transformation Laitière Française (ATLA), innlevert i samsvar med artikkel 14 nr. 1 bokstav b) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi en uttalelse om en helsepåstand om virkningene av jod på barns normale vekst (spørsmål nr. EFSA-Q-2008-324).2 Søkerens foreslåtte påstand hadde følgende ordlyd: «Jod er nødvendig for barns vekst».I sin uttalelse, som ble mottatt av Kommisjonen og medlemsstatene 20. november 2009, konkluderte Myndigheten at det på grunnlag av de opplysningene som ble framlagt, kunne fastslås en årsakssammenheng mellom inntak av jod og den påståtte virkningen. En helsepåstand som gjenspeiler denne konklusjonen, bør følgelig anses å oppfylle kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), og den bør oppføres på unionslisten over tillatte påstander.Etter en søknad fra Association de la Transformation Laitière Française (ATLA), innlevert i samsvar med artikkel 14 nr. 1 bokstav b) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi en uttalelse om en helsepåstand om virkningene av jern på barns kognitive utvikling (spørsmål nr. EFSA-Q-2008-325).3 Søkerens foreslåtte påstand hadde følgende ordlyd: «Jern er nødvendig for barns kognitive utvikling».I sin uttalelse, som ble mottatt av Kommisjonen og medlemsstatene 20. november 2009, konkluderte Myndigheten at det på grunnlag av de opplysningene som ble framlagt, kunne fastslås en årsakssammenheng mellom inntak av jern og den påståtte virkningen. En helsepåstand som gjenspeiler denne konklusjonen, bør følgelig anses å oppfylle kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), og den bør oppføres på unionslisten over tillatte påstander.Ved artikkel 16 nr. 4 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det fastsatt at en uttalelse som er positiv til godkjenning av en helsepåstand, skal inneholde bestemte opplysninger. Disse opplysningene bør derfor angis i vedlegg I til denne forordning for de godkjente påstandene, og de bør eventuelt omfatte en endret formulering av påstanden, særlige vilkår for bruk av påstanden og, når det er relevant, vilkår eller begrensninger for bruk av næringsmiddelet og/eller en tilleggsangivelse eller -advarsel i samsvar med bestemmelsene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), og i tråd med Myndighetens uttalelser.Forordning [(EF) nr. 1924/2006](eu/32006r1924*) har blant annet til formål å sikre at helsepåstander er sannferdige, tydelige, pålitelige og nyttige for forbrukeren, og at det i den forbindelse tas hensyn til formuleringen og presentasjonen av dem. Påstander som i kraft av sin ordlyd har samme betydning for forbrukerne som en godkjent helsepåstand fordi de viser til samme sammenheng mellom en næringsmiddelkategori, et næringsmiddel eller en bestanddel av et næringsmiddel på den ene siden, og helse på den andre siden, bør være underlagt de samme vilkår for bruk som en godkjent helsepåstand, som angitt i vedlegg I.Etter en søknad fra GP International Holding BV, innlevert i samsvar med artikkel 14 nr. 1 bokstav a) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi en uttalelse om en helsepåstand om virkningene av OPC PremiumTM med hensyn til reduksjon av kolesterolinnholdet i blodet (spørsmål nr. EFSA-Q-2009-00454).4 Søkerens foreslåtte påstand hadde følgende ordlyd: «OPC har vist seg å redusere kolesterolinnholdet i blodet og kan derfor minske risikoen for hjerte- og karsykdommer».I sin uttalelse, som ble mottatt av Kommisjonen og medlemsstatene 26. oktober 2009, konkluderte Myndigheten at det på grunnlag av de opplysningene som ble framlagt, ikke var fastslått noen årsakssammenheng mellom inntak av OPC PremiumTM og den påståtte virkningen. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den derfor ikke godkjennes.Etter en søknad fra Valosun AS, innlevert i samsvar med artikkel 14 nr. 1 bokstav a) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi en uttalelse om en helsepåstand om virkningene av Uroval® på urinveisinfeksjoner (spørsmål nr. EFSA-Q-2009-00600).5 Søkerens foreslåtte påstand hadde følgende ordlyd: «Tranebærekstrakt og D-mannose, de viktigste aktive stoffene i kosttilskuddet Uroval®, hindrer at skadelige bakterier fester seg til blæreveggen. At skadelige bakterier fester seg til blæreveggen er den viktigste risikofaktoren med hensyn til utvikling av urinveisinfeksjoner».I sin uttalelse, som ble mottatt av Kommisjonen og medlemsstatene 22. desember 2009, konkluderte Myndigheten at det på grunnlag av de opplysningene som ble framlagt, ikke var fastslått noen årsakssammenheng mellom inntak av Uroval® og den påståtte virkningen. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den derfor ikke godkjennes.Etter en søknad fra Tšpfer GmbH, innlevert i samsvar med artikkel 14 nr. 1 bokstav b) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi en uttalelse om en helsepåstand om virkningene av en kombinasjon av bifidobakterier (*Bifidobacterium bifidum*, *Bifidobacterium breve*, *Bifidobacterium infantis*, *Bifidobacterium longum*) med hensyn til reduksjon av forekomsten av potensielt sykdomsframkallende mikroorganismer i tarmen (spørsmål nr. EFSA-Q-2009-00224).6 Søkerens foreslåtte påstand hadde følgende ordlyd: «Probiotiske bifidobakterier gir en sunn tarmflora med en sammensetning som kan sammenlignes med tarmfloraen hos spedbarn som ammes».I sin uttalelse, som ble mottatt av Kommisjonen og medlemsstatene 22. desember 2009, konkluderte Myndigheten at det på grunnlag av de opplysningene som ble framlagt, ikke var fastslått noen årsakssammenheng mellom inntak av denne kombinasjonen av bifidobakterier og den påståtte virkningen. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den derfor ikke godkjennes.De kommentarene som Kommisjonen har mottatt fra søkerne og andre personer i samsvar med artikkel 16 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), er tatt i betraktning ved fastsettelsen av tiltakene i denne forordning.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for næringsmiddelkjeden og dyrehelsen, og verken Europaparlamentet eller Rådet har motsatt seg dem –
+
+1 EUT L 404 av 30.12.2006, s. 9.
+
+2 *The EFSA Journal* (2009) 7(11):1359.
+
+3 *The EFSA Journal* (2009) 7(11):1360.
+
+4 *The EFSA Journal* (2009) 7(10):1356.
+
+5 *The EFSA Journal* (2009) 7(12):1421.
+
+6 *The EFSA Journal* (2009) 7(12):1420.
+
+VEDTATT DENNE FORORDNING:
 
 ### Artikkel 1
 
@@ -971,11 +1536,28 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel, 22. oktober 2010.
 
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  | José Manuel BARROSO |
+|  | *President* |
+
 ### VEDLEGG I
 Tillatte helsepåstander
 
+| Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*) | Søker – adresse | Næringsstoff, stoff, næringsmiddel eller næringsmiddel-kategori | Påstand | Vilkår for bruk av påstanden | Vilkår og/eller begrensninger for bruk av næringsmiddelet og/eller en tilleggsangivelse eller -advarsel | EFSA-uttalelsens referanse-nummer |
+| --- | --- | --- | --- | --- | --- | --- |
+| Artikkel 14 nr. 1 bokstav b) – helsepåstand som viser til barns utvikling og helse | Association de la Transformation Laitière Française (ATLA), 42 rue du Châteaudun, 75314 Paris Cedex 09, Frankrike | Jod | Jod bidrar til barns normale vekst | Påstanden kan brukes bare om næringsmidler som minst er en kilde til jod i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*) |  | Q-2008-324 |
+| Artikkel 14 nr. 1 bokstav b) – helsepåstand som viser til barns utvikling og helse | Association de la Transformation Laitière Française (ATLA), 42 rue du Châteaudun, 75314 Paris Cedex 09, Frankrike | Jern | Jern bidrar til en normal kognitiv utvikling hos barn | Påstanden kan brukes bare om næringsmidler som minst er en kilde til jern i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*) |  | Q-2008-325 |
+
 ### VEDLEGG II
 Avslåtte helsepåstander
+
+| Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*) | Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori | Påstand | EFSA-uttalelsens referansenummer |
+| --- | --- | --- | --- |
+| Artikkel 14 nr. 1 bokstav a) – helsepåstand som viser til redusert sykdomsrisiko | OPC Premium™ | OPC har vist seg å redusere kolesterolinnholdet i blodet og kan derfor minske risikoen for hjerte- og karsykdommer. | Q-2009-00454 |
+| Artikkel 14 nr. 1 bokstav a) – helsepåstand som viser til redusert sykdomsrisiko | Uroval® | Tranebærekstrakt og D-mannose, de viktigste aktive stoffene i kosttilskuddet Uroval®, hindrer at skadelige bakterier fester seg til blæreveggen. At skadelige bakterier fester seg til blæreveggen er den viktigste risikofaktoren med hensyn til utvikling av urinveisinfeksjoner. | Q-2009-00600 |
+| Artikkel 14 nr. 1 bokstav b) – helsepåstand som viser til barns utvikling og helse | Kombinasjon av bifidobakterier (*Bifidobacterium bifidum, Bifidobacterium breve, Bifidobacterium infantis* og *Bifidobacterium longum*) | Probiotiske bifidobakterier gir en sunn tarmflora med en sammensetning som kan sammenlignes med tarmfloraen hos spedbarn som ammes. | Q-2009-00224 |
 
 ### Forordning (EU) nr. 958/2010
 
@@ -987,11 +1569,19 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 958/
 av 22. oktober 2010
 om avslag på godkjenning av ein helsepåstand om næringsmiddel som ikkje viser til redusert sjukdomsrisiko og til utviklinga og helsa til barn
 
+EUROPAKOMMISJONEN HAR,
+
 med tilvising til traktaten om verkemåten til Den europeiske unionen,
 
 med tilvising til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler,1 særleg artikkel 18 nr. 5 og
 
 ut frå desse synsmåtane:I medhald av forordning [(EF) nr. 1924/2006](eu/32006r1924*) er helsepåstandar om næringsmiddel forbodne med mindre dei er godkjende av Kommisjonen i samsvar med den nemnde forordninga og førde opp i ei liste over påstandar som er tillatne.Ved forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det òg fastsett at driftsansvarlege for næringsmiddelføretak kan sende søknader om godkjenning av helsepåstandar til den rette nasjonale styresmakta i ein medlemsstat. Den rette nasjonale styresmakta skal sende gyldige søknader vidare til Den europeiske styresmakta for næringsmiddeltryggleik (EFSA), heretter kalla «Styresmakta».Etter at søknaden er motteken, skal Styresmakta straks melde frå til dei andre medlemsstatane og Kommisjonen og gje ei fråsegn om den aktuelle helsepåstanden.Kommisjonen skal ta omsyn til fråsegna frå Styresmakta når han tek avgjerd om godkjenning av helsepåstandar.Etter ein søknad frå Rudolf Wild GmbH & Co. KG, send over 10. juni 2008 i medhald av artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), vart Styresmakta bede om å gje ei fråsegn om ein helsepåstand om verknadene av Immune Balance Drink på styrking av forsvaret til kroppen (spørsmål nr. EFSA-Q-2009-00517).2 Den påstanden som søkjaren hadde gjort framlegg om, hadde mellom anna følgjande ordlyd: «Immune Balance Drink aktiverer forsvaret til kroppen».Kommisjonen og medlemsstatane mottok 4. november 2009 den vitskaplege fråsegna frå Styresmakta, der han konkluderte med at det på grunnlag av dei framlagde opplysningane ikkje kunne påvisast nokon årsakssamanheng mellom inntak av Immune Balance Drink og den påståtte verknaden. Ettersom påstanden ikkje stettar krava i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør han difor ikkje godkjennast.Ved fastsetjinga av tiltaka i denne forordninga er det teke omsyn til dei kommentarane som Kommisjonen har motteke frå søkjaren og andre personar i samsvar med artikkel 16 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).Dei helsepåstandane som er nemnde i artikkel 13 nr. 1 bokstav a) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), er omfatta av overgangstiltaka som er fastsette i artikkel 28 nr. 5 i den same forordninga, berre dersom dei stettar krava i den artikkelen, mellom anna at dei må stette forordninga. Når det gjeld den påstanden som er omfatta av denne forordninga, konkluderte Styresmakta med at det ikkje var påvist nokon årsakssamanheng mellom inntak av næringsmiddelet og dei påståtte verknadene, og dermed er påstanden ikkje i samsvar med forordning [(EF) nr. 1924/2006](eu/32006r1924*) og vert ikkje omfatta av den overgangsperioden som er fastsett i artikkel 28 nr. 5 i den same forordninga. Det bør fastsetjast ein overgangsperiode på seks månader for å gjere det mogleg for driftsansvarlege for næringsmiddelføretak å tilpasse seg krava i denne forordninga.Dei tiltaka som er fastsette i denne forordninga, er i samsvar med fråsegna frå Det faste utvalet for næringsmiddelkjeda og dyrehelsa og verken Europaparlamentet eller Rådet har sett seg imot dei –
+
+1 TEU L 404 av 30.12.2006, s. 9.
+
+2 *The EFSA Journal* (2009) 7 (11):1357.
+
+VEDTEKE DENNE FORORDNINGA:
 
 ### Artikkel 1
 
@@ -1007,8 +1597,18 @@ Denne forordninga er bindande i alle delar og gjeld direkte i alle medlemsstatan
 
 Utferda i Brussel, 22. oktober 2010.
 
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  | *President* |
+|  | José Manuel BARROSO |
+
 ### VEDLEGG
 Avvist helsepåstand
+
+| Søknad – relevante føresegner i forordning [(EF) nr. 1924/2006](eu/32006r1924*) | Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe | Påstand | Referansenummeret til EFSA-fråsegna |
+| --- | --- | --- | --- |
+| Artikkel 13 nr. 5 – helsepåstand som byggjer på nyutvikla vitskaplege prov og/eller inneheld ei oppmoding om sikring av data som er underlagde eigedomsrett | Immune Balance drink | Immune Balance Drink aktiverer forsvaret til kroppen | Q-2009-00517 |
 
 ### Forordning (EU) nr. 1161/2010
 
@@ -1020,11 +1620,19 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 1161
 av 9. desember 2010
 om avslag på godkjenning av ein helsepåstand om næringsmiddel som ikkje viser til redusert sjukdomsrisiko og til utviklinga og helsa til barn
 
+EUROPAKOMMISJONEN HAR –
+
 med tilvising til traktaten om verkemåten til Den europeiske unionen,
 
 med tilvising til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler,1 særleg artikkel 18 nr. 5 og
 
 ut frå desse synsmåtane:I medhald av forordning [(EF) nr. 1924/2006](eu/32006r1924*) er helsepåstandar om næringsmiddel forbodne med mindre dei er godkjende av Kommisjonen i samsvar med den nemnde forordninga og førde opp i ei liste over påstandar som er tillatne.Ved forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det òg fastsett at driftsansvarlege for næringsmiddelføretak kan sende søknader om godkjenning av helsepåstandar til den rette nasjonale styresmakta i ein medlemsstat. Den rette nasjonale styresmakta skal sende gyldige søknader vidare til Den europeiske styresmakta for næringsmiddeltryggleik (EFSA), heretter kalla «Styresmakta».Etter at søknaden er motteken, skal Styresmakta straks melde frå til dei andre medlemsstatane og Kommisjonen og gje ei fråsegn om den aktuelle helsepåstanden.Kommisjonen skal ta omsyn til fråsegna frå Styresmakta når han tek avgjerd om godkjenning av helsepåstandar.Etter ein søknad frå Laboratoire Vie et Santé, send over 29. desember 2008 i medhald av artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), vart Styresmakta bede om å gje ei fråsegn om ein helsepåstand om verknadene av Catalgine® bouffées de chaleur på minsking av talet på heitetokter (spørsmål nr. EFSA-Q-2009-00852).2 Den påstanden som søkjaren hadde gjort framlegg om, hadde følgjande ordlyd: «Medverkar til å minske talet på heitetokter».Kommisjonen og medlemsstatane mottok 13. januar 2010 den vitskaplege fråsegna frå Styresmakta, der han konkluderte med at det på grunnlag av dei framlagde opplysningane ikkje kunne påvisast nokon årsakssamanheng mellom inntak av Catalgine® bouffées de chaleur og den påståtte verknaden. Ettersom påstanden ikkje stettar krava i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør han difor ikkje godkjennast.Dei helsepåstandane som er nemnde i artikkel 13 nr. 1 bokstav a) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), er omfatta av overgangstiltaka som er fastsette i artikkel 28 nr. 5 i den same forordninga, berre dersom dei stettar krava i den artikkelen, mellom anna at dei må stette forordninga. Når det gjeld den påstanden som denne forordninga omfattar, konkluderte Styresmakta med at det ikkje var påvist nokon årsakssamanheng mellom inntak av næringsmiddelet og den påståtte verknaden, og dermed er påstanden ikkje i samsvar med forordning [(EF) nr. 1924/2006](eu/32006r1924*) og vert ikkje omfatta av den overgangsperioden som er fastsett i artikkel 28 nr. 5 i den same forordninga. Det er fastsett ein overgangsperiode på seks månader for å gjere det mogleg for driftsansvarlege for næringsmiddelføretak å tilpasse seg krava i denne forordninga.Dei tiltaka som er fastsette i denne forordninga, er i samsvar med fråsegna frå Det faste utvalet for næringsmiddelkjeda og dyrehelsa og verken Europaparlamentet eller Rådet har sett seg imot dei –
+
+1 TEU L 404 av 30.12.2006, s. 9.
+
+2 *The EFSA Journal* 2010, 8(1):1422.
+
+VEDTEKE DENNE FORORDNINGA:
 
 ### Artikkel 1
 
@@ -1040,8 +1648,18 @@ Denne forordninga er bindande i alle delar og gjeld direkte i alle medlemsstatan
 
 Utferda i Brussel, 9. desember 2010.
 
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  | José Manuel BARROSO |
+|  | *President* |
+
 ### VEDLEGG
 Avvist helsepåstand
+
+| Søknad – relevante føresegner i forordning [(EF) nr. 1924/2006](eu/32006r1924*) | Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe | Påstand | Referansenummeret til EFSA-fråsegna |
+| --- | --- | --- | --- |
+| Artikkel 13 nr. 5 – helsepåstand som byggjer på nyutvikla vitskaplege prov og/eller inneheld ei oppmoding om sikring av data som er underlagde eigedomsrett | Catalgine® bouffées de chaleur | Medverkar til å minske talet på heitetokter | Q-2009-00852 |
 
 ### Forordning (EU) nr. 1162/2010
 
@@ -1053,11 +1671,21 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 1162
 av 9. desember 2010
 om avslag på godkjenning av visse helsepåstandar om næringsmiddel som viser til redusert sjukdomsrisiko og til utviklinga og helsa til barn
 
+EUROPAKOMMISJONEN HAR –
+
 med tilvising til traktaten om verkemåten til Den europeiske unionen,
 
 med tilvising til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler,1 særleg artikkel 17 nr. 3 og
 
 ut frå desse synsmåtane:I medhald av forordning [(EF) nr. 1924/2006](eu/32006r1924*) er helsepåstandar om næringsmiddel forbodne med mindre dei er godkjende av Kommisjonen i samsvar med den nemnde forordninga og førde opp i ei liste over påstandar som er tillatne.Ved forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det òg fastsett at driftsansvarlege for næringsmiddelføretak kan sende søknader om godkjenning av helsepåstandar til den rette nasjonale styresmakta i ein medlemsstat. Den rette nasjonale styresmakta skal sende gyldige søknader vidare til Den europeiske styresmakta for næringsmiddeltryggleik (EFSA), heretter kalla «Styresmakta».Etter at søknaden er motteken, skal Styresmakta straks melde frå til dei andre medlemsstatane og Kommisjonen og gje ei fråsegn om den aktuelle helsepåstanden.Kommisjonen skal ta omsyn til fråsegna frå Styresmakta når han tek avgjerd om godkjenning av helsepåstandar.Alle dei fråsegnene som er nemnde i denne forordninga, er knytte til søknader som gjeld påstandar om redusert sjukdomsrisiko, som nemnd i artikkel 14 nr. 1 bokstav b) i forordning [(EF) nr. 1924/2006](eu/32006r1924*).Etter ein søknad som Danone Baby Nutrition sende inn i medhald av artikkel 14 nr. 1 bokstav b) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), vart Styresmakta bede om å gje ei fråsegn om ein helsepåstand om verknadene av Immunofortis® på immunsystemet til barn (spørsmål nr. EFSA-Q-2008-106).2 Den påstanden som søkjaren hadde gjort framlegg om, hadde følgjande ordlyd: «Immunofortis® styrkjer immunsystemet til barnet ditt på ein naturleg måte».På grunnlag av dei opplysningane som vart lagde fram, konkluderte Styresmakta i den vitskaplege fråsegna si som Kommisjonen mottok 4. februar 2010, med at dei opplysningane som er lagde fram, ikkje er tilstrekkelege til fastslå at det er ein årsakssamanheng mellom inntak av Immunofortis® og den påståtte verknaden. Ettersom påstanden ikkje stettar krava i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør han difor ikkje godkjennast.Etter ein søknad som Vifor Pharma (Potters) sende inn i medhald av artikkel 14 nr. 1 bokstav b) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), vart Styresmakta bede om å gje ei fråsegn om ein helsepåstand om verknadene av Eye qTM på arbeidsminnet (spørsmål nr. EFSA-Q-2009-00485).3 Den påstanden som søkjaren hadde gjort framlegg om, hadde følgjande ordlyd: «Eye q TM (ein unik kombinasjon av høgkonsentrert EPA/DHA/GLA omega 3, 6 PUFA) inneheld dei essensielle næringsstoffa som er med på å betre arbeidsminnet til barn». Forkortingane som søkjaren har nytta, viser til høvesvis eikosapentaensyre (EPA), dokosaheksaensyre (DHA), gammalinolensyre (GLA) og fleirumetta feittsyrer (PUFA).På grunnlag av dei opplysningane som vart lagde fram, konkluderte Styresmakta i den vitskaplege fråsegna si som Kommisjonen mottok 4. mars 2010, med at dei opplysningane som er lagde fram, ikkje er tilstrekkelege til fastslå at det er ein årsakssamanheng mellom inntak av Eye q TM og den påståtte verknaden. Ettersom påstanden ikkje stettar krava i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør han difor ikkje godkjennast.I samsvar med artikkel 28 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), kan dei helsepåstandane som er nemnde i artikkel 14 nr. 1 bokstav b) i den same forordninga og som ikkje er godkjende ved ei avgjerd i medhald av artikkel 17 nr. 3 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), framleis nyttast i 6 månader etter at denne forordninga er vedteken, såframt det var sendt inn ein søknad før 19. januar 2008. Ettersom søknaden om ein helsepåstand om Eye qTM ikkje var sendt inn innan 19. januar 2008, er det kravet som er fastsett i artikkel 28 nr. 6 bokstav b), ikkje stetta og den overgangsperioden som er fastsett i den artikkelen, kan ikkje nyttast. Det bør difor fastsetjast ein overgangsperiode på seks månader for å gjere det mogleg for driftsansvarlege for næringsmiddelføretak å tilpasse seg krava i denne forordninga.Ved fastsetjinga av tiltaka i denne forordninga er det teke omsyn til dei kommentarane som Kommisjonen har motteke frå søkjarane og andre personar i samsvar med artikkel 16 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).Dei tiltaka som er fastsette i denne forordninga, er i samsvar med fråsegna frå Det faste utvalet for næringsmiddelkjeda og dyrehelsa og verken Europaparlamentet eller Rådet har sett seg imot dei –
+
+1 TEU L 404 av 30.12.2006, s. 9.
+
+2 *The EFSA Journal* (2010), 8(2):1430.
+
+3 *The EFSA Journal* (2010), 8 (3):1516.
+
+VEDTEKE DENNE FORORDNINGA:
 
 ### Artikkel 1
 
@@ -1073,8 +1701,19 @@ Denne forordninga er bindande i alle delar og gjeld direkte i alle medlemsstatan
 
 Utferda i Brussel, 9. desember 2010.
 
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  | José Manuel BARROSO |
+|  | *President* |
+
 ### VEDLEGG
 Avviste helsepåstandar
+
+| Søknad – relevante føresegner i forordning [(EF) nr. 1924/2006](eu/32006r1924*) | Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe | Påstand | Referansenummeret til EFSA-fråsegna |
+| --- | --- | --- | --- |
+| Artikkel 14 nr. 1 bokstav b) – helsepåstand som viser til utviklinga og helsa til barn | Immunofortis® | Immunofortis® styrkjer immunsystemet til barnet ditt på ein naturleg måte | Q-2008-106 |
+| Artikkel 14 nr. 1 bokstav b) – helsepåstand som viser til utviklinga og helsa til barn | Eye qTM | Eye qTM (ein unik kombinasjon av høgkonsentrert EPA/DHA/GLA omega 3, 6 PUFA) inneheld dei essensielle næringsstoffa som er med på å betre arbeidsminnet til barn | Q-2009-00485 |
 
 ### Forordning (EU) nr. 432/2011
 
@@ -1086,11 +1725,31 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 432/
 av 4. mai 2011
 om avslag på godkjenning av visse andre helsepåstandar om næringsmiddel enn dei som viser til redusert sjukdomsrisiko og til utviklinga og helsa til barn
 
+EUROPAKOMMISJONEN HAR –
+
 med tilvising til traktaten om verkemåten til Den europeiske unionen,
 
 med tilvising til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler,1 særleg artikkel 18 nr. 5 og
 
 ut frå desse synsmåtane:I medhald av forordning [(EF) nr. 1924/2006](eu/32006r1924*) er helsepåstandar om næringsmiddel forbodne med mindre dei er godkjende av Kommisjonen i samsvar med den nemnde forordninga og førde opp i ei liste over påstandar som er tillatne.Ved forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det òg fastsett at driftsansvarlege for næringsmiddelføretak kan sende søknader om godkjenning av helsepåstandar til den rette nasjonale styresmakta i ein medlemsstat. Den rette nasjonale styresmakta skal sende gyldige søknader vidare til Den europeiske styresmakta for næringsmiddeltryggleik (EFSA), heretter kalla «Styresmakta».Etter at søknaden er motteken, skal Styresmakta straks melde frå til dei andre medlemsstatane og Kommisjonen og gje ei fråsegn om den aktuelle helsepåstanden.Kommisjonen skal ta omsyn til fråsegna frå Styresmakta når han tek avgjerd om godkjenning av helsepåstandar.Etter ein søknad frå Gencor Pacific Inc, send over 10. november 2009 i medhald av artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), vart Styresmakta bede om å gje ei fråsegn om ein helsepåstand om verknadene av etanol/vass-ekstrakt av Caralluma fimbriata (Slimaluma®) med omsyn til å redusere midjeomkrinsen (spørsmål nr. EFSA-Q-2010-00027).2 Den påstanden som søkjaren hadde gjort framlegg om, hadde følgjande ordlyd: «Slimaluma medverkar til å redusere midjeomkrinsen».Kommisjonen og medlemsstatane mottok 12. mai 2010 og 18. mai 2010 den vitskaplege fråsegna og ei seinare endring av ho frå Styresmakta, der han konkluderte med at det på grunnlag av dei framlagde opplysningane ikkje kunne påvisast nokon årsakssamanheng mellom inntak av Slimaluma® og den fordelaktige fysiologiske verknaden som Styresmakta har definert, nemleg reduksjon av midjeomkrinsen som vil føre til færre helseskadelege verknader knytte til for mykje bukfeitt. Ettersom påstanden ikkje stettar krava i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør han difor ikkje godkjennast.Etter ein søknad frå Gencor Pacific Inc, send over 10. november 2009 i medhald av artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), vart Styresmakta bede om å gje ei fråsegn om ein helsepåstand om verknadene av etanol/vass-ekstrakt av Caralluma fimbriata (Slimaluma®) med omsyn til å redusere kroppsfeittet (spørsmål nr. EFSA-Q-2010-00028).3 Den påstanden som søkjaren hadde gjort framlegg om, hadde følgjande ordlyd: «Slimaluma® medverkar til å redusere kroppsfeittet».Kommisjonen og medlemsstatane mottok 12. mai 2010 den vitskaplege fråsegna frå Styresmakta, der han konkluderte med at det på grunnlag av dei framlagde opplysningane ikkje kunne påvisast nokon årsakssamanheng mellom inntak av Slimaluma® og den påståtte verknaden. Ettersom påstanden ikkje stettar krava i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør han difor ikkje godkjennast.Etter ein søknad frå Gencor Pacific Inc, send over 10. november 2009 i medhald av artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), vart Styresmakta bede om å gje ei fråsegn om ein helsepåstand om verknadene av etanol/vass-ekstrakt av Caralluma fimbriata (Slimaluma®) med omsyn til å redusere kroppsvekta (spørsmål nr. EFSA-Q-2010-00029).4 Den påstanden som søkjaren hadde gjort framlegg om, hadde følgjande ordlyd: «Slimaluma® medverkar til å redusere kroppsvekta».Kommisjonen og medlemsstatane mottok 12. mai 2010 den vitskaplege fråsegna frå Styresmakta, der han konkluderte med at det på grunnlag av dei framlagde opplysningane ikkje kunne påvisast nokon årsakssamanheng mellom inntak av Slimaluma® og den påståtte verknaden. Ettersom påstanden ikkje stettar krava i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør han difor ikkje godkjennast.Etter ein søknad frå Gencor Pacific Inc, send over 10. november 2009 i medhald av artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), vart Styresmakta bede om å gje ei fråsegn om ein helsepåstand om verknadene av etanol/vass-ekstrakt av Caralluma fimbriata (Slimaluma®) med omsyn til å redusere energiinntaket (spørsmål nr. EFSA-Q-2010-00030).5 Den påstanden som søkjaren hadde gjort framlegg om, hadde følgjande ordlyd: «Slimaluma® medverkar til å redusere kaloriinntaket».Kommisjonen og medlemsstatane mottok 12. mai 2010 den vitskaplege fråsegna frå Styresmakta, der han konkluderte med at det på grunnlag av dei framlagde opplysningane ikkje kunne påvisast nokon årsakssamanheng mellom inntak av Slimaluma® og den påståtte verknaden. Ettersom påstanden ikkje stettar krava i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør han difor ikkje godkjennast.Etter ein søknad frå Gencor Pacific Inc, send over 10. november 2009 i medhald av artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), vart Styresmakta bede om å gje ei fråsegn om ein helsepåstand om verknadene av etanol/vass-ekstrakt av Caralluma fimbriata (Slimaluma®) med omsyn til å kontrollere sulten/appetitten (spørsmål nr. EFSA-Q-2010-00031).6 Den påstanden som søkjaren hadde gjort framlegg om, hadde følgjande ordlyd: «Slimaluma® medverkar til å kontrollere sulten/appetitten».Kommisjonen og medlemsstatane mottok 12. mai 2010 den vitskaplege fråsegna frå Styresmakta, der han konkluderte med at det på grunnlag av dei framlagde opplysningane ikkje kunne påvisast nokon årsakssamanheng mellom inntak av Slimaluma® og den fordelaktige fysiologiske verknaden som Styresmakta har definert, nemleg mindre appetitt og dermed mindre energiinntak. Ettersom påstanden ikkje stettar krava i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør han difor ikkje godkjennast.Etter ein søknad frå Leiber GmbH, send over 2. oktober 2009 i medhald av artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), vart Styresmakta bede om å gje ei fråsegn om ein helsepåstand om verknadene av Yestimun® på immunresponsen (spørsmål nr. EFSA-Q-2008-667).7 Den påstanden som søkjaren hadde gjort framlegg om, hadde mellom anna følgjande ordlyd: «Dagleg inntak av Yestimun® styrkjer forsvaret til kroppen i den kalde årstida».Kommisjonen og medlemsstatane mottok 27. mai 2010 den vitskaplege fråsegna frå Styresmakta, der han konkluderte med at det på grunnlag av dei framlagde opplysningane ikkje kunne påvisast nokon årsakssamanheng mellom inntak av Yestimun® og aktivering av høvelege medfødde og adaptive immunresponsar. Ettersom påstanden ikkje stettar krava i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør han difor ikkje godkjennast.Etter ein søknad frå Laboratoires innéov SNC, send over 30. desember 2008 i medhald av artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), vart Styresmakta bede om å gje ei fråsegn om ein helsepåstand om verknadene av frøolje av solbær (Ribes nigrum), fiskeolje, lykopen frå tomatekstrakt (Lycopersicon esculentum), vitamin C og vitamin E med omsyn til hjelp mot tørr hud (spørsmål nr. EFSA-Q-2009-00767).8 Den påstanden som søkjaren hadde gjort framlegg om, hadde mellom anna følgjande ordlyd: «hjelper mot tørr hud».Kommisjonen og medlemsstatane mottok 25. mai 2010 den vitskaplege fråsegna frå Styresmakta, der han konkluderte med at det på grunnlag av dei framlagde opplysningane ikkje kunne påvisast nokon årsakssamanheng mellom inntak av ein kombinasjon av frøolje av solbær (Ribes nigrum), fiskeolje, lykopen frå tomatekstrakt (Lycopersicon esculentum), vitamin C og vitamin E og den påståtte verknaden. Ettersom påstanden ikkje stettar krava i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør han difor ikkje godkjennast.Ved fastsetjinga av tiltaka i denne forordninga er det teke omsyn til dei kommentarane som Kommisjonen har motteke frå søkjarane og andre personar i samsvar med artikkel 16 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).Helsepåstandane i samband med Slimaluma® er helsepåstandar i medhald av artikkel 13 nr. 1 bokstav c) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), og er difor omfatta av den overgangsperioden som er fastsett i artikkel 28 nr. 6 i den same forordninga. Ettersom søknadene ikkje var sende inn innan 19. januar 2008, er det kravet som er fastsett i artikkel 28 nr. 6 bokstav b) i den nemnde forordninga, ikkje stetta og helsepåstandane kan difor ikkje omfattast av den overgangsperioden som er fastsett i den artikkelen.Helsepåstandane i samband med Yestimun® og frøolje av solbær (Ribes nigrum), fiskeolje, lykopen frå tomatekstrakt (Lycopersicon esculentum), vitamin C og vitamin E, er helsepåstandar i medhald av artikkel 13 nr. 1 bokstav a) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), og er difor omfatta av den overgangsperioden som er fastsett i artikkel 28 nr. 5 i den same forordninga. Ettersom Styresmakta konkluderte med at det ikkje var påvist nokon årsakssamanheng mellom inntak av næringsmidla og dei høvesvise påståtte verknadene, er dei to påstandane ikkje i samsvar med forordning [(EF) nr. 1924/2006](eu/32006r1924*) og vert difor ikkje omfatta av overgangsperioden som er fastsett i den artikkelen.For å sikre at denne forordninga vert oppfylt fullt ut bør både driftsansvarlege for næringsmiddelføretak og dei rette nasjonale styresmaktene gjere dei tiltaka som er naudsynte for å sikre at produkt som er påførde dei helsepåstandane som er nemnde i vedlegget til denne forordninga, ikkje lenger finst på marknaden seinast innan seks månader etter at denne forordninga har teke til å gjelde.Dei tiltaka som er fastsette i denne forordninga, er i samsvar med fråsegna frå Det faste utvalet for næringsmiddelkjeda og dyrehelsa og verken Europaparlamentet eller Rådet har sett seg imot dei –
+
+1 TEU L 404 av 30.12.2006, 9.
+
+2 The EFSA Journal 2010; 8 (5):1602.
+
+3 The EFSA Journal 2010; 8 (5):1602.
+
+4 The EFSA Journal 2010; 8 (5):1604.
+
+5 The EFSA Journal 2010; 8 (5):1605.
+
+6 The EFSA Journal 2010; 8 (5):1606.
+
+7 The EFSA Journal 2010; 8 (5):1607.
+
+8 The EFSA Journal 2010; 8 (5):1608.
+
+VEDTEKE DENNE FORORDNINGA:
 
 ### Artikkel 1
 
@@ -1106,8 +1765,26 @@ Denne forordninga er bindande i alle delar og gjeld direkte i alle medlemsstatan
 
 Utferda i Brussel, 4. mai 2011.
 
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  |  |
+|  | José Manuel BARROSO |
+|  |  |
+|  | *President* |
+
 ### VEDLEGG
 Avviste helsepåstandar
+
+| *Søknad – relevante føresegner i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe* | *Påstand* | *Referansenummeret til EFSA-fråsegna* |
+| --- | --- | --- | --- |
+| Artikkel 13 nr. 5. Helsepåstand som byggjer på nyutvikla vitskaplege prov og/eller inneheld ei oppmoding om sikring av data som er underlagde eigedomsrett | Etanol/vass-ekstrakt av *Caralluma fimbriata* (Slimaluma®) | Slimaluma® medverkar til å redusere midjeomkrinsen | Q-2010-00027 |
+| Artikkel 13 nr. 5. Helsepåstand som byggjer på nyutvikla vitskaplege prov og/eller inneheld ei oppmoding om sikring av data som er underlagde eigedomsrett | Etanol/vass-ekstrakt av *Caralluma fimbriata* (Slimaluma®) | Slimaluma® medverkar til å redusere kroppsfeittet | Q-2010-00028 |
+| Artikkel 13 nr. 5. Helsepåstand som byggjer på nyutvikla vitskaplege prov og/eller inneheld ei oppmoding om sikring av data som er underlagde eigedomsrett | Etanol/vass-ekstrakt av *Caralluma fimbriata* (Slimaluma®) | Slimaluma® medverkar til å redusere kroppsvekta | Q-2010-00029 |
+| Artikkel 13 nr. 5. Helsepåstand som byggjer på nyutvikla vitskaplege prov og/eller inneheld ei oppmoding om sikring av data som er underlagde eigedomsrett | Etanol/vass-ekstrakt av *Caralluma fimbriata* (Slimaluma®) | Slimaluma® medverkar til å redusere kaloriinntaket | Q-2010-00030 |
+| Artikkel 13 nr. 5. Helsepåstand som byggjer på nyutvikla vitskaplege prov og/eller inneheld ei oppmoding om sikring av data som er underlagde eigedomsrett | Etanol/vass-ekstrakt av *Caralluma fimbriata* (Slimaluma®) | Slimaluma® medverkar til å kontrollere sulten/appetitten | Q-2010-00031 |
+| Artikkel 13 nr. 5. Helsepåstand som byggjer på nyutvikla vitskaplege prov og/eller inneheld ei oppmoding om sikring av data som er underlagde eigedomsrett | Yestimun® | Dagleg inntak av Yestimun® styrkjer forsvaret til kroppen i den kalde årstida | Q-2008-667 |
+| Artikkel 13 nr. 5. Helsepåstand som byggjer på nyutvikla vitskaplege prov og/eller inneheld ei oppmoding om sikring av data som er underlagde eigedomsrett | Kombinasjon av frøolje av solbær (*Ribes nigrum*), fiskeolje, lykopen frå tomatekstrakt (*Lycopersicon esculentum*), vitamin C og vitamin E | Hjelper mot tørr hud | Q-2009-00767 |
 
 ### Forordning (EU) nr. 440/2011
 
@@ -1119,23 +1796,53 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 440/
 av 6. mai 2011
 om godkjenning og ikke-godkjenning av visse helsepåstander om næringsmidler med hensyn til barns utvikling og helse
 
+EUROPAKOMMISJONEN HAR –
+
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til europaparlaments- og rådsforordning [nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler,1 særlig artikkel 17 nr. 3, og
 
 ut fra følgende betraktninger:I henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924*) er helsepåstander om næringsmidler forbudt, med mindre de er godkjent av Kommisjonen i samsvar med nevnte forordning og oppført på en liste over tillatte påstander.I forordning [(EF) nr. 1924/2006](eu/32006r1924*) fastsettes det også at driftsansvarlige for næringsmiddelforetak kan sende søknader om godkjenning av helsepåstander til en medlemsstats vedkommende nasjonale myndighet. Den vedkommende nasjonale myndigheten skal videresende gyldige søknader til Den europeiske myndighet for næringsmiddeltrygghet (EFSA), heretter kalt «myndigheten».Etter å ha mottatt en søknad, skal myndigheten umiddelbart underrette de andre medlemsstatene og Kommisjonen om søknaden, og avgi en uttalelse om den aktuelle helsepåstanden.Kommisjonen skal avgjøre om helsepåstandene skal godkjennes, under hensyntagen til myndighetens uttalelse. Enhver beslutning om å endre listene over tillatte helsepåstander, skal omfatte de nærmere opplysningene nevnt i artikkel 16 nr. 4 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), herunder blant annet særlige bruksvilkår, dersom det er relevant.De åtte uttalelsene omhandlet i denne forordning gjelder søknader om helsepåstander om virkningene av vesentlige fettsyrer på barns utvikling og helse, som omhandlet i artikkel 14 nr. 1 bokstav b) i forordning [(EF) nr. 1924/2006](eu/32006r1924*).Etter tre søknader fra Mead Johnson & Company, inngitt 19. januar 2008 i henhold til artikkel 14 nr. 1 bokstav b) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), med anmodning om beskyttelse av eneretten til nitten undersøkelser, ble myndigheten bedt om å avgi tre uttalelser om helsepåstander med hensyn til virkningene av dokosaheksaensyre (DHA) og arakidonsyre (ARA) på utviklingen av synet (spørsmål nr. EFSA-Q-2008-211,2 EFSA-Q-2008-6883 og EFSA-Q-2008-689).4 De foreslåtte påstandene fra søkeren hadde følgende ordlyd: «DHA og ARA bidrar til optimal synsutvikling hos spedbarn og småbarn», «Lipil® bidrar til optimal synsutvikling hos spedbarn og småbarn» og «Enfamil® Premium bidrar til optimal synsutvikling hos spedbarn». I følge søkeren inneholder Lipil® og Enfamil® Premium DHA og ARA i bestemte mengder og forhold.På grunnlag av de inngitte opplysningene fastslo myndigheten i sine uttalelser, som ble mottatt av Kommisjonen henholdsvis 13. februar og 23. mars 2009, at et årsaks- og virkningsforhold var blitt fastslått mellom inntaket av spedbarns- og tilskuddsblanding tilsatt DHA, og synsutviklingen hos spedbarn som enten ble ammet til de ble avvent, eller som hadde mottatt en DHA-anriket blanding med et DHA-innhold på 0,3 % av fettsyremengdene, fra de fødes til de avvennes. Myndigheten bemerket at den ikke kunne ha kommet fram til denne konklusjonen, uten å vurdere sju undersøkelser som søkeren hevdet å ha enerett til. Myndigheten fastslo videre at det ikke var fastslått et årsaks- og virkningsforhold mellom inntaket av ARA og den påståtte virkningen.I myndighetens svar av 3. september 2009 til kommentarer mottatt i henhold til artikkel 16 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) og i myndighetens svar av 3. desember 2009 til Kommisjonens anmodning om råd, blant annet om søknadene omhandlet i spørsmål nr. EFSA-Q-2008-211, EFSA-Q-2008-688 og EFSA-Q-2008-689, ble det fastslått at den påståtte virkningen kunne utvides til næringsmidler beregnet på spedbarn under avvenning, som definert i kommisjonsdirektiv [2006/125/EF](eu/32006l0125).5 Med forbehold for europaparlaments- og rådsdirektiv [2009/39/EF](eu/32009l0039)6 og særdirektiver som får anvendelse på visse grupper av næringsmidler til bruk ved spesielle ernæringsmessige behov, bør en helsepåstand som gjenspeiler denne konklusjonen, og som ledsages av særlige bruksvilkår, følgelig anses for å være i samsvar kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), og den bør tas med i Unionens liste over tillatte påstander.Etter å ha mottatt myndighetens uttalelser vedrørende søknadene omhandlet i spørsmål nr. EFSA-Q-2008-211, EFSA-Q-2008-688 og EFSA-Q-2008-689, henvendte Kommisjonen seg til søkeren på nytt for å få ytterligere klarhet i begrunnelsen med hensyn til de sju undersøkelsene som søkeren hevder å ha enerett til, og særlig med hensyn til «eneretten til å kunne henvise», som nevnt i artikkel 21 nr. 1 bokstav b) i forordning [(EF) nr. 1924/2006](eu/32006r1924*). Alle begrunnede opplysninger fra søkeren er blitt vurdert. Ettersom alle de sju undersøkelsene var blitt offentliggjort før søknadene om godkjenning av helsepåstandene var innsendt, og med tanke på at et av målene med forordning [(EF) nr. 1924/2006](eu/32006r1924*) er å beskytte den investeringen som nyskapere gjør med å samle inn opplysninger og data for å underbygge en søknad i henhold til den nevnte forordningen, er beskyttelsen av dem ikke begrunnet og bør følgelig ikke innvilges.Etter en søknad fra Merck Selbstmedikation GmbH, inngitt 16. januar 2008 i henhold til artikkel 14 nr. 1 bokstav b) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble myndigheten bedt om å avgi en uttalelse om en helsepåstand med hensyn til virkningene av DHA på synsutviklingen hos ufødte barn og diende spedbarn (spørsmål nr. EFSA-Q-2008-675).7 Den foreslåtte påstanden fra søkeren hadde følgende ordlyd: «DHA er viktig for tidlig utvikling av øynene hos fostre (ufødte barn) og spedbarn. DHA-tilførsel gjennom moren bidrar til barnets synsutvikling».På grunnlag av de inngitte opplysningene fastslo myndigheten i sin uttalelse, som ble mottatt av Kommisjonen 23. april 2009, at det ikke var tilstrekkelig bevis for å fastslå et årsaks- og virkningsforhold mellom inntak av DHA-tilskudd under graviditet og laktasjon, og synsutviklingen hos ufødte barn og diende spedbarn.Etter en søknad fra Merck Selbstmedikation GmbH, inngitt 16. januar 2008 i henhold til artikkel 14 nr. 1 bokstav b) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble myndigheten bedt om å avgi en uttalelse om en helsepåstand med hensyn til virkningene av DHA på den kognitive utvikling (spørsmål nr. EFSA-Q-2008-773).8 Den foreslåtte påstanden fra søkeren hadde følgende ordlyd: «DHA er viktig for tidlig utvikling av hjernen hos fostre (ufødte barn) og spedbarn. DHA-tilførsel gjennom moren bidrar til barnets kognitive utvikling».På grunnlag av de inngitte opplysningene fastslo myndigheten i sin uttalelse, som ble mottatt av Kommisjonen 23. april 2009, at det ikke var tilstrekkelig bevis for å fastslå et årsaks- og virkningsforhold mellom inntak av DHA-tilskudd under graviditet og laktasjon, og kognitiv utvikling hos ufødte barn og diende spedbarn.I myndighetens svar av 4. august 2009 til kommentarer mottatt i henhold til artikkel 16 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) og i myndighetens svar av 3. desember 2009 til en anmodning fra Kommisjonen om råd, blant annet om søknadene omhandlet i spørsmål nr. EFSA-Q-2008-675 og EFSA-Q-2008-773, ble det imidlertid fastslått at ettersom DHA er en langkjedet flerumettet fettsyre med en viktig strukturell og funksjonell rolle, kan den bidra til normal utvikling av hjernen og til normal utvikling av øynene hos fostre og diende spedbarn. Det ble videre klargjort at DHA for det meste tilføres diende spedbarn via brystmelken, der DHA-konsentrasjonen avhenger av både morens inntak av DHA gjennom kosten og av morens DHA-reserver. Helsepåstander som gjenspeiler disse konklusjonene, og som ledsages av særlige bruksvilkår, bør følgelig anses for å være i samsvar med kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), og de bør tas med i Unionens liste over tillatte påstander.I artikkel 16 nr. 4 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) fastsettes det at en uttalelse til fordel for en godkjenning av en helsepåstand bør inneholde visse nærmere opplysninger. De nevnte nærmere opplysningene bør følgelig angis i vedlegget til denne forordning for den påstanden som godkjennes, og bør, dersom det er relevant, omfatte påstandens reviderte ordlyd, særlige bruksvilkår i forbindelse med påstanden og eventuelt bruksvilkår eller bruksrestriksjoner for næringsmiddelet og/eller en tilleggsangivelse eller en tilleggsadvarsel, i samsvar med reglene fastsatt i forordning [(EF) nr. 1924/2006](eu/32006r1924*) og i tråd med uttalelsene fra myndigheten.Et av målene med forordning [(EF) nr. 1924/2006](eu/32006r1924*) er å sikre at helsepåstander er sanne, klare, pålitelige og nyttige for forbrukeren, og at deres ordlyd og utforming vurderes på denne bakgrunn. Dersom ordlyden i påstander har den samme betydning for forbrukerne som en godkjent helsepåstand, fordi de viser samme forhold mellom en næringsmiddelkategori, et næringsmiddel eller en av dets bestanddeler, og helsen, bør de derfor omfattes av de samme bruksvilkårene som er angitt i vedlegget til denne forordning.Etter tre søknader fra Mead Johnson & Company, inngitt 19. januar 2008 i henhold til artikkel 14 nr. 1 bokstav b) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble myndigheten bedt om å avgi tre uttalelser om helsepåstander med hensyn til virkningene av DHA og ARA på utviklingen av hjernen (spørsmål nr. EFSA-Q-2008-212,9 EFSA-Q-2008-69010 og EFSA-Q-2008-691).11 De foreslåtte påstandene fra søkeren hadde følgende ordlyd: «DHA og ARA bidrar til optimal utvikling av hjernen hos spedbarn og småbarn», «Lipil® bidrar til optimal utvikling av hjernen hos spedbarn og småbarn» og «Enfamil® Premium bidrar til optimal utvikling av hjernen hos spedbarn». Ifølge søkeren inneholder Lipil® og Enfamil® Premium DHA og ARA i bestemte mengder og forhold.På grunnlag av de inngitte opplysningene fastslo myndigheten i sin uttalelse, som ble mottatt av Kommisjonen 23. mars 2009, at det ikke var tilstrekkelig bevis for å fastslå et årsaks- og virkningsforhold mellom inntak av henholdsvis DHA og ARA, Lipil® og Enfamil® Premium, og den påståtte virkningen.I myndighetens svar av 3. september 2009 til kommentarer mottatt i henhold til artikkel 16 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) og i myndighetens svar av 3. desember 2009 til en anmodning fra Kommisjonen om råd, blant annet om søknadene omhandlet i spørsmål nr. EFSA-Q-2008-690, EFSA-Q-2008-691 og EFSA-Q-2008-212, ble det fastslått at ettersom DHA er en langkjedet flerumettet fettsyre med en viktig strukturell og funksjonell rolle, kan den bidra til normal utvikling av hjernen hos fostre, spedbarn og småbarn. Kommisjonen og medlemsstatene vurderte derfor om en helsepåstand som gjenspeiler denne konklusjonen bør godkjennes. På grunnlag av de inngitte opplysningene i de tre søknadene og gjeldende vitenskapelig kunnskap kunne ikke myndigheten gi konkrete råd om de hensiktsmessige bruksvilkårene som bør ledsage denne helsepåstanden. Ettersom den risikohåndterende instansen ikke kunne fastsette særlige bruksvilkår i samsvar med artikkel 16 nr. 4 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), og gitt at mangelen på slike særlige bruksvilkår betyr at nyttevirkningen av produktet ikke kan garanteres, som er det samme som å villede forbrukeren, bør denne helsepåstanden følgelig ikke tas med i listen over tillatte helsepåstander.Kommentarene fra søkerne og offentligheten, mottatt av Kommisjonen i henhold til artikkel 16 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble vurdert da tiltakene fastsatt i denne forordning ble iverksatt. Kommisjonen tok også hensyn til alle de relevante rådene fra myndigheten, herunder uttalelser om merking av referanseverdiene for inntak av flerumettede n-3 og n-6 fettsyrer (spørsmål nr. EFSA-Q-2009-00548),12 og om referanseverdiene for fettholdig kost, herunder mettede fettsyrer, flerumettede fettsyrer, en-umettede fettsyrer, transfettsyrer og kolesterol (spørsmål nr. EFSA-Q-2008-466).13I samsvar med artikkel 28 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), kan helsepåstander som omhandles i forordningens artikkel 14 nr. 1 bokstav b), og som ikke er godkjent ved en beslutning i henhold til artikkel 17 nr. 3 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), fortsatt brukes i seks måneder etter at denne forordning er vedtatt, forutsatt at søknad ble sendt før 19. januar 2008. Overgangsperioden fastsatt i nevnte artikkel får følgelig anvendelse på helsepåstander som er oppført i vedlegg II til denne forordning.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for næringsmiddelkjeden og dyrehelsen, og verken Europaparlamentet eller Rådet har motsatt seg dem –
 
+1 EUT L 404 av 30.12.2006, s. 9.
+
+2 The EFSA Journal (2009), 1003, s. 1–8.
+
+3 The EFSA Journal (2009), 941, s. 1–14.
+
+4 The EFSA Journal (2009), 1004, s. 1–8.
+
+5 EUT L 339 av 6.12.2006, s. 16.
+
+6 EUT L 124 av 20.5.2009, s. 21.
+
+7 The EFSA Journal (2009), 1006, s. 1–12.
+
+8 The EFSA Journal (2009), 1007, s. 1–14.
+
+9 The EFSA Journal (2009), 1000, s. 1–13.
+
+10 The EFSA Journal (2009), 1001, s. 1–8.
+
+11 The EFSA Journal (2009), 1002, s. 1–8.
+
+12 The EFSA Journal (2009), 1176, s. 1–11.
+
+13 The EFSA Journal (2010), 8 nr. 3, s. 1461.
+
+VEDTATT DENNE FORORDNING:
+
 ### Artikkel 1
 
-1. Næringsmidler på markedet i Den europeiske union kan gjøres til gjenstand for helsepåstandene oppført i vedlegg I til denne forordning i samsvar med vilkårene fastsatt i vedlegget.
+1\. Næringsmidler på markedet i Den europeiske union kan gjøres til gjenstand for helsepåstandene oppført i vedlegg I til denne forordning i samsvar med vilkårene fastsatt i vedlegget.
 
-2. Helsepåstandene omhandlet i nr. 1 skal tas med i Unionens liste over tillatte påstander nevnt i artikkel 14 nr. 1 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).
+2\. Helsepåstandene omhandlet i nr. 1 skal tas med i Unionens liste over tillatte påstander nevnt i artikkel 14 nr. 1 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).
 
 ### Artikkel 2
 
-1. Helsepåstandene oppført i vedlegg II til denne forordning skal ikke tas med i Unionens liste over tillatte påstander, som fastsatt i artikkel 14 nr. 1 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).
+1\. Helsepåstandene oppført i vedlegg II til denne forordning skal ikke tas med i Unionens liste over tillatte påstander, som fastsatt i artikkel 14 nr. 1 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).
 
-2. De kan imidlertid fortsatt brukes i seks måneder etter at denne forordning er vedtatt.
+2\. De kan imidlertid fortsatt brukes i seks måneder etter at denne forordning er vedtatt.
 
 ### Artikkel 3
 
@@ -1145,11 +1852,31 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel, 6. mai 2011.
 
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  |  |
+|  | *President* |
+|  |  |
+|  | José Manuel BARROSO |
+
 ### VEDLEGG I
 Tillatte helsepåstander
 
+| *Søknad – Relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Søker – Søkers adresse* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori* | *Påstand* | *Påstandens bruksvilkår* | *Bruksvilkår og/eller bruksrestriksjoner for næringsmiddelet og/eller tilleggsangivelse eller tilleggsadvarsel* | *EFSA-uttalelse* |
+| --- | --- | --- | --- | --- | --- | --- |
+| Helsepåstand i henhold til artikkel 14 nr. 1 bokstav b) med hensyn til barns utvikling og helse | Mead Johnson & Company, 3 rue Joseph Monier-BP 325, 92506 Rueil-Malmaison Cedex, Frankrike | Dokosaheksaensyre (DHA) | Inntak av dokosaheksaensyre (DHA) bidrar til normal synsutvikling hos spedbarn som er inntil 12 måneder gamle. | Forbrukeren skal opplyses om at nyttevirkningen oppnås med et daglig inntak av DHA på 100 mg. Når påstanden brukes om tilskuddsblandinger, skal næringsmiddelet ha et DHA-innhold på minst 0,3 % av de totale fettsyremengdene. |  | Q-2008-211, Q-2008-688, Q-2008-689 |
+| Helsepåstand i henhold til artikkel 14 nr. 1 bokstav b) med hensyn til barns utvikling og helse | Merck Selbstmedikation GmbH, Roesslerstrasse 96, 64293 Darmstadt, Tyskland | Dokosaheksaensyre (DHA) | Mors inntak av dokosaheksaensyre (DHA) bidrar til normal utvikling av øynene hos fostre og diende spedbarn. | Gravide kvinner og kvinner i laktasjon skal opplyses om at nyttevirkningen oppnås med et daglig inntak av DHA på 200 mg i tillegg til det anbefalte daglige inntaket av omega-3 fettsyrer for voksne, dvs. 250 mg DHA eikosapentaensyre (EPA). Påstanden kan bare brukes om næringsmidler som gir et daglig inntak på minst 200 mg DHA. |  | Q-2008-675 |
+| Helsepåstand i henhold til artikkel 14 nr. 1 bokstav b) med hensyn til barns utvikling og helse | Merck Selbstmedikation GmbH, Roesslerstrasse 96, 64293 Darmstadt, Tyskland | Dokosaheksaensyre (DHA) | Mors inntak av dokosaheksaensyre (DHA) bidrar til normal utvikling av hjernen hos fostre og diende spedbarn. | Gravide kvinner og kvinner i laktasjon skal opplyses om at nyttevirkningen oppnås med et daglig inntak av DHA på 200 mg i tillegg til det anbefalte daglige inntaket av omega-3 fettsyrer for voksne, dvs. 250 mg DHA og EPA. Påstanden kan bare brukes om næringsmidler som gir et daglig inntak på minst 200 mg DHA. |  | Q-2008-773 |
+
 ### VEDLEGG II
 Avviste helsepåstander
+
+| *Søknad – Relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori* | *Påstand* | *EFSA-uttalelse* |
+| --- | --- | --- | --- |
+| Helsepåstand i henhold til artikkel 14 nr. 1 bokstav b) med hensyn til barns utvikling og helse | Dokosaheksaensyre (DHA) og arakidonsyre (ARA) | Dokosaheksaensyre (DHA) og arakidonsyre (ARA) bidrar til optimal utvikling av hjernen hos spedbarn og småbarn. | Q-2008-212 |
+| Helsepåstand i henhold til artikkel 14 nr. 1 bokstav b) med hensyn til barns utvikling og helse | Lipil® | Lipil® bidrar til optimal utvikling av hjernen hos spedbarn og småbarn. | Q-2008-690 |
+| Helsepåstand i henhold til artikkel 14 nr. 1 bokstav b) med hensyn til barns utvikling og helse | Enfamil® Premium | Enfamil® Premium bidrar til optimal utvikling av hjernen hos spedbarn og småbarn. | Q-2008-691 |
 
 ### Forordning (EU) nr. 665/2011
 
@@ -1161,17 +1888,27 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 665/
 av 11. juli 2011
 om godkjenning og avslag på godkjenning av visse helsepåstandar om næringsmiddel som viser til redusert sjukdomsrisiko
 
+EUROPAKOMMISJONEN HAR –
+
 med tilvising til traktaten om verkemåten til Den europeiske unionen,
 
 med tilvising til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler, særleg artikkel 17 nr. 3 og
 
 ut frå desse synsmåtane:I medhald av forordning [(EF) nr. 1924/2006](eu/32006r1924*) er helsepåstandar om næringsmiddel forbodne med mindre dei er godkjende av Kommisjonen i samsvar med den nemnde forordninga og førde opp i ei liste over påstandar som er tillatne.Ved forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det òg fastsett at driftsansvarlege for næringsmiddelføretak kan sende søknader om godkjenning av helsepåstandar til den rette nasjonale styresmakta i ein medlemsstat. Den rette nasjonale styresmakta skal sende gyldige søknader vidare til Den europeiske styresmakta for næringsmiddeltryggleik (EFSA), heretter kalla «Styresmakta».Etter at søknaden er motteken, skal Styresmakta straks melde frå til dei andre medlemsstatane og Kommisjonen om dette og gje ei fråsegn om den aktuelle helsepåstanden.Kommisjonen skal ta omsyn til fråsegna frå Styresmakta når han tek avgjerd om godkjenning av helsepåstandar.Dei tre fråsegnene som er nemnde i denne forordninga, er knytte til søknader som gjeld påstandar om redusert sjukdomsrisiko, som nemnd i artikkel 14 nr. 1 bokstav a) i forordning [(EF) nr. 1924/2006](eu/32006r1924*).Etter ein søknad som Wrigley GmbH sende inn i medhald av artikkel 14 nr. 1 bokstav a) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), vart Styresmakta bede om å gje ei fråsegn om ein helsepåstand om verknadene av sukkerfri tyggegummi med omsyn til å redusere tanndemineralisering (spørsmål nr. EFSA-Q-2010-779).2 Den påstanden som søkjaren hadde gjort framlegg om, hadde følgjande ordlyd: «Tygging av sukkerfri tyggegummi remineraliserer tannemaljen og minskar risikoen for karies i tennene».På grunnlag av dei opplysningane som vart lagde fram, konkluderte Styresmakta i den vitskaplege fråsegna si som Kommisjonen mottok 1. oktober 2010, at det er ein årsakssamanheng mellom bruk av sukkerfri tyggegummi og den påståtte verknaden. Ein helsepåstand som svarar til denne konklusjonen, kan difor reknast å stette krava i forordning [(EF) nr. 1924/2006](eu/32006r1924*) og bør førast opp på EU-lista over påstandar som er tillatne.Etter ein søknad som Wrigley GmbH sende inn i medhald av artikkel 14 nr. 1 bokstav a) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), vart Styresmakta bede om å gje ei fråsegn om ein helsepåstand om verknadene av sukkerfri tyggegummi med omsyn til å redusere tanndemineralisering, som minskar risikoen for karies i tennene (spørsmål nr. EFSA-Q-2010-00120).3 Den påstanden som søkjaren hadde gjort framlegg om, hadde følgjande ordlyd: «Tygging av sukkerfri tyggegummi nøytraliserer syrene i plakk og minskar risikoen for karies i tennene».På grunnlag av dei opplysningane som vart lagde fram, konkluderte Styresmakta i den vitskaplege fråsegna si som Kommisjonen mottok 1. oktober 2010, at det er ein årsakssamanheng mellom bruk av sukkerfri tyggegummi og den påståtte verknaden. Ein helsepåstand som svarar til denne konklusjonen, kan difor reknast å stette krava i forordning [(EF) nr. 1924/2006](eu/32006r1924*) og bør førast opp på EU-lista over påstandar som er tillatne.I artikkel 16 nr. 4 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det fastsett at ei fråsegn om godkjenning av ein helsepåstand bør innehalde visse opplysningar. Desse opplysningane bør difor førast opp i vedlegg I til denne forordninga for dei godkjende påstandane og, der det høver, omfatte den reviderte ordlyden til påstandane, særskilde bruksvilkår for påstandane, og eventuelt vilkår eller restriksjonar for bruk av næringsmiddelet og/eller ei tilleggsfråsegn eller -åtvaring, i samsvar med føresegnene i forordning [(EF) nr. 1924/2006](eu/32006r1924*) og i tråd med fråsegnene til Styresmakta.Eit av måla med forordning [(EF) nr. 1924/2006](eu/32006r1924*) er å sikre at helsepåstandar er sannferdige, tydelege og pålitelege og nyttige for forbrukaren, og at det vert teke omsyn til ordlyd og presentasjon i denne samanhengen. Når ordlyden til ein påstand gjev den same meininga for forbrukarane som ein godkjend helsepåstand fordi han syner det same sambandet mellom ei næringsmiddelgruppe og eit næringsmiddel eller ein av ingrediensane i næringsmiddelet, og helse, bør påstanden vere omfatta av dei same bruksvilkåra, som nemnt i vedlegg I.Etter ein søknad som GP International Holding BV sende inn i medhald av artikkel 14 nr. 1 bokstav a) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), vart Styresmakta bede om å gje ei fråsegn om ein helsepåstand om verknadene av OPC Plus med omsyn til å redusere kronisk venesvikt (spørsmål nr. EFSA-Q-2009-00751).4 Den påstanden som søkjaren hadde gjort framlegg om, hadde følgjande ordlyd: «OPC Plus har vist seg å auke mikrosirkulasjonen og kan difor redusere risikoen for kronisk venesvikt».På grunnlag av dei opplysningane som vart lagde fram, konkluderte Styresmakta i den vitskaplege fråsegna si som Kommisjonen mottok 7. september 2010, at det ikkje er ein årsakssamanheng mellom inntak av OPC Plus og den påståtte verknaden. Ettersom påstanden ikkje stettar krava i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør han difor ikkje godkjennast.Ved fastsetjinga av tiltaka i denne forordninga er det teke omsyn til dei kommentarane som Kommisjonen har motteke frå søkjarane og andre personar i samsvar med artikkel 16 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).Dei tiltaka som er fastsette i denne forordninga, er i samsvar med fråsegna frå Det faste utvalet for næringsmiddelkjeda og dyrehelsa og verken Europaparlamentet eller Rådet har sett seg imot dei –TEU L 404 av 30.12.2006, s. 9.
 
+2 The EFSA Journal 2010; 8(10):1775.
+
+3 The EFSA Journal 2010; 8(10):1776.
+
+4 The EFSA Journal 2010; 8(7):1691.
+
+VEDTEKE DENNE FORORDNINGA:
+
 ### Artikkel 1
 
-1. Dei helsepåstandane som er førde opp i vedlegg I til denne forordninga, kan nyttast på næringsmiddel på marknaden i Den europeiske unionen i samsvar med dei vilkåra som er fastsette i det nemnde vedlegget.
+1\. Dei helsepåstandane som er førde opp i vedlegg I til denne forordninga, kan nyttast på næringsmiddel på marknaden i Den europeiske unionen i samsvar med dei vilkåra som er fastsette i det nemnde vedlegget.
 
-2. Dei helsepåstandane som er nemnde i nr. 1, skal ikkje førast opp i den EU-lista over påstandar som er tillatne, som er nemnd i artikkel 14 nr. 1 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).
+2\. Dei helsepåstandane som er nemnde i nr. 1, skal ikkje førast opp i den EU-lista over påstandar som er tillatne, som er nemnd i artikkel 14 nr. 1 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).
 
 ### Artikkel 2
 
@@ -1185,11 +1922,28 @@ Denne forordninga er bindande i alle delar og gjeld direkte i alle medlemsstatan
 
 Utferda i Brussel, 11. juli 2011.
 
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  |  |
+|  | José Manuel BARROSO |
+|  |  |
+|  | *President* |
+
 ### VEDLEGG I
 HELSEPÅSTANDAR SOM ER TILLATNE
 
+| *Søknad – relevante føresegner i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Søkjar – adresse* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe* | *Påstand* | *Bruksvilkår for påstanden* | *Vilkår og/eller restriksjonar for bruk av næringsmiddelet og/eller ei tilleggsfråsegn eller -åtvaring* | *Referansenummeret til EFSA-fråsegna* |
+| --- | --- | --- | --- | --- | --- | --- |
+| Artikkel 14 nr. 1 bokstav a) – helsepåstand om redusert sjukdomsrisiko | Wrigley GmbH, Scientific and Regulatory Affairs EMEAI, Biberger Str. 18, 82008 Unterhaching, TYSKLAND | Sukkerfri tyggegummi | Sukkerfri tyggegummi medverkar til å redusere tanndemineralisering. Tanndemineralisering er ein risikofaktor i utviklinga av karies. | Forbrukaren skal få opplysningar om at den gunstige verknaden vert oppnådd ved tygging av 2–3 g sukkerfri tyggegummi i 20 minutt minst tre gonger dagleg etter måltid. |  | Q-2010-00119 |
+| Artikkel 14 nr. 1 bokstav a) – helsepåstand om redusert sjukdomsrisiko | Wrigley GmbH, Scientific and Regulatory Affairs EMEAI, Biberger Str. 18, 82008 Unterhaching, TYSKLAND | Sukkerfri tyggegummi | Sukkerfri tyggegummi medverkar til å nøytralisere syrene i plakk. Syrer i plakk er ein risikofaktor i utviklinga av karies. | Forbrukaren skal få opplysningar om at den gunstige verknaden vert oppnådd ved tygging av 2–3 g sukkerfri tyggegummi i 20 minutt minst tre gonger dagleg etter måltid. |  | Q-2010-00120 |
+
 ### VEDLEGG II
 AVVIST HELSEPÅSTAND
+
+| *Søknad – relevante føresegner i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe* | *Påstand* | *Referansenummeret til EFSA-fråsegna* |
+| --- | --- | --- | --- |
+| Artikkel 14 nr. 1 bokstav a) – helsepåstand om redusert sjukdomsrisiko | OPC Plus | OPC Plus har vist seg å auke mikrosirkulasjonen og kan difor redusere risikoen for kronisk venesvikt | Q-2009-00751 |
 
 ### Forordning (EU) nr. 666/2011
 
@@ -1201,17 +1955,27 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 666/
 av 11. juli 2011
 om avslag på godkjenning av visse andre helsepåstandar om næringsmiddel enn dei som viser til redusert sjukdomsrisiko og til utviklinga og helsa til barn
 
+EUROPAKOMMISJONEN HAR –
+
 med tilvising til traktaten om verkemåten til Den europeiske unionen,
 
 med tilvising til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler,1 særleg artikkel 18 nr. 5 og
 
 ut frå desse synsmåtane:I medhald av forordning [(EF) nr. 1924/2006](eu/32006r1924*) er helsepåstandar om næringsmiddel forbodne med mindre dei er godkjende av Kommisjonen i samsvar med den nemnde forordninga og førde opp i ei liste over påstandar som er tillatne.Ved forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det òg fastsett at driftsansvarlege for næringsmiddelføretak kan sende søknader om godkjenning av helsepåstandar til den rette nasjonale styresmakta i ein medlemsstat. Den rette nasjonale styresmakta skal sende gyldige søknader vidare til Den europeiske styresmakta for næringsmiddeltryggleik (EFSA), heretter kalla «Styresmakta».Etter at søknaden er motteken, skal Styresmakta straks melde frå til dei andre medlemsstatane og Kommisjonen om dette og gje ei fråsegn om den aktuelle helsepåstanden.Kommisjonen skal ta omsyn til fråsegna frå Styresmakta når han tek avgjerd om godkjenning av helsepåstandar.Etter ein søknad som Synbiotec S.r.l. sende inn i medhald av artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), vart Styresmakta bede om å gje ei fråsegn om ein helsepåstand om verknadene av Synbio med omsyn til å halde ved lag og betre tarmfunksjonen (spørsmål nr. EFSA-Q-2009-00889).2 Den påstanden som søkjaren hadde gjort framlegg om, hadde følgjande ordlyd: «Synbio blir verande i tarmkanalen og fremjar ei naturleg regulering som medverkar til å halde ved lag og betre tarmfunksjonen».Kommisjonen og medlemsstatane mottok 27. september 2010 den vitskaplege fråsegna frå Styresmakta, der han konkluderte med at det på grunnlag av dei framlagde opplysningane ikkje kunne påvisast nokon årsakssamanheng mellom inntak av Synbio og den påståtte verknaden. Ettersom påstanden ikkje stettar krava i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør han difor ikkje godkjennast.Etter ein søknad som MILTE ITALIA SpA sende inn i medhald av artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), vart Styresmakta bede om å gje ei fråsegn om ein helsepåstand om verknadene av Silymarin BIO-C® med omsyn til å auke produksjonen av morsmjølk (spørsmål nr. EFSA-Q-2009-00957).3 Den påstanden som søkjaren hadde gjort framlegg om, hadde mellom anna følgjande ordlyd: «For betring av den fysiologiske produksjonen av morsmjølk ved amming».Kommisjonen og medlemsstatane mottok 28. september 2010 den vitskaplege fråsegna frå Styresmakta, der han konkluderte med at det på grunnlag av dei framlagde opplysningane ikkje kunne påvisast nokon årsakssamanheng mellom inntak av Silymarin BIO-C® og den påståtte verknaden. Ettersom påstanden ikkje stettar krava i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør han difor ikkje godkjennast.Alle helsepåstandar som kjem inn under denne forordninga, er helsepåstandar i medhald av artikkel 13 nr. 1 bokstav a) i forordning [(EF) nr. 1924/2006](eu/32006r1924*) og er difor omfatta av den overgangsperioden som er fastsett i artikkel 28 nr. 5 i den same forordninga. Ettersom Styresmakta konkluderte med at det ikkje var påvist nokon årsakssamanheng mellom inntak av næringsmidla og dei høvesvise påståtte verknadene, er dei to påstandane ikkje i samsvar med forordning [(EF) nr. 1924/2006](eu/32006r1924*) og vert difor ikkje omfatta av overgangsperioden som er fastsett i den artikkelen.For å sikre at denne forordninga vert oppfylt fullt ut bør både driftsansvarlege for næringsmiddelføretak og dei rette nasjonale styresmaktene gjere dei tiltaka som er naudsynte for å sikre at produkt som er påførde dei helsepåstandane som er nemnde i vedlegget til denne forordninga, ikkje lenger finst på marknaden seinast innan seks månader etter at denne forordninga har teke til å gjelde.Ved fastsetjinga av tiltaka i denne forordninga er det teke omsyn til dei kommentarane som Kommisjonen har motteke frå søkjarane og andre personar i samsvar med artikkel 16 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).Dei tiltaka som er fastsette i denne forordninga, er i samsvar med fråsegna frå Det faste utvalet for næringsmiddelkjeda og dyrehelsa og verken Europaparlamentet eller Rådet har sett seg imot dei –
 
+1 TEU L 404 av 30.12.2006, s. 9.
+
+2 The EFSA Journal 2010; 8(9):1773.
+
+3 The EFSA Journal 2010; 8(9):1774.
+
+VEDTEKE DENNE FORORDNINGA:
+
 ### Artikkel 1
 
-1. Dei helsepåstandane som er nemnde i vedlegget til denne forordninga, skal ikkje førast opp i den EU-lista over påstandar som er tillatne, som er nemnd i artikkel 13 nr. 3 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).
+1\. Dei helsepåstandane som er nemnde i vedlegget til denne forordninga, skal ikkje førast opp i den EU-lista over påstandar som er tillatne, som er nemnd i artikkel 13 nr. 3 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).
 
-2. Produkt som er påførde desse helsepåstandane og som er bringa i omsetning eller merkte før den datoen då denne forordninga tek til å gjelde, kan likevel vere på marknaden i eit tidsrom på høgst seks månader etter den datoen.
+2\. Produkt som er påførde desse helsepåstandane og som er bringa i omsetning eller merkte før den datoen då denne forordninga tek til å gjelde, kan likevel vere på marknaden i eit tidsrom på høgst seks månader etter den datoen.
 
 ### Artikkel 2
 
@@ -1221,8 +1985,21 @@ Denne forordninga er bindande i alle delar og gjeld direkte i alle medlemsstatan
 
 Utferda i Brussel, 11. juli 2011.
 
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  |  |
+|  | *José Manuel BARROSO* |
+|  |  |
+|  | *President* |
+
 ### VEDLEGG
 AVVISTE HELSEPÅSTANDAR
+
+| *Søknad – relevante føresegner i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe* | *Påstand* | *Referansenummeret til EFSA-fråsegna* |
+| --- | --- | --- | --- |
+| Artikkel 13 nr. 5 – helsepåstand som byggjer på nyutvikla vitskaplege prov og/eller inneheld ei oppmoding om sikring av data som er underlagde eigedomsrett | Synbio | Synbio blir verande i tarmkanalen og fremjar ei naturleg regulering som medverkar til å halde ved lag og betre tarmfunksjonen | Q-2009-00889 |
+| Artikkel 13 nr. 5 – helsepåstand som byggjer på nyutvikla vitskaplege prov og/eller inneheld ei oppmoding om sikring av data som er underlagde eigedomsrett | Silymarin BIO-C® | For betring av den fysiologiske produksjonen av morsmjølk ved amming | Q-2009-00957 |
 
 ### Konsolidert beslutning [2009/980/EU](eu/32009d0980)
 
@@ -1230,15 +2007,47 @@ AVVISTE HELSEPÅSTANDAR
 
 Nedenfor gjengis til informasjon norsk oversettelse av beslutning [2009/980/EU](eu/32009d0980). Dette er grunnrettsakten. Grunnrettsakten er endret ved beslutning [2010/770/EU](eu/32010d0770). Alle endringer av grunnrettsakten samt de endringer og tillegg som følger av EØS-tilpasningen av grunnrettsakten i samsvarer med vedlegg II kapitel XII nr. 54zzzw er innarbeidet nedenfor.
 
+► **B** Kommisjonsbeslutning [2009/980/EU](eu/32009d0980) av 17.desember 2009
+
+som endret ved
+
+► **M1** Kommisjonsbeslutning [2010/770/EU](eu/32010d0770) av 13. desember 2010
+
+KOMMISJONSAVGJERD
+av 17. desember 2009
+om godkjenning av ein helsepåstand om verknaden av vassløyseleg tomatkonsentrat på blodplateaggregasjon og om sikring av data som er underlagde eigedomsrett i medhald av europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*)
+
+[*meld under nummeret K(2009) 10113*]
+
+(Berre den engelske teksta er gyldig)
+
+([2009/980/EU](eu/32009d0980))
+
+EUROPAKOMMISJONEN HAR,
+
 med tilvising til traktaten om verkemåten til Den europeiske unionen,
 
 med tilvising til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler,1 særleg artikkel 18 nr. 4 og
 
 ut frå desse synsmåtane:I medhald av forordning [(EF) nr. 1924/2006](eu/32006r1924*) er helsepåstandar om næringsmiddel forbodne med mindre dei er godkjende av Kommisjonen i samsvar med den nemnde forordninga og førde opp i ei liste over påstandar som er tillatne.Ved forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det òg fastsett at driftsansvarlege for næringsmiddelføretak kan sende søknader om godkjenning av helsepåstandar til den rette nasjonale styresmakta i ein medlemsstat. Den rette nasjonale styresmakta skal sende gyldige søknader vidare til Den europeiske styresmakta for næringsmiddeltryggleik (EFSA), heretter kalla «Styresmakta».Etter at søknaden er motteken, skal Styresmakta straks melde frå til dei andre medlemsstatane og Kommisjonen og gje ei fråsegn om den aktuelle helsepåstanden.Kommisjonen skal ta omsyn til fråsegna frå Styresmakta når han tek avgjerd om godkjenning av helsepåstandar.Med sikte på å fremje nyskaping skal helsepåstandar som byggjer på nyutvikla vitskaplege prov og/eller inneheld ei oppmoding om sikring av data som er underlagde eigedomsrett, omfattast av ein framskunda framgangsmåte for godkjenning. Dersom Kommisjonen etter oppmoding frå søkjaren om å sikre data som er underlagde eigedomsrett, gjer framlegg om at slike data berre skal nyttast til føremon for søkjaren, skal denne avgrensinga, i samsvar med artikkel 21 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), gjelde i fem år.Etter ein søknad frå Provexis Natural Products Ltd, send over 7. januar 2009 i medhald av artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), vart Styresmakta bede om å gje ei fråsegn om ein helsepåstand om verknadene av vassløyseleg tomatkonsentrat (WSTC) I og II på blodplateaktiviteten hjå friske menneske (spørsmål nr. EFSA-Q-2009-00229).2 Den påstanden som søkjaren hadde gjort framlegg om, hadde følgjande ordlyd: «Medverkar til ein sunn blodstraum og er bra for blodomlaupet».Kommisjonen og medlemsstatane mottok 28. mai 2009 den vitskaplege fråsegna frå Styresmakta, der ho konkluderte med at det på grunnlag av dei framlagde opplysningane kunne påvisast ein årsakssamanheng mellom inntak av WSTC I og II og medverking til å halde ved lag ein normal blodplateaggegasjon. Såframt ordlyden vert endra, særleg med omsyn til det kravet som er nemnt i artikkel 5 nr. 2 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), kan påstanden reknast å stette krava i forordning [(EF) nr. 1924/2006](eu/32006r1924*) og bør førast opp på fellesskapslista over påstandar som er tillatne.Eit av måla med forordning [(EF) nr. 1924/2006](eu/32006r1924*) er å sikre at helsepåstandar er sannferdige, tydelege og pålitelege og nyttige for forbrukaren, og at det vert teke omsyn til ordlyd og presentasjon i denne samanhengen. Når den ordlyden som ein søkjar nyttar i ein påstand, gjev den same meininga for forbrukarane som ein godkjend helsepåstand fordi han syner det same sambandet mellom ei næringsmiddelgruppe, eit næringsmiddel eller ein av ingrediensane i næringsmiddelet, og helse, bør påstanden vere omfatta av dei same bruksvilkåra, som nemnt i vedlegget til denne avgjerda.Styresmakta opplyste i fråsegna si om at ho ikkje kunne ha konkludert utan å ta omsyn til dei ni granskingane som søkjaren krev eigedomsrett til.Etter å ha motteke fråsegna frå Styresmakta, ba Kommisjonen søkjaren om ytterlegare forklaring på grunngjevinga for dei ni granskingane som søkjaren krev eigedomsrett til, og særleg med omsyn til «*einerett på å kunne vise til*» som nemnt i artikkel 21 nr. 1 bokstav b) i forordning [(EF) nr. 1924/2006](eu/32006r1924*). Alle grunngjevingane som søkjaren har lagd fram, er vortne vurderte. For dei sju granskingane som ikkje er offentleggjorde, vert dei krava som er fastsette i artikkel 21 nr. 1 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), rekna som stetta. Dei vitskaplege dataa og andre opplysningane i dei sju granskingane kan ikkje nyttast til føremon for ein etterfølgjande søkjar i eit tidsrom på fem år frå godkjenningsdatoen, i samsvar med dei vilkåra som er fastsette i artikkel 21 nr. 1 i den forordninga. Ettersom dei to granskingane som vart offentleggjorde før søknaden om godkjenning av helsepåstanden vart send inn,3 er offentleggjorde og gjorde kjende for ålmenta, er det ikkje grunn til å verne dei i lys av måla i forordning [(EF) nr. 1924/2006](eu/32006r1924*) om mellom anna å verne dei investeringane som nyskaparar har gjort i samband med innsamling av opplysningar og data til støtte for ein søknad i medhald av den forordninga, og følgjeleg bør søknaden om vern ikkje godkjennast.Ved fastsetjinga av tiltaka i denne avgjerda er det teke omsyn til dei kommentarane som Kommisjonen har motteke frå søkjaren og andre personar, i samsvar med artikkel 16 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).Medlemsstatane er vortne rådspurde,
 
+1 TEU L 404 av 30.12.2006, s. 9.
+
+2 *The EFSA Journal* (2009) 1101, s. 1-15.
+
+3 O'Kennedy, N., Crosbie, L., Whelam, S., Luther, V., Horgan, G., Broom, J.I., Webb, D.J., Duttaroy, A.K., *Effects of tomato extract on platelet function: a double-blinded crossover study in healthy humans*, The American Journal of Clinical Nutrition, 2006, Vol. 84, s. 561-569 og O'Kennedy N., Crosbie, L., van Lieshout, M., Broom, J.I., Webb, D.J., Duttaroy, A.K., *Effects of antiplatelet components of tomato extract on platelet function* in vitro *and* ex vivo: *a time-course cannulation study in healthy humans*. The American Journal of Clinical Nutrition, 2006, Vol. 84, s. 570-579.
+
+TEKE DENNE AVGJERDA:
+
+###### Artikkel 1
+
 Den helsepåstanden som er nemnd i vedlegget til denne avgjerda, skal ikkje førast opp i den fellesskapslista over påstandar som er tillatne, som er nemnd i artikkel 13 nr. 3 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).
 
+###### Artikkel 2
+
 Dei vitskaplege dataa og andre opplysningane i dei granskingane som er lagde fram i vedlegget til denne avgjerda, skal berre nyttast til føremon for søkjaren i eit tidsrom på fem år frå godkjenningsdatoen, på dei vilkåra som er fastsette i artikkel 21 nr. 1 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).
+
+###### Artikkel 3
 
 Denne avgjerda er retta til
 
@@ -1246,11 +2055,37 @@ Provexis Natural Products Ltd, Thames Court, 1 Victoria Street, Windsor, Berkshi
 
 Utferda i Brussel, 17. desember 2009.
 
+|  |  |
+| --- | --- |
+| *For Kommisjonen* |  |
+| Androulla VASSILIOU |  |
+| *Medlem av Kommisjonen* |  |
+
 ### VEDLEGG
+
+|  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Søkjar – adresse | Næringsstoff, stoff, næringsmiddel eller næringsmiddel-gruppe | Påstand | Bruksvilkår for påstanden | Vilkår og/eller restriksjonar for bruk av næringsmiddelet og/eller ei tilleggsfråsegn eller -åtvaring | Data som er underlagde eigedomsrett og somf berre skal nyttast til føremon for søkjaren | Referanse-nummeret til EFSA-fråsegna |
+
+|  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Provexis Natural Products Ltd, Thames Court, 1 Victoria Street, Windsor, Berkshire, SL4 1YB, Det sameinte kongeriket | Vassløyseleg tomatkonsentrat (WSTC) I og II | Vassløyseleg tomatkonsentrat (WSTC) I og II medverkar til normal blodplate-aggregasjon, som igjen medverkar til ein sunn blodstraum | ► **M1** Forbrukarane vert informerte om at den gunstige verknaden vert oppnådd ved eit dagleg inntak på 3 g WSTC I eller WSTC II i opptil 250 ml med anten fruktjuice, aromatisert drikk eller yoghurtdrikk (med mindre drikkane er høgpasteuriserte), eller ved eit dagleg inntak på 3 g WSTC I eller 150 mg WSTC II i kosttilskot saman med eit glass vatn eller anna væske.◄ **M1** |  | 1. O'Kennedy, N., Crosbie, L., van Lieshout M., Broom J.I., Webb, D.J., Duttaroy, A.K., 2003a. *Persistence of the antiplatelet effect of a single dose of WSTC equivalent to 2 fresh tomatoes over a 24-hour timecourse*. REC nr. 02/0269. 2. O'Kennedy et al. 2003b. *A 42-day randomised, controlled and double-blinded crossover study to evaluate effects of daily WSTC consumption on platelet function, coagulation and some baseline CVD risk markers*. REC nr. 03/0177.<br>3. O'Kennedy et al. 2005. *Effects of overconsuming Sirco®, a one-a-day fruit juice drink containing 12g/L WSTC, on platelet function in healthy subjects*. REC nr. 05/S0802/77.<br>4. O'Kennedy et al. 2006c. *A pilot study to compare the antiplatelet effects of WSTC in healthy subjects, after consumption in two different food matrices*. REC nr. 05/S0802/60.<br>5. O'Kennedy et al. 2007. *A randomised, controlled and double-blinded crossover study to compare the antiplatelet effects of three different formats of WSTC in healthy humans*. REC nr. 05/S0802/13.<br>6. Song, V., Sheddon, A., Horgan, G. og O'Kennedy, N. *Anticoagulatory and anti-inflammatory activities of WSTC in platelets and endothelial cells. Manuskript til framlegging;* 2008.<br>7. Zhang, F., Song, V., Neascu, M., Crosbie, L., Duncan, G., Horgan, G., de Roos, B. og O'Kennedy, N. *Flow cytometric and proteomic studies examining the effects of WSTC on platelet function in vitro*. Ikkje offentleggjort, 2007/2008. | Q-2009-00231 |
 
 ### Beslutning [2012/770/EU](eu/32012d0770)
 
 > Tilføyd ved [forskrift 11 des 2012 nr. 1234](forskrift/2012-12-11-1234).
+
+KOMMISJONSAVGJERD
+av 13. desember 2010
+om endring av avgjerd [2009/980/EU](eu/32009d0980) med omsyn til bruksvilkåra for ein godkjend helsepåstand om verknaden av vassløyseleg tomatkonsentrat på blodplateaggregasjon
+
+*[meld under nummeret K(2010) 8828]*
+
+(Berre den engelske teksta er gyldig)
+
+([2010/770/EU](eu/32010d0770))
+
+EUROPAKOMMISJONEN HAR –
 
 med tilvising til traktaten om verkemåten til Den europeiske unionen,
 
@@ -1262,15 +2097,39 @@ etter å ha rådspurt medlemsstatane, og
 
 ut frå desse synsmåtane:Etter fråsegna frå Den europeiske styresmakta for næringsmiddeltryggleik (EFSA), heretter kalla «Styresmakta», om verknadene av vassløyseleg tomatkonsentrat (WSTC) I og II på blodplateaktiviteten hjå friske menneske (spørsmål nr. EFSA-Q-2009–00229) ,2 vart helsepåstanden om at vassløyseleg tomatkonsentrat (WSTC) I og II «medverkar til normal blodplateaggregasjon, som igjen medverkar til ein sunn blodstraum», godkjend ved kommisjonsavgjerd [2009/980/EU](eu/32009d0980).3 I medhald av artikkel 16 nr. 4 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) omfatta avgjerd [2009/980/EU](eu/32009d0980) følgjande bruksvilkår for den helsepåstanden: «Forbrukarane vert informerte om at den gunstige verknaden vert oppnådd ved eit dagleg inntak på 3 g WSTC I eller 150 mg WSTC II i opptil 250 ml med anten fruktjuice, aromatisert drikk eller yoghurtdrikk (med mindre drikkane er høgpasteuriserte)».I denne samanhengen sende søkjaren, Provexis Natural Products Ltd., 31. mars 2010 inn ein søknad om endring av godkjenninga av den aktuelle helsepåstanden i medhald av artikkel 19 i forordning [(EF) nr. 1924/2006](eu/32006r1924*). Endringa gjeld ei utviding av bruksvilkåra for den godkjende helsepåstanden, særleg for å kunne nytte han i samband med kosttilskot.
 
-3) Styresmakta vart bede om å gje ei fråsegn om endringa av bruksvilkåra for helsepåstanden, slik søkjaren har gjort framlegg om. Kommisjonen og medlemsstatane mottok 23. juli 2010 ei vitskapleg fråsegn frå Styresmakta (spørsmål nr. EFSA-Q-2010–00809),4 der ho konkluderte med at det på grunnlag av dei framlagde opplysningane kunne påvisast ein årsakssamanheng mellom inntak av WSTC I og II i kosttilskot som t.d. pulverposar, tablettar og kapslar, og den påståtte verknaden.
+3\) Styresmakta vart bede om å gje ei fråsegn om endringa av bruksvilkåra for helsepåstanden, slik søkjaren har gjort framlegg om. Kommisjonen og medlemsstatane mottok 23. juli 2010 ei vitskapleg fråsegn frå Styresmakta (spørsmål nr. EFSA-Q-2010–00809),4 der ho konkluderte med at det på grunnlag av dei framlagde opplysningane kunne påvisast ein årsakssamanheng mellom inntak av WSTC I og II i kosttilskot som t.d. pulverposar, tablettar og kapslar, og den påståtte verknaden.
 
-4) Med omsyn til den vitskaplege fråsegna frå styresmakta og med sikte på å utvide bruken av helsepåstanden til andre typar næringsmiddel enn dei som allereie er godkjende, er det difor naudsynt å endre bruksvilkåra for påstanden.
+4\) Med omsyn til den vitskaplege fråsegna frå styresmakta og med sikte på å utvide bruken av helsepåstanden til andre typar næringsmiddel enn dei som allereie er godkjende, er det difor naudsynt å endre bruksvilkåra for påstanden.
 
-5) Avgjerd [2009/980/EU](eu/32009d0980) bør difor endrast –
+5\) Avgjerd [2009/980/EU](eu/32009d0980) bør difor endrast –
+
+1 TEU L 404 av 27.4.2006, s. 9.
+
+2 *The EFSA Journal* (2009) 1101, s. 1-15.
+
+3 TEU L 336 av 18.12.2009, s. 55.
+
+4 *The EFSA Journal* (2010); 8(7):1689.
+
+TEKE DENNE AVGJERDA:
+
+###### Artikkel 1
+
+I vedlegget til avgjerd [2009/980/EU](eu/32009d0980) skal teksta i den fjerde kolonna (bruksvilkår for helsepåstanden) lyde:
 
 Forbrukarane vert informerte om at den gunstige verknaden vert oppnådd ved eit dagleg inntak på 3 g WSTC I eller 150 mg WSTC II i opptil 250 ml med anten fruktjuice, aromatisert drikk eller yoghurtdrikk (med mindre drikkane er høgpasteuriserte), eller ved eit dagleg inntak på 3 g WSTC I eller 150 mg WSTC II i kosttilskot saman med eit glass vatn eller anna væske.
 
+###### Artikkel 2
+
 Denne avgjerda er retta til Provexis Natural Products Ltd, Thames Court, 1 Victoria Street, Windsor, Berkshire, SL4 1YB, Det sameinte kongeriket.
+
+Utferda i Brussel, 13. desember 2010.
+
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  | John DALLI |
+|  | *Medlem av Kommisjonen* |
 
 ### Forordning (EU) nr. 1160/2011
 
@@ -1282,17 +2141,29 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 1160
 av 14. november 2011
 om godkjenning og avslag på godkjenning av visse helsepåstandar om næringsmiddel som viser til redusert sjukdomsrisiko
 
+EUROPAKOMMISJONEN HAR –
+
 med tilvising til traktaten om verkemåten til Den europeiske unionen,
 
 med tilvising til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler,1 særleg artikkel 17 nr. 3 og
 
 ut frå desse synsmåtane:I medhald av forordning [(EF) nr. 1924/2006](eu/32006r1924*) er helsepåstandar om næringsmiddel forbodne med mindre dei er godkjende av Kommisjonen i samsvar med den nemnde forordninga og førde opp i ei liste over påstandar som er tillatne.Ved forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det òg fastsett at driftsansvarlege for næringsmiddelføretak kan sende søknader om godkjenning av helsepåstandar til den rette nasjonale styresmakta i ein medlemsstat. Den rette nasjonale styresmakta skal sende gyldige søknader vidare til Den europeiske styresmakta for næringsmiddeltryggleik (EFSA), heretter kalla «Styresmakta».Etter at søknaden er motteken, skal Styresmakta straks melde frå til dei andre medlemsstatane og Kommisjonen om dette og gje ei fråsegn om den aktuelle helsepåstanden.Kommisjonen skal ta omsyn til fråsegna frå Styresmakta når han tek avgjerd om godkjenning av helsepåstandar.Etter ein søknad som CreaNutrition AG sende inn i medhald av artikkel 14 nr. 1 bokstav a) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), vart Styresmakta bede om å gje ei fråsegn om ein helsepåstand om verknadene av havrebetaglukan med omsyn til å senke blodkolesterolet (spørsmål nr. EFSA-Q-2008-681).2 Den påstanden som søkjaren hadde gjort framlegg om, hadde følgjande ordlyd: «Eit balansert kosthold som inneheld havrebetaglukan kan aktivt senke/redusere innhaldet av LDL (lav-densitet-lipoprotein) og det samla innhaldet av kolesterol i blodet».På grunnlag av dei opplysningane som vart lagde fram, konkluderte Styresmakta i den vitskaplege fråsegna si som Kommisjonen og medlemsstatane mottok 8. desember 2010, at det er ein årsakssamanheng mellom inntak av havrebetaglukan og senking av innhaldet av LDL-kolesterol i blodet. Ein helsepåstand som svarar til denne konklusjonen, kan difor reknast å oppfylle krava i forordning [(EF) nr. 1924/2006](eu/32006r1924*) og bør førast opp på EU-lista over påstandar som er tillatne.I artikkel 16 nr. 4 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det fastsett at ei fråsegn om godkjenning av ein helsepåstand bør innehalde visse opplysningar. Desse opplysningane bør difor førast opp i vedlegg I til denne forordninga for dei godkjende påstandane og, der det høver, omfatte den reviderte ordlyden til påstandane, særskilde bruksvilkår for påstandane, og eventuelt vilkår eller restriksjonar for bruk av næringsmiddelet og/eller ei tilleggsfråsegn eller -åtvaring, i samsvar med føresegnene i forordning [(EF) nr. 1924/2006](eu/32006r1924*) og i tråd med fråsegnene til Styresmakta.Eit av måla med forordning [(EF) nr. 1924/2006](eu/32006r1924*) er å sikre at helsepåstandar er sannferdige, tydelege og pålitelege og nyttige for forbrukaren, og at det vert teke omsyn til ordlyd og presentasjon i denne samanhengen. Når ordlyden til ein påstand gjev den same meininga for forbrukarane som ein godkjend helsepåstand fordi han syner det same sambandet mellom ei næringsmiddelgruppe og eit næringsmiddel eller ein av ingrediensane i næringsmiddelet, og helse, bør påstanden vere omfatta av dei same bruksvilkåra som er nemnde i vedlegg I til denne forordninga.Etter ein søknad som HarlandHall Ltd (på vegner av Soya Protein Association, European Vegetable Protein Federation og European Natural Soyfood Manufacturers Association), sende inn i medhald av artikkel 14 nr. 1 bokstav a) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), vart Styresmakta bede om å gje ei fråsegn om ein helsepåstand om verknadene av soyaprotein med omsyn til å redusere innhaldet av kolesterol i blodet (spørsmål nr. EFSA-Q-2010–00672).3 Den påstanden som søkjaren hadde gjort framlegg om, hadde følgjande ordlyd: «Soyaprotein har vist seg å senke/redusere blodkolesterolet. Senking av blodkolesterolet kan redusere risikoen for (koronar) hjartesjukdom».På grunnlag av dei opplysningane som vart lagde fram, konkluderte Styresmakta i den vitskaplege fråsegna si som Kommisjonen og medlemsstatane mottok 30. juli 2010, at det ikkje er ein årsakssamanheng mellom inntak av soyaprotein og den påståtte verknaden. Ettersom påstanden ikkje oppfyller krava i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør han difor ikkje godkjennast.Etter ein søknad som Danone France sende inn i medhald av artikkel 14 nr. 1 bokstav a) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), vart Styresmakta bede om å gje ei fråsegn om ein helsepåstand om verknadene av Actimel®, eit surmjølksprodukt som inneheld *Lactobacillus casei* DN-114 001 og yoghurtsymbiose, med omsyn til å redusere førekomsten av *Clostridium difficile*-toksin i tarmen (spørsmål nr. EFSA-Q-2009–00776).4 Den påstanden som søkjaren hadde gjort framlegg om, hadde følgjande ordlyd: «Surmjølk som inneheld probiotisk *Lactobacillus casei* DN-114001 og yogurtsymbiose minskar førekomsten av *Clostridium difficile*-toksin i tarmen (hjå eldre menneske som er mottakelege). Førekomst av *Clostridium difficile*-toksin er knytt til tilfelle av akutt diaré».På grunnlag av dei opplysningane som vart lagde fram, konkluderte Styresmakta i den vitskaplege fråsegna si som Kommisjonen mottok 8. desember 2010, med at dei opplysningane som er lagde fram, ikkje er tilstrekkelege til fastslå at det er ein årsakssamanheng mellom inntak av Actimel® og reduksjon av risikoen for *C. difficile*-diaré ved å minske førekomsten av *C. difficile*-toksin. Ettersom påstanden ikkje oppfyller krava i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør han difor ikkje godkjennast.Ved fastsetjinga av tiltaka i denne forordninga er det teke omsyn til dei kommentarane som Kommisjonen har motteke frå søkjarane og andre personar i samsvar med artikkel 16 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).Dei tiltaka som er fastsette i denne forordninga, er i samsvar med fråsegna frå Det faste utvalet for næringsmiddelkjeda og dyrehelsa og verken Europaparlamentet eller Rådet har sett seg imot dei –
 
+1 TEU L 404 av 30.12.2006, s. 9.
+
+2 *EFSA Journal* 2010; 8(12):1885.
+
+3 *EFSA Journal* 2010; 8(7):1688.
+
+4 *EFSA Journal* 2010; 8(12):1903.
+
+VEDTEKE DENNE FORORDNINGA:
+
 ### Artikkel 1
 
-1. Den helsepåstanden som er førd opp i vedlegg I til denne forordninga, kan nyttast på næringsmiddel på marknaden i Den europeiske unionen i samsvar med dei vilkåra som er fastsette i det nemnde vedlegget.
+1\. Den helsepåstanden som er førd opp i vedlegg I til denne forordninga, kan nyttast på næringsmiddel på marknaden i Den europeiske unionen i samsvar med dei vilkåra som er fastsette i det nemnde vedlegget.
 
-2. Den helsepåstanden som er nemnd i nr. 1, skal ikkje førast opp i den EU-lista over påstandar som er tillatne, som er nemnd i artikkel 14 nr. 1 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).
+2\. Den helsepåstanden som er nemnd i nr. 1, skal ikkje førast opp i den EU-lista over påstandar som er tillatne, som er nemnd i artikkel 14 nr. 1 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).
 
 ### Artikkel 2
 
@@ -1306,11 +2177,27 @@ Denne forordninga er bindande i alle delar og gjeld direkte i alle medlemsstatan
 
 Utferda i Brussel, 14. november 2011.
 
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  |  |
+|  | *José Manuel BARROSO* |
+|  | *President* |
+
 ### Vedlegg I
 Helsepåstand som er tillaten
 
+| *Søknad – relevante føresegner i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Søkjar – adresse* | *Næringsstoff, stoff, nærings-<br>middel eller nærings-<br>middelgruppe* | *Påstand* | *Bruksvilkår for påstanden* | *Vilkår og/eller restriksjonar for<br>bruk av nærings-<br>middelet og/eller ei tilleggs-<br>fråsegn<br>eller -åtvaring* | *Referanse-<br>nummeret til<br>EFSA-fråsegna* |
+| --- | --- | --- | --- | --- | --- | --- |
+| Artikkel 14 nr. 1 bokstav a) – helsepåstand om redusert sjukdoms-<br>risiko | CreaNutrition AG, Business Park, 6301 Zug, Sveits | Havrebeta-<br>glukan | Havrebeta-<br>glukan har vist seg å senke/redusere blodkolesterolet. Høgt blodkolesterol er ein riskofaktor i utviklinga av koronar hjartesjukdom. | Forbrukaren skal få opplysningar om at den gunstige verknaden vert oppnådd ved eit dagleg inntak på 3 g havrebetaglukan. Påstanden kan nyttast på nærings-<br>middel som inneheld minst 1 g havrebetaglukan per oppgjevne porsjon. |  | Q-2008-681 |
+
 ### Vedlegg II
 Avviste helsepåstandar
+
+| *Søknad – relevante føresegner i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe* | *Påstand* | *Referansenummeret til EFSA-fråsegna* |
+| --- | --- | --- | --- |
+| Artikkel 14 nr. 1 bokstav a) – helsepåstand om redusert sjukdomsrisiko | Soyaprotein | Soyaprotein har vist seg å senke/redusere blodkolesterolet. Senking av blodkolesterolet kan redusere risikoen for (koronar) hjartesjukdom. | Q-2009–00672 |
+| Artikkel 14 nr. 1 bokstav a) – helsepåstand om redusert sjukdomsrisiko | Actimel® *Lactobacillus casei* DN-114 001 og yoghurtsymbiose | Surmjølk som inneheld probiotisk *Lactobacillus casei* DN-114001 og yogurtsymbiose minskar førekomsten av *Clostridium difficile*-toksin i tarmen (hjå eldre menneske som er mottakelege). Førekomst av *Clostridium difficile*-toksin er knytt til tilfelle av akutt diaré. | Q-2009–00776 |
 
 ### Forordning (EU) nr. 1170/2011
 
@@ -1322,11 +2209,21 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 1170
 av 16. november 2011
 om avslag på godkjenning av visse helsepåstandar om næringsmiddel som viser til redusert sjukdomsrisiko
 
+EUROPAKOMMISJONEN HAR –
+
 med tilvising til traktaten om verkemåten til Den europeiske unionen,
 
 med tilvising til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler,1 særleg artikkel 17 nr. 3 og
 
 ut frå desse synsmåtane:I medhald av forordning [(EF) nr. 1924/2006](eu/32006r1924*) er helsepåstandar om næringsmiddel forbodne med mindre dei er godkjende av Kommisjonen i samsvar med den nemnde forordninga og førde opp i ei liste over påstandar som er tillatne.Ved forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det òg fastsett at driftsansvarlege for næringsmiddelføretak kan sende søknader om godkjenning av helsepåstandar til den rette nasjonale styresmakta i ein medlemsstat. Den rette nasjonale styresmakta skal sende gyldige søknader vidare til Den europeiske styresmakta for næringsmiddeltryggleik (EFSA), heretter kalla «Styresmakta».Etter at søknaden er motteken, skal Styresmakta straks melde frå til dei andre medlemsstatane og Kommisjonen om dette og gje ei fråsegn om den aktuelle helsepåstanden.Kommisjonen skal ta omsyn til fråsegna frå Styresmakta når han tek avgjerd om godkjenning av helsepåstandar.Etter ein søknad som prof. dr. Moritz Hagenmeyer og prof. dr. Andreas Hahn sende inn i medhald av artikkel 14 nr. 1 bokstav a) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), vart Styresmakta bede om å gje ei fråsegn om ein helsepåstand om verknadene av vatn med omsyn til å redusere risikoen for dehydrering og påfølgjande nedsett yteevne (spørsmål nr. EFSA-Q-2008–05014).2 Den påstanden som søkjaren hadde gjort framlegg om, hadde følgjande ordlyd: «Jamleg inntak av rikelege mengder vatn kan redusere risikoen for å utvikle dehydrering og påfølgjande nedsett yteevne».I artikkel 2 nr. 2 punkt 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) tyder påstand om redusert sykdomsrisiko «enhver helsepåstand som angir, antyder eller gir inntrykk av at inntak av en næringsmiddelgruppe, et næringsmiddel eller én av dets bestanddeler, i betydelig grad reduserer en risikofaktor for utvikling av sykdom hos mennesker». Som svar på ei oppmoding om presisering, la søkjaren fram tap av vatn i vev eller redusert vassinnhald i vev som risikofaktorar med omsyn til dehydrering. På grunnlag av dei opplysningane som vart lagde fram, konkluderte Styresmakta i den vitskaplege fråsegna si som Kommisjonen og medlemsstatane mottok 16. februar 2011, at dei framlagde risikofaktorane er indikatorar på vassmangel og dermed indikatorar på sjukdom. Ettersom det ikkje er påvist at ein risikofaktor for utvikling av ein sjukdom vert redusert, oppfyller ikkje påstanden krava i forordning [(EF) nr. 1924/2006](eu/32006r1924*) og bør ikkje godkjennast.Etter ein søknad som FrieslandCampina sende inn i medhald av artikkel 14 nr. 1 bokstav a) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), vart Styresmakta bede om å gje ei fråsegn om ein helsepåstand om verknadene av syrleg fruktjuice som inneheld kalsium med omsyn til å redusere tanndemineralisering (spørsmål nr. EFSA-Q-2009–00501).3 Den påstanden som søkjaren hadde gjort framlegg om, hadde mellom anna følgjande ordlyd: «Redusert risiko for tannerosjon».I artikkel 2 nr. 2 punkt 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) tyder påstand om redusert sykdomsrisiko «enhver helsepåstand som angir, antyder eller gir inntrykk av at inntak av en næringsmiddelgruppe, et næringsmiddel eller én av dets bestanddeler, i betydelig grad reduserer en risikofaktor for utvikling av sykdom hos mennesker». Som svar på ei oppmoding om presisering, la søkjaren fram tanndemineralisering som en risikofaktor for tannerosjon. På grunnlag av dei opplysningane som vart lagde fram, konkluderte Styresmakta i den vitskaplege fråsegna si som Kommisjonen og medlemsstatane mottok 18. februar 2011, at det ikkje er ein årsakssamanheng mellom inntak av syrleg fruktjuice som inneheld kalsium, og reduksjon av tanndemineralisering. Ettersom påstanden ikkje oppfyller krava i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør han ikkje godkjennast.Ved fastsetjinga av tiltaka i denne forordninga er det teke omsyn til dei kommentarane som Kommisjonen har motteke frå søkjarane og andre personar i samsvar med artikkel 16 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).Dei tiltaka som er fastsette i denne forordninga, er i samsvar med fråsegna frå Det faste utvalet for næringsmiddelkjeda og dyrehelsa og verken Europaparlamentet eller Rådet har sett seg imot dei –
+
+1 TEU L 404 av 30.12.2006, s. 9.
+
+2 *EFSA Journal* 2011; 9(2):1982.
+
+3 *EFSA Journal* 2011; 9(2):1983.
+
+VEDTEKE DENNE FORORDNINGA:
 
 ### Artikkel 1
 
@@ -1340,8 +2237,21 @@ Denne forordninga er bindande i alle delar og gjeld direkte i alle medlemsstatan
 
 Utferda i Brussel, 16. november 2011.
 
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  |  |
+|  | *José Manuel BARROSO* |
+|  |  |
+|  | *President* |
+
 ### Vedlegg
 Avviste helsepåstandar
+
+| *Søknad – relevante føresegner i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe* | *Påstand* | *Referansenummeret til EFSA-fråsegna* |
+| --- | --- | --- | --- |
+| Artikkel 14 nr. 1 bokstav a) – helsepåstand om redusert sjukdomsrisiko | Vatn | Jamleg inntak av rikelege mengder vatn kan redusere risikoen for utvikling av dehydrering og påfølgjande nedsett yteevne | Q-2008–05014 |
+| Artikkel 14 nr. 1 bokstav a) – helsepåstand om redusert sjukdomsrisiko | Fruktjuice som inneheld kalsium | Redusert risiko for tannerosjon | Q-2009–00501 |
 
 ### Forordning (EU) nr. 1171/2011
 
@@ -1353,17 +2263,27 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 1171
 av 16. november 2011
 om avslag på godkjenning av visse andre helsepåstandar om næringsmiddel enn dei som viser til redusert sjukdomsrisiko og til utviklinga og helsa til barn
 
+EUROPAKOMMISJONEN HAR –
+
 med tilvising til traktaten om verkemåten til Den europeiske unionen,
 
 med tilvising til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler,1 særleg artikkel 18 nr. 5 og
 
 ut frå desse synsmåtane:I medhald av forordning [(EF) nr. 1924/2006](eu/32006r1924*) er helsepåstandar om næringsmiddel forbodne med mindre dei er godkjende av Kommisjonen i samsvar med den nemnde forordninga og førde opp i ei liste over påstandar som er tillatne.Ved forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det òg fastsett at driftsansvarlege for næringsmiddelføretak kan sende søknader om godkjenning av helsepåstandar til den rette nasjonale styresmakta i ein medlemsstat. Den rette nasjonale styresmakta skal sende gyldige søknader vidare til Den europeiske styresmakta for næringsmiddeltryggleik (EFSA), heretter kalla «Styresmakta».Etter at søknaden er motteken, skal Styresmakta straks melde frå til dei andre medlemsstatane og Kommisjonen om dette og gje ei fråsegn om den aktuelle helsepåstanden.Kommisjonen skal ta omsyn til fråsegna frå Styresmakta når han tek avgjerd om godkjenning av helsepåstandar.Etter ein søknad som Yakult Europe BV sende inn i medhald av artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), vart Styresmakta bede om å gje ei fråsegn om ein helsepåstand om verknadene av levande stammer av *Lactobacillus casei* Shirota med omsyn til å halde ved lag forsvaret til dei øvre luftvegane mot sjukdomsframkallande stoff ved å halde ved like immunforsvaret (spørsmål nr. EFSA-Q-2010–00137).2 Den påstanden som søkjaren hadde gjort framlegg om, hadde mellom anna følgjande ordlyd: «Dagleg inntak av levande stammer av *Lactobacillus casei* Shirota i eit surmjølksprodukt medverkar til å halde ved lag forsvaret til dei øvre luftvegane ved å hjelpe immunforsvaret».Kommisjonen og medlemsstatane mottok 18. oktober 2010 den vitskaplege fråsegna frå Styresmakta, der han konkluderte med at det på grunnlag av dei framlagde opplysningane ikkje kunne påvisast nokon årsakssamanheng mellom inntak av *Lactobacillus casei* Shirota og den påståtte verknaden. Ettersom påstanden ikkje oppfyller krava i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør han difor ikkje godkjennast.Etter ein søknad som Piimandusühistu E-Piim (meierikooperativet E-Piim) sende inn i medhald av artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), vart Styresmakta bede om å gje ei fråsegn om ein helsepåstand om verknadene av *Lactobacillus plantarum* TENSIATM i halvfast edamerliknande «hjarteost» av merket HarmonyTM med omsyn til å halde ved lag eit normalt blodtrykk (spørsmål nr. EFSA-Q-2010–00950).3 Den påstanden som søkjaren hadde gjort framlegg om, hadde følgjande ordlyd: «Jamleg inntak (minst tre veker) av 50 g/dag Südamejuust («hjarteost») av merket HarmonyTM som inneheld probiotisk *Lactobacillus plantarum* TENSIATM , medverkar til å halde ved lag hjarte- og karsystemet/eit sunt hjarte ved å senke blodtrykket (hjartesymbol)».Kommisjonen og medlemsstatane mottok 14. februar 2011 den vitskaplege fråsegna frå Styresmakta, der han konkluderte med at det på grunnlag av dei framlagde opplysningane ikkje kunne påvisast nokon årsakssamanheng mellom inntak av *Lactobacillus plantarum* TENSIATM i halvfast edamerliknande «hjarteost» av merket HarmonyTM og den påståtte verknaden. Ettersom påstanden ikkje oppfyller krava i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør han difor ikkje godkjennast.Alle helsepåstandar som kjem inn under denne forordninga, er helsepåstandar i medhald av artikkel 13 nr. 1 bokstav a) i forordning [(EF) nr. 1924/2006](eu/32006r1924*) og er difor omfatta av den overgangsperioden som er fastsett i artikkel 28 nr. 5 i den same forordninga. Ettersom Styresmakta konkluderte med at det ikkje var påvist nokon årsakssamanheng mellom inntak av næringsmidla og dei høvesvise påståtte verknadene, er påstandane ikkje i samsvar med forordning [(EF) nr. 1924/2006](eu/32006r1924*) og vert difor ikkje omfatta av overgangsperioden som er fastsett i den artikkelen.For å sikre at denne forordninga vert oppfylt fullt ut bør både driftsansvarlege for næringsmiddelføretak og dei rette nasjonale styresmaktene gjere dei tiltaka som er naudsynte for å sikre at produkt som er påførde dei helsepåstandane som er nemnde i vedlegget til denne forordninga, ikkje lenger finst på marknaden seinast innan seks månader etter at denne forordninga har teke til å gjelde.Ved fastsetjinga av tiltaka i denne forordninga er det teke omsyn til dei kommentarane som Kommisjonen har motteke frå søkjarane og andre personar i samsvar med artikkel 16 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).Dei tiltaka som er fastsette i denne forordninga, er i samsvar med fråsegna frå Det faste utvalet for næringsmiddelkjeda og dyrehelsa og verken Europaparlamentet eller Rådet har sett seg imot dei –
 
+1 TEU L 404 av 30.12.2006, s. 9.
+
+2 The EFSA Journal 2010; 8(10):1860.
+
+3 The EFSA Journal 2011; 9(2):1981.
+
+VEDTEKE DENNE FORORDNINGA:
+
 ### Artikkel 1
 
-1. Dei helsepåstandane som er nemnde i vedlegget til denne forordninga, skal ikkje førast opp i den EU-lista over påstandar som er tillatne, som er nemnd i artikkel 13 nr. 3 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).
+1\. Dei helsepåstandane som er nemnde i vedlegget til denne forordninga, skal ikkje førast opp i den EU-lista over påstandar som er tillatne, som er nemnd i artikkel 13 nr. 3 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).
 
-2. Produkt som er påførde desse helsepåstandane og som er bringa i omsetning eller merkte før den datoen då denne forordninga tek til å gjelde, kan likevel vere på marknaden i eit tidsrom på høgst seks månader etter den datoen.
+2\. Produkt som er påførde desse helsepåstandane og som er bringa i omsetning eller merkte før den datoen då denne forordninga tek til å gjelde, kan likevel vere på marknaden i eit tidsrom på høgst seks månader etter den datoen.
 
 ### Artikkel 2
 
@@ -1373,8 +2293,21 @@ Denne forordninga er bindande i alle delar og gjeld direkte i alle medlemsstatan
 
 Utferda i Brussel, 16. november 2011.
 
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  |  |
+|  | *José Manuel BARROSO* |
+|  |  |
+|  | *President* |
+
 ### Vedlegg
 Avviste helsepåstandar
+
+| *Søknad – relevante føresegner i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe* | *Påstand* | *Referansenummeret til EFSA-fråsegna* |
+| --- | --- | --- | --- |
+| Artikkel 13 nr. 5 – helsepåstand som byggjer på nyutvikla vitskaplege prov og/eller inneheld ei oppmoding om sikring av data som er underlagde eigedomsrett | Levande stammer av *Lactobacillus casei* Shirota | Dagleg inntak av levande stammer av *Lactobacillus casei* Shirota i eit surmjølksprodukt medverkar til å halde ved lag forsvaret til dei øvre luftvegane ved å hjelpe immunforsvaret. | Q-2010–00137 |
+| Artikkel 13 nr. 5 – helsepåstand som byggjer på nyutvikla vitskaplege prov og/eller inneheld ei oppmoding om sikring av data som er underlagde eigedomsrett | *Lactobacillus plantarum* TENSIATM | «Jamleg inntak (minst tre veker) av 50 g/dag Südamejuust («hjarteost») av merket HarmonyTM som inneheld probiotisk *Lactobacillus plantarum* TENSIATM , medverkar til å halde ved lag hjarte- og karsystemet/eit sunt hjarte ved å senke blodtrykket (hjartesymbol)». | Q-2010–00950 |
 
 ### Forordning (EU) nr. 378/2012
 
@@ -1386,17 +2319,31 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 378/
 av 3. mai 2012
 om avslag på godkjenning av visse helsepåstander om næringsmidler som viser til redusert sykdomsrisiko og barns utvikling og helse
 
+EUROPAKOMMISJONEN HAR –
+
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler,1 særlig artikkel 17 nr. 3, og
 
 ut fra følgende betraktninger:I henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924*) er helsepåstander om næringsmidler forbudt, med mindre de er godkjent av Kommisjonen i samsvar med nevnte forordning og oppført på en liste over tillatte påstander.Ved forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det også fastsatt at driftsansvarlige for næringsmiddelforetak kan inngi søknader om godkjenning av helsepåstander til vedkommende nasjonale myndighet i en medlemsstat. Vedkommende nasjonale myndighet skal videresende gyldige søknader til Den europeiske myndighet for næringsmiddeltrygghet (EFSA), heretter kalt «Myndigheten».Etter at søknaden er mottatt, skal Myndigheten straks underrette de øvrige medlemsstatene og Kommisjonen og avgi en uttalelse om den aktuelle helsepåstanden.Kommisjonen skal ta hensyn til uttalelsen fra Myndigheten når den treffer beslutning om godkjenning av helsepåstander.Etter en søknad fra SVUS Pharma a.s, inngitt i henhold til artikkel 14 nr. 1 bokstav a) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi en uttalelse om en helsepåstand med hensyn til virkningene av ProteQuine®, en blanding av frie aminosyrer, oligopeptider og nukleotider, når det gjelder å øke hemmede konsentrasjoner av sekretorisk immunglobulin A (ScIgA) og redusere risikoen for influensa og forkjølelse (spørsmål nr. EFSA-Q-2008-397).2 Helsepåstanden som søkeren foreslo, var formulert slik: «ProteQuine® øker/opprettholder nivået av ScIgA på slimhinnene. Nedsatt eller utilstrekkelig nivå av ScIgA er en risikofaktor for utvikling av forkjølelse eller influensa».I sin uttalelse, som ble mottatt av Kommisjonen og medlemsstatene 13. april 2011, konkluderte Myndigheten at det på grunnlag av de opplysningene som ble framlagt, ikke var fastslått noen årsakssammenheng mellom inntak av ProteQuine® og en økning av hemmede konsentrasjoner av ScIgA og en reduksjon i risikoen for forkjølelse og influensa. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra SVUS Pharma a.s, inngitt i henhold til artikkel 14 nr. 1 bokstav a) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi en uttalelse om en helsepåstand med hensyn til virkningene av ProteQuine®, en blanding av frie aminosyrer, oligopeptider og nukleotider, og bovint laktoferrin når det gjelder å øke hemmede konsentrasjoner av sekretorisk immunglobulin A (ScIgA) og redusere risikoen for forkjølelse og sår hals (spørsmål nr. EFSA-Q-2008-398).3 Helsepåstanden som søkeren foreslo, var formulert slik: «ProteQuine® i kombinasjon med bovint laktoferrin øker/opprettholder nivået av ScIgA på slimhinnene. Nedsatt eller utilstrekkelig nivå av ScIgA er en risikofaktor for utvikling av forkjølelse med sår hals, og kombinasjonen av ProteQuine® med bovint laktoferrin gir redusert risiko for utvikling av sår hals».I sin uttalelse, som ble mottatt av Kommisjonen og medlemsstatene 13. april 2011, konkluderte Myndigheten at det på grunnlag av de opplysningene som ble framlagt, ikke var fastslått noen årsakssammenheng mellom inntak av ProteQuine® og bovint laktoferrin og en økning av hemmede konsentrasjoner av ScIgA og en reduksjon i risikoen for forkjølelse med sår hals. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra CSL – Centro Sperimentale del Latte S.p.A., inngitt i henhold til artikkel 14 nr. 1 bokstav b) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi en uttalelse om en helsepåstand med hensyn til virkningene av en kombinasjon av *Lactobacillusdelbrueckii* subsp. *bulgaricus* stamme AY/CSL (LMG P-17224) og *Streptococcusthermophilus* stamme 9Y/CSL (LMG P-17225) når det gjelder en fordelaktig påvirkning av mikrofloraen i tarmen (spørsmål nr. EFSA-Q-2008-273).4 Helsepåstanden som søkeren foreslo, var formulert slik: «Opprettholder tarmhelsen ved å normalisere tarmfloraen».I sin uttalelse, som ble mottatt av Kommisjonen og medlemsstatene 20. juli 2011, konkluderte Myndigheten at det på grunnlag av de opplysningene som ble framlagt, ikke var fastslått noen årsakssammenheng mellom inntak av kombinasjonen av *L. delbrueckii* subsp. *bulgaricusstamme* AY/CSL (LMG P-17224) og *S. thermophilus stamme* 9Y/CSL (LMG P-17225) og en gunstig fysiologisk effekt knyttet til den påståtte effekten. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra European Dietetic Food Industry Association (IDACE), inngitt i henhold til artikkel 14 nr. 1 bokstav b) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi en uttalelse om en helsepåstand om virkningene av beta-palmitat når det gjelder økt opptak av kalsium (spørsmål nr. EFSA-Q-2008-121).5 Helsepåstanden som søkeren foreslo, var blant annet formulert slik: «Tilskudd av beta-palmitat bidrar til å øke opptaket av kalsium».I sin uttalelse, som ble mottatt av Kommisjonen og medlemsstatene 28. juli 2011, konkluderte Myndigheten at det på grunnlag av de opplysningene som ble framlagt, ikke fantes tilstrekkelige bevis for å fastslå noen årsakssammenheng mellom inntak av beta-palmitat og den påståtte effekten. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.I samsvar med artikkel 28 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) kan helsepåstander som er omhandlet i forordningens artikkel 14 nr. 1 bokstav b) og ikke er godkjent ved en beslutning i henhold til forordningens artikkel 17 nr. 3, fortsatt brukes i seks måneder etter at denne forordning er vedtatt, forutsatt at en søknad ble inngitt før 19. januar 2008. Overgangsperioden fastsatt i nevnte artikkel får derfor anvendelse på helsepåstanden om beta-palmitat oppført i vedlegget til denne forordning.Ettersom søknaden om helsepåstanden om *Lactobacillusdelbrueckii* subsp. *bulgaricus* stamme AY/CSL (LMG P-17224) og *Streptococcusthermophilus* stamme 9Y/CSL (LMG P-17225) ikke ble inngitt før 19. januar 2008, oppfylles ikke kravet fastsatt i artikkel 28 nr. 6 bokstav b), og overgangsperioden fastsatt i nevnte artikkel får ikke anvendelse.For å sikre at denne forordning er oppfylt, bør imidlertid både driftsansvarlige for næringsmiddelforetak og vedkommende nasjonale myndigheter treffe nødvendige tiltak for å sikre at helsepåstandene i vedlegget som er inngitt i henhold til artikkel 14 nr. 1 bokstav b) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ikke er i bruk lengre enn seks måneder etter at denne forordning trådte i kraft.De kommentarene som søkere og enhver annen person framsetter for Kommisjonen i samsvar med artikkel 16 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), er tatt i betraktning ved fastsettelse av de tiltakene som er fastsatt i denne forordning.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for næringsmiddelkjeden og dyrehelsen, og verken Europaparlamentet eller Rådet har motsatt seg dem –
 
+1 EUT L 404 av 30.12.2006, s. 9.
+
+2 EFSA Journal 2011 9(4):2128.
+
+3 EFSA Journal 2011 9(4):2129.
+
+4 EFSA Journal 2011 9(7):2288.
+
+5 EFSA Journal 2011 9(7):2289.
+
+VEDTATT DENNE FORORDNING:
+
 ### Artikkel 1
 
-1. Helsepåstandene oppført i vedlegget til denne forordning skal ikke tas med i Unionens liste over tillatte påstander, som fastsatt i artikkel 14 nr. 1 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).
+1\. Helsepåstandene oppført i vedlegget til denne forordning skal ikke tas med i Unionens liste over tillatte påstander, som fastsatt i artikkel 14 nr. 1 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).
 
-2. Helsepåstander som omfattes av artikkel 14 nr. 1 bokstav b) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), og som er oppført i nr. 1 og var i bruk før denne forordning trådte i kraft, kan imidlertid fortsatt anvendes i seks måneder etter at denne forordning er trådt i kraft.
+2\. Helsepåstander som omfattes av artikkel 14 nr. 1 bokstav b) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), og som er oppført i nr. 1 og var i bruk før denne forordning trådte i kraft, kan imidlertid fortsatt anvendes i seks måneder etter at denne forordning er trådt i kraft.
 
 ### Artikkel 2
 
@@ -1406,7 +2353,22 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel, 3. mai 2012.
 
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  | José Manuel BARROSO |
+|  | *President* |
+
 ### Vedlegg
+
+*Avslåtte helsepåstander*
+
+| *Søknad – Relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe* | *Påstand* | *EFSA-uttalelse* |
+| --- | --- | --- | --- |
+| Artikkel 14 nr. 1 bokstav a) – helsepåstand om redusert sykdomsrisiko | ProteQuine® | ProteQuine® øker/opprettholder nivået av ScIgA på slimhinnene. Nedsatt eller utilstrekkelig nivå av ScIgA er en risikofaktor for utvikling av forkjølelse eller influensa | Q-2008-397 |
+| Artikkel 14 nr. 1 bokstav a) – helsepåstand om redusert sykdomsrisiko | ProteQuine® i kombinasjon med bovint laktoferrin | ProteQuine® i kombinasjon med bovint laktoferrin øker/opprettholder nivået av ScIgA på slimhinnene. Nedsatt eller utilstrekkelig nivå av ScIgA er en risikofaktor for utvikling av forkjølelse med sår hals og kombinasjonen av ProteQuine® med bovint laktoferrin gir redusert risiko for utvikling av sår hals | Q-2008-398 |
+| Artikkel 14 nr. 1 bokstav b) – helsepåstand om barns utvikling og helse | *Lactobacillusdelbrueckii* subsp. *bulgaricus* stamme AY/CSL (LMG P-17224) og *Streptococcusthermophilus* stamme 9Y/CSL (LMG P-17225) | Opprettholder tarmhelsen ved å normalisere tarmfloraen | Q-2008-273 |
+| Artikkel 14 nr. 1 bokstav b) – helsepåstand om barns utvikling og helse | Beta-palmitat | Tilskudd av beta-palmitat bidrar til å øke opptaket av kalsium | Q-2008-172 |
 
 ### Forordning (EU) nr. 1048/2012
 
@@ -1418,17 +2380,29 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 1048
 av 8. november 2012
 om godkjenning av ein helsepåstand om næringsmiddel som viser til redusert sjukdomsrisiko
 
+EUROPAKOMMISJONEN HAR –
+
 med tilvising til traktaten om verkemåten til Den europeiske unionen,
 
 med tilvising til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler,1 særleg artikkel 17 nr. 3 og
 
 ut frå desse synsmåtane:I medhald av forordning [(EF) nr. 1924/2006](eu/32006r1924*) er helsepåstandar om næringsmiddel forbodne med mindre dei er godkjende av Kommisjonen i samsvar med den nemnde forordninga og førde opp i ei liste over påstandar som er tillatne.Ved forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det òg fastsett at driftsansvarlege for næringsmiddelføretak kan sende søknader om godkjenning av helsepåstandar til den rette nasjonale styresmakta i ein medlemsstat. Den rette nasjonale styresmakta skal sende gyldige søknader vidare til Den europeiske styresmakta for næringsmiddeltryggleik (EFSA), heretter kalla «Styresmakta».Etter at søknaden er motteken, skal Styresmakta straks melde frå til dei andre medlemsstatane og Kommisjonen om dette og gje ei fråsegn om den aktuelle helsepåstanden.Kommisjonen skal ta omsyn til fråsegna frå Styresmakta når han tek avgjerd om godkjenning av helsepåstandar.Etter ein søknad frå Cargill Incorporated, send over i medhald av artikkel 14 nr. 1 bokstav a) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), med ei oppmoding om sikring av data som er underlagde eigedomsrett med omsyn til ein metaanalyse2 og opplysningar om framstillingsprosessen for «betafiber» frå bygg (BarlivTM ), vart Styresmakta bede om å gje ei fråsegn om ein helsepåstand om verknadene av betaglukan av bygg med omsyn til å senke blodkolesterolet og redusere risikoen for (koronar) hjartesjukdom (spørsmål nr. EFSA-Q-2011-00798).3 Den påstanden som søkjaren hadde gjort framlegg om, hadde følgjande ordlyd: «Betaglukan av bygg har vist seg å senke/redusere blodkolesterolet. Senking av blodkolesterolet kan redusere risikoen for (koronar) hjartesjukdom».På grunnlag av dei opplysningane som vart lagde fram, konkluderte Styresmakta i den vitskaplege fråsegna si som Kommisjonen og medlemsstatane mottok 8. desember 2011, at det er ein årsakssamanheng mellom inntak av betaglukan av bygg og senking av innhaldet av LDL-kolesterol i blodet. Ein helsepåstand som svarar til denne konklusjonen, kan difor reknast å oppfylle krava i forordning [(EF) nr. 1924/2006](eu/32006r1924*) og bør førast opp på EU-lista over påstandar som er tillatne. Styresmakta rekna ikkje metaanalysen og opplysningane om framstillingsprosessen for «betafiber» av bygg (BarlivTM ) som søkjaren krev eigedomsrett til, som naudsynte for å kome til ein konklusjon. Kravet i artikkel 21 nr. 1 bokstav c) i forordning [(EF) nr. 1924/2006](eu/32006r1924*) vert difor ikkje rekna som oppfylt, og sikring av data som er underlagde eigedomsrett, bør følgjeleg ikkje innvilgast.Etter ein søknad som Valens Int. d.o.o. sende inn i medhald av artikkel 14 nr. 1 bokstav a) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), vart Styresmakta bede om å gje ei fråsegn om ein helsepåstand om verknadene av betaglukan av bygg med omsyn til å senke blodkolesterolet og redusere risikoen for (koronar) hjartesjukdom (spørsmål nr. EFSA-Q-2011-00799).4 Den påstanden som søkjaren hadde gjort framlegg om, hadde følgjande ordlyd: «Betaglukan av bygg har vist seg å redusere blodkolesterolet. Senking av blodkolesterolet kan redusere risikoen for hjartesjukdom».På grunnlag av dei opplysningane som vart lagde fram, konkluderte Styresmakta i den vitskaplege fråsegna si som Kommisjonen og medlemsstatane mottok 8. desember 2011, at det er ein årsakssamanheng mellom inntak av betaglukan av bygg og senking av innhaldet av LDL-kolesterol i blodet. Ein helsepåstand som svarar til denne konklusjonen, kan difor reknast å oppfylle krava i forordning [(EF) nr. 1924/2006](eu/32006r1924*) og bør førast opp på EU-lista over påstandar som er tillatne.I artikkel 16 nr. 4 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det fastsett at ei fråsegn om godkjenning av ein helsepåstand bør innehalde visse opplysningar. Desse opplysningane bør difor førast opp i vedlegget til denne forordninga for dei godkjende påstandane og, der det høver, omfatte den reviderte ordlyden til påstandane, særskilde bruksvilkår for påstandane, og eventuelt vilkår eller restriksjonar for bruk av næringsmiddelet og/eller ei tilleggsfråsegn eller -åtvaring, i samsvar med føresegnene i forordning [(EF) nr. 1924/2006](eu/32006r1924*) og i tråd med fråsegnene til Styresmakta.Eit av måla med forordning [(EF) nr. 1924/2006](eu/32006r1924*) er å sikre at helsepåstandar er sannferdige, tydelege og pålitelege og nyttige for forbrukaren, og at det vert teke omsyn til ordlyd og presentasjon i denne samanhengen. Når ordlyden til ein påstand gjev den same meininga for forbrukarane som ein godkjend helsepåstand fordi han syner det same sambandet mellom ei næringsmiddelgruppe og eit næringsmiddel eller ein av ingrediensane i næringsmiddelet, og helse, bør påstanden vere omfatta av dei same bruksvilkåra som er nemnde i vedlegget til denne forordninga.Ved fastsetjinga av tiltaka i denne forordninga er det teke omsyn til dei kommentarane som Kommisjonen har motteke frå søkjarane og andre personar i samsvar med artikkel 16 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).Dei tiltaka som er fastsette i denne forordninga, er i samsvar med fråsegna frå Det faste utvalet for næringsmiddelkjeda og dyrehelsa og verken Europaparlamentet eller Rådet har sett seg imot dei –
 
+1 TEU L 404 av 30.12.2006, s. 9.
+
+2 Harland JI, 2011 (ikkje offentleggjort): Meta-analysis of the effects of barley beta-glucan on blood lipids.
+
+3 The EFSA Journal (2011), 9 (12):2470.
+
+4 The EFSA Journal (2011), 9 (12):2471.
+
+VEDTEKE DENNE FORORDNINGA:
+
 ### Artikkel 1
 
-1. Den helsepåstanden som er førd opp i vedlegget til denne forordninga, kan nyttast på næringsmiddel på marknaden i Den europeiske unionen i samsvar med dei vilkåra som er fastsette i det nemnde vedlegget.
+1\. Den helsepåstanden som er førd opp i vedlegget til denne forordninga, kan nyttast på næringsmiddel på marknaden i Den europeiske unionen i samsvar med dei vilkåra som er fastsette i det nemnde vedlegget.
 
-2. Den helsepåstanden som er nemnd i nr. 1, skal ikkje førast opp i den EU-lista over påstandar som er tillatne, som er nemnd i artikkel 14 nr. 1 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).
+2\. Den helsepåstanden som er nemnd i nr. 1, skal ikkje førast opp i den EU-lista over påstandar som er tillatne, som er nemnd i artikkel 14 nr. 1 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).
 
 ### Artikkel 2
 
@@ -1438,8 +2412,19 @@ Denne forordninga er bindande i alle delar og gjeld direkte i alle medlemsstatan
 
 Utferda i Brussel, 8. november 2012.
 
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  | José Manuel BARROSO |
+|  | *President* |
+
 ### Vedlegg
 Helsepåstand som er tillaten
+
+| *Søknad – relevante føresegner i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Søkjar – adresse* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddel-<br>gruppe* | *Påstand* | *Bruksvilkår for påstanden* | *Vilkår og/eller restriksjonar for bruk av næringsmiddelet og/eller ei tilleggsfråsegn eller -åtvaring* | *Referanse-<br>nummeret til EFSA-fråsegna* |
+| --- | --- | --- | --- | --- | --- | --- |
+| Artikkel 14 nr. 1 bokstav a) – helsepåstand om redusert sjukdomsrisiko | Cargill Incorporated, gjennom Cargill Health and Nutrition, c/o Cargill R & D Centre Europe, Havenstraat 84, 1800 Vilvoorde, Belgium | Betaglukan av bygg | Betaglukan av bygg har vist seg å senke/redusere blodkolesterolet. Høgt blodkolesterol er ein riskofaktor i utviklinga av koronar hjartesjukdom. | Forbrukaren skal få opplysningar om at den gunstige verknaden vert oppnådd ved eit dagleg inntak på 3 g betaglukan av bygg.<br>Påstanden kan nyttast på næringsmiddel som inneheld minst 1 g betaglukan av bygg per oppgjevne porsjon. |  | Q-2011-00798 |
+|  | Valens Int. d.o.o., Kidričeva ulica 24b, SI-3000 Celje, Slovenia |  |  |  |  | Q-2011-00799 |
 
 ### Forordning (EU) nr. 379/2012
 
@@ -1451,17 +2436,27 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 379/
 av 3. mai 2012
 om avslag på godkjenning av visse andre helsepåstandar om næringsmiddel enn dei som viser til redusert sjukdomsrisiko og til utviklinga og helsa til barn
 
+EUROPAKOMMISJONEN HAR –
+
 med tilvising til traktaten om verkemåten til Den europeiske unionen,
 
 med tilvising til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler,1 særleg artikkel 18 nr. 5 og
 
 ut frå desse synsmåtane:I medhald av forordning [(EF) nr. 1924/2006](eu/32006r1924*) er helsepåstandar om næringsmiddel forbodne med mindre dei er godkjende av Kommisjonen i samsvar med den nemnde forordninga og førde opp i ei liste over påstandar som er tillatne.Ved forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det òg fastsett at driftsansvarlege for næringsmiddelføretak kan sende søknader om godkjenning av helsepåstandar til den rette nasjonale styresmakta i ein medlemsstat. Den rette nasjonale styresmakta skal sende gyldige søknader vidare til Den europeiske styresmakta for næringsmiddeltryggleik (EFSA), heretter kalla «Styresmakta».Etter at søknaden er motteken, skal Styresmakta straks melde frå til dei andre medlemsstatane og Kommisjonen om dette og gje ei fråsegn om den aktuelle helsepåstanden.Kommisjonen skal ta omsyn til fråsegna frå Styresmakta når han tek avgjerd om godkjenning av helsepåstandar.Etter ein søknad som Valio Ltd sende inn i medhald av artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), vart Styresmakta bede om å gje ei fråsegn om ein helsepåstand om verknadene av *Lactobacillus rhamnosus* GG (LGG) med omsyn til å halde ved lag forsvaret mot sjukdomsframkallande mikroorganismar i mage og tarm (spørsmål nr. EFSA-Q-2010–01028).2 Den påstanden som søkjaren hadde gjort framlegg om, hadde følgjande ordlyd: «*Lactobacillus* GG medverkar til å halde ved lag forsvaret mot sjukdomsframkallande stoff i tarmen».Kommisjonen og medlemsstatane mottok 1. juni 2010 den vitskaplege fråsegna frå Styresmakta, der han konkluderte med at det på grunnlag av dei framlagde opplysningane ikkje kunne påvisast nokon årsakssamanheng mellom inntak av *Lactobacillus rhamnosus* GG og den påståtte verknaden. Ettersom påstanden ikkje stettar krava i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør han difor ikkje godkjennast.Etter ein søknad som Gelita AG sende inn i medhald av artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), vart Styresmakta bede om å gje ei fråsegn om ein helsepåstand om verknadene av kollagenhydrolysat med omsyn til vedlikehald av ledda (spørsmål nr. EFSA-Q-2011–00201).3 Den påstanden som søkjaren hadde gjort framlegg om, hadde følgjande ordlyd: «Karakteristisk blanding av kollagenpeptid (kollagenhydrolysat) som har gunstig fysiologisk verknad på vedlikehald av leddhelsa hjå fysisk aktive menneske».Kommisjonen og medlemsstatane mottok 20. juli 2011 den vitskaplege fråsegna frå Styresmakta, der han konkluderte med at det på grunnlag av dei framlagde opplysningane ikkje kunne påvisast nokon årsakssamanheng mellom inntak av kollagenhydrolysat og den påståtte verknaden. Ettersom påstanden ikkje stettar krava i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør han difor ikkje godkjennast.Alle helsepåstandar som kjem inn under denne forordninga, er helsepåstandar i medhald av artikkel 13 nr. 1 bokstav a) i forordning [(EF) nr. 1924/2006](eu/32006r1924*) og er difor omfatta av den overgangsperioden som er fastsett i artikkel 28 nr. 5 i den same forordninga. Ettersom Styresmakta konkluderte med at det ikkje var påvist nokon årsakssamanheng mellom inntak av næringsmidla og dei høvesvise påståtte verknadene, er påstandane ikkje i samsvar med forordning [(EF) nr. 1924/2006](eu/32006r1924*) og vert difor ikkje omfatta av overgangsperioden som er fastsett i den artikkelen.For å sikre at denne forordninga vert oppfylt fullt ut bør både driftsansvarlege for næringsmiddelføretak og dei rette nasjonale styresmaktene gjere dei tiltaka som er naudsynte for å sikre at dei helsepåstandane som er nemnde i vedlegget til denne forordninga, ikkje lenger vert nytta seinast innan seks månader etter at denne forordninga har teke til å gjelde.Ved fastsetjinga av tiltaka i denne forordninga er det teke omsyn til dei kommentarane som Kommisjonen har motteke frå søkjarane og andre personar i samsvar med artikkel 16 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).Dei tiltaka som er fastsette i denne forordninga, er i samsvar med fråsegna frå Det faste utvalet for næringsmiddelkjeda og dyrehelsa og verken Europaparlamentet eller Rådet har sett seg imot dei –
 
+1 TEU L 404 av 30.12.2006, s. 9.
+
+2 The EFSA Journal (2011), 9(6):2167.
+
+3 The EFSA Journal (2011), 9(7):2291.
+
+VEDTEKE DENNE FORORDNINGA:
+
 ### Artikkel 1
 
-1. Dei helsepåstandane som er nemnde i vedlegget til denne forordninga, skal ikkje førast opp i den EU-lista over påstandar som er tillatne, som er nemnd i artikkel 13 nr. 3 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).
+1\. Dei helsepåstandane som er nemnde i vedlegget til denne forordninga, skal ikkje førast opp i den EU-lista over påstandar som er tillatne, som er nemnd i artikkel 13 nr. 3 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).
 
-2. Dei helsepåstandane som er nemnde i nr. 1 og som vart nytta før denne forordninga tok til å gjelde, kan likevel framleis nyttast i eit tidsrom på høgst seks månader etter at denne forordninga har teke til å gjelde.
+2\. Dei helsepåstandane som er nemnde i nr. 1 og som vart nytta før denne forordninga tok til å gjelde, kan likevel framleis nyttast i eit tidsrom på høgst seks månader etter at denne forordninga har teke til å gjelde.
 
 ### Artikkel 2
 
@@ -1471,8 +2466,19 @@ Denne forordninga er bindande i alle delar og gjeld direkte i alle medlemsstatan
 
 Utferda i Brussel, 3. mai 2012.
 
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  | José Manuel BARROSO |
+|  | *President* |
+
 ### Vedlegg
 Avviste helsepåstandar
+
+| *Søknad – relevante føresegner i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe* | *Påstand* | *Referansenummeret til EFSA-fråsegna* |
+| --- | --- | --- | --- |
+| Artikkel 13 nr. 5 – helsepåstand som byggjer på nyutvikla vitskaplege prov og/eller inneheld ei oppmoding om sikring av data som er underlagde eigedomsrett | *Lactobacillus rhamnosus* GG (LGG) | *Lactobacillus* GG medverkar til å halde ved lag forsvaret mot sjukdomsframkallande stoff i tarmen | Q-2010–01028 |
+| Artikkel 13 nr. 5 – helsepåstand som byggjer på nyutvikla vitskaplege prov og/eller inneheld ei oppmoding om sikring av data som er underlagde eigedomsrett | Kollagenhydrolysat | Karakteristisk blanding av kollagenpeptid (kollagenhydrolysat) som har gunstig fysiologisk verknad på vedlikehald av leddhelsa hjå fysisk aktive menneske | Q-2011–00201 |
 
 ### Konsolidert forordning (EU) nr. 432/2012
 
@@ -1484,17 +2490,33 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 432/
 av 16. mai 2012
 om fastsettelse av en liste over tillatte helsepåstander om næringsmidler som ikke viser til redusert sykdomsrisiko eller barns utvikling og helse
 
+EUROPAKOMMISJONEN HAR –
+
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler,1 særlig artikkel 13 nr. 3, og
 
 ut fra følgende betraktninger:I henhold til artikkel 10 nr. 1 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), er helsepåstander om næringsmidler forbudt med mindre de er godkjent av Kommisjonen i samsvar med nevnte forordning og oppført på listen over tillatte påstander.Artikkel 13 nr. 2 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) fastsetter at medlemsstatene innen 31. januar 2008 skal oversende Kommisjonen nasjonale lister over helsepåstander om næringsmidler, som nevnt i artikkel 13 nr. 1 i nevnte forordning. De nasjonale listene over påstander skal være ledsaget av vilkårene som gjelder for dem, og henvisninger til relevant vitenskapelig dokumentasjon.Artikkel 13 nr. 3 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) fastsetter at Kommisjonen, etter samråd med Den europeiske myndighet for næringsmiddeltrygghet (heretter kalt «myndigheten»), innen 31. januar 2010 skal vedta en liste over tillatte helsepåstander om næringsmidler, som nevnt i artikkel 13 nr. 1 i nevnte forordning, og alle nødvendige vilkår for bruk av disse påstandene.Den 31. januar 2008 mottok Kommisjonen lister med over 44 000 helsepåstander fra medlemsstatene. En undersøkelse av de nasjonale listene viste at det på grunn av mange dobbeltføringer og etter diskusjoner med medlemsstatene var nødvendig å sammenstille de nasjonale listene i en konsolidert liste over påstander som myndigheten burde gi vitenskapelig råd om, heretter kalt «den konsoliderte listen».2Den 24. juli 2008 oversendte Kommisjonen formelt til myndigheten anmodningen om en vitenskapelig uttalelse i samsvar med artikkel 13 nr. 3 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), sammen med mandatet og den første delen av den konsoliderte listen. Påfølgende deler av den konsoliderte listen ble oversendt i november og desember 2008. Den konsoliderte listen ble ferdigstilt av Kommisjonen ved et tillegg, som ble oversendt til myndigheten 12. mars 2010. Noen påstander på den konsoliderte listen ble trukket tilbake av medlemsstatene før de ble vurdert av myndigheten. Konklusjonene av myndighetens vitenskapelige vurdering ble offentliggjort som uttalelser i perioden oktober 2009 til juli 2011.3Myndighetens vurdering konkluderte med at noen av de innsendte påstandene dekket ulike påståtte virkninger eller omhandlet samme påståtte virkning. De helsepåstander som omfattes av denne forordning, kan derfor tilsvare en eller flere poster på den konsoliderte listen.På grunnlag av de innsendte opplysninger konkluderte myndigheten med at det for en rekke helsepåstander er fastslått en årsakssammenheng mellom en næringsmiddelkategori, et næringsmiddel eller en av dets bestanddeler og den påståtte virkningen. Helsepåstander som er i samsvar med disse konklusjoner og med kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør godkjennes i samsvar med artikkel 13 nr. 3 i forordning [(EF) nr. 1924/2006](eu/32006r1924*). og inntas på en liste over tillatte helsepåstander.Artikkel 13 nr. 3 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) fastsetter at tillatte helsepåstander skal være ledsaget av alle nødvendige vilkår (herunder begrensninger) for bruk. Listen over tillatte påstander bør følgelig inneholde ordlyden i påstandene og særskilte vilkår for bruk av påstandene, og dersom det er relevant, vilkår for eller begrensninger på bruk og/eller en tilleggsangivelse eller -advarsel, i samsvar med reglene fastsatt i forordning [(EF) nr. 1924/2006](eu/32006r1924*) og i tråd med myndighetens uttalelser.Et av formålene med forordning [(EF) nr. 1924/2006](eu/32006r1924*) er å sikre at helsepåstander er sannferdige, tydelige, pålitelige og nyttige for forbrukerne. Ordlyden i og måten slike påstander blir framsatt på, må derfor tas i betraktning. Dersom ordlyden i en påstand har samme betydning for forbrukerne som ordlyden i en tillatt helsepåstand fordi den viser til samme sammenheng mellom en næringsmiddelkategori, et næringsmiddel eller en av dets bestanddeler og helse, bør påstanden omfattes av de samme vilkår for bruk som en tillatt helsepåstand.Kommisjonen har identifisert en rekke påstander innsendt til vurdering, som viser til virkninger av stoffer fra planter eller urter, vanligvis kalt «plantestoffer», som myndigheten ennå ikke har foretatt en vitenskapelig vurdering av. I tillegg foreligger det en rekke helsepåstander som enten fordrer en nærmere vurdering før Kommisjonen kan vurdere om de skal oppføres på listen over tillatte påstander, eller som er blitt vurdert, men som på grunn av andre berettigede faktorer ikke kan ferdigbehandles av Kommisjonen på dette tidspunkt.Påstander som ikke ennå er ferdig vurdert av myndigheten eller behandlet av Kommisjonen, vil bli offentliggjort på Kommisjonens nettsted4 og kan fortsatt brukes i henhold til artikkel 28 nr. 5 og 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).I henhold til artikkel 6 nr. 1 og artikkel 13 nr. 1 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) skal helsepåstander være basert på allment anerkjent vitenskapelig dokumentasjon. En helsepåstand som myndigheten mener ikke har tilstrekkelig vitenskapelig belegg, ettersom det ikke er fastslått at det foreligger en årsakssammenheng mellom en næringsmiddelkategori, et næringsmiddel eller en av dets bestanddeler og den påståtte virkningen, skal følgelig ikke godkjennes. Godkjenning kan også med rette tilbakeholdes dersom helsepåstandene ikke overholder andre allmenne eller særskilte krav i forordning [(EF) nr. 1924/2006](eu/32006r1924*), selv i tilfeller der påstanden har fått en positiv vitenskapelig vurdering av myndigheten. Helsepåstander som ikke er forenlige med allment anerkjente ernærings- og helseprinsipper, skal ikke framsettes. Myndigheten konstaterte at det er fastslått en årsakssammenheng for en påstand5 om virkningen av fettstoffer på normalt opptak av fettløselige vitaminer og for en annen påstand6 om virkningen av natrium på opprettholdelsen av normal muskelfunksjon. Bruk av disse helsepåstandene vil imidlertid sende et motstridende og forvirrende budskap til forbrukerne ettersom det vil oppmuntre til bruk av disse næringsstoffene som europeiske, nasjonale og internasjonale myndigheter på grunnlag av allment anerkjent vitenskapelig dokumentasjon råder forbrukerne til å redusere inntaket av. Disse to påstandene er derfor ikke i samsvar med artikkel 3 annet ledd bokstav a) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), som fastsetter at bruken av påstander ikke skal være tvetydig eller villedende. Selv om bruk av de berørte helsepåstandene ble godkjent bare på visse vilkår og/eller ledsaget av tilleggserklæringer eller -advarsler, ville det ikke være tilstrekkelig til å hindre forvirring blant forbrukerne, og følgelig bør påstandene ikke godkjennes.Denne forordning bør få anvendelse seks måneder etter den dato den trer i kraft, for å gi næringsmiddelforetakene anledning til å tilpasse seg kravene i den, herunder forbudet i artikkel 10 nr. 1 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) mot helsepåstander som myndigheten har fullført vurderingen av eller Kommisjonen har ferdigbehandlet.I henhold til artikkel 20 nr. 1 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) skal Kommisjonen opprette og vedlikeholde et unionsregister over ernærings- og helsepåstander om næringsmidler, heretter kalt «registeret». Registeret vil inneholde alle godkjente påstander og blant annet vilkårene for bruk av påstandene. Registeret vil også inneholde en liste over helsepåstander som er avslått, og årsakene til at de ble avslått.Helsepåstander som medlemsstatene har trukket tilbake, vil ikke bli inntatt på listen over avslåtte påstander i unionsregisteret. Registeret vil bli regelmessig ajourført og, alt etter som, på grunnlag av utviklingen for helsepåstander som myndighetens vurdering av og/eller Kommisjonens behandling av ennå ikke er sluttført.Ved fastsettelse av tiltakene i denne forordning er det tatt behørig hensyn til de kommentarer og synspunkter Kommisjonen har mottatt fra offentligheten og berørte parter.Tilsetting av stoffer eller bruk av stoffer i næringsmidler er regulert av særskilt unionsregelverk eller nasjonal lovgivning, og det samme gjelder for klassifisering av produkter som næringsmidler eller legemidler. En beslutning om en helsepåstand i henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924*) som for eksempel oppføring på listen over tillatte påstander nevnt i artikkel 13 nr. 3 i nevnte forordning, utgjør verken en tillatelse til å markedsføre det stoffet påstanden gjelder, en beslutning om hvorvidt stoffet kan brukes i næringsmidler, eller en klassifisering av et visst produkt som næringsmiddel.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for næringsmiddelkjeden og dyrehelsen, og verken Europaparlamentet eller Rådet har motsatt seg dem –
 
+1 EUT L 404 av 30.12.2006, s. 9.
+
+2 [www.efsa.europa.eu/en/ndaclaims13/docs/ndaclaims13.zip](https://www.efsa.europa.eu/en/ndaclaims13/docs/ndaclaims13.zip).
+
+3 [www.efsa.europa.eu/en/topics/topic/article13.htm](https://www.efsa.europa.eu/en/topics/topic/article13.htm).
+
+4 [ec.europa.eu/food/food/labellingnutrition/claims/index_en.htm](https://ec.europa.eu/food/food/labellingnutrition/claims/index_en.htm).
+
+5 Registrering ID 670 og ID 2902 på den konsoliderte listen.
+
+6 Registrering ID 359 på den konsoliderte listen.
+
+VEDTATT DENNE FORORDNING:
+
 ### Artikkel 1. Tillatte helsepåstander
 
-1. Listen over helsepåstander som kan framsettes om næringsmidler i henhold til artikkel 13 nr. 3 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), er oppført i vedlegget til denne forordning.
+1\. Listen over helsepåstander som kan framsettes om næringsmidler i henhold til artikkel 13 nr. 3 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), er oppført i vedlegget til denne forordning.
 
-2. Helsepåstander nevnt i nr. 1 kan framsettes om næringsmidler i samsvar med vilkårene fastsatt i vedlegget.
+2\. Helsepåstander nevnt i nr. 1 kan framsettes om næringsmidler i samsvar med vilkårene fastsatt i vedlegget.
 
 ### Artikkel 2. Ikrafttredelse og anvendelse
 
@@ -1506,10 +2528,327 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel, 16. mai 2012.
 
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  | José Manuel BARROSO |
+|  | *President* |
+
 ### Vedlegg
 Liste over tillatte helsepåstander
 
+| *Nærings-<br>stoff, stoff, nærings-<br>middel eller nærings-<br>middel-<br>kategori* | *Påstand* | *Vilkår for bruk av<br>påstanden* | *Vilkår og/eller begrens-<br>ninger for bruk av nærings-<br>middelet og/eller en tilleggs-<br>erklæring eller -advarsel* | *EFSA Journal-<br>nummer* | *Registrerings-<br>nummer på den konsoliderte listen innsendt til EFSA for vurdering* |
+| --- | --- | --- | --- | --- | --- |
+| Aktivkull | Aktivkull bidrar til å redusere produksjonen av overdreven tarmgass etter måltider | Påstanden kan brukes bare om næringsmidler som inneholder 1 g aktivkull per porsjonsenhet. For at påstanden skal kunne brukes, skal forbrukerne opplyses om at den gunstige virkningen oppnås ved inntak av 1 g minst 30 minutter før måltidet og 1 g rett etter måltidet. |  | 2011; 9(4):2049 | 1938 |
+| ►**M1**<br>Alfa-syklodekstrin | Inntak av alfa-syklodekstrin som del av et måltid bidrar til å begrense blodsukkerøkningen etter måltidet | Påstanden kan brukes om næringsmidler som inneholder minst 5 g alfa-syklodekstrin per 50 g stivelse per porsjonsenhet som del av et måltid. For at påstanden skal kunne brukes, skal forbrukerne opplyses om at den gunstige virkningen oppnås ved å innta alfa-syklodekstrin som del av et måltid. |  | 2012; 10(6):2713 | 2926 ◄**M1** |
+| Alfa-linolensyre (ALA) | ALA bidrar til å opprettholde normalt kolesterolnivå i blodet | Påstanden kan brukes bare om næringsmidler som minst er en kilde til ALA i henhold til påstanden KILDE TIL OMEGA 3-FETTSYRER i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). Forbrukerne skal opplyses om at den gunstige virkningen oppnås ved et daglig inntak på 2 g ALA. |  | 2009; 7(9):1252 2011; 9(6):2203 | 493, 568 |
+| Arabinoxylan framstilt av hveteendosperm | Inntak av arabinoxylan som del av et måltid bidrar til å begrense blodsukkerøkningen etter måltidet | Påstanden kan brukes bare om næringsmidler som minst inneholder 8 g arabinoxylan-rike (AX-rike) fibrer framstilt av hveteendosperm (minst 60 vektprosent AX) per 100 g tilgjengelige karbohydrater i en porsjonsenhet som del av et måltid. For at påstanden skal kunne brukes, skal forbrukerne opplyses om at den gunstige virkningen oppnås ved inntak av arabinoxylan-rike (AX-rike) fibrer framstilt av hveteendosperm som en del av et måltid. |  | 2011; 9(6):2205 | 830 |
+| Fiber fra bygg | Fiber fra byggryn bidrar til å øke avføringsvolumet | Påstanden kan brukes bare om næringsmidler som er rike på slike fibrer i henhold til påstanden FIBERRIK i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2011; 9(6):2249 | 819 |
+| Betaglukaner | Betaglukaner bidrar til å opprettholde normale kolesterolnivåer i blodet | Påstanden kan brukes bare om næringsmidler som inneholder minst 1 g betaglukaner fra havre, havrekli, bygg, byggkli eller blandinger av disse kildene, per porsjonsenhet. For at påstanden skal kunne brukes, skal forbrukerne opplyses om at den gunstige virkningen oppnås ved et daglig inntak av 3 g betaglukaner fra havre, havrekli, bygg, byggkli eller blandinger av disse betaglukanene. |  | 2009; 7(9):1254 2011; 9(6):2207 | 754, 755, 757, 801, 1465, 2934 1236, 1299 |
+| Betaglukaner fra havre og bygg | Inntak av betaglukaner fra havre eller bygg som del av et måltid bidrar til å begrense blodsukkerøkningen etter måltidet | Påstanden kan brukes bare om næringsmidler som inneholder minst 4 g betaglukaner fra havre eller bygg per 30 g tilgjengelige karbohydrater per porsjonsenhet som del av et måltid. For at påstanden skal kunne brukes, skal forbrukerne opplyses om at den gunstige virkningen oppnås ved å innta betaglukanene fra havre eller bygg som del av et måltid. |  | 2011; 9(6):2207 | 821, 824 |
+| Betain | Betain bidrar til normal omsetning av homocystein | Påstanden kan brukes bare om næringsmidler som minst inneholder 500 g betain per porsjonsenhet. For at påstanden skal kunne brukes, skal forbrukerne opplyses om at den gunstige virkningen oppnås ved et daglig inntak av 1,5 g betanin. | For at påstanden skal kunne brukes, skal forbrukerne opplyses om at et daglig inntak av over 4 g kan gi en vesentlig økning i kolesterolnivået i blodet. | 2011; 9(4):2052 | 4325 |
+| Biotin | Biotin bidrar til normal energiomsetning | Påstanden kan brukes bare om næringsmidler som minst er en kilde til biotin i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1209 | 114, 117 |
+| Biotin | Biotin bidrar til nervesystemets normale funksjon | Påstanden kan brukes bare om næringsmidler som minst er en kilde til biotin i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1209 | 116 |
+| Biotin | Biotin bidrar til normal omsetning av makronæringsstoffer | Påstanden kan brukes bare om næringsmidler som minst er en kilde til biotin i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1209 2010; 8(10):1728 | 113, 114, 117, 4661 |
+| Biotin | Biotin bidrar til normal psykologisk funksjon | Påstanden kan brukes bare om næringsmidler som minst er en kilde til biotin i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2010; 8(10):1728 | 120 |
+| Biotin | Biotin bidrar til å opprettholde normalt hår | Påstanden kan brukes bare om næringsmidler som minst er en kilde til biotin i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1209 2010; 8(10):1728 | 118, 121, 2876 |
+| Biotin | Biotin bidrar til å opprettholde normale slimhinner | Påstanden kan brukes bare om næringsmidler som minst er en kilde til biotin i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1209 | 115 |
+| Biotin | Biotin bidrar til å opprettholde normal hud | Påstanden kan brukes bare om næringsmidler som minst er en kilde til biotin i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1209 2010; 8(10):1728 | 115, 121 |
+| Kalsium | Kalsium bidrar til normal blodlevring | Påstanden kan brukes bare om næringsmidler som minst er en kilde til kalsium i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1210 | 230, 236 |
+| Kalsium | Kalsium bidrar til normal energiomsetning | Påstanden kan brukes bare om næringsmidler som minst er en kilde til kalsium i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1210 | 234 |
+| Kalsium | Kalsium bidrar til normal muskelfunksjon | Påstanden kan brukes bare om næringsmidler som minst er en kilde til kalsium i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1210 | 226, 230, 235 |
+| Kalsium | Kalsium bidrar til normal nevrotransmisjon | Påstanden kan brukes bare om næringsmidler som minst er en kilde til kalsium i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1210 | 227, 230, 235 |
+| Kalsium | Kalsium bidrar til at fordøyelsesenzymer fungerer normalt | Påstanden kan brukes bare om næringsmidler som minst er en kilde til kalsium i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1210 | 355 |
+| Kalsium | Kalsium spiller en rolle i celledelings- og cellespesialiseringsprosessen | Påstanden kan brukes bare om næringsmidler som minst er en kilde til kalsium i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2010; 8(10):1725 | 237 |
+| Kalsium | Kalsium bidrar til å opprettholde normale knokler | Påstanden kan brukes bare om næringsmidler som minst er en kilde til kalsium i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1210 2009; 7(9):1272 2010; 8(10):1725 2011; 9(6):2203 | 224, 230, 350, 354, 2731, 3155, 4311, 4312, 4703 4704 |
+| Kalsium | Kalsium bidrar til å opprettholde normale tenner | Påstanden kan brukes bare om næringsmidler som minst er en kilde til kalsium i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1210 2010; 8(10):1725 2011; 9(6):2203 | 224, 230, 231, 2731, 3099, 3155, 4311, 4312, 4703 4704 |
+| ► **M3**<br>Karbohydrater | Karbohydrater bidrar til å opprettholde normal hjernefunksjon | For at påstanden skal kunne brukes, skal forbrukerne opplyses om at den gunstige virkningen oppnås ved et daglig inntak på 130 g karbohydrater fra alle kilder.<br>Påstanden kan brukes for næringsmidler som inneholder minst 20 g karbohydrater som metaboliseres av mennesker, unntatt polyoler, per kvantifisert porsjon, og som overholder helsepåstanden LAVT SUKKERINNHOLD eller UTEN TILSATT SUKKER som oppført i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). | Påstanden skal ikke brukes for næringsmidler som består av 100 % sukker. | 2011;9(6):2226 | 603,653 ◄ **M3** |
+| ►**M6**<br>Karbohydrater | Karbohydrater bidrar til gjenoppbygging av normal muskelfunksjon (sammentrekning) etter høyintensiv og/eller langvarig fysisk aktivitet som fører til muskeltretthet og nedbryting av glykogenlagre i skjelettmuskulatur. | Påstanden kan brukes bare om næringsmidler som inneholder karbohydrater som omdannes i menneskekroppen (med unntagelse av polyoler).<br>Forbrukerne skal opplyses om at den gunstige virkningen oppnås ved inntak av karbohydrater fra alle kilder, med et totalinntak på 4 g per kg kroppsvekt, inntatt i doser som påbegynnes innen 4 timer, og ikke tas senere enn 6 timer, etter høyintensiv og/eller langvarig fysisk aktivitet som fører til muskeltretthet og nedbryting av glykogenlagre i skjelettmuskulatur. | Påstanden kan brukes bare om næringsmidler for voksne som har utført høyintensiv og/eller langvarig fysisk aktivitet som fører til muskeltretthet og nedbryting av glykogenlagre i skjelettmuskulatur. | 2013;11(10):3409 | ◄**M6** |
+| Karbohydrat-elektrolyttløsninger | Karbohydrat-elektrolyttløsninger bidrar til å opprettholde utholdenhetsprestasjonen under langvarig utholdenhetstrening | For at påstanden skal kunne brukes, må karbohydrat-elektrolyttløsningen inneholde 80–350 kcal/l fra karbohydrater, og minst 75 % av energien må komme fra karbohydrater som gir en høy glykemisk respons, som glukose, glukosepolymerer og sukrose. I tillegg må disse drikkene inneholde mellom 20 mmol/l (460 mg/l) og 50 mmol/l (1,150 mg/l) natrium og ha en osmolalitet på mellom 200–330 mOsm/kg vann. |  | 2011; 9(6):2211 | 466, 469 |
+| Karbohydrat-elektrolyttløsninger | Karbohydrat-elektrolyttløsninger forbedrer opptaket av vann under fysisk trening | For at påstanden skal kunne brukes, må karbohydrat-elektrolyttløsningen inneholde 80–350 kcal/l fra karbohydrater, og minst 75 % av energien må komme fra karbohydrater som gir en høy glykemisk respons, som glukose, glukosepolymerer og sukrose. I tillegg må disse drikkene inneholde mellom 20 mmol/l (460 mg/l) og 50 mmol/l (1,150 mg/l) natrium og ha en osmolalitet på mellom 200–330 mOsm/kg vann. |  | 2011; 9(6):2211 | 314, 315, 316, 317, 319, 322, 325, 332, 408, 465, 473, 1168, 1574, 1593, 1618, 4302, 4309 |
+| ►**M14** Karbohydratløsninger | Karbohydratløsninger bidrar til å forbedre den fysiske prestasjonen under høyintensiv og langvarig fysisk aktivitet hos veltrente voksne. | Påstanden kan brukes bare om karbohydratløsninger som ifølge bruksanvisningen inneholder mellom 30 g og 90 g karbohydrater per time når de aktuelle karbohydratene er glukose, sukrose, fruktose og/eller maltdekstriner, på følgende vilkår:<br>a. Fruktose (fra fruktose og/eller sukrose) skal ikke utgjøre mer enn 1/3 av det samlede karbohydratinnholdet, og<br>b. Glukose (fra glukose, sukrose og/eller maltdekstriner) skal ikke overstige 60 g/t.<br>Forbrukerne skal opplyses om at den gunstige virkningen bare oppnås for veltrente voksne som utfører høyintensiv (minst 65 % av VO2max) og langvarig (minst 60 minutter) fysisk aktivitet. | Påstanden kan brukes bare om næringsmidler beregnet på veltrente voksne som utfører høyintensiv og langvarig fysisk aktivitet. | 2018;16(3):5191 | ◄**M14** |
+| Kitosan | Kitosan bidrar til å opprettholde normale kolesterolnivåer i blodet | Påstanden kan brukes bare om næringsmidler som gir et daglig inntak av 3 g kitosan. For at påstanden skal kunne brukes, skal forbrukerne opplyses om at den gunstige virkningen oppnås ved et daglig inntak av 3 g kitosan. |  | 2011; 9(6):2214 | 4663 |
+| Klorid | Klorid bidrar til normal fordøyelse ved å produsere saltsyre i magen | Påstanden kan brukes bare om næringsmidler som minst er en kilde til klorid i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). | Påstanden kan ikke brukes om klorid fra kilden natriumklorid | 2010; 8(10):1764 | 326 |
+| Kolin | Kolin bidrar til normal homocysteinomsetning | Påstanden kan brukes bare om næringsmidler som minst inneholder 82,5 mg kolin per 100 g eller 100 ml eller per porsjon næringsmiddel. |  | 2011; 9(4):2056 | 3090 |
+| Kolin | Kolin bidrar til normal lipidomsetning | Påstanden kan brukes bare om næringsmidler som minst inneholder 82,5 mg kolin per 100 g eller 100 ml eller per porsjon næringsmiddel. |  | 2011; 9(4):2056 | 3186 |
+| Kolin | Kolin bidrar til å opprettholde normal leverfunksjon | Påstanden kan brukes bare om næringsmidler som minst inneholder 82,5 mg kolin per 100 g eller 100 ml eller per porsjon næringsmiddel. |  | 2011; 9(4):2056 2011; 9(6):2203 | 1501 712, 1633 |
+| Krom | Krom bidrar til normal omsetning av makronæringsstoffer | Påstanden kan brukes bare om næringsmidler som minst er en kilde til trivalent krom i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2010; 8(10):1732 | 260, 401, 4665, 4666, 4667 |
+| Krom | Krom bidrar til å opprettholde normalt blodsukkernivå | Påstanden kan brukes bare om næringsmidler som minst er en kilde til trivalent krom i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2010; 8(10):1732 2011; 9(6):2203 | 262, 4667 4698 |
+| ► **M5**<br>Kakao-flavanoler | Kakaoflavanoler bidrar til å vedlikeholde blodkarenes elastisitet, noe som bidrar til normal blodgjennomstrømning\*\*\*\*\*<br>\*\*\*\*\*\* | Forbrukerne skal opplyses om at den gunstige virkningen oppnås ved et daglig inntak på 200 mg kakaoflavanoler.<br>Påstanden kan brukes bare for kakaodrikker (med kakaopulver) eller for mørk sjokolade som gir et daglig inntak på minst 200 mg kakaoflavanoler med en polymeriseringsgrad på 1–10\*\*\*\*\*<br>Påstanden kan brukes bare for kapsler eller tabletter som inneholder kakaoekstrakt med et høyt innhold av flavanoler som gir et daglig inntak på minst 200 mg kakaoflavanoler med en polymeriseringsgrad på 1–10\*\*\*\*\* |  | 2012;10(7):2809\*\*\*\*\*<br>2014;12(5):3654\*\*\*\*\*\* | ◄ **M5** |
+| Kobber | Kobber bidrar til å opprettholde normalt bindevev | Påstanden kan brukes bare om næringsmidler som minst er en kilde til kobber i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1211 | 265, 271, 1722 |
+| Kobber | Kobber bidrar til normal energiomsetning | Påstanden kan brukes bare om næringsmidler som minst er en kilde til kobber i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1211 2011; 9(4):2079 | 266, 1729 |
+| Kobber | Kobber bidrar til nervesystemets normale funksjon | Påstanden kan brukes bare om næringsmidler som minst er en kilde til kobber i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1211 2011; 9(4):2079 | 267, 1723 |
+| Kobber | Kobber bidrar til normal hårpigmentering | Påstanden kan brukes bare om næringsmidler som minst er en kilde til kobber i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1211 | 268, 1724 |
+| Kobber | Kobber bidrar til normal transport av jern i kroppen | Påstanden kan brukes bare om næringsmidler som minst er en kilde til kobber i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1211 | 269, 270, 1727 |
+| Kobber | Kobber bidrar til normal hudpigmentering | Påstanden kan brukes bare om næringsmidler som minst er en kilde til kobber i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1211 | 268, 1724 |
+| Kobber | Kobber bidrar til immunsystemets normale funksjon | Påstanden kan brukes bare om næringsmidler som minst er en kilde til kobber i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1211 2011; 9(4):2079 | 264, 1725 |
+| Kobber | Kobber bidrar til å beskytte cellene mot oksidativt stress | Påstanden kan brukes bare om næringsmidler som minst er en kilde til kobber i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1211 | 263, 1726 |
+| Kreatin | Kreatin øker den fysiske prestasjonen under gjentatte kraftanstrengelser under kortvarig, høyintensiv trening | Påstanden kan brukes bare om næringsmidler som gir et daglig inntak av 3 g kreatin. For at påstanden skal kunne brukes, skal forbrukerne opplyses om at den gunstige virkningen oppnås ved et daglig inntak av 3 g kreatin. | Påstanden kan brukes bare for næringsmidler ment for voksne som driver høyintensiv trening | 2011; 9(7):2303 | 739, 1520, 1521, 1522, 1523, 1525, 1526, 1531, 1532, 1533, 1534, 1922, 1923, 1924 |
+| ► **M10**<br>Kreatin | Daglig inntak av kreatin kan øke effekten av styrketrening på muskelstyrken hos voksne over 55 år. | Forbrukeren skal få opplysninger om at<br>– påstanden er rettet mot voksne over 55 år som regelmessig driver styrketrening,<br>– den gunstige virkningen oppnås ved et daglig inntak av 3 g kreatin i kombinasjon med styrketrening, som gjør det mulig å øke arbeidsbelastningen over tid, og styrketreningen bør gjennomføres minst tre ganger i uken i flere uker med en intensitet på minst 65 %–75 % av gjentatt maksimal belastning.\*\*\*\*\*\*\*\*\*\* | Påstanden kan brukes bare om næringsmidler ment for voksne over 55 år som regelmessig driver styrketrening. | 2016;14(2):4400 | ◄ **M10** |
+| Dokosaheksaensyre (DHA) | DHA bidrar til å opprettholde normal hjernefunksjon | Påstanden kan brukes bare om næringsmidler som inneholder minst 40 mg DHA per 100 g og per 100 kcal/l. For at påstanden skal kunne brukes, skal forbrukerne opplyses om at den gunstige virkningen oppnås ved et daglig inntak av 250 mg DHA. |  | 2010; 8(10):1734 2011; 9(4):2078 | 565, 626, 631, 689, 704, 742, 3148, 690, 3151, 497, 501, 510, 513, 519, 521, 534, 540, 688, 1323, 1360, 4294 |
+| Dokosaheksaensyre (DHA) | DHA bidrar til å opprettholde normalt syn | Påstanden kan brukes bare om næringsmidler som inneholder minst 40 mg DHA per 100 g og per 100 kcal/l. For at påstanden skal kunne brukes, skal forbrukerne opplyses om at den gunstige virkningen oppnås ved et daglig inntak av 250 mg DHA. |  | 2010; 8(10):1734 2011; 9(4):2078 | 627, 632, 743, 3149, 2905, 508, 510, 513, 519, 529, 540, 688, 4294 |
+| ►**M1**<br>Dokosaheksaensyre (DHA) | DHA bidrar til å opprettholde normale triglyseridnivåer i blodet | Påstanden kan brukes bare for næringsmidler som gir et daglig inntak på 2 g DHA, og som inneholder DHA i kombinasjon med eikosapentaensyre (EPA). For at påstanden skal kunne brukes, skal forbrukerne opplyses om at den gunstige virkningen oppnås ved et daglig inntak av 2 g DHA. Når påstanden brukes for kosttilskudd og/eller berikede næringsmidler, skal forbrukernes også informeres om at de ikke bør overskride et daglig inntak på 5 g EPA og DHA kombinert. | Påstanden skal ikke brukes på næringsmidler rettet mot barn. | 2010; 8(10):1734 | 533, 691, 3150 |
+| Dokosaheksaensyre og eikosapentaensyre (DHA/EPA) | DHA og EPA bidrar til å opprettholde normalt blodtrykk | Påstanden kan brukes bare om næringsmidler som gir et daglig inntak av 3 g EPA og DHA. For at påstanden skal kunne brukes, skal forbrukerne opplyses om at den gunstige virkningen oppnås ved et daglig inntak av 3 g EPA og DHA. Når påstanden brukes for kosttilskudd og/eller berikede næringsmidler, skal forbrukernes også informeres om at de ikke bør overskride et daglig inntak på 5 g EPA og DHA kombinert. | Påstanden skal ikke brukes på næringsmidler rettet mot barn. | 2009; 7(9):1263<br>2010; 8(10):1796 | 502, 506, 516, 703, 1317, 1324 |
+| Dokosaheksaensyre og eikosapentaensyre (DHA/EPA) | DHA og EPA bidrar til å opprettholde normale triglyseridnivåer i blodet | Påstanden kan brukes bare om næringsmidler som gir et daglig inntak av 2 g EPA og DHA. For at påstanden skal kunne brukes, skal forbrukerne opplyses om at den gunstige virkningen oppnås ved et daglig inntak av 2 g EPA og DHA. Når påstanden brukes for kosttilskudd og/eller berikede næringsmidler, skal forbrukernes også informeres om at de ikke bør overskride et daglig inntak på 5 g EPA og DHA kombinert. | Påstanden skal ikke brukes på næringsmidler rettet mot barn. | 2009; 7(9):1263<br>2010; 8(10):1796 | 506, 517, 527, 538, 1317, 1324, 1325 ◄**M1** |
+| ►**M1**<br>Svisker (*Prunus domestica*) | Tørkede plommer/svisker bidrar til normal tarmfunksjon | Påstanden kan brukes bare om næringsmidler som gir et daglig inntak av 100 g tørkede plommer (svisker). For at påstanden skal kunne brukes, skal forbrukerne opplyses om at den gunstige virkningen oppnås ved et daglig inntak av 100 g tørkede plommer (svisker). |  | 2012; 10(6):2712 | 1164 ◄**M1** |
+| Eikosapentaensyre og dokosaheksaensyre (EPA/DHA) | EPA og DHA bidrar til hjertets normale funksjon | Påstanden kan brukes bare om næringsmidler som minst er en kilde til EPA og DHA i henhold til påstanden KILDE TIL OMEGA 3-FETTSYRER i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). For at påstanden skal kunne brukes, skal forbrukerne opplyses om at den gunstige virkningen oppnås ved et daglig inntak av 250 mg EPA og DHA. |  | 2010; 8(10):1796 2011; 9(4):2078 | 504, 506, 516, 527, 538, 703, 1128, 1317, 1324, 1325, 510, 688, 1360 |
+| Fluorid | Fluorid bidrar til å opprettholde tannmineraliseringen | Påstanden kan brukes bare om næringsmidler som minst er en kilde til fluorid i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1212 2010; 8(10):1797 | 275, 276, 338, 4238, |
+| Folat | Folat bidrar til vevsdannelse hos gravide | Påstanden kan brukes bare om næringsmidler som minst er en kilde til folat i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1213 | 2882 |
+| Folat | Folat bidrar til normal aminosyresyntese | Påstanden kan brukes bare om næringsmidler som minst er en kilde til folat i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2010; 8(10):1760 | 195, 2881 |
+| Folat | Folat bidrar til normal bloddannelse | Påstanden kan brukes bare om næringsmidler som minst er en kilde til folat i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1213 | 79 |
+| Folat | Folat bidrar til normal homocysteinomsetning | Påstanden kan brukes bare om næringsmidler som minst er en kilde til folat i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1213 | 80 |
+| Folat | Folat bidrar til normal psykologisk funksjon | Påstanden kan brukes bare om næringsmidler som minst er en kilde til folat i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2010; 8(10):1760 | 81, 85, 86, 88 |
+| Folat | Folat bidrar til immunsystemets normale funksjon | Påstanden kan brukes bare om næringsmidler som minst er en kilde til folat i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1213 | 91 |
+| Folat | Folat bidrar til å redusere tretthet og utmattelse | Påstanden kan brukes bare om næringsmidler som minst er en kilde til folat i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2010; 8(10):1760 | 84 |
+| Folat | Folat spiller en rolle i celledelingsprosessen | Påstanden kan brukes bare om næringsmidler som minst er en kilde til folat i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1213 2010; 8(10):1760 | 193, 195, 2881 |
+| Næringsmidler med lavt eller redusert innhold av mettede fettsyrer | Å redusere inntaket av mettede fettsyrer bidrar til å opprettholde normale kolesterolnivåer i blodet | Påstanden kan brukes bare om næringsmidler som minst har et lavt innhold av mettede fettsyrer i henhold til påstanden LAVT INNHOLD AV METTET FETT eller redusert innhold av mettede fettsyrer i henhold til påstanden REDUSERT INNHOLD AV [NAVN PÅ NÆRINGSSTOFF] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2011; 9(4):2062 | 620, 671, 4332 |
+| Næringsmidler med lavt eller redusert innhold av natrium | Å redusere inntaket av natrium bidrar til å opprettholde normalt blodtrykk | Påstanden kan brukes bare om næringsmidler som minst har et lavt innhold av natrium/salt i henhold til påstanden LAVT INNHOLD AV NATRIUM/SALT eller redusert innhold av natrium/salt i henhold til påstanden REDUSERT INNHOLD AV [NAVN PÅ NÆRINGSSTOFF] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2011; 9(6):2237 | 336, 705, 1148, 1178, 1185, 1420 |
+| ►**M1**<br>Fruktose | Inntak av næringsmidler med fruktose gir lavere blodsukkerøkning enn næringsmidler med sukrose eller glukose | For at påstanden skal kunne brukes, skal glukose og/eller sukrose erstattes med fruktose i sukkersøtede næringsmidler eller drikker, slik at reduksjonen i innholdet av glukose og/eller sukrose i næringsmidlene eller drikkene er minst 30 %. |  | 2011; 9(6):2223 | 558 ◄**M1** |
+| Glukomannan (konjacglukomannan) | Glukomannan bidrar til å opprettholde normale kolesterolnivåer i blodet | Påstanden kan brukes bare om næringsmidler som gir et daglig inntak av 4 g glukomannan. For at påstanden skal kunne brukes, skal forbrukerne opplyses om at den gunstige virkningen oppnås ved et daglig inntak av 4 g glukomannan. | Personer med svelgevansker skal advares om kvelningsfare ved inntak med utilstrekkelige mengder væske og<br>skal anbefales å innta stoffet med rikelige mengder væske for å sikre at det når magen. | 2009; 7(9):1258 2010; 8(10):1798 | 836, 1560, 3100, 3217 |
+| Glukomannan (konjacglukomannan) | Glukomannan bidrar til vekttap i forbindelse med inntak av energibegrenset kost | Påstanden kan brukes bare om næringsmidler som inneholder 1 g glukomannan per porsjonsenhet. For at påstanden skal kunne brukes, skal forbrukerne opplyses om at den gunstige virkningen oppnås ved et daglig inntak av 3 g glukomannan i tre doser à 1 g, sammen med 1–2 glass vann før måltid og i forbindelse med energiredusert kost. | Personer med svelgevansker skal advares om kvelningsfare ved inntak med utilstrekkelige mengder væske og<br>skal anbefales å innta stoffet med rikelige mengder væske for å sikre at det når magen. | 2010; 8(10):1798 | 854, 1556, 3725, |
+| ►**M16**<br>Grønn kiwifrukt (*Actinidia deliciosa* «Hayward») | Inntak av grønn kiwifrukt bidrar til normal tarmfunksjon gjennom hyppigere avføring | Påstanden kan brukes bare om<br>i) friske grønne kiwifrukter som selges som slike, eller<br>ii) friske grønne kiwifrukter som bare er skrelt og/eller snittet,<br>og som gir minst 200 g kiwifruktkjøtt.<br>Forbrukerne skal opplyses om at den gunstige virkningen oppnås ved et daglig inntak av 200 g fruktkjøtt av frisk grønn kiwi. |  | 2021;19(6):6641 | ◄**M16** |
+| Guarkjernemel | Guarkjernemel bidrar til å opprettholde normale kolesterolnivåer i blodet | Påstanden kan brukes bare om næringsmidler som gir et daglig inntak av 10 g guarkjernemel. For at påstanden skal kunne brukes, skal forbrukerne opplyses om at den gunstige virkningen oppnås ved et daglig inntak av 10 g guarkjernemel. | Personer med svelgevansker skal advares om kvelningsfare ved inntak med utilstrekkelige mengder væske og<br>skal anbefales å innta stoffet med rikelige mengder væske for å sikre at det når magen. | 2010; 8(2):1464 | 808 |
+| Hydroksypropyl-<br>metylcellulose (HPMC) | Inntak av hydroksypropyl-<br>metylcellulose sammen med et måltid bidrar til å begrense blodsukkerøkningen etter måltidet | Påstanden kan brukes bare om næringsmidler som inneholder 4 g HPMC per porsjonsenhet som del av et måltid. For at påstanden skal kunne brukes, skal forbrukerne opplyses om at den gunstige virkningen oppnås ved å innta 4 g HPMC som del av et måltid. | Personer med svelgevansker skal advares om kvelningsfare ved inntak med utilstrekkelige mengder væske og<br>skal anbefales å ta inn stoffet med rikelige mengder væske for å sikre at det når magen. | 2010; 8(10):1739 | 814 |
+| Hydroksypropyl-<br>metylcellulose (HPMC) | Hydroksypropyl-<br>metylcellulose bidrar til å opprettholde normale kolesterolnivåer i blodet | Påstanden kan brukes bare om næringsmidler som gir et daglig inntak av 5 g HPMC. For at påstanden skal kunne brukes, skal forbrukerne opplyses om at den gunstige virkningen oppnås ved et daglig inntak av 5 g HPMC. | Personer med svelgevansker skal advares om kvelningsfare ved inntak med utilstrekkelige mengder væske og<br>skal anbefales å innta stoffet med rikelige mengder væske for å sikre at det når magen. | 2010; 8(10):1739 | 815 |
+| Jod | Jod bidrar til normal kognitiv funksjon | Påstanden kan brukes bare om næringsmidler som minst er en kilde til jod i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2010; 8(10):1800 | 273 |
+| Jod | Jod bidrar til normal energiomsetning | Påstanden kan brukes bare om næringsmidler som minst er en kilde til jod i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1214 2010; 8(10):1800 | 274, 402 |
+| Jod | Jod bidrar til nervesystemets normale funksjon | Påstanden kan brukes bare om næringsmidler som minst er en kilde til jod i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2010; 8(10):1800 | 273 |
+| Jod | Jod bidrar til å opprettholde normal hud | Påstanden kan brukes bare om næringsmidler som minst er en kilde til jod i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1214 | 370 |
+| Jod | Jod bidrar til normal produksjon av skjoldbruskhormoner og skjoldbruskkjertelens normale funksjon | Påstanden kan brukes bare om næringsmidler som minst er en kilde til jod i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1214 2010; 8(10):1800 | 274, 1237 |
+| Jern | Jern bidrar til en normal kognitiv funksjon | Påstanden kan brukes bare om næringsmidler som minst er en kilde til jern i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1215 | 253 |
+| Jern | Jern bidrar til normal energiomsetning | Påstanden kan brukes bare om næringsmidler som minst er en kilde til jern i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1215 2010; 8(10):1740 | 251, 1589, 255 |
+| Jern | Jern bidrar til normal dannelse av røde blodlegemer og hemoglobin | Påstanden kan brukes bare om næringsmidler som minst er en kilde til jern i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1215 2010; 8(10):1740 | 249, 1589, 374, 2889 |
+| Jern | Jern bidrar til normal transport av oksygen i kroppen | Påstanden kan brukes bare om næringsmidler som minst er en kilde til jern i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1215 2010; 8(10):1740 | 250, 254, 256, 255 |
+| Jern | Jern bidrar til immunsystemets normale funksjon | Påstanden kan brukes bare om næringsmidler som minst er en kilde til jern i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1215 | 252, 259 |
+| Jern | Jern bidrar til å redusere tretthet og utmattelse | Påstanden kan brukes bare om næringsmidler som minst er en kilde til jern i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2010; 8(10):1740 | 255, 374, 2889 |
+| Jern | Jern spiller en rolle i celledelingsprosessen | Påstanden kan brukes bare om næringsmidler som minst er en kilde til jern i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1215 | 368 |
+| Laktaseenzym | Laktaseenzym forbedrer laktosenedbrytingen hos personer som har vansker med å bryte ned laktose | Påstanden kan brukes bare om kosttilskudd med en minstedose på 4500 FCC-enheter (Food Chemicals Codex) sammen med en anvisning til målgruppen om at det bør inntas med alle måltider som inneholder laktose. | Målgruppen skal også informeres om at laktosetoleranse varierer, og at de bør søke råd om kosttilskuddets funksjon i kostholdet. | 2009; 7(9):1236 2011; 9(6):2203 | 1697, 1818 1974 |
+| ► **M11**<br>Laktitol | Laktitol bidrar til normal tarmfunksjon gjennom hyppigere avføring | Påstanden kan brukes bare om kosttilskudd som inneholder 10 g laktitol per dagsporsjon. For at påstanden skal kunne brukes, skal forbrukerne opplyses om at den gunstige virkningen oppnås ved å innta 10 g laktitol i en daglig dose. | Påstanden skal ikke brukes på næringsmidler rettet mot barn. | 2015;13(10):4252 | ◄ **M11** |
+| Laktulose | Laktulose bidrar til å påskynde passasjen gjennom tarmen | Påstanden kan brukes bare om næringsmidler som inneholder 10 g laktulose per porsjonsenhet. For at påstanden skal kunne brukes, skal forbrukerne opplyses om at den gunstige virkningen oppnås ved inntak av 10 g laktulose én gang daglig. |  | 2010; 8(10):1806 | 807 |
+| Linolsyre | Linolsyre bidrar til å opprettholde normale kolesterolnivåer i blodet | Påstanden kan brukes bare om næringsmidler som inneholder minst 1,5 g linolsyre per 100 g og per 100 kcal. Forbrukerne skal opplyses om at den gunstige virkningen oppnås ved et daglig inntak på 10 g linolsyre. |  | 2009; 7(9):1276 2011; 9(6):2235 | 489, 2899 |
+| Levende yoghurtkultur | Levende kulturer i yoghurt og syrnet melk forbedrer nedbrytingen av laktose i produktet hos personer som har vansker med å fordøye laktose | For at påstanden skal kunne brukes, må yoghurt eller syrnet melk inneholde minst 108 CFU (kolonidannende enheter) levende startkultur (*Lactobacillus delbrueckii* subsp. bulgaricus og *Streptococcus thermophilus*) per gram. |  | 2010; 8(10):1763 | 1143, 2976 |
+| Magnesium | Magnesium bidrar til å redusere tretthet og utmattelse | Påstanden kan brukes bare om næringsmidler som minst er en kilde til magnesium i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2010; 8(10):1807 | 244 |
+| Magnesium | Magnesium bidrar til elektrolyttbalansen | Påstanden kan brukes bare om næringsmidler som minst er en kilde til magnesium i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1216 | 238 |
+| Magnesium | Magnesium bidrar til normal energiomsetning | Påstanden kan brukes bare om næringsmidler som minst er en kilde til magnesium i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1216 | 240, 247, 248 |
+| Magnesium | Magnesium bidrar til nervesystemets normale funksjon | Påstanden kan brukes bare om næringsmidler som minst er en kilde til magnesium i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1216 | 242 |
+| Magnesium | Magnesium bidrar til normal muskelfunksjon | Påstanden kan brukes bare om næringsmidler som minst er en kilde til magnesium i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1216 2010; 8(10):1807 | 241, 380, 3083 |
+| Magnesium | Magnesium bidrar til normal proteinsyntese | Påstanden kan brukes bare om næringsmidler som minst er en kilde til magnesium i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1216 | 364 |
+| Magnesium | Magnesium bidrar til normal psykologisk funksjon | Påstanden kan brukes bare om næringsmidler som minst er en kilde til magnesium i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2010; 8(10):1807 | 245, 246 |
+| Magnesium | Magnesium bidrar til å opprettholde normale knokler | Påstanden kan brukes bare om næringsmidler som minst er en kilde til magnesium i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1216 | 239 |
+| Magnesium | Magnesium bidrar til å opprettholde normale tenner | Påstanden kan brukes bare om næringsmidler som minst er en kilde til magnesium i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1216 | 239 |
+| Magnesium | Magnesium spiller en rolle i celledelingsprosessen | Påstanden kan brukes bare om næringsmidler som minst er en kilde til magnesium i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1216 | 365 |
+| Mangan | Mangan bidrar til normal energiomsetning | Påstanden kan brukes bare om næringsmidler som minst er en kilde til mangan i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1217 2010; 8(10):1808 | 311, 405 |
+| Mangan | Mangan bidrar til å opprettholde normale knokler | Påstanden kan brukes bare om næringsmidler som minst er en kilde til mangan i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1217 | 310 |
+| Mangan | Mangan bidrar til normal dannelse av bindevev | Påstanden kan brukes bare om næringsmidler som minst er en kilde til mangan i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2010; 8(10):1808 | 404 |
+| Mangan | Mangan bidrar til å beskytte cellene mot oksidativt stress | Påstanden kan brukes bare om næringsmidler som minst er en kilde til mangan i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1217 | 309 |
+| ►**M9**<br>Måltidserstatning for vektkontroll | Å erstatte ett av hovedmåltidene per dag i en kaloriredusert diett med en måltidserstatning bidrar til å opprettholde vekten etter vekttap | For at påstanden skal kunne brukes, må næringsmiddelet være i samsvar med følgende krav:<br>1. *Energiinnhold*<br>Energiinnholdet skal ikke være lavere enn 200 kcal (840 kJ) og ikke overstige 250 kcal (1046 KJ) per måltid.\*\*\*\*\*\*\*\*<br>2. *Fettinnhold og sammensetning*<br>Energien fra fett skal ikke overstige 30 % av det samlede energiinnholdet i produktet.<br>Linolsyreinnholdet (i form av glyserider) skal ikke være lavere enn 1 gram.<br>3. *Proteininnhold og sammensetning*<br>Proteininnholdet i næringsmiddelet skal ikke utgjøre mindre enn 25 % og høyst 50 % av det samlede energiinnholdet i produktet.<br>Den kjemiske indeksen for proteinet skal tilsvare det som er fastsatt i Verdens helseorganisasjons rapport «Energy and protein requirements». Rapport fra et felles WHO/FAO/UNU-møte. Genève: Verdens helseorganisasjon, 1985 (WHO Technical Report Series, 724):<br>*Krav til aminosyrer (g/100 g protein)*<br>Cystin + metionin 1,7<br>Histidin 1,6<br>Isoleucin 1,3<br>Leucin 1,9<br>Lysin 1,6<br>Fenylalanin + tyrosin 1,9<br>Treonin 0,9<br>Tryptofan 0,5<br>Valin 1,3<br>Den «kjemiske indeksen» betyr det laveste forholdet mellom mengden av hver essensiell aminosyre i testproteinet og mengden av hver tilsvarende aminosyre i referanseproteinet.<br>Dersom den kjemiske indeksen er lavere enn 100 % av referanseproteinet, skal de laveste proteinnivåene økes tilsvarende. Under alle omstendigheter skal proteinets kjemiske indeks være minst 80 % av referanseproteinets.<br>I alle tilfeller er tilsetting av aminosyrer tillatt bare for å forbedre næringsverdien til proteinene, og bare i de mengdene som er nødvendige for dette formålet.<br>4. *Vitaminer og mineraler*<br>Næringsmiddelet skal gi minst 30 % av referanseverdiene for næringsinnhold for vitaminer og mineraler per måltid som fastsatt i vedlegg XIII til forordning [(EU) nr. 1169/2011](eu/32011r1169*). Dette kravet gjelder ikke for fluorid, krom, klorid og molybden. Den mengden natrium som næringsmiddelet gir per måltid, skal være minst 172,5 mg. Mengden kalium som næringsmiddelet gir per måltid, skal være minst 500 mg.\*\*\*\*\*\*\*\*\* | For at påstanden skal kunne brukes, skal forbrukeren gis opplysninger om hvor viktig det er å opprettholde et tilstrekkelig daglig væskeinntak og om det faktum at produktene bare er egnet for sitt formål som en del av en kalorifattig diett, og at andre næringsmidler bør inngå i denne dietten.<br>For å oppnå den påståtte virkningen bør ett hovedmåltid daglig erstattes med en måltidserstatning. | 2010 8(2): 1466<br>2015 13(11): 4287 | 1418 |
+| Måltidserstatning for vektkontroll | Å erstatte to av hovedmåltidene per dag i en kalorifattig diett med en måltidserstatning bidrar til vekttap | For at påstanden skal kunne brukes, må næringsmiddelet være i samsvar med følgende krav:<br>1. *Energiinnhold*<br>Energiinnholdet skal ikke være lavere enn 200 kcal (840 kJ) og ikke overstige 250 kcal (1046 KJ) per måltid.\*\*\*\*\*\*\*\*<br>2. *Fettinnhold og sammensetning*<br>Energien fra fett skal ikke overstige 30% av det samlede energiinnholdet i produktet.<br>Linolsyreinnholdet (i form av glyserider) skal ikke være lavere enn 1 gram.<br>3. *Proteininnhold og sammensetning*<br>Proteininnholdet i næringsmiddelet skal ikke utgjøre mindre enn 25 % og høyst 50 % av det samlede energiinnholdet i produktet.<br>Den kjemiske indeksen for proteinet skal tilsvare det som er fastsatt i Verdens helseorganisasjons rapport «Energy and protein requirements». Rapport fra et felles WHO/FAO/UNU-møte. Genève: Verdens helseorganisasjon, 1985 (WHO Technical Report Series, 724):<br>*Krav til aminosyrer (g/100 g protein)*<br>Cystin + metionin 1,7<br>Histidin 1,6<br>Isoleucin 1,3<br>Leucin 1,9<br>Lysin 1,6<br>Fenylalanin + tyrosin 1,9<br>Treonin 0,9<br>Tryptofan 0,5<br>Valin 1,3<br>Den «kjemiske indeksen» betyr det laveste forholdet mellom mengden av hver essensiell aminosyre i testproteinet og mengden av hver tilsvarende aminosyre i referanseproteinet.<br>Dersom den kjemiske indeksen er lavere enn 100 % av referanseproteinet, skal de laveste proteinnivåene økes tilsvarende. Under alle omstendigheter skal proteinets kjemiske indeks være minst 80 % av referanseproteinets.<br>I alle tilfeller er tilsetting av aminosyrer tillatt bare for å forbedre næringsverdien til proteinene, og bare i de mengdene som er nødvendige for dette formålet.<br>*4. Vitaminer og mineraler*<br>Næringsmiddelet skal gi minst 30 % av referanseverdiene for næringsinnhold for vitaminer og mineraler per måltid som fastsatt i vedlegg XIII til forordning [(EU) nr. 1169/2011](eu/32011r1169*). Dette kravet gjelder ikke for fluorid, krom, klorid og molybden. Den mengden natrium som næringsmiddelet gir per måltid, skal være minst 172,5 mg. Mengden kalium som næringsmiddelet gir per måltid, skal være minst 500 mg.\*\*\*\*\*\*\*\*\* | For at påstanden skal kunne brukes, skal forbrukeren gis opplysninger om hvor viktig det er å opprettholde et tilstrekkelig daglig væskeinntak og om det faktum at produktene bare er egnet for sitt formål som en del av en kalorifattig diett, og at andre næringsmidler bør inngå i denne dietten.<br>For å oppnå den påståtte virkningen bør to av dagens hovedmåltider erstattes med måltidserstatninger hver dag. | 2010 8(2):1466<br>2015 13(11):4287 | 1417 ◄**M9** |
+| Kjøtt eller fisk | Kjøtt eller fisk bidrar til opptaket av jern når det spises sammen med andre næringsmidler som inneholder jern | Påstanden kan brukes bare om næringsmidler som inneholder minst 50 g kjøtt eller fisk per porsjonsenhet. For at påstanden skal kunne brukes, skal forbrukerne opplyses om at den gunstige virkningen oppnås ved å innta 50 g kjøtt eller fisk sammen med næringsmidler som inneholder ikke-hemjern. |  | 2011; 9(4):2040 | 1223 |
+| Melatonin | Melatonin bidrar til å lindre den subjektive opplevelsen av jetlag | Påstanden kan brukes bare om næringsmidler som minst inneholder 0,5 mg melatonin per porsjonsenhet. For at påstanden skal kunne brukes, må forbrukerne opplyses om at den gunstige virkningen oppnås ved å innta minst 0,5 mg melatonin ved leggetid den første reisedagen og deretter noen dager etter ankomst til reisemålet. |  | 2010; 8(2):1467 | 1953 |
+| Melatonin | Melatonin bidrar til å redusere innsovningstiden | Påstanden kan brukes bare om næringsmidler som inneholder 1 mg melatonin per porsjonsenhet. For at påstanden skal kunne brukes, skal forbrukerne opplyses om at den gunstige virkningen oppnås ved å innta 1 mg melatonin ved leggetid. |  | 2011; 9(6):2241 | 1698, 1780, 4080 |
+| Molybden | Molybden bidrar til normal omsetning av svovelaminosyrer | Påstanden kan brukes bare om næringsmidler som minst er en kilde til molybden i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2010; 8(10):1745 | 313 |
+| ►**M15** |  |  |  |  | ◄**M15** |
+| Enumettede og/eller flerumettede fettsyrer | Å erstatte mettet fett med umettet fett i kosten bidrar til å opprettholde normale kolesterolnivåer i blodet [enumettede og flerumettede fettsyrer er umettet fett] | Påstanden kan brukes bare om næringsmidler som er rike på umettede fettsyrer i henhold til påstanden RIK PÅ UMETTET FETT i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2011; 9(4):2069 2011; 9(6):2203 | 621, 1190, 1203, 2906, 2910, 3065 674, 4335 |
+| ►**M7**<br>Naturlig sikoriinulin | Sikoriinulin bidrar til normal tarmfunksjon gjennom hyppigere avføring\*\*\*\*\*\*\* | Forbrukerne skal opplyses om at den gunstige virkningen oppnås ved et daglig inntak av 12 g sikoriinulin.<br>Påstanden kan bare brukes for næringsmidler som gir et daglig inntak på minst 12 g naturlig sikoriinulin, en ikke-fraksjonert blanding av monosakkarider (< 10 %), disakkarider, fruktaner av inulintypen og inulin ekstrahert fra sikori med en gjennomsnittlig polymeriseringsgrad på ≥ 9. |  | 2015;13(1):3951 | ◄**M7** |
+| Niacin | Niacin bidrar til normal energiomsetning | Påstanden kan brukes bare om næringsmidler som minst er en kilde til niacin i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1224 2010; 8(10):1757 | 43, 49, 54, 51 |
+| Niacin | Niacin bidrar til nervesystemets normale funksjon | Påstanden kan brukes bare om næringsmidler som minst er en kilde til niacin i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1224 | 44, 53 |
+| Niacin | Niacin bidrar til normal psykologisk funksjon | Påstanden kan brukes bare om næringsmidler som minst er en kilde til niacin i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2010; 8(10):1757 | 55 |
+| Niacin | Niacin bidrar til å opprettholde normale slimhinner | Påstanden kan brukes bare om næringsmidler som minst er en kilde til niacin i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1224 | 45, 52, 4700 |
+| Niacin | Niacin bidrar til å opprettholde normal hud | Påstanden kan brukes bare om næringsmidler som minst er en kilde til niacin i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1224 2010; 8(10):1757 | 45, 48, 50, 52, 4700 |
+| Niacin | Niacin bidrar til å redusere tretthet og utmattelse | Påstanden kan brukes bare om næringsmidler som minst er en kilde til niacin i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2010; 8(10):1757 | 47 |
+| ►**M8**<br>Ikke-gjærbare karbohydrater | Inntak av næringsmidler/drikker som inneholder <navn på alle ikke-gjærbare karbohydrater som brukes> i stedet for gjærbare karbohydrater, bidrar til å opprettholde tannmineralisering. | For at påstanden skal kunne brukes, bør gjærbare karbohydrater(1\*\* ) erstattes i næringsmidler eller drikker med ikke-gjærbare karbohydrater(2\*\*\* ) i slike mengder at inntak av disse næringsmidlene eller drikkene ikke senker plakk-pH til under 5,7 under eller opptil 30 minutter etter inntak.<br>(1\*\* ) Gjærbare karbohydrater defineres som karbohydrater eller karbohydratblandinger i næringsmidler eller drikker som senker plakk-pH til under 5,7 ved bakteriell gjæring under og opptil 30 minutter etter inntak, som fastsatt in vivo eller in situ ved plakk-pH-telemetri.<br>(2\*\*\* ) Ikke-gjærbare karbohydrater defineres som karbohydrater eller karbohydratblandinger i næringsmidler eller drikker som ikke senker plakk-pH til under en konservativ pH-verdi på 5,7 ved bakteriell gjæring under og opptil 30 minutter etter inntak, som fastsatt in vivo eller in situ ved plakk-pH-telemetri. |  | 2013;11(7):3329 |  |
+| Ufordøyelige karbohydrater | Inntak av næringsmidler/drikker som inneholder <navn på alle ufordøyelige karbohydrater som brukes> i stedet for sukker, fører til lavere blodsukkerøkning etter inntaket sammenlignet med sukkerholdige næringsmidler/drikker. | For at påstanden skal kunne brukes, bør sukker i næringsmidler eller drikker erstattes med ufordøyelige karbohydrater, som er karbohydrater som verken fordøyes eller absorberes i tynntarmen, slik at sukkerinnholdet i næringsmidlene eller drikkene reduseres med minst den mengden som angis i påstanden REDUSERT INNHOLD AV [NAVN PÅ NÆRINGSSTOFF] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2014 12(1):3513<br>2014 12(10):3838<br>2014 12(10):3839 | ◄**M8** |
+| Fiber av havre | Fiber av havre bidrar til å øke avføringsvolumet | Påstanden kan brukes bare om næringsmidler som er rike på slike fibrer i henhold til påstanden FIBERRIK i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2011; 9(6):2249 | 822 |
+| Oleinsyre | Å erstatte mettede fettsyrer i kosthold med umettede fettsyrer bidrar til å opprettholde normale kolesterolnivåer i blodet. Oleinsyre er et umettet fett. | Påstanden kan brukes bare om næringsmidler som er rike på umettede fettsyrer i henhold til påstanden RIK PÅ UMETTET FETT i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2011; 9(4):2043 | 673, 728, 729, 1302, 4334 |
+| Olivenolje-polyfenoler | Olivenolje-polyfenoler bidrar til å beskytte fettstoffer i blodet mot oksidativt stress | Påstanden kan brukes bare om olivenolje som inneholder minst 5 mg hydroksytyrosol og derivater av dette (f.eks. oleuropein-kompleks og tyrosol) per 20 g olivenolje. For at påstanden skal kunne brukes, skal forbrukerne opplyses om at den gunstige virkningen oppnås ved et daglig inntak av 20 g olivenolje. |  | 2011; 9(4):2033 | 1333, 1638, 1639, 1696, 2865 |
+| Pantotensyre | Pantotensyre bidrar til normal energiomsetning | Påstanden kan brukes bare om næringsmidler som minst er en kilde til pantotensyre i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1218 | 56, 59, 60, 64, 171, 172, 208 |
+| Pantotensyre | Pantotensyre bidrar til normal syntese og omsetning av steroidhormoner, vitamin D og enkelte nevrotransmittere | Påstanden kan brukes bare om næringsmidler som minst er en kilde til pantotensyre i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1218 | 181 |
+| Pantotensyre | Pantotensyre bidrar til å redusere tretthet og utmattelse | Påstanden kan brukes bare om næringsmidler som minst er en kilde til pantotensyre i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2010; 8(10):1758 | 63 |
+| Pantotensyre | Pantotensyre bidrar til normal psykologisk funksjon | Påstanden kan brukes bare om næringsmidler som minst er en kilde til pantotensyre i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1218 2010; 8(10):1758 | 57, 58 |
+| Pektiner | Pektiner bidrar til å opprettholde normale kolesterolnivåer i blodet | Påstanden kan brukes bare om næringsmidler som gir et daglig inntak av 6 g pektiner. For at påstanden skal kunne brukes, skal forbrukerne opplyses om at den gunstige virkningen oppnås ved et daglig inntak av 6 g pektiner. | Personer med svelgevansker skal advares om kvelningsfare ved inntak med utilstrekkelige mengder væske og<br>skal anbefales å innta stoffet med rikelige mengder væske for å sikre at det når magen. | 2010; 8(10):1747 | 818, 4236 |
+| Pektiner | Inntak av pektiner sammen med et måltid bidrar til å begrense blodsukkerøkningen etter måltidet | Påstanden kan brukes bare om næringsmidler som inneholder 10 g pektiner per porsjonsenhet. For at påstanden skal kunne brukes, skal forbrukerne opplyses om at den gunstige virkningen oppnås ved å innta 10 g pektiner som del av et måltid. | Personer med svelgevansker skal advares om kvelningsfare ved inntak med utilstrekkelige mengder væske og<br>skal anbefales å innta stoffet med rikelige mengder væske for å sikre at det når magen. | 2010; 8(10):1747 | 786 |
+| Fosfor | Fosfor bidrar til normal energiomsetning | Påstanden kan brukes bare om næringsmidler som minst er en kilde til fosfor i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1219 | 329, 373 |
+| Fosfor | Fosfor bidrar til cellemembranenes normale funksjon | Påstanden kan brukes bare om næringsmidler som minst er en kilde til fosfor i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1219 | 328 |
+| Fosfor | Fosfor bidrar til å opprettholde normale knokler | Påstanden kan brukes bare om næringsmidler som minst er en kilde til fosfor i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1219 | 324, 327 |
+| Fosfor | Fosfor bidrar til å opprettholde normale tenner | Påstanden kan brukes bare om næringsmidler som minst er en kilde til fosfor i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1219 | 324, 327 |
+| Fytosteroler og fytostanoler | Fytosteroler/-stanoler bidrar til å opprettholde normale kolesterolnivåer i blodet | For at påstanden skal kunne brukes, skal forbrukerne opplyses om at den gunstige virkningen oppnås ved et daglig inntak av 0,8 g fytosteroler/-stanoler. |  | 2010; 8(10):1813 2011; 9(6):2203 | 549, 550, 567, 713, 1234, 1235, 1466, 1634, 1984, 2909, 3140 568 |
+| Kalium | Kalium bidrar til nervesystemets normale funksjon | Påstanden kan brukes bare om næringsmidler som minst er en kilde til kalium i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2010; 8(2):1469 | 386 |
+| Kalium | Kalium bidrar til normal muskelfunksjon | Påstanden kan brukes bare om næringsmidler som minst er en kilde til kalium i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2010; 8(2):1469 | 320 |
+| Kalium | Kalium bidrar til å opprettholde normalt blodtrykk | Påstanden kan brukes bare om næringsmidler som minst er en kilde til kalium i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2010; 8(2):1469 | 321 |
+| Proteiner | Proteiner bidrar til vekst i muskelmasse | Påstanden kan brukes bare om næringsmidler som minst er en kilde til protein i henhold til påstanden PROTEINKILDE i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2010; 8(10):1811 2011; 9(6):2203 | 415, 417, 593, 594, 595, 715 1398 |
+| Proteiner | Proteiner bidrar til å opprettholde muskelmasse | Påstanden kan brukes bare om næringsmidler som minst er en kilde til protein i henhold til påstanden PROTEINKILDE i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2010; 8(10):1811 2011; 9(6):2203 | 415, 417, 593, 594, 595, 715 1398 |
+| Proteiner | Protein bidrar til å opprettholde normale knokler | Påstanden kan brukes bare om næringsmidler som minst er en kilde til protein i henhold til påstanden PROTEINKILDE i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2010; 8(10):1811 2011; 9(6):2203 | 416 4704 |
+| ►**M2**<br>Alkoholfrie, syreholdige drikker med ny sammensetning, med mindre enn 1 g gjærbart karbohydrat per 100 ml (sukker og andre karbohydrater unntatt polyoler),<br>– 0,3 til 0,8 mol kalsium per mol syregivende middel<br>– pH-verdi mellom 3,7 og 4,0 | Å erstatte sukkerholdige, syreholdige drikker som brus (typisk 8-12 g sukker/100 ml) med drikker med ny sammensetning bidrar til å vedlikeholde tannmineralisering\* | For at denne påstanden skal kunne brukes, må de syreholdige drikkene med ny sammensetning samsvare med beskrivelsen av næringsmiddelet som påstanden framsettes for |  | 2010;8(12):1884 | ◄**M2** |
+| Resistent stivelse | Å erstatte fordøyelig stivelse med resistent stivelse i et måltid bidrar til å begrense blodsukkerøkningen etter måltidet | Påstanden kan brukes bare om næringsmidler der fordøyelig stivelse er erstattet med resistent stivelse slik at det endelige innholdet av resistent stivelse er minst 14 % av samlet innhold av stivelse. |  | 2011; 9(4):2024 | 681 |
+| Riboflavin (Vitamin B2) | Riboflavin bidrar til normal energiomsetning | Påstanden kan brukes bare om næringsmidler som minst er en kilde til riboflavin i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2010; 8(10):1814 | 29, 35, 36, 42 |
+| Riboflavin (Vitamin B2) | Riboflavin bidrar til nervesystemets normale funksjon | Påstanden kan brukes bare om næringsmidler som minst er en kilde til riboflavin i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2010; 8(10):1814 | 213 |
+| Riboflavin (Vitamin B2) | Riboflavin bidrar til å opprettholde normale slimhinner | Påstanden kan brukes bare om næringsmidler som minst er en kilde til riboflavin i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2010; 8(10):1814 | 31 |
+| Riboflavin (Vitamin B2) | Riboflavin bidrar til å opprettholde normale røde blodlegemer | Påstanden kan brukes bare om næringsmidler som minst er en kilde til riboflavin i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2010; 8(10):1814 | 40 |
+| Riboflavin (Vitamin B2) | Riboflavin bidrar til å opprettholde normal hud | Påstanden kan brukes bare om næringsmidler som minst er en kilde til riboflavin i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2010; 8(10):1814 | 31, 33 |
+| Riboflavin (Vitamin B2) | Riboflavin bidrar til å opprettholde normalt syn | Påstanden kan brukes bare om næringsmidler som minst er en kilde til riboflavin i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2010; 8(10):1814 | 39 |
+| Riboflavin (Vitamin B2) | Riboflavin bidrar til normal omsetning av jern | Påstanden kan brukes bare om næringsmidler som minst er en kilde til riboflavin i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2010; 8(10):1814 | 30, 37 |
+| Riboflavin (Vitamin B2) | Riboflavin bidrar til å beskytte cellene mot oksidativt stress | Påstanden kan brukes bare om næringsmidler som minst er en kilde til riboflavin i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2010; 8(10):1814 | 207 |
+| Riboflavin (Vitamin B2) | Riboflavin bidrar til å redusere tretthet og utmattelse | Påstanden kan brukes bare om næringsmidler som minst er en kilde til riboflavin i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2010; 8(10):1814 | 41 |
+| Rugfiber | Rugfiber bidrar til normal tarmfunksjon | Påstanden kan brukes bare om næringsmidler som er rike på slike fibrer i henhold til påstanden FIBERRIK i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2011; 9(6):2258 | 825 |
+| Selen | Selen bidrar til normal spermatogenese | Påstanden kan brukes bare om næringsmidler som minst er en kilde til selen i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1220 | 396 |
+| Selen | Selen bidrar til å opprettholde normalt hår | Påstanden kan brukes bare om næringsmidler som minst er en kilde til selen i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2010; 8(10):1727 | 281 |
+| Selen | Selen bidrar til å opprettholde normale negler | Påstanden kan brukes bare om næringsmidler som minst er en kilde til selen i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2010; 8(10):1727 | 281 |
+| Selen | Selen bidrar til immunsystemets normale funksjon | Påstanden kan brukes bare om næringsmidler som minst er en kilde til selen i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1220 2010; 8(10):1727 | 278, 1750 |
+| Selen | Selen bidrar til skjoldbruskkjertelens normale funksjon | Påstanden kan brukes bare om næringsmidler som minst er en kilde til selen i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2010; 8(10):1727 2009; 7(9):1220 | 279, 282, 286, 410, 1289, 1290, 1291, 1292, 1293 |
+| Selen | Selen bidrar til å beskytte cellene mot oksidativt stress | Påstanden kan brukes bare om næringsmidler som minst er en kilde til selen i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1220 2010; 8(10):1727 | 277, 283, 286, 1289, 1290, 1291, 1293, 1751, 410, 1292 |
+| ►**M2**<br>Langsomt fordøyelig stivelse | Konsum av produkter med høyt innhold av langsomt fordøyelig stivelse (SDS) øker blodsukkernivået mindre etter et måltid enn produkter med lavt SDS-innhold\*\* | Påstanden kan brukes bare for næringsmidler der fordøyelige karbohydrater utgjør minst 60 % av den samlede energien, og der minst 55 % av disse karbohydratene er fordøyelig stivelse, hvorav minst 40 % er SDS |  | 2011;9(7):2292 | ◄**M2** |
+| ►**M4**<br>Sukkerbetefiber | Sukkerbetefiber bidrar til å øke avføringsvolumet | Påstanden kan brukes bare om næringsmidler som er rike på slike fibrer i henhold til påstanden FIBERRIK i vedlegget til forordning [(EU) nr. 1924/2006](eu/32006r1924*). |  | 2001;(12):2468 | ◄**M4** |
+| Sukkererstatninger, dvs. intense søtstoffer, xylitol, sorbitol, mannitol, maltitol, laktitol, isomalt, erytritol, sukralose og polydekstrose; D-tagatose og isomaltulose | Inntak av mat-/drikkevarer som inneholder <navn på sukkererstatning> i stedet for sukker1 fører til lavere blodsukkerøkning etter inntaket enn inntak av sukkerholdige mat-/drikkevarer | For at påstanden skal kunne brukes, må sukker i næringsmidler være erstattet med sukkererstatninger, dvs. intense søtstoffer, xylitol, sorbitol, mannitol, maltitol, laktitol, isomalt, erytritol, sukralose eller polydekstrose eller en kombinasjon av disse, slik at sukkerinnholdet i næringsmiddelet er redusert med minst så mye som angitt i påstanden REDUSERT INNHOLD AV [NAVN PÅ NÆRINGSSTOFF] i vedlegg til forordning [(EF) nr. 1924/2006](eu/32006r1924*).<br>Når det gjelder D-tagatose og isomaltulose skal de erstatte tilsvarende mengder andre sukkerarter i samme forhold som angitt i påstanden REDUSERT INNHOLD AV [NAVN PÅ NÆRINGSSTOFF] i vedlegg til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2011; 9(4):2076 2011; 9(6):2229 | 617, 619, 669, 1590, 1762, 2903, 2908, 2920 4298 |
+| Sukkererstatninger, dvs. intense søtstoffer, xylitol, sorbitol, mannitol, maltitol, laktitol, isomalt, erytritol, sukralose og polydekstrose; D-tagatose og isomaltulose | Inntak av mat-/drikkevarer som inneholder <navn på sukkererstatning> i stedet for sukker,2 bidrar til å opprettholde tannmineraliseringen | For at påstanden skal kunne brukes, skal sukker i et næringsmiddel (som senker plakk-pH til under 5,7) være erstattet med sukkererstatninger, dvs. intense søtstoffer, xylitol, sorbitol, mannitol, maltitol, laktitol, isomalt, erytritol, D-tagatose, isomaltulose, sukralose eller polydekstrose eller en kombinasjon av disse, i så store mengder at inntak av slike næringsmidler ikke senker plakk-pH til under 5,7 under inntak og i inntil 30 minutter etter inntak. |  | 2011; 9(4):2076 2011; 9(6):2229 | 463, 464, 563, 618, 647, 1182, 1591, 2907, 2921, 4300 1134, 1167, 1283 |
+| Sukkerfri tyggegummi | Sukkerfri tyggegummi bidrar til å opprettholde tannmineraliseringen | Påstanden kan brukes bare på tyggegummi som er i samsvar med vilkårene for bruk av ernæringspåstanden SUKKERFRI, som oppført i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). Forbrukerne skal opplyses om at den gunstige virkningen oppnås ved å tygge tyggegummien i minst 20 minutter etter inntak av mat eller drikke. |  | 2009; 7(9):1271 2011; 9(4):2072 2011; 9(6):2266 | 1151, 1154 486, 562, 1181 |
+| Sukkerfri tyggegummi | Sukkerfri tyggegummi bidrar til å nøytralisere plakksyrer | Påstanden kan brukes bare på tyggegummi som er i samsvar med vilkårene for bruk av ernæringspåstanden SUKKERFRI, som oppført i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). Forbrukerne skal opplyses om at den gunstige virkningen oppnås ved å tygge tyggegummien i minst 20 minutter etter inntak av mat eller drikke. |  | 2009; 7(9):1271 2011; 6(6):2266 | 1150 485 |
+| Sukkerfri tyggegummi | Sukkerfri tyggegummi bidrar til å redusere munntørrhet | Påstanden kan brukes bare på tyggegummi som er i samsvar med vilkårene for bruk av ernæringspåstanden SUKKERFRI, som oppført i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). Forbrukerne skal opplyses om at den gunstige virkningen oppnås ved å tygge tyggegummien når munnen føles tørr. |  | 2009; 7(9):1271 | 1240 |
+| Sukkerfri tyggegummi med karbamid | Sukkerfri tyggegummi med karbamid nøytraliserer plakksyrer mer effektivt enn sukkerfri tyggegummi uten karbamid | Påstanden kan brukes bare på tyggegummi som er i samsvar med vilkårene for bruk av ernæringspåstanden SUKKERFRI, som oppført i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). For at påstanden skal kunne brukes, skal hver bit sukkerfri tyggegummi inneholde minst 20 mg karbamid. Forbrukerne skal opplyses om at tyggegummien bør tygges i minst 20 minutter etter inntak av mat eller drikke. |  | 2011; 9(4):2071 | 1153 |
+| Tiamin | Tiamin bidrar til normal energiomsetning | Påstanden kan brukes bare om næringsmidler som minst er en kilde til tiamin i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1222 | 21, 24, 28 |
+| Tiamin | Tiamin bidrar til nervesystemets normale funksjon | Påstanden kan brukes bare om næringsmidler som minst er en kilde til tiamin i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1222 | 22, 27 |
+| Tiamin | Tiamin bidrar til normal psykologisk funksjon | Påstanden kan brukes bare om næringsmidler som minst er en kilde til tiamin i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2010; 8(10):1755 | 205 |
+| Tiamin | Tiamin bidrar til hjertets normale funksjon | Påstanden kan brukes bare om næringsmidler som minst er en kilde til tiamin i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1222 | 20 |
+| Vitamin A | Vitamin A bidrar til normal omsetning av jern | Påstanden kan brukes bare om næringsmidler som minst er en kilde til vitamin A i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1221 | 206 |
+| Vitamin A | Vitamin A bidrar til å opprettholde normale slimhinner | Påstanden kan brukes bare om næringsmidler som minst er en kilde til vitamin A i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1221 2010; 8(10):1754 | 15, 4702 |
+| Vitamin A | Vitamin A bidrar til å opprettholde normal hud | Påstanden kan brukes bare om næringsmidler som minst er en kilde til vitamin A i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1221 2010; 8(10):1754 | 15, 17, 4660, 4702 |
+| Vitamin A | Vitamin A bidrar til å opprettholde normalt syn | Påstanden kan brukes bare om næringsmidler som minst er en kilde til vitamin A i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1221 2010; 8(10):1754 | 16, 4239, 4701 |
+| Vitamin A | Vitamin A bidrar til immunsystemets normale funksjon | Påstanden kan brukes bare om næringsmidler som minst er en kilde til vitamin A i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1222 2011; 9(4):2021 | 14, 200, 1462 |
+| Vitamin A | Vitamin A spiller en rolle i celledelingsprosessen | Påstanden kan brukes bare om næringsmidler som minst er en kilde til vitamin A i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1221 | 14 |
+| Vitamin B12 | Vitamin B12 bidrar til normal energiomsetning | Påstanden kan brukes bare om næringsmidler som minst er en kilde til vitamin B12 i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1223 | 99, 190 |
+| Vitamin B12 | Vitamin B12 bidrar til nervesystemets normale funksjon | Påstanden kan brukes bare om næringsmidler som minst er en kilde til vitamin B12 i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2010; 8(10):4114 | 95, 97, 98, 100, 102, 109 |
+| Vitamin B12 | Vitamin B12 bidrar til normal homocysteinomsetning | Påstanden kan brukes bare om næringsmidler som minst er en kilde til vitamin B12 i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2010; 8(10):4114 | 96, 103, 106 |
+| Vitamin B12 | Vitamin B12 bidrar til normal psykologisk funksjon | Påstanden kan brukes bare om næringsmidler som minst er en kilde til vitamin B12 i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2010; 8(10):4114 | 95, 97, 98, 100, 102, 109 |
+| Vitamin B12 | Vitamin B12 bidrar til normal dannelse av røde blodlegemer | Påstanden kan brukes bare om næringsmidler som minst er en kilde til vitamin B12 i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1223 | 92, 101 |
+| Vitamin B12 | Vitamin B12 bidrar til immunsystemets normale funksjon | Påstanden kan brukes bare om næringsmidler som minst er en kilde til vitamin B12 i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1223 | 107 |
+| Vitamin B12 | Vitamin B12 bidrar til å redusere tretthet og utmattelse | Påstanden kan brukes bare om næringsmidler som minst er en kilde til vitamin B12 i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2010; 8(10):4114 | 108 |
+| Vitamin B12 | Vitamin B12 spiller en rolle i celledelingsprosessen | Påstanden kan brukes bare om næringsmidler som minst er en kilde til vitamin B12 i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1223 2010; 8(10):1756 | 93, 212 |
+| Vitamin B6 | Vitamin B6 bidrar til normal cysteinsyntese | Påstanden kan brukes bare om næringsmidler som minst er en kilde til vitamin B6 i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2010; 8(10):1759 | 4283 |
+| Vitamin B6 | Vitamin B6 bidrar til normal energiomsetning | Påstanden kan brukes bare om næringsmidler som minst er en kilde til vitamin B6 i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2010; 8(10):1759 | 75, 214 |
+| Vitamin B6 | Vitamin B6 bidrar til nervesystemets normale funksjon | Påstanden kan brukes bare om næringsmidler som minst er en kilde til vitamin B6 i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1225 | 66 |
+| Vitamin B6 | Vitamin B6 bidrar til normal homocysteinomsetning | Påstanden kan brukes bare om næringsmidler som minst er en kilde til vitamin B6 i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2010; 8(10):1759 | 73, 76, 199 |
+| Vitamin B6 | Vitamin B6 bidrar til normal omsetning av protein og glykogen | Påstanden kan brukes bare om næringsmidler som minst er en kilde til vitamin B6 i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1225 | 65, 70, 71 |
+| Vitamin B6 | Vitamin B6 bidrar til normal psykologisk funksjon | Påstanden kan brukes bare om næringsmidler som minst er en kilde til vitamin B6 i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2010; 8(10):1759 | 77 |
+| Vitamin B6 | Vitamin B6 bidrar til normal dannelse av røde blodlegemer | Påstanden kan brukes bare om næringsmidler som minst er en kilde til vitamin B6 i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1225 | 67, 72, 186 |
+| Vitamin B6 | Vitamin B6 bidrar til immunsystemets normale funksjon | Påstanden kan brukes bare om næringsmidler som minst er en kilde til vitamin B6 i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1225 | 68 |
+| Vitamin B6 | Vitamin B6 bidrar til å redusere tretthet og utmattelse | Påstanden kan brukes bare om næringsmidler som minst er en kilde til vitamin B6 i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2010; 8(10):1759 | 78 |
+| Vitamin B6 | Vitamin B6 bidrar til å regulere hormonell aktivitet | Påstanden kan brukes bare om næringsmidler som minst er en kilde til vitamin B6 i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1225 | 69 |
+| Vitamin C | Vitamin C bidrar til å opprettholde immunsystemets normale funksjon under og etter intens fysisk trening | Påstanden kan brukes bare om næringsmidler som gir et daglig inntak av 200 mg vitamin C. For at påstanden skal kunne brukes, må forbrukerne opplyses om at den gunstige virkningen oppnås ved daglig inntak av 200 mg i tillegg til det anbefalte daglige inntaket av vitamin C. |  | 2009; 7(9):1226 | 144 |
+| Vitamin C | Vitamin C bidrar til normal kollagendannelse, som har betydning for blodkarenes normale funksjon | Påstanden kan brukes bare om næringsmidler som minst er en kilde til vitamin C i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1226 | 130, 131, 149 |
+| Vitamin C | Vitamin C bidrar til normal kollagendannelse, som har betydning for knoklenes normale funksjon | Påstanden kan brukes bare om næringsmidler som minst er en kilde til vitamin C i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1226 | 131, 149 |
+| Vitamin C | Vitamin C bidrar til normal kollagendannelse, som har betydning for bruskens normale funksjon | Påstanden kan brukes bare om næringsmidler som minst er en kilde til vitamin C i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1226 | 131, 149 |
+| Vitamin C | Vitamin C bidrar til normal kollagendannelse, som har betydning for tannkjøttets normale funksjon | Påstanden kan brukes bare om næringsmidler som minst er en kilde til vitamin C i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1226 | 131, 136, 149 |
+| Vitamin C | Vitamin C bidrar til normal kollagendannelse, som har betydning for hudens normale funksjon | Påstanden kan brukes bare om næringsmidler som minst er en kilde til vitamin C i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1226 | 131, 137, 149 |
+| Vitamin C | Vitamin C bidrar til normal kollagendannelse, som har betydning for tennenes normale funksjon | Påstanden kan brukes bare om næringsmidler som minst er en kilde til vitamin C i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1226 | 131, 149 |
+| Vitamin C | Vitamin C bidrar til normal energiomsetning | Påstanden kan brukes bare om næringsmidler som minst er en kilde til vitamin C i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1226 2010; 8(10):1815 | 135, 2334, 3196 |
+| Vitamin C | Vitamin C bidrar til nervesystemets normale funksjon | Påstanden kan brukes bare om næringsmidler som minst er en kilde til vitamin C i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1226 | 133 |
+| Vitamin C | Vitamin C bidrar til normal psykologisk funksjon | Påstanden kan brukes bare om næringsmidler som minst er en kilde til vitamin C i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2010; 8(10):1815 | 140 |
+| Vitamin C | Vitamin C bidrar til immunsystemets normale funksjon | Påstanden kan brukes bare om næringsmidler som minst er en kilde til vitamin C i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1226 2010; 8(10):1815 | 134, 4321 |
+| Vitamin C | Vitamin C bidrar til å beskytte cellene mot oksidativt stress | Påstanden kan brukes bare om næringsmidler som minst er en kilde til vitamin C i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1226 2010; 8(10):1815 | 129, 138, 143, 148, 3331 |
+| Vitamin C | Vitamin C bidrar til å redusere tretthet og utmattelse | Påstanden kan brukes bare om næringsmidler som minst er en kilde til vitamin C i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2010; 8(10):1815 | 139, 2622 |
+| Vitamin C | Vitamin C bidrar til å gjenoppbygge den reduserte formen av vitamin E | Påstanden kan brukes bare om næringsmidler som minst er en kilde til vitamin C i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2010; 8(10):1815 | 202 |
+| Vitamin C | Vitamin C øker opptaket av jern | Påstanden kan brukes bare om næringsmidler som minst er en kilde til vitamin C i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1226 | 132, 147 |
+| Vitamin D | Vitamin D bidrar til normalt opptak/utnyttelse av kalsium og fosfor | Påstanden kan brukes bare om næringsmidler som minst er en kilde til vitamin D i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1227 | 152, 157, 215 |
+| Vitamin D | Vitamin D bidrar til normale kalsiumnivåer i blodet | Påstanden kan brukes bare om næringsmidler som minst er en kilde til vitamin D i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1227 2011; 9(6):2203 | 152, 157 215 |
+| Vitamin D | Vitamin D bidrar til å opprettholde normale knokler | Påstanden kan brukes bare om næringsmidler som minst er en kilde til vitamin D i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1227 | 150, 151, 158, 350 |
+| Vitamin D | Vitamin D bidrar til å opprettholde normal muskelfunksjon | Påstanden kan brukes bare om næringsmidler som minst er en kilde til vitamin D i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2010; 8(2):1468 | 155 |
+| Vitamin D | Vitamin D bidrar til å opprettholde normale tenner | Påstanden kan brukes bare om næringsmidler som minst er en kilde til vitamin D i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1227 | 151, 158 |
+| Vitamin D | Vitamin D bidrar til immunsystemets normale funksjon | Påstanden kan brukes bare om næringsmidler som minst er en kilde til vitamin D i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2010; 8(2):1468 | 154, 159 |
+| Vitamin D | Vitamin D spiller en rolle i celledelingsprosessen | Påstanden kan brukes bare om næringsmidler som minst er en kilde til vitamin D i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1227 | 153 |
+| Vitamin E | Vitamin E bidrar til å beskytte cellene mot oksidativt stress | Påstanden kan brukes bare om næringsmidler som minst er en kilde til vitamin E i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2010; 8(10):1816 | 160, 162, 1947 |
+| Vitamin K | Vitamin K bidrar til normal blodlevring | Påstanden kan brukes bare om næringsmidler som minst er en kilde til vitamin K i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7 (9):1228 | 124, 126 |
+| Vitamin K | Vitamin K bidrar til å opprettholde normale knokler | Påstanden kan brukes bare om næringsmidler som minst er en kilde til vitamin K i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7 (9):1228 | 123, 127, 128, 2879 |
+| Valnøtter | Valnøtter bidrar til å forbedre blodkarenes elastisitet | Påstanden kan brukes bare om næringsmidler som gir et daglig inntak av 30 g valnøtter. For at påstanden skal kunne brukes, skal forbrukerne opplyses om at den gunstige virkningen oppnås ved et daglig inntak av 30 g valnøtter. |  | 2011; 9(4):2074 | 1155, 1157 |
+| Vann | Vann bidrar til å opprettholde normal fysisk og kognitiv funksjon | For at påstanden skal kunne brukes, skal forbrukerne opplyses om at den gunstige virkningen oppnås ved inntak av minst 2,0 l vann fra alle kilder per dag. | Påstanden kan brukes bare om vann som er i samsvar med direktiv [2009/54/EF](eu/32009l0054) og/eller [98/83/EF](eu/31998l0083*) | 2011; 9(4):2075 | 1102, 1209, 1294, 1331 |
+| Vann | Vann bidrar til å opprettholde normal regulering av kroppstemperaturen | For at påstanden skal kunne brukes, skal forbrukerne opplyses om at den gunstige virkningen oppnås ved inntak av minst 2,0 l vann fra alle kilder per dag. | Påstanden kan brukes bare om vann som er i samsvar med direktiv [2009/54/EF](eu/32009l0054) og/eller [98/83/EF](eu/31998l0083*) | 2011; 9(4):2075 | 1208 |
+| Fiber fra hvetekli | Fiber fra hvetekli bidrar til å påskynde passasjen gjennom tarmen | Påstanden kan brukes bare om næringsmidler som er rike på slike fibrer i henhold til påstanden FIBERRIK i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). For at påstanden skal kunne brukes, skal forbrukerne opplyses om at den gunstige virkningen oppnås ved et daglig inntak av 10 g fiber fra hvetekli. |  | 2010; 8(10):1817 | 828, 839, 3067, 4699 |
+| Fiber fra hvetekli | Fiber av hvetekli bidrar til å øke avføringsvolumet | Påstanden kan brukes bare om næringsmidler som er rike på slike fibrer i henhold til i påstanden FIBERRIK i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2010; 8(10):1817 | 3066 |
+| Sink | Sink bidrar til normal syre-baseomsetning | Påstanden kan brukes bare om næringsmidler som minst er en kilde til sink i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1229 | 360 |
+| Sink | Sink bidrar til normal karbohydratomsetning | Påstanden kan brukes bare om næringsmidler som minst er en kilde til sink i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2010; 8(10):1819 | 382 |
+| Sink | Sink bidrar til normal kognitiv funksjon | Påstanden kan brukes bare om næringsmidler som minst er en kilde til sink i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1229 | 296 |
+| Sink | Sink bidrar til normal DNA-syntese | Påstanden kan brukes bare om næringsmidler som minst er en kilde til sink i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2010; 8(10):1819 | 292, 293, 1759 |
+| Sink | Sink bidrar til normal fruktbarhet og reproduksjonsevne | Påstanden kan brukes bare om næringsmidler som minst er en kilde til sink i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1229 | 297, 300 |
+| Sink | Sink bidrar til normal omsetning av makronæringsstoffer | Påstanden kan brukes bare om næringsmidler som minst er en kilde til sink i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2010; 8(10):1819 | 2890 |
+| Sink | Sink bidrar til normal omsetning av fettsyrer | Påstanden kan brukes bare om næringsmidler som minst er en kilde til sink i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1229 | 302 |
+| Sink | Sink bidrar til normal omsetning av vitamin A | Påstanden kan brukes bare om næringsmidler som minst er en kilde til sink i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1229 | 361 |
+| Sink | Sink bidrar til normal proteinsyntese | Påstanden kan brukes bare om næringsmidler som minst er en kilde til sink i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2010; 8(10):1819 | 293, 4293 |
+| Sink | Sink bidrar til å opprettholde normale knokler | Påstanden kan brukes bare om næringsmidler som minst er en kilde til sink i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1229 | 295, 1756 |
+| Sink | Sink bidrar til å opprettholde normalt hår | Påstanden kan brukes bare om næringsmidler som minst er en kilde til sink i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2010; 8(10):1819 | 412 |
+| Sink | Sink bidrar til å opprettholde normale negler | Påstanden kan brukes bare om næringsmidler som minst er en kilde til sink i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2010; 8(10):1819 | 412 |
+| Sink | Sink bidrar til å opprettholde normal hud | Påstanden kan brukes bare om næringsmidler som minst er en kilde til sink i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2010; 8(10):1819 | 293 |
+| Sink | Sink bidrar til å opprettholde normale testosteronnivåer i blodet | Påstanden kan brukes bare om næringsmidler som minst er en kilde til sink i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2010; 8(10):1819 | 301 |
+| Sink | Sink bidrar til å opprettholde normalt syn | Påstanden kan brukes bare om næringsmidler som minst er en kilde til sink i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1229 | 361 |
+| Sink | Sink bidrar til immunsystemets normale funksjon | Påstanden kan brukes bare om næringsmidler som minst er en kilde til sink i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1229 | 291, 1757 |
+| Sink | Sink bidrar til å beskytte cellene mot oksidativt stress | Påstanden kan brukes bare om næringsmidler som minst er en kilde til sink i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1229 | 294, 1758 |
+| Sink | Sink spiller en rolle i celledelingsprosessen | Påstanden kan brukes bare om næringsmidler som minst er en kilde til sink i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2009; 7(9):1229 | 292, 293, 1759 |
+
+1 Når det gjelder D-tagatose og isomaltulose, bør det stå «andre sukkerarter».
+
+2 Når det gjelder D-tagatose og isomaltulose, bør det stå «andre sukkerarter».
+
+►**M2**
+
+\* Godkjent 24.9.2013 – begrenset til bruk for GlaxoSmithKline Services Unlimited og tilknyttede selskaper, GSK House, 980 Great West Road, Brentford, TW89GS, Det forente kongerike, i et tidsrom på fem år.
+
+\*\* Godkjent 24.9.2013 – begrenset til bruk for Mondélz International-konsernet, Three Parkway North Deerfield, IL 60015, USA, i et tidsrom på fem år.
+
 - Godkjent 24.9.2013 – begrenset til bruk for Barry Callebaut Belgium NV, Aalstersestraat 122, B-9280 Lebbeke-Wieze, Belgia, i et tidsrom på fem år.
+
+◄**M2**
+
+►**M5**
+
+\*\*\*\*\* Godkjent 24.9.2013 – begrenset til bruk for Barry Callebaut Belgium NV, Aalstersestraat 122, B-9280 Lebbeke-Wieze, Belgia, i et tidsrom på fem år.
+
+\*\*\*\*\*\* Godkjent 21.4 2015 – begrenset til bruk for Barry Callebaut Belgium NV, Aalstersestraat 122, B-9280 Lebbeke-Wieze, Belgia, i et tidsrom på fem år.
+
+◄**M5**
+
+►**M7**
+
+\*\*\*\*\*\*\* Godkjent 1. januar 2016 – begrenset til bruk for BENEO-Orafti S.A., Rue L. Maréchal 1, B-4360 Oreye, Belgia, i en periode på fem år.
+
+◄**M7**
+
+►**M9**
+
+\*\*\*\*\*\*\*\* Fra 21. juli 2016 til 14. september 2019 skal energiinnholdet i næringsmiddelet ikke være lavere enn 200 kcal (840 kJ) og ikke overstige 400 kcal (680 kJ).
+
+\*\*\*\*\*\*\*\*\* Fra 21. juli 2016 til 14. september 2019 skal næringsmiddelet per måltid gi minst 30 % av mengden vitaminer og mineraler som er angitt i tabellen nedenfor:
+
+|  |  |  |
+| --- | --- | --- |
+| Vitamin A | (µg RE) | 700 |
+| Vitamin D | (μg) | 5 |
+| Vitamin E | (mg) | 10 |
+| Vitamin C | (mg) | 45 |
+| Tiamin | (mg) | 1,1 |
+| Riboflavin | (mg) | 1,6 |
+| Niacin | (mg-NE) | 18 |
+| Vitamin B6 | (mg) | 1,5 |
+| Folat | (μg) | 200 |
+| Vitamin B12 | (μg) | 1,4 |
+| Biotin | (μg) | 15 |
+| Pantotensyre | (mg) | 3 |
+| Kalsium | (mg) | 700 |
+| Fosfor | (mg) | 550 |
+| Jern | (mg) | 16 |
+| Sink | (mg) | 9,5 |
+| Kobber | (mg) | 1,1 |
+| Jod | (μg) | 130 |
+| Selen | (μg) | 55 |
+| Natrium | (mg) | 575 |
+| Magnesium | (mg) | 150 |
+| Mangan | (mg) | 1 |
+
+Fra 21. juli 2016 til 14. september 2019 skal den mengden kalium som næringsmiddelet gir per måltid, være minst 500 mg.
+
+◄**M9**
+
+► **M10**
+
+\*\*\*\*\*\*\*\*\*\* Gjentatt maksimal belastning er den maksimale vekten eller belastningen en person kan klare i ett løft.
+
+◄ **M10**
 
 ### Forordning (EU) nr. 851/2013
 
@@ -1520,6 +2859,14 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 851/
 ### KOMMISJONSFORORDNING [(EU) nr. 851/2013](eu/32013r0851)
 av 3. september 2013
 om godkjenning av visse andre helsepåstander om næringsmidler enn dem som viser til redusert sykdomsrisiko og barns utvikling og helse, og om endring av forordning [(EU) nr. 432/2012](eu/32012r0432)
+
+EUROPAKOMMISJONEN HAR –
+
+under henvisning til traktaten om Den europeiske unions virkemåte,
+
+under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler,1 særlig artikkel 18 nr. 4, og
+
+ut fra følgende betraktninger:
 
 1. I henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924*) er helsepåstander om næringsmidler forbudt med mindre de er godkjent av Kommisjonen i samsvar med nevnte forordning og oppført på en liste over tillatte påstander.
 2. Kommisjonen har i henhold til artikkel 13 nr. 3 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) vedtatt forordning [(EU) nr. 432/2012](eu/32012r0432),2 som fastsetter en liste over tillatte helsepåstander om næringsmidler som ikke viser til redusert sykdomsrisiko eller barns utvikling og helse.
@@ -1546,11 +2893,25 @@ om godkjenning av visse andre helsepåstander om næringsmidler enn dem som vise
 23. Forordning [(EU) nr. 432/2012](eu/32012r0432) bør derfor endres.
 24. Medlemsstatene er blitt rådspurt –
 
+1 EUT L 404 av 30.12.2006, s. 9.
+
+2 Kommisjonsforordning [(EU) nr. 432/2012](eu/32012r0432) av 16. mai 2012 om fastsettelse av en liste over tillatte helsepåstander om næringsmidler som ikke viser til redusert sykdomsrisiko eller barns utvikling og helse (EUT L 136 av 25.5.2012, s. 1).
+
+3 EFSA Journal 2010 8(12):1884.
+
+4 EFSA Journal 2011 9(7):2293.
+
+5 EFSA Journal 2011 9(7):2292.
+
+6 EFSA Journal 2012 10(7):2809.
+
+VEDTATT DENNE FORORDNING:
+
 ### Artikkel 1
 
-1. Helsepåstandene angitt i vedlegget til denne forordning skal oppføres på unionslisten over tillatte påstander omhandlet i artikkel 13 nr. 3 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).
+1\. Helsepåstandene angitt i vedlegget til denne forordning skal oppføres på unionslisten over tillatte påstander omhandlet i artikkel 13 nr. 3 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).
 
-2. Bruken av helsepåstandene nevnt i nr. 1 er begrenset til søkerne i et tidsrom på fem år etter at denne forordning trer i kraft. Etter utløpet av dette tidsrommet kan disse helsepåstandene i samsvar med vilkårene som gjelder for dem, benyttes av en hvilken som helst driftsansvarlig for næringsmiddelforetak.
+2\. Bruken av helsepåstandene nevnt i nr. 1 er begrenset til søkerne i et tidsrom på fem år etter at denne forordning trer i kraft. Etter utløpet av dette tidsrommet kan disse helsepåstandene i samsvar med vilkårene som gjelder for dem, benyttes av en hvilken som helst driftsansvarlig for næringsmiddelforetak.
 
 ### Artikkel 2
 
@@ -1566,6 +2927,14 @@ Denne forordning trer i kraft den 20. dag etter at den er kunngjort i *Den europ
 
 Denne forordning er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
 
+Utferdiget i Brussel, 3. september 2013.
+
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  | José Manuel BARROSO |
+|  | *President* |
+
 ### Forordning (EU) nr. 1017/2013
 
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 1017/2013](eu/32013r1017) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II kapittel XII nr. 79.
@@ -1576,17 +2945,43 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 1017
 av 23. oktober 2013
 om avslag på godkjenning av visse andre helsepåstandar om næringsmiddel enn dei som viser til redusert sjukdomsrisiko og til utviklinga og helsa til barn
 
+EUROPAKOMMISJONEN HAR –
+
 med tilvising til traktaten om verkemåten til Den europeiske unionen,
 
 med tilvising til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler,1 særleg artikkel 18 nr. 5 og
 
 ut frå desse synsmåtane:I medhald av forordning [(EF) nr. 1924/2006](eu/32006r1924*) er helsepåstandar om næringsmiddel forbodne med mindre dei er godkjende av Kommisjonen i samsvar med den nemnde forordninga og førde opp i ei liste over påstandar som er tillatne.Ved forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det òg fastsett at driftsansvarlege for næringsmiddelføretak kan sende søknader om godkjenning av helsepåstandar til den rette nasjonale styresmakta i ein medlemsstat. Den rette nasjonale styresmakta skal sende gyldige søknader vidare til Den europeiske styresmakta for næringsmiddeltryggleik (EFSA), heretter kalla «Styresmakta».Etter at søknaden er motteken, skal Styresmakta straks melde frå til dei andre medlemsstatane og Kommisjonen om dette og gje ei fråsegn om den aktuelle helsepåstanden.Kommisjonen skal ta omsyn til fråsegna frå Styresmakta når han tek avgjerd om godkjenning av helsepåstandar.Etter ein søknad som Ceprodi KOT sende inn i medhald av artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), vart Styresmakta bede om å gje ei fråsegn om ein helsepåstand om kva slags verknader «lågkalorisnacks (KOT-produkt)» har på reduksjon av storleiken på feittcellene omkring magen i samband med ein kalorifattig kost (spørsmål nr. EFSA-Q-2011–00016).2 Den påstanden som søkjaren hadde gjort framlegg om, hadde følgjande ordlyd: «Medverkar til å redusere storleiken på feittceller omkring magen i samband med ein kalorifattig kost.»Kommisjonen og medlemsstatane mottok 30. september 2011 den vitskaplege fråsegna frå Styresmakta, der det vart konkludert med at det på grunnlag av dei framlagde opplysningane ikkje kunne påvisast nokon årsakssamanheng mellom inntak av «lågkalorisnacks (KOT-produkt)» og ein gunstig fysiologisk verknad med omsyn til reduksjon av storleiken på feittcellene i underhuda omkring magen. Ettersom påstanden ikkje oppfyller krava i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør han ikkje godkjennast.Etter ein søknad som Valio Ltd. sende inn i medhald av artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), vart Styresmakta bede om å gje ei fråsegn om ein helsepåstand om verknadene av isoleucyl-prolylprolin (IPP) og valyl-prolylprolin (VPP) med omsyn til å halde normalt blodtrykk ved lag (spørsmål nr. EFSA-Q-2011–00121).3 Den påstanden som søkjaren hadde gjort framlegg om, hadde følgjande ordlyd: «Peptida IPP og VPP medverkar til å halde normalt blodtrykk ved lag».Kommisjonen og medlemsstatane mottok 30. september 2011 den vitskaplege fråsegna frå Styresmakta, der det vart konkludert med at det på grunnlag av dei framlagde opplysningane ikkje kunne påvisast nokon årsakssamanheng mellom inntak av IPP og VPP og den påståtte verknaden. Ettersom påstanden ikkje oppfyller krava i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør han ikkje godkjennast.Etter ein søknad som Diana Naturals sende inn i medhald av artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), vart Styresmakta bede om å gje ei fråsegn om ein helsepåstand om verknadene av Appl'In® polyfenolhaldig epleekstraktpulver (*Malus domestica*) med omsyn til reduksjon av glykemisk respons etter måltid (spørsmål nr. EFSA-Q-2011–00190).4 Den påstanden som søkjaren hadde gjort framlegg om, hadde følgjande ordlyd: «Appl'In® medverkar til å minske den glykemiske responsen hjå kvinner».Kommisjonen og medlemsstatane mottok 5. oktober 2011 den vitskaplege fråsegna frå Styresmakta, der det vart konkludert med at det på grunnlag av dei framlagde opplysningane ikkje kunne påvisast nokon årsakssamanheng mellom inntak av Appl'In® og den påståtte verknaden. Ettersom påstanden ikkje oppfyller krava i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør han ikkje godkjennast.Etter ein søknad som Tchibo GmbH sende inn i medhald av artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), vart Styresmakta bede om å gje ei fråsegn om ein helsepåstand om inntak av C21-kaffi og reduksjon av spontane DNA-strengbrot (spørsmål nr. EFSA-Q-2011–00783).5 Den påstanden som søkjaren hadde gjort framlegg om, hadde følgjande ordlyd: «Jamleg inntak av C21-kaffi medverkar til å halde ved lag eit intakt DNA i cellene i kroppen».Kommisjonen og medlemsstatane mottok 5. desember 2011 den vitskaplege fråsegna frå Styresmakta, der det vart konkludert med at det på grunnlag av dei framlagde opplysningane ikkje kunne påvisast nokon årsakssamanheng mellom inntak av C21-kaffi og den påståtte verknaden. Ettersom påstanden ikkje stettar krava i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør han ikkje godkjennast.Etter ein søknad som Kao Corporation sende inn i medhald av artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), vart Styresmakta bede om å gje ei fråsegn om ein helsepåstand om verknadene av diasylglyserololje (DAG-olje) med omsyn til reduksjon av kroppsvekt (spørsmål nr. EFSA-Q-2010–00751).6 Den påstanden som søkjaren hadde gjort framlegg om, hadde følgjande ordlyd: «Ved å nytte DAG-olje i staden for den vegetabilske olja som du vanlegvis nyttar, vert det enklare å kontrollere kroppsvekta ettersom olja medverkar til vekttap».Kommisjonen og medlemsstatane mottok 5. desember 2011 den vitskaplege fråsegna frå Styresmakta, der det vart konkludert med at det på grunnlag av dei framlagde opplysningane ikkje kunne påvisast nokon årsakssamanheng mellom inntak av DAG-olje (som erstatning for triasylglyserololjer) og den påståtte verknaden. Ettersom påstanden ikkje oppfyller krava i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør han ikkje godkjennast.Etter ein søknad som Giuliani S.p.A. sende inn i medhald av artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), og som inneheld ei oppmoding om sikring av data som er underlagde eigedomsrett, vart Styresmakta bede om å gje ei fråsegn om ein helsepåstand om verknadene av spermidin med omsyn til lenging av vekstfasen (den anagene fasen) i hårsyklusen (spørsmål nr. EFSA-Q-2011–00896).7 Den påstanden som søkjaren hadde gjort framlegg om, hadde følgjande ordlyd: «Spermidin lengjer vekstfasen (den anagene fasen) i hårsyklusen».Kommisjonen og medlemsstatane mottok 7. desember 2011 den vitskaplege fråsegna frå Styresmakta, der det vart konkludert med at på grunnlag av dei framlagde opplysningane er den påståtte verknaden knytt til sjukdomstilstandar som fører til at den anagene fasen i hårveksten vert korta ned, og omfattar såleis behandling av ein sjukdom.Forordning [(EF) nr. 1924/2006](eu/32006r1924*) utfyller dei allmenne prinsippa i europaparlaments- og rådsdirektiv [2000/13/EF](eu/32000l0013*) av 20. mars 2000 om tilnærming av medlemsstatenes lovgivning om merking og presentasjon av samt reklamering for næringsmidler.8 I artikkel 2 nr. 1 bokstav b) i direktiv [2000/13/EF](eu/32000l0013*) vert det fastsett at merkinga ikkje skal gje eit næringsstoff eigenskapar som førebyggjer, behandlar eller lækjer sjukdom hjå menneske, eller gje inntrykk av slike eigenskapar. Ettersom det er forbode å gje næringsmiddel medisinske eigenskapar, bør påstanden om verknadene av spermidin ikkje godkjennast.Etter ein søknad som Clasado Ltd. sende inn i medhald av artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), vart Styresmakta bede om å gje ei fråsegn om ein helsepåstand om verknadene av galakto-oligosakkarid frå Bimuno® (Bimuno® GOS) med omsyn til reduksjon av mage- og tarmplager (spørsmål nr. EFSA-Q-2011–00401).9 Den påstanden som søkjaren hadde gjort framlegg om, hadde følgjande ordlyd: «Jamleg dagleg inntak av 1,37 g galakto-oligosakkarid frå Bimuno® kan redusere tarmplager».Kommisjonen og medlemsstatane mottok 8. desember 2011 den vitskaplege fråsegna frå Styresmakta, der det vart konkludert med at det på grunnlag av dei framlagde opplysningane ikkje kunne påvisast nokon årsakssamanheng mellom inntak av Bimuno® GOS og den påståtte verknaden. Ettersom påstanden ikkje stettar krava i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør han ikkje godkjennast.Etter ein søknad som Nordic Sugar A/S sende inn i medhald av artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), vart Styresmakta bede om å gje ei fråsegn om ein helsepåstand om verknadene av sukkerbetefiber med omsyn til å forkorte passasjetida i tarmen (spørsmål nr. EFSA-Q-2011–00971).10 Den påstanden som søkjaren hadde gjort framlegg om, hadde følgjande ordlyd: «Sukkerbetefiber forkortar passasjetida i tarmen».Kommisjonen og medlemsstatane mottok 8. desember 2011 den vitskaplege fråsegna frå Styresmakta, der det vart konkludert med at det på grunnlag av dei framlagde opplysningane ikkje kunne påvisast nokon årsakssamanheng mellom inntak av sukkerbetefiber og den påståtte verknaden. Ettersom påstanden ikkje oppfyller krava i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør han ikkje godkjennast.Helsepåstanden om verknadene av spermidin og lenging av vekstfasen (den anagene fasen) i hårsyklusen er ein helsepåstand som gjev det næringsmiddelet som er omfatta av påstanden, medisinske eigenskapar, og han er difor forboden i samband med næringsmiddel.Helsepåstandane om «lågkalorisnacks (KOT-produkt)» og diasylglyserololje (DAG-olje) er helsepåstandar i medhald av artikkel 13 nr. 1 bokstav c) i forordning [(EF) nr. 1924/2006](eu/32006r1924*) og er difor omfatta av den overgangsperioden som er fastsett i artikkel 28 nr. 6 i den same forordninga. Ettersom søknadene ikkje var sende inn innan 19. januar 2008, er det kravet som er fastsett i artikkel 28 nr. 6 bokstav b) i den nemnde forordninga, ikkje oppfylt, og helsepåstandane kan difor ikkje omfattast av den overgangsperioden som er fastsett i den nemnde artikkelen.Dei andre helsepåstandane som kjem inn under denne forordninga, er helsepåstandar i medhald av artikkel 13 nr. 1 bokstav a) i forordning [(EF) nr. 1924/2006](eu/32006r1924*) og er difor omfatta av den overgangsperioden som er fastsett i artikkel 28 nr. 5 i den same forordninga, inntil lista over tillatne helsepåstandar vert vedteken, så framt påstandane oppfyller krava i den nemnde forordninga.Lista over helsepåstandar som er tillatne, er fastsett ved kommisjonsforordning [(EU) nr. 432/2012](eu/32012r0432)11 og har vore nytta sidan 14. desember 2012. Med omsyn til påstandar i medhald av artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) som Styresmakta ikkje har vurdert ferdig eller Kommisjonen ikkje har handsama ferdig innan 14. desember 2012, og som i medhald av denne forordninga ikkje er førte opp i lista over helsepåstandar som er tillatne, bør det fastsetjast ein overgangsperiode der dei likevel kan nyttast, slik at det vert mogeleg for både dei driftsansvarlege for næringsmiddelføretak og dei rette nasjonale styresmaktene å tilpasse seg forbodet mot slike påstandar.Ved fastsetjinga av tiltaka i denne forordninga er det teke omsyn til dei kommentarane som Kommisjonen har motteke frå søkjarane og andre personar i medhald av artikkel 16 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).Dei tiltaka som er fastsette i denne forordninga, er i samsvar med fråsegna frå Det faste utvalet for næringsmiddelkjeda og dyrehelsa og verken Europaparlamentet eller Rådet har sett seg imot dei –
 
+1 TEU L 404 av 30.12.2006, s. 9.
+
+2 EFSA Journal 2011; 9(9):2381.
+
+3 EFSA Journal 2011; 9(9):2380.
+
+4 EFSA Journal 2011; 9(10):2383.
+
+5 EFSA Journal 2011; 9(12):2465.
+
+6 EFSA Journal 2011; 9(12):2469.
+
+7 EFSA Journal 2011; 9(12):2466.
+
+8 TEF L 109 av 6.5.2000, s. 29.
+
+9 EFSA Journal 2011; 9(12):2472.
+
+10 EFSA Journal 2011; 9(12):2467.
+
+11 TEU L 136 av 25.5.2012, s. 1.
+
+VEDTEKE DENNE FORORDNINGA:
+
 ### Artikkel 1
 
-1. Dei helsepåstandane som er nemnde i vedlegget til denne forordninga, skal ikkje førast opp i den EU-lista over påstandar som er tillatne, som er fastsett i artikkel 13 nr. 3 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).
+1\. Dei helsepåstandane som er nemnde i vedlegget til denne forordninga, skal ikkje førast opp i den EU-lista over påstandar som er tillatne, som er fastsett i artikkel 13 nr. 3 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).
 
-2. Dei helsepåstandane som er nemnde i nr. 1 og som vart nytta før denne forordninga tok til å gjelde, kan likevel framleis nyttast i eit tidsrom på høgst seks månader etter at denne forordninga har teke til å gjelde.
+2\. Dei helsepåstandane som er nemnde i nr. 1 og som vart nytta før denne forordninga tok til å gjelde, kan likevel framleis nyttast i eit tidsrom på høgst seks månader etter at denne forordninga har teke til å gjelde.
 
 ### Artikkel 2
 
@@ -1594,7 +2989,29 @@ Denne forordninga tek til å gjelde den 20. dagen etter at ho er kunngjord i *Ti
 
 Denne forordninga er bindande i alle delar og gjeld direkte i alle medlemsstatane.
 
+Utferda i Brussel, 23. oktober 2013.
+
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  |  |
+|  | José Manuel BARROSO |
+|  |  |
+|  | *President* |
+
 ### VEDLEGG
+
+| *Avviste helsepåstandar* |  |  |  |
+| --- | --- | --- | --- |
+| *Søknad – relevante føresegner i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe* | *Påstand* | *Referansenummeret til EFSA-fråsegna* |
+| Artikkel 13 nr. 5 –<br>helsepåstand som byggjer på nyutvikla vitskaplege prov og/eller inneheld ei oppmoding om sikring av data som er underlagde eigedomsrett | «Lågkalorisnacks (KOT-produkt)» | Medverkar til å redusere storleiken på feittceller omkring magen i samband med ein kalorifattig kost | Q-2011–00016 |
+| Artikkel 13 nr. 5 –<br>helsepåstand som byggjer på nyutvikla vitskaplege prov og/eller inneheld ei oppmoding om sikring av data som er underlagde eigedomsrett | Isoleucyl-prolylprolin (IPP) og valyl-prolylprolin (VPP) | Peptida IPP og VPP medverkar til å halde normalt blodtrykk ved lag | Q-2011–00121 |
+| Artikkel 13 nr. 5 –<br>helsepåstand som byggjer på nyutvikla vitskaplege prov og/eller inneheld ei oppmoding om sikring av data som er underlagde eigedomsrett | Appl'In® polyfenolhaldig epleekstraktpulver (*Malus domestica*) | Appl'In® medverkar til å minske den glykemiske responsen hjå kvinner | Q-2011–00190 |
+| Artikkel 13 nr. 5 –<br>helsepåstand som byggjer på nyutvikla vitskaplege prov og/eller inneheld ei oppmoding om sikring av data som er underlagde eigedomsrett | C21-kaffi | Jamleg inntak av C21-kaffi medverkar til å halde ved lag eit intakt DNA i cellene i kroppen | Q-2011–00783 |
+| Artikkel 13 nr. 5 –<br>helsepåstand som byggjer på nyutvikla vitskaplege prov og/eller inneheld ei oppmoding om sikring av data som er underlagde eigedomsrett | Diasylglyserololje (DAG-olje) | Ved å nytte DAG-olje i staden for den vegetabilske olja som du vanlegvis nyttar, vert det enklare å kontrollere kroppsvekta ettersom olja medverkar til vekttap | Q-2011–00751 |
+| Artikkel 13 nr. 5 –<br>helsepåstand som byggjer på nyutvikla vitskaplege prov og/eller inneheld ei oppmoding om sikring av data som er underlagde eigedomsrett | Spermidin | Spermidin lengjer vekstfasen (den anagene fasen) i hårsyklusen | Q-2011–00896 |
+| Artikkel 13 nr. 5 –<br>helsepåstand som byggjer på nyutvikla vitskaplege prov og/eller inneheld ei oppmoding om sikring av data som er underlagde eigedomsrett | Bimuno® (Bimuno® GOS) | Jamleg dagleg inntak av 1,37 g galakto-oligosakkarid frå Bimuno® kan redusere tarmplager | Q-2011–00401 |
+| Artikkel 13 nr. 5 –<br>helsepåstand som byggjer på nyutvikla vitskaplege prov og/eller inneheld ei oppmoding om sikring av data som er underlagde eigedomsrett | Sukkerbetefiber | Sukkerbetefiber forkortar passasjetida i tarmen | Q-2011–00971 |
 
 ### Forordning (EU) nr. 1066/2013
 
@@ -1606,17 +3023,61 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 1066
 av 30. oktober 2013
 om avslag på godkjenning av visse andre helsepåstander om næringsmidler enn dem som viser til redusert sykdomsrisiko og barns utvikling og helse
 
+EUROPAKOMMISJONEN HAR –
+
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler,1 særlig artikkel 18 nr. 5, og
 
 ut fra følgende betraktninger:I henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924*) er helsepåstander om næringsmidler forbudt, med mindre de er godkjent av Kommisjonen i samsvar med nevnte forordning og oppført på en liste over tillatte påstander.Ved forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det også fastsatt at driftsansvarlige for næringsmiddelforetak kan inngi søknader om godkjenning av helsepåstander til vedkommende nasjonale myndighet i en medlemsstat. Vedkommende nasjonale myndighet skal videresende gyldige søknader til Den europeiske myndighet for næringsmiddeltrygghet (EFSA), heretter kalt «Myndigheten», for vitenskapelig vurdering og til Kommisjonen og medlemsstatene til orientering.Myndigheten skal avgi uttalelse om den aktuelle helsepåstand.Kommisjonen skal ta hensyn til uttalelsen fra Myndigheten når den treffer beslutning om godkjenning av helsepåstander.Etter en søknad fra Béres Pharmaceuticals Ltd., inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om virkningene av glukosamin på leddhelsen (spørsmål nr. EFSA-Q-2011–00907).2 Helsepåstanden som søkeren foreslo, var formulert slik: «Glukosamin bidrar til å beskytte leddbrusk som utsettes for overdrevet bevegelse eller belastning og bidrar til å forbedre bevegeligheten i leddene.»Kommisjonen og medlemsstatene mottok 5. desember 2011 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte dataene ikke kunne påvises noen årsakssammenheng mellom konsum av glukosamin og den påståtte virkningen. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra Merck Consumer Healthcare, inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om virkningene av glukosamin og opprettholdelse av normal leddbrusk (spørsmål nr. EFSA-Q-2011–01113).3 Helsepåstanden som søkeren foreslo, var blant annet formulert slik: «Glukosamin bidrar til å opprettholde normal leddbrusk.»Kommisjonen og medlemsstatene mottok 16. mai 2012 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte dataene ikke kunne påvises noen årsakssammenheng mellom konsum av glukosamin og den påståtte virkningen. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter at det var mottatt en søknad fra Extraction Purification Innovation France, inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble myndigheten bedt om å avgi uttalelse om en helsepåstand om virkningene av konsum av polare lipider ekstrahert fra hvete og beskyttelse av huden mot dehydrering (spørsmål nr. EFSA-Q-2011–01122).4 Helsepåstanden som søkeren foreslo, var blant annet formulert slik: «Bidrar til bedre hudfuktighet.»Kommisjonen og medlemsstatene mottok 5. juli 2012 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte dataene ikke kunne påvises noen årsakssammenheng mellom konsum av polare lipider ekstrahert fra hvete og den påståtte virkningen. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra Lesaffre International/Lesaffre Human Care, inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om virkningene av *Saccharomyces cerevisiae* var. *boulardii* CNCM I-3799 og redusert ubehag i mage-tarm-kanalen (spørsmål nr. EFSA-Q-2012–00271).5 Helsepåstanden som søkeren foreslo, var formulert slik: «Saccharomyces cerevisiae var. boulardii CNCM I-3799 bidrar til å opprettholde tarmkomfort.»Kommisjonen og medlemsstatene mottok 17. juli 2012 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte dataene ikke kunne påvises noen årsakssammenheng mellom konsum av *Saccharomyces cerevisiae* var. *boulardii* CNCM I-3799 og den påståtte virkningen. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter to søknader fra Nutrilinks Sarl, inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand knyttet til virkningene av en kombinasjon av tiamin, riboflavin, niacin, pantotensyre, pyridoksin, D-biotin og gresskarkjerneolje(*Cucurbita pepo* L.) og opprettholdelse av normalt hår (spørsmål nr. EFSA-Q-2012–00334 og EFSA-Q-2012–00335).6 Helsepåstanden som søkeren foreslo, var blant annet formulert slik: «Bidrar til å øke antall hår.»Kommisjonen og medlemsstatene mottok 17. juli 2012 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte dataene ikke kunne påvises noen årsakssammenheng mellom konsum av tiamin, riboflavin, niacin, pantotensyre, pyridoksin, D-biotin og gresskarkjerneolje (*Cucurbita pepo* L.) og den påståtte virkningen. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra Nutrilinks Sarl, inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), skulle Myndigheten avgi uttalelse om en helsepåstand om virkningene et ekstrakt av *Rhodiola rosea* L. og mindre mental tretthet (spørsmål nr. EFSA-Q-2012–00336).7 Helsepåstanden som søkeren foreslo, var blant annet formulert slik: «Bidrar til å redusere tretthet ved stress.»Kommisjonen og medlemsstatene mottok 17. juli 2012 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte dataene ikke kunne påvises noen årsakssammenheng mellom konsum av ekstrakt av *Rhodiola rosea* L. og den påståtte virkningen. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter søknad fra Nutrilinks Sarl, inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), skulle Myndigheten avgi uttalelse om en helsepåstand om virkningene av en kombinasjon av linfrøolje og vitamin E og opprettholdelse av hudens permeabilitetsbarrierefunksjon (spørsmål nr. EFSA-Q-2012–00337).8 Helsepåstanden som søkeren foreslo, var blant annet formulert slik: «Bidrar til å vedlikeholde hudens permeabilitetsbarrierefunksjon.»Kommisjonen og medlemsstatene mottok 17. juli 2012 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte dataene ikke kunne påvises noen årsakssammenheng mellom konsum av en kombinasjon av linfrøolje og vitamin E og den påståtte virkningen. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra Nutrilinks Sarl, inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om virkningene av *Opti*EFAX™ og opprettholdelse av normale LDL-kolesterolkonsentrasjoner i blodet (spørsmål nr. EFSA-Q-2012–00339).9 Helsepåstanden som søkeren foreslo, var formulert slik: «*Opti*EFAX™ bidrar til å opprettholde sunne nivåer av LDL-kolesterol i blodet.»Kommisjonen og medlemsstatene mottok 17. juli 2012 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte dataene ikke kunne påvises noen årsakssammenheng mellom konsum av *Opti*EFAX™ og den påståtte virkningen. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra Nutrilinks Sarl, inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om virkningene *Opti*EFAX™ og opprettholdelse av normale HDL-kolesterolkonsentrasjoner i blodet (spørsmål nr. EFSA-Q-2012–00340).10 Helsepåstanden som søkeren foreslo, var formulert slik: «*Opti*EFAX™ bidrar til å opprettholde sunne nivåer av HDL-kolesterol i blodet.»Kommisjonen og medlemsstatene mottok 17. juli 2012 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte dataene ikke kunne påvises noen årsakssammenheng mellom konsum av *Opti*EFAX™ og den påståtte virkningen. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra Nutrilinks Sarl, inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble myndigheten bedt om å avgi uttalelse om en helsepåstand om virkningene av KF2BL20, som er en kombinasjon av keratin, kobber, sink, niacin, pantotensyre, pyridoksin og D-biotin, og bevaring av normalt hår (spørsmål nr. EFSA-Q-2012–00381).11 Helsepåstanden som søkeren foreslo, var blant annet formulert slik: «Bidrar til å bevare hårets styrke.»Kommisjonen og medlemsstatene mottok 17. juli 2012 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte dataene ikke kunne påvises noen årsakssammenheng mellom konsum av KF2BL20 og den påståtte virkningen. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra Nutrilinks Sarl, inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om virkningene av hyaluronsyre og beskyttelse av huden mot uttørking (spørsmål nr. EFSA-Q-2012–00382).12 Helsepåstanden som søkeren foreslo, var blant annet formulert slik: «Bidrar til å bevare god hudfuktighet.»Kommisjonen og medlemsstatene mottok 17. juli 2012 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte dataene ikke kunne påvises noen årsakssammenheng mellom konsum av hyaluronsyre og den påståtte virkningen. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra Nutrilinks Sarl, inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble myndigheten bedt om å avgi uttalelse om en helsepåstand om virkningen av *Opti*EFAX™ og normale konsentrasjoner av triglyserider i blodet (spørsmål nr. EFSA-Q-2012–00383.13 Helsepåstanden som søkeren foreslo, var formulert slik: «*Opti*EFAX™ bidrar til å opprettholde sunne nivåer av triglyserider i blodet.»Kommisjonen og medlemsstatene mottok 17. juli 2012 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte dataene ikke kunne påvises noen årsakssammenheng mellom konsum av *Opti*EFAX™ og den påståtte virkningen. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra Vivatech, inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), skulle Myndigheten avgi uttalelse om en helsepåstand om virkningene av Transitech® og «Forbedrer passasjen gjennom tarmkanalen og regulerer den varig» (spørsmål nr. EFSA-Q-2012–00296).14 Helsepåstanden som søkeren foreslo, var formulert slik: «Forbedrer passasjen gjennom tarmkanalen og regulerer den varig.»Kommisjonen og medlemsstatene mottok 26. september 2012 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte dataene ikke kunne påvises noen årsakssammenheng mellom konsum av Transitech® og den påståtte virkningen. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra Nutrilinks Sarl, inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om virkningene av Femilub® og opprettholdelse av fuktighet i skjeden (spørsmål nr. EFSA-Q-2012–00571).15 Helsepåstanden som søkeren foreslo, var blant annet formulert slik: «Bidrar til å redusere tørrhet i skjeden.»Kommisjonen og medlemsstatene mottok 26. september 2012 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte dataene ikke kunne påvises noen årsakssammenheng mellom konsum av Femilub® og den påståtte virkningen. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra Nutrilinks Sarl, inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om virkningene av lykopen, vitamin E, lutein og selen og beskyttelse av huden mot skader forårsaket av UV-stråler (spørsmål nr. EFSA-Q-2012–00592).16 Helsepåstanden som søkeren foreslo, var blant annet formulert slik: «Bidrar til å forberede følsom hud fra innsiden og gjør den bedre i stand til å tåle sol.»Kommisjonen og medlemsstatene mottok 27. september 2012 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte dataene ikke kunne påvises noen årsakssammenheng mellom konsum av lykopen, vitamin E, lutein og selen og den påståtte virkningen. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra Glanbia Nutritionals plc, inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om virkningene av Prolibra® og «Bidrar til å redusere kroppsfettet og bevare muskelmassen» (spørsmål nr. EFSA-Q-2012-00001).17 Helsepåstanden som søkeren foreslo, var formulert slik: «Bidrar til å redusere kroppsfettet og bevare muskelmassen.»Kommisjonen og medlemsstatene mottok 8. november 2012 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte dataene ikke kunne påvises noen årsakssammenheng mellom konsum av Prolibra® og den påståtte virkningen. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra Nutrilinks Sarl, inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble myndigheten bedt om å avgi uttalelse om en helsepåstand om virkningene av *Eff*EXT™ og «Bidrar til å støtte leddfunksjonen ved å opprettholde lave nivåer av plasma-C-reaktivt protein» (spørsmål nr. EFSA-Q-2012–00386).18 Helsepåstanden som søkeren foreslo, var blant annet formulert slik: «Bidrar til å støtte leddfunksjonen ved å opprettholde lave nivåer av plasma-C-reaktivt protein.»Kommisjonen og medlemsstatene mottok 27. september 2012 den vitenskapelige uttalelsen fra Myndigheten, som påpekte at påstanden viser til en reduksjon i betennelse angitt ved lavere konsentrasjon av plasma C-reaktivt protein, og konkluderte på grunnlag av de framlagte dataene med at en reduksjon i betennelse i forbindelse med sykdommer som slitasjegikt eller leddgikt er et terapeutisk mål for behandling av sykdommen.Forordning [(EF) nr. 1924/2006](eu/32006r1924*) supplerer de alminnelige prinsippene i europaparlaments- og rådsdirektiv [2000/13/EF](eu/32000l0013*) av 20. mars 2000 om tilnærming av medlemsstatenes lovgivning om merking og presentasjon av samt reklamering for næringsmidler.19 I henhold til artikkel 2 nr. 1 bokstav b) i direktiv [2000/13/EF](eu/32000l0013*) skal merkingen ikke tilskrive næringsmiddelet evne til å forebygge, behandle eller helbrede en sykdom hos mennesker eller gi inntrykk av slike egenskaper. Siden det er forbudt å tilskrive næringsmidler slike egenskaper, bør påstanden knyttet til virkningene av *Eff*EXT™ ikke godkjennes.Helsepåstanden knyttet til virkningene av *Eff*EXT™ og «Bidrar til å støtte leddfunksjonen ved å opprettholde lave nivåer av plasma-C-reaktivt protein» er en helsepåstand som tilskriver medisinske egenskaper til næringsmiddelet som omfattes av påstanden, og er dermed forbudt for næringsmidler.Helsepåstanden knyttet til Prolibra® og «Bidrar til å redusere kroppsfettet og bevare muskelmassen» er en helsepåstand som dem nevnt i artikkel 13 nr. 1 bokstav c) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), som omfattes av overgangsperioden fastsatt i artikkel 28 nr. 6 i nevnte forordning. Siden søknaden ikke ble inngitt før 19. januar 2008, er imidlertid ikke kravet i artikkel 28 nr. 6 bokstav b) i nevnte forordning oppfylt, og denne påstanden kan derfor ikke omfattes av den overgangsperioden som er fastsatt i nevnte artikkel.De andre helsepåstandene som omfattes av denne forordning, er helsepåstander som omhandlet i artikkel 13 nr. 1 bokstav a) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), som omfattes av en overgangsperiode fastsatt i artikkel 28 nr. 5 i nevnte forordning inntil listen over tillatte helsepåstander vedtas, forutsatt at de overholder denne forordning.Listen over tillatte helsepåstander er fastsatt ved kommisjonsforordning [(EU) nr. 432/2012](eu/32012r0432)20 og har vært anvendt siden 14. desember 2012. Når det gjelder påstandene omhandlet i artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) som Myndighetens vurdering eller Kommisjonens behandling ikke er fullført for innen 14. desember 2012, og som i kraft av denne forordning ikke er oppført på listen over tillatte helsepåstander, bør det tillates en overgangsperiode da de fortsatt kan anvendes, slik at både driftsansvarlige for næringsmiddelforetak og vedkommende nasjonale myndigheter kan tilpasse seg til forbudet mot slike påstander.De kommentarene som Kommisjonen har mottatt fra søkere og allmennheten i henhold til artikkel 16 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), er tatt i betraktning ved fastsettelse av de tiltakene i denne forordning.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for næringsmiddelkjeden og dyrehelsen, og verken Europaparlamentet eller Rådet har motsatt seg dem –
 
+1 EUT L 404 av 30.12.2006, s. 9.
+
+2 EFSA Journal 2011; 9(12):2476.
+
+3 EFSA Journal 2012; 10(5):2691.
+
+4 EFSA Journal 2012; 10(7):2773.
+
+5 EFSA Journal 2012; 10(7):2801.
+
+6 EFSA Journal 2012; 10(7):2807.
+
+7 EFSA Journal 2012; 10(7):2805.
+
+8 EFSA Journal 2012; 10(7):2819.
+
+9 EFSA Journal 2012; 10(7):2802.
+
+10 EFSA Journal 2012; 10(7):2803.
+
+11 EFSA Journal 2012; 10(7):2808.
+
+12 EFSA Journal 2012; 10(7):2806.
+
+13 EFSA Journal 2012; 10(7):2804.
+
+14 EFSA Journal 2012; 10(9):2887.
+
+15 EFSA Journal 2012; 10(9):2888.
+
+16 EFSA Journal 2012; 10(9):2890.
+
+17 EFSA Journal 2012; 10(11):2949.
+
+19 EFT L 109 av 6.5.2000, s. 29.
+
+18 EFSA Journal 2012; 10(9):2889.
+
+20 EUT L 136 av 25.5.2012, s. 1.
+
+VEDTATT DENNE FORORDNING:
+
 ### Artikkel 1
 
-1. Helsepåstandene oppført i vedlegget til denne forordning skal ikke oppføres på Unionens liste over tillatte påstander som fastsatt i artikkel 13 nr. 3 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).
+1\. Helsepåstandene oppført i vedlegget til denne forordning skal ikke oppføres på Unionens liste over tillatte påstander som fastsatt i artikkel 13 nr. 3 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).
 
-2. Helsepåstander nevnt i nr. 1 som var i bruk før denne forordnings ikrafttredelse, kan imidlertid fortsatt anvendes i seks måneder etter denne forordnings ikrafttredelse.
+2\. Helsepåstander nevnt i nr. 1 som var i bruk før denne forordnings ikrafttredelse, kan imidlertid fortsatt anvendes i seks måneder etter denne forordnings ikrafttredelse.
 
 ### Artikkel 2
 
@@ -1624,7 +3085,38 @@ Denne forordning trer i kraft den 20. dag etter at den er kunngjort i *Den europ
 
 Denne forordning er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
 
+Utferdiget i Brussel, 30. oktober 2013.
+
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  |  |
+|  | José Manuel BARROSO |
+|  |  |
+|  | *President* |
+
 ### VEDLEGG
+
+| *Avslåtte helsepåstander* |  |  |  |
+| --- | --- | --- | --- |
+| *Søknad – Relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe* | *Påstand* | *EFSA-uttalelse* |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data som er underlagt eiendomsrett | Glukosamin | Glukosamin bidrar til å beskytte leddbrusk som utsettes for overdrevet bevegelse eller belastning og bidrar til å forbedre bevegeligheten i leddene | Q-2011–00907 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data som er underlagt eiendomsrett | Glukosamin | Glukosamin bidrar til å opprettholde normal leddbrusk | Q-2011–01113 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data som er underlagt eiendomsrett | Polare lipider ekstrahert fra hvete | Bidrar til bedre hudfuktighet | Q-2011–01122 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data som er underlagt eiendomsrett | *Saccharomyces cerevisiae* var. *boulardii* CNCM I-3799 | *Saccharomyces cerevisiae* var. *boulardii* CNCM I-3799 bidrar til å opprettholde tarmkomfort | Q-2012–00271 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data som er underlagt eiendomsrett | En kombinasjon av tiamin, riboflavin, niacin, pantotensyre, pyridoksin, D-biotin og gresskarkjerneolje (*Cucurbita pepo* L.) | Bidrar til å øke antall hår | Q-2012–00334 og Q-2012–00335 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data som er underlagt eiendomsrett | Ekstrakt av *Rhodiola rosea* L. | Bidrar til å redusere tretthet ved stress | Q-2012–00336 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data som er underlagt eiendomsrett | En kombinasjon av linfrøolje og vitamin E | Bidrar til å vedlikeholde hudens permeabilitetsbarrierefunksjon | Q-2012–00337 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data som er underlagt eiendomsrett | *Opti*EFAX™ | *Opti*EFAX™ bidrar til å opprettholde sunne nivåer av LDL-kolesterol i blodet | Q-2012–00339 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data som er underlagt eiendomsrett | *Opti*EFAX™ | *Opti*EFAX™ bidrar til å opprettholde sunne nivåer av HDL-kolesterol i blodet | Q-2012–00340 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data som er underlagt eiendomsrett | KF2BL20 | Bidrar til å bevare hårets styrke | Q-2012–00381 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data som er underlagt eiendomsrett | Hyaluronsyre | Bidrar til å bevare god hudfuktighet | Q-2012–00382 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data som er underlagt eiendomsrett | *Opti*EFAX™ | *Opti*EFAX™ bidrar til å opprettholde sunne nivåer av triglyserider i blodet | Q-2012–00383 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data som er underlagt eiendomsrett | Transitech® | Forbedrer passasjen gjennom tarmkanalen og regulerer den varig | Q-2012–00296 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data som er underlagt eiendomsrett | Femilub® | Bidrar til å redusere tørrhet i skjeden | Q-2012–00571 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data som er underlagt eiendomsrett | En kombinasjon av lykopen, vitamin E, lutein og selen | Bidrar til å forberede følsom hud fra innsiden og gjør den bedre i stand til å tåle sol | Q-2012–00592 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data som er underlagt eiendomsrett | Prolibra® | Bidrar til å redusere kroppsfettet og bevare muskelmassen | Q-2012–00001 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data som er underlagt eiendomsrett | *Eff*EXT™ | Bidrar til å støtte leddfunksjonen ved å opprettholde lave nivåer av plasma C-reaktivt protein | Q-2012–00386 |
 
 ### Forordning (EU) nr. 907/2013
 
@@ -1636,11 +3128,17 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 907/
 av 20. september 2013
 om fastsettelse av regler for søknader om bruk av generiske beskrivelser (betegnelser)
 
+EUROPAKOMMISJONEN HAR –
+
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler,1 særlig artikkel 1 nr. 4, og
 
 ut fra følgende betraktninger:I henhold til artikkel 1 nr. 4 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) kan særlige generiske beskrivelser (betegnelser) som tradisjonelt er blitt brukt til å angi en egenskap ved en gruppe næringsmidler eller drikker, og som antyder en virkning for helsen, unntas fra denne forordning etter en søknad fra de berørte driftsansvarlige for næringsmiddelforetak.For å sikre at søknader som gjelder generiske beskrivelser behandles på en måte som gir innsyn, og innen rimelig tid, skal Kommisjonen i henhold til artikkel 1 nr. 4 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) vedta og offentliggjøre reglene som må følges i forbindelse med slike søknader.Reglene skal sikre at søknaden inneholder alle opplysninger som er nødvendig for å vurdere den. Videre skal reglene ikke hindre Kommisjonen i å innhente utfyllende opplysninger når dette er nødvendig, avhengig av den generiske beskrivelsens art og omfanget av unntaket som søknaden gjelder.For å unngå at det inngis flere søknader for den samme generiske beskrivelsen (betegnelsen) bør det tillates at bransjeorganisasjoner som representerer bestemte næringsmiddelsektorer, kan inngi søknader på vegne av sine medlemmer.For blant annet å sikre et høyt nivå for forbrukervern skal bruken av påstander ikke være uriktig, tvetydig eller villedende. Det samme bør gjelde for bruken av generiske beskrivelser (betegnelser) som kan antyde en virkning for helsen. I tråd med forholdsmessighetsprinsippet og for å nå dette målet må nasjonale myndigheter etter eget skjønn og under henvisning til Domstolens rettspraksis foreta en vurdering for å fastslå gjennomsnittsforbrukerens typiske reaksjon i et gitt tilfelle.Det bør kunne dokumenteres at den generiske beskrivelsen (betegnelsen) har vært brukt i medlemsstaten(e) i minst 20 år før ikrafttredelsesdatoen for denne forordning.Medlemsstatene er blitt rådspurt –
+
+1 EUT L 404 av 30.12.2006, s. 9.
+
+VEDTATT DENNE FORORDNING:
 
 ### Artikkel 1
 
@@ -1653,6 +3151,12 @@ Denne forordning trer i kraft den 20. dag etter at den er kunngjort i *Den europ
 Denne forordning er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
 
 Utferdiget i Brussel, 20. september 2013.
+
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  | José Manuel BARROSO |
+|  | *President* |
 
 ### Vedlegg
 
@@ -1671,9 +3175,15 @@ Inngivelse av søknaden
 ### Del B
 Søknadens innhold
 
+1.*Obligatoriske opplysninger*
+
 Søknaden skal inneholde:
 
+1.1.
+
 Et sammendrag av søknaden som skal inneholde:søkerens navn og adresse,den generiske beskrivelsen som søknaden gjelder,en kort beskrivelse av egenskapene ved gruppen av næringsmidler eller drikker som omfattes av den generiske beskrivelsen, ogden eller de medlemsstatene som omfattes av søknaden om bruk av den generiske beskrivelsen.
+
+1.2.
 
 Søker
 
@@ -1681,15 +3191,25 @@ Navn, adresse og kontaktopplysninger til den driftsansvarlige for næringsmiddel
 
 Søknader om godkjenning av en generisk beskrivelse kan også inngis av bransjeorganisasjoner som opptrer på vegne av sine medlemmer, og skal inneholde navn, adresse og kontaktopplysninger til bransjeorganisasjonen som inngir søknaden, og/eller til personen som har fått fullmakt til å kommunisere med Kommisjonen på vegne av bransjeorganisasjonen. Opplysninger om at søknaden støttes av bransjeorganisasjonens medlemmer er ønskelig.
 
+1.3.
+
 Den generiske beskrivelsen som søknaden gjelderDen generiske beskrivelsen på det eller de språkene den tradisjonelt brukes på. En beskrivelse av den generiske beskrivelsen på engelsk der dette er relevant.Den eller de medlemsstatene der den generiske beskrivelsen brukes.
 
+1.4.
+
 Gruppen av næringsmidler eller drikker som omfattes av den generiske beskrivelsenEn angivelse av gruppen av næringsmidler eller drikker som markedsføres med den generiske beskrivelsen som søknaden gjelder.En detaljert beskrivelse av de egenskaper og elementer som skiller gruppen av næringsmidler eller drikker som markedsføres med den generiske beskrivelsen som søknaden gjelder, fra andre produkter som tilhører samme gruppe av næringsmidler eller drikker.
+
+1.5.
 
 Understøttende opplysninger om bruken av den generiske beskrivelsen
 
 Relevant bibliografisk eller annen verifiserbar dokumentasjon som viser at gruppen av næringsmidler eller drikker med den generiske beskrivelsen har vært på markedet i en periode på minst 20 år i medlemsstaten(e) før datoen for ikrafttredelse av denne forordning.
 
+2.*Tilleggsopplysninger som må framlegges på initiativ fra medlemsstatene: understøttende opplysninger om forbrukerens forståelse/oppfattelse*
+
 Dersom mottakermedlemsstatene og den eller de berørte medlemsstatene anser det som nødvendig for å kunne vurdere søknaden, kan de be om følgende typer tilleggsopplysninger fra søkeren før søknaden inngis til Kommisjonen:relevant dokumentasjon eller relevante opplysninger om forbrukernes forståelse og oppfatning av de virkninger som den generiske beskrivelsen kan antyde. Slike opplysninger skal omfatte den eller de medlemsstatene der den generiske beskrivelsen brukes,relevant dokumentasjon eller relevante opplysninger som viser at forbrukeren forbinder den generiske beskrivelsen med den bestemte gruppen av næringsmidler eller drikker som er angitt i nr. 1.4 i denne del av vedlegget.
+
+3.*Andre tilleggsopplysninger (valgfritt)*
 
 ### Forordning (EU) nr. 40/2014
 
@@ -1701,11 +3221,21 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 40/2
 av 17. januar 2014
 om godkjenning av en annen helsepåstand om næringsmidler enn dem som viser til redusert sykdomsrisiko og barns utvikling og helse og om endring av forordning [(EU) nr. 432/2012](eu/32012r0432)
 
+EUROPAKOMMISJONEN HAR –
+
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler,1 særlig artikkel 18 nr. 4, og
 
 ut fra følgende betraktninger:I henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924*) er helsepåstander om næringsmidler forbudt med mindre de er godkjent av Kommisjonen i samsvar med nevnte forordning og oppført på en liste over tillatte påstander.Kommisjonen har i henhold til artikkel 13 nr. 3 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) vedtatt forordning [(EU) nr. 432/2012](eu/32012r0432),2 der det opprettes en liste over andre tillatte helsepåstander om næringsmidler enn dem som viser til redusert sykdomsrisiko eller barns utvikling og helse.Ved forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det også fastsatt at driftsansvarlige for næringsmiddelforetak skal inngi søknader om godkjenning av helsepåstander til vedkommende nasjonale myndighet i en medlemsstat. Vedkommende nasjonale myndighet skal videresende gyldige søknader til Den europeiske myndighet for næringsmiddelsikkerhet (EFSA), heretter kalt «myndigheten», for vitenskapelig vurdering samt til Kommisjonen og medlemsstatene til orientering.Kommisjonen skal ta hensyn til uttalelsen fra myndigheten når den treffer beslutning om godkjenning av helsepåstander.Med henblikk på å oppmuntre til nyskaping bør de helsepåstandene som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data underlagt eiendomsrett, gjennomgå en framskyndet framgangsmåte for godkjenning.Etter en søknad fra Nordic Sugar A/S, inngitt i henhold til artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble myndigheten bedt om å avgi en uttalelse om en helsepåstand om virkningene av sukkerbetefiber på økning av avføringsvolumet (spørsmål nr. EFSA-Q-2011–009723 ). Helsepåstanden som søkeren foreslo, var formulert slik: «Sukkerbetefiber øker avføringsvolumet».Kommisjonen og medlemsstatene mottok 8. desember 2011 den vitenskapelige uttalelsen fra myndigheten, som konkluderte med at det på grunnlag av de framlagte opplysningene var påvist en årsakssammenheng mellom konsum av sukkerbetefiber og den påståtte virkningen. En helsepåstand som gjenspeiler denne konklusjonen, bør følgelig anses å oppfylle kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*) og bør oppføres på EU-listen over tillatte påstander fastsatt ved forordning [(EU) nr. 432/2012](eu/32012r0432).Ett av målene for forordning [(EF) nr. 1924/2006](eu/32006r1924*) er å sikre at helsepåstander er sannferdige, tydelige, pålitelige og nyttige for forbrukeren, og at det i den forbindelse tas hensyn til formuleringen og presentasjonen av dem. Dersom ordlyden i påstander som søkeren bruker, har samme betydning for forbrukerne som ordlyden i en godkjent helsepåstand, fordi de viser til samme forhold mellom en næringsmiddelkategori, et næringsmiddel eller en av dets bestanddeler og helse, bør de derfor omfattes av samme bruksvilkår som de som er angitt i vedlegget til denne forordning.Registeret over ernærings- og helsepåstander som inneholder alle tillatte helsepåstander, bør i samsvar med artikkel 20 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) ajourføres for å ta hensyn til denne forordning.Forordning [(EU) nr. 432/2012](eu/32012r0432) bør derfor endres.Medlemsstatene er blitt rådspurt –
+
+1 EUT L 404 av 30.12.2006, s. 9.
+
+2 Kommisjonsforordning [(EU) nr. 432/2012](eu/32012r0432) av 16. mai 2012 om fastsettelse av en liste over tillatte helsepåstander om næringsmidler som ikke viser til redusert sykdomsrisiko eller barns utvikling og helse (EUT L 136 av 25.5.2012, s. 1).
+
+3 *EFSA Journal* 2011;9(12):2468.
+
+VEDTATT DENNE FORORDNING:
 
 ### Artikkel 1
 
@@ -1723,7 +3253,19 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel, 17. januar 2014.
 
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  | José Manuel BARROSO |
+|  | *President* |
+
 ### Vedlegg
+
+I vedlegget til forordning [(EU) nr. 432/2012](eu/32012r0432) innsettes følgende post i alfabetisk rekkefølge:
+
+| *Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori* | *Påstand* | *Vilkår for bruk av påstanden* | *Vilkår og/eller begrensninger for bruk av næringsmiddelet og/eller en tilleggserklæring eller -advarsel* | *EFSA Journal-nummer* | *Registreringsnummer på den konsoliderte listen innsendt til EFSA for vurdering* |
+| --- | --- | --- | --- | --- | --- |
+| Sukkerbetefiber | Sukkerbetefiber bidrar til å øke avføringsvolumet | Påstanden kan brukes bare om næringsmidler som er rike på slike fibrer i henhold til påstanden FIBERRIK i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | 2011;9(12):2468 |  |
 
 ### Forordning (EU) nr. 155/2014
 
@@ -1735,17 +3277,57 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 155/
 av 19. februar 2014
 om avslag på godkjenning av visse andre helsepåstander om næringsmidler enn de som viser til redusert sykdomsrisiko og barns utvikling og helse
 
+EUROPAKOMMISJONEN HAR –
+
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler,1 særlig artikkel 18 nr. 5, og
 
 ut fra følgende betraktninger:I henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924*) er helsepåstander om næringsmidler forbudt med mindre de er godkjent av Kommisjonen i samsvar med nevnte forordning og oppført på en liste over tillatte påstander.Ved forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det også fastsatt at driftsansvarlige for næringsmiddelforetak kan inngi søknader om godkjenning av helsepåstander til vedkommende nasjonale myndighet i en medlemsstat. Vedkommende nasjonale myndighet skal videresende gyldige søknader til Den europeiske myndighet for næringsmiddeltrygghet (EFSA), heretter kalt «myndigheten», for vitenskapelig vurdering og til Kommisjonen og medlemsstatene til orientering.Myndigheten skal avgi uttalelse om den aktuelle helsepåstanden.Kommisjonen skal ta hensyn til uttalelsen fra myndigheten når den treffer beslutning om godkjenning av helsepåstander.Etter en søknad fra Vitabiotics Ltd, inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble myndigheten bedt om å avgi uttalelse om en helsepåstand om virkningene av L-tyrosin og bidrag til normal syntese av dopamin (spørsmål nr. EFSA-Q-2011–00319).2 Helsepåstanden som søkeren foreslo, var formulert slik: «L-tyrosin er nødvendig for naturlig dannelse av dopamin».Kommisjonen og medlemsstatene mottok 20. juli 2011 den vitenskapelige uttalelsen fra myndigheten, som påpekte at rollen L-tyrosin har i normal syntese av katekolaminer for befolkningen generelt allerede er vurdert med et positivt resultat i en tidligere uttalelse3 i forbindelse med en evaluering av påstander nevnt i artikkel 13 nr. 1 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) samt at L-tyrosin er utgangspunkt for syntese av alle katekolaminer, herunder dopamin. Myndigheten konkluderte derfor med at det er fastslått en årsakssammenheng mellom inntak av L-tyrosin i et kosthold med tilstrekkelige mengder proteiner og bidrag til normal syntese av dopamin, og foreslo som et hensiktsmessig bruksvilkår at «et næringsmiddel skal være en minst proteinkilde i henhold til vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*)».Kommisjonen og medlemsstatene har vurdert om helsepåstanden som gjenspeiler disse konklusjonene, bør godkjennes i henhold til de foreslåtte bruksvilkårene siden en godkjenning også med rette kan tilbakeholdes dersom helsepåstandene ikke overholder andre allmenne eller særlige krav i forordning [(EF) nr. 1924/2006](eu/32006r1924*), selv i tilfeller der påstanden har fått en positiv vitenskapelig vurdering av myndigheten. I sitt svar av 9. november 2012 på Kommisjonens anmodning om blant annet en klargjøring om dokumentasjonen som er framlagt i forbindelse med helsepåstanden om L-tyrosin og de foreslåtte bruksvilkårene, påpekte myndigheten at dens konklusjoner når det gjelder denne påstanden var basert på den anerkjente biokjemiske rollen til L-tyrosin, slik det foreligger i protein. Kommisjonen tilføyde at på grunnlag av den inngitte dokumentasjonen kunne den ikke anslå kvantitativt hvor stort daglig inntak av L-tyrosin som er nødvendig for å oppnå den gunstige fysiologiske virkningen. Det er derfor ikke mulig å fastsette konkrete vilkår for bruk av denne påstanden som sikrer at det finnes en mengde L-tyrosin i sluttproduktet som gir den gunstige fysiologiske virkningen i samsvar med artikkel 5 nr. 1 bokstav b) punkt i) i forordning [(EF) nr. 1924/2006](eu/32006r1924*). Dersom det ikke finnes slike konkrete bruksvilkår, kan den gunstige virkningen av stoffet som påstanden gjelder, ikke garanteres, og denne påstanden kan derfor villede forbrukeren. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra Pierre Fabre Dermo-Cosmétique, inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble myndigheten bedt om å avgi uttalelse om en helsepåstand om inntak av jern og opprettholdelse av normal hårvekst (spørsmål nr. EFSA-Q-2012–00059).4 Helsepåstanden som søkeren foreslo, var formulert slik: «Kraftig hårtap hos kvinner som ikke er i overgangsalderen».Kommisjonen og medlemsstatene mottok 15. mars 2012 den vitenskapelige uttalelsen fra myndigheten, som konkluderte med at det på grunnlag av de framlagte dataene ikke kunne påvises noen årsakssammenheng mellom inntak av jern og opprettholdelse av normal hårvekst. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra Biocodex, innlevert i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble myndigheten bedt om å avgi en uttalelse om en helsepåstand om inntak av citrullinmalat og raskere restitusjon av trette muskler etter trening (spørsmål nr. EFSA-Q-2011–00931).5 Helsepåstanden som søkeren foreslo, var formulert slik: «Opprettholdelse av adenosintrifosfatnivåer (ATP-nivåer) gjennom reduksjon av laktatoverskudd for restitusjon av trette muskler».Kommisjonen og medlemsstatene mottok 11. mai 2012 den vitenskapelige uttalelsen fra myndigheten, som konkluderte med at det på grunnlag av de framlagte dataene ikke kunne påvises noen årsakssammenheng mellom inntak av citrullinmalat og den påståtte virkningen. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra Nutrilinks Sarl, inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble myndigheten bedt om å avgi uttalelse om en helsepåstand om virkningene av E*ff*EXT™ og opprettholdelse av normal bevegelighet i leddene (spørsmål nr. EFSA-Q-2012–00384).6 Helsepåstanden som søkeren foreslo, var blant annet formulert slik: «Bidrar til å fremme bevegelighet i leddene».Kommisjonen og medlemsstatene mottok 14. desember 2012 den vitenskapelige uttalelsen fra myndigheten, som konkluderte med at det på grunnlag av de framlagte dataene ikke kunne påvises noen årsakssammenheng mellom inntak av E*ff*EXT™ og den påståtte virkningen. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra Nutrilinks Sarl, inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble myndigheten bedt om å avgi uttalelse om en helsepåstand om virkningene av krillolje og opprettholdelse av velvære i leddene (spørsmål nr. EFSA-Q-2012–00385).7 Helsepåstanden som søkeren foreslo, var blant annet formulert slik: «Bidrar til økt velvære i sensitive ledd».Kommisjonen og medlemsstatene mottok 14. desember 2012 den vitenskapelige uttalelsen fra myndigheten, som konkluderte med at det på grunnlag av de framlagte dataene ikke kunne påvises noen årsakssammenheng mellom inntak av krillolje og den påståtte virkningen. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra Nutrilinks Sarl, inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble myndigheten bedt om å avgi uttalelse om en helsepåstand om virkningene av frøekstrakt fra *Vitis vinifera* L. og normal blodgjennomstrømning i venene (spørsmål nr. EFSA-Q-2012–00387).8 Helsepåstanden som søkeren foreslo, var blant annet formulert slik: «Bidrar til å fremme blodgjennomstrømningen i beina».Kommisjonen og medlemsstatene mottok 14. desember 2012 den vitenskapelige uttalelsen fra myndigheten, som konkluderte med at det på grunnlag av de framlagte dataene ikke kunne påvises noen årsakssammenheng mellom inntak av frøekstrakt fra *Vitis vinifera* L. og den påståtte virkningen. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra Nutrilinks Sarl, inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble myndigheten bedt om å avgi uttalelse om en helsepåstand om virkningene av frøekstrakt fra *Vitis vinifera* L. og «Bidrar til å redusere hevelse i beina» (spørsmål nr. EFSA-Q-2012–00388).9 Helsepåstanden som søkeren foreslo, var blant annet formulert slik: «Bidrar til å redusere hevelse i beina».Kommisjonen og medlemsstatene mottok 14. desember 2012 den vitenskapelige uttalelsen fra myndigheten, som påpekte at påstanden viser til en reduksjon i perifert ødem ved kroniske kliniske lidelser (f.eks. kronisk venøs insuffisiens), og konkluderte på grunnlag av de framlagte dataene med at en slik reduksjon i perifert ødem ved kroniske kliniske lidelser er et terapeutisk mål for behandlingen av disse.Forordning [(EF) nr. 1924/2006](eu/32006r1924*) supplerer de alminnelige prinsippene i europaparlaments- og rådsdirektiv [2000/13/EF](eu/32000l0013*) av 20. mars 2000 om tilnærming av medlemsstatenes lovgivning om merking og presentasjon av samt reklamering for næringsmidler.10 I henhold til artikkel 2 nr. 1 bokstav b) i direktiv [2000/13/EF](eu/32000l0013*) skal merkingen ikke tillegge et næringsmiddel egenskaper som forebygger, behandler eller helbreder sykdom hos mennesker, eller gi inntrykk av slike egenskaper. Siden det er forbudt å tillegge næringsmidler slike egenskaper, bør påstanden knyttet til virkningene av frøekstrakt fra *Vitis vinifera* L. og «Bidrar til å redusere hevelse i beina» ikke godkjennes.Etter en søknad fra Roxlor Nutra LLC, inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble myndigheten bedt om å avgi uttalelse om en helsepåstand om virkningene av Cynatine® og opprettholdelse av normal bevegelighet i leddene (spørsmål nr. EFSA-Q-2012–00570).11 Helsepåstanden som søkeren foreslo, var blant annet formulert slik: «Et daglig inntak på 500 mg Cynatine® bidrar til å fremme bevegelighet i leddene».Kommisjonen og medlemsstatene mottok 14. desember 2012 den vitenskapelige uttalelsen fra myndigheten, som konkluderte med at det på grunnlag av de framlagte dataene ikke kunne påvises noen årsakssammenheng mellom inntak av Cynatine® og den påståtte virkningen. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra Actina, inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble myndigheten bedt om å avgi uttalelse om en helsepåstand om virkningene av OXY 280 og reduksjon av kroppsvekt (spørsmål nr. EFSA-Q-2012–00572).12 Helsepåstanden som søkeren foreslo, var blant annet formulert slik: «OXY 280 bidrar til vekttap».Kommisjonen og medlemsstatene mottok 14. desember 2012 den vitenskapelige uttalelsen fra myndigheten, som konkluderte med at det på grunnlag av de framlagte dataene ikke kunne påvises noen årsakssammenheng mellom inntak av OXY 280 og den påståtte virkningen. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra Nutrilinks Sarl, inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble myndigheten bedt om å avgi uttalelse om en helsepåstand om virkningene av frøekstrakt fra *Vitis vinifera* L. og «Bidrar til å redusere væskeansamling i kroppen» (spørsmål nr. EFSA-Q-2012–00574).13 Helsepåstanden som søkeren foreslo, var blant annet formulert slik: «Bidrar til å redusere væskeansamling i kroppen».Kommisjonen og medlemsstatene mottok 14. desember 2012 den vitenskapelige uttalelsen fra myndigheten, som påpekte at den påståtte virkningen viser til opprettholdelse av normal blodgjennomstrømning i venene. Myndigheten påpekte også at den samme helsemessige sammenhengen allerede var vurdert med et negativt resultat i en tidligere uttalelse14 og at henvisningen til den vitenskapelige dokumentasjonen i forbindelse med denne påstanden allerede hadde blitt vurdert i den tidligere uttalelsen. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra Nutrilinks Sarl, inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble myndigheten bedt om å avgi uttalelse om en helsepåstand om virkningene av en kombinasjon av ekstrakter av *Paullinia cupana* Kunth (guarana) og *Camellia sinensis* (L.) Kuntze (grønn te) og reduksjon i kroppsvekt (spørsmål nr. EFSA-Q-2012–00590).15 Helsepåstanden som søkeren foreslo, var blant annet formulert slik: «Bidrar til å forbrenne fett».Kommisjonen og medlemsstatene mottok 14. desember 2012 den vitenskapelige uttalelsen fra myndigheten, som konkluderte med at det på grunnlag av de framlagte dataene ikke kunne påvises noen årsakssammenheng mellom inntak av en kombinasjon av ekstrakter av *Paullinia cupana* Kunth (guarana) og *Camellia sinensis* (L.) Kuntze (grønn te) og den påståtte virkningen. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra Nutrilinks Sarl, inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble myndigheten bedt om å avgi uttalelse om en helsepåstand om virkningene av en kombinasjon av lykopen, vitamin E, lutein og selen og «Bidrar til å forberede og aktivere bruning» (spørsmål nr. EFSA-Q-2012–00593).16 Helsepåstanden som søkeren foreslo, var blant annet formulert slik: «Bidrar til å forberede og aktivere bruning».Kommisjonen og medlemsstatene mottok 14. desember 2012 den vitenskapelige uttalelsen fra myndigheten, som påpekte at den påståtte virkningen viser til økt pigmentering i huden (dvs. bruning) som kan bidra til å beskytte huden mot skader forårsaket av UV-stråler. Myndigheten påpekte også at den samme helsemessige sammenhengen allerede var vurdert med negativt resultat i en tidligere uttalelse17 og at henvisningen til den vitenskapelige dokumentasjonen i forbindelse med denne påstanden er den samme som i den tidligere uttalelsen. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Helsepåstanden om virkningene av frøekstrakt fra *Vitis vinifera* L. og «Bidrar til å redusere hevelse i beina» er en helsepåstand som tillegger næringsmiddelet som påstanden omfatter, medisinske egenskaper som er forbudt for næringsmidler.Helsepåstanden om OXY 280 og om kombinasjonen av ekstrakter av *Paullinia cupana* Kunth (guarana) og *Camellia sinensis* (L.) Kuntze (grønn te) er helsepåstander som nevnt i artikkel 13 nr. 1 bokstav c) i forordning [(EF) nr. 1924/2006](eu/32006r1924*) og omfattes derfor av overgangsperioden som er fastsatt i artikkel 28 nr. 6 i nevnte forordning. Siden søknaden ikke ble inngitt før 19. januar 2008, er imidlertid ikke kravet i artikkel 28 nr. 6 bokstav b) i nevnte forordning oppfylt, og disse påstandene kan derfor ikke omfattes av overgangsperioden som er fastsatt i nevnte artikkel.De andre helsepåstandene som omfattes av denne forordning, er helsepåstander som nevnt i artikkel 13 nr. 1 bokstav a) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), som omfattes av overgangsperioden fastsatt i artikkel 28 nr. 5 i nevnte forordning inntil listen over tillatte helsepåstander vedtas, under forutsetning at de er i samsvar med denne forordning.Listen over tillatte helsepåstander er fastsatt ved kommisjonsforordning [(EU) nr. 432/2012](eu/32012r0432)18 og har vært anvendt siden 14. desember 2012. Når det gjelder påstander nevnt i artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) som ikke er ferdigvurdert av myndigheten eller ferdigbehandlet av Kommisjonen innen 14. desember 2012, og som i henhold til denne forordning ikke er oppført på listen over tillatte helsepåstander, bør det tillates en overgangsperiode da de fortsatt kan anvendes, slik at både driftsansvarlige for næringsmiddelforetak og vedkommende nasjonale myndigheter kan tilpasse seg til forbudet mot slike påstander.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for næringsmiddelkjeden og dyrehelsen, og verken Europaparlamentet eller Rådet har motsatt seg dem –
 
+1 EUT L 404 av 30.12.2006, s. 9.
+
+2 *EFSA Journal* 2011; 9(7):2290.
+
+3 *EFSA Journal* 2011; 9(6):2270.
+
+4 *EFSA Journal* 2012; 10(3):2602.
+
+5 *EFSA Journal* 2012; 10(5):2699.
+
+6 *EFSA Journal* 2012; 10(12):3002.
+
+7 *EFSA Journal* 2012; 10(12):3003.
+
+8 *EFSA Journal* 2012; 10(12):2996.
+
+9 *EFSA Journal* 2012; 10(12):2997.
+
+10 EUT L 109 av 6.5.2000, s. 29.
+
+11 *EFSA Journal* 2012; 10(12):3004.
+
+12 *EFSA Journal* 2012; 10(12):2999.
+
+13 *EFSA Journal* 2012; 10(12):2998.
+
+14 *EFSA Journal* 2012; 10(12):2996.
+
+15 *EFSA Journal* 2012; 10(12):3000.
+
+16 *EFSA Journal* 2012; 10(12):3001.
+
+17 *EFSA Journal* 2012; 10(9):2890.
+
+18 EUT L 136 av 25.5.2012, s. 1.
+
+VEDTATT DENNE FORORDNING:
+
 ### Artikkel 1
 
-1. Helsepåstandene oppført i vedlegget til denne forordning skal ikke oppføres på Unionens liste over tillatte påstander som fastsatt i artikkel 13 nr. 3 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).
+1\. Helsepåstandene oppført i vedlegget til denne forordning skal ikke oppføres på Unionens liste over tillatte påstander som fastsatt i artikkel 13 nr. 3 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).
 
-2. Helsepåstander nevnt i nr. 1 som var i bruk før ikrafttredelsen av denne forordning, kan imidlertid fortsatt brukes i seks måneder etter ikrafttredelsen av denne forordning.
+2\. Helsepåstander nevnt i nr. 1 som var i bruk før ikrafttredelsen av denne forordning, kan imidlertid fortsatt brukes i seks måneder etter ikrafttredelsen av denne forordning.
 
 ### Artikkel 2
 
@@ -1755,8 +3337,29 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel, 19. februar 2014.
 
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  | José Manuel BARROSO |
+|  | *President* |
+
 ### Vedlegg
 Avslåtte helsepåstander
+
+| *Søknad – Relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe* | *Påstand* | *EFSA-uttalelse* |
+| --- | --- | --- | --- |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data som er underlagt eiendomsrett | L-tyrosin | L-tyrosin er nødvendig for naturlig dannelse av dopamin | Q-2011–00319 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data som er underlagt eiendomsrett | Jern | Kraftig hårtap hos kvinner som ikke er i overgangsalderen | Q-2012–00059 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data som er underlagt eiendomsrett | Citrullinmalat | Opprettholdelse av adenosintrifosfatnivåer (ATP-nivåer) gjennom reduksjon av laktatoverskudd for restitusjon av trette muskler | Q-2011–00931 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data som er underlagt eiendomsrett | E*ff*EXT™ | Bidrar til å fremme bevegelighet i leddene | Q-2012–00384 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data som er underlagt eiendomsrett | Krillolje | Bidrar til økt velvære i sensitive ledd | Q-2012–00385 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data som er underlagt eiendomsrett | Frøekstrakt fra *Vitis vinifera* L. | Bidrar til å fremme blodgjennomstrømningen i beina | Q-2012–00387 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data som er underlagt eiendomsrett | Frøekstrakt fra *Vitis vinifera* L. | Bidrar til å redusere hevelse i beina | Q-2012–00388 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data som er underlagt eiendomsrett | Cynatine® | Et daglig inntak på 500 mg Cynatine® bidrar til å fremme bevegelighet i leddene | Q-2012–00570 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data som er underlagt eiendomsrett | OXY 280 | OXY 280 bidrar til vekttap | Q-2012–00572 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data som er underlagt eiendomsrett | Frøekstrakt fra *Vitis vinifera* L. | Bidrar til å redusere væskeansamling i kroppen | Q-2012–00574 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data som er underlagt eiendomsrett | En kombinasjon av ekstrakter av *Paullinia cupana* Kunth (guarana) og *Camellia sinensis* (L.) Kuntze (grønn te). | Bidrar til å forbrenne fett | Q-2012–00590 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data som er underlagt eiendomsrett | En kombinasjon av lykopen, vitamin E, lutein og selen | Bidrar til å forberede og aktivere bruning | Q-2012–00593 |
 
 ### Forordning (EU) nr. 175/2014
 
@@ -1768,17 +3371,37 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 175/
 av 25. februar 2014
 om avslag på godkjenning av visse andre helsepåstander om næringsmidler enn dem som viser til redusert sykdomsrisiko og barns utvikling og helse
 
+EUROPAKOMMISJONEN HAR –
+
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler,1 særlig artikkel 18 nr. 5, og
 
 ut fra følgende betraktninger:I henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924*) er helsepåstander om næringsmidler forbudt med mindre de er godkjent av Kommisjonen i samsvar med nevnte forordning og oppført på en liste over tillatte påstander.Ved forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det også fastsatt at driftsansvarlige for næringsmiddelforetak kan inngi søknader om godkjenning av helsepåstander til vedkommende nasjonale myndighet i en medlemsstat. Vedkommende nasjonale myndighet skal videresende gyldige søknader til Den europeiske myndighet for næringsmiddeltrygghet (EFSA), heretter kalt «Myndigheten», for vitenskapelig vurdering og til Kommisjonen og medlemsstatene til orientering.Myndigheten skal avgi uttalelse om den aktuelle helsepåstanden.Kommisjonen skal ta hensyn til uttalelsen fra Myndigheten når den treffer beslutning om godkjenning av helsepåstander.Etter en søknad fra PiLeJe, inngitt i henhold til artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om virkningene av en kombinasjon av *B. longum* LA 101, *L. helveticus* LA 102, *L. lactis* LA 103 og *S. thermophilus* LA 104 og tarmplager (spørsmål nr. EFSA-Q-2012–00588).2 Helsepåstanden som søkeren foreslo, var blant annet formulert slik: «Forbedrer tarmens velvære».Kommisjonen og medlemsstatene mottok 12. februar 2013 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte opplysningene ikke kunne påvises noen årsakssammenheng mellom konsum av en kombinasjon av *B. longum* LA 101, *L. helveticus* LA 102, *L. lactis* LA 103 og *S. thermophilus* LA 104 og den påståtte virkningen. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra PiLeJe, inngitt i henhold til artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om virkningene av en kombinasjon av *B. longum* LA 101, *L. helveticus* LA 102, *L. lactis* LA 103 og *S. thermophilus* LA 104 og avføringshyppighet (spørsmål nr. EFSA-Q-2012–00589).3 Helsepåstanden som søkeren foreslo, var blant annet formulert slik: «Regulerer passasjen gjennom tarmen».Kommisjonen og medlemsstatene mottok 12. februar 2013 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte opplysningene ikke kunne påvises noen årsakssammenheng mellom konsum av en kombinasjon av *B. longum* LA 101, *L. helveticus* LA 102, *L. lactis* LA 103 og *S. thermophilus* LA 104 og den påståtte virkningen. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra Nutrilinks Sarl, inngitt i henhold til artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om virkningene av ♀EFAX™ og reduserte menstruasjonsplager (spørsmål nr. EFSA-Q-2012–00591).4 Helsepåstanden som søkeren foreslo, var blant annet formulert slik: «♀EFAX™ bidrar til å opprettholde en normal menstruasjonssyklus».Kommisjonen og medlemsstatene mottok 12. februar 2013 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte opplysningene ikke kunne påvises noen årsakssammenheng mellom konsum av ♀EFAX™ og den påståtte virkningen. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra Kemin Foods LC, inngitt i henhold til artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om virkningene av Slendesta® potetekstrakt og vekttap (spørsmål nr. EFSA-Q-2012–00704).5 Helsepåstanden som søkeren foreslo, var formulert slik: «Slendesta® bidrar til vekttap hos overvektige».Kommisjonen og medlemsstatene mottok 12. februar 2013 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte opplysningene ikke kunne påvises noen årsakssammenheng mellom konsum av Slendesta® potetekstrakt og den påståtte virkningen. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra Zambon B.V., inngitt i henhold til artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om virkningene av Monurelle® og bakteriell kolonisering i urinveiene (spørsmål nr. EFSA-Q-2012–00737).6 Helsepåstanden som søkeren foreslo, var blant annet formulert slik: «Proanthocyanidins fra Monurelle® kan styrke forsvaret mot bakterielle patogener i de nedre urinveier».Kommisjonen og medlemsstatene mottok 12. februar 2013 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte opplysningene ikke kunne påvises noen årsakssammenheng mellom konsum av Monurelle® og den påståtte virkningen. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra S.A. Vichy Catalan, inngitt i henhold til artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om virkningene av Vichy Catalan kullsyreholdig naturlig mineralvann og reduksjon av lipemisk respons etter måltid (spørsmål nr. EFSA-Q-2012–00872).7 Helsepåstanden som søkeren foreslo, var formulert slik: «Vichy Catalan er et kullsyreholdig naturlig mineralvann med et høyt innhold av mineralsalter som bidrar til å redusere triglyseridøkningen i blodet under fordøyelsen».Kommisjonen og medlemsstatene mottok 12. februar 2013 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte opplysningene ikke kunne påvises noen årsakssammenheng mellom konsum av Vichy Catalan kullsyreholdig naturlig mineralvann og den påståtte virkningen. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Helsepåstanden knyttet til Slendesta® potetekstrakt er en helsepåstand som omhandlet i artikkel 13 nr. 1 bokstav c) i forordning [(EF) nr. 1924/2006](eu/32006r1924*) og omfattes derfor av overgangsperioden som er fastsatt i artikkel 28 nr. 6 i nevnte forordning. Ettersom søknaden ikke ble inngitt før 19. januar 2008, er imidlertid ikke kravet i artikkel 28 nr. 6 bokstav b) i nevnte forordning oppfylt, og denne påstanden kan derfor ikke omfattes av overgangsperioden fastsatt i nevnte artikkel.De andre helsepåstandene som omfattes av denne forordning, er helsepåstander som omhandlet i artikkel 13 nr. 1 bokstav a) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), som omfattes av overgangsperioden fastsatt i artikkel 28 nr. 5 i nevnte forordning inntil listen over tillatte helsepåstander vedtas, forutsatt at de overholder nevnte forordning.Listen over tillatte helsepåstander er fastsatt ved kommisjonsforordning [(EU) nr. 432/2012](eu/32012r0432)8 og har vært anvendt siden 14. desember 2012. Når det gjelder påstander omhandlet i artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) som Myndigheten ikke har vurdert eller Kommisjonen ikke har ferdigbehandlet innen 14. desember 2012, og som i kraft av denne forordning ikke er oppført på listen over tillatte helsepåstander, bør det fastsettes en overgangsperiode da de fortsatt kan anvendes, slik at både driftsansvarlige for næringsmiddelforetak og vedkommende nasjonale myndigheter kan tilpasse seg til forbudet mot slike påstander.De kommentarene som Kommisjonen har mottatt fra søkere og allmennheten i henhold til artikkel 16 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), er tatt i betraktning ved fastsettelse av tiltakene i denne forordning.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for næringsmiddelkjeden og dyrehelsen, og verken Europaparlamentet eller Rådet har motsatt seg dem –
 
+1 EUT L 404 av 30.12.2006, s. 9.
+
+2 EFSA Journal (2013) 11(2):3085.
+
+3 EFSA Journal (2013) 11(2):3086.
+
+4 EFSA Journal (2013) 11(2):3081.
+
+5 EFSA Journal (2013) 11(2):3083.
+
+6 EFSA Journal (2013) 11(2):3082.
+
+7 EFSA Journal (2013) 11(2):3087.
+
+8 EUT L 136 av 25.5.2012, s. 1.
+
+VEDTATT DENNE FORORDNING:
+
 ### Artikkel 1
 
-1. Helsepåstandene oppført i vedlegget til denne forordning skal ikke oppføres på Unionens liste over tillatte påstander som fastsatt i artikkel 13 nr. 3 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).
+1\. Helsepåstandene oppført i vedlegget til denne forordning skal ikke oppføres på Unionens liste over tillatte påstander som fastsatt i artikkel 13 nr. 3 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).
 
-2. Helsepåstander nevnt i nr. 1 som var i bruk før ikrafttredelsen av denne forordning, kan imidlertid fortsatt brukes i seks måneder etter ikrafttredelsen av denne forordning.
+2\. Helsepåstander nevnt i nr. 1 som var i bruk før ikrafttredelsen av denne forordning, kan imidlertid fortsatt brukes i seks måneder etter ikrafttredelsen av denne forordning.
 
 ### Artikkel 2
 
@@ -1788,8 +3411,23 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel, 25. februar 2014.
 
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  | José Manuel BARROSO |
+|  | *President* |
+
 ### Vedlegg
 Avslåtte helsepåstander
+
+| *Søknad – Relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe* | *Påstand* | *EFSA-uttalelse* |
+| --- | --- | --- | --- |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data underlagt eiendomsrett | En kombinasjon av *B. longum* LA 101, *L. helveticus* LA 102, *L. lactis* LA 103 og *S. thermophilus* LA 104 | Forbedrer tarmens velvære | Q-2012–00588 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data underlagt eiendomsrett | En kombinasjon av *B. longum* LA 101, *L. helveticus* LA 102, *L. lactis* LA 103 og *S. thermophilus* LA 104 | Regulerer passasjen i tarmen | Q-2012–00589 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data underlagt eiendomsrett | ♀EFAX™ | ♀EFAX™ bidrar til å opprettholde en normal menstruasjonssyklus | Q-2012–00591 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data underlagt eiendomsrett | Slendesta® potetekstrakt | Slendesta® bidrar til vekttap hos overvektige | Q-2012–00704 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data underlagt eiendomsrett | Monurelle® | Proanthocyanidins fra Monurelle® kan styrke forsvaret mot bakterielle patogener i de nedre urinveier | Q-2012–00737 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data underlagt eiendomsrett | Vichy Catalan kullsyreholdig naturlig mineralvann | Vichy Catalan er et kullsyreholdig naturlig mineralvann med et høyt innhold av mineralsalter som bidrar til å redusere triglyseridøkningen i blodet under fordøyelsen | Q-2012–00872 |
 
 ### Forordning (EU) nr. 1135/2014
 
@@ -1801,17 +3439,25 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 1135
 av 24. oktober 2014
 om godkjenning av en helsepåstand om næringsmidler som viser til redusert sykdomsrisiko
 
+EUROPAKOMMISJONEN HAR –
+
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler,1 særlig artikkel 17 nr. 3, og
 
 ut fra følgende betraktninger:I henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924*) er helsepåstander om næringsmidler forbudt med mindre de er godkjent av Kommisjonen i samsvar med nevnte forordning og oppført på en liste over tillatte påstander.Ved forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det også fastsatt at driftsansvarlige for næringsmiddelforetak kan inngi søknader om godkjenning av helsepåstander til vedkommende nasjonale myndighet i en medlemsstat. Vedkommende nasjonale myndighet skal videresende gyldige søknader til Den europeiske myndighet for næringsmiddeltrygghet (EFSA), heretter kalt «Myndigheten».Etter at søknaden er mottatt, skal Myndigheten straks underrette de øvrige medlemsstatene og Kommisjonen og avgi uttalelse om den aktuelle helsepåstanden.Kommisjonen skal ta hensyn til uttalelsen fra Myndigheten når den treffer beslutning om godkjenning av helsepåstander.Etter å ha mottatt en søknad fra Rank Nutrition Ltd, innlevert i samsvar med artikkel 14 nr. 1 bokstav a) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), skulle Myndigheten avgi uttalelse om en helsepåstand om økt konsentrasjon av folat hos gravide gjennom ekstra folattilskudd og redusert risiko for nevralrørsdefekter. (Spørsmål nr. EFSA-Q-2013-00265).2 Helsepåstanden som søkeren foreslo, var formulert slik: «Tilskudd av folinsyre øker konsentrasjonen av folat i røde blodlegemer hos gravide. Lav konsentrasjon av folat i røde blodlegemer hos gravide øker faren for nevralrørsdefekter hos det voksende fosteret.»Kommisjonen og medlemsstatene mottok 26. juli 2013 uttalelsen fra Myndigheten, som konkluderte at det på grunnlag av de opplysningene som var blitt framlagt, kunne fastslås en årsakssammenheng mellom økt konsentrasjon av folat hos gravide gjennom ekstra folattilskudd og redusert risiko for nevralrørseffekter. En helsepåstand som gjenspeiler denne konklusjonen, bør følgelig anses å oppfylle kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), og den bør oppføres på unionslisten over tillatte påstander.Ved artikkel 16 nr. 4 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det fastsatt at en positiv uttalelse om godkjenning av en helsepåstand, skal inneholde bestemte opplysninger. Disse opplysningene bør derfor angis i vedlegget til denne forordning for den påstanden som godkjennes, og bør, dersom det er relevant, omfatte påstandens reviderte ordlyd, særlige bruksvilkår i forbindelse med påstanden og eventuelt bruksvilkår eller bruksrestriksjoner for næringsmiddelet og/eller en tilleggsangivelse eller en tilleggsadvarsel, i samsvar med reglene fastsatt i forordning [(EF) nr. 1924/2006](eu/32006r1924*) og i tråd med uttalelsene fra Myndigheten.Forordning [(EF) nr. 1924/2006](eu/32006r1924*) har blant annet til formål å sikre at helsepåstander er sannferdige, tydelige, pålitelige og nyttige for forbrukeren, og at det i den forbindelse tas hensyn til formuleringen og presentasjonen av dem. Dersom ordlyden i påstander har samme betydning for forbrukerne som en godkjent helsepåstand, fordi de viser samme forhold mellom en næringsmiddelkategori, et næringsmiddel eller en av dets bestanddeler og helse, bør de omfattes av de samme bruksvilkårene som er angitt i vedlegget til denne forordning.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for næringsmiddelkjeden og dyrehelsen –
 
+1 EUT L 404 av 30.12.2006, s. 9.
+
+2 EFSA Journal 2013, 11(7): 3328.
+
+VEDTATT DENNE FORORDNING:
+
 ### Artikkel 1
 
-1. Næringsmidler som bringes i omsetning i Den europeiske union, kan gjøres til gjenstand for helsepåstanden oppført i vedlegget til denne forordning i henhold til vilkårene fastsatt i nevnte vedlegg.
+1\. Næringsmidler som bringes i omsetning i Den europeiske union, kan gjøres til gjenstand for helsepåstanden oppført i vedlegget til denne forordning i henhold til vilkårene fastsatt i nevnte vedlegg.
 
-2. Helsepåstanden nevnt i nr. 1, skal føres opp på unionslisten over tillatte påstander i henhold til artikkel 14 nr. 1 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).
+2\. Helsepåstanden nevnt i nr. 1, skal føres opp på unionslisten over tillatte påstander i henhold til artikkel 14 nr. 1 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).
 
 ### Artikkel 2
 
@@ -1821,8 +3467,20 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel, 24. oktober 2014.
 
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  |  |
+|  | José Manuel BARROSO |
+|  |  |
+|  | *President* |
+
 ### Vedlegg
 Tillatt helsepåstand
+
+| *Søknad – Relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Søker – Adresse* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe* | *Påstand* | *Vilkår for bruk av påstanden* | *Vilkår og/eller begrensninger for bruk av næringsmiddelet og/eller en tilleggsangivelse eller -advarsel* | *EFSA-uttalelse* |
+| --- | --- | --- | --- | --- | --- | --- |
+| Artikkel 14 nr. 1 bokstav a) – helsepåstand om redusert sykdomsrisiko | Rank Nutrition Ltd, Long Barn, Etchden Court, Bethersden, Kent, TN26 3DP, United Kingdom. | Folinsyre | Ekstra tilskudd av folinsyre øker konsentrasjonen av folat hos gravide. Lav konsentrasjon av folat hos gravide øker faren for nevralrørseffekter hos det voksende fosteret. | Påstanden kan brukes bare om næringsmidler som minst inneholder en dose på 400 μg folinsyre per dag.<br>Forbrukeren skal informeres om at målgruppen er kvinner i fertil alder, og at den gunstige virkningen oppnås ved ekstra tilskudd av 400 μg folinsyre per dag i minst én måned før og opp til tre måneder etter befruktningen. |  | Q-2013-00265 |
 
 ### Forordning (EU) nr. 1154/2014
 
@@ -1834,17 +3492,43 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 1154
 av 29. oktober 2014
 om avslag på godkjenning av visse andre helsepåstander om næringsmidler enn dem som viser til redusert sykdomsrisiko og barns utvikling og helse
 
+EUROPAKOMMISJONEN HAR –
+
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler,1 særlig artikkel 18 nr. 5, og
 
 ut fra følgende betraktninger:I henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924*) er helsepåstander om næringsmidler forbudt med mindre de er godkjent av Kommisjonen i samsvar med nevnte forordning og oppført på en liste over tillatte påstander.Ved forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det også fastsatt at driftsansvarlige for næringsmiddelforetak kan inngi søknader om godkjenning av helsepåstander til vedkommende nasjonale myndighet i en medlemsstat. Vedkommende nasjonale myndighet skal videresende gyldige søknader til Den europeiske myndighet for næringsmiddeltrygghet (EFSA), heretter kalt «Myndigheten», for vitenskapelig vurdering, samt til Kommisjonen og medlemsstatene til orientering.Myndigheten skal avgi uttalelse om den aktuelle helsepåstanden.Kommisjonen skal ta hensyn til uttalelsen fra Myndigheten når den treffer beslutning om godkjenning av helsepåstander.Etter en søknad fra EJP Pharmaceutical Ltd, inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om virkningene av sink og forebygging av dårlig ånde (spørsmål nr. EFSA-Q-2010-01092).2 Helsepåstanden som søkeren foreslo, var formulert slik: «Forebygger dårlig ånde ved å nøytralisere flyktig svovelinnhold i munnen og munnhulen».Kommisjonen og medlemsstatene mottok 1. juni 2011 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte at påstanden «forebygger dårlig ånde ved å nøytralisere flyktig svovelinnhold i munnen og munnhulen», handler om lukten av dårlig ånde snarere enn om en kroppsfunksjon slik det er fastsatt i artikkel 13 i forordning [(EF) nr. 1924/2006](eu/32006r1924*). I forbindelse med evalueringen av påstanden ble søkeren anmodet om å redegjøre for hvordan den foreslåtte påstanden kan knyttes til en kroppsfunksjon. Søkeren argumenterte med at produksjonen av flyktig svovelinnhold og halitosis som skyldes bakterieflora i munnen og munnhulen, henger sammen med munnens og munnhulens funksjon og følgelig er en kroppsfunksjon. Myndigheten fastslo likevel at dokumentasjonen som var lagt fram, ikke beviste at den kjemiske nøytraliseringen av flyktig svovelinnhold i munnen for å forbedre dårlig ånde, utgjør en fysiologisk virkning som er knyttet til en kroppsfunksjon. Søkeren har således ikke dokumentert at sink har en fysiologisk virkning som er knyttet til en kroppsfunksjon, slik det er fastsatt i artikkel 13 nr. 1 bokstav a) i forordning [(EF) nr. 1924/2006](eu/32006r1924*). Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra Leiber GmbH, inngitt i henhold til artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om virkningene av Yestimun® og forsvaret mot sykdomsframkallende stoffer i øvre luftveier (spørsmål nr. EFSA-Q-2012-00761).3 Helsepåstanden som søkeren foreslo, var formulert slik: «Daglig inntak av Yestimun® bidrar til å opprettholde kroppens forsvar mot sykdomsframkallende stoffer».Kommisjonen og medlemsstatene mottok 8. april 2013 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte at det på grunnlag av de framlagte opplysningene ikke kunne påvises noen årsakssammenheng mellom inntak av Yestimun® ((1,3)-(1,6)-β-D-glukaner fra celleveggen hos ølgjær) og den påståtte virkningen. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra Vivatech, inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), skulle Myndigheten avgi uttalelse om en helsepåstand om virkningene av Transitech® og forbedring av tarmfunksjonen, som opprettholdes etter at inntaket av næringsmiddelet har opphørt (spørsmål nr. EFSA-Q-2013-00087).4 Helsepåstanden som søkeren foreslo, var formulert slik: «Forbedrer passasjen gjennom tarmkanalen og regulerer den varig.»Kommisjonen og medlemsstatene mottok 13. juni 2013 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte opplysningene ikke kunne påvises noen årsakssammenheng mellom inntak av Transitech® og den påståtte virkningen. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra Clasado Limited, inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om virkningene av Bimuno® GOS og reduserte mage- og tarmplager (spørsmål nr. EFSA-Q-2012-01007).5 Helsepåstanden som søkeren foreslo, var formulert slik: «Regelmessig daglig inntak av 1,37 g galakto-oligosakkarider fra Bimuno® kan redusere mage- og tarmplager».Kommisjonen og medlemsstatene mottok 18. juni 2013 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte at helsepåstanden om Bimuno® GOS og reduserte mage- og tarmplager i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) allerede hadde fått en uttalelse med negativt utfall 6 av Myndigheten, og at tilleggsopplysningene som søkeren hadde lagt fram, ikke kunne brukes som vitenskapelig dokumentasjon for denne påstanden. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra Fuko Pharma Ltd, inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om virkningen av *Lactobacillus rhamnosus* GG og opprettholdelse av normal avføring ved antibiotikabehandling (spørsmål nr. EFSA-Q-2013-00015).7 Helsepåstanden som søkeren foreslo, var formulert slik: «*Lactobacillus rhamnosus* GG sørger for å opprettholde normal avføring i forbindelse med oral antibiotikabehandling».Kommisjonen og medlemsstatene mottok 18. juni 2013 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte opplysningene ikke kunne påvises noen årsakssammenheng mellom inntaket av *Lactobacillus rhamnosus* GG og den påståtte virkningen. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra Gelita AG, inngitt i henhold til artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om virkningene av VeriSol®P og en forandring i hudens elastisitet som fører til forbedret hudfunksjon (spørsmål nr. EFSA-Q-2012-00839).8 Helsepåstanden som søkeren foreslo, var formulert slik: «Karakteristisk kollagenpeptidblanding (kollagenhydrolysat) som har en gunstig fysiologisk virkning for å opprettholde hudens helse, noe som vises gjennom økt hudelastisitet og færre dype rynker takket være at blandingen bidrar til en normal kollagen- og elastinsyntese».Kommisjonen og medlemsstatene mottok 20. juni 2013 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte at det på grunnlag av de framlagte opplysningene ikke kunne påvises noen årsakssammenheng mellom inntaket av VeriSol®P og den påståtte virkningen. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra Pharmatoka S.A.S., inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om virkningene av proantocyanidiner i Urell® og redusert bakteriell kolonisering i urinveiene (spørsmål nr. EFSA-Q-2012-00700).9 Helsepåstanden som søkeren foreslo, hadde blant annet følgende ordlyd: «Proantocyanidiner fra Urell® bidrar til å styrke forsvaret mot bakterielle sykdomsframkallende stoffer i de nedre urinveiene».Kommisjonen og medlemsstatene mottok 26. juli 2013 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte at det på grunnlag av de framlagte opplysningene ikke kunne påvises noen årsakssammenheng mellom inntaket av proantocyanidiner i Urell® og den påståtte virkningen. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra Institute of Cellular Pharmacology (ICP) Ltd, inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om virkningene av Preservation® og rask gjenoppretting av cellenes aktivitet etter stress (spørsmål nr. EFSA-Q-2013-00021).10 Helsepåstanden som søkeren foreslo, var formulert slik: «Forbedrer den fysiologiske responsen på stress ved å framskynde aktiveringen av hetesjokk-proteiner (HSP-er) og opprettholder et effektivt HSP-nivå, slik at organismen er aktivert dersom cellen skulle utsettes for enda mer stress».Kommisjonen og medlemsstatene mottok 26. juli 2013 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte at den påståtte virkningen som søkeren refererte til, er generell og uspesifisert, og at de henvisningene som søkeren la fram, ikke inneholdt opplysninger som kunne danne grunnlag for å fastslå en spesifikk gunstig fysiologisk virkning. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Helsepåstandene som omfattes av denne forordning, er helsepåstander som omhandlet i artikkel 13 nr. 1 bokstav a) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), som omfattes av overgangsperioden fastsatt i artikkel 28 nr. 5 i nevnte forordning inntil listen over tillatte helsepåstander vedtas, forutsatt at de oppfyller kravene i nevnte forordning.Listen over tillatte helsepåstander er fastsatt ved kommisjonsforordning [(EU) nr. 432/2012](eu/32012r0432)11 og har vært anvendt siden 14. desember 2012. Når det gjelder påstander nevnt i artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) som Myndigheten ikke har vurdert, eller Kommisjonen ikke har ferdigbehandlet innen 14. desember 2012, og som i kraft av denne forordning ikke er oppført på listen over tillatte helsepåstander, bør det fastsettes en overgangsperiode der de fortsatt kan anvendes, slik at både driftsansvarlige for næringsmiddelforetak og vedkommende nasjonale myndigheter kan tilpasse seg forbudet mot slike påstander.De merknadene som Kommisjonen har mottatt fra søkere og allmennheten i samsvar med artikkel 16 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), er tatt i betraktning ved fastsettelse av tiltakene i denne forordning.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for næringsmiddelkjeden og dyrehelsen –
 
+1 EUT L 404 av 30.12.2006, s. 9.
+
+2 EFSA Journal 2011, 9(6): 2169.
+
+3 EFSA Journal 2013, 11(4): 3159.
+
+4 EFSA Journal 2013, 11(6): 3258.
+
+5 EFSA Journal 2013, 11(6): 3259.
+
+6 EFSA Journal 2011, 9(12): 2472.
+
+7 EFSA Journal 2013, 11(6): 3256.
+
+8 EFSA Journal 2013, 11(6): 3257.
+
+9 EFSA Journal 2013, 11(7): 3326.
+
+10 EFSA Journal 2013, 11(7): 3330.
+
+11 Kommisjonsforordning [(EU) nr. 432/2012](eu/32012r0432) av 16. mai 2012 om fastsettelse av en liste over tillatte helsepåstander om næringsmidler som ikke viser til redusert sykdomsrisiko eller barns utvikling og helse (EUT L 136 av 25.5.2012, s. 1).
+
+VEDTATT DENNE FORORDNING:
+
 ### Artikkel 1
 
-1. Helsepåstandene oppført i vedlegget til denne forordning, skal ikke oppføres på Unionens liste over tillatte påstander som fastsatt i artikkel 13 nr. 3 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).
+1\. Helsepåstandene oppført i vedlegget til denne forordning, skal ikke oppføres på Unionens liste over tillatte påstander som fastsatt i artikkel 13 nr. 3 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).
 
-2. Helsepåstander nevnt i nr. 1, og som var i bruk før ikrafttredelsen av denne forordning, kan imidlertid fortsatt brukes i høyst seks måneder etter ikrafttredelsen av denne forordning.
+2\. Helsepåstander nevnt i nr. 1, og som var i bruk før ikrafttredelsen av denne forordning, kan imidlertid fortsatt brukes i høyst seks måneder etter ikrafttredelsen av denne forordning.
 
 ### Artikkel 2
 
@@ -1854,8 +3538,27 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel, 29. oktober 2014.
 
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  |  |
+|  | *President* |
+|  |  |
+|  | José Manuel BARROSO |
+
 ### Vedlegg
 Avslåtte helsepåstander
+
+| *Søknad – Relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe* | *Påstand* | *EFSA-uttalelse* |
+| --- | --- | --- | --- |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data underlagt eiendomsrett | Sink | Forebygger dårlig ånde ved å nøytralisere flyktig svovelinnhold i munnen og munnhulen. | Q-2010-01092 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data underlagt eiendomsrett | Yestimun® | Daglig inntak av Yestimun® bidrar til å opprettholde kroppens forsvar mot sykdomsframkallende stoffer. | Q-2012-00761 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data underlagt eiendomsrett | Transitech® | Forbedrer passasjen gjennom tarmkanalen og regulerer den varig | Q-2013-00087 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data underlagt eiendomsrett | Bimuno® GOS | Regelmessig daglig inntak av 1,37 g galakto-oligosakkarider fra Bimuno® kan redusere mage- og tarmplager. | Q-2012-01007 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data underlagt eiendomsrett | *Lactobacillus rhamnosus* GG | *Lactobacillus rhamnosus* GG for å opprettholde normal avføring i forbindelse med oral antibiotikabehandling. | Q-2013-00015 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data underlagt eiendomsrett | VeriSol®P | Karakteristisk kollagenpeptidblanding (kollagenhydrolysat) som har en gunstig fysiologisk virkning for å opprettholde hudens helse, noe som vises gjennom økt hudelastisitet og færre dype rynker takket være at blandingen bidrar til en normal kollagen- og elastinsyntese. | Q-2012-00839 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data underlagt eiendomsrett | Proantocyanidiner i Urell® | Proantocyanidiner fra Urell® bidrar til å styrke forsvaret mot bakterielle sykdomsframkallende stoffer i de nedre urinveiene. | Q-2012-00700 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data underlagt eiendomsrett | Preservation® | Forbedrer den fysiologiske responsen på stress ved å framskynde aktiveringen av hetesjokk-proteiner (HSP-er) og opprettholder et effektivt HSP-nivå, slik at organismen er aktivert dersom cellen skulle utsettes for enda mer stress. | Q-2013-00021 |
 
 ### Forordning (EU) nr. 1226/2014
 
@@ -1867,17 +3570,25 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 1226
 av 17. november 2014
 om godkjenning av en helsepåstand om næringsmidler som viser til redusert sykdomsrisiko
 
+EUROPAKOMMISJONEN HAR –
+
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler,1 særlig artikkel 17 nr. 3, og
 
 ut fra følgende betraktninger:I henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924*) er helsepåstander om næringsmidler forbudt med mindre de er godkjent av Kommisjonen i samsvar med nevnte forordning og oppført på en liste over tillatte påstander.Ved forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det også fastsatt at driftsansvarlige for næringsmiddelforetak kan inngi søknader om godkjenning av helsepåstander til vedkommende nasjonale myndighet i en medlemsstat. Vedkommende nasjonale myndighet skal videresende gyldige søknader til Den europeiske myndighet for næringsmiddeltrygghet (EFSA), heretter kalt «Myndigheten».Etter at søknaden er mottatt, skal Myndigheten straks underrette de øvrige medlemsstatene og Kommisjonen og avgi en uttalelse om den aktuelle helsepåstanden.Kommisjonen skal ta hensyn til uttalelsen fra Myndigheten når den treffer beslutning om godkjenning av helsepåstander.Etter en søknad fra Lactalis B&C, inngitt i samsvar med artikkel 14 nr. 1 bokstav a) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi en uttalelse om en helsepåstand om «smørbart fett med lavt innhold av fett og transfett og høyt innhold av umettede fettsyrer og omega-3-fettsyrer» og senking av konsentrasjonen av LDL-kolesterol i blodet (spørsmål nr. EFSA-Q-2009-00458).2 Søkerens foreslåtte påstand hadde følgende ordlyd: «Det å erstatte fett med høyt innhold av mettede fettsyrer / transfettsyrer med fett med høyt innhold av umettede fettsyrer bidrar til å senke konsentrasjonen av LDL-kolesterol i blodet. LDL-kolesterol er en risikofaktor for hjerte- og karsykdommer».I sin uttalelse, som ble mottatt av Kommisjonen og medlemsstatene 25. mai 2011, konkluderte Myndigheten at det på grunnlag av de opplysningene som ble framlagt, er fastslått en årsakssammenheng mellom inntak av blandinger av mettede fettsyrer (SFAer) og en økt konsentrasjon av LDL-kolesterol i blodet, og at erstatning, gram for gram, av blandinger av mettede fettsyrer med cis-enummettede fettsyrer og/eller cis-flerumettede fettsyrer i næringsmidler eller kosten, senker konsentrasjonen av LDL-kolesterol i blodet. En helsepåstand som gjenspeiler denne konklusjonen, bør følgelig anses å oppfylle kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), og den bør oppføres på unionslisten over tillatte påstander. Myndigheten anså ikke den kliniske interversjonsundersøkelsen, som søkeren hevdet eiendomsrett til, som nødvendig for å komme frem til sin konklusjon. Det vurderes følgelig at kravet fastsatt i artikkel 21 nr. 1 bokstav c) i forordning [(EF) nr. 1924/2006](eu/32006r1924*) ikke er oppfylt, og sikring av data underlagt eiendomsrett derfor ikke bør innvilges.Myndigheten konkluderte i sin uttalelse at for at påstanden skal kunne brukes, bør betydelige mengder mettede fettsyrer erstattes, gram per gram, med enumettede og/eller flerumettede fettsyrer i næringsmidler eller kosten. For å sikre at et næringsmiddel har et betydelig innhold av enummettede og/eller flerumettede fettsyrer bør bruken av påstanden begrenses til fett og oljer, og bruksvilkårene bør fastsettes i samsvar med ernæringspåstanden «RIK PÅ UMETTET FETT» fastsatt i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*).Ved artikkel 16 nr. 4 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det fastsatt at en uttalelse som er positiv til godkjenning av en helsepåstand, skal inneholde bestemte opplysninger. De nevnte nærmere opplysningene bør følgelig angis i vedlegget til denne forordning for den påstanden som godkjennes, og bør, dersom det er relevant, omfatte påstandens reviderte ordlyd, særlige bruksvilkår i forbindelse med påstanden og eventuelt bruksvilkår eller bruksrestriksjoner for næringsmiddelet og/eller en tilleggsangivelse eller en tilleggsadvarsel, i samsvar med reglene fastsatt i forordning [(EF) nr. 1924/2006](eu/32006r1924*) og i tråd med uttalelsene fra Myndigheten.Forordning [(EF) nr. 1924/2006](eu/32006r1924*) har blant annet til formål å sikre at helsepåstander er sannferdige, tydelige, pålitelige og nyttige for forbrukeren, og at det i den forbindelse tas hensyn til formuleringen og presentasjonen av dem. Dersom ordlyden i påstander har den samme betydning for forbrukerne som en godkjent helsepåstand, fordi de viser samme forhold mellom en næringsmiddelkategori, et næringsmiddel eller en av dets bestanddeler, og helsen, bør de derfor omfattes av de samme bruksvilkårene som er angitt i vedlegget til denne forordning.De kommentarene som Kommisjonen har mottatt fra søkere og allmennheten i henhold til artikkel 16 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), er tatt i betraktning ved fastsettelse av tiltakene i denne forordning.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for næringsmiddelkjeden og dyrehelsen –
 
+1 EUT L 404 av 30.12.2006, s. 9.
+
+2 EFSA Journal 2011; 9(5):2168.
+
+VEDTATT DENNE FORORDNING:
+
 ### Artikkel 1
 
-1. Næringsmidler på markedet i Den europeiske union kan gjøres til gjenstand for helsepåstandene oppført i vedlegget til denne forordning i samsvar med vilkårene fastsatt i vedlegget.
+1\. Næringsmidler på markedet i Den europeiske union kan gjøres til gjenstand for helsepåstandene oppført i vedlegget til denne forordning i samsvar med vilkårene fastsatt i vedlegget.
 
-2. Helsepåstanden omhandlet i nr. 1 skal tas med i Unionens liste over tillatte påstander i samsvar med artikkel 14 nr. 1 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).
+2\. Helsepåstanden omhandlet i nr. 1 skal tas med i Unionens liste over tillatte påstander i samsvar med artikkel 14 nr. 1 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).
 
 ### Artikkel 2
 
@@ -1887,8 +3598,20 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel, 17. november 2014.
 
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  |  |
+|  | Jean-Claude JUNCKER |
+|  |  |
+|  | *President* |
+
 ### Vedlegg
 Tillatte helsepåstander
+
+| *Søknad – Relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Søker – Adresse* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe* | *Påstand* | *Vilkår for bruk av påstanden* | *Vilkår og/eller begrensninger for bruk av næringsmiddelet og/eller en tilleggsangivelse eller -advarsel* | *EFSA-uttalelse* |
+| --- | --- | --- | --- | --- | --- | --- |
+| Artikkel 14 nr. 1 bokstav a) – helsepåstand om redusert sykdomsrisiko | Lactalis B&C, ZA Les Placis, 35230 Bourgbarré, France | Enumettede og/eller flerumettede fettsyrer | Det å erstatte mettet fett med umettet fett i kosten har vist seg å senke/redusere kolesterolkonsentrasjonen i blodet. En høy kolesterolkonsentrasjon er en risikofaktor for utviklingen av koronar hjertesykdom | Påstanden kan brukes bare om næringsmidler som er rike på umettede fettsyrer i henhold til påstanden RIK PÅ UMETTET FETT i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*) | Påstanden kan brukes bare om fett og olje. | Q-2009-00458 |
 
 ### Forordning (EU) nr. 1228/2014
 
@@ -1900,17 +3623,41 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 1228
 av 17. november 2014
 om godkjenning og avslag på godkjenning av visse helsepåstander om næringsmidler som viser til redusert sykdomsrisiko
 
+EUROPAKOMMISJONEN HAR –
+
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler,1 særlig artikkel 17 nr. 3, og
 
 ut fra følgende betraktninger:I henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924*) er helsepåstander om næringsmidler forbudt med mindre de er godkjent av Kommisjonen i samsvar med nevnte forordning og oppført på en liste over tillatte påstander.Ved forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det også fastsatt at driftsansvarlige for næringsmiddelforetak kan inngi søknader om godkjenning av helsepåstander til vedkommende nasjonale myndighet i en medlemsstat. Vedkommende nasjonale myndighet skal videresende gyldige søknader til Den europeiske myndighet for næringsmiddeltrygghet (EFSA), heretter kalt «Myndigheten».Etter at søknaden er mottatt, skal Myndigheten straks underrette de øvrige medlemsstatene og Kommisjonen og avgi en uttalelse om den aktuelle helsepåstanden.Kommisjonen skal ta hensyn til uttalelsen fra Myndigheten når den treffer beslutning om godkjenning av helsepåstander.Etter en søknad fra Abtei Pharma Vertriebs GmbH, inngitt i samsvar med artikkel 14 nr. 1 bokstav a) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble myndigheten bedt om å avgi en uttalelse om en helsepåstand om virkningene av tyggetabletter som inneholder kalsium og vitamin D3 og beintap (spørsmål nr. EFSA-Q-2008-721).2 Søkerens foreslåtte påstand hadde følgende ordlyd: «Tyggetabletter med kalsium og vitamin D øker beintettheten hos kvinner som er 50 år eller eldre. Tyggetabelletter kan følgelig redusere risikoen for osteoporoserelaterte brudd».I sin uttalelse, som ble mottatt av Kommisjonen og medlemsstatene 7. august 2009, konkluderte Myndigheten at det på grunnlag av de opplysningene som ble framlagt, ikke var fastslått noen årsakssammenheng mellom inntak av kalsium, enten alene eller i kombinasjon med vitamin D, og redusert tap av beinmineraltetthet hos postmenopausale kvinner. Et redusert tap av beinmineraltetthet kan bidra til redusert risiko for beinbrudd. To helsepåstander som gjenspeiler denne konklusjonen, bør følgelig anses å oppfylle kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), og den bør oppføres på unionslisten over tillatte påstander. Myndigheten konkluderte imidlertid med at framlagt dokumentasjon var utilstrekkelig til å fastsette vilkår for bruk av påstandene. Kommisjonen henvendte seg deretter til Myndigheten på nytt for å innhente flere uttalelser slik at de som er ansvarlige for risikohåndteringen, skulle kunne fastsette egnede vilkår for bruk for de relevante helsepåstandene. Myndigheten fastslo i sin uttalelse, som Kommisjonen og medlemsstatene mottok 17. mai 2010 (spørsmål nr. EFSA-Q-2009-00940),3 at minst 1 200 mg kalsium fra alle kilder eller minst 1 200 mg kalsium og 800 I.U. (20 μg) vitamin D fra alle kilder bør inntas daglig for å oppnå den påståtte virkningen.Når helsepåstanden gjelder bare kalsium bør det, for å sikre at et næringsmiddel gir en betydelig mengde av kalsium, fastsettes bruksvilkår som bare tillater at påstanden gjelder næringsmidler som minst inneholder 400 mg kalsium per porsjonsenhet.Tatt i betraktning det høye innholdet av vitamin D som må inntas for å oppnå den påståtte virkningen (20 μg) når helsepåstanden gjelder kombinasjonen av kalsium og vitamin D, bør bruken av påstanden begrenses til kosttilskudd. For å sikre at et kosttilskudd gir en betydelig mengde av kalsium og vitamin D i forbindelse med denne påstanden, bør det fastsettes bruksvilkår som bare tillater at påstanden gjelder kosttilskudd som minst inneholder 400 mg kalsium og 15 μg vitamin D per porsjonsenhet.Etter en søknad fra DSM Nutritional Products Europe AG, inngitt i samsvar med artikkel 14 nr. 1 bokstav a) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi en uttalelse om en helsepåstand om virkningene av vitamin D og risikoen for å falle for menn og kvinner som er 60 år eller eldre (spørsmål nr. EFSA-Q-2010-01233).4 Søkerens foreslåtte påstand hadde følgende ordlyd: «Vitamin D reduserer risikoen for å falle. Fall er en risikofaktor for beinbrudd».I sin uttalelse, som ble mottatt av Kommisjonen og medlemsstatene 30. september 2011, konkluderte Myndigheten at det på grunnlag av de opplysningene som ble framlagt, kunne fastslås en årsakssammenheng mellom inntak av vitamin D og en redusert risiko for å falle, som er forbundet med ustøhet og muskelsvekkelse. Redusert risiko for fall hos menn og kvinner som er 60 år eller eldre er positivt for menneskers helse ved at risikoen for beinbrudd reduseres. En helsepåstand som gjenspeiler denne konklusjonen, bør følgelig anses å oppfylle kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), og den bør oppføres på unionslisten over tillatte påstander.Myndigheten fastslo i sin uttalelse at 800 I.U. (20 μg) vitamin D, fra alle kilder, bør inntas daglig for å oppnå den påståtte virkningen. Tatt i betraktning det høye innholdet av vitamin D som må inntas for å oppnå den påståtte virkningen (20 μg), bør bruken av påstanden begrenses til kosttilskudd. For å sikre at et kosttilskudd gir en betydelig mengde av vitamin D i forbindelse med denne påstanden, bør det fastsettes bruksvilkår som bare tillater at påstanden gjelder kosttilskudd som minst inneholder 15 μg vitamin D per porsjonsenhet.Ved artikkel 16 nr. 4 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det fastsatt at en uttalelse som er positiv til godkjenning av en helsepåstand, skal inneholde bestemte opplysninger. De nevnte nærmere opplysningene bør følgelig angis i vedlegg I til denne forordning for de påstandene som godkjennes, og bør, dersom det er relevant, omfatte påstandens reviderte ordlyd, særlige bruksvilkår i forbindelse med påstanden og eventuelt bruksvilkår eller bruksrestriksjoner for næringsmiddelet og/eller en tilleggsangivelse eller en tilleggsadvarsel, i samsvar med reglene fastsatt i forordning [(EF) nr. 1924/2006](eu/32006r1924*) og i tråd med uttalelsene fra myndigheten.Forordning [(EF) nr. 1924/2006](eu/32006r1924*) har blant annet til formål å sikre at helsepåstander er sannferdige, tydelige, pålitelige og nyttige for forbrukeren, og at det i den forbindelse tas hensyn til formuleringen og presentasjonen av dem. Dersom ordlyden i påstander har den samme betydning for forbrukerne som en godkjent helsepåstand, fordi de viser samme forhold mellom en næringsmiddelkategori, et næringsmiddel eller en av dets bestanddeler, og helsen, bør de derfor omfattes av de samme bruksvilkårene som er angitt i vedlegg I til denne forordning.Etter en søknad fra GP International Holding B.V., inngitt i samsvar med artikkel 14 nr. 1 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi en uttalelse om en helsepåstand om virkningene av glukosaminhydroklorid og langsommere nedbryting av brusk (spørsmål nr. EFSA-Q-2009-00412).5 Søkerens foreslåtte påstand hadde følgende ordlyd: «Bremser/reduserer nedbrytingen av brusk i muskel- og skjelettsystemet og reduserer dermed risikoen for osteoartritt».I sin uttalelse, som ble mottatt av Kommisjonen og medlemsstatene 29. oktober 2009, konkluderte Myndigheten at det på grunnlag av de opplysningene som ble framlagt, ikke var fastslått noen årsakssammenheng mellom inntak av glukosaminhydroklorid og den påståtte virkningen. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra European Natural Soyfood Manufacturers Association (ENSA), the European Vegetable Protein Federation (EUVEPRO) and the Soya Protein Association (SPA), inngitt i samsvar med artikkel 14 nr. 1 bokstav a) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi en uttalelse om en helsepåstand om virkningene av isolert soyaprotein på senking av konsentrasjonen av LDL-kolesterol i blodet (spørsmål nr. EFSA-Q-2011-00784).6 Søkerens foreslåtte påstand hadde følgende ordlyd: «Den proteinrike delen av soyabønnen har vist seg å senke/redusere kolesterolkonsentrasjonen i blodet, senking av kolesterolkonsentrasjonen i blodet kan redusere risikoen for (koronar) hjertesykdom».I sin uttalelse, som ble mottatt av Kommisjonen og medlemsstatene 2. februar 2012, konkluderte Myndigheten at det på grunnlag av de opplysningene som ble framlagt, ikke var fastslått noen årsakssammenheng mellom inntak av isolert soyaprotein, som definert av søkeren, og den påståtte virkningen. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra Health Concern B.V., inngitt i samsvar med artikkel 14 nr. 1 bokstav a) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi en uttalelse om en helsepåstand om en kombinasjon av fytosteroler og Cholesternorm®mix og senking av konsentrasjonen av LDL-kolesterol i blodet (spørsmål nr. EFSA-Q-2009-00237, EFSA-Q-2011-01114).7. Søkerens foreslåtte påstand hadde følgende ordlyd: «Aktivt kolesterolsenkende».I sin uttalelse, som ble mottatt av Kommisjonen og medlemsstatene 17. juli 2012, konkluderte Myndigheten at det på grunnlag av de opplysningene som ble framlagt, ikke var fastslått noen årsakssammenheng mellom inntak av en kombinasjon av fytosteroler og Cholesternorm®mix og den påståtte virkningen under de foreslåtte bruksvilkårene. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra Minami Nutrition Health BVBA, inngitt i samsvar med artikkel 14 nr. 1 bokstav a) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi en uttalelse om en helsepåstand om virkningene av eikosapentaensyre (EPA) og en reduksjon av forholdet mellom arakidonsyre (AA) og EPA i blodet hos barn med ADHD (Attention Deficit Hyperactivity Disorder) (spørsmål nr. EFSA-Q-2012-00573).8. Søkerens foreslåtte påstand hadde følgende ordlyd: «EPA har vist seg å redusere forholdet mellom AA og EPA i blodet. Et høyt AA/EPA-nivå er en risikofaktor for å utvikle oppmerksomhetsproblemer hos barn med ADHD-lignende symptomer. Disse barna kjennetegnes også ved mindre hyperaktivitet og/eller samtidig opposisjonell atferd».I sin uttalelse, som ble mottatt av Kommisjonen og medlemsstatene 8. april 2013, konkluderte Myndigheten at det på grunnlag av de opplysningene som ble framlagt. at målgruppen for påstanden er en sykdomsrammet befolkningsgruppe (dvs. barn med ADHD) og at den påståtte virkningen vedrører behandling av en sykdom.Forordning [(EF) nr. 1924/2006](eu/32006r1924*) supplerer de alminnelige prinsippene i europaparlaments- og rådsdirektiv [2000/13/EF](eu/32000l0013*) av 20. mars 2000 om tilnærming av medlemsstatenes lovgivning om merking og presentasjon av samt reklamering for næringsmidler.9 I henhold til artikkel 2 nr. 1 bokstav b) i direktiv [2000/13/EF](eu/32000l0013*) skal merkingen ikke tilskrive næringsmiddelet evne til å forebygge, behandle eller helbrede en sykdom hos mennesker eller gi inntrykk av slike egenskaper. Siden det er forbudt å tilskrive næringsmidler medisinske egenskaper, bør påstanden om virkningene av eikosapentaensyre (EPA) og en reduksjon av forholdet mellom arakidonsyre (AA) og EPA i blodet hos barn med ADHD ikke godkjennes.Etter en søknad fra McNeil Nutritionals og Raisio Nutrition Ltd, inngitt i samsvar med artikkel 14 nr. 1 bokstav a) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi en uttalelse om en helsepåstand om inntak av 2 g fytostanoler (som fytostanolestere) daglig som en del av en kost med lavt innhold av mettet fett gir en to ganger så stor senking av konsentrasjonen av LDL-kolesterol i blodet sammenlignet med inntak av en kost med lavt innhold av mettet fett alene (spørsmål nr. EFSA-Q-2012-00915).10 Søkerens foreslåtte påstand hadde følgende ordlyd: «Inntak av 2 g fytostanoler (som fytostanolestere) daglig som en del av en kost med lavt innhold av mettet fett gir en to ganger så stor senking av konsentrasjonen av LDL-kolesterol i blodet sammenlignet med inntak av en kost med lavt innhold av mettet fett alene. En høy kolesterolkonsentrasjon er en risikofaktor for utviklingen av koronar hjertesykdom».I sin uttalelse, som ble mottatt av Kommisjonen og medlemsstatene 8. februar 2013, konkluderte Myndigheten at det på grunnlag av de opplysningene som ble framlagt, ikke var fastslått at inntak av 2 g fytostanoler (som fytostanolestere) daglig som en del av en kost med lavt innhold av mettet fett gir en to ganger så stor senking av konsentrasjonen av LDL-kolesterol i blodet sammenlignet med inntak av en kost med lavt innhold av mettet fett alene. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.De kommentarene som Kommisjonen har mottatt fra søkere og allmennheten i henhold til artikkel 16 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), er tatt i betraktning ved fastsettelse av tiltakene i denne forordning.Tilsetting eller bruk av stoffer i næringsmidler er regulert av særlig EU-regelverk og nasjonal lovgivning, det samme er klassifisering av produkter som næringsmidler eller legemidler. En beslutning om en helsepåstand i henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924*) som for eksempel oppføring på listen over tillatte påstander nevnt i artikkel 14 nr. 1 i nevnte forordning, utgjør verken en tillatelse til å markedsføre det stoffet påstanden gjelder, en beslutning om hvorvidt stoffet kan brukes i næringsmidler, eller en klassifisering av et visst produkt som næringsmiddel.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for næringsmiddelkjeden og dyrehelsen –
 
+1 EUT L 404 av 30.12.2006, s. 9.
+
+2 EFSA Journal (2009) 1180, 1-13.
+
+3 EFSA Journal (2010);8(5):1609.
+
+4 EFSA Journal (2011);9(9):2382.
+
+5 EFSA Journal 2009;7(10):1358.
+
+6 EFSA Journal 2012;10(2):2555.
+
+7 EFSA Journal 2012;10(7):2810.
+
+8 EFSA Journal 2013;11(4):3161.
+
+9 EFT L 109 av 6.5.2000, s. 29.
+
+10 EFSA Journal 2013;11(4):3160.
+
+VEDTATT DENNE FORORDNING:
+
 ### Artikkel 1
 
-1. Næringsmidler på markedet i Den europeiske union kan gjøres til gjenstand for helsepåstandene oppført i vedlegg I til denne forordning i samsvar med vilkårene fastsatt i vedlegget.
+1\. Næringsmidler på markedet i Den europeiske union kan gjøres til gjenstand for helsepåstandene oppført i vedlegg I til denne forordning i samsvar med vilkårene fastsatt i vedlegget.
 
-2. Helsepåstandene omhandlet i nr. 1 skal tas med i Unionens liste over tillatte påstander i samsvar med artikkel 14 nr. 1 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).
+2\. Helsepåstandene omhandlet i nr. 1 skal tas med i Unionens liste over tillatte påstander i samsvar med artikkel 14 nr. 1 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).
 
 ### Artikkel 2
 
@@ -1924,11 +3671,33 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel, 17. november 2014.
 
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  |  |
+|  | Jean-Claude JUNCKER |
+|  |  |
+|  | *President* |
+
 ### Vedlegg I
 Tillatte helsepåstander
 
+| *Søknad – Relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Søker – Adresse* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe* | *Påstand* | *Vilkår for bruk av påstanden* | *Vilkår og/eller begrensninger for bruk av næringsmiddelet og/eller en tilleggsangivelse eller -advarsel* | *EFSA-uttalelse* |
+| --- | --- | --- | --- | --- | --- | --- |
+| Artikkel 14 nr. 1 bokstav a) – helsepåstand om redusert sykdomsrisiko | Abtei Pharma Vertriebs GmbH, Abtei 1, 37696, Marienműnster, Tyskland. | Kalsium | Kalsium bidrar til å redusere tapet av beinmineral hos postmenopausale kvinner. Lav beinmineraltetthet er en risikofaktor for osteoporoserelaterte beinbrudd | Påstanden kan brukes bare om næringsmidler som minst inneholder en dose på 400 mg kalsium per porsjonsenhet.<br>Forbrukeren skal informeres om at påstanden er særlig rettet mot kvinner som er 50 år eller eldre, og at den fordelaktige virkningen oppnås ved et daglig inntak på minst 1 200 mg kalsium fra alle kilder. | For næringsmidler med tilsatt kalsium kan påstanden bare brukes om dem som har kvinner som er 50 år og eldre, som målgruppe | Q-2008-721<br>Q-2009-00940 |
+| Artikkel 14 nr. 1 bokstav a) – helsepåstand om redusert sykdomsrisiko | Abtei Pharma Vertriebs GmbH, Abtei 1, 37696, Marienműnster, Tyskland. | Kalsium og vitamin D | Kalsium og vitamin D bidrar til å redusere tapet av beinmineral hos postmenopausale kvinner. Lav beinmineraltetthet er en risikofaktor for osteoporoserelaterte beinbrudd | Påstanden kan brukes bare om kosttilskudd som minst inneholder 400 mg kalsium og 15 μg vitamin D per daglige dose.<br>Forbrukeren skal informeres om at påstanden er særlig rettet mot kvinner som er 50 år eller eldre, og at den fordelaktige virkningen oppnås ved et daglig inntak på minst 1 200 mg kalsium og 20 μg vitamin D fra alle kilder. | For kosttilskudd med tilsatt kalsium og vitamin D kan påstanden bare brukes for dem som har kvinner som er 50 år og eldre, som målgruppe | Q-2008-721<br>Q-2009-00940 |
+| Artikkel 14 nr. 1 bokstav a) – helsepåstand om redusert sykdomsrisiko | DSM Nutritional Products Europe AG, P.O. Box 2676, 4002 Basel, Sveits. | Vitamin D | Vitamin D bidrar til å reduserer risikoen for å falle, som er forbundet med ustøhet og muskelsvekkelse. Fall er en risikofaktor for beinbrudd blant menn og kvinner som er 60 år eller eldre | Påstanden kan brukes bare om kosttilskudd som minst inneholder 15 μg vitamin D per daglige dose.<br>Forbrukerne skal opplyses om at den gunstige virkningen oppnås ved et daglig inntak på 20 μg vitamin D fra alle kilder. | For kosttilskudd med tilsatt vitamin D kan påstanden bare brukes om dem som har menn og kvinner som er 60 år og eldre, som målgruppe | Q-2010-01233 |
+
 ### Vedlegg II
 Avslåtte helsepåstander
+
+| *Søknad – Relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe* | *Påstand* | *EFSA-uttalelse* |
+| --- | --- | --- | --- |
+| Artikkel 14 nr. 1 bokstav a) – helsepåstand om redusert sykdomsrisiko | Glukosaminhydroklorid | Bremser/reduserer nedbrytingen av brusk i muskel- og skjelettsystemet og reduserer dermed risikoen for osteoartritt. | Q-2009-00412 |
+| Artikkel 14 nr. 1 bokstav a) – helsepåstand om redusert sykdomsrisiko | Isolert soyaprotein | Den proteinrike delen av soyabønnen har vist seg å senke/redusere kolesterolkonsentrasjonen i blodet, senking av kolesterolkonsentrasjonen i blodet kan redusere risikoen for (koronar) hjertesykdom. | Q-2011-00784 |
+| Artikkel 14 nr. 1 bokstav a) – helsepåstand om redusert sykdomsrisiko | Fytosteroler i kombinasjon med Cholesternorm®mix | Aktivt kolesterolsenkende. | Q-2009-00237<br>Q-2011-01114 |
+| Artikkel 14 nr. 1 bokstav a) – helsepåstand om redusert sykdomsrisiko | Eikosapentaensyre (EPA) | EPA har vist seg å redusere forholdet mellom AA og EPA i blodet. Et høyt AA/EPA-nivå er en risikofaktor for å utvikle oppmerksomhetsproblemer hos barn med ADHD-lignende symptomer. Disse barna kjennetegnes også ved mindre hyperaktivitet og/eller samtidig opposisjonell atferd. | Q-2012-00573 |
+| Artikkel 14 nr. 1 bokstav a) – helsepåstand om redusert sykdomsrisiko | Fytostanoler (som fytostanolestere) | Inntak av 2 g fytostanoler (som fytostanolestere) daglig som en del av en kost med lavt innhold av mettet fett gir en to ganger så stor senking av konsentrasjonen av LDL-kolesterol i blodet sammenlignet med inntak av en kost med lavt innhold av mettet fett alene. En høy kolesterolkonsentrasjon er en risikofaktor for utvikling av koronar hjertesykdom. | Q-2012-00915 |
 
 ### Forordning (EU) nr. 1229/2014
 
@@ -1940,11 +3709,31 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 1229
 av 17. november 2014
 om avslag på godkjenning av visse andre helsepåstander om næringsmidler enn dem som viser til redusert sykdomsrisiko og barns utvikling og helse
 
+EUROPAKOMMISJONEN HAR –
+
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler,1 særlig artikkel 18 nr. 5, og
 
 ut fra følgende betraktninger:I henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924*) er helsepåstander om næringsmidler forbudt med mindre de er godkjent av Kommisjonen i samsvar med nevnte forordning og oppført på en liste over tillatte påstander.Ved forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det også fastsatt at driftsansvarlige for næringsmiddelforetak kan inngi søknader om godkjenning av helsepåstander til vedkommende nasjonale myndighet i en medlemsstat. Vedkommende nasjonale myndighet skal videresende gyldige søknader til Den europeiske myndighet for næringsmiddelsikkerhet (EFSA), heretter kalt «Myndigheten», for vitenskapelig vurdering samt til Kommisjonen og medlemsstatene til orientering.Myndigheten skal avgi en uttalelse om den aktuelle helsepåstanden.Kommisjonen skal ta hensyn til uttalelsen fra Myndigheten når den treffer beslutning om godkjenning av helsepåstander.Etter en søknad fra Italsur S.r.l., inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi en uttalelse om en helsepåstand om virkningene av en kombinasjon av svartkål, «trefarget» mangold, «tofarget» spinat og savoykål og beskyttelse av fettstoffer i blodet mot oksidativ skade (spørsmål nr. EFSA-Q-2013-00574).2 Søkerens foreslåtte påstand hadde følgende ordlyd: «Bidrar til å beskytte fettstoffer i blodet mot oksidativ skade».Kommisjonen og medlemsstatene mottok 30. oktober 2013 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte dataene ikke kunne påvises noen årsakssammenheng mellom inntak av en kombinasjon av svartkål, «trefarget» mangold, «tofarget» spinat og savoykål og den påståtte virkningen. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra Italsur S.r.l., inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi en uttalelse om en helsepåstand om virkningene av en kombinasjon av rød spinat, grønn spinat, rød sikori, grønn sikori, grønn bladbete, rød bladbete, rød mangold, gul mangold og hvit mangold og beskyttelse av fettstoffer i blodet mot oksidativ skade (spørsmål nr. EFSA-Q-2013-00575).3 Søkerens foreslåtte påstand hadde følgende ordlyd: «Bidrar til å beskytte fettstoffer i blodet mot oksidativ skade».Kommisjonen og medlemsstatene mottok 30. oktober 2013 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte dataene ikke kunne påvises noen årsakssammenheng mellom inntak av en kombinasjon av rød spinat, grønn spinat, rød sikori, grønn sikori, grønn bladbete, rød bladbete, rød mangold, gul mangold og hvit mangold og den påståtte virkningen. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra Italsur S.r.l., inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi en uttalelse om en helsepåstand om virkningene av en kombinasjon av svartkål, «trefarget» mangold, «tofarget» spinat og savoykål og opprettholdelse av en normal konsentrasjon av LDL-kolesterol i blodet (spørsmål nr. EFSA-Q-2013-00576).4 Søkerens foreslåtte påstand hadde følgende ordlyd: «Opprettholder normal kolesterolkonsentrasjon i blodet».Kommisjonen og medlemsstatene mottok 30. oktober 2013 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte dataene ikke kunne påvises noen årsakssammenheng mellom inntak av en kombinasjon av svartkål, «trefarget» mangold, «tofarget» spinat og savoykål og den påståtte virkningen. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra Italsur S.r.l., inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi en uttalelse om en helsepåstand om virkningene av en kombinasjon av rød spinat, grønn spinat, rød sikori, grønn sikori, grønn bladbete, rød bladbete, rød mangold, gul mangold og hvit mangold og opprettholdelse av en normal konsentrasjon av LDL-kolesterol i blodet (spørsmål nr. EFSA-Q-2013-00579).5 Søkerens foreslåtte påstand hadde følgende ordlyd: «Opprettholder normale kolesterolkonsentrasjoner i blodet».Kommisjonen og medlemsstatene mottok 30. oktober 2013 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte dataene ikke kunne påvises noen årsakssammenheng mellom inntak av en kombinasjon av rød spinat, grønn spinat, rød sikori, grønn sikori, grønn bladbete, rød bladbete, rød mangold, gul mangold og hvit mangold og den påståtte virkningen. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra Omikron Italia S.r.l., inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi en uttalelse om en helsepåstand om virkningene av en kombinasjon av diosmin, trokserutin og hesperidin og opprettholdelse av normal venøs-kappilær permeabilitet (spørsmål nr. EFSA-Q-2013-00353).6 Søkerens foreslåtte påstand hadde følgende ordlyd: «En flavenoidblanding som inneholder 300 mg diosmin, 300 mg trokserutin og 100 mg hesperidin er et nyttig hjelpestoff til opprettholdelse av fysiologisk venøs-kappilær permeabilitet».Kommisjonen og medlemsstatene mottok 13. januar 2014 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte dataene ikke kunne påvises noen årsakssammenheng mellom inntak av en kombinasjon av diosmin, trokserutin and hesperidin og den påståtte virkningen. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra Omikron Italia S.r.l., inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi en uttalelse om en helsepåstand om virkningene av en kombinasjon av diosmin, trokserutin og hesperidin og opprettholdelse av fysiologisk venetonus (spørsmål nr. EFSA-Q-2013-00354).7 Søkerens foreslåtte påstand hadde følgende ordlyd: «En flavenoidblanding som inneholder 300 mg diosmin, 300 mg trokserutin og 100 mg hesperidin er et nyttig hjelpestoff til opprettholdelse av fysiologisk venetonus».Kommisjonen og medlemsstatene mottok 13. januar 2014 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte dataene ikke kunne påvises noen årsakssammenheng mellom inntak av en kombinasjon av diosmin, trokserutin and hesperidin og den påståtte virkningen. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra Italsur S.r.l., inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi en uttalelse om en helsepåstand om virkningene av byggsuppen «Orzotto» og beskyttelse av fettstoffer i blodet mot oksidativ skade (spørsmål nr. EFSA-Q-2013-00578).8 Søkerens foreslåtte påstand hadde følgende ordlyd: «Bidrar til å beskytte fettstoffer i blodet mot oksidativ skade».Kommisjonen og medlemsstatene mottok 10. januar 2014 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte opplysningene ikke kunne påvises noen årsakssammenheng mellom inntak av byggsuppen «Orzotto» og den påståtte virkningen. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for næringsmiddelkjeden og dyrehelsen –
+
+1 EUT L 404 av 30.12.2006, s. 9.
+
+2 EFSA Journal (2013) 11(10):3413.
+
+3 EFSA Journal (2013) 11(10):3414.
+
+4 EFSA Journal (2013) 11(10):3415.
+
+5 EFSA Journal (2013) 11(10):3416.
+
+6 EFSA Journal (2014) 12(1):3511.
+
+7 EFSA Journal 2014, 12(1):3512.
+
+8 EFSA Journal 2014, 12(1):3519.
+
+VEDTATT DENNE FORORDNING:
 
 ### Artikkel 1
 
@@ -1958,8 +3747,26 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel, 17. november 2014.
 
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  |  |
+|  | Jean-Claude JUNCKER |
+|  |  |
+|  | *President* |
+
 ### Vedlegg
 Avslåtte helsepåstander
+
+| *Søknad – Relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe* | *Påstand* | *EFSA-uttalelse* |
+| --- | --- | --- | --- |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data underlagt eiendomsrett | En kombinasjon av svartkål, «trefarget» mangold, «tofarget» spinat og savoykål | Bidrar til å beskytte fettstoffer i blodet mot oksidativ skade | Q-2013-00574 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data underlagt eiendomsrett | En kombinasjon av rød spinat, grønn spinat, rød sikori, grønn sikori, grønn bladbete, rød bladbete, rød mangold, gul mangold og hvit mangold | Bidrar til å beskytte fettstoffer i blodet mot oksidativ skade | Q-2013-00575 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data underlagt eiendomsrett | En kombinasjon av svartkål, «trefarget» mangold, «tofarget» spinat og savoykål | Opprettholder normal kolesterolkonsentrasjon i blodet | Q-2013-00576 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data underlagt eiendomsrett | En kombinasjon av rød spinat, grønn spinat, rød sikori, grønn sikori, grønn bladbete, rød bladbete, rød mangold, gul mangold og hvit mangold | Opprettholder normale kolesterolkonsentrasjoner i blodet | Q-2013-00579 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data underlagt eiendomsrett | En kombinasjon av diosmin, trokserutin og hesperidin | En flavenoidblanding som inneholder 300 mg diosmin, 300 mg trokserutin og 100 mg hesperidin er et nyttig hjelpestoff til opprettholdelse av fysiologisk venøs-kappilær permeabilitet | Q-2013-00353 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data underlagt eiendomsrett | En kombinasjon av diosmin, trokserutin og hesperidin | En flavenoidblanding som inneholder 300 mg diosmin, 300 mg trokserutin og 100 mg hesperidin er et nyttig hjelpestoff til opprettholdelse av fysiologisk venetonus | Q-2013-00354 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data underlagt eiendomsrett | Byggsuppen «Orzotto» | Bidrar til å beskytte fettstoffer i blodet mot oksidativ skade | Q-2013-00578 |
 
 ### Forordning (EU) 2015/391
 
@@ -1971,17 +3778,29 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2015/391
 av 9. mars 2015
 om avslag på godkjenning av visse helsepåstander om næringsmidler som viser til barns utvikling og helse
 
+EUROPAKOMMISJONEN HAR –
+
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler,1 særlig artikkel 17 nr. 3, og
 
 ut fra følgende betraktninger:I henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924*) er helsepåstander om næringsmidler forbudt med mindre de er godkjent av Kommisjonen i samsvar med nevnte forordning og oppført på en liste over tillatte påstander.Ved forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det også fastsatt at driftsansvarlige for næringsmiddelforetak kan inngi søknader om godkjenning av helsepåstander til vedkommende nasjonale myndighet i en medlemsstat. Vedkommende nasjonale myndighet skal videresende gyldige søknader til Den europeiske myndighet for næringsmiddeltrygghet (EFSA), heretter kalt «Myndigheten».Etter at søknaden er mottatt, skal Myndigheten straks underrette de øvrige medlemsstatene og Kommisjonen og avgi uttalelse om den aktuelle helsepåstanden.Kommisjonen skal ta hensyn til Myndighetens uttalelse når den treffer beslutning om godkjenning av helsepåstander.Etter en søknad fra Specialised Nutrition Europe (tidligere European Dietetic Food Industry Association), inngitt i henhold til artikkel 14 nr. 1 bokstav b) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi en uttalelse om en helsepåstand om virkningene av beta-palmitat og bidrag til mykere avføring (spørsmål nr. EFSA-Q-2008-1742 ). Søkerens foreslåtte påstand hadde blant annet følgende ordlyd: «Tilskudd av beta-palmitat bidrar til mykere avføring som igjen kan gi økt avføringshyppighet».I sin uttalelse, som ble mottatt av Kommisjonen og medlemsstatene 21. februar 2014, konkluderte Myndigheten at det på grunnlag av de opplysningene som ble framlagt, ikke er fastslått noen årsakssammenheng mellom inntak av beta-palmitat og mykere avføring. Ettersom påstanden dermed ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra Specialised Nutrition Europe, inngitt i samsvar med artikkel 14 nr. 1 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om virkningene av kolin og «utvikling av hjernen» (spørsmål nr. EFSA-Q-2008-1343 ). Søkerens foreslåtte påstand hadde blant annet følgende ordlyd: «Kolin er nødvendig for utviklingen av hjernen hos spedbarn og småbarn fra fødselen til treårsalderen».I sin uttalelse, som ble mottatt av Kommisjonen og medlemsstatene 5. mai 2014, konkluderte Myndigheten at den påståtte virkningen, «utvikling av hjernen» hos spedbarn og småbarn fra fødselen til treårsalderen med hensyn til kolin i kosten ikke var tilstrekkelig definert for en vitenskapelig vurdering. Myndigheten vurderte særlig at det på grunnlag av henvisningene framlagt av søkeren ikke er mulig å fastslå den fysiologiske funksjonen i nervesystemet som helsepåstanden gjelder, og at den påståtte virkningen derfor er generell og uspesifikk. Ettersom påstanden dermed ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra Specialised Nutrition Europe, inngitt i samsvar med artikkel 14 nr. 1 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om «sammensatte karbohydrater» og «bidrag til metthetsfølelsen» (spørsmål nr. EFSA-Q-2008-1314 ). Søkerens foreslåtte påstand hadde blant annet følgende ordlyd: «Sammensatte karbohydrater bidrar til metthetsfølelsen».I sin uttalelse, som ble mottatt av Kommisjonen og medlemsstatene 5. mai 2014, konkluderte Myndigheten at det på grunnlag av de opplysningene som ble framlagt, ikke er fastslått noen årsakssammenheng mellom inntak av «sammensatte karbohydrater» og en gunstig fysiologisk virkning for spedbarn og småbarn (fra fødselen til treårsalderen). Ifølge Myndigheten har søkeren ikke dokumentert at økt metthetsfølelse er en gunstig fysiologisk virkning for spedbarn og småbarn. Ettersom påstanden dermed ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.I samsvar med artikkel 28 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) kan helsepåstander som er omhandlet i forordningens artikkel 14 nr. 1 bokstav b) og ikke er godkjent ved en beslutning i henhold til forordningens artikkel 17 nr. 3, fortsatt brukes i seks måneder etter at en slik beslutning er truffet, forutsatt at søknaden om godkjenning ble inngitt før 19. januar 2008. Ettersom helsepåstandene oppført i vedlegget til denne forordning oppfyller vilkårene fastsatt ovenfor, bør overgangsperioden fastsatt i nevnte artikkel, få anvendelse.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr –
 
+1 EUT L 404 av 30.12.2006, s. 9.
+
+2 *EFSA Journal* 2014;12(2):3578.
+
+3 *EFSA Journal* 2014;12(5):3651.
+
+4 *EFSA Journal* 2014;12(5):3652.
+
+VEDTATT DENNE FORORDNING:
+
 ### Artikkel 1
 
-1. Helsepåstandene oppført i vedlegget til denne forordning skal ikke tas med i Unionens liste over tillatte påstander, som fastsatt i artikkel 14 nr. 1 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).
+1\. Helsepåstandene oppført i vedlegget til denne forordning skal ikke tas med i Unionens liste over tillatte påstander, som fastsatt i artikkel 14 nr. 1 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).
 
-2. Helsepåstander nevnt i nr. 1 som var i bruk før ikrafttredelsen av denne forordning, kan imidlertid fortsatt brukes i seks måneder etter ikrafttredelsen av denne forordning.
+2\. Helsepåstander nevnt i nr. 1 som var i bruk før ikrafttredelsen av denne forordning, kan imidlertid fortsatt brukes i seks måneder etter ikrafttredelsen av denne forordning.
 
 ### Artikkel 2
 
@@ -1991,8 +3810,20 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel, 9. mars 2015.
 
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  | Jean-Claude JUNCKER |
+|  | *President* |
+
 ### Vedlegg
 Avslåtte helsepåstander
+
+| *Søknad – Relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe* | *Påstand* | *EFSA-uttalelse* |
+| --- | --- | --- | --- |
+| Artikkel 14 nr. 1 bokstav b) – helsepåstand om barns utvikling og helse | Beta-palmitat | Tilskudd av beta-palmitat bidrar til mykere avføring som igjen kan gi økt avføringshyppighet | Q-2008-174 |
+| Artikkel 14 nr. 1 bokstav b) – helsepåstand om barns utvikling og helse | Kolin | Kolin er nødvendig for utviklingen av hjernen hos spedbarn og småbarn fra fødselen til treårsalderen | Q-2008-134 |
+| Artikkel 14 nr. 1 bokstav b) – helsepåstand om barns utvikling og helse | Sammensatte karbohydrater | Sammensatte karbohydrater bidrar til metthetsfølelsen | Q-2008-131 |
 
 ### Forordning (EU) 2015/402
 
@@ -2004,11 +3835,23 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2015/402
 av 11. mars 2015
 om avslag på godkjenning av visse andre helsepåstander om næringsmidler enn dem som viser til redusert sykdomsrisiko og barns utvikling og helse
 
+EUROPAKOMMISJONEN HAR –
+
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler,1 særlig artikkel 18 nr. 5, og
 
 ut fra følgende betraktninger:I henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924*) er helsepåstander om næringsmidler forbudt med mindre de er godkjent av Kommisjonen i samsvar med nevnte forordning og oppført på en liste over tillatte påstander.Ved forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det også fastsatt at driftsansvarlige for næringsmiddelforetak kan inngi søknader om godkjenning av helsepåstander til vedkommende nasjonale myndighet i en medlemsstat. Vedkommende nasjonale myndighet skal videresende gyldige søknader til Den europeiske myndighet for næringsmiddeltrygghet (EFSA), heretter kalt «Myndigheten», for vitenskapelig vurdering og til Kommisjonen og medlemsstatene til orientering.Myndigheten skal avgi uttalelse om den aktuelle helsepåstanden.Kommisjonen skal ta hensyn til Myndighetens uttalelse når den treffer beslutning om godkjenning av helsepåstander.Etter en søknad fra ICP Ltd, inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om virkningen av *Padina pavonica*-ekstrakt i Dictyolone® og økt beinmineraltetthet (spørsmål nr. EFSA-Q-2013–00249).2 Søkerens foreslåtte påstand hadde følgende ordlyd: «Forbedrer beinmineraltettheten ved å påvirke kalsiumreguleringen og ved fysiologisk gjenoppbygging av proteinholdige bein, særlig i forbindelse med aldersbetinget beintap hos normalt friske personer».Kommisjonen og medlemsstatene mottok 10. januar 2014 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte dataene ikke kunne påvises noen årsakssammenheng mellom konsum av *Padina pavonica*-ekstrakt i Dictyolone® og den påståtte virkningen. Ettersom påstanden dermed ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra Omikron Italia S.r.l., inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi en uttalelse om en helsepåstand om virkningene av cytidin-5'-difosfokolin (CDP-kolin eller citikolin) og opprettholdelse av normalt syn (spørsmål nr. EFSA-Q-2013–00757).3 Søkerens foreslåtte påstand hadde følgende ordlyd: «En oral løsning av CDP-kolin som kolinkilde bidrar til å opprettholde den oftalmologiske nervestrukturens normale funksjon».Kommisjonen og medlemsstatene mottok 21. februar 2014 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte dataene ikke kunne påvises noen årsakssammenheng mellom konsum av cytidin-5'-difosfokolin og den påståtte virkningen. Ettersom påstanden dermed ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra Hassia Mineralquellen GmbH & Co KG, inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om virkningene av Rosbacher drive® og økt oppmerksomhet (spørsmål nr. EFSA-Q-2013–00444).4 Søkerens foreslåtte påstand hadde blant annet følgende ordlyd: «Hjelper/støtter/opprettholder konsentrasjonsevnen».Kommisjonen og medlemsstatene mottok 24. februar 2014 den vitenskapelige uttalelsen fra Myndigheten, der den konkluderte med at det på grunnlag av de framlagte opplysningene ikke kunne påvises noen årsakssammenheng mellom inntak av Rosbacher drive® og den påståtte virkningen. Ettersom påstanden dermed ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.De merknadene som Kommisjonen har mottatt fra søkerne og allmennheten i samsvar med artikkel 16 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), er tatt i betraktning ved fastsettelse av tiltakene i denne forordning.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr –
+
+1 EUT L 404 av 30.12.2006, s. 9.
+
+2 *EFSA Journal* 2014;12(1):3518.
+
+3 *EFSA Journal* 2014;12(2):3575.
+
+4 *EFSA Journal* 2014;12(2):3576.
+
+VEDTATT DENNE FORORDNING:
 
 ### Artikkel 1
 
@@ -2022,8 +3865,20 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel, 11. mars 2015.
 
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  | Jean-Claude JUNCKER |
+|  | *President* |
+
 ### VEDLEGG
 Avslåtte helsepåstander
+
+| *Søknad – Relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe* | *Påstand* | *EFSA-uttalelse* |
+| --- | --- | --- | --- |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data underlagt eiendomsrett | *Padina pavonica*-ekstrakt i Dictyolone® | Forbedrer beinmineraltettheten ved å påvirke kalsiumreguleringen og ved fysiologisk gjenoppbygging av proteinholdige bein, særlig i forbindelse med aldersbetinget beintap hos normalt friske personer | Q-2013–00249 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data underlagt eiendomsrett | Cytidin-5'-difosfokolin (CDP-kolin eller citikolin) | En oral løsning av CDP-kolin som kolinkilde bidrar til å opprettholde den oftalmologiske nervestrukturens normale funksjon | Q-2013–00757 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data underlagt eiendomsrett | Rosbacher drive® | Hjelper/støtter/opprettholder konsentrasjonsevnen | Q-2013–00444 |
 
 ### Forordning (EU) 2015/539
 
@@ -2035,17 +3890,31 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2015/539
 av 31. mars 2015
 om godkjenning av en annen helsepåstand om næringsmidler enn dem som viser til redusert sykdomsrisiko og barns utvikling og helse, og om endring av forordning [(EU) nr. 432/2012](eu/32012r0432)
 
+EUROPAKOMMISJONEN HAR –
+
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler,1 særlig artikkel 18 nr. 4 og artikkel 19, og
 
 ut fra følgende betraktninger:I henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924*) er helsepåstander om næringsmidler forbudt med mindre de er godkjent av Kommisjonen i samsvar med nevnte forordning og oppført på en liste over tillatte påstander.I henhold til artikkel 13 nr. 3 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) ble kommisjonsforordning [(EU) nr. 432/2012](eu/32012r0432)2 vedtatt, der det opprettes en liste over andre tillatte helsepåstander om næringsmidler enn dem som viser til redusert sykdomsrisiko og barns utvikling og helse.Forordning [(EF) nr. 1924/2006](eu/32006r1924*) fastsetter at driftsansvarlige for næringsmiddelforetak skal inngi søknader om godkjenning av helsepåstander til vedkommende nasjonale myndighet i en medlemsstat. Vedkommende nasjonale myndighet skal videresende gyldige søknader til Den europeiske myndighet for næringsmiddeltrygghet (EFSA), heretter kalt «Myndigheten», for vitenskapelig vurdering og til Kommisjonen og medlemsstatene til orientering.Kommisjonen skal avgjøre om helsepåstandene skal godkjennes, idet det tas hensyn til Myndighetens uttalelse.Med henblikk på å oppmuntre til nyskaping skal de helsepåstandene som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data underlagt eiendomsrett, gjennomgå en framskyndet framgangsmåte for godkjenning.Etter en søknad fra Barry Callebaut Belgium NV, inngitt i henhold til artikkel 19 nr. 1 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) og som inneholdt en anmodning om sikring av data underlagt eiendomsrett, ble Myndigheten bedt om å avgi uttalelse om endring av godkjenningen av helsepåstanden «kakaoflavanoler bidrar til å holde blodkarene elastiske, noe som bidrar til normal blodgjennomstrømning». Helsepåstanden ble godkjent, i henhold til artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ved kommisjonsforordning [(EU) nr. 851/2013](eu/32013r0851).3 Søkeren anmodet om en utvidelse av de godkjente bruksvilkårene for påstanden til å omfatte et kakaoekstrakt med et høyt innhold av flavanoler for inntak i kapsel- eller tablettform, eller «tilsatt andre næringsmidler, herunder drikker».Kommisjonen og medlemsstatene mottok 5. mai 2014 den vitenskapelige uttalelsen fra Myndigheten (Spørsmål nr. EFSA-Q-2013-00832)4 som konkluderte med at det på grunnlag av de framlagte dataene var påvist en årsakssammenheng mellom konsum av kakaoflavanoler i kakaoekstrakt med et høyt innhold av flavanoler (dvs. i kapsel- eller tablettform) og den påståtte virkningen.Myndigheten påpekte i sin uttalelse at den ikke kunne ha trukket konklusjonene uten å ta i betraktning én undersøkelse av menneskelig inngripen som søkeren hevdet eiendomsrett til.5Alle dokumentasjonsopplysninger som søkeren har framlagt, er vurdert av Kommisjonen, og det anses at kravene fastsatt i artikkel 21 nr. 1 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) er oppfylt for undersøkelsen som det hevdes eiendomsrett til. Vitenskapelige data og andre opplysninger som er tatt med i nevnte undersøkelse, kan derfor ikke brukes til fordel for en etterfølgende søker i et tidsrom på fem år fra ikrafttredelsesdatoen for denne forordning, på vilkårene fastsatt i artikkel 21 nr. 1 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).Ett av målene med forordning [(EF) nr. 1924/2006](eu/32006r1924*) er å sikre at helsepåstander er sannferdige, tydelige, pålitelige og nyttige for forbrukeren, og at det i den forbindelse tas hensyn til formuleringen og presentasjonen av dem. Dersom ordlyden i påstander som søkeren bruker, har samme betydning for forbrukerne som ordlyden i en godkjent helsepåstand, fordi de viser til samme forhold mellom en næringsmiddelkategori, et næringsmiddel eller en av dets bestanddeler og helse, bør de derfor omfattes av samme bruksvilkår som de som er angitt i vedlegget til denne forordning.Registeret over ernærings- og helsepåstander som inneholder alle tillatte helsepåstander, bør i samsvar med artikkel 20 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) ajourføres for å ta hensyn til denne forordning.Siden søkeren krever beskyttelse av eiendomsrettsbelagte data, anses det som hensiktsmessig å begrense bruken av denne påstanden til fordel for søkeren i et tidsrom på fem år. At tillatelsen til å bruke denne påstanden er begrenset til én enkelt aktør, er imidlertid ikke til hinder for at andre søkere søker om tillatelse til å bruke samme påstand dersom det søkes på grunnlag av andre data og undersøkelser enn dem som er beskyttet i henhold til artikkel 21 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).De kommentarene som Kommisjonen har mottatt fra søkeren i samsvar med artikkel 16 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), er tatt i betraktning ved fastsettelsen av tiltakene i denne forordning.Forordning [(EU) nr. 432/2012](eu/32012r0432) bør derfor endres.Medlemsstatene er blitt rådspurt –
 
+1 EUT L 404 av 30.12.2006, s. 9.
+
+2 Kommisjonsforordning [(EU) nr. 432/2012](eu/32012r0432) av 16. mai 2012 om fastsettelse av en liste over andre tillatte helsepåstander om næringsmidler enn dem som viser til redusert sykdomsrisiko eller barns utvikling og helse (EUT L 136 av 25.5.2012, s. 1).
+
+3 Kommisjonsforordning [(EU) nr. 851/2013](eu/32013r0851) av 3. september 2013 om godkjenning av visse andre helsepåstander om næringsmidler enn dem som viser til redusert sykdomsrisiko og barns utvikling og helse, og om endring av forordning [(EU) nr. 432/2012](eu/32012r0432) (EUT L 235 av 4.9.2013, s. 3).
+
+4 EFSA Journal 2014; 12(5):3654.
+
+5 ProDigest, 2012. Pharmacokinetic study to assess the bioavailability of the cocoa flavanol epicatechin from different matrices.
+
+VEDTATT DENNE FORORDNING:
+
 ### Artikkel 1
 
-1. Helsepåstanden angitt i vedlegget til denne forordning skal oppføres på EU-listen over tillatte påstander fastsatt i artikkel 13 nr. 3 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).
+1\. Helsepåstanden angitt i vedlegget til denne forordning skal oppføres på EU-listen over tillatte påstander fastsatt i artikkel 13 nr. 3 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).
 
-2. Bruken av helsepåstanden nevnt i nr. 1 er begrenset til søkeren i et tidsrom på fem år etter ikrafttredelsesdatoen for denne forordning. Etter utløpet av dette tidsrommet kan denne helsepåstanden i samsvar med vilkårene som gjelder for den, benyttes av en hvilken som helst driftsansvarlig for næringsmiddelforetak.
+2\. Bruken av helsepåstanden nevnt i nr. 1 er begrenset til søkeren i et tidsrom på fem år etter ikrafttredelsesdatoen for denne forordning. Etter utløpet av dette tidsrommet kan denne helsepåstanden i samsvar med vilkårene som gjelder for den, benyttes av en hvilken som helst driftsansvarlig for næringsmiddelforetak.
 
 ### Artikkel 2
 
@@ -2063,7 +3932,23 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel, 31. mars 2015.
 
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  | Jean-Claude JUNCKER |
+|  | *President* |
+
 ### VEDLEGG
+
+Posten for kakaoflavanoler i vedlegget til forordning [(EU) nr. 432/2012](eu/32012r0432) skal lyde:
+
+| *Nærings-<br>stoff, stoff, nærings-<br>middel eller nærings-<br>middel-<br>kategori* | *Påstand* | *Vilkår for bruk av<br>påstanden* | *Vilkår og/eller begrens-<br>ninger for bruk av nærings-<br>middelet og/eller en tilleggs-<br>erklæring eller -advarsel* | *EFSA Journal-<br>nummer* | *Registrerings-<br>nummer på den konsoliderte listen innsendt til EFSA for vurdering* |
+| --- | --- | --- | --- | --- | --- |
+| Kakao-flavanoler | Kakaoflavanoler bidrar til å vedlikeholde blodkarenes elastisitet, noe som bidrar til normal blodgjennomstrømning\*\*\*\*\*<br>\*\*\*\*\*\* | Forbrukerne skal opplyses om at den gunstige virkningen oppnås ved et daglig inntak på 200 mg kakaoflavanoler.<br>Påstanden kan brukes bare for kakaodrikker (med kakaopulver) eller for mørk sjokolade som gir et daglig inntak på minst 200 mg kakaoflavanoler med en polymeriseringsgrad på 1–10\*\*\*\*\*<br>Påstanden kan brukes bare for kapsler eller tabletter som inneholder kakaoekstrakt med et høyt innhold av flavanoler som gir et daglig inntak på minst 200 mg kakaoflavanoler med en polymeriseringsgrad på 1–10\*\*\*\*\* | – | 2012;10(7):2809\*\*\*\*\*<br>2014;12(5):3654\*\*\*\*\*\* | – |
+
+\*\*\*\*\* Godkjent 24.9.2013 – begrenset til bruk for Barry Callebaut Belgium NV, Aalstersestraat 122, B-9280 Lebbeke-Wieze, Belgia, i et tidsrom på fem år.
+
+\*\*\*\*\*\* Godkjent 21.4 2015 – begrenset til bruk for Barry Callebaut Belgium NV, Aalstersestraat 122, B-9280 Lebbeke-Wieze, Belgia, i et tidsrom på fem år.
 
 ### Forordning (EU) 2015/7
 
@@ -2073,11 +3958,21 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2015/7](
 av 6. januar 2015
 om godkjenning av en annen helsepåstand om næringsmidler enn dem som viser til redusert sykdomsrisiko og barns utvikling og helse, og om endring av forordning [(EU) nr. 432/2012](eu/32012r0432)
 
+EUROPAKOMMISJONEN HAR –
+
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler,1 særlig artikkel 18 nr. 4, og
 
 ut fra følgende betraktningerI henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924*) er helsepåstander om næringsmidler forbudt med mindre de er godkjent av Kommisjonen i samsvar med nevnte forordning og oppført på en liste over tillatte påstander.Kommisjonen har i henhold til artikkel 13 nr. 3 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) vedtatt forordning [(EU) nr. 432/2012](eu/32012r0432),2 der det opprettes en liste over andre tillatte helsepåstander om næringsmidler enn dem som viser til redusert sykdomsrisiko eller barns utvikling og helse.Det er i forordning [(EF) nr. 1924/2006](eu/32006r1924*) også fastsatt at driftsansvarlige for næringsmiddelforetak kan inngi søknader om godkjenning av helsepåstander til den nasjonale vedkommende myndighet i en medlemsstat. Vedkommende nasjonale myndighet skal videresende gyldige søknader til Den europeiske myndighet for næringsmiddelsikkerhet (EFSA), heretter kalt «Myndigheten», for vitenskapelig vurdering samt til Kommisjonen og medlemsstatene til orientering.Kommisjonen skal ta hensyn til uttalelsen fra Myndigheten når den treffer beslutning om godkjenning av helsepåstander.Med henblikk på å oppmuntre til nyskaping bør de helsepåstandene som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data underlagt eiendomsrett, gjennomgå en framskyndet framgangsmåte for godkjenning.Etter en søknad fra Aptonia, inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om virkningene av glykemiske karbohydrater og gjenoppbygging av normal muskelfunksjon (sammentrekning) etter hard trening (spørsmål nr. EFSA-Q-2013–00234).3 Søkerens foreslåtte påstand hadde følgende ordlyd: «Glykemiske karbohydrater øker gjenoppbyggingen av glykogenlagrene i musklene etter hard trening».Kommisjonen og medlemsstatene mottok 25. oktober 2013 den vitenskapelige uttalelsen fra Myndigheten som konkluderte med at det på grunnlag av de framlagte dataene var påvist en årsakssammenheng mellom konsum av glykemiske karbohydrater og den påståtte virkningen. En helsepåstand som gjenspeiler denne konklusjonen, bør følgelig anses å oppfylle kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*) og bør oppføres på EU-listen over tillatte påstander fastsatt ved forordning [(EU) nr. 432/2012](eu/32012r0432).Ett av målene for forordning [(EF) nr. 1924/2006](eu/32006r1924*) er å sikre at helsepåstander er sannferdige, tydelige, pålitelige og nyttige for forbrukeren, og at det i den forbindelse tas hensyn til formuleringen og presentasjonen av dem. Dersom ordlyden i påstander som søkeren bruker, har samme betydning for forbrukerne som ordlyden i en godkjent helsepåstand, fordi de viser til samme forhold mellom en næringsmiddelkategori, et næringsmiddel eller en av dets bestanddeler og helse, bør de derfor omfattes av samme bruksvilkår som de som er angitt i vedlegget til denne forordning.Registeret over ernærings- og helsepåstander som inneholder alle tillatte helsepåstander, bør i samsvar med artikkel 20 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) ajourføres for å ta hensyn til denne forordning.De kommentarene som Kommisjonen har mottatt fra søkeren og allmennheten i henhold til artikkel 16 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), er tatt i betraktning ved fastsettelse av tiltakene i denne forordning.Forordning [(EU) nr. 432/2012](eu/32012r0432) bør derfor endres.Medlemsstatene er blitt rådspurt –
+
+1 EUT L 404 av 30.12.2006, s. 9.
+
+2 Kommisjonsforordning [(EU) nr. 432/2012](eu/32012r0432) av 16. mai 2012 om fastsettelse av en liste over tillatte helsepåstander om næringsmidler som ikke viser til redusert sykdomsrisiko eller barns utvikling og helse (EUT L 136 av 25.5.2012, s. 1).
+
+3 EFSA Journal (2013) 11(10):3409.
+
+VEDTATT DENNE FORORDNING:
 
 ### Artikkel 1
 
@@ -2095,7 +3990,19 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel, 6. januar 2015.
 
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  | Jean-Claude JUNCKER |
+|  | *President* |
+
 ### Vedlegg
+
+I vedlegget til forordning [(EU) nr. 432/2012](eu/32012r0432) innsettes følgende post i alfabetisk rekkefølge:
+
+| *Nærings-<br>stoff, stoff, nærings-<br>middel eller nærings-<br>middel-<br>kategori* | *Påstand* | *Vilkår for bruk av<br>påstanden* | *Vilkår og/eller begrens-<br>ninger for bruk av nærings-<br>middelet og/eller en tilleggs-<br>erklæring eller -advarsel* | *EFSA Journal-<br>nummer* | *Registrerings-<br>nummer på den konsoliderte listen innsendt til EFSA for vurdering* |
+| --- | --- | --- | --- | --- | --- |
+| Karbohydrater | Karbohydrater bidrar til gjenoppbygging av normal muskelfunksjon (sammentrekning) etter høyintensiv og/eller langvarig fysisk aktivitet som fører til muskeltretthet og nedbryting av glykogenlagre i skjelettmuskulatur. | Påstanden kan brukes bare om næringsmidler som inneholder karbohydrater som omdannes i menneskekroppen (med unntagelse av polyoler).<br>Forbrukerne skal opplyses om at den gunstige virkningen oppnås ved inntak av karbohydrater fra alle kilder, med et totalinntak på 4 g per kg kroppsvekt, inntatt i doser som påbegynnes innen 4 timer, og ikke tas senere enn 6 timer, etter høyintensiv og/eller langvarig fysisk aktivitet som fører til muskeltretthet og nedbryting av glykogenlagre i skjelettmuskulatur. | Påstanden kan brukes bare om næringsmidler for voksne som har utført høyintensiv og/eller langvarig fysisk aktivitet som fører til muskeltretthet og nedbryting av glykogenlagre i skjelettmuskulatur. | 2013;11(10):3409 |  |
 
 ### Forordning (EU) 2015/8
 
@@ -2105,17 +4012,35 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2015/8](
 av 6. januar 2015
 om avslag på godkjenning av visse andre helsepåstander om næringsmidler enn dem som viser til redusert sykdomsrisiko og barns utvikling og helse
 
+EUROPAKOMMISJONEN HAR –
+
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler,1 særlig artikkel 18 nr. 4, og
 
 ut fra følgende betraktningerI henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924*) er helsepåstander om næringsmidler forbudt med mindre de er godkjent av Kommisjonen i samsvar med nevnte forordning og oppført på en liste over tillatte påstander.Det er i forordning [(EF) nr. 1924/2006](eu/32006r1924*) også fastsatt at driftsansvarlige for næringsmiddelforetak kan inngi søknader om godkjenning av helsepåstander til den vedkommende nasjonale myndighet i en medlemsstat. Vedkommende nasjonale myndighet skal videresende gyldige søknader til Den europeiske myndighet for næringsmiddelsikkerhet (EFSA), heretter kalt «Myndigheten», for vitenskapelig vurdering samt til Kommisjonen og medlemsstatene til orientering.Kommisjonen skal ta hensyn til uttalelsen fra Myndigheten når den treffer beslutning om godkjenning av helsepåstander. Vitenskapelige risikovurderinger er i visse tilfeller ikke tilstrekkelig for å framskaffe alle de opplysninger som avgjørelser om risikohåndtering bør bygge på, og det bør derfor tas hensyn til andre berettigede forhold som er relevante for saken.Etter at det var mottatt en søknad fra Dextro Energy GmbH & Co. KG, innlevert i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi en uttalelse om en helsepåstand om glukose og den påståtte virkning på energistoffskifte (spørsmål nr. EFSA-Q-2012–00266).2 Søkerens foreslåtte påstand hadde følgende ordlyd: «Glukose nedbrytes som en del av kroppens normale energistoffskifte».Kommisjonen og medlemsstatene mottok 11. mai 2012 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte opplysningene kunne påvises en årsakssammenheng mellom inntak av glukose og den påståtte virkning på energistoffskifte. Målgruppen er befolkningen generelt.Etter at det var mottatt en søknad fra Dextro Energy GmbH & Co. KG, innlevert i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi en uttalelse om en helsepåstand om glukose og den påståtte virkning på energistoffskifte (spørsmål nr. EFSA-Q-2012–00267).3 Søkerens foreslåtte påstand hadde følgende ordlyd: «Glukose støtter normal fysisk aktivitet».Kommisjonen og medlemsstatene mottok 11. mai 2012 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at glukose og den påståtte virkning på energistoffskifte allerede er vurdert med et positivt resultat og henviste til uttalelsen om en helsepåstand om glukose og den påståtte virkning på energistoffskifte (spørsmål nr. EFSA-Q-2012–00266)Etter at det var mottatt en søknad fra Dextro Energy GmbH & Co. KG, innlevert i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi en uttalelse om en helsepåstand om glukose og den påståtte virkning på energistoffskifte (spørsmål nr. EFSA-Q-2012–00268).4 Søkerens foreslåtte påstand hadde følgende ordlyd: «Glukose bidrar til et normalt energistoffskifte».Kommisjonen og medlemsstatene mottok 11. mai 2012 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at glukose og den påståtte virkning på energistoffskifte allerede er vurdert med et positivt resultat og henviste til uttalelsen om en helsepåstand om glukose og den påståtte virkning på energistoffskifte (spørsmål nr. EFSA-Q-2012–00266)Etter at det var mottatt en søknad fra Dextro Energy GmbH & Co. KG, innlevert i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi en uttalelse om en helsepåstand om glukose og den påståtte virkning på energistoffskifte (spørsmål nr. EFSA-Q-2012–00269).5 Søkerens foreslåtte påstand hadde følgende ordlyd: «Glukose bidrar til et normalt energistoffskifte ved trening».Kommisjonen og medlemsstatene mottok 11. mai 2012 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at glukose og den påståtte virkning på energistoffskifte allerede er vurdert med et positivt resultat og henviste til uttalelsen om en helsepåstand om glukose og den påståtte virkning på energistoffskifte (spørsmål nr. EFSA-Q-2012–00266)Etter at det var mottatt en søknad fra Dextro Energy GmbH & Co. KG, innlevert i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi en uttalelse om en helsepåstand om glukose og den påståtte virkning på energistoffskifte (spørsmål nr. EFSA-Q-2012–00270).6 Søkerens foreslåtte påstand hadde følgende ordlyd: «Glukose bidrar til en normal muskelfunksjon».Kommisjonen og medlemsstatene mottok 11. mai 2012 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at glukose og den påståtte virkning på energistoffskifte allerede er vurdert med et positivt resultat og henviste til uttalelsen om en helsepåstand om glukose og den påståtte virkning på energistoffskifte (spørsmål nr. EFSA-Q-2012–00266)I henhold til artikkel 6 nr. 1 og artikkel 13 nr. 1 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) skal helsepåstander være basert på allment anerkjent vitenskapelig dokumentasjon. Godkjenning kan også med rette tilbakeholdes dersom helsepåstandene ikke overholder andre allmenne eller særlige krav i forordning [(EF) nr. 1924/2006](eu/32006r1924*), selv i tilfeller der påstanden har fått en positiv vitenskapelig vurdering av Myndigheten. Helsepåstander som ikke er forenlige med allment anerkjente ernærings- og helseprinsipper, skal ikke framsettes. Myndigheten konkluderte med at det var fastslått en årsakssammenheng mellom inntak av glukose og den påståtte virkning på energistoffskifte. Bruk av en slik helsepåstand vil imidlertid sende et motstridende og forvirrende budskap til forbrukerne ettersom det vil oppmuntre til bruk av sukkerarter som nasjonale og internasjonale myndigheter på grunnlag av allment anerkjent vitenskapelig dokumentasjon råder forbrukerne til å redusere inntaket av. En slik påstand er derfor ikke i samsvar med artikkel 3 annet ledd bokstav a) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), som fastsetter at bruken av påstander ikke skal være tvetydig eller villedende. Selv om bruk av den berørte helsepåstanden ble godkjent bare på visse vilkår og/eller ledsaget av tilleggserklæringer eller -advarsler, ville det ikke være tilstrekkelig til å hindre forvirring blant forbrukerne, og følgelig bør påstanden ikke godkjennes.Helsepåstandene som omfattes av denne forordning, er helsepåstander som omhandlet i artikkel 13 nr. 1 bokstav a) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), og som, forutsatt at de oppfyller kravene i nevnte forordning, omfattes av overgangsperioden fastsatt i artikkel 28 nr. 5 i nevnte forordning inntil listen over tillatte helsepåstander vedtas.Listen over tillatte helsepåstander er fastsatt ved kommisjonsforordning [(EU) nr. 432/2012](eu/32012r0432)7 og har vært anvendt siden 14. desember 2012. Når det gjelder påstander omhandlet i artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) som Myndigheten ikke har vurdert eller Kommisjonen ikke har ferdigbehandlet innen 14. desember 2012, og som i kraft av denne forordning ikke er oppført på listen over tillatte helsepåstander, bør det fastsettes en overgangsperiode da de fortsatt kan anvendes, slik at både driftsansvarlige for næringsmiddelforetak og vedkommende nasjonale myndigheter kan tilpasse seg til forbudet mot slike påstander.De kommentarene som Kommisjonen har mottatt fra søkeren og allmennheten i henhold til artikkel 16 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), er tatt i betraktning ved fastsettelse av tiltakene i denne forordning.Medlemsstatene er blitt rådspurt –
 
+1 EUT L 404 av 30.12.2006, s. 9.
+
+2 *EFSA Journal* 2012, 10(5): 2694.
+
+3 *EFSA Journal* 2012, 10(5): 2695.
+
+4 *EFSA Journal* 2012, 10(5): 2696.
+
+5 *EFSA Journal* 2012, 10(5): 2697.
+
+6 *EFSA Journal* 2012, 10(5): 2698.
+
+7 Kommisjonsforordning [(EU) nr. 432/2012](eu/32012r0432) av 16. mai 2012 om fastsettelse av en liste over tillatte helsepåstander om næringsmidler som ikke viser til redusert sykdomsrisiko eller barns utvikling og helse (EUT L 136 av 25.5.2012, s. 1).
+
+VEDTATT DENNE FORORDNING:
+
 ### Artikkel 1
 
-1. Helsepåstandene angitt i vedlegget til denne forordning skal ikke oppføres på EU-listen over tillatte påstander omhandlet i artikkel 13 nr. 3 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).
+1\. Helsepåstandene angitt i vedlegget til denne forordning skal ikke oppføres på EU-listen over tillatte påstander omhandlet i artikkel 13 nr. 3 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).
 
-2. Helsepåstander nevnt i nr. 1, og som var i bruk før ikrafttredelsen av denne forordning, kan imidlertid fortsatt brukes i høyst seks måneder etter ikrafttredelsen av denne forordning.
+2\. Helsepåstander nevnt i nr. 1, og som var i bruk før ikrafttredelsen av denne forordning, kan imidlertid fortsatt brukes i høyst seks måneder etter ikrafttredelsen av denne forordning.
 
 ### Artikkel 2
 
@@ -2125,9 +4050,23 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel, 6. januar 2015.
 
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  | Jean-Claude JUNCKER |
+|  | *President* |
+
 ### Vedlegg
 
 ### Avslåtte helsepåstander
+
+| *Søknad – Relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe* | *Påstand* | *EFSA-uttalelse* |
+| --- | --- | --- | --- |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data underlagt eiendomsrett | Glukose | Glukose omdannes i kroppens normale energistoffskifte | Q-2012–00266 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data underlagt eiendomsrett | Glukose | Glukose støtter normal fysisk aktivitet | Q-2012–00267 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data underlagt eiendomsrett | Glukose | «Glukose bidrar til et normalt energistoffskifte». | Q-2012–00268 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data underlagt eiendomsrett | Glukose | «Glukose bidrar til et normalt energistoffskifte ved trening». | Q-2012–00269 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data underlagt eiendomsrett | Glukose | «Glukose bidrar til en normal muskelfunksjon». | Q-2012-00270 |
 
 ### Forordning (EU) 2015/1041
 
@@ -2137,11 +4076,33 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2015/104
 av 30. juni 2015
 om avslag på godkjenning av visse andre helsepåstander om næringsmidler enn dem som viser til redusert sykdomsrisiko og barns utvikling og helse
 
+EUROPAKOMMISJONEN HAR –
+
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler,1 særlig artikkel 18 nr. 5, og
 
 ut fra følgende betraktninger:I henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924*) er helsepåstander om næringsmidler forbudt med mindre de er godkjent av Kommisjonen i samsvar med nevnte forordning og oppført på en liste over tillatte påstander.Ved forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det også fastsatt at driftsansvarlige for næringsmiddelforetak kan inngi søknader om godkjenning av helsepåstander til vedkommende nasjonale myndighet i en medlemsstat. Vedkommende nasjonale myndighet skal videresende gyldige søknader til Den europeiske myndighet for næringsmiddeltrygghet (EFSA), heretter kalt «Myndigheten», for vitenskapelig vurdering og til Kommisjonen og medlemsstatene til orientering.Myndigheten skal avgi uttalelse om den aktuelle helsepåstanden.Kommisjonen skal avgjøre om helsepåstandene skal godkjennes, idet det tas hensyn til Myndighetens uttalelse.Etter en søknad fra Biocodex, inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), og som inneholdt en anmodning om sikring av data underlagt eiendomsrett, ble myndigheten bedt om å avgi uttalelse om en helsepåstand om inntak av citrullinmalat og raskere restitusjon av trette muskler etter trening (spørsmål nr. EFSA-Q-2013–00659).2 Søkerens foreslåtte påstand hadde følgende ordlyd: «Opprettholdelse av adenosintrifosfatnivåer (ATP-nivåer) gjennom reduksjon av laktatoverskudd for restitusjon av trette muskler».Kommisjonen og medlemsstatene mottok 5. mai 2014 den vitenskapelige uttalelsen fra Myndigheten, der den konkluderte med at den allerede hadde vurdert en helsepåstand om inntak av citrullinmalat og raskere restitusjon av trette muskler etter trening inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) med negativt resultat (spørsmål nr. EFSA-Q-2011–00931).3 Tilleggsopplysningene framlagt av søkeren i forbindelse med spørsmål nr. EFSA-Q-2013–00659 kunne ikke brukes som vitenskapelig belegg for påstanden. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den derfor ikke godkjennes.Etter en søknad fra Comvita New Zealand Limited, inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), og som inneholdt en anmodning om sikring av data underlagt eiendomsrett, ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om inntak av vannekstrakt av olivenblad (*Olea europaea* L.) og økt glukosetoleranse (spørsmål nr. EFSA-Q-2013–00783).4 Søkerens foreslåtte påstand hadde følgende ordlyd: «Daglig tilskudd av polyfenoler fra olivenbladekstrakt bidrar til å redusere stigningen i blodsukkernivået etter måltider».Kommisjonen og medlemsstatene mottok 5. mai 2014 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte dataene ikke kunne påvises noen årsakssammenheng mellom konsum av vannekstrakt av olivenblad og økning av klukosetoleranse. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den derfor ikke godkjennes.Etter en søknad fra Naturex SA, inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), og som inneholdt en anmodning om sikring av data underlagt eiendomsrett, ble myndigheten bedt om å avgi uttalelse om en helsepåstand om virkningen av Pacran® og styrking av forsvaret mot bakterielle sykdomsframkallende stoffer i de nedre urinveiene (spørsmål nr. EFSA-Q-2013–00889).5 Søkerens foreslåtte påstand hadde følgende ordlyd: «Pacran® bidrar til å hindre at E. coli med fimbrier fester seg til urinveiscellene».Kommisjonen og medlemsstatene mottok 5. mai 2014 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte opplysningene ikke kunne påvises noen årsakssammenheng mellom konsum av Pacran® og styrking av forsvaret mot bakterielle sykdomsframkallende stoffer i de nedre urinveiene. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den derfor ikke godkjennes.Etter en søknad fra PiLeJe, inngitt i henhold til artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om virkningene av en kombinasjon av *Bifidobacterium longum* LA 101, *Lactobacillus helveticus* LA 102, *Lactococcus lactis* LA 103 og *Streptococcus thermophilus* LA 104 og redusert tarmbesvær (spørsmål nr. EFSA-Q-2013–00892).6 Søkerens foreslåtte påstand hadde blant annet følgende ordlyd: «Forbedrer tarmens velvære».Kommisjonen og medlemsstatene mottok 5. mai 2014 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte opplysningene ikke kunne påvises noen årsakssammenheng mellom inntak av en kombinasjon av *Bifidobacterium longum* LA 101, *Lactobacillus helveticus* LA 102, *Lactococcus lactis* LA 103 og *Streptococcus thermophilus* LA 104 og redusert mage-tarmbesvær. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den derfor ikke godkjennes.Etter en søknad fra PiLeJe, inngitt i henhold til artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om virkningene av en kombinasjon av *Bifidobacterium longum* LA 101, Lactobacillus helveticus LA 102, *Lactobacillus helveticusLactococcus lactis* LA 103 og *Streptococcus thermophilus* LA 104 og redusert tarmbesvær (spørsmål nr. EFSA-Q-2013–00893).7 Søkerens foreslåtte påstand hadde blant annet følgende ordlyd: «Regulerer passasjen gjennom tarmen».Kommisjonen og medlemsstatene mottok 5. mai 2014 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte opplysningene ikke kunne påvises noen årsakssammenheng mellom inntak av en kombinasjon av *Bifidobacterium longum* LA 101, *Lactobacillus helveticus* LA 102, *Lactococcus lactis* LA 103 og *Streptococcus thermophilus* LA 104 og redusert mage-tarmbesvær. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den derfor ikke godkjennes.Etter en søknad fra DoubleGood AB, inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), og som inneholdt en anmodning om sikring av data underlagt eiendomsrett, ble myndigheten bedt om å avgi uttalelse om en helsepåstand om virkningen av L-treonin, L-valin, L-leucin, L-isoleucin, L-lysin samt krompikolinat og reduksjon av den glykemiske respons etter måltider (spørsmål nr. EFSA-Q-2013–00756). 8 Søkerens foreslåtte påstand hadde følgende ordlyd: «Bidrar til å redusere økningen av blodsukkernivået etter et karbonhydratrikt måltid».Kommisjonen og medlemsstatene mottok 16. juli 2014 den vitenskapelige uttalelsen fra Myndigheten som konkluderte med at søkeren ikke har dokumentert at en reduksjon av blodsukkernivået etter måltidet gjennom økt insulinsekresjon er en gunstig fysiologisk virkning. Myndigheten konkluderte derfor med at det på grunnlag av de framlagte opplysningene ikke kunne påvises noen årsakssammenheng mellom inntak av næringsmiddelet, L-threonin, L-valin, L-leucin, L-isoleucin, L-lysin og krompikolinat, som helsepåstanden omhandlet, og en gunstig fysiologisk virkning. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den derfor ikke godkjennes.Etter en søknad fra DSM Nutritional Products og Kemin Foods, inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) og som inneholdt en anmodning om sikring av data underlagt eiendomsrett, ble Myndigheten bedt om å avgi en uttalelse om en helsepåstand om virkningen av en kombinasjon av lutein og zeaxantin og forbedret syn under forhold med sterkt lys (spørsmål nr. EFSA-Q-2013–00875).9 Den helsepåstanden som søkeren foreslo, var formulert slik: «Lutein sammen med zeaxantin bidrar til å bevare et skarpt og kontrastrikt syn under forhold med sterkt lys».Kommisjonen og medlemsstatene mottok 16. juli 2014 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte opplysningene ikke kunne påvises noen årsakssammenheng mellom inntak av en kombinasjon av lutein og zeaxantin og forbedret syn under forhold med sterkt lys. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den derfor ikke godkjennes.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr –
+
+1 EUT L 404 av 30.12.2006, p. 9.
+
+2 EFSA Journal 2014;12(5):3650.
+
+3 EFSA Journal 2012;10(5):2699.
+
+4 EFSA Journal 2014;12(5):3655.
+
+5 EFSA Journal 2014;12(5):3656.
+
+6 EFSA Journal 2014;12(5):3658.
+
+7 EFSA Journal 2014;12(5):3659.
+
+8 EFSA Journal 2014;12(7):3752.
+
+9 EFSA Journal 2014;12(7):3753.
+
+VEDTATT DENNE FORORDNING:
 
 ### Artikkel 1
 
@@ -2155,9 +4116,25 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel, 21. februar 2014.
 
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  | Jean-Claude JUNCKER |
+|  | *President* |
+
 ### Vedlegg
 
 ### Avslåtte helsepåstander
+
+| *Søknad – Relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe* | *Påstand* | *EFSA-uttalelse* |
+| --- | --- | --- | --- |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data underlagt eiendomsrett. | Citrullinmalat | Opprettholdelse av adenosintrifosfatnivåer (ATP-nivåer) gjennom reduksjon av laktatoverskudd for restitusjon av trette muskler. | Q-2013–00659 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data underlagt eiendomsrett. | Vannekstrakt av olivenblad (*Olea europaea L*.) | Daglig inntak av polyfenoler fra olivenbladekstrakt bidrar til å redusere blodsukkerstigningen etter måltider. | Q-2013–00783 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data underlagt eiendomsrett. | Pacran® | Pacran® bidrar til å hindre at E. coli med P-fimbrier fester seg til urinveiscellene. | Q-2013–00889 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data underlagt eiendomsrett. | En kombinasjon av *Bifidobacterium longum* LA 101, *Lactobacillus helveticus* LA 102, *Lactococcus lactis* LA 103 og *Streptococcus thermophilus* LA 104 | Forbedrer tarmens velvære. | Q-2013–00892 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data underlagt eiendomsrett. | En kombinasjon av *Bifidobacterium longum* LA 101, *Lactobacillus helveticus* LA 102, *Lactococcus lactis* LA 103 og *Streptococcus thermophilus* LA 104 | Regulerer passasjen gjennom tarmen. | Q-2013–00893 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data underlagt eiendomsrett. | En kombinasjon av L-treonin, L-valin, L-leucin, L-isoleucin, L-lysin og krompikolinat | Bidrar til å redusere økningen av blodsukkernivået etter et karbonhydratrikt måltid. | Q-2013–00756 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data underlagt eiendomsrett. | En kombinasjon av lutein og zeaxantin | Lutein sammen med zeaxanhin bidrar til å bevare et skarpt og kontrastrikt syn under forhold med sterkt lys. | Q-2013–00875 |
 
 ### Forordning (EU) 2015/1052
 
@@ -2167,11 +4144,29 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2015/105
 av 1. juli 2015
 om avslag på godkjenning av visse helsepåstander om næringsmidler som viser til redusert sykdomsrisiko
 
+EUROPAKOMMISJONEN HAR –
+
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler,1 særlig artikkel 17 nr. 3, og
 
 ut fra følgende betraktninger:I henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924*) er helsepåstander om næringsmidler forbudt med mindre de er godkjent av Kommisjonen i samsvar med nevnte forordning og oppført på en liste over tillatte påstander.Ved forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det også fastsatt at driftsansvarlige for næringsmiddelforetak kan inngi søknader om godkjenning av helsepåstander til vedkommende nasjonale myndighet i en medlemsstat. Vedkommende nasjonale myndighet skal videresende gyldige søknader til Den europeiske myndighet for næringsmiddeltrygghet (EFSA), heretter kalt «Myndigheten».Etter at søknaden er mottatt, skal Myndigheten straks underrette de øvrige medlemsstatene og Kommisjonen og avgi uttalelse om den aktuelle helsepåstanden.Kommisjonen skal ta hensyn til uttalelsen fra Myndigheten når den treffer beslutning om godkjenning av helsepåstander.Etter en søknad fra SANOFI-AVENTIS FRANCE, inngitt i henhold til artikkel 19 nr. 1 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) og som inneholdt en anmodning om sikring av data underlagt eiendomsrett, ble Myndigheten bedt om å avgi uttalelse om endring av godkjenningen av en helsepåstand om fytosterolestere og senking av LDL-kolesterolet i blodet. Nevnte helsepåstand er godkjent i henhold til artikkel 14 nr. 1 bokstav a) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ved kommisjonsforordning [(EF) nr. 983/2009](eu/32009r0983) 2 og (EU) [nr. 384/2010](eu/32010r0384).3 Søkeren anmodet om en utvidelse av de godkjente bruksvilkårene, som fastsatt i forordning [(EF) nr. 983/2009](eu/32009r0983) endret ved forordning [(EU) nr. 376/2010](eu/32010r0376)4 og i forordning [(EU) nr. 384/2010 i](eu/32010r0384) dens opprinnelig utgave, til å omfatte tilskudd i pulverform som oppløses i vann med en daglig dosering på 2 g per dag, som vil senke blodets innhold av LDL-kolestrol med «5,4–8,1 %» etter seks ukers daglig inntak.Kommisjonen og medlemsstatene mottok 21. februar 2014 den vitenskapelige uttalelsen fra Myndigheten (spørsmål nr. EFSA-Q-2013–00595)5 som konkluderte med at selv om næringsmidler tilsatt fytosteroler som tilsettes næringsmidler f.eks. smørbare produkter av typen margarin, majones, salatdressinger og melkeprodukter som melk, yoghurt, herunder yoghurt med lavt fettinnhold, og ost, har vist seg å senke konsentrasjonen av LDL-kolesterol i blodet i et stort antall studier, er omfanget av den kolesterolsenkende virkningen av fytosteroler tilsatt i andre typer næringsmidler ikke like godt dokumentert på grunnlag av de framlagte data.I samsvar med artikkel 16 nr. 6 annet ledd i forordning [(EF) nr. 1924/2006](eu/32006r1924*) kan søkeren eller enhver annen person framsette merknader til Kommisjonen om uttalelser offentliggjort av Myndigheten i henhold til artikkel 16 nr. 6 første ledd i nevnte forordning. Kommisjonen anmodet 14. april 2014 Myndigheten om å svare på de vitenskapelige merknadene som den hadde mottatt fra søkeren i samsvar med artikkel 16 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924*). Merknadene gjaldt Myndighetens vitenskapelige vurdering av anmodningen om utvidelse av bruksvilkårene for fytosterolestere i pulverform, særlig den interversjonsundersøkelsen som konklusjonen av den vedtatte vitenskapelige uttalelsen var basert på, og en ny offentliggjort meta-analyse som ble framlagt sammen med merknadene.Kommisjonen og medlemsstatene mottok 21. mai 2014 Myndighetens merknader til den vitenskapelige uttalelsen (spørsmål nr. EFSA-Q-2014–00310)6 der Myndigheten bekreftet konklusjonen i sin vitenskapelige uttalelse (spørsmål nr. EFSA-Q-2013–00595) når det gjelder intervensjonsundersøkelsen. Myndigheten tilføyde at den nye offentliggjorte metaanalysen ikke gir ytterligere opplysninger som gir vitenskapelig belegg for å utvide bruksvilkårene til å omfatte fytosterolestere i pulverform. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den derfor ikke godkjennes.Etter en søknad fra Jemo-pharm A/S, inngitt i samsvar med artikkel 14 nr. 1 bokstav a) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), og som inneholdt en anmodning om sikring av data underlagt eiendomsrett, ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om virkningen av CranMax® og reduksjon av risikoen for urinveisinfeksjon ved å forhindre at visse bakterier setter seg fast i urinveiene (spørsmål nr. EFSA-Q-2013–00649).7 Den helsepåstanden som søkeren foreslo, var formulert slik: «Forhindrer at E. coli fester seg på epitelcellene i urinveiene hos kvinner, noe som er en risikofaktor for å utvikle uriniveisinfeksjoner».Kommisjonen og medlemsstatene mottok 5. mai 2014 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte opplysningene ikke kunne påvises noen årsakssammenheng mellom konsum av CranMax® og reduksjon av risikoen for infeksjon i de nedre urinveiene ved å forhindre at visse bakterier fester seg i urinveiene.Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den derfor ikke godkjennes.De kommentarene som Kommisjonen har mottatt fra søkerne i samsvar med artikkel 16 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), er tatt i betraktning ved fastsettelsen av tiltakene i denne forordning.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr –
+
+1 EUT L 404 av 30.12.2006, s. 9.
+
+2 Kommisjonsforordning [(EF) nr. 983/2009](eu/32009r0983) av 21. oktober 2009 om godkjenning og avslag på godkjenning av visse helsepåstander om næringsmidler som viser til redusert sykdomsrisiko og barns utvikling og helse (EUT L 277 av 22.10.2009, s. 3).
+
+3 Kommisjonsforordning [(EU) nr. 384/2010](eu/32010r0384) av 5. mai 2010 2010 om godkjenning og avslag på godkjenning av visse helsepåstandar om næringsmiddel som viser til redusert sjukdomsrisiko og til utviklinga og helsa til barn (EUT L 113 av 6.5.2010, s. 6).
+
+4 Kommisjonsforordning) [(EU) nr. 376/2010](eu/32010r0376) av 3. mai 2010 om endring av forordning [(EF) nr. 983/2009](eu/32009r0983) om godkjenning og avslag på godkjenning av visse helsepåstander om næringsmidler som viser til redusert sykdomsrisiko og barns utvikling og helse (EUT L 111 av 4.5.2010, s. 3).
+
+5 EFSA Journal 2014;12(2):3577.
+
+6 EFSA supporting publication 2014:EN-596.
+
+7 EFSA Journal 2014;12(5):3657.
+
+VEDTATT DENNE FORORDNING:
 
 ### Artikkel 1
 
@@ -2185,9 +4180,20 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel, 1. juli 2015.
 
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  | Jean-Claude JUNCKER |
+|  | *President* |
+
 ### Vedlegg
 
 ### Avslåtte helsepåstander
+
+| *Søknad – Relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe* | *Påstand* | *EFSA-uttalelse* |
+| --- | --- | --- | --- |
+| Endring, i henhold til artikkel 19, av en helsepåstand i henhold til artikkel 14 nr. 1 om redusert sykdomsrisiko. | Fytostanolestere | Fytostanolestere som kosttilskudd i pulverform har vist seg å senke/redusere kolestrolinnholdet i blodet. En høy kolesterolkonsentrasjon er en risikofaktor for utvikling av koronar hjertesykdom. | Q-2013–00595 |
+| Artikkel 14 nr. 1 bokstav a) – helsepåstand om redusert sykdomsrisiko | CranMax® | Forhindrer at E. coli fester seg på epitelcellene i urinveiene hos kvinner, noe som er en risikofaktor for å utvikle uriniveisinfeksjoner. | Q-2013–00649 |
 
 ### Forordning (EU) 2015/1886
 
@@ -2199,17 +4205,29 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2015/188
 av 20. oktober 2015
 om avslag på godkjenning av visse helsepåstander om næringsmidler som viser til barns utvikling og helse
 
+EUROPAKOMMISJONEN HAR –
+
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler,1 særlig artikkel 17 nr. 3, og
 
 ut fra følgende betraktninger:I henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924*) er helsepåstander om næringsmidler forbudt med mindre de er godkjent av Kommisjonen i samsvar med nevnte forordning og oppført på en liste over tillatte påstander.Ved forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det også fastsatt at driftsansvarlige for næringsmiddelforetak kan inngi søknader om godkjenning av helsepåstander til vedkommende nasjonale myndighet i en medlemsstat. Vedkommende nasjonale myndighet skal videresende gyldige søknader til Den europeiske myndighet for næringsmiddeltrygghet (EFSA), heretter kalt «Myndigheten».Etter at søknaden er mottatt, skal Myndigheten straks underrette de øvrige medlemsstatene og Kommisjonen og avgi en uttalelse om den aktuelle helsepåstanden.Kommisjonen skal ta hensyn til uttalelsen fra Myndigheten når den treffer beslutning om godkjenning av helsepåstander.Etter en søknad fra Specialised Nutrition Europe (tidligere European Dietetic Food Industry Association) inngitt i henhold til artikkel 14 nr. 1 bokstav b) i forordning [(EF) nr. 1924/2006](eu/32006r1924*) ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om «ufordøyelige oligo- og polysakkarider, inkludert galakto-oligosakkarider, oligofruktose, polyfruktose og inulin» og «økt kalsiumopptak» (spørsmål nr. EFSA-Q-2008-140).2 Søkerens foreslåtte påstand hadde blant annet følgende ordlyd: «Med ufordøyelige oligo- og/eller polysakkarider for å stimulere kalsiumopptaket».I sin uttalelse, som ble mottatt av Kommisjonen og medlemsstatene 19. november 2014, konkluderte Myndigheten med at det på grunnlag av de framlagte opplysningene ikke kunne påvises en årsakssammenheng mellom inntak av «ufordøyelige oligo- og polysakkarider, inkludert galakto-oligosakkarider, oligofruktose, polyfruktose og inulin» og en gunstig fysiologisk virkning. Myndigheten anså særlig at næringsmiddelbestandelene «ufordøyelige oligo- og polysakkarider, inkludert galakto-oligosakkarider, oligofruktose, polyfruktose og inulin» ikke var tilstrekkelig karakterisert. Derfor, ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra Specialised Nutrition Europe inngitt i samsvar med artikkel 14 nr. 1 bokstav b) i forordning [(EF) nr. 1924/2006](eu/32006r1924*) ble Myndigheten bedt om å avgi uttalelse om beta-galaktosidase fra *Streptococcus thermophilus* og reduksjon av mage- og tarmplager (spørsmål nr. EFSA-Q-2008-148).3 Søkerens foreslåtte påstand hadde blant annet følgende ordlyd: «Laktase for god fordøyelse».I sin uttalelse, som ble mottatt av Kommisjonen og medlemsstatene 9. oktober 2014, konkluderte Myndigheten med at det på grunnlag av de framlagte opplysningene ikke kunne påvises en årsakssammenheng mellom inntak av beta-galaktosidase, som produseres av *Streptococcus thermophilus* (som deretter inaktiveres) ved gjæring av en morsmelkerstatning, og reduksjon av mage- og tarmplager. Derfor, ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra Specialised Nutrition Europe inngitt i samsvar med artikkel 14 nr. 1 bokstav b) i forordning [(EF) nr. 1924/2006](eu/32006r1924*) ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om svisker og deres bidrag til en normal tarmfunksjon (spørsmål nr. EFSA-Q-2008-193).4 Søkerens foreslåtte påstand hadde blant annet følgende ordlyd: «Tørkede plommer / svisker kan bidra til normal tarmfunksjon».I sin uttalelse, som ble mottatt av Kommisjonen og medlemsstatene 19. november 2014, konkluderte Myndigheten med at det på grunnlag av de framlagte opplysningene ikke kunne påvises en årsakssammenheng mellom inntak av svisker og bidrag til en normal tarmfunksjon uten diaré hos spedbarn og småbarn i alderen seks måneder til tre år. Myndigheten bemerket særlig at søkeren ikke hadde framlagt noen undersøkelser av virkningen av svisker på tarmfunksjonen hos spedbarn og småbarn. Derfor, ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.I samsvar med artikkel 28 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) kan helsepåstander som er omhandlet i forordningens artikkel 14 nr. 1 bokstav b) og ikke er godkjent ved en beslutning i henhold til forordningens artikkel 17 nr. 3, fortsatt brukes i seks måneder etter at en slik beslutning er truffet, forutsatt at søknaden om godkjenning ble inngitt før 19. januar 2008. Derfor, ettersom helsepåstandene oppført i vedlegget til denne forordning oppfyller disse vilkårene, bør overgangsperioden fastsatt i artikkel 28 nr. 6 i forordning [1924/2006](eu/32006r1924*) få anvendelse.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr –
 
+1 EUT L 404 av 30.12.2006, s. 9.
+
+2 EFSA Journal 2014;12(11):3889.
+
+3 EFSA Journal 2014;12(10):3841.
+
+4 EFSA Journal 2014;12(11):3892.
+
+VEDTATT DENNE FORORDNING:
+
 ### Artikkel 1
 
-1. Helsepåstandene oppført i vedlegget til denne forordning skal ikke tas med på EU-listen over tillatte påstander omhandlet i artikkel 14 nr. 1 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).
+1\. Helsepåstandene oppført i vedlegget til denne forordning skal ikke tas med på EU-listen over tillatte påstander omhandlet i artikkel 14 nr. 1 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).
 
-2. Helsepåstander nevnt i nr. 1 som var i bruk før ikrafttredelsen av denne forordning, kan imidlertid fortsatt brukes i høyst seks måneder etter ikrafttredelsen av denne forordning.
+2\. Helsepåstander nevnt i nr. 1 som var i bruk før ikrafttredelsen av denne forordning, kan imidlertid fortsatt brukes i høyst seks måneder etter ikrafttredelsen av denne forordning.
 
 ### Artikkel 2
 
@@ -2219,8 +4237,20 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel, 20. oktober 2015.
 
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  | Jean-Claude JUNCKER |
+|  | *President* |
+
 ### Vedlegg
 Avviste helsepåstander
+
+| *Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe* | *Påstand* | *Referansenummer for EFSA-uttalelse* |
+| --- | --- | --- | --- |
+| Artikkel 14 nr. 1 bokstav b) – helsepåstand om barns utvikling og helse | Ufordøyelige oligo- og polysakkarider, inkludert galakto-oligosakkarider, oligofruktose, polyfruktose og inulin | Med ufordøyelige oligo- og/eller polysakkarider for å stimulere kalsiumopptaket | Q-2008-140 |
+| Artikkel 14 nr. 1 bokstav b) – helsepåstand om barns utvikling og helse | Beta-galaktosidase fra *Streptococcus thermophilus* | Laktase for god fordøyelse | Q-2008-148 |
+| Artikkel 14 nr. 1 bokstav b) – helsepåstand om barns utvikling og helse | Svisker | Tørkede plommer / svisker kan bidra til normal tarmfunksjon | Q-2008-193 |
 
 ### Forordning (EU) 2015/1898
 
@@ -2232,11 +4262,21 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2015/189
 av 21. oktober 2015
 om avslag på godkjenning av en annen helsepåstand om næringsmidler enn dem som viser til redusert sykdomsrisiko og barns utvikling og helse
 
+EUROPAKOMMISJONEN HAR –
+
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler,1 særlig artikkel 18 nr. 5, og
 
 ut fra følgende betraktninger:I henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924*) er helsepåstander om næringsmidler forbudt med mindre de er godkjent av Kommisjonen i samsvar med nevnte forordning og oppført på en liste over tillatte påstander.Ved forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det også fastsatt at driftsansvarlige for næringsmiddelforetak kan inngi søknader om godkjenning av helsepåstander til vedkommende nasjonale myndighet i en medlemsstat. Vedkommende nasjonale myndighet skal videresende gyldige søknader til Den europeiske myndighet for næringsmiddeltrygghet (EFSA), heretter kalt «Myndigheten», for vitenskapelig vurdering og til Kommisjonen og medlemsstatene til orientering.Myndigheten skal avgi uttalelse om den aktuelle helsepåstanden.Kommisjonen skal ta hensyn til uttalelsen fra Myndigheten når den treffer beslutning om godkjenning av helsepåstander.Etter en søknad fra Clasado Limited inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om Bimuno® GOS og reduksjon av mage- og tarmplager (spørsmål nr. EFSA-Q-2014–00022).2 Søkerens foreslåtte helsepåstand hadde følgende ordlyd: «Regelmessig daglig inntak av 1,37 g galakto-oligosakkarider fra Bimuno® kan redusere mage- og tarmplager».Den 16. juli 2014 mottok Kommisjonen og medlemsstatene den vitenskapelige uttalelsen fra Myndigheten, der den konkluderte med at det på grunnlag av de framlagte opplysningene ikke kunne påvises en årsakssammenheng mellom inntak av Bimuno® GOS og reduksjon av mage- og tarmplager. I denne uttalelsen bemerket Myndigheten også at med unntak av én ikke offentliggjort intervensjonsundersøkelse av mennesker, er alle undersøkelser av mennesker og andre undersøkelser som søkeren framla i forbindelse med denne påstanden, allerede framlagt ved tidligere søknader om samme påstand og vurdert med negativt resultat.3 Derfor, ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.De kommentarene som Kommisjonen har mottatt fra søkeren og enhver annen person i samsvar med artikkel 16 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), er tatt i betraktning ved fastsettelse av tiltakene i denne forordning.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr –
+
+1 EUT L 404 av 30.12.2006, s. 9.
+
+2 EFSA Journal 2014; 12(7):3756.
+
+3 EFSA Journal 2011;9(12):2472, EFSA Journal 2013;11(6):3259.
+
+VEDTATT DENNE FORORDNING:
 
 ### Artikkel 1
 
@@ -2250,8 +4290,18 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel, 21. oktober 2015.
 
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  | Jean-Claude JUNCKER |
+|  | *President* |
+
 ### VEDLEGG
 Avvist helsepåstand
+
+| *Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelgruppe* | *Påstand* | *Referansenummer for EFSA-uttalelse* |
+| --- | --- | --- | --- |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data som er underlagt eiendomsrett | Bimuno® GOS | Regelmessig daglig inntak av 1,37 g galakto-oligosakkarider fra Bimuno® kan redusere mage- og tarmplager | Q-2014–00022 |
 
 ### Forordning (EU) 2015/2314
 
@@ -2263,17 +4313,29 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2015/231
 av 7. desember 2015
 om godkjenning av en annen helsepåstand om næringsmidler enn dem som viser til redusert sykdomsrisiko og barns utvikling og helse, og om endring av forordning [(EU) nr. 432/2012](eu/32012r0432)
 
+EUROPAKOMMISJONEN HAR –
+
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler,1 særlig artikkel 18 nr. 4, og
 
 ut fra følgende betraktninger:I henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924*) er helsepåstander om næringsmidler forbudt med mindre de er godkjent av Kommisjonen i samsvar med forordningen og oppført på en liste over tillatte påstander.Kommisjonen har i henhold til artikkel 13 nr. 3 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) vedtatt forordning [(EU) nr. 432/2012](eu/32012r0432),2 der det opprettes en liste over andre tillatte helsepåstander om næringsmidler enn dem som viser til redusert sykdomsrisiko eller barns utvikling og helse.Forordning [(EF) nr. 1924/2006](eu/32006r1924*) fastsetter at driftsansvarlige for næringsmiddelforetak skal inngi søknader om godkjenning av helsepåstander til vedkommende nasjonale myndighet i en medlemsstat. Vedkommende nasjonale myndighet skal videresende gyldige søknader til Den europeiske myndighet for næringsmiddeltrygghet (EFSA), heretter kalt «Myndigheten», for vitenskapelig vurdering og til Kommisjonen og medlemsstatene til orientering.Kommisjonen skal avgjøre om helsepåstandene skal godkjennes, idet det tas hensyn til Myndighetens uttalelse.Med henblikk på å oppmuntre til innovasjon skal de helsepåstandene som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data underlagt eiendomsrett, gjennomgå en framskyndet framgangsmåte for godkjenning.Etter en søknad fra BENEO-Orafti S.A., inngitt i henhold til artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), og som inneholdt en anmodning om sikring av data underlagt eiendomsrett, ble Myndigheten bedt om å avgi uttalelse om det vitenskapelige belegget for en helsepåstand om naturlig sikoriinulin og opprettholdelse av normal avføring gjennom hyppigere avføring (spørsmål nr. EFSA-Q-2014–00403).3 Søkerens foreslåtte påstand hadde blant annet følgende ordlyd: «Orafti®Inulin forbedrer tarmfunksjonen».Kommisjonen og medlemsstatene mottok 9. januar 2015 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte opplysningene kunne påvises en årsakssammenheng mellom inntak av naturlig sikoriinulin, en ikke-fraksjonert blanding av monosakkarider (< 10 %), disakkarider, fruktaner av inulintypen og inulin ekstrahert fra sikori med en gjennomsnittlig polymeriseringsgrad på ≥ 9, og opprettholdelse av normal avføring gjennom hyppigere avføring. En helsepåstand som gjenspeiler denne konklusjonen, bør følgelig anses å oppfylle kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*) og bør oppføres på EU-listen over tillatte påstander fastsatt ved forordning [(EU) nr. 432/2012](eu/32012r0432).Myndigheten påpekte i sin uttalelse at undersøkelsen som søkeren hevdet eiendomsrett til,4 var nødvendig for å fastsette bruksvilkår for denne bestemte påstanden.Alle dokumentasjonsopplysninger som søkeren har framlagt, er vurdert av Kommisjonen, og det anses at kravene fastsatt i artikkel 21 nr. 1 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) er oppfylt for undersøkelsen som det hevdes eiendomsrett til. Vitenskapelige data og andre opplysninger som er tatt med i nevnte undersøkelse, kan derfor ikke brukes til fordel for en etterfølgende søker i en periode på fem år fra ikrafttredelsesdatoen for denne forordning, på vilkårene fastsatt i artikkel 21 nr. 1 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).Ett av målene med forordning [(EF) nr. 1924/2006](eu/32006r1924*) er å sikre at helsepåstander er sannferdige, tydelige, pålitelige og nyttige for forbrukeren, og at det i den forbindelse tas hensyn til formuleringen og presentasjonen av dem. Dersom ordlyden i påstander som søkeren bruker, har samme betydning for forbrukerne som ordlyden i en godkjent helsepåstand, fordi de viser til samme forhold mellom en næringsmiddelkategori, et næringsmiddel eller en av dets bestanddeler og helse, bør de derfor omfattes av samme bruksvilkår som de som er angitt i vedlegget til denne forordning.Registeret over ernærings- og helsepåstander som inneholder alle tillatte helsepåstander, bør i samsvar med artikkel 20 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) oppdateres for å ta hensyn til denne forordning.Siden søkeren krever beskyttelse av eiendomsrettsbelagte data, anses det som hensiktsmessig å begrense bruken av denne påstanden til fordel for søkeren i en periode på fem år. At tillatelsen til å bruke denne påstanden er begrenset til én enkelt aktør, er imidlertid ikke til hinder for at andre søkere søker om tillatelse til å bruke samme påstand dersom det søkes på grunnlag av andre data og undersøkelser enn dem som er beskyttet i henhold til artikkel 21 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).De kommentarene som Kommisjonen har mottatt fra søkeren i samsvar med artikkel 16 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), er tatt i betraktning ved fastsettelsen av tiltakene i denne forordning.Forordning [(EU) nr. 432/2012](eu/32012r0432) bør derfor endres.Medlemsstatene er blitt rådspurt –
 
+1 EUT L 404 av 30.12.2006, s. 9.
+
+2 Kommisjonsforordning [(EU) nr. 432/2012](eu/32012r0432) av 16. mai 2012 om fastsettelse av en liste over andre tillatte helsepåstander om næringsmidler enn dem som viser til redusert sykdomsrisiko eller barns utvikling og helse (EUT L 136 av 25.5.2012, s. 1).
+
+3 EFSA Journal 2015;13(1):3951.
+
+4 Schulz A and Schön C, 2012. Effect of consumption of inulin on bowel motor function in subjects with constipation (unpublished study report).
+
+VEDTATT DENNE FORORDNING:
+
 ### Artikkel 1
 
-1. Helsepåstanden angitt i vedlegget til denne forordning skal oppføres på EU-listen over tillatte påstander fastsatt i artikkel 13 nr. 3 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).
+1\. Helsepåstanden angitt i vedlegget til denne forordning skal oppføres på EU-listen over tillatte påstander fastsatt i artikkel 13 nr. 3 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).
 
-2. Bruken av helsepåstanden nevnt i nr. 1 er begrenset til søkeren i en periode på fem år etter ikrafttredelsesdatoen for denne forordning. Etter utløpet av denne perioden kan denne helsepåstanden i samsvar med vilkårene som gjelder for den, benyttes av en hvilken som helst driftsansvarlig for næringsmiddelforetak.
+2\. Bruken av helsepåstanden nevnt i nr. 1 er begrenset til søkeren i en periode på fem år etter ikrafttredelsesdatoen for denne forordning. Etter utløpet av denne perioden kan denne helsepåstanden i samsvar med vilkårene som gjelder for den, benyttes av en hvilken som helst driftsansvarlig for næringsmiddelforetak.
 
 ### Artikkel 2
 
@@ -2291,7 +4353,21 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel, 7. desember 2015.
 
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  | Jean-Claude JUNCKER |
+|  | *President* |
+
 ### VEDLEGG
+
+I vedlegget til forordning [(EU) nr. 432/2012](eu/32012r0432) innsettes følgende post i alfabetisk rekkefølge:
+
+| *Næringsstoff, stoff, næringsmiddel eller næringsmiddel kategori* | *Påstand* | *Vilkår for bruk av påstanden* | *Vilkår og/eller begrensninger for bruk av næringsmiddelet og/eller en tilleggserklæring eller -advarsel* | *EFSA Journalnummer* | *Registrering nummer på den konsoliderte listen innsendt til EFSA for vurdering* |
+| --- | --- | --- | --- | --- | --- |
+| Naturlig sikoriinulin | Sikoriinulin bidrar til normal tarmfunksjon gjennom hyppigere avføring1 | Forbrukerne skal opplyses om at den gunstige virkningen oppnås ved et daglig inntak av 12 g sikoriinulin.<br>Påstanden kan bare brukes for næringsmidler som gir et daglig inntak på minst 12 g naturlig sikoriinulin, en ikke-fraksjonert blanding av monosakkarider (< 10 %), disakkarider, fruktaner av inulintypen og inulin ekstrahert fra sikori med en gjennomsnittlig polymeriseringsgrad på ≥ 9. |  | 2015;13(1):3951 |  |
+
+1 Godkjent 1. januar 2016 – begrenset til bruk for BENEO-Orafti S.A., Rue L. Maréchal 1, B-4360 Oreye, Belgia, i en periode på fem år.
 
 ### Forordning (EU) 2016/371
 
@@ -2303,11 +4379,27 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2016/371
 av 15. mars 2016
 om avslag på godkjenning av visse andre helsepåstander om næringsmidler enn dem som viser til redusert sykdomsrisiko og barns utvikling og helse
 
+EUROPAKOMMISJONEN HAR –
+
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler,1 særlig artikkel 18 nr. 5 første ledd, og
 
 ut fra følgende betraktninger:I henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924*) er helsepåstander om næringsmidler forbudt, med mindre de er godkjent av Kommisjonen i samsvar med nevnte forordning og oppført på en liste over tillatte påstander.I forordning [(EF) nr. 1924/2006](eu/32006r1924*) fastsettes det også at driftsansvarlige for næringsmiddelforetak kan sende søknader om godkjenning av helsepåstander til en medlemsstats vedkommende nasjonale myndighet. Vedkommende nasjonale myndighet skal videresende gyldige søknader til Den europeiske myndighet for næringsmiddeltrygghet (EFSA), heretter kalt «Myndigheten», for vitenskapelig vurdering og til Kommisjonen og medlemsstatene til orientering.Myndigheten skal avgi en uttalelse om den aktuelle helsepåstanden.Kommisjonen skal avgjøre om helsepåstander skal godkjennes, idet det tas hensyn til Myndighetens uttalelse.Etter en søknad fra InQpharm Ltd, inngitt i henhold til artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi en uttalelse om en helsepåstand om en standardisert vandig ekstrakt av hvit hagebønne (*Phaseolus vulgaris* L.) og redusert kroppsvekt (spørsmål nr. EFSA-Q-2013–00973).2 Søkerens foreslåtte påstand hadde følgende ordlyd: «Bidrar til redusert kroppsvekt».Kommisjonen og medlemsstatene mottok 16. juli 2014 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte dataene ikke kunne påvises noen årsakssammenheng mellom inntak av standardisert vandig ekstrakt av hvit hagebønne (*Phaseolus vulgaris* L.) og redusert kroppsvekt. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra Natural Alternative International, Inc. (NAI), inngitt i henhold til artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi en uttalelse om en helsepåstand om beta-alanin og økt fysisk prestasjonsevne under kortvarig høyintensiv trening (spørsmål nr. EFSA-Q-2013–00974).3 Søkerens foreslåtte påstand hadde følgende ordlyd: «Beta-alanin gir økt prestasjonsevne under kortvarig høyintensiv trening».Kommisjonen og medlemsstatene mottok 16. juli 2014 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det ikke kunne påvises noen årsakssammenheng mellom inntak av beta-alanin og økt fysisk prestasjonsevne under kortvarig høyintensiv trening. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra Federación Nacional de Industrias Lácteas (FeNIL), inngitt i henhold til artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi en uttalelse om en helsepåstand om fettfri yoghurt og surmelk som oppfyller spesifikasjonene for helsepåstandene «fettfri», «lavt sukkerinnhold», «høyt proteininnhold», «kalsiumkilde» og «kilde til vitamin D», og reduksjon av kropps- og bukfett samtidig som fettfri masse opprettholdes, når de inngår i en energifattig diett (spørsmål nr. EFSA-Q-2014–00126).4 Søkerens foreslåtte påstand hadde følgende ordlyd: «Fettfri yoghurt og surmelk med levende yoghurtkulturer tilsatt vitamin D og uten tilsatt sukker bidrar til reduksjon av kropps- og bukfett når de inngår i en energifattig diett».Kommisjonen og medlemsstatene mottok 7. januar 2015 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det ikke kunne påvises noen årsakssammenheng mellom inntak av fettfri yoghurt og surmelk med levende yoghurtkulturer som oppfyller spesifikasjonene for helsepåstandene «fettfri», «lavt sukkerinnhold», «høyt proteininnhold», «kalsiumkilde» og «kilde til vitamin D», og reduksjon av kropps- og bukfett samtidig som fettfri masse opprettholdes, når de inngår i en energifattig diett. I uttalelsen bemerket Myndigheten også at søkeren ikke hadde framlagt noen undersøkelser av mennesker der konklusjonene støtter den vitenskapelige dokumentasjonen for påstanden. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra Federación Nacional de Industrias Lácteas (FeNIL), inngitt i henhold til artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi en uttalelse om en helsepåstand om fettfri yoghurt og surmelk som oppfyller spesifikasjonene for helsepåstandene «fettfri», «lavt sukkerinnhold», «høyt proteininnhold», «kalsiumkilde» og «kilde til vitamin D» samtidig som fettfri masse opprettholdes, når de inngår i en energifattig diett (spørsmål nr. EFSA-Q-2014–00127).5 Søkerens foreslåtte påstand hadde følgende ordlyd: «Fettfri yoghurt og surmelk med levende yoghurtkulturer tilsatt vitamin D og uten tilsatt sukker bidrar til å opprettholde fettfri masse (muskler og knokler) når de inngår i en energifattig diett».Kommisjonen og medlemsstatene mottok 7. januar 2015 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det ikke kunne påvises noen årsakssammenheng mellom inntak av fettfri yoghurt og surmelk med levende yoghurtkulturer som oppfyller spesifikasjonene for helsepåstandene «fettfri», «lavt sukkerinnhold», «høyt proteininnhold», «kalsiumkilde» og «kilde til vitamin D», og reduksjon av kropps- og bukfett samtidig som fettfri masse opprettholdes, når de inngår i en energifattig diett. I uttalelsen bemerket Myndigheten også at søkeren ikke hadde framlagt noen undersøkelser av mennesker der konklusjonene støtter den vitenskapelige dokumentasjonen for påstanden. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra Avesthagen Limited, inngitt i henhold til artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi en uttalelse om en helsepåstand om TeestarTM, en ekstrakt av bukkehornkløverfrø med et standardisert innhold av galaktomannan, og redusert glykemisk respons etter måltider (spørsmål nr. EFSA-Q-2014–00153).6 Søkerens foreslåtte påstand hadde følgende ordlyd: «TeestarTM senker blodsukkernivået».Kommisjonen og medlemsstatene mottok 8. januar 2015 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det ikke kunne påvises noen årsakssammenheng mellom konsum av TeestarTM, en ekstrakt av bukkehornkløverfrø med et standardisert innhold av galaktomannan, og redusert glykemisk respons etter måltider. I uttalelsen bemerket Myndigheten også at dyreforsøk av mulige mekanismer i mangel av belegg for at TeestarTM har en virkning på glykemisk respons etter måltider hos mennesker, ikke gir støtte til den vitenskapelige dokumentasjonen for påstanden. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.De kommentarene som Kommisjonen har mottatt fra søkerne i henhold til artikkel 16 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), er tatt i betraktning ved fastsettelsen av tiltakene i denne forordning.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr –
+
+1 EUT L 404 av 30.12.2006, s. 9.
+
+2 *EFSA Journal* 2014;12(7):3754.
+
+3 *EFSA Journal* 2014;12(7):3755.
+
+4 *EFSA Journal* 2015;13(1):3948.
+
+5 *EFSA Journal* 2015;13(1):3949.
+
+6 *EFSA Journal* 2015;13(1):3952.
+
+VEDTATT DENNE FORORDNING:
 
 ### Artikkel 1
 
@@ -2321,8 +4413,22 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel, 15. mars 2016.
 
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  | Jean-Claude JUNCKER |
+|  | *President* |
+
 ### VEDLEGG
 Avvist helsepåstand
+
+| *Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori* | *Påstand* | *Referansenummer for EFSA-uttalelse* |
+| --- | --- | --- | --- |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data som er underlagt eiendomsrett | Standardisert vandig ekstrakt av hvit hagebønne (*Phaseolus vulgaris* L.) | Bidrar til redusert kroppsvekt | Q-2013-00973 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data som er underlagt eiendomsrett | Beta-alanin | Beta-alanin gir økt prestasjonsevne under kortvarig høyintensiv trening | Q-2013-00974 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data som er underlagt eiendomsrett | Fettfri yoghurt og surmelk med levende yoghurtkulturer som oppfyller spesifikasjonene for helsepåstandene «fettfri», «lavt sukkerinnhold», «høyt proteininnhold», «kalsiumkilde» og «kilde til vitamin D» | Fettfri yoghurt og surmelk med levende yoghurtkulturer tilsatt vitamin D og uten tilsatt sukker bidrar til reduksjon av kropps- og bukfett når de inngår i en energifattig diett | Q-2014-00126 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data som er underlagt eiendomsrett | Fettfri yoghurt og surmelk med levende yoghurtkulturer som oppfyller spesifikasjonene for helsepåstandene «fettfri», «lavt sukkerinnhold», «høyt proteininnhold», «kalsiumkilde» og «kilde til vitamin D» | Fettfri yoghurt og surmelk med levende yoghurtkulturer tilsatt vitamin D og uten tilsatt sukker bidrar til å opprettholde fettfri masse (muskler og knokler) når de inngår i en energifattig diett | Q-2014-00127 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data som er underlagt eiendomsrett | TeestarTM, en ekstrakt av bukkehornkløverfrø med et standardisert innhold av galaktomannan | TeestarTM senker blodsukkernivået | Q-2014-00153 |
 
 ### Forordning (EU) 2016/372
 
@@ -2334,11 +4440,19 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2016/372
 av 15. mars 2016
 om avslag på godkjenning av en helsepåstand om næringsmidler som viser til redusert sykdomsrisiko
 
+EUROPAKOMMISJONEN HAR –
+
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler,1 særlig artikkel 17 nr. 3, og
 
 ut fra følgende betraktninger:I henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924*) er helsepåstander om næringsmidler forbudt, med mindre de er godkjent av Kommisjonen i samsvar med nevnte forordning og oppført på en liste over tillatte påstander.I forordning [(EF) nr. 1924/2006](eu/32006r1924*) fastsettes det også at driftsansvarlige for næringsmiddelforetak kan sende søknader om godkjenning av helsepåstander til en medlemsstats vedkommende nasjonale myndighet. Vedkommende nasjonale myndighet skal videresende gyldige søknader til Den europeiske myndighet for næringsmiddeltrygghet (EFSA), heretter kalt «Myndigheten».Etter å ha mottatt søknad skal Myndigheten umiddelbart underrette de andre medlemsstatene og Kommisjonen om søknaden, og avgi uttalelse om den aktuelle helsepåstanden.Kommisjonen skal avgjøre om helsepåstander skal godkjennes, idet det tas hensyn til Myndighetens uttalelse.Etter en søknad fra Lycotec Ltd, inngitt i samsvar med artikkel 14 nr. 1 bokstav a) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om L-tug lykopen og reduksjon av lipoprotein med lav tetthet (LDL-kolesterol) i blodet (spørsmål nr. EFSA-Q-2014–00590).2 Søkerens foreslåtte påstand hadde følgende ordlyd: «L-tug lykopen er vist å senke/redusere kolesterolnivået i blodet. Et høyt kolesterolnivå er en risikofaktor for utvikling av koronar hjertesykdom».Kommisjonen og medlemsstatene mottok 26. februar 2015 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte dataene ikke kunne påvises noen årsakssammenheng mellom inntak av L-tug lykopen og reduksjon av LDL-kolesterolnivået i blodet. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr –
+
+1 EUT L 404 av 30.12.2006, s. 9.
+
+2 EFSA Journal 2015;13(2):4025.
+
+VEDTATT DENNE FORORDNING:
 
 ### Artikkel 1
 
@@ -2352,8 +4466,18 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel, 15. mars 2016.
 
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  | Jean-Claude JUNCKER |
+|  | *President* |
+
 ### VEDLEGG
 Avvist helsepåstand
+
+| *Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori* | *Påstand* | *Referansenummer for EFSA-uttalelse* |
+| --- | --- | --- | --- |
+| Artikkel 14 nr. 1 bokstav a) – helsepåstand om redusert sykdomsrisiko | L-tug lykopen | L-tug lykopen er vist å senke/redusere kolesterolnivået i blodet. Et høyt kolesterolnivå er en risikofaktor for utvikling av koronar hjertesykdom | Q-2014-00590 |
 
 ### Forordning (EU) 2016/862
 
@@ -2365,9 +4489,19 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2016/862
 av 31. mai 2016
 om avslag på godkjenning av en annen helsepåstand om næringsmidler enn dem som viser til redusert sykdomsrisiko og barns utvikling og helse
 
+EUROPAKOMMISJONEN HAR –
+
+under henvisning til traktaten om Den europeiske unions virkemåte,
+
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler,1 særlig artikkel 18 nr. 4, og
 
 ut fra følgende betraktninger:I henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924*) er helsepåstander om næringsmidler forbudt med mindre de er godkjent av Kommisjonen i samsvar med nevnte forordning og oppført på listen over tillatte påstander.I forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det også fastsatt at driftsansvarlige for næringsmiddelforetak kan inngi søknader om godkjenning av helsepåstander til vedkommende nasjonale myndighet i en medlemsstat. Vedkommende nasjonale myndighet skal videresende gyldige søknader til Den europeiske myndighet for næringsmiddeltrygghet (EFSA), heretter kalt «Myndigheten», for vitenskapelig vurdering og til Kommisjonen og medlemsstatene til orientering.Kommisjonen skal avgjøre om helsepåstander skal godkjennes, idet det tas hensyn til Myndighetens uttalelse. I noen tilfeller kan ikke den vitenskapelige risikovurderingen alene gi alle de opplysningene som en beslutning om risikohåndtering bør bygge på, og derfor bør andre berettigede faktorer som er relevante for den aktuelle saken, også tas i betraktning.Etter en søknad fra Oy Karl Fazer AB inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om surdeigsrugbrød med høyt fiberinnhold og redusert glykemisk respons etter måltider (spørsmål nr. EFSA-Q-2014–00012).2 Søkerens foreslåtte påstand hadde følgende ordlyd: «Inntak av surdeigsrugbrød med høyt fiberinnhold bidrar til redusert glykemisk respons ledsaget av redusert insulinrespons etter et måltid.» Etter anmodning fra Myndigheten spesifiserte søkeren at den påståtte virkningen av surdeigsrugbrød med høyt fiberinnhold bør sammenlignes med glukose.Kommisjonen og medlemsstatene mottok 8. oktober 2014 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte opplysningene kunne påvises en årsakssammenheng mellom inntak av nesten alle næringsmidler og senket blodsukkernivå etter måltider sammenlignet med glukose.I henhold til artikkel 6 nr. 1 og artikkel 13 nr. 1 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) skal helsepåstander bygge på allment anerkjente vitenskapelige beviser. Godkjenning kan også med rette tilbakeholdes dersom helsepåstandene ikke er i samsvar med andre allmenne eller særskilte krav i forordning [(EF) nr. 1924/2006](eu/32006r1924*), selv i tilfeller der påstanden har fått en positiv vitenskapelig vurdering av Myndigheten. Myndigheten påpekte i sin vitenskapelige uttalelse at når sammenlignbare mengder tilgjengelige karbohydrater fra ulike næringsmidler som inneholder karbohydrater prøves, vil i prinsippet nesten alle næringsmidler som inneholder karbohydrater, gi redusert glykemisk respons etter måltider sammenlignet med den glykemiske responsen som inntak av glukose gir. Myndigheten påpekte dessuten at næringsmidler som inneholder små mengder karbohydrater, eller ingen tilgjengelige karbohydrater, også ville medføre lavere glykemisk respons etter måltider sammenlignet med glukose.I forordning [(EF) nr. 1924/2006](eu/32006r1924*) defineres «påstand» som ethvert budskap eller enhver framstilling som angir, antyder eller gir inntrykk av at næringsmiddelet har særlige egenskaper. En påstand om surdeigsrugbrød med høyt fiberinnhold og glykemisk respons etter måltider antyder at surdeigsrugbrød med høyt fiberinnhold har særlige egenskaper når det gjelder redusert glykemisk respons etter måltider sammenlignet med glukose, mens nesten alle næringsmidler i realiteten har denne virkningen. I henhold til artikkel 3 bokstav a) annet ledd i forordning [(EF) nr. 1924/2006](eu/32006r1924*) skal bruken av helsepåstander ikke være villedende. En påstand om at et bestemt næringsmiddel har visse gunstige egenskaper når nesten alle næringsmidler faktisk har de samme egenskapene, vil være villedende.På bakgrunn av ovennevnte oppfyller påstanden om inntak av surdeigsrugbrød med høyt fiberinnhold og redusert glykemisk respons etter måltider ikke kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*) og bør derfor ikke oppføres i listen over tillatte helsepåstander.De kommentarene som Kommisjonen har mottatt fra søkeren i henhold til artikkel 16 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), er tatt i betraktning ved fastsettelsen av tiltakene i denne forordning.Medlemsstatene er blitt rådspurt –
+
+1 EUT L 404 av 30.12.2006, s. 9.
+
+2 EFSA Journal 2014 12(10):3837.
+
+VEDTATT DENNE FORORDNING:
 
 ### Artikkel 1
 
@@ -2381,8 +4515,18 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel, 31. mai 2016.
 
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  | Jean-Claude JUNCKER |
+|  | *President* |
+
 ### VEDLEGG
 Avslått helsepåstand
+
+| *Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori* | *Påstand* | *Referansenummer for EFSA-uttalelse* |
+| --- | --- | --- | --- |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data underlagt eiendomsrett | Surdeigsrugbrød med høyt fiberinnhold | Redusert glykemisk respons etter måltider sammenlignet med glukose | Q-2014–00012 |
 
 ### Forordning (EU) 2016/1379
 
@@ -2394,11 +4538,21 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2016/137
 av 16. august 2016
 om avslag på godkjenning av visse andre helsepåstander om næringsmidler enn dem som viser til redusert sykdomsrisiko og barns utvikling og helse
 
+EUROPAKOMMISJONEN HAR –
+
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler,1 særlig artikkel 18 nr. 5, og
 
 ut fra følgende betraktninger:I henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924*) er helsepåstander om næringsmidler forbudt med mindre de er godkjent av Kommisjonen i samsvar med nevnte forordning og oppført på en liste over tillatte påstander.I forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det også fastsatt at driftsansvarlige for næringsmiddelforetak kan inngi søknader om godkjenning av helsepåstander til vedkommende nasjonale myndighet i en medlemsstat. Vedkommende nasjonale myndighet skal videresende gyldige søknader til Den europeiske myndighet for næringsmiddeltrygghet (EFSA), heretter kalt «Myndigheten», for vitenskapelig vurdering og til Kommisjonen og medlemsstatene til orientering.Myndigheten skal avgi uttalelse om den aktuelle helsepåstanden.Kommisjonen skal avgjøre om helsepåstander skal godkjennes, idet det tas hensyn til Myndighetens uttalelse.Etter en søknad fra E-piim production Ltd, inngitt i henhold til artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om *Lactobacillus plantarum* TENSIA® i den halvfaste edamerlignende «hjerteosten» av merket Harmony™ og opprettholdelse av normalt blodtrykk (spørsmål nr. EFSA-Q-2014–00097).2 Søkerens foreslåtte påstand hadde følgende ordlyd: «Regelmessig daglig inntak (i minst åtte uker) av 50 g Südamejuust («hjerteost») av merket Harmony™ som inneholder *Lactobacillus plantarum* TENSIA®, bidrar til å opprettholde hjerte- og karsystemet/hjertehelsen ved å senke blodtrykket/hjertesymbol».Kommisjonen og medlemsstatene mottok 1. oktober 2014 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte dataene ikke kunne påvises noen årsakssammenheng mellom inntak av *Lactobacillus plantarum* TENSIA® i den halvfaste edamerlignende «hjerteosten» av merket Harmony™ og opprettholdelse av normalt blodtrykk. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra British Specialist Nutrition Association Ltd, inngitt i henhold til artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om karbohydratløsninger og opprettholdelse av fysisk prestasjonsevne under utholdenhetstrening (spørsmål nr. EFSA-Q-2014–00058).3 Søkerens foreslåtte påstand hadde følgende ordlyd: «Karbohydratløsninger bidrar til å opprettholde utholdenheten under langvarig utholdenhetstrening.» På anmodning fra Myndigheten presiserte søkeren at de næringsmidler som påstanden gjelder, er karbohydratløsninger som ikke inneholder elektrolytter, og at karbohydratløsninger bør sammenlignes med vann eller vann-elektrolyttløsninger når det gjelder den påståtte virkningen.Kommisjonen og medlemsstatene mottok 1. oktober 2014 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte dataene ikke kunne påvises noen årsakssammenheng mellom inntak av karbohydratløsninger og opprettholdelse av fysisk prestasjonsevne under utholdenhetstrening sammenlignet med vann eller vann-elektrolyttløsninger. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.De kommentarene som Kommisjonen har mottatt fra søkerne i henhold til artikkel 16 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), er tatt i betraktning ved fastsettelsen av tiltakene i denne forordning.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr –
+
+1 EUT L 404 av 30.12.2006, s. 9.
+
+2 EFSA Journal 2014;12(10):3842.
+
+3 EFSA Journal 2014;12(10):3836.
+
+VEDTATT DENNE FORORDNING:
 
 ### Artikkel 1
 
@@ -2412,8 +4566,19 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel, 16. august 2016.
 
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  | Jean-Claude JUNCKER |
+|  | President |
+
 ### VEDLEGG
 Avslåtte helsepåstander
+
+| *Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori* | *Påstand* | *Referansenummer for EFSA-uttalelse* |
+| --- | --- | --- | --- |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data underlagt eiendomsrett | *Lactobacillus plantarum* TENSIA® i halvfast edamerlignende «hjerteost» av merket Harmony™ | Regelmessig daglig inntak (i minst åtte uker) av 50 g Südamejuust («hjerteost») av merket Harmony™ som inneholder *Lactobacillus plantarum* TENSIA®, bidrar til å opprettholde hjerte- og karsystemet/hjertehelsen ved å senke blodtrykket/hjertesymbol. | Q-2014–00097 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data underlagt eiendomsrett | Karbohydratløsninger | Karbohydratløsninger bidrar til å opprettholde utholdenheten under langvarig utholdenhetstrening. | Q-2014–00058 |
 
 ### Forordning (EU) 2016/1381
 
@@ -2425,11 +4590,19 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2016/138
 av 16. august 2016
 om avslag på godkjenning av en helsepåstand om næringsmidler som viser til barns utvikling og helse
 
+EUROPAKOMMISJONEN HAR –
+
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler,1 særlig artikkel 17 nr. 3, og
 
 ut fra følgende betraktninger:I henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924*) er helsepåstander om næringsmidler forbudt med mindre de er godkjent av Kommisjonen i samsvar med nevnte forordning og oppført på en liste over tillatte påstander.I forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det også fastsatt at driftsansvarlige for næringsmiddelforetak kan inngi søknader om godkjenning av helsepåstander til vedkommende nasjonale myndighet i en medlemsstat. Vedkommende nasjonale myndighet skal videresende gyldige søknader til Den europeiske myndighet for næringsmiddeltrygghet (EFSA), heretter kalt «Myndigheten».Etter at søknaden er mottatt, skal Myndigheten straks underrette de øvrige medlemsstatene og Kommisjonen og avgi uttalelse om den aktuelle helsepåstanden.Kommisjonen skal avgjøre om helsepåstander skal godkjennes, idet det tas hensyn til Myndighetens uttalelse.Etter en søknad fra Cross Vetpharm Group UK Ltd, inngitt i henhold til artikkel 14 nr. 1 bokstav b) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om beta-galaktosidase fra *Kluyveromyces lactis* i Colief® og reduksjon av mage- og tarmplager (spørsmål nr. EFSA-Q-2014–00404).2 Søkerens foreslåtte påstand hadde følgende ordlyd: «Colief® /laktaseenzym reduserer laktosebelastningen i spedbarns kosthold og lindrer besvær som skyldes nedsatt fordøyelse av laktose hos spedbarn med kolikk som ikke klarer å fordøye all laktose i kosten».Kommisjonen og medlemsstatene mottok 17. juli 2015 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte dataene ikke kunne påvises noen årsakssammenheng mellom inntak av beta-galaktosidase fra *Kluyveromyces lactis* i Colief® og reduksjon av mage- og tarmplager. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr –
+
+1 EUT L 404 av 30.12.2006, s. 9.
+
+2 EFSA Journal 2015;13(7):4187.
+
+VEDTATT DENNE FORORDNING:
 
 ### Artikkel 1
 
@@ -2443,8 +4616,18 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel, 16. august 2016.
 
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  | Jean-Claude JUNCKER |
+|  | President |
+
 ### VEDLEGG
 Avslått helsepåstand
+
+| *Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori* | *Påstand* | *Referansenummer for EFSA-uttalelse* |
+| --- | --- | --- | --- |
+| Artikkel 14 nr. 1 bokstav b) – helsepåstand om barns utvikling og helse | Colief® | Colief® /laktaseenzym reduserer laktosebelastningen i spedbarns kosthold og lindrer besvær som skyldes nedsatt fordøyelse av laktose hos spedbarn med kolikk som ikke klarer å fordøye all laktose i kosten. | Q-2014–00404 |
 
 ### Forordning (EU) 2016/1389
 
@@ -2456,17 +4639,25 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2016/138
 av 17. august 2016
 om godkjenning av en helsepåstand om næringsmidler som viser til barns utvikling og helse
 
+EUROPAKOMMISJONEN HAR –
+
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler,1 særlig artikkel 17 nr. 3, og
 
 ut fra følgende betraktninger:I henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924*) er helsepåstander om næringsmidler forbudt med mindre de er godkjent av Kommisjonen i samsvar med nevnte forordning og oppført på en liste over tillatte påstander.I forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det også fastsatt at driftsansvarlige for næringsmiddelforetak kan inngi søknader om godkjenning av helsepåstander til vedkommende nasjonale myndighet i en medlemsstat. Vedkommende nasjonale myndighet skal videresende gyldige søknader til Den europeiske myndighet for næringsmiddeltrygghet (EFSA), heretter kalt «Myndigheten».Etter at søknaden er mottatt, skal Myndigheten straks underrette de øvrige medlemsstatene og Kommisjonen og avgi uttalelse om den aktuelle helsepåstanden.Kommisjonen skal avgjøre om helsepåstander skal godkjennes, idet det tas hensyn til Myndighetens uttalelse.Etter en søknad fra VAB-nutrition, inngitt i henhold til artikkel 14 nr. 1 bokstav b) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om vitamin D og bidrag til immunsystemets normale funksjon (spørsmål nr. EFSA-Q-2014–00826).2 Søkerens foreslåtte påstand hadde følgende ordlyd: «Vitamin D bidrar til immunsystemets normale funksjon».Kommisjonen og medlemsstatene mottok 13. mai 2015 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det kunne fastslås en årsakssammenheng mellom inntak av vitamin D og bidrag til immunsystemets normale funksjon hos barn. En helsepåstand som gjenspeiler denne konklusjonen, bør følgelig anses å oppfylle kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), og den bør oppføres på EU-listen over tillatte påstander.I artikkel 16 nr. 4 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det fastsatt at en positiv uttalelse om godkjenning av en helsepåstand skal inneholde bestemte opplysninger. Disse opplysningene bør derfor angis i vedlegget til denne forordning for den påstanden som godkjennes, og bør, dersom det er relevant, omfatte påstandens reviderte ordlyd, særlige vilkår for bruk av påstanden, eventuelle vilkår eller restriksjoner for bruk av næringsmiddelet og/eller en tilleggsangivelse eller -advarsel, i samsvar med reglene fastsatt i forordning [(EF) nr. 1924/2006](eu/32006r1924*) og Myndighetens uttalelse.Forordning [(EF) nr. 1924/2006](eu/32006r1924*) har blant annet til formål å sikre at helsepåstander er sannferdige, tydelige, pålitelige og nyttige for forbrukeren, og at det i den forbindelse tas hensyn til formuleringen og presentasjonen av dem. Påstander som i kraft av sin ordlyd har samme betydning for forbrukerne som en godkjent helsepåstand fordi de viser til samme sammenheng mellom en næringsmiddelkategori, et næringsmiddel eller en bestanddel av et næringsmiddel på den ene siden, og helse på den andre siden, bør derfor være underlagt de samme vilkårene for bruk som er angitt i vedlegget til denne forordning.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr –
 
+1 EUT L 404 av 30.12.2006, s. 9.
+
+2 EFSA Journal 2015;13(5):4096.
+
+VEDTATT DENNE FORORDNING:
+
 ### Artikkel 1
 
-1. Helsepåstanden angitt i vedlegget til denne forordning kan brukes om næringsmidler som bringes i omsetning i Den europeiske union, i samsvar med vilkårene fastsatt i nevnte vedlegg.
+1\. Helsepåstanden angitt i vedlegget til denne forordning kan brukes om næringsmidler som bringes i omsetning i Den europeiske union, i samsvar med vilkårene fastsatt i nevnte vedlegg.
 
-2. Helsepåstanden nevnt i nr. 1 skal føres opp på EU-listen over tillatte påstander nevnt i artikkel 14 nr. 1 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).
+2\. Helsepåstanden nevnt i nr. 1 skal føres opp på EU-listen over tillatte påstander nevnt i artikkel 14 nr. 1 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).
 
 ### Artikkel 2
 
@@ -2476,8 +4667,18 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel, 17. august 2016.
 
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  | Jean-Claude JUNCKER |
+|  | President |
+
 ### VEDLEGG
 Tillatte helsepåstander
+
+| *Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Søker – adresse* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori* | *Påstand* | *Vilkår for bruk av påstanden* | *Vilkår og/eller begrensninger for bruk av næringsmiddelet og/eller en utfyllende erklæring eller advarsel* | *Referansenummer for EFSA-uttalelse* |
+| --- | --- | --- | --- | --- | --- | --- |
+| Artikkel 14 nr. 1 bokstav b) – helsepåstand om barns utvikling og helse | VAB-nutrition, 1 rue Claude Danziger, 63100 Clermont-Ferrand, France. | Vitamin D | Vitamin D bidrar til immunsystemets normale funksjon hos barn. | Påstanden kan brukes bare om næringsmidler som minst er en kilde til vitamin D i henhold til påstanden KILDE TIL [NAVN PÅ VITAMIN] OG/ELLER [NAVN PÅ MINERAL] i vedlegget til forordning [(EF) nr. 1924/2006](eu/32006r1924*). |  | Q-2014–00826 |
 
 ### Forordning (EU) 2016/1390
 
@@ -2489,11 +4690,19 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2016/139
 av 17. august 2016
 om avslag på godkjenning av en helsepåstand om næringsmidler som viser til barns utvikling og helse
 
+EUROPAKOMMISJONEN HAR –
+
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler,1 særlig artikkel 17 nr. 3, og
 
 ut fra følgende betraktninger:I henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924*) er helsepåstander om næringsmidler forbudt med mindre de er godkjent av Kommisjonen i samsvar med nevnte forordning og oppført på en liste over tillatte påstander.I forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det også fastsatt at driftsansvarlige for næringsmiddelforetak kan inngi søknader om godkjenning av helsepåstander til vedkommende nasjonale myndighet i en medlemsstat. Vedkommende nasjonale myndighet skal videresende gyldige søknader til Den europeiske myndighet for næringsmiddeltrygghet (EFSA), heretter kalt «Myndigheten».Etter at søknaden er mottatt, skal Myndigheten straks underrette de øvrige medlemsstatene og Kommisjonen og avgi uttalelse om den aktuelle helsepåstanden.Kommisjonen skal avgjøre om helsepåstander skal godkjennes, idet det tas hensyn til Myndighetens uttalelse.Etter en søknad fra Vifor Ltd, inngitt i henhold til artikkel 14 nr. 1 bokstav b) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om Equazen eye q® og bedre leseferdigheter (spørsmål nr. EFSA-Q-2014–00462).2 Søkerens foreslåtte påstand hadde følgende ordlyd: «Equazen eye q® (blanding av EPA:DHA:GLA i forholdet 9:3:1) gir bedre leseferdigheter og relaterte kognitive funksjoner hos barn».Kommisjonen og medlemsstatene mottok 13. oktober 2015 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det ikke var påvist noen årsakssammenheng mellom inntak av Equazen Eye q®, en blanding av EPA, DHA og GLA (i vektforholdet 9:3:1) og bedre leseferdigheter hos barn. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr –
+
+1 EUT L 404 av 30.12.2006, s. 9.
+
+2 EFSA Journal 2015;13(10):4251.
+
+VEDTATT DENNE FORORDNING:
 
 ### Artikkel 1
 
@@ -2507,8 +4716,18 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel, 17. august 2016.
 
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  | Jean-Claude JUNCKER |
+|  | President |
+
 ### VEDLEGG
 Avslått helsepåstand
+
+| *Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori* | *Påstand* | *Referansenummer for EFSA-uttalelse* |
+| --- | --- | --- | --- |
+| Artikkel 14 nr. 1 bokstav b) – helsepåstand om barns utvikling og helse | Equazen eye q® | Equazen eye q® (blanding av EPA:DHA:GLA i forholdet 9:3:1) gir bedre leseferdigheter og relaterte kognitive funksjoner hos barn. | Q-2014–00462 |
 
 ### Forordning (EU) 2016/1411
 
@@ -2520,9 +4739,39 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2016/141
 av 24. august 2016
 om avslag på godkjenning av visse andre helsepåstander om næringsmidler enn dem som viser til redusert sykdomsrisiko og barns utvikling og helse
 
+EUROPAKOMMISJONEN HAR –
+
+under henvisning til traktaten om Den europeiske unions virkemåte,
+
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler,1 særlig artikkel 18 nr. 5, og
 
 ut fra følgende betraktninger:I henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924*) er helsepåstander om næringsmidler forbudt med mindre de er godkjent av Kommisjonen i samsvar med nevnte forordning og oppført på en liste over tillatte påstander.Ved forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det også fastsatt at driftsansvarlige for næringsmiddelforetak kan inngi søknader om godkjenning av helsepåstander til vedkommende nasjonale myndighet i en medlemsstat. Vedkommende nasjonale myndighet skal videresende gyldige søknader til Den europeiske myndighet for næringsmiddeltrygghet (EFSA), heretter kalt «Myndigheten», for vitenskapelig vurdering og til Kommisjonen og medlemsstatene til orientering.Myndigheten skal avgi uttalelse om den aktuelle helsepåstanden.Kommisjonen skal ta hensyn til uttalelsen fra Myndigheten når den treffer beslutning om godkjenning av helsepåstander.Etter en søknad fra SmithKline Beecham Limited, inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om koffein og økt årvåkenhet (spørsmål nr. EFSA-Q-2013–00399).2 Søkerens foreslåtte påstand hadde følgende ordlyd: «Koffein bidrar til økt årvåkenhet».Kommisjonen og medlemsstatene mottok 21. februar 2014 Myndighetens vitenskapelige uttalelse. I uttalelsen minnet Myndigheten om at påstanden om koffein og økt årvåkenhet hos den voksne befolkningen når det gjelder produkter som inneholder minst 75 mg koffein per porsjon, allerede var blitt vurdert av Myndigheten med positivt resultat.3 I denne søknaden hevder søkeren at for at påstanden skal kunne brukes, bør et produkt inneholde en dose koffein på minst 40 mg per porsjon. Myndigheten anså at den vitenskapelige dokumentasjonen til denne påstanden gjaldt koffeindoser på mellom 40 mg per porsjon4 og 75 mg per porsjon,5 og konkluderte med at det på grunnlag av de framlagte opplysningene ikke var påvist noen årsakssammenheng mellom inntak av koffein og økt årvåkenhet ved de bruksvilkårene som søkeren hadde foreslått. Myndigheten gjentok dessuten sin tidligere konklusjon at et produkt bør inneholde minst 75 mg koffein per porsjon for at påstanden skal kunne brukes. Ettersom påstanden ved de foreslåtte bruksvilkårene ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra BASF SE og Stepan Lipid Nutrition, inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om en ekvimolar blanding av to konjugerte isomerer av linolsyre (CLA) c9,t11 og t10,c12 (markedsført under handelsnavnene Clarinol® og Tonalin®) og bidrag til å redusere kroppens fettmengde (spørsmål nr. EFSA-Q-2014–005806 ). Søkerens foreslåtte påstand hadde følgende ordlyd: «Inntak av Clarinol® eller Tonalin® bidrar til å redusere kroppens fettmengde».Kommisjonen og medlemsstatene mottok 8. januar 2015 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte opplysningene ikke kunne påvises noen årsakssammenheng mellom inntak av en ekvimolar blanding av de to CLA-isomerene c9,t11 og t10,c12 (markedsført under handelsnavnene Clarinol® og Tonalin®) og den påståtte virkningen. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra Synbiotec S.r.l., inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om SYNBIO®, en kombinasjon av *Lactobacillus rhamnosus* IMC 501® og *Lactobacillus paracasei* IMC 502® og opprettholdelse av normal avføring (spørsmål nr. EFSA-Q-2014–00567).7 Søkerens foreslåtte påstand hadde følgende ordlyd: «SYNBIO® består i tarmkanalen og fremmer den naturlige reguleringen, noe som bidrar til å opprettholde og forbedre tarmhelsen hos mennesker».Kommisjonen og medlemsstatene mottok 13. mai 2015 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte opplysningene ikke kunne påvises noen årsakssammenheng mellom inntak av SYNBIO® og opprettholdelse av normal avføring. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra WILD-Valencia SAU, inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om FRUIT UP®, et karbohydratekstrakt av johannesbrødbelger (*Ceratonia siliqua* L.), og redusert glykemisk respons etter måltider (spørsmål nr. EFSA-Q-2014–00405).8 Søkerens foreslåtte påstand hadde følgende ordlyd: «FRUIT UP® reduserer glykemisk respons etter måltider sammenlignet med høyglykemiske karbohydrater».Kommisjonen og medlemsstatene mottok 13. mai 2015 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte opplysningene ikke kunne påvises noen årsakssammenheng mellom inntak av en FRUIT UP® og redusert glykemisk respons etter måltider utover den veletablerte virkningen som fruktose9 har på glykemisk respons etter måltider når den erstatter glukose i næringsmidler. Myndigheten fastslo også at det ikke var påvist noen virkning når FRUIT UP® ble sammenlignet med sukrose. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra Nerthus ApS, inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om en kombinasjon av pressrester av granateple (standardisert ved sitt innhold av punicalaginer) og pulveriserte jordstengler av stor galanga (standardisert ved sitt innhold av acetoksychavicolacetat) og en økning i antallet bevegelige sædceller i sæd (spørsmål nr. EFSA-Q-2014–00566.10 Søkerens foreslåtte påstand hadde følgende ordlyd: «En kombinasjon av et standardisert ekstrakt av pressrester av granateple og pulveriserte jordstengler av stor galanga øker antallet bevegelige sædceller i sæd».Kommisjonen og medlemsstatene mottok 13. mai 2015 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte opplysningene ikke kunne påvises noen årsakssammenheng mellom inntak av en kombinasjon av ekstrakt av pressrester av granateple (standardisert ved sitt innhold av punicalaginer) og pulveriserte jordstengler av stor galanga (standardisert ved sitt innhold av acetoksychavicolacetat) og den påståtte virkningen. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra Lallemand Health Solutions, inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om *Bifidobacterium bifidum* CNCM I-3426 og forsvar mot sykdomsframkallende stoffer i de øvre luftveiene (spørsmål nr. EFSA-Q-2014–00673.11 Søkerens foreslåtte påstand hadde følgende ordlyd: «*Bifidobacterium bifidum* CNCM I-3426 øker andelen friske dager ved å opprettholde immunforsvarets normalfunksjon hos friske voksne ved hverdagshendelser som moderat stress»–Kommisjonen og medlemsstatene mottok 13. mai 2015 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte opplysningene ikke kunne påvises noen årsakssammenheng mellom inntak av *B. bifidum* CNCM I-3426 og forsvar mot sykdomsframkallende stoffer i de øvre luftveiene. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra Tchibo GmbH, inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om C21-kaffe, en kaffe standardisert ved sitt innhold av klorogensyre, trigonellin og N-metylpyridinium, og færre DNA-skader gjennom færre spontane brudd på DNA-tråder (spørsmål nr. EFSA-Q-2014–00624).12 Søkerens foreslåtte påstand hadde følgende ordlyd: «Regelmessig inntak av C21-kaffe bidrar til å opprettholde DNA-integriteten i kroppens celler».Kommisjonen og medlemsstatene mottok 13. mai 2015 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte opplysningene ikke kunne påvises noen årsakssammenheng mellom inntak av C21-kaffe og den påståtte virkningen. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.De kommentarene som Kommisjonen har mottatt fra søkerne i henhold til artikkel 16 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), er tatt i betraktning ved fastsettelsen av tiltakene i denne forordning.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr –
+
+1 EUT L 404 av 30.12.2006, s. 9.
+
+2 EFSA Journal 2014 12(2):3574.
+
+3 EFSA Journal 2011 9(4):2054.
+
+4 Minste effektive dose som søkeren har foreslått.
+
+5 Minste effektive dose foreslått av EFSA.
+
+6 EFSA Journal 2015 13(1):3953.
+
+7 EFSA Journal 2015 13(5):4095.
+
+8 EFSA Journal 2015 13(5):4098.
+
+9 EFSA Journal 2011 9(6):2223. En helsepåstand om fruktose ble godkjent ved kommisjonsforordning [(EU) nr. 536/2013](eu/32013r0536) av 11. juni 2013 om endring av forordning [(EU) nr. 432/2012](eu/32012r0432) om fastsettelse av en liste over andre tillatte helsepåstander om næringsmidler enn dem som viser til redusert sykdomsrisiko eller barns utvikling og helse (EUT L 160 av 12.6.2013, s. 4).
+
+10 EFSA Journal 2015 13(5):4097.
+
+11 EFSA Journal 2015 13(5):4094.
+
+12 EFSA Journal 2015 13(5):4099.
+
+VEDTATT DENNE FORORDNING:
 
 ### Artikkel 1
 
@@ -2536,8 +4785,24 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel 24. august 2016.
 
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  | Jean-Claude JUNCKER |
+|  | *President* |
+
 ### VEDLEGG
 Avslåtte helsepåstander
+
+| *Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori* | *Påstand* | *Referansenummer for EFSA-uttalelse* |
+| --- | --- | --- | --- |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige beviser og/eller inneholder en anmodning om sikring av data underlagt eiendomsrett | Koffein | Koffein bidrar til økt årvåkenhet\*<br>\* *For et koffeininntak på mellom 40 mg per porsjon og 75 mg per porsjon*. | Q-2013–00399 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige beviser og/eller inneholder en anmodning om sikring av data underlagt eiendomsrett | Clarinol® og Tonalin® | Inntak av Clarinol® eller Tonalin® bidrar til å redusere kroppens fettmengde. | Q-2014–00580 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige beviser og/eller inneholder en anmodning om sikring av data underlagt eiendomsrett | SYNBIO® | SYNBIO® består i tarmkanalen og fremmer den naturlige reguleringen, noe som bidrar til å opprettholde og forbedre tarmhelsen hos mennesker. | Q-2014–00567 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige beviser og/eller inneholder en anmodning om sikring av data underlagt eiendomsrett | FRUIT UP® | FRUIT UP® reduserer glykemisk respons etter måltider sammenlignet med høyglykemiske karbohydrater. | Q-2014–00405 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige beviser og/eller inneholder en anmodning om sikring av data underlagt eiendomsrett | En kombinasjon av ekstrakt av pressrester av granateple og pulveriserte jordstengler av stor galanga | En kombinasjon av et standardisert ekstrakt av pressrester av granateple og pulveriserte jordstengler av stor galanga øker antallet bevegelige sædceller i sæd. | Q-2014–00566 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige beviser og/eller inneholder en anmodning om sikring av data underlagt eiendomsrett | *Bifidobacterium bifidum* CNCM I-3426 | «*Bifidobacterium bifidum* CNCM I-3426 øker andelen friske dager ved å opprettholde immunforsvarets normalfunksjon hos friske voksne ved hverdagshendelser som moderat stress. | Q-2014–00673 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige beviser og/eller inneholder en anmodning om sikring av data underlagt eiendomsrett | C21-kaffe (kaffe standardisert ved sitt innhold av klorogensyre, trigonellin og N-metylpyridinium) | Regelmessig inntak av C21-kaffe bidrar til å opprettholde DNA-integriteten i kroppens celler. | Q-2014–00624 |
 
 ### Forordning (EU) 2016/1412
 
@@ -2549,9 +4814,19 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2016/141
 av 24. august 2016
 om avslag på godkjenning av en helsepåstand om næringsmidler som viser til redusert sykdomsrisiko
 
+EUROPAKOMMISJONEN HAR –
+
+under henvisning til traktaten om Den europeiske unions virkemåte,
+
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler,1 særlig artikkel 17 nr. 3, og
 
 ut fra følgende betraktninger:I henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924*) er helsepåstander om næringsmidler forbudt med mindre de er godkjent av Kommisjonen i samsvar med nevnte forordning og oppført på en liste over tillatte påstander.Ved forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det også fastsatt at driftsansvarlige for næringsmiddelforetak kan inngi søknader om godkjenning av helsepåstander til vedkommende nasjonale myndighet i en medlemsstat. Vedkommende nasjonale myndighet skal videresende gyldige søknader til Den europeiske myndighet for næringsmiddeltrygghet (EFSA), heretter kalt «Myndigheten».Etter at søknaden er mottatt, skal Myndigheten straks underrette de øvrige medlemsstatene og Kommisjonen og avgi uttalelse om den aktuelle helsepåstanden.Kommisjonen skal ta hensyn til uttalelsen fra Myndigheten når den treffer beslutning om godkjenning av helsepåstander.Etter en søknad fra Han-Asiabiotech GmbH, inngitt i samsvar med artikkel 14 nr. 1 bokstav a) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om Symbiosal® og senking av blodtrykket (spørsmål nr. EFSA-Q-2014–00366).2 Søkerens foreslåtte påstand hadde følgende ordlyd: «Symbiosal har vist seg å senke stigende blodtrykk når det brukes som erstatning for tradisjonelt bordsalt. Stigende blodtrykk er en risikofaktor for høyt blodtrykk (hypertensjon)».Kommisjonen og medlemsstatene mottok 1. juli 2015 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte opplysningene ikke kunne påvises en årsakssammenheng mellom inntak av Symbiosal® istedenfor bordsalt og senking av blodtrykket. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr –
+
+1 EUT L 404 av 30.12.2006, s. 9.
+
+2 EFSA Journal 2015 13(7):4147.
+
+VEDTATT DENNE FORORDNING:
 
 ### Artikkel 1
 
@@ -2565,8 +4840,18 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel 24. august 2016.
 
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  | Jean-Claude JUNCKER |
+|  | President |
+
 ### VEDLEGG
 Avslått helsepåstand
+
+| *Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori* | *Påstand* | *Referansenummer for EFSA-uttalelse* |
+| --- | --- | --- | --- |
+| Artikkel 14 nr. 1 bokstav a) – helsepåstand om redusert sykdomsrisiko | Symbiosal® | Symbiosal har vist seg å senke stigende blodtrykk når det brukes som erstatning for tradisjonelt bordsalt. Stigende blodtrykk er en risikofaktor for høyt blodtrykk (hypertensjon). | Q-2014–00366 |
 
 ### Forordning (EU) 2017/236
 
@@ -2578,11 +4863,19 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2017/236
 av 10. februar 2017
 om avslag på godkjenning av en helsepåstand om næringsmidler som viser til redusert sykdomsrisiko
 
+EUROPAKOMMISJONEN HAR –
+
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler,1 særlig artikkel 17 nr. 3, og
 
 ut fra følgende betraktninger:I henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924*) er helsepåstander om næringsmidler forbudt med mindre de er godkjent av Kommisjonen i samsvar med nevnte forordning og oppført på en liste over tillatte påstander.Ved forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det også fastsatt at driftsansvarlige for næringsmiddelforetak kan inngi søknader om godkjenning av helsepåstander til vedkommende nasjonale myndighet i en medlemsstat. Vedkommende nasjonale myndighet skal videresende gyldige søknader til Den europeiske myndighet for næringsmiddeltrygghet (EFSA), heretter kalt «Myndigheten».Etter at søknaden er mottatt, skal Myndigheten straks underrette de øvrige medlemsstatene og Kommisjonen og avgi uttalelse om den aktuelle helsepåstanden.Kommisjonen skal ta hensyn til uttalelsen fra Myndigheten når den treffer beslutning om godkjenning av helsepåstander.Etter en søknad fra Anxiofit Ltd og ExtractumPharma Co Ltd, inngitt i samsvar med artikkel 14 nr. 1 bokstav a) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om Anxiofit-1 og reduksjon av subklinisk og mild angst (spørsmål nr. EFSA-Q-2015–00006).2 Søkerens foreslåtte påstand hadde følgende ordlyd: «Anxiofit-1 har vist seg å ha en positiv virkning på subklinisk og mild angst. Subklinisk og mildt angst er risikofaktorer for utvikling av angstlidelser og depresjon.»Kommisjonen og medlemsstatene mottok 8. januar 2016 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte dataene ikke kunne påvises noen årsakssammenheng mellom konsum av Anxiofit-1 og reduksjon av subklinisk og mild angst. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr –
+
+1 EFT L 404 av 30.12.1989, s. 9.
+
+2 *EFSA Journal* 2016;14(1):4365.
+
+VEDTATT DENNE FORORDNING:
 
 ### Artikkel 1
 
@@ -2596,8 +4889,20 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel 10. februar 2017.
 
+|  |  |
+| --- | --- |
+|  | For Kommisjonen |
+|  |  |
+|  | Jean-Claude Juncker |
+|  |  |
+|  | President |
+
 ### VEDLEGG
 Avslått helsepåstand
+
+| Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*) | Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori | Påstand | Referansenummer for EFSA-uttalelse |
+| --- | --- | --- | --- |
+| Artikkel 14 nr. 1 bokstav a) – helsepåstand om redusert sykdomsrisiko | Anxiofit-1 | Anxiofit-1 har vist seg å ha en positiv virkning på subklinisk og mild angst. Subklinisk og mildt angst er risikofaktorer for utvikling av angstlidelser og depresjon. | Q-2015–00006 |
 
 ### Forordning (EU) 2017/1200
 
@@ -2609,11 +4914,23 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2017/120
 av 5. juli 2017
 om avslag på godkjenning av visse andre helsepåstander om næringsmidler enn dem som viser til redusert sykdomsrisiko og barns utvikling og helse
 
+EUROPAKOMMISJONEN HAR –
+
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler,1 særlig artikkel 18 nr. 5, og
 
 ut fra følgende betraktninger:I henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924*) er helsepåstander om næringsmidler, som definert i nevnte forordning, forbudt med mindre de er godkjent av Kommisjonen i samsvar med den forordningen og oppført på en liste over tillatte påstander.Ved forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det også fastsatt at driftsansvarlige for næringsmiddelforetak kan inngi søknader om godkjenning av helsepåstander til vedkommende nasjonale myndighet i en medlemsstat. Vedkommende nasjonale myndighet skal videresende gyldige søknader til Den europeiske myndighet for næringsmiddeltrygghet (EFSA), heretter kalt «Myndigheten», for vitenskapelig vurdering og til Kommisjonen og medlemsstatene til orientering.Myndigheten skal avgi uttalelse om den aktuelle helsepåstanden.Kommisjonen skal ta hensyn til uttalelsen fra Myndigheten når den treffer beslutning om godkjenning av helsepåstander.Etter en søknad fra Ecopharma BVBA, inngitt i henhold til artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om Fabenol® Max, et standardisert vandig ekstrakt fra *Phaseolus vulgaris* L., og redusert opptak av karbohydrater (spørsmål nr. EFSA-Q-2015-00123).2 Søkerens foreslåtte påstand hadde følgende ordlyd: «Fabenol® Max reduserer opptaket av karbohydrater».Kommisjonen og medlemsstatene mottok 23. februar 2016 den vitenskapelige uttalelsen fra Myndigheten, som påpekte at den påståtte virkningen ikke var tilstrekkelig godt definert, og at søkeren ikke fremla tilleggsopplysninger som Myndigheten anmodet om. På grunnlag av de opplysningene som ble framlagt, konkluderte derfor Myndigheten at det ikke kunne fastslås en årsakssammenheng mellom inntak av Fabenol® Max og påstått virkning. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra DSM Nutritional Products, inngitt i henhold til artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om dokosaheksaensyre (DHA) og forbedret hukommelsesfunksjon (spørsmål nr. EFSA-Q-2015-00456).3 Søkerens foreslåtte påstand hadde følgende ordlyd: «DHA bidrar til forbedret hukommelsesfunksjon».Kommisjonen og medlemsstatene mottok 2. mai 2016 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte opplysningene ikke kunne påvises noen årsakssammenheng mellom inntak av DHA og den påståtte virkningen. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra Tate & Lyle PLC, inngitt i henhold til artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om polydekstrose og normal avføring (spørsmål nr. EFSA-Q-2015-00550).4 Søkerens foreslåtte påstand hadde følgende ordlyd: «Polydekstrose bidrar til forbedret tarmfunksjon gjennom økt avføringsmengde».Kommisjonen og medlemsstatene mottok 25. mai 2016 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte opplysningene ikke kunne påvises noen årsakssammenheng mellom inntak av polydekstrose og den påståtte virkningen. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr –
+
+1 EUT L 404 av 30.12.2006, s. 9.
+
+2 EFSA Journal 2016;14(2):4401.
+
+3 EFSA Journal 2016;14(5):4455.
+
+4 EFSA Journal 2016;14(5):4480.
+
+VEDTATT DENNE FORORDNING:
 
 ### Artikkel 1
 
@@ -2627,8 +4944,22 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel 5. juli 2017.
 
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  |  |
+|  | Jean-Claude Juncker |
+|  |  |
+|  | *President* |
+
 ### VEDLEGG
 Avslåtte helsepåstander
+
+| *Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori* | *Påstand* | *Referansenummer for EFSA-uttalelse* |
+| --- | --- | --- | --- |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige beviser og/eller inneholder en anmodning om sikring av data underlagt eiendomsrett | Fabenol® Max | Fabenol® Max reduserer opptaket av karbohydrater | Q-2015-00123 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige beviser og/eller inneholder en anmodning om sikring av data underlagt eiendomsrett | DHA | DHA bidrar til forbedret hukommelsesfunksjon | Q-2015-00456 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige beviser og/eller inneholder en anmodning om sikring av data underlagt eiendomsrett | Polydekstrose | Polydekstrose bidrar til forbedret tarmfunksjon gjennom økt avføringsmengde | Q-2015-00550 |
 
 ### Forordning (EU) 2017/1201
 
@@ -2640,11 +4971,19 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2017/120
 av 5. juli 2017
 om avslag på godkjenning av en annen helsepåstand om næringsmidler enn dem som viser til redusert sykdomsrisiko og barns utvikling og helse
 
+EUROPAKOMMISJONEN HAR –
+
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler,1 særlig artikkel 18 nr. 5, og
 
 ut fra følgende betraktninger:I henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924*) er helsepåstander om næringsmidler forbudt med mindre de er godkjent av Kommisjonen i samsvar med nevnte forordning og oppført på en liste over tillatte påstander.Ved forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det også fastsatt at driftsansvarlige for næringsmiddelforetak kan inngi søknader om godkjenning av helsepåstander til vedkommende nasjonale myndighet i en medlemsstat. Vedkommende nasjonale myndighet skal videresende gyldige søknader til Den europeiske myndighet for næringsmiddeltrygghet (EFSA), heretter kalt «Myndigheten», for vitenskapelig vurdering og til Kommisjonen og medlemsstatene til orientering.Myndigheten skal avgi uttalelse om den aktuelle helsepåstanden.Kommisjonen skal ta hensyn til uttalelsen fra Myndigheten når den treffer beslutning om godkjenning av helsepåstander.Etter en søknad fra Beghin-Meiji og Tereos Syral, inngitt i henhold til artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om kortkjedede fruktooligosakkarider fra sukrose og opprettholdelse av normal avføring (spørsmål nr. EFSA-Q-2015-00377).2 Søkeren har foreslått følgende ordlyd for helsepåstanden: «Opprettholder normal tarmregulering» eller «opprettholder tarmreguleringen gjennom økt tarmbevegelse» eller «bidrar til normal tarmregulering eller normal tarmfunksjon».Kommisjonen og medlemsstatene mottok 8. januar 2016 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte opplysningene ikke kunne påvises noen årsakssammenheng mellom inntak av kortkjedede fruktooligosakkarider fra sukrose og opprettholdelse av normal avføring for de bruksvilkårene som søkeren hadde foreslått. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.De kommentarene som Kommisjonen har mottatt fra søkeren i henhold til artikkel 16 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), er tatt i betraktning ved fastsettelsen av tiltakene i denne forordning.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr –
+
+1 EUT L 404 av 30.12.2006, s. 9.
+
+2 *EFSA Journal* 2016;14(1):4366.
+
+VEDTATT DENNE FORORDNING:
 
 ### Artikkel 1
 
@@ -2658,8 +4997,20 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel onsdag 5. juli 2017.
 
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  |  |
+|  | Jean-Claude Juncker |
+|  |  |
+|  | *President* |
+
 ### VEDLEGG
 Avslått helsepåstand
+
+| *Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori* | *Påstand* | *Referansenummer for EFSA-uttalelse* |
+| --- | --- | --- | --- |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige beviser og/eller inneholder en anmodning om sikring av data underlagt eiendomsrett | Kortkjedede fruktooligosakkarider fra sukrose | Opprettholder normal tarmregulering | Q-2015-00377 |
 
 ### Forordning (EU) 2017/1202
 
@@ -2671,11 +5022,23 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2017/120
 av 5. juli 2017
 om avslag på godkjenning av visse andre helsepåstander om næringsmidler enn dem som viser til redusert sykdomsrisiko og barns utvikling og helse
 
+EUROPAKOMMISJONEN HAR –
+
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler,1 særlig artikkel 18 nr. 5, og
 
 ut fra følgende betraktninger:I henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924*) er helsepåstander om næringsmidler forbudt med mindre de er godkjent av Kommisjonen i samsvar med nevnte forordning og oppført på en liste over tillatte påstander.Ved forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det også fastsatt at driftsansvarlige for næringsmiddelforetak kan inngi søknader om godkjenning av helsepåstander til vedkommende nasjonale myndighet i en medlemsstat. Vedkommende nasjonale myndighet skal videresende gyldige søknader til Den europeiske myndighet for næringsmiddeltrygghet (EFSA), heretter kalt «Myndigheten», for vitenskapelig vurdering og til Kommisjonen og medlemsstatene til orientering.Myndigheten skal avgi uttalelse om den aktuelle helsepåstanden.Kommisjonen skal ta hensyn til uttalelsen fra Myndigheten når den treffer beslutning om godkjenning av helsepåstander.Etter en søknad fra Granarolo S.p.A., inngitt i henhold til artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om fettfattig fermentert melk med en kombinasjon av fruktooligosakkarider og levende *Lactobacillus rhamnosus* GG (ATCC 53103), *Streptococcus thermophilus* (Z57) og *Lactobacillus delbrueckii* subsp. *bulgaricus* (LB2) og beskyttelse mot reaktivering av herpes simplex-viruset i det orolabiale epitel (spørsmål nr. EFSA-Q-2015-00488).2 Søkerens foreslåtte påstand hadde følgende ordlyd: «Inntak av fettfattig fermentert melk med en kombinasjon av fruktooligosakkarider og levende *Lactobacillus rhamnosus* GG (ATCC 53103), *Streptococcus thermophilus* (Z57) og *Lactobacillus delbrueckii* subsp. *bulgaricus* (LB2) bidrar til å redusere forekomsten av tilbakevendende forkjølelsessår forårsaket av herpes simplex-viruset hos friske, mottakelige personer».Kommisjonen og medlemsstatene mottok 19. juli 2016 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte opplysningene ikke kunne påvises noen årsakssammenheng mellom inntak av fettfattig fermentert melk, som helsepåstanden gjelder, og beskyttelse mot reaktivering av herpes simplex-viruset i det orolabiale epitel. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra Food for Health Ireland, inngitt i henhold til artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om FHI LFC24, et kaseinhydrolysat av kumelk, og redusert blodsukkerrespons etter måltider (spørsmål nr. EFSA-Q-2015-00755).3 Søkerens foreslåtte påstand hadde følgende ordlyd: «FHI LFC24 bidrar til å regulere blodsukkernivået etter inntak av næringsmidler».Kommisjonen og medlemsstatene mottok 22. juli 2016 den vitenskapelige uttalelsen fra Myndigheten, der det ble påpekt at søkerens dokumentasjon ikke fastslår at redusert glykemisk respons etter måltider gjennom økt insulinsekresjon er en gunstig fysiologisk virkning for målpopulasjonen som påstanden gjelder for. På grunnlag av de opplysningene som ble framlagt, konkluderte derfor Myndigheten at det ikke kunne fastslås en årsakssammenheng mellom inntak av næringsmiddelet som påstanden gjelder, og en gunstig fysiologisk virkning for målpopulasjonen. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra Pierre Fabre Medicament, inngitt i henhold til artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om V0137, «DHA-beriket fiskeolje», og «bidrar til å bremse aldersrelatert kognitiv svikt på områder som hukommelse og eksekutivfunksjoner» (spørsmål nr. EFSA-Q2016-00071).4 Søkerens foreslåtte påstand hadde følgende ordlyd: «V0137, sammen med fysisk og mental trening, bidrar til å bremse aldersrelatert kognitiv svikt på områder som hukommelse og eksekutivfunksjoner».Kommisjonen og medlemsstatene mottok 5. august 2016 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte opplysningene ikke kunne påvises noen årsakssammenheng mellom inntak av V0137, som helsepåstanden gjelder, og redusert tap av kognitive funksjoner. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr –
+
+1 EUT L 404 av 30.12.2006, s. 9.
+
+2 *EFSA Journal* 2016;14(7):4538.
+
+3 *EFSA Journal* 2016;14(7):4540.
+
+4 *EFSA Journal* 2016;14(8):4539.
+
+VEDTATT DENNE FORORDNING:
 
 ### Artikkel 1
 
@@ -2689,8 +5052,22 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel onsdag 5. juli 2017.
 
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  |  |
+|  | Jean-Claude Juncker |
+|  |  |
+|  | *President* |
+
 ### VEDLEGG
 Avslåtte helsepåstander
+
+| *Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori* | *Påstand* | *Referansenummer for EFSA-uttalelse* |
+| --- | --- | --- | --- |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige beviser og/eller inneholder en anmodning om sikring av data underlagt eiendomsrett | Fettfattig fermentert melk med en kombinasjon av fruktooligosakkarider og levende *Lactobacillus rhamnosus* GG (ATCC 53103), *Streptococcus thermophilus* (Z57) og *Lactobacillus delbrueckii* subsp. *bulgaricus* (LB2). | Inntak av fettfattig fermentert melk med en kombinasjon av fruktooligosakkarider og levende *Lactobacillus rhamnosus* GG (ATCC 53103), *Streptococcus thermophilus* (Z57) og *Lactobacillus delbrueckii* subsp. bulgaricus (LB2) bidrar til å redusere forekomsten av tilbakevendende forkjølelsessår forårsaket av herpes simplex-viruset hos friske, mottakelige personer. | Q-2015-00488 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige beviser og/eller inneholder en anmodning om sikring av data underlagt eiendomsrett | FHI LFC24, et kaseinhydrolysat av kumelk. | FHI LFC24 bidrar til å regulere blodsukkernivået etter inntak av næringsmidler. | Q-2015-00755 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige beviser og/eller inneholder en anmodning om sikring av data underlagt eiendomsrett | V0137, DHA-beriket fiskeolje. | V0137, sammen med fysisk og mental trening, bidrar til å bremse aldersrelatert kognitiv svikt på områder som hukommelse og eksekutivfunksjoner. | Q-2016-00071 |
 
 ### Forordning (EU) 2018/199
 
@@ -2702,11 +5079,19 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2018/199
 av 9. februar 2018
 om avslag på godkjenning av en annen helsepåstand om næringsmidler enn dem som viser til redusert sykdomsrisiko og barns utvikling og helse
 
+EUROPAKOMMISJONEN HAR –
+
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler1 særlig artikkel 18 nr. 5, og
 
 ut fra følgende betraktninger:I henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924*) er helsepåstander om næringsmidler forbudt med mindre de er godkjent av Kommisjonen i samsvar med nevnte forordning og oppført på en liste over tillatte påstander.Ved forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det også fastsatt at driftsansvarlige for næringsmiddelforetak kan inngi søknader om godkjenning av helsepåstander til vedkommende nasjonale myndighet i en medlemsstat. Vedkommende nasjonale myndighet skal videresende gyldige søknader til Den europeiske myndighet for næringsmiddeltrygghet (EFSA), heretter kalt «Myndigheten», for vitenskapelig vurdering samt til Kommisjonen og medlemsstatene til orientering.Myndigheten skal avgi uttalelse om den aktuelle helsepåstanden.Kommisjonen skal ta hensyn til uttalelsen fra Myndigheten når den treffer beslutning om godkjenning av helsepåstander.Etter en søknad fra Probi AB, inngitt i henhold til artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om *Lactobacillus plantarum* 299v (Lp299v) og en økning i opptak av ikke-hemjern (spørsmål nr. EFSA-Q-2015-00696).2 Søkerens foreslåtte påstand hadde følgende ordlyd: «*Lactobacillus plantarum* 299v øker opptaket av ikke-hemjern.»Kommisjonen og medlemsstatene mottok 25. juli 2016 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte dataene ikke kunne påvises noen årsakssammenheng mellom inntak av Lp229v og en økning i opptak av ikke-hemjern. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.De kommentarene som Kommisjonen har mottatt fra søkeren i henhold til artikkel 16 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), er tatt i betraktning ved fastsettelsen av tiltakene i denne forordning.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr.
+
+1 EUT L 404 av 30.12.2006, s. 9.
+
+2 *EFSA Journal* 2016;14(7):4550.
+
+VEDTATT DENNE FORORDNING:
 
 ### Artikkel 1
 
@@ -2720,8 +5105,18 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel 9. februar 2018.
 
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  | Jean-Claude Juncker |
+|  | *President* |
+
 ### VEDLEGG
 Avslått helsepåstand
+
+| Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*) | Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori | Påstand | EFSA-uttalelse |
+| --- | --- | --- | --- |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nye vitenskapelige beviser og/eller inneholder en anmodning om sikring av data underlagt eiendomsrett | *Lactobacillus plantarum* 299v (Lp299v) | *Lactobacillus plantarum* 299v (Lp299v) øker opptaket av ikke-hemjern | Q-2015-00696 |
 
 ### Forordning (EU) 2018/1555
 
@@ -2733,11 +5128,23 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2018/155
 av 17. oktober 2018
 om avslag på godkjenning av visse helsepåstander om næringsmidler som viser til redusert sykdomsrisiko
 
+EUROPAKOMMISJONEN HAR
+
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler,1 særlig artikkel 17 nr. 3, og
 
 ut fra følgende betraktninger:I henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924*) er helsepåstander om næringsmidler forbudt med mindre de er godkjent av Kommisjonen i samsvar med nevnte forordning og oppført på en liste over tillatte påstander.Ved forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det også fastsatt at driftsansvarlige for næringsmiddelforetak kan inngi søknader om godkjenning av helsepåstander til vedkommende nasjonale myndighet i en medlemsstat. Vedkommende nasjonale myndighet skal videresende gyldige søknader til Den europeiske myndighet for næringsmiddeltrygghet (EFSA), heretter kalt «Myndigheten».Etter at søknaden er mottatt, skal Myndigheten straks underrette de øvrige medlemsstatene og Kommisjonen og avgi uttalelse om den aktuelle helsepåstanden.Kommisjonen skal ta hensyn til uttalelsen fra Myndigheten når den treffer beslutning om godkjenning av helsepåstander.Etter en søknad fra Laboratoire Nurilia, inngitt i samsvar med artikkel 14 nr. 1 bokstav a) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om Condensyl® og reduksjon av DNA-skader i sædceller. Høy forekomst av DNA-skader i sædceller er en risikofaktor for subfertilitet/infertilitet hos menn (spørsmål nr. EFSA-Q-2016-00665).2 Søkerens foreslåtte påstand hadde følgende ordlyd: «Kombinasjonen av tørrekstrakt av fikenkaktusfrukt med standardisert innhold av quercetin og betalain, og N-acetylcystein, sink, vitamin B3, E, B6, B2, B9 og B12 i Condensyl® reduserer DNA-skader i sædceller (indeks for dekondensering av kjerner og indeks for DNA-fragmentering i sædceller). Høy forekomst av DNA-skader i sædceller (indeks for dekondensering av kjerner og indeks for DNA-fragmentering i sædceller) er en risikofaktor for subfertilitet/infertilitet hos menn.»Kommisjonen og medlemsstatene mottok 5. mai 2017 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte dataene ikke kunne påvises noen årsakssammenheng mellom inntak av Condensyl® og reduksjon av DNA-skader i sædceller i forbindelse med reduksjon av risikoen for infertilitet hos menn. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra Cargill R&D Centre Europe, inngitt i samsvar med artikkel 14 nr. 1 bokstav b) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om sukkerfrie harde søtsaker med minst 90 % erytritol og reduksjon av plakk, som reduserer risikoen for karies (spørsmål nr. EFSA-Q-2017-00002).3 Søkerens foreslåtte påstand hadde følgende ordlyd: «Sukkerfrie harde søtsaker søtet med minst 90 % Zerose®-erytritol er påvist å redusere plakk. Høy forekomst av plakk er en risikofaktor for utvikling av karies.»Kommisjonen og medlemsstatene mottok 21. juli 2017 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte dataene ikke kunne påvises noen årsakssammenheng mellom inntak av sukkerfrie harde søtsaker med minst 90 % erytritol og reduksjon av plakk, som reduserer risikoen for karies. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra Biosearch Life, inngitt i samsvar med artikkel 14 nr. 1 bokstav a) i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om *Lactobacillus fermentum* CECT 5716 og reduksjon av innhold av *Staphylococcus* i morsmelk. Høyt innhold av *Staphylococcus* i morsmelk er en risikofaktor for infeksiøs mastitt (spørsmål nr. EFSA-Q-2016-00318).4 Søkerens foreslåtte påstand hadde følgende ordlyd: «*Lactobacillus fermentum* CECT 5716 reduserer innholdet av *Staphylococcus* i morsmelk. Høyt innhold av *Staphylococcus* i morsmelk er en risikofaktor for utvikling av bakteriell dysbiose i brystene/mastitt».Kommisjonen og medlemsstatene mottok 24. juli 2017 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte dataene ikke kunne påvises noen årsakssammenheng mellom inntak av *Lactobacillus fermentum* CECT 5716 og reduksjon av innholdet av *Staphylococcus* i morsmelk, som reduserer risikoen for infeksiøs mastitt. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr.
+
+1 EUT L 404 av 30.12.2006, s. 9.
+
+2 EFSA Journal 2017;15(5):4775.
+
+3 EFSA Journal 2017;15(7):4923.
+
+4 EFSA Journal 2017;15(7):4917.
+
+VEDTATT DENNE FORORDNING:
 
 ### Artikkel 1
 
@@ -2751,8 +5158,20 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel 17. oktober 2018.
 
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  | Jean-Claude JUNCKER |
+|  | *President* |
+
 ### VEDLEGG
 Avslåtte helsepåstander
+
+| Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*) | Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori | Påstand | EFSA-uttalelse |
+| --- | --- | --- | --- |
+| Artikkel 14 nr. 1 bokstav a) – helsepåstand om redusert sykdomsrisiko. | Condensyl® | Kombinasjonen av tørrekstrakt av fikenkaktusfrukt med standardisert innhold av quercetin og betalain, og N-acetylcystein, sink, vitamin B3, E, B6, B2, B9 og B12 i Condensyl® reduserer DNA-skader i sædceller (indeks for dekondensering av kjerner og indeks for DNA-fragmentering i sædceller). Høy forekomst av DNA-skader i sædceller (indeks for dekondensering av kjerner og indeks for DNA-fragmentering i sædceller) er en risikofaktor for subfertilitet/infertilitet hos menn. | Q-2016-00665 |
+| Artikkel 14 nr. 1 bokstav a) – helsepåstand om redusert sykdomsrisiko. | Sukkerfrie harde søtsaker med minst 90 % erytritol | Sukkerfrie harde søtsaker søtet med minst 90 % Zerose®-erytritol er påvist å redusere plakk. Høy forekomst av plakk er en risikofaktor for utvikling av karies. | Q-2017-00002 |
+| Artikkel 14 nr. 1 bokstav a) – helsepåstand om redusert sykdomsrisiko. | *Lactobacillus fermentum* CECT 5716 | *Lactobacillus fermentum* CECT 5716 reduserer innholdet av *Staphylococcus* i morsmelk. Høyt innhold av *Staphylococcus* i morsmelk er en risikofaktor for utvikling av bakteriell dysbiose i brystene/mastitt. | Q-2016-00318 |
 
 ### Forordning (EU) 2018/1556
 
@@ -2764,11 +5183,31 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2018/155
 av 17. oktober 2018
 om avslag på godkjenning av visse andre helsepåstander om næringsmidler enn dem som viser til redusert sykdomsrisiko og barns utvikling og helse
 
+EUROPAKOMMISJONEN HAR
+
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler,1 særlig artikkel 18 nr. 5, og
 
 ut fra følgende betraktninger:I henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924*) er helsepåstander om næringsmidler forbudt med mindre de er godkjent av Kommisjonen i samsvar med nevnte forordning og oppført på en liste over tillatte påstander.Ved forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det også fastsatt at driftsansvarlige for næringsmiddelforetak kan inngi søknader om godkjenning av helsepåstander til vedkommende nasjonale myndighet i en medlemsstat. Vedkommende nasjonale myndighet skal videresende gyldige søknader til Den europeiske myndighet for næringsmiddeltrygghet (EFSA), heretter kalt «Myndigheten», for vitenskapelig vurdering samt til Kommisjonen og medlemsstatene til orientering.Myndigheten skal avgi uttalelse om den aktuelle helsepåstanden.Kommisjonen skal ta hensyn til uttalelsen fra Myndigheten når den treffer beslutning om godkjenning av helsepåstander.Etter en søknad fra Laboratoires Nutrition et Cardiométabolisme, inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om Stablor®, et drikkepreparat med en definert sammensetning av makro- og mikronæringsstoffer og en spesifikk andel av aminosyrer (forhold mellom tryptofan og nøytrale aminosyrer) og reduksjon av bukfett samtidig som fettfri kroppsmasse opprettholdes (spørsmål nr. EFSA-Q-2016-00319).2 Søkerens foreslåtte påstand hadde følgende ordlyd: «I forbindelse med et balansert kosthold og en moderat begrensning av kaloriinntaket bidrar Stablor® til å redusere bukfettet samtidig som den fettfrie kroppsmassen opprettholdes, hos personer med overvekt eller fedme og med bukfett og kardiometabolske risikofaktorer.»Kommisjonen og medlemsstatene mottok 28. februar 2017 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte dataene ikke kunne påvises noen årsakssammenheng mellom inntak av Stablor® og reduksjon av bukfett samtidig som den fettfrie kroppsmassen opprettholdes, i forbindelse med et kalorifattig kosthold. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra Suomen Terveysravinto Oy, inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om kurkumin og normal leddfunksjon (spørsmål nr. EFSA-Q-2016-00856).3 Søkerens foreslåtte påstand hadde følgende ordlyd: «Kurkumin bidrar til normal leddfunksjon.»Kommisjonen og medlemsstatene mottok 8. mai 2017 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte dataene ikke kunne påvises noen årsakssammenheng mellom inntak av kurkumin og opprettholdelse av normal leddfunksjon. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra Marks and Spencer PLC, inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om et energimessig forhold mellom karbohydrater og protein (CHO:P) på ≤1,8 i forbindelse med et kalorifattig kosthold, og kroppsvekt (spørsmål nr. EFSA-Q-2016-00436).4 Søkerens foreslåtte påstand hadde følgende ordlyd: «Bidrar til å redusere kroppsvekten og kroppsfettet når det inntas som en del av et kalorifattig kosthold (<8 368 kJ/2 000 kcal/dag) i minst 12 uker.»Kommisjonen og medlemsstatene mottok 13. juni 2017 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte dataene ikke kunne påvises noen årsakssammenheng mellom inntak av karbohydrater og protein i et energimessig forhold (CHO:P) på ≤1,8 i forbindelse med et kalorifattig kosthold, og reduksjon av kroppsvekt. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra Loc Troi group, inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om Vibigaba (spiret brun ris) og reduksjon av kroppsvekt i forbindelse med et kalorifattig kosthold (spørsmål nr. EFSA-Q-2017-00032).5 Søkerens foreslåtte påstand hadde følgende ordlyd: «Bidrar til vekttap i forbindelse med et kalorifattig kosthold.»Kommisjonen og medlemsstatene mottok 21. juli 2017 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte dataene ikke kunne påvises noen årsakssammenheng mellom inntak av Vibigaba (spiret brun ris) og reduksjon av kroppsvekt i forbindelse med et kalorifattig kosthold. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra Loc Troi group, inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om Vibigaba (spiret brun ris) og opprettholdelse av et normalt blodsukkernivå over tid (spørsmål nr. EFSA-Q-2017-00033).6 Søkerens foreslåtte påstand hadde følgende ordlyd: «Bidrar til å opprettholde et normalt blodsukkernivå.»Kommisjonen og medlemsstatene mottok 21. juli 2017 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte dataene ikke kunne påvises noen årsakssammenheng mellom inntak av Vibigaba (spiret brun ris) og opprettholdelse av et normalt blodsukkernivå over tid. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra Loc Troi group, inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om Vibigaba (spiret brun ris) og opprettholdelse av normalt blodtrykk (spørsmål nr. EFSA-Q-2017-00031).7 Søkerens foreslåtte påstand hadde følgende ordlyd: «Bidrar til å opprettholde normalt blodtrykk.»Kommisjonen og medlemsstatene mottok 21. juli 2017 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte dataene ikke kunne påvises noen årsakssammenheng mellom inntak av Vibigaba (spiret brun ris) og opprettholdelse av normalt blodtrykk. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Etter en søknad fra Loc Troi group, inngitt i samsvar med artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om Vibigaba (spiret brun ris) og opprettholdelse av et normalt kolesterolnivå i blodet (spørsmål nr. EFSA-Q-2017-00030).8 Søkerens foreslåtte påstand hadde følgende ordlyd: «Bidrar til å opprettholde et normalt kolesterolnivå i blodet.»Kommisjonen og medlemsstatene mottok 21. juli 2017 den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte dataene ikke kunne påvises noen årsakssammenheng mellom inntak av Vibigaba (spiret brun ris) og opprettholdelse av et normalt kolesterolnivå i blodet. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr.
+
+1 EUT L 404 av 30.12.2006, s. 9.
+
+2 EFSA Journal 2017;15(2):4723.
+
+3 EFSA Journal 2017;15(5):4774.
+
+4 EFSA Journal 2017;15(6):4839.
+
+5 EFSA Journal 2017;15(7):4915.
+
+6 EFSA Journal 2017;15(7):4916.
+
+7 EFSA Journal 2017;15(7):4914.
+
+8 EFSA Journal 2017;15(7):4913.
+
+VEDTATT DENNE FORORDNING:
 
 ### Artikkel 1
 
@@ -2782,8 +5221,24 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel 17. oktober 2018.
 
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  | Jean-Claude JUNCKER |
+|  | *President* |
+
 ### VEDLEGG
 Avslått helsepåstand
+
+| Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*) | Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori | Påstand | EFSA-uttalelse |
+| --- | --- | --- | --- |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nye vitenskapelige bevis og/eller inneholder en anmodning om sikring av data underlagt eiendomsrett | Stablor®, et drikkepreparat med en definert sammensetning av makro- og mikronæringsstoffer og en spesifikk andel av aminosyrer (forhold mellom tryptofan og nøytrale aminosyrer) | I forbindelse med et balansert kosthold og en moderat begrensning av kaloriinntaket bidrar Stablor® til å redusere bukfettet samtidig som den fettfrie kroppsmassen opprettholdes, hos personer med overvekt eller fedme og med bukfett og kardiometabolske risikofaktorer. | Q-2016-00319 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nye vitenskapelige bevis og/eller inneholder en anmodning om sikring av data underlagt eiendomsrett | Kurkumin | Kurkumin bidrar til normal leddfunksjon. | Q-2016-00856 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nye vitenskapelige bevis og/eller inneholder en anmodning om sikring av data underlagt eiendomsrett | Et energimessig forhold mellom karbohydrater og protein (CHO:P) på ≤1,8 i forbindelse med et kalorifattig kosthold, og kroppsvekt | Bidrar til å redusere kroppsvekten og kroppsfettet når det inntas som en del av et kalorifattig kosthold (<8 368 kJ/2 000 kcal/dag) i minst 12 uker. | Q-2016-00436 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nye vitenskapelige bevis og/eller inneholder en anmodning om sikring av data underlagt eiendomsrett | Vibigaba (spiret brun ris) | Bidrar til vekttap i forbindelse med et kalorifattig kosthold. | Q-2017-00032 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nye vitenskapelige bevis og/eller inneholder en anmodning om sikring av data underlagt eiendomsrett | Vibigaba (spiret brun ris) | Bidrar til å opprettholde et normalt blodsukkernivå. | Q-2017-00033 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nye vitenskapelige bevis og/eller inneholder en anmodning om sikring av data underlagt eiendomsrett | Vibigaba (spiret brun ris) | Bidrar til å opprettholde normalt blodtrykk. | Q-2017-00031 |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nye vitenskapelige bevis og/eller inneholder en anmodning om sikring av data underlagt eiendomsrett | Vibigaba (spiret brun ris) | Bidrar til å opprettholde et normalt kolesterolnivå i blodet. | Q-2017-00030 |
 
 ### Forordning (EU) 2019/343
 
@@ -2795,11 +5250,23 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2019/343
 av 28. februar 2019
 om unntak fra artikkel 1 nr. 3 i europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) om ernærings- og helsepåstander om næringsmidler med henblikk på bruk av visse generiske beskrivelser
 
+EUROPAKOMMISJONEN HAR
+
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler,1 særlig artikkel 1 nr. 4, og
 
 ut fra følgende betraktninger:I henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924*) skal alle påstander om næringsmidler som angir, antyder eller gir inntrykk av at det er en sammenheng mellom en næringsmiddelkategori, et næringsmiddel eller en av dets bestanddeler og helse, anses som en helsepåstand og må derfor være i samsvar med nevnte forordning.Artikkel 1 nr. 4 i forordning [(EF) nr. 1924/2006](eu/32006r1924*) gir mulighet for unntak fra gjeldende regler i henhold til artikkel 1 nr. 3 i nevnte forordning for generiske beskrivelser (betegnelser) som tradisjonelt er blitt brukt til å angi en egenskap ved en gruppe næringsmidler eller drikker, og som antyder en virkning for menneskers helse.Søknader om bruk av et uttrykk som generisk beskrivelse kan framlegges av driftsansvarlige for næringsmiddelforetak til vedkommende nasjonale myndighet i en mottakermedlemsstat.I henhold til kommisjonsforordning [(EU) nr. 907/2013](eu/32013r0907)2 om fastsettelse av regler for søknader om bruk av generiske beskrivelser (betegnelser) bør en gyldig søknad oversendes til Kommisjonen og samtlige medlemsstater, og medlemsstater som berøres av søknaden, skal avgi sin uttalelse om søknaden til Kommisjonen.Etter å ha mottatt en gyldig søknad og uttalelsene fra berørte medlemsstater kan Kommisjonen innlede framgangsmåten for godkjenning av den generiske beskrivelsen i henhold til artikkel 1 nr. 4 i forordning [(EF) nr. 1924/2006](eu/32006r1924*).Vedkommende østerrikske myndighet oversendte 13. april 2015 en søknad til Kommisjonen fra sammenslutningen av østerrikske næringsmiddelprodusenter, inngitt i henhold til artikkel 1 nr. 4 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), om bruk av uttrykkene «Hustenbonbon» og «Hustenstopper» som generiske beskrivelser i Østerrike.Vedkommende østerrikske myndighet oversendte 13. april 2015 en søknad til Kommisjonen fra Drapal GmbH, inngitt i henhold til artikkel 1 nr. 4 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), om bruk av uttrykket «Hustenzuckerl» som generisk beskrivelse i Østerrike.Vedkommende tyske myndighet oversendte 19. mai 2015 en søknad til Kommisjonen fra sammenslutningen av tyske sukkervareprodusenter, inngitt i henhold til artikkel 1 nr. 4 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), om bruk av uttrykket «Brust-Caramellen» som generiske beskrivelser i Tyskland og Østerrike.Vedkommende tyske myndighet oversendte 29. mai 2015 en søknad til Kommisjonen fra SOLDAN Holding + Bonbonspezialitäten GmbH og sammenslutningen av tyske sukkervareprodusenter, inngitt i henhold til artikkel 1 nr. 4 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), om bruk av uttrykket «Hustenmischung» som generisk beskrivelse i Tyskland.Vedkommende tyske myndighet oversendte 8. juni 2015 en søknad til Kommisjonen fra SOLDAN Holding + Bonbonspezialitäten GmbH, inngitt i henhold til artikkel 1 nr. 4 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), om bruk av uttrykket «Hustenperle» som generisk beskrivelse i Tyskland.Vedkommende tyske myndighet oversendte 18. juni 2015 to søknader til Kommisjonen fra SOLDAN Holding + Bonbonspezialitäten GmbH og sammenslutningen av tyske sukkervareprodusenter, inngitt i henhold til artikkel 1 nr. 4 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), om bruk av uttrykkene «Halsbonbon» og «keelpastille» som generiske beskrivelser i Tyskland («Halsbonbon») og i Nederland («keelpastille»).Vedkommende tyske myndighet oversendte 18. november 2015 tre søknader til Kommisjonen fra SOLDAN Holding + Bonbonspezialitäten GmbH, Josef Mack GmbH & Co. KG og sammenslutningen av tyske sukkervareprodusenter, inngitt i henhold til artikkel 1 nr. 4 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), om bruk av uttrykkene «Hustenbonbon», «hoestbonbon», «rebucados para a tosse» og «cough drops» som generiske beskrivelser i Tyskland og Østerrike («Hustenbonbon»), i Nederland («hoestbonbon»), i Portugal («rebucados para a tosse») og i Det forente kongerike («cough drops»).Vedkommende østerrikske og tyske myndigheter oversendte søknadene til alle øvrige medlemsstater. Vedkommende myndigheter i de berørte medlemsstatene avga sine uttalelser til Kommisjonen om søknadene.Uttrykkene «Hustenbonbon», «Hustenstopper», «Hustenzuckerl», «Brust-Caramellen», «Hustenmischung», «Hustenperle», «Halsbonbon», «keelpastille», «hoestbonbon», «rebuçados para a tosse» og «cough drops» faller inn under virkeområdet for forordning [(EF) nr. 1924/2006](eu/32006r1924*), fordi de kan antyde at det er en sammenheng mellom næringsmidler som er merket med slike uttrykk, og helse.Det er imidlertid framlagt dokumentasjon for at disse uttrykkene tradisjonelt er brukt i Tyskland og i Østerrike («Hustenbonbon», «Brust-Caramellen»), i Tyskland («Halsbonbon», «Hustenmischung» og «Hustenperle»), i Østerrike («Hustenstopper» og «Hustenzuckerl»), i Nederland («keelpastille» og «hoestbonbon»), i Portugal («rebuçados para a tosse») og i Det forente kongerike («cough drops»), i henhold til artikkel 1 nr. 4 i nevnte forordning, som generiske beskrivelser for å beskrive en gruppe av søtsaker som er basert på sukker, samt sukkerfrie varianter og varianter med redusert kaloriinnhold som er basert på søtstoffer (polyoler og/eller svært sterke søtstoffer), som inneholder ekstrakter av urter, frukt eller andre plantematerialer som mentol, honning eller malt.Særlig er uttrykkene «Hustenbonbon», «Brust-Caramellen», «Halsbonbon», «Hustenmischung», «Hustenperle», «Hustenstopper», «Hustenzuckerl», «keelpastille», «hoestbonbon», «rebuçados para a tosse» og «cough drops» ikke blitt brukt i verken Tyskland, Østerrike, Nederland, Portugal eller Det forente kongerike med sikte på å angi at denne gruppen næringsmidler har en helsevirkning, og forstås heller ikke av gjennomsnittsforbrukeren som en påstand om en helsevirkning for denne næringsmiddelgruppen.Det bør derfor gis unntak fra forordning [(EF) nr. 1924/2006](eu/32006r1924*) når det gjelder bruk av de generiske beskrivelsene «Hustenbonbon» og «Brust-Caramellen» i Tyskland og Østerrike, «Halsbonbon», «Hustenmischung» og «Hustenperle» i Tyskland, «Hustenstopper» og «Hustenzuckerl» i Østerrike, «keelpastille» og «hoestbonbon» i Nederland, «rebuçados para a tosse» i Portugal og «cough drops» i Det forente kongerike når de brukes i de respektive medlemsstater om søtsaker som er basert på sukker, samt sukkerfrie varianter og varianter med redusert kaloriinnhold som er basert på søtstoffer (polyoler og/eller svært sterke søtstoffer), som inneholder ekstrakter av urter, frukt eller andre plantematerialer, honning eller malt.Vedkommende finske myndighet oversendte 12. januar 2017 en søknad til Kommisjonen fra sammenslutningen av finske næringsmiddelprodusenter, inngitt i henhold til artikkel 1 nr. 4 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), om bruk av uttrykket «kurkkupastilli/halspastill» som generisk beskrivelse i Finland.Vedkommende finske myndighet oversendte søknaden til alle øvrige medlemsstater, og den avga også sin uttalelse til Kommisjonen om søknaden.Uttrykket «kurkkupastilli/halspastill» faller inn under virkeområdet for forordning [(EF) nr. 1924/2006](eu/32006r1924*), fordi det kan antyde at det er en sammenheng mellom næringsmidler som er merket med dette uttrykket, og helse. Det er imidlertid framlagt dokumentasjon for at dette uttrykket tradisjonelt er brukt i Finland, i henhold til artikkel 1 nr. 4 i nevnte forordning, som en generisk beskrivelse for å beskrive en gruppe av søtsaker som er basert på sukker, samt sukkerfrie varianter og varianter med redusert kaloriinnhold som er basert på søtstoffer (polyoler og/eller svært sterke søtstoffer).Særlig er uttrykket «kurkkupastilli/halspastill» ikke blitt brukt i Finland med sikte på å angi at denne gruppen næringsmidler har en helsevirkning, og forstås heller ikke av gjennomsnittsforbrukeren som en påstand om en helsevirkning for denne næringsmiddelgruppen.Det bør derfor gis unntak fra forordning [(EF) nr. 1924/2006](eu/32006r1924*) når det gjelder bruk av den generiske beskrivelsen «kurkkupastilli/halspastill» når den brukes i Finland om harde søtsaker som er basert på sukker, samt sukkerfrie varianter og varianter med redusert kaloriinnhold som er basert på søtstoffer (polyoler og/eller svært sterke søtstoffer).Vedkommende østerrikske myndighet oversendte 13. april 2015 en søknad til Kommisjonen fra Drapal GmbH, inngitt i henhold til artikkel 1 nr. 4 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), om bruk av uttrykket «Hustensirup» som generisk beskrivelse i Østerrike.Vedkommende østerrikske myndighet oversendte søknaden til alle øvrige medlemsstater, og den avga også sin uttalelse til Kommisjonen om søknaden.Uttrykket «Hustensirup» faller inn under virkeområdet for forordning [(EF) nr. 1924/2006](eu/32006r1924*), fordi det kan antyde at det er en sammenheng mellom næringsmidler som er merket med dette uttrykket, og helse. Det er imidlertid framlagt dokumentasjon for at dette uttrykket tradisjonelt er brukt i Østerrike, i henhold til artikkel 1 nr. 4 i nevnte forordning, som en generisk beskrivelse for å beskrive en gruppe av sukkervarer framstilt av sukkerløsninger, stivelsessirup, invertsukker og/eller honning med tilsetning av plantebestanddeler. «Hustensirup» viser til en produktgruppe i sirupform.Særlig er uttrykket «Hustensirup» ikke blitt brukt med sikte på å angi at denne gruppen næringsmidler har en helsevirkning, og forstås heller ikke av gjennomsnittsforbrukeren som en påstand om en helsevirkning for denne næringsmiddelgruppen i Østerrike.Det bør derfor gis unntak fra forordning [(EF) nr. 1924/2006](eu/32006r1924*) når det gjelder bruk av den generiske beskrivelsen «Hustensirup» når den brukes i Østerrike om sukkervarer framstilt av sukkerløsninger, stivelsessirup, invertsukker og/eller honning med tilsetning av plantebestanddeler i sirupform.Sukker beregnet på konsum er definert i punkt A i vedlegget til rådsdirektiv [2001/111/EF](eu/32001l0111).3 For å sikre rettssikkerhet bør disse definisjonene også gjelde i denne forordning.Vedkommende myndighet i Det forente kongerike oversendte 2. april 2015 en søknad til Kommisjonen fra British Soft Drinks Association, inngitt i henhold til artikkel 1 nr. 4 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), om bruk av uttrykket «tonic» (på engelsk) som del av den beskrivende betegnelsen på en drikk i form av «tonic water», «Indian tonic water» eller «quinine tonic water», og som i de samme beskrivende betegnelsene erstattes med «tonique» (på fransk), «tónico» eller «tonica» (på italiensk, spansk og portugisisk), «τo νωτικó» eller «tonotiko» (på gresk), «tonik» (på kroatisk, tsjekkisk, ungarsk, polsk, slovakisk og slovensk), «тoник» (på bulgarsk), som generisk beskrivelse i alle medlemsstater unntatt i Romania.Vedkommende rumenske myndighet oversendte 30. september 2015 en søknad til Kommisjonen fra sammenslutningen av rumenske leskedrikkprodusenter, inngitt i henhold til artikkel 1 nr. 4 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), om bruk av uttrykket «tonic» (på engelsk) som del av den beskrivende betegnelsen på en drikk i form av «tonic water», «Indian tonic water» eller «quinine tonic water», og som i de samme beskrivende betegnelsene erstattes med «tónico», «tonică» eller «tonica» (på rumensk), som generisk beskrivelse i Romania.Vedkommende myndigheter i Det forente kongerike og Romania oversendte søknadene til alle øvrige medlemsstater, og medlemsstatene har avgitt sine uttalelser til Kommisjonen om søknadene.Vedkommende greske myndighet anser at uttrykket «τo νωτικó» og «tonotiko» («τo νωτικó» med latinske bokstaver) er helsepåstander i henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924*). Vedkommende greske myndighet anser videre at uttrykket «tonic» tradisjonelt benyttes som del av den vanlige betegnelsen på alkoholfrie drikker som inneholder kinin i Hellas.Vedkommende tyske myndighet og vedkommende østerrikske myndighet anser at uttrykket «tonic» brukt som del av «tonic water», «Indian tonic water» eller «quinine tonic water» er del av den vanlige betegnelsen på drikken og derfor ikke omfattes av virkeområdet for forordning [(EF) nr. 1924/2006](eu/32006r1924*).Vedkommende franske myndighet anser at uttrykket «tonique» ikke brukes for å beskrive en alkoholfri kullsyreholdig drikk som inneholder bitterstoffet kinin.Visse vedkommende myndigheter anser at når uttrykket «tonic» (på engelsk) erstattes med «tonik» på kroatisk, ungarsk, polsk og slovensk, dreier det seg i de respektive medlemsstatene ikke om en helsepåstand i henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924*), og etter deres syn faller derfor disse uttrykkene utenfor virkeområdet for forordningen.Uttrykket «tonic» og dets tilsvarende språklige former, dvs. «tonik», «tónico», «tónica» og «tonică», faller inn under virkeområdet for forordning [(EF) nr. 1924/2006](eu/32006r1924*) når de brukes som del av den beskrivende betegnelsen på en drikk, fordi de kan antyde en sammenheng mellom næringsmiddelet som er merket med dette uttrykket, og helse. Det er imidlertid framlagt dokumentasjon for at disse uttrykkene er brukt tradisjonelt, i henhold til artikkel 1 nr. 4 i nevnte forordning, som generiske beskrivelser for å beskrive en gruppe drikker, dvs. alkoholfrie kullsyreholdige drikker som inneholder bitterstoffet kinin i form av aromaene FL 14.011, FL 14.152 eller FL 14.155 i henhold til EU-listen over aromaer fastsatt i europaparlaments- og rådsforordning [(EF) nr. 1334/2008](eu/32008r1334)4 om aromaer og visse næringsmiddelingredienser med aromagivende egenskaper til bruk i og på næringsmidler.Særlig er uttrykket «tonic» og dets tilsvarende språklige former, dvs. «tonik», «tónico», «tónica» og «tonică», når de brukes som del av den beskrivende betegnelsen på en drikk, ikke blitt brukt med sikte på å angi en helsevirkning i denne gruppen drikker, og forstås heller ikke av gjennomsnittsforbrukeren som en påstand om en helsevirkning for denne gruppen drikker.Det bør derfor gis unntak fra forordning [(EF) nr. 1924/2006](eu/32006r1924*) når det gjelder bruk av den generiske beskrivelsen «tonic» (på engelsk) når den brukes som del av den beskrivende betegnelsen på en alkoholfri kullsyreholdig drikk som inneholder bitterstoffet kinin i form av aromaene FL 14.011, FL 14.152 eller FL 14.155 i henhold til EU-listen over aromaer som fastsatt i forordning [(EF) nr. 1334/2008](eu/32008r1334). Uttrykket «tonic» (på engelsk) kan i den beskrivende betegnelsen erstattes med «тoник» (på bulgarsk), «tonik» (på tsjekkisk og slovakisk), «tónica» (på spansk og portugisisk) «tonica» (på italiensk) eller «tonică» (på rumensk).Vedkommende italienske myndighet oversendte 23. april 2015 en søknad til Kommisjonen fra Monviso SpA, inngitt i henhold til artikkel 1 nr. 4 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), om bruk av uttrykket «biscotto salute» som generisk beskrivelse i Italia og Malta.Vedkommende italienske myndighet oversendte søknaden til alle øvrige medlemsstater, og de berørte medlemsstatene avga sin uttalelse til Kommisjonen om søknaden.Uttrykket «biscotto salute» faller inn under virkeområdet for forordning [(EF) nr. 1924/2006](eu/32006r1924*), fordi det kan antyde at det er en sammenheng mellom et næringsmiddel som er merket med dette uttrykket, og helse. Det er imidlertid framlagt dokumentasjon for at dette uttrykket er brukt tradisjonelt i Italia, i henhold til artikkel 1 nr. 4 i nevnte forordning, som en generisk beskrivelse for å beskrive en gruppe bakervarer av skonroktypen.Særlig er uttrykket «biscotto salute» ikke blitt brukt med sikte på å angi at denne gruppen næringsmidler har en helsevirkning, og forstås heller ikke av gjennomsnittsforbrukeren som en påstand om en helsevirkning for denne næringsmiddelgruppen i Italia.Malta anga at uttrykket «biscotto salute» ikke ble brukt for å beskrive bakervarer av skonroktypen på det maltesiske markedet.Det bør derfor gis unntak fra forordning [(EF) nr. 1924/2006](eu/32006r1924*) når det gjelder bruk av den generiske beskrivelsen «biscotto salute» når den brukes i Italia om bakervarer av skonroktypen.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr.
+
+1 EUT L 404 av 30.12.2006, s. 9.
+
+2 Kommisjonsforordning [(EU) nr. 907/2013](eu/32013r0907) av 20. september 2013 om fastsettelse av regler for søknader om bruk av generiske beskrivelser (betegnelser) (EUT L 251 av 21.9.2013, s. 7).
+
+3 Rådsdirektiv [2001/111/EF](eu/32001l0111) av 20. desember 2001 om visse typer sukker beregnet på konsum (EFT L 10 av 12.1.2002, s. 53).
+
+4 Europaparlaments- og rådsforordning [(EF) nr. 1334/2008](eu/32008r1334) av 16. desember 2008 om aromaer og visse næringsmiddelingredienser med aromagivende egenskaper til bruk i og på næringsmidler og om endring av rådsforordning [(EØF) nr. 1601/91](eu/31991r1601*), forordning [(EF) nr. 2232/96](eu/31996r2232), forordning [(EF) nr. 110/2008](eu/32008r0110) og direktiv [2000/13/EF](eu/32000l0013*) (EUT L 354 av 31.12.2008, s. 34).
+
+VEDTATT DENNE FORORDNING:
 
 ### Artikkel 1
 
@@ -2817,7 +5284,28 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel 28. februar 2019.
 
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  |  |
+|  | Jean-Claude Juncker |
+|  |  |
+|  | *President* |
+
 ### VEDLEGG
+
+| *Gruppe næringsmidler* | *Generisk beskrivelse* | *Medlemsstater der unntaket gjelder* |
+| --- | --- | --- |
+| Harde og myke søtsaker som er basert på sukker, samt sukkerfrie varianter og varianter med redusert kaloriinnhold som er basert på søtstoffer (polyoler og/eller svært sterke søtstoffer), som inneholder ekstrakter av urter, frukt eller andre plantematerialer, honning eller malt | Brust-Caramellen Hustenbonbon | Tyskland, Østerrike |
+|  | Halsbonbon,<br>Hustenmischung,<br>Hustenperle | Tyskland |
+|  | Hustenstopper,<br>Hustenzuckerl | Østerrike |
+|  | Cough drops | Det forente kongerike |
+|  | Hoestbonbon, Keelpastille | Nederland |
+|  | Rebuçados para a tosse | Portugal |
+| Harde søtsaker som er basert på sukker, samt sukkerfrie varianter og varianter med redusert kaloriinnhold som er basert på søtstoffer (polyoler og/eller svært sterke søtstoffer) | Kurkkupastilli/Halspastill | Finland |
+| Sukkervarer framstilt av sukkerløsninger, stivelsessirup, invertsukker og/eller honning med tilsetning av plantebestanddeler i sirupform | Hustensirup | Østerrike |
+| Alkoholfri kullsyreholdig drikk som inneholder bitterstoffet kinin i form av aromaene FL 14.011, FL 14.152 eller FL 14.155 i henhold til EU-listen over aromaer som fastsatt i vedlegg I til forordning [(EF) nr. 1334/2008](eu/32008r1334) | Følgende uttrykk, brukt som del av den beskrivende betegnelsen på drikken:<br>«tonic» (på engelsk), erstattet med «*Toник*» (på bulgarsk),<br>«tonik» (på tsjekkisk og slovakisk),<br>«tónica» (på spansk og portugisisk),<br>«tonica» (på italiensk),<br>«tonică» (på rumensk) | Alle medlemsstater |
+| Bakervarer av skonroktypen | Biscotto salute | Italia |
 
 ### Forordning (EU) 2019/651
 
@@ -2829,11 +5317,19 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2019/651
 av 24. april 2019
 om avslag på godkjenning av en helsepåstand om næringsmidler som viser til barns utvikling og helse
 
+EUROPAKOMMISJONEN HAR
+
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924*) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler,1 særlig artikkel 17 nr. 3, og
 
 ut fra følgende betraktninger:I henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924*) er helsepåstander om næringsmidler forbudt med mindre de er godkjent av Kommisjonen i samsvar med nevnte forordning og er oppført på en liste over tillatte påstander.Ved forordning [(EF) nr. 1924/2006](eu/32006r1924*) er det også fastsatt at driftsansvarlige for næringsmiddelforetak kan inngi søknader om godkjenning av helsepåstander til vedkommende nasjonale myndighet i en medlemsstat. Vedkommende nasjonale myndighet skal videresende gyldige søknader til Den europeiske myndighet for næringsmiddeltrygghet (EFSA), heretter kalt «Myndigheten».Etter at søknaden er mottatt, skal Myndigheten straks underrette de øvrige medlemsstatene og Kommisjonen og avgi uttalelse om den aktuelle helsepåstanden.Kommisjonen skal ta hensyn til uttalelsen fra Myndigheten når den treffer beslutning om godkjenning av helsepåstander.Etter en søknad fra H.J. Heinz Supply Chain Europe B.V. inngitt i samsvar med artikkel 14 nr. 1 bokstav b) i forordning [(EF) nr. 1924/2006](eu/32006r1924*) ble Myndigheten bedt om å avgi uttalelse om en helsepåstand om «Nutrimune®» og immunforsvar mot sykdomsframkallende stoffer i mage-tarm-kanalen og de øvre luftveiene (spørsmål nr. EFSA-Q-2016-00008).2 Søkerens foreslåtte påstand hadde følgende ordlyd: ««Nutrimune®» støtter immunforsvaret i mage-tarm-kanalen og de øvre luftveiene hos småbarn».Den 30. januar 2017 mottok Kommisjonen og medlemsstatene den vitenskapelige uttalelsen fra Myndigheten, som konkluderte med at det på grunnlag av de framlagte dataene ikke finnes tilstrekkelige vitenskapelig bevis for at det er en sammenheng mellom inntak av «Nutrimune®» (en pasteurisert, skummet kumelk gjæret med *Lactobacillus paracasei* CBA L74) og immunforsvaret mot sykdomsframkallende stoffer i mage-tarm-kanalen og de øvre luftveiene. Ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924*), bør den ikke godkjennes.De kommentarene som Kommisjonen har mottatt fra søkeren i henhold til artikkel 16 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924*), er tatt i betraktning ved fastsettelsen av tiltakene i denne forordning.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr.
+
+1 EUT L 404 av 30.12.2006, s. 9.
+
+2 EFSA Journal 2017;15(1):4679.
+
+VEDTATT DENNE FORORDNING:
 
 ### Artikkel 1
 
@@ -2847,8 +5343,20 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel 24. april 2019.
 
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  |  |
+|  | Jean-Claude Juncker |
+|  |  |
+|  | *President* |
+
 ### VEDLEGG
 Avslått helsepåstand
+
+| *Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924*)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori* | *Påstand* | *EFSA-uttalelse* |
+| --- | --- | --- | --- |
+| Artikkel 14 nr. 1 bokstav b) – helsepåstand om barns utvikling og helse | «Nutrimune®» (en pasteurisert, skummet kumelk gjæret med *Lactobacillus paracasei* CBA L74) | «Nutrimune®» støtter immunforsvaret i mage-tarm-kanalen og de øvre luftveiene hos småbarn. | Q-2016-00008 |
 
 ### Forordning (EU) 2021/77
 
@@ -2857,6 +5365,14 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2021/77]
 ### KOMMISJONSFORORDNING (EU) 2021/77
 av 27. januar 2021
 om avslag på godkjenning av visse andre helsepåstander om næringsmidler enn dem som viser til redusert sykdomsrisiko og barns utvikling og helse
+
+EUROPAKOMMISJONEN HAR
+
+under henvisning til traktaten om Den europeiske unions virkemåte,
+
+under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler1, særlig [artikkel 18](eu/32006r1924/a18) nr. 5, og
+
+ut fra følgende betraktninger:
 
 1. I henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924) er helsepåstander om næringsmidler forbudt med mindre de er godkjent av Kommisjonen i samsvar med nevnte forordning og oppført på en liste over tillatte påstander.
 2. Ved forordning [(EF) nr. 1924/2006](eu/32006r1924) er det også fastsatt at driftsansvarlige for næringsmiddelforetak kan inngi søknader om godkjenning av helsepåstander til vedkommende nasjonale myndighet i en medlemsstat. Vedkommende nasjonale myndighet skal videresende gyldige søknader til Den europeiske myndighet for næringsmiddeltrygghet (EFSA), heretter kalt «myndigheten», for vitenskapelig vurdering samt til Kommisjonen og medlemsstatene til orientering.
@@ -2874,6 +5390,20 @@ om avslag på godkjenning av visse andre helsepåstander om næringsmidler enn d
 14. Den 24. juli 2019 mottok Kommisjonen og medlemsstatene myndighetens vitenskapelige uttalelse6, der det ble konkludert med at det på grunnlag av de framlagte dataene ikke kunne påvises noen årsakssammenheng mellom inntak av en kombinasjon av beta-sitosterol og beta-sitosterolglukosid i forholdet 100:1, og en gunstig fysiologisk virkning. Derfor, ettersom påstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924), bør den ikke godkjennes.
 15. Tiltakene fastsatt i denne forordningen er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr.
 
+1 EUT L 404 av 30.12.2006, s. 9.
+
+2 EFSA Journal 2018;16(1):5137.
+
+3 EFSA Journal 2018;16(1):5138.
+
+4 EFSA Journal 2018;16(1):5139.
+
+5 EFSA Journal 2018;16(3):5192.
+
+6 EFSA Journal 2019;17(7):5776.
+
+VEDTATT DENNE FORORDNINGEN:
+
 ### Artikkel 1
 
 Helsepåstandene oppført i vedlegget til denne forordningen skal ikke føres opp på EU-listen over tillatte påstander omhandlet i [artikkel 13 nr. 3 i forordning (EF) nr. 1924/2006](eu/32006r1924/a13).
@@ -2882,8 +5412,28 @@ Helsepåstandene oppført i vedlegget til denne forordningen skal ikke føres op
 
 Denne forordningen trer i kraft den 20. dagen etter at den er kunngjort i *Den europeiske unions tidende*.
 
+Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
+
+Utferdiget i Brussel 27. januar 2021.
+
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  |  |
+|  | Ursula von der Leyen |
+|  |  |
+|  | *President* |
+
 ### VEDLEGG
 Avslåtte helsepåstander
+
+| *Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori* | *Påstand* | *EFSA-uttalelse* |
+| --- | --- | --- | --- |
+| [Artikkel 13](eu/32006r1924/a13) nr. 5 – helsepåstand som bygger på nye vitenskapelige bevis og/eller inneholder en anmodning om beskyttelse av data underlagt eiendomsrett | L-karnitin | L-karnitin bidrar til normalt lipidomsetning. | 2018;16(1):5137 |
+| [Artikkel 13](eu/32006r1924/a13) nr. 5 – helsepåstand som bygger på nye vitenskapelige bevis og/eller inneholder en anmodning om beskyttelse av data underlagt eiendomsrett | Svart te | Forbedrer endotelavhengig vasodilatasjon, noe som bidrar til sunn blodgjennomstrømning. | 2018;16(1):5138 |
+| [Artikkel 13](eu/32006r1924/a13) nr. 5 – helsepåstand som bygger på nye vitenskapelige bevis og/eller inneholder en anmodning om beskyttelse av data underlagt eiendomsrett | NWT-02, en fast kombinasjon av lutein, zeaxantin og dokosaheksaensyre i eggeplomme. | Inntak av NWT-02 reduserer synstap. | 2018;16(1):5139 |
+| [Artikkel 13](eu/32006r1924/a13) nr. 5 – helsepåstand som bygger på nye vitenskapelige bevis og/eller inneholder en anmodning om beskyttelse av data underlagt eiendomsrett | Xanthohumol i XERME®, en xanthohumol-beriket ristet maltekstrakt. | Bidrar til å opprettholde integriteten av DNA og beskytter mot oksidativ skade på kroppens celler. | 2018;16(3):5192 |
+| [Artikkel 13](eu/32006r1924/a13) nr. 5 – helsepåstand som bygger på nye vitenskapelige bevis og/eller inneholder en anmodning om beskyttelse av data underlagt eiendomsrett | En kombinasjon av beta-sitosterol og beta-sitosterolglukosid | Bidrar til normal funksjon av immunsystemet ved å gjenopprette balansen mellom TH1- og TH2-mediert immunitet. | 2019;17(7):5776 |
 
 ### Forordning (EU) 2022/709
 
@@ -2893,6 +5443,14 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2022/709
 av 6. mai 2022
 om avslag på godkjenning av ein helsepåstand om næringsmiddel som viser til utviklinga og helsa til barn
 
+EUROPAKOMMISJONEN HAR
+
+med tilvising til traktaten om verkemåten til Den europeiske unionen,
+
+med tilvising til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler1, særleg artikkel 17 nr. 3, og
+
+ut frå desse synsmåtane:
+
 1. I medhald av forordning [(EF) nr. 1924/2006](eu/32006r1924) er helsepåstandar om næringsmiddel forbodne med mindre dei er godkjende av Kommisjonen i samsvar med den nemnde forordninga og oppførte i ei liste over påstandar som er tillatne.
 2. Ved forordning [(EF) nr. 1924/2006](eu/32006r1924) er det òg fastsett at driftsansvarlege for næringsmiddelføretak kan sende søknader om godkjenning av helsepåstandar til den rette nasjonale styresmakta i ein medlemsstat. Den rette nasjonale styresmakta skal sende gyldige søknader vidare til Den europeiske styresmakta for næringsmiddeltryggleik («styresmakta»).
 3. Etter at søknaden er motteken, skal styresmakta straks melde frå til dei andre medlemsstatane og Kommisjonen og gje ei fråsegn om den aktuelle helsepåstanden.
@@ -2900,6 +5458,12 @@ om avslag på godkjenning av ein helsepåstand om næringsmiddel som viser til u
 5. Etter ein søknad som H.J. Heinz Supply Chain Europe BV sende inn i medhald av artikkel 14 nr. 1 bokstav b) i forordning [(EF) nr. 1924/2006](eu/32006r1924), vart styresmakta beden om å gje ei fråsegn om ein helsepåstand om Nutrimune med omsyn til immunforsvar mot sjukdomsframkallande organismar i mage-tarmkanalen og dei øvre luftvegane (spørsmål nr. EFSA-Q-2018-00727). Den påstanden som søkjaren hadde gjort framlegg om, hadde følgjande ordlyd: «Nutrimune styrkjer immunsystemet mot sjukdomsframkallande organismar i dei øvre luftvegane og i mage-tarmkanalen hjå småbarn».
 6. Kommisjonen og medlemsstatane mottok 15. april 2019 den vitskaplege fråsegna frå styresmakta2, der det vart konkludert med at det på grunnlag av dei framlagde opplysningane ikkje fanst tilstrekkelege vitskaplege prov på at det kunne påvisast nokon årsakssamanheng mellom inntak av Nutrimune (pasteurisert skummamjølk av kumjølk fermentert med *Lactobacillus paracasei* CBA L74) og immunforsvaret mot sjukdomsframkallande organismar i dei øvre luftvegane og i mage-tarmkanalen hjå småbarn. Ettersom påstanden ikkje oppfyller krava i forordning [(EF) nr. 1924/2006](eu/32006r1924), bør han ikkje godkjennast.
 7. Dei tiltaka som er fastsette i denne forordninga, er i samsvar med fråsegna frå Det faste utvalet for planter, dyr, næringsmiddel og fôr.
+
+1 TEU L 404 av 30.12.2006, s. 9.
+
+2 EFSA Journal 2019;17(4):5656.
+
+VEDTEKE DENNE FORORDNINGA:
 
 ### Artikkel 1
 
@@ -2909,12 +5473,14 @@ Den helsepåstanden som er oppført i vedlegget til denne forordninga, skal ikkj
 
 Denne forordninga trer i kraft 20. dagen etter at ho er kunngjord i *Tidend for Den europeiske unionen*.
 
-Denne forordninga er bindande i alle delar og gjeld direkte i alle medlemsstatane.
-
-Utferda i Brussel 6. mai 2022.*For Kommisjonen*Ursula von der Leyen*President*
+Denne forordninga er bindande i alle delar og gjeld direkte i alle medlemsstatane.Utferda i Brussel 6. mai 2022.*For Kommisjonen*Ursula von der Leyen*President*
 
 ### VEDLEGG
 Avvist helsepåstand
+
+| Søknad – relevante føresegner i forordning [(EF) nr. 1924/2006](eu/32006r1924) | Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori | Påstand | Referansenummeret til EFSA-fråsegna |
+| --- | --- | --- | --- |
+| Artikkel 14 nr. 1 bokstav b) – helsepåstand som viser til utviklinga og helsa til barn | Nutrimune (pasteurisert skummamjølk av kumjølk fermentert med *Lactobacillus paracasei* CBA L74) | Nutrimune styrkjer immunsystemet mot sjukdomsframkallande organismar i dei øvre luftvegane og i mage-tarmkanalen hjå småbarn | Q-2018-00727 |
 
 ### Forordning (EU) 2022/710
 
@@ -2924,6 +5490,14 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2022/710
 av 6. mai 2022
 om avslag på godkjenning av ein helsepåstand om næringsmiddel som viser til redusert sjukdomsrisiko
 
+EUROPAKOMMISJONEN HAR
+
+med tilvising til traktaten om verkemåten til Den europeiske unionen,
+
+med tilvising til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler1, særleg artikkel 17 nr. 3, og
+
+ut frå desse synsmåtane:
+
 1. I medhald av forordning [(EF) nr. 1924/2006](eu/32006r1924) er helsepåstandar om næringsmiddel forbodne med mindre dei er godkjende av Kommisjonen i samsvar med den nemnde forordninga og oppførte i EU-lista over påstandar som er tillatne.
 2. Ved forordning [(EF) nr. 1924/2006](eu/32006r1924) er det òg fastsett at driftsansvarlege for næringsmiddelføretak kan sende søknader om godkjenning av helsepåstandar til den rette nasjonale styresmakta i ein medlemsstat. Den rette nasjonale styresmakta skal sende gyldige søknader vidare til Den europeiske styresmakta for næringsmiddeltryggleik («styresmakta»).
 3. Etter at søknaden er motteken, skal styresmakta straks melde frå til dei andre medlemsstatane og Kommisjonen og gje ei fråsegn om den aktuelle helsepåstanden.
@@ -2931,6 +5505,12 @@ om avslag på godkjenning av ein helsepåstand om næringsmiddel som viser til r
 5. Etter ein søknad som Anxiofit Ltd. sende inn i medhald av artikkel 14 nr. 1 bokstav a) i forordning [(EF) nr. 1924/2006](eu/32006r1924), vart styresmakta beden om å gje ei fråsegn om den vitskaplege underbygginga av ein helsepåstand om Anxiofit-1 og reduksjon av subklinisk og mild angst (spørsmål nr. EFSA-Q-2020-00032). Den påstanden som søkjaren hadde gjort framlegg om, hadde følgjande ordlyd: «Anxiofit-1 har vist seg å ha ein positiv verknad på subklinisk og mild angst. Subklinisk og mild angst er risikofaktorar for utvikling av angstlidingar og depresjon».
 6. Kommisjonen, medlemsstatane og søkjaren har motteke den vitskaplege fråsegna2 om denne påstanden frå styresmakta, der det vart konkludert med at det på grunnlag av dei framlagde opplysningane ikkje fanst tilstrekkelege vitskaplege prov på at det kunne påvisast nokon årsakssamanheng mellom inntak av Anxiofit-1 og reduksjon av subklinisk og mild angst. Ettersom helsepåstanden ikkje oppfyller krava i forordning [(EF) nr. 1924/2006](eu/32006r1924) til oppføring i EU-lista, bør han ikkje godkjennast.
 7. Dei tiltaka som er fastsette i denne forordninga, er i samsvar med fråsegna frå Det faste utvalet for planter, dyr, næringsmiddel og fôr.
+
+1 TEU L 404 av 30.12.2006, s. 9.
+
+2 EFSA Journal 2020;18(10):6264.
+
+VEDTEKE DENNE FORORDNINGA:
 
 ### Artikkel 1
 
@@ -2940,12 +5520,14 @@ Den helsepåstanden som er nemnd i vedlegget til denne forordninga, skal ikkje f
 
 Denne forordninga trer i kraft 20. dagen etter at ho er kunngjord i *Tidend for Den europeiske unionen*.
 
-Denne forordninga er bindande i alle delar og gjeld direkte i alle medlemsstatane.
-
-Utferda i Brussel 6. mai 2022.*For Kommisjonen*Ursula von der Leyen*President*
+Denne forordninga er bindande i alle delar og gjeld direkte i alle medlemsstatane.Utferda i Brussel 6. mai 2022.*For Kommisjonen*Ursula von der Leyen*President*
 
 ### VEDLEGG
 Avvist helsepåstand
+
+| Søknad – relevante føresegner i forordning [(EF) nr. 1924/2006](eu/32006r1924) | Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori | Påstand | Referansenummeret til EFSA-fråsegna |
+| --- | --- | --- | --- |
+| Artikkel 14 nr. 1 bokstav a) – helsepåstand om redusert sjukdomsrisiko | Anxiofit-1, ein næringsmiddelingrediens som inneheld eit vass- og alkoholhaldig tørka rotekstrakt av *Echinacea angustifolia* som er standardisert for den spesifikke alkamidprofilen | Anxiofit-1 har vist seg å ha ein positiv verknad på subklinisk og mild angst. Subklinisk og mild angst er risikofaktorar for utvikling av angstlidingar og depresjon | EFSA-Q-2020-00032 |
 
 ### Forordning (EU) 2022/711
 
@@ -2954,6 +5536,14 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2022/711
 ### KOMMISJONSFORORDNING (EU) 2022/711
 av 6. mai 2022
 om avslag på godkjenning av visse andre helsepåstandar om næringsmiddel enn dei som viser til redusert sjukdomsrisiko og til utviklinga og helsa til barn
+
+EUROPAKOMMISJONEN HAR
+
+med tilvising til traktaten om verkemåten til Den europeiske unionen,
+
+med tilvising til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler1, særleg artikkel 18 nr. 5, og
+
+ut frå desse synsmåtane:
 
 1. I medhald av forordning [(EF) nr. 1924/2006](eu/32006r1924) er helsepåstandar om næringsmiddel forbodne med mindre dei er godkjende av Kommisjonen i samsvar med den nemnde forordninga og oppførte i ei liste over påstandar som er tillatne.
 2. Ved forordning [(EF) nr. 1924/2006](eu/32006r1924) er det òg fastsett at driftsansvarlege for næringsmiddelføretak kan sende søknader om godkjenning av helsepåstandar til den rette nasjonale styresmakta i ein medlemsstat. Den rette nasjonale styresmakta skal sende gyldige søknader vidare til Den europeiske styresmakta for næringsmiddeltryggleik («styresmakta») til vitskapleg vurdering og til Kommisjonen og medlemsstatane til orientering.
@@ -2966,6 +5556,14 @@ om avslag på godkjenning av visse andre helsepåstandar om næringsmiddel enn d
 9. Ved fastsetjinga av tiltaka i denne forordninga er det teke omsyn til dei kommentarane som Kommisjonen har motteke frå analyze & realize GmbH i medhald av artikkel 16 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924).
 10. Dei tiltaka som er fastsette i denne forordninga, er i samsvar med fråsegna frå Det faste utvalet for planter, dyr, næringsmiddel og fôr.
 
+1 TEU L 404 av 30.12.2006, s. 9.
+
+2 EFSA Journal 2019;17(6):5715.
+
+3 EFSA Journal 2020;18(3):6004.
+
+VEDTEKE DENNE FORORDNINGA:
+
 ### Artikkel 1
 
 Dei helsepåstandane som er nemnde i vedlegget til denne forordninga, skal ikkje førast opp i EU-lista over påstandar som er tillatne, slik det er fastsett i artikkel 13 nr. 3 i forordning [(EF) nr. 1924/2006](eu/32006r1924).
@@ -2974,12 +5572,15 @@ Dei helsepåstandane som er nemnde i vedlegget til denne forordninga, skal ikkje
 
 Denne forordninga trer i kraft 20. dagen etter at ho er kunngjord i *Tidend for Den europeiske unionen*.
 
-Denne forordninga er bindande i alle delar og gjeld direkte i alle medlemsstatane.
-
-Utferda i Brussel 6. mai 2022.*For Kommisjonen*Ursula von der Leyen*President*
+Denne forordninga er bindande i alle delar og gjeld direkte i alle medlemsstatane.Utferda i Brussel 6. mai 2022.*For Kommisjonen*Ursula von der Leyen*President*
 
 ### VEDLEGG
 Avviste helsepåstandar
+
+| Søknad – relevante føresegner i forordning [(EF) nr. 1924/2006](eu/32006r1924) | Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori | Påstand | Referansenummeret til EFSA-fråsegna |
+| --- | --- | --- | --- |
+| Artikkel 13 nr. 5 – helsepåstand som byggjer på nyutvikla vitskaplege prov og/eller inneheld ei oppmoding om sikring av data som er underlagde eigedomsrett | GlycoLite™ – eit standardisert vasshaldig ekstrakt av kvite nyrebønner (*Phaseolus vulgaris* L.) som er underlagt eigedomsrett | GlycoLite™ medverkar til å redusere kroppsvekta. | Q-2018-00611 |
+| Artikkel 13 nr. 5 – helsepåstand som byggjer på nyutvikla vitskaplege prov og/eller inneheld ei oppmoding om sikring av data som er underlagde eigedomsrett | Sugetablettar med to stammer av *Lactobacillus reuteri*:<br>*Lactobacillus reuteri* DSM 17938 og *Lactobacillus reuteri* ATCC PTA 5289, med om lag like store mengder av kvar stamme (samla minsteinnhald på 1 × 108 CFU/sugetablett av kvar bakteriestamme) | Sugetablettar som inneheld *Lactobacillus reuteri* DSM 17938 og *Lactobacillus reuteri* ATCC PTA 5289 styrkjer den normale tannkjøtfunksjonen. | Q-2019-00383 |
 
 ### Forordning (EU) 2022/719
 
@@ -2988,6 +5589,14 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2022/719
 ### KOMMISJONSFORORDNING (EU) 2022/719
 av 10. mai 2022
 om avslag på godkjenning av visse andre helsepåstandar om næringsmiddel enn dei som viser til redusert sjukdomsrisiko og til utviklinga og helsa til barn
+
+EUROPAKOMMISJONEN HAR
+
+med tilvising til traktaten om verkemåten til Den europeiske unionen,
+
+med tilvising til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler1, særleg artikkel 18 nr. 5, og
+
+ut frå desse synsmåtane:
 
 1. I medhald av forordning [(EF) nr. 1924/2006](eu/32006r1924) er helsepåstandar om næringsmiddel forbodne med mindre dei er godkjende av Kommisjonen i samsvar med den nemnde forordninga og oppførte i ei liste over påstandar som er tillatne.
 2. Ved forordning [(EF) nr. 1924/2006](eu/32006r1924) er det òg fastsett at driftsansvarlege for næringsmiddelføretak kan sende søknader om godkjenning av helsepåstandar til den rette nasjonale styresmakta i ein medlemsstat. Den rette nasjonale styresmakta skal sende gyldige søknader vidare til Den europeiske styresmakta for næringsmiddeltryggleik («styresmakta») til vitskapleg vurdering og til Kommisjonen og medlemsstatane til orientering.
@@ -3002,6 +5611,16 @@ om avslag på godkjenning av visse andre helsepåstandar om næringsmiddel enn d
 11. Ved fastsetjinga av tiltaka i denne forordninga er det teke omsyn til dei kommentarane som Kommisjonen har motteke frå DuPont Nutrition Biosciences ApS and Tchibo GmbH i medhald av artikkel 16 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924).
 12. Dei tiltaka som er fastsette i denne forordninga, er i samsvar med fråsegna frå Det faste utvalet for planter, dyr, næringsmiddel og fôr.
 
+1 TEU L 404 av 30.12.2006, s. 9.
+
+2 EFSA Journal 2020;18(7):6198.
+
+3 EFSA Journal 2020;18(3):6055.
+
+4 EFSA Journal 2020;18(5):5949.
+
+VEDTEKE DENNE FORORDNINGA:
+
 ### Artikkel 1
 
 Dei helsepåstandane som er nemnde i vedlegget til denne forordninga, skal ikkje førast opp i EU-lista over påstandar som er tillatne, slik det er fastsett i artikkel 13 nr. 3 i forordning [(EF) nr. 1924/2006](eu/32006r1924).
@@ -3010,12 +5629,16 @@ Dei helsepåstandane som er nemnde i vedlegget til denne forordninga, skal ikkje
 
 Denne forordninga trer i kraft 20. dagen etter at ho er kunngjord i *Tidend for Den europeiske unionen*.
 
-Denne forordninga er bindande i alle delar og gjeld direkte i alle medlemsstatane.
-
-Utferda i Brussel 10. mai 2022.*For Kommisjonen*Ursula von der Leyen*President*
+Denne forordninga er bindande i alle delar og gjeld direkte i alle medlemsstatane.Utferda i Brussel 10. mai 2022.*For Kommisjonen*Ursula von der Leyen*President*
 
 ### VEDLEGG
 Avviste helsepåstandar
+
+| Søknad – relevante føresegner i forordning [(EF) nr. 1924/2006](eu/32006r1924) | Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori | Påstand | Referansenummeret til EFSA-fråsegna |
+| --- | --- | --- | --- |
+| Artikkel 13 nr. 5 – helsepåstand som byggjer på nyutvikla vitskaplege prov og/eller inneheld ei oppmoding om sikring av data som er underlagde eigedomsrett | *Bifidobacterium animalis* subsp. *lactis* Bi-07 (Bi-07) | *Bifidobacterium animalis* subsp. *lactis* Bi-07 medverkar til å betre fordøyinga av laktose hjå personar som har problem med å fordøye laktose | Q-2020-00024 |
+| Artikkel 13 nr. 5 – helsepåstand som byggjer på nyutvikla vitskaplege prov og/eller inneheld ei oppmoding om sikring av data som er underlagde eigedomsrett | C21-kaffi, ei blanding av rein, brend Arabica-kaffi (*Coffea arabica* L.) utan andre ingrediensar enn kaffi | Jamleg inntak av C21-kaffi medverkar til å halde ved lag eit intakt DNA i cellene i kroppen | Q-2019-00423 |
+| Artikkel 13 nr. 5 – helsepåstand som byggjer på nyutvikla vitskaplege prov og/eller inneheld ei oppmoding om sikring av data som er underlagde eigedomsrett | MenaQ7®, vitamin K2 som menakinon-7 | MenaQ7®, vitamin K2 som menakinon-7, betrar arteriell stivleik | Q-2019-00229 |
 
 ### Forordning (EU) 2022/727
 
@@ -3024,6 +5647,14 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2022/727
 ### KOMMISJONSFORORDNING (EU) 2022/727
 av 11. mai 2022
 om avslag på godkjenning av ein helsepåstand om næringsmiddel som viser til redusert sjukdomsrisiko
+
+EUROPAKOMMISJONEN HAR
+
+med tilvising til traktaten om verkemåten til Den europeiske unionen,
+
+med tilvising til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler1, særleg artikkel 17 nr. 3, og
+
+ut frå desse synsmåtane:
 
 1. I medhald av forordning [(EF) nr. 1924/2006](eu/32006r1924) er helsepåstandar om næringsmiddel forbodne med mindre dei er godkjende av Kommisjonen i samsvar med den nemnde forordninga og oppførte i lista over påstandar som er tillatne.
 2. Med omsyn til helsepåstandar om redusert sjukdomsrisiko er det fastsett i artikkel 15 i forordning (EF) nr. 1924/2006 at driftsansvarlege for næringsmiddelføretak skal sende søknader om godkjenning av helsepåstandar til den rette nasjonale styresmakta i ein medlemsstat. Den rette nasjonale styresmakta skal sende gyldige søknader vidare til Den europeiske styresmakta for næringsmiddeltryggleik (EFSA), heretter kalla «styresmakta».
@@ -3034,6 +5665,12 @@ om avslag på godkjenning av ein helsepåstand om næringsmiddel som viser til r
 7. Ved fastsetjinga av tiltaka i denne forordninga er det teke omsyn til dei kommentarane som Kommisjonen har motteke frå søkjaren i samsvar med artikkel 16 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924).
 8. Dei tiltaka som er fastsette i denne forordninga, er i samsvar med fråsegna frå Det faste utvalet for planter, dyr, næringsmiddel og fôr.
 
+1 [TEU](eu/12016m) L 404 av 30.12.2006, s. 9.
+
+2 EFSA Journal 2018;16(7):5364.
+
+VEDTEKE DENNE FORORDNINGA:
+
 ### Artikkel 1
 
 Den helsepåstanden som er oppført i vedlegget til denne forordninga, skal ikkje førast opp i den EU-lista over påstandar som er tillatne, slik det er fastsett i artikkel 14 nr. 1 i forordning [(EF) nr. 1924/2006](eu/32006r1924).
@@ -3042,12 +5679,14 @@ Den helsepåstanden som er oppført i vedlegget til denne forordninga, skal ikkj
 
 Denne forordninga trer i kraft 20. dagen etter at ho er kunngjord i *Tidend for Den europeiske unionen*.
 
-Denne forordninga er bindande i alle delar og gjeld direkte i alle medlemsstatane.
-
-Utferda i Brussel 11. mai 2022.*For Kommisjonen*Ursula von der Leyen*President*
+Denne forordninga er bindande i alle delar og gjeld direkte i alle medlemsstatane.Utferda i Brussel 11. mai 2022.*For Kommisjonen*Ursula von der Leyen*President*
 
 ### VEDLEGG
 Avvist helsepåstand
+
+| Søknad – relevante føresegner i forordning [(EF) nr. 1924/2006](eu/32006r1924) | Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori | Påstand | Referansenummeret til EFSA-fråsegna |
+| --- | --- | --- | --- |
+| Artikkel 14 nr. 1 bokstav a) – helsepåstand om redusert sjukdomsrisiko. | «Symbiosal®» (eit kosttilskot som inneheld havsalt (97 %) og kitosan (3 %)). | «Symbiosal®» har vist seg å redusere eit stigande blodtrykk når det vert nytta i staden for tradisjonelt bordsalt. Eit stigande blodtrykk er ein risikofaktor for høgt blodtrykk (hypertensjon). | Q-2018-00002 |
 
 ### Forordning [(EU) 2023/648](eu/32023r0648)
 
@@ -3058,6 +5697,14 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2023/648
 ### KOMMISJONSFORORDNING [(EU) 2023/648](eu/32023r0648)
 av 20. mars 2023
 om godkjenning av en helsepåstand om næringsmidler som viser til redusert sykdomsrisiko
+
+EUROPAKOMMISJONEN HAR
+
+under henvisning til traktaten om Den europeiske unions virkemåte,
+
+under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler1, særlig artikkel 17 nr. 3, og
+
+ut fra følgende betraktninger:
 
 1. I henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924) er helsepåstander om næringsmidler forbudt med mindre de er godkjent av Kommisjonen i samsvar med nevnte forordning og er oppført på listen over tillatte påstander.
 2. Forordning [(EF) nr. 1924/2006](eu/32006r1924) fastsetter at driftsansvarlige for næringsmiddelforetak skal inngi søknader om godkjenning av helsepåstander til vedkommende nasjonale myndighet i en medlemsstat. Vedkommende nasjonale myndighet skal videresende gyldige søknader til Den europeiske myndighet for næringsmiddeltrygghet («myndigheten»).
@@ -3076,6 +5723,20 @@ om godkjenning av en helsepåstand om næringsmidler som viser til redusert sykd
 15. Tilsetting eller bruk av stoffer i næringsmidler er regulert av særskilt EU-regelverk og nasjonal lovgivning, det samme er klassifisering av produkter som næringsmidler eller legemidler. En beslutning om en helsepåstand i henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924), som for eksempel oppføring på listen over tillatte påstander nevnt i artikkel 14 nr. 1 i forordningen, utgjør verken en tillatelse til å markedsføre det stoffet påstanden gjelder, en beslutning om hvorvidt stoffet kan brukes i næringsmidler, eller en klassifisering av et visst produkt som næringsmiddel. Når det gjelder monakoliner fra rød gjæret ris, regulerte kommisjonsforordning [(EU) 2022/860](eu/32022r0860)5 bruken ved å endre vedlegg III til europaparlaments- og rådsforordning [(EF) nr. 1925/2006](eu/32006r1925)6 for å legge stoffet til i listen over «Stoffer som er underlagt begrensninger», og dermed tillate bruk av monakoliner fra rød gjæret ris bare under visse forhold. Forordning [(EU) 2022/860](eu/32022r0860) fastsetter også hensiktsmessige merkingskrav for alle næringsmidler som inneholder monakoliner fra rød gjæret ris.
 16. Tiltakene fastsatt i denne forordningen er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr.
 
+1 EUT L 404 av 30.12.2006, s. 9.
+
+2 Spørsmål nr. EFSA-Q-2012-00968.
+
+3 EFSA Journal 2013;11(7):3327.
+
+4 Barrat E, Zaïr Y, Chauveau P, Maudet C, Housez B, Derbord E, Lescuyer JF, Bard JM, Cazaubiel M and Peltier SL, 2012, ikke offentliggjort; Effect on LDL-cholesterol of a large dose of a dietary portfolio supplement in subjects with untreated moderate hypercholesterolaemia: a double-blind, placebo-controlled study, offentliggjort som: Barrat E, Zaïr Y, Sirvent P, Chauveau P, Maudet C, Housez B, Derbord E, Lescuyer JF, Bard JM, Cazaubiel M and Peltier SL, 2012; Effect on LDL-cholesterol of a large dose of a dietary supplement with plant extracts in subjects with untreated moderate hypercholesterolaemia: a randomised, double-blind, placebo-controlled study, European Journal of Nutrition, 25. desember. [E-publikasjon før trykking]; Barrat E, Zaïr Y, Ogier N, Housez B, Vergara C, Maudet C, Lescuyer JF, Bard JM, Carpentier YA, Cazaubiel M and Peltier SL, 2012, ikke offentliggjort; A dietary portfolio supplement substantially lowers LDL-cholesterol in subjects with moderate untreated hypercholesterolaemia: a randomised controlled study, offentliggjort som: Barrat E, Zaïr Y, Ogier N, Housez B, Vergara C, Maudet C, Lescuyer JF, Bard JM, Carpentier YA, Cazaubiel M and Peltier SL, 2013; A combined natural supplement lowers LDL cholesterol in subjects with moderate untreated hypercholesterolemia: a randomized placebo-controlled trial. International Journal of Food Sciences and Nutrition, 2. juli. [E-publikasjon før trykking]; Ogier N, Amiot MJ, Georgé S, Maillot M, Mallmann C, Maraninchi M, Morange S, Lescuyer JF, Peltier SL and Cardinault N, 2013; LDL-cholesterol-lowering effect of a dietary supplement with plant extracts in subjects with moderate hypercholesterolemia, European Journal of Nutrition, 52, s. 547.
+
+5 Kommisjonsforordning [(EU) 2022/860](eu/32022r0860) av 1. juni 2022 om endring av vedlegg III til europaparlaments- og rådsforordning [(EF) nr. 1925/2006](eu/32006r1925) med hensyn til monakoliner fra rød gjæret ris EUT L 151 av 2.6. 2022, s. 37.
+
+6 Europaparlaments- og rådsforordning [(EF) nr. 1925/2006](eu/32006r1925) av 20. desember 2006 om tilsetting av vitaminer, mineraler og visse andre stoffer i næringsmidler. EUT L 404 av 30.12.2006, s. 26.
+
+VEDTATT DENNE FORORDNINGEN:
+
 ### Artikkel 1
 
 Helsepåstanden angitt i vedlegget til denne forordningen skal oppføres på EU-listen over tillatte påstander omhandlet i artikkel 14 nr. 1 i forordning [(EF) nr. 1924/2006](eu/32006r1924) og kan brukes om næringsmidler i samsvar med vilkårene fastsatt i vedlegget til denne forordningen.
@@ -3083,6 +5744,8 @@ Helsepåstanden angitt i vedlegget til denne forordningen skal oppføres på EU-
 ### Artikkel 2
 
 Bare Laboratoire Lescuyer7 har tillatelse til å bruke helsepåstanden angitt i vedlegget i en periode på fem år fra denne forordningens ikrafttredelse i samsvar med artikkel 4 i denne forordningen, med mindre en etterfølgende søker får tillatelse til å bruke samme påstand uten henvisning til de vitenskapelige dataene som beskyttes i samsvar med artikkel 3, eller etter avtale med Laboratoire Lescuyer. Etter utløpet av denne perioden kan denne helsepåstanden i samsvar med vilkårene som gjelder for den, benyttes av en hvilken som helst driftsansvarlig for næringsmiddelforetak.
+
+7 Adresse: ZAC de Belle Aire Nord, 15 rue le Corbusier, 17440 Aytré, Frankrike.
 
 ### Artikkel 3
 
@@ -3092,14 +5755,16 @@ De vitenskapelige dataene fra studiene som inngår i søknaden, som ligger til g
 
 Denne forordningen trer i kraft den 20. dagen etter at den er kunngjort i *Den europeiske unions tidende*.
 
-Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
-
-Utferdiget i Brussel 20. mars 2023.
-
-*For Kommisjonen*Ursula von der Leyen*President*
+Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.Utferdiget i Brussel 20. mars 2023.*For Kommisjonen*Ursula von der Leyen*President*
 
 ### VEDLEGG
 Tillatte helsepåstander
+
+| *Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924)* | *Søker – Søkers adresse* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddel-<br>kategori* | *Påstand* | *Vilkår for bruk av påstanden* | *Vilkår og/eller begrens-<br>ninger for bruk av nærings-<br>middelet og/eller en tilleggs-<br>erklæring eller<br>-advarsel* | *EFSA-uttalelse* |
+| --- | --- | --- | --- | --- | --- | --- |
+| Artikkel 14 nr. 1 bokstav a) – helsepåstand om redusert sykdomsrisiko. | Laboratoire Lescuyer, ZAC de Belle Aire Nord, 15 rue le Corbusier, 17440 Aytré, Frankrike. | En kombinasjon av tørrekstrakt av artisjokkblader med et standardisert innhold av klorogensyrer, monakolin K i rød gjæret ris, polikosanoler fra sukkerrør, procyanidololigomerer fra fransk strandfurubark, tørrekstrakt av hvitløk med et standardisert innhold av allicin, d-α-tokoferylhydrogensuksinat, riboflavin og inositolheksanikotinat. | En kombinasjon av tørrekstrakt av artisjokkblader med et standardisert innhold av klorogensyrer, monakolin K i rød gjæret ris, polikosanoler fra sukkerrør, procyanidololigomerer fra fransk strandfurubark, tørrekstrakt av hvitløk med et standardisert innhold av allicin, d-α-tokoferylhydrogensuksinat, riboflavin og inositolheksanikotinat reduserer konsentrasjonen av LDL-kolesterol i blodet. Et høyt kolesterolinnhold er en risikofaktor for utviklingen av koronar hjertesykdom1. | Påstanden kan brukes bare om kosttilskudd som inneholder 600 mg tørrekstrakt av artisjokkblader med 30-36 mg klorogensyrer, 500 mg rød gjæret ris med 2 mg monakolin K, 10 mg polikosanoler fra sukkerrør, 20 mg ekstrakt av fransk strandfurubark med 18 mg procyanidololigomerer, 30 mg tørrekstrakt av hvitløk med 0,25 mg allicin, 30 mg α-tokoferolekvivalenter, 5 mg riboflavin og 9 mg inositolheksanikotinat fordelt på tre daglige doser som skal inntas sammen med hovedmåltidene. |  | Q-2012-00968 |
+
+1 Godkjent 10. april 2023 og kan bare brukes av Laboratoire Lescuyer, ZAC de Belle Aire Nord, 15 rue le Corbusier, 17440 Aytré, Frankrike, i en periode på 5 år.
 
 ### Forordning [(EU) 2023/1101](eu/32023r1101)
 
@@ -3111,6 +5776,14 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2023/110
 av 6. juni 2023
 om avslag på godkjenning av ein helsepåstand om næringsmiddel som viser til utviklinga og helsa til barn
 
+EUROPAKOMMISJONEN HAR
+
+med tilvising til traktaten om verkemåten til Den europeiske unionen,
+
+med tilvising til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler1, særleg artikkel 17 nr. 3 og
+
+ut frå desse synsmåtane:
+
 1. I medhald av forordning [(EF) nr. 1924/2006](eu/32006r1924) er helsepåstandar om næringsmiddel forbodne med mindre dei er godkjende av Kommisjonen i samsvar med den nemnde forordninga og oppførte i EU-lista over påstandar som er tillatne.
 2. Ved forordning [(EF) nr. 1924/2006](eu/32006r1924) er det òg fastsett at driftsansvarlege for næringsmiddelføretak kan sende søknader om godkjenning av helsepåstandar til den rette nasjonale styresmakta i ein medlemsstat. Den rette nasjonale styresmakta skal sende gyldige søknader vidare til Den europeiske styresmakta for næringsmiddeltryggleik («styresmakta»).
 3. Etter at søknaden er motteken, skal styresmakta straks melde frå til dei andre medlemsstatane og Kommisjonen og gje ei fråsegn om den aktuelle helsepåstanden.
@@ -3120,6 +5793,12 @@ om avslag på godkjenning av ein helsepåstand om næringsmiddel som viser til u
 7. Etter offentleggjeringa av fråsegna mottok Kommisjonen ingen kommentarar i medhald av artikkel 16 nr. 6 i forordning (EF) nr. 1924/2006.
 8. Dei tiltaka som er fastsette i denne forordninga, er i samsvar med fråsegna frå Det faste utvalet for planter, dyr, næringsmiddel og fôr.
 
+1 TEU L 404 av 30.12.2006, s. 9.
+
+2 EFSA Journal 2021;19(10):6847.
+
+VEDTEKE DENNE FORORDNINGA:
+
 ### Artikkel 1
 
 Den helsepåstanden som er nemnd i vedlegget til denne forordninga, skal ikkje førast opp i EU-lista over påstandar som er tillatne, som er nemnd i artikkel 14 nr. 1 i forordning (EF) nr. 1924/2006.
@@ -3128,12 +5807,22 @@ Den helsepåstanden som er nemnd i vedlegget til denne forordninga, skal ikkje f
 
 Denne forordninga trer i kraft 20. dagen etter at ho er kunngjord i *Tidend for Den europeiske unionen*.
 
-Denne forordninga er bindande i alle delar og gjeld direkte i alle medlemsstatane.
+Denne forordninga er bindande i alle delar og gjeld direkte i alle medlemsstatane.Utferda i Brussel 6. juni 2023.
 
-Utferda i Brussel 6. juni 2023.
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  |  |
+|  | Ursula von der Leyen |
+|  |  |
+|  | *President* |
 
 ### VEDLEGG
 Avvist helsepåstand
+
+| *Søknad – relevante føresegner i forordning [(EF) nr. 1924/2006](eu/32006r1924)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori* | *Påstand* | *Referansenummeret til EFSA-fråsegna* |
+| --- | --- | --- | --- |
+| Artikkel 14 nr. 1 bokstav b) – helsepåstand som viser til utviklinga og helsa til barn | Økologiske næringsmiddel | Økologiske næringsmiddel (med lågare innhald av pesticidrestar enn i konvensjonelle næringsmiddel) medverkar til å beskytte cellene og molekyla i kroppen (lipid og DNA) mot oksidative skadar | Q-2021-00055 |
 
 ### Forordning [(EU) 2023/1141](eu/32023r1141)
 
@@ -3144,6 +5833,14 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2023/114
 ### KOMMISJONSFORORDNING [(EU) 2023/1101](eu/32023r1101)
 av 1. juni 2023
 om avslag på godkjenning av visse andre helsepåstandar om næringsmiddel enn dei som viser til redusert sjukdomsrisiko og til utviklinga og helsa til barn
+
+EUROPAKOMMISJONEN HAR
+
+med tilvising til traktaten om verkemåten til Den europeiske unionen,
+
+med tilvising til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler1, særleg artikkel 18 nr. 5, og
+
+ut frå desse synsmåtane:
 
 1. I medhald av forordning [(EF) nr. 1924/2006](eu/32006r1924) er helsepåstandar om næringsmiddel forbodne med mindre dei er godkjende av Kommisjonen i samsvar med den nemnde forordninga og oppførte i EU-lista over helsepåstandar som er tillatne.
 2. Ved forordning [(EF) nr. 1924/2006](eu/32006r1924) er det òg fastsett at driftsansvarlege for næringsmiddelføretak kan sende søknader om godkjenning av helsepåstandar til den rette nasjonale styresmakta i ein medlemsstat. Den rette nasjonale styresmakta skal sende gyldige søknader vidare til Den europeiske styresmakta for næringsmiddeltryggleik («styresmakta»).
@@ -3160,6 +5857,18 @@ om avslag på godkjenning av visse andre helsepåstandar om næringsmiddel enn d
 13. Ved vedtakinga av denne forordninga er det teke omsyn til kommentarane frå Nestlé S.A. om styresmakta si fråsegn om helsepåstanden om betaglukan frå havre og/eller bygg i spiseferdig frukostkorn som er framstilt ved trykkoking, og redusert blodsukkerstiging etter inntak (spørsmål nr. EFSA-Q-2020-000447), som Kommisjonen har motteke i medhald av artikkel 16 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924).
 14. Dei tiltaka som er fastsette i denne forordninga, er i samsvar med fråsegna frå Det faste utvalet for planter, dyr, næringsmiddel og fôr.
 
+1 TEU L 404 av 30.12.2006, s. 9.
+
+2 EFSA Journal 2021;19(4):6493.
+
+3 EFSA Journal 2021;19(7):6669.
+
+4 EFSA Journal 2021;19(8):6776.
+
+5 EFSA Journal 2021;19(8):6775.
+
+VEDTEKE DENNE FORORDNINGA:
+
 ### Artikkel 1
 
 Dei helsepåstandane som er nemnde i vedlegget til denne forordninga, skal ikkje førast opp i den EU-lista over påstandar som er tillatne, som er nemnd i artikkel 13 nr. 3 i forordning [(EF) nr. 1924/2006](eu/32006r1924).
@@ -3168,12 +5877,25 @@ Dei helsepåstandane som er nemnde i vedlegget til denne forordninga, skal ikkje
 
 Denne forordninga trer i kraft 20. dagen etter at ho er kunngjord i *Tidend for Den europeiske unionen*.
 
-Denne forordninga er bindande i alle delar og gjeld direkte i alle medlemsstatane.
+Denne forordninga er bindande i alle delar og gjeld direkte i alle medlemsstatane.Utferda i Brussel 1. juni 2023.
 
-Utferda i Brussel 1. juni 2023.
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  |  |
+|  | Ursula von der Leyen |
+|  |  |
+|  | *President* |
 
 ### VEDLEGG
 Avviste helsepåstandar
+
+| *Søknad – relevante føresegner i forordning [(EF) nr. 1924/2006](eu/32006r1924)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori* | *Påstand* | *Referansenummeret til EFSA-fråsegna* |
+| --- | --- | --- | --- |
+| Artikkel 13 nr. 5 – helsepåstand som byggjer på nyutvikla vitskaplege prov og/eller inneheld ei oppmoding om sikring av data som er underlagde eigedomsrett | Betaglukan frå havre og/eller bygg i spiseferdig frukostkorn som er framstilt ved trykkoking (dvs. enten satsvis koking eller ekstrudering), med ein førekomst på 1,3 g per 25 g tilgjengelege karbohydrat i spiseferdig frukostkorn. | Inntak av betaglukan frå havre og/eller bygg i spiseferdig frukostkorn som er framstilt ved trykkoking, medverkar til redusert blodsukkerstiging etter måltidet | Q-2020-000447 |
+| Artikkel 13 nr. 5 – helsepåstand som byggjer på nyutvikla vitskaplege prov og/eller inneheld ei oppmoding om sikring av data som er underlagde eigedomsrett | Affron® vasshaldig safranekstrakt der summen av konsentrasjonane av crocin og safranal > 3,5 % og dekstrin er inert berar | Affron® medverkar til å halde ved lag ei sunn sinnsstemning ved å redusere dei negative kjenneteikna på depresjons- og angstkjensler | Q-2020-00617 |
+| Artikkel 13 nr. 5 – helsepåstand som byggjer på nyutvikla vitskaplege prov og/eller inneheld ei oppmoding om sikring av data som er underlagde eigedomsrett | MegaNatural®-BP druekjerneekstrakt utelukkande frå druer som er dyrka i California, som inneheld biologisk aktive delemne: samla fenolinnhald (90–93 %), gallussyre (≥ 2 %) og katekin og epikatekin (≥ 5 %). Fordelinga av fenolsambindingar i MegaNatural®-BP er 9 % monomerar, 69 % oligomerar og 22 % polymerar | MegaNatural®-BP medverkar til å halde ved lag eit sunt blodtrykk | Q-2020-00718 |
+| Artikkel 13 nr. 5 – helsepåstand som byggjer på nyutvikla vitskaplege prov og/eller inneheld ei oppmoding om sikring av data som er underlagde eigedomsrett | Frutalose® oligofruktose frå sikori | Frutalose® oligofruktose frå sikori medverkar til normal tarmfunksjon ved å auke avføringsfrekvensen<br>(og tre andre alternative formuleringar) | Q-2020-00631 |
 
 ### Forordning [(EU) 2024/2063](eu/32024r2063)
 
@@ -3185,59 +5907,93 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2024/206
 av 30. juli 2024
 om avslag på godkjenning av en annen helsepåstand om næringsmidler enn de som viser til redusert sykdomsrisiko og barns utvikling og helse
 
-1. I henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924) er helsepåstander om næringsmidler forbudt med mindre de er godkjent av Kommisjonen i samsvar med nevnte forordning og er oppført på EU-listen over tillatte helsepåstander.
+EUROPAKOMMISJONEN HAR
 
-2. I henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924) bør først og fremst vitenskapelig dokumentasjon tas i betraktning ved bruken av ernærings- og helsepåstander, og driftsansvarlige for næringsmiddelforetak som benytter påstandene, bør dokumentere dem. En påstand bør dokumenteres vitenskapelig, idet det tas hensyn til alle tilgjengelige vitenskapelige opplysninger og ved en avveining av bevisene.
+under henvisning til [traktaten om Den europeiske unions virkemåte](eu/12016e),
 
-3. I henhold til artikkel 18 i forordning [(EF) nr. 1924/2006](eu/32006r1924) skal søknader om oppføring av helsepåstander på listen over tillatte påstander inngis av driftsansvarlige for næringsmiddelforetak til vedkommende nasjonale myndighet i en medlemsstat. Vedkommende nasjonale myndighet skal videresende gyldige søknader til Den europeiske myndighet for næringsmiddeltrygghet («myndigheten») for vitenskapelig vurdering samt til Kommisjonen og medlemsstatene til orientering.
+under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler1, særlig artikkel 18 nr. 5, og
 
-4. Myndigheten skal avgi uttalelse om den aktuelle helsepåstanden innen 5 måneder etter at anmodningen er mottatt.
+ut fra følgende betraktninger:
 
-5. Kommisjonen skal ta hensyn til uttalelsen fra myndigheten når den treffer beslutning om godkjenning av helsepåstandene. I samsvar med artikkel 17 i forordning [(EF) nr. 1924/2006](eu/32006r1924) må imidlertid Kommisjonen ved denne vurderingen også ta hensyn til relevante bestemmelser i unionsretten og andre berettigede faktorer som er relevante for saken.
+1\. I henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924) er helsepåstander om næringsmidler forbudt med mindre de er godkjent av Kommisjonen i samsvar med nevnte forordning og er oppført på EU-listen over tillatte helsepåstander.
 
-6. Etter en søknad fra Sylvan Bio Europe BV («søkeren»), inngitt i samsvar med artikkel 18 nr. 1 i forordning [(EF) nr. 1924/2006](eu/32006r1924), ble myndigheten bedt om å avgi uttalelse om en helsepåstand om monakolin K i rød gjæret ris fra Sylvan BIO og opprettholdelse av normalt LDL-kolesterolnivå i blodet (spørsmål nr. EFSA-Q-2012-00736). Søkerens foreslåtte påstand hadde følgende ordlyd: «Et daglig inntak av minst 2,4 g SYLVAN BIO rød gjæret ris, tilsvarende 4,08 mg monakolin K, bidrar til å opprettholde et normalt LDL-kolesterolnivå i blodet.»
+2\. I henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924) bør først og fremst vitenskapelig dokumentasjon tas i betraktning ved bruken av ernærings- og helsepåstander, og driftsansvarlige for næringsmiddelforetak som benytter påstandene, bør dokumentere dem. En påstand bør dokumenteres vitenskapelig, idet det tas hensyn til alle tilgjengelige vitenskapelige opplysninger og ved en avveining av bevisene.
 
-7. Myndigheten vedtok 24. januar 2013 sin vitenskapelige uttalelse2 om belegget for en helsepåstand om monakolin K i rød gjæret ris fra Sylvan BIO og opprettholdelse av et normalt nivå av LDL-kolesterol i blodet i henhold til artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924). Kommisjonen og medlemsstatene mottok 13. februar 2013 myndighetens vitenskapelige uttalelse.
+3\. I henhold til artikkel 18 i forordning [(EF) nr. 1924/2006](eu/32006r1924) skal søknader om oppføring av helsepåstander på listen over tillatte påstander inngis av driftsansvarlige for næringsmiddelforetak til vedkommende nasjonale myndighet i en medlemsstat. Vedkommende nasjonale myndighet skal videresende gyldige søknader til Den europeiske myndighet for næringsmiddeltrygghet («myndigheten») for vitenskapelig vurdering samt til Kommisjonen og medlemsstatene til orientering.
 
-8. Myndigheten fastslo i sin vitenskapelige uttalelse at i henhold til studien til Myers et al., 20063 burde innholdet av monakolin K i 2,4 g rød gjæret ris fra SYLVAN BIO ha vært høyere enn 4,08 mg. På anmodning fra myndigheten presiserte søkeren at preparatet av rød gjæret ris som ble brukt i denne studien, var i samsvar med spesifikasjonene for rød gjæret ris fra SYLVAN BIO, og at alle de aktive formene tatt i betraktning, inneholdt 2,4 g av rød gjæret ris fra SYLVAN BIO 8,96 mg monakolin K. Myndigheten anså at denne studien – med noen metodologiske begrensninger – viste en effekt av monakolin K i rød gjæret ris fra SYLVAN BIO på LDL-kolesterolnivået i blodet ved doser på ca. 9 mg/dag.
+4\. Myndigheten skal avgi uttalelse om den aktuelle helsepåstanden innen 5 måneder etter at anmodningen er mottatt.
 
-9. Når det gjelder studiene til Becker et al., 20094 og Halbert et al., 20105, fastslo myndigheten at disse studiene viste at monakolin K i rød gjæret ris fra SYLVAN BIO har en effekt ved doser på henholdsvis ca. 10 mg og 14 mg per dag.
+5\. Kommisjonen skal ta hensyn til uttalelsen fra myndigheten når den treffer beslutning om godkjenning av helsepåstandene. I samsvar med artikkel 17 i forordning [(EF) nr. 1924/2006](eu/32006r1924) må imidlertid Kommisjonen ved denne vurderingen også ta hensyn til relevante bestemmelser i unionsretten og andre berettigede faktorer som er relevante for saken.
 
-10. I sin uttalelse anså myndigheten også at dokumentasjonen søkeren har framlagt, ikke fastslår at monakolin K i rød gjæret ris fra SYLVAN BIO er forskjellig fra monakolin K i andre preparater av rød gjæret ris med hensyn til virkningen på LDL-kolesterolnivået i blodet.
+6\. Etter en søknad fra Sylvan Bio Europe BV («søkeren»), inngitt i samsvar med artikkel 18 nr. 1 i forordning [(EF) nr. 1924/2006](eu/32006r1924), ble myndigheten bedt om å avgi uttalelse om en helsepåstand om monakolin K i rød gjæret ris fra Sylvan BIO og opprettholdelse av normalt LDL-kolesterolnivå i blodet (spørsmål nr. EFSA-Q-2012-00736). Søkerens foreslåtte påstand hadde følgende ordlyd: «Et daglig inntak av minst 2,4 g SYLVAN BIO rød gjæret ris, tilsvarende 4,08 mg monakolin K, bidrar til å opprettholde et normalt LDL-kolesterolnivå i blodet.»
 
-11. Myndigheten konkluderte med at det er fastslått et årsaks- og virkningsforhold mellom inntak av monakolin K i preparater av rød gjæret ris, som inkluderer rød gjæret ris fra SYLVAN BIO, og opprettholdelse av et normalt nivå av LDL-kolesterol i blodet. For at den påståtte virkningen skal oppnås bør 10 mg monakolin K fra preparater av rød gjæret ris inntas daglig.
+7\. Myndigheten vedtok 24. januar 2013 sin vitenskapelige uttalelse2 om belegget for en helsepåstand om monakolin K i rød gjæret ris fra Sylvan BIO og opprettholdelse av et normalt nivå av LDL-kolesterol i blodet i henhold til artikkel 13 nr. 5 i forordning [(EF) nr. 1924/2006](eu/32006r1924). Kommisjonen og medlemsstatene mottok 13. februar 2013 myndighetens vitenskapelige uttalelse.
 
-12. Myndigheten fant at den kunne ha trukket denne konklusjonen uten intervensjonsundersøkelsen av mennesker foretatt av Myers et al., 2006, som søkeren har hevdet eiendomsrett til.
+8\. Myndigheten fastslo i sin vitenskapelige uttalelse at i henhold til studien til Myers et al., 20063 burde innholdet av monakolin K i 2,4 g rød gjæret ris fra SYLVAN BIO ha vært høyere enn 4,08 mg. På anmodning fra myndigheten presiserte søkeren at preparatet av rød gjæret ris som ble brukt i denne studien, var i samsvar med spesifikasjonene for rød gjæret ris fra SYLVAN BIO, og at alle de aktive formene tatt i betraktning, inneholdt 2,4 g av rød gjæret ris fra SYLVAN BIO 8,96 mg monakolin K. Myndigheten anså at denne studien – med noen metodologiske begrensninger – viste en effekt av monakolin K i rød gjæret ris fra SYLVAN BIO på LDL-kolesterolnivået i blodet ved doser på ca. 9 mg/dag.
 
-13. Myndigheten fastslo i sin uttalelse at en påstand om monakolin K fra rød gjæret ris og opprettholdelse av normale nivåer av LDL-kolesterol i blodet allerede var blitt vurdert med et positivt resultat av EFSAs vitenskapsgruppe for produkter til bruk ved spesielle ernæringsmessige behov, ernæring og allergier i 20116. I vilkårene for bruk av påstanden som er gjenstand for denne uttalelsen, ble det også fastsatt at et daglig inntak av monakolin K fra ethvert preparat av rød gjæret ris (som ville omfatte rød gjæret ris fra SYLVAN BIO) skal være 10 mg for å oppnå den påståtte virkningen.
+9\. Når det gjelder studiene til Becker et al., 20094 og Halbert et al., 20105, fastslo myndigheten at disse studiene viste at monakolin K i rød gjæret ris fra SYLVAN BIO har en effekt ved doser på henholdsvis ca. 10 mg og 14 mg per dag.
 
-14. Når det gjelder begrensninger av bruken av begge ovennevnte helsepåstander, viste myndigheten i sine vitenskapelige uttalelser til preparatomtalen for lovastatinholdige legemidler som er tilgjengelige på unionsmarkedet. Preparatomtalen inneholder informasjon til helsepersonell om sikker og effektiv bruk av legemidler og særlig av lovastatinholdige legemidler. Den inneholder en beskrivelse av egenskaper og offisielt godkjente vilkår for bruk, herunder særlige advarsler og forsiktighetsregler som gjelder risikoen for myopati/rabdomyolyse som øker ved samtidig bruk av lovastatin og visse andre legemidler, og fraråder bruk av lovastatin hos gravide og ammende kvinner. Etter myndighetens vurdering er monakolin K i laktonform identisk med lovastatin.
+10\. I sin uttalelse anså myndigheten også at dokumentasjonen søkeren har framlagt, ikke fastslår at monakolin K i rød gjæret ris fra SYLVAN BIO er forskjellig fra monakolin K i andre preparater av rød gjæret ris med hensyn til virkningen på LDL-kolesterolnivået i blodet.
 
-15. Etter drøftingen av disse begrensningene for bruk uttrykte medlemsstatene bekymring for tryggheten forbundet med inntak av næringsmidler som inneholder monakoliner fra rød gjæret ris.
+11\. Myndigheten konkluderte med at det er fastslått et årsaks- og virkningsforhold mellom inntak av monakolin K i preparater av rød gjæret ris, som inkluderer rød gjæret ris fra SYLVAN BIO, og opprettholdelse av et normalt nivå av LDL-kolesterol i blodet. For at den påståtte virkningen skal oppnås bør 10 mg monakolin K fra preparater av rød gjæret ris inntas daglig.
 
-16. På grunnlag av opplysningene framlagt av medlemsstatene fant Kommisjonen at de nødvendige vilkårene og kravene fastsatt i artikkel 8 i europaparlaments- og rådsforordning [(EF) nr. 1925/2006](eu/32006r1925)7 og artikkel 3 og 4 i Kommisjonens gjennomføringsforordning [(EU) nr. 307/2012](eu/32012r0307)8 var oppfylt. Kommisjonen har derfor innledet prosedyren omhandlet i artikkel 8 i forordning [(EF) nr. 1925/2006](eu/32006r1925) for monakoliner i rød gjæret ris.
+12\. Myndigheten fant at den kunne ha trukket denne konklusjonen uten intervensjonsundersøkelsen av mennesker foretatt av Myers et al., 2006, som søkeren har hevdet eiendomsrett til.
 
-17. I den forbindelse og i samsvar med artikkel 8 nr. 2 i forordning [(EF) nr. 1925/2006](eu/32006r1925) ba Kommisjonen myndigheten om å avgi en vitenskapelig uttalelse med en vurdering av tryggheten ved monakoliner i rød gjæret ris.
+13\. Myndigheten fastslo i sin uttalelse at en påstand om monakolin K fra rød gjæret ris og opprettholdelse av normale nivåer av LDL-kolesterol i blodet allerede var blitt vurdert med et positivt resultat av EFSAs vitenskapsgruppe for produkter til bruk ved spesielle ernæringsmessige behov, ernæring og allergier i 20116. I vilkårene for bruk av påstanden som er gjenstand for denne uttalelsen, ble det også fastsatt at et daglig inntak av monakolin K fra ethvert preparat av rød gjæret ris (som ville omfatte rød gjæret ris fra SYLVAN BIO) skal være 10 mg for å oppnå den påståtte virkningen.
 
-18. Myndigheten vedtok 25. juni 2018 en vitenskapelig uttalelse9 om tryggheten ved monakoliner i rød gjæret ris. Myndigheten gjentok at monakolin K i laktonform var identisk med lovastatin, som er virkestoffet i en rekke legemidler som er godkjent til behandling av hyperkolesterolemi i Unionen. På det tidspunktet kunne monakolin K fra rød gjæret ris fås i kosttilskudd med forskjellige anbefalte daglige inntaksmengder for å opprettholde normale nivåer av LDL-kolesterol i blodet. På grunnlag av de tilgjengelige opplysningene konkluderte myndigheten med at inntak av monakoliner fra rød gjæret ris gjennom kosttilskudd kan føre til en estimert eksponering for monakolin K tilsvarende terapeutiske doser av lovastatin. Myndigheten fastslo at bivirkningsprofilen for rød gjæret ris ligner bivirkningsprofilen for lovastatin10.
+14\. Når det gjelder begrensninger av bruken av begge ovennevnte helsepåstander, viste myndigheten i sine vitenskapelige uttalelser til preparatomtalen for lovastatinholdige legemidler som er tilgjengelige på unionsmarkedet. Preparatomtalen inneholder informasjon til helsepersonell om sikker og effektiv bruk av legemidler og særlig av lovastatinholdige legemidler. Den inneholder en beskrivelse av egenskaper og offisielt godkjente vilkår for bruk, herunder særlige advarsler og forsiktighetsregler som gjelder risikoen for myopati/rabdomyolyse som øker ved samtidig bruk av lovastatin og visse andre legemidler, og fraråder bruk av lovastatin hos gravide og ammende kvinner. Etter myndighetens vurdering er monakolin K i laktonform identisk med lovastatin.
 
-19. I sin vitenskapelige uttalelse vurderte myndigheten at de tilgjengelige opplysningene om rapporterte bivirkninger hos mennesker var tilstrekkelige til å konkludere med at bruk av monakoliner fra rød gjæret ris som kosttilskudd gir stor grunn til bekymring for tryggheten ved en dose på 10 mg/dag, og at det er rapportert om individuelle tilfeller av alvorlige bivirkninger av monakoliner fra rød gjæret ris ved inntak av så lite som 3 mg/dag. På grunnlag av de tilgjengelige opplysningene og flere usikkerhetsmomenter som det ble pekt på i uttalelsen, kunne ikke myndigheten etterkomme anmodningen fra Kommisjonen om å gi råd om et daglig inntak av monakoliner fra rød gjæret ris som ikke gir grunn til bekymring for helseskadelige virkninger for den generelle befolkningen og eventuelt for sårbare befolkningsgrupper. Myndigheten forklarte at det er knyttet usikkerhet til sammensetningen og innholdet av monakoliner i kosttilskudd som inneholder rød gjæret ris, og at monakoliner i rød gjæret ris brukes i produkter som inneholder flere ingredienser, og der bestanddelene ikke er fullstendig vurdert enkeltvis eller i kombinasjon med hverandre. På grunn av mangelen på data er det heller ikke mulig å vurdere tryggheten ved bruk av monakoliner hos visse sårbare forbrukergrupper, og det hersker usikkerhet om virkningene av samtidig inntak av kosttilskudd som er basert på rød gjæret ris, og næringsmidler eller legemidler som hemmer enzymet (CYP3A4) som er involvert i metabolismen av monakoliner.
+15\. Etter drøftingen av disse begrensningene for bruk uttrykte medlemsstatene bekymring for tryggheten forbundet med inntak av næringsmidler som inneholder monakoliner fra rød gjæret ris.
 
-20. Ettersom det ikke var mulig å fastsette et daglig inntak av monakoliner fra rød gjæret ris som ikke gir grunn til bekymring for menneskers helse, og med tanke på de betydelige helseskadelige virkningene forbundet med bruk av 10 mg monakoliner fra rød gjæret ris per dag, samt individuelle tilfeller av alvorlige helseskadelige virkninger ved konsentrasjoner helt ned i 3 mg/dag, ble bruken av monakoliner fra rød gjæret ris i konsentrasjoner på 3 mg eller mer per dose av produktet som anbefales til daglig inntak, forbudt ved kommisjonsforordning [(EU) 2022/860](eu/32022r0860)11. Ved den forordningen endret Kommisjonen vedlegg III til forordning [(EF) nr. 1925/2006](eu/32006r1925) ved å føre opp monakoliner fra rød gjæret ris i del B («Stoffer som er underlagt begrensninger») i det vedlegget. Tilsetning av stoffet i næringsmidler eller bruk av det i framstillingen av næringsmidler er derfor bare tillatt på vilkårene angitt i det vedlegget.
+16\. På grunnlag av opplysningene framlagt av medlemsstatene fant Kommisjonen at de nødvendige vilkårene og kravene fastsatt i artikkel 8 i europaparlaments- og rådsforordning [(EF) nr. 1925/2006](eu/32006r1925)7 og artikkel 3 og 4 i Kommisjonens gjennomføringsforordning [(EU) nr. 307/2012](eu/32012r0307)8 var oppfylt. Kommisjonen har derfor innledet prosedyren omhandlet i artikkel 8 i forordning [(EF) nr. 1925/2006](eu/32006r1925) for monakoliner i rød gjæret ris.
 
-21. Ettersom det fortsatt er mulig at bruk av monakoliner fra rød gjæret ris kan ha helseskadelige virkninger, selv om det fremdeles hersker vitenskapelig usikkerhet om dette, og med tanke på at monakoliner fra rød gjæret ris bare kan brukes i kosttilskudd, og at det ikke var mulig for myndigheten å fastsette omfanget av bruken av disse kosttilskuddene, er bruken av monakoliner fra rød gjæret ris i kosttilskudd underlagt unionskontroll og er derfor oppført i del C i vedlegg III til forordning [(EF) nr. 1925/2006](eu/32006r1925). Berørte parter har i henhold til artikkel 8 nr. 4 i forordning [(EF) nr. 1925/2006](eu/32006r1925) mulighet til å framlegge data for myndigheten som viser at monakoliner fra rød gjæret ris er trygt, i samsvar med artikkel 5 i gjennomføringsforordning [(EU) nr. 307/2012](eu/32012r0307). I samsvar med artikkel 8 nr. 5 i forordning [(EF) nr. 1925/2006](eu/32006r1925) bør Kommisjonen innen fire år etter ikrafttredelsen av forordning [(EU) 2022/860](eu/32022r0860) treffe en beslutning om hvorvidt bruken av monakoliner fra rød gjæret ris som er oppført i vedlegg III del C generelt bør tillates, eller om stoffet skal oppføres i vedlegg III del A eller del B, alt etter hva som er relevant, idet det tas hensyn til myndighetens uttalelse om framlagte opplysninger.
+17\. I den forbindelse og i samsvar med artikkel 8 nr. 2 i forordning [(EF) nr. 1925/2006](eu/32006r1925) ba Kommisjonen myndigheten om å avgi en vitenskapelig uttalelse med en vurdering av tryggheten ved monakoliner i rød gjæret ris.
 
-22. Den foreslåtte helsepåstanden bør derfor ikke godkjennes og oppføres på EU-listen over tillatte helsepåstander.
+18\. Myndigheten vedtok 25. juni 2018 en vitenskapelig uttalelse9 om tryggheten ved monakoliner i rød gjæret ris. Myndigheten gjentok at monakolin K i laktonform var identisk med lovastatin, som er virkestoffet i en rekke legemidler som er godkjent til behandling av hyperkolesterolemi i Unionen. På det tidspunktet kunne monakolin K fra rød gjæret ris fås i kosttilskudd med forskjellige anbefalte daglige inntaksmengder for å opprettholde normale nivåer av LDL-kolesterol i blodet. På grunnlag av de tilgjengelige opplysningene konkluderte myndigheten med at inntak av monakoliner fra rød gjæret ris gjennom kosttilskudd kan føre til en estimert eksponering for monakolin K tilsvarende terapeutiske doser av lovastatin. Myndigheten fastslo at bivirkningsprofilen for rød gjæret ris ligner bivirkningsprofilen for lovastatin10.
 
-23. De kommentarene som Kommisjonen har mottatt fra søkeren i henhold til artikkel 16 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924), er tatt i betraktning ved vedtakelsen av denne forordningen.
+19\. I sin vitenskapelige uttalelse vurderte myndigheten at de tilgjengelige opplysningene om rapporterte bivirkninger hos mennesker var tilstrekkelige til å konkludere med at bruk av monakoliner fra rød gjæret ris som kosttilskudd gir stor grunn til bekymring for tryggheten ved en dose på 10 mg/dag, og at det er rapportert om individuelle tilfeller av alvorlige bivirkninger av monakoliner fra rød gjæret ris ved inntak av så lite som 3 mg/dag. På grunnlag av de tilgjengelige opplysningene og flere usikkerhetsmomenter som det ble pekt på i uttalelsen, kunne ikke myndigheten etterkomme anmodningen fra Kommisjonen om å gi råd om et daglig inntak av monakoliner fra rød gjæret ris som ikke gir grunn til bekymring for helseskadelige virkninger for den generelle befolkningen og eventuelt for sårbare befolkningsgrupper. Myndigheten forklarte at det er knyttet usikkerhet til sammensetningen og innholdet av monakoliner i kosttilskudd som inneholder rød gjæret ris, og at monakoliner i rød gjæret ris brukes i produkter som inneholder flere ingredienser, og der bestanddelene ikke er fullstendig vurdert enkeltvis eller i kombinasjon med hverandre. På grunn av mangelen på data er det heller ikke mulig å vurdere tryggheten ved bruk av monakoliner hos visse sårbare forbrukergrupper, og det hersker usikkerhet om virkningene av samtidig inntak av kosttilskudd som er basert på rød gjæret ris, og næringsmidler eller legemidler som hemmer enzymet (CYP3A4) som er involvert i metabolismen av monakoliner.
 
-24. Den 4. mars 2013 framla søkeren kommentarer for Kommisjonen og opplyste om at det i vilkårene for bruk av påstanden fastsatt i den vitenskapelige uttalelsen ikke var tatt hensyn til dokumentasjon for en potensiell virkning av monakolin K på nivået av LDL-kolesterol i blodet ved en daglig dose på under 10 mg.
+20\. Ettersom det ikke var mulig å fastsette et daglig inntak av monakoliner fra rød gjæret ris som ikke gir grunn til bekymring for menneskers helse, og med tanke på de betydelige helseskadelige virkningene forbundet med bruk av 10 mg monakoliner fra rød gjæret ris per dag, samt individuelle tilfeller av alvorlige helseskadelige virkninger ved konsentrasjoner helt ned i 3 mg/dag, ble bruken av monakoliner fra rød gjæret ris i konsentrasjoner på 3 mg eller mer per dose av produktet som anbefales til daglig inntak, forbudt ved kommisjonsforordning [(EU) 2022/860](eu/32022r0860)11. Ved den forordningen endret Kommisjonen vedlegg III til forordning [(EF) nr. 1925/2006](eu/32006r1925) ved å føre opp monakoliner fra rød gjæret ris i del B («Stoffer som er underlagt begrensninger») i det vedlegget. Tilsetning av stoffet i næringsmidler eller bruk av det i framstillingen av næringsmidler er derfor bare tillatt på vilkårene angitt i det vedlegget.
 
-25. Etter anmodning fra Kommisjonen ble myndigheten bedt om å gjennomgå de mottatte vitenskapelige kommentarene, og 13. mai 2013 offentliggjorde myndigheten den tekniske rapporten12 som svar på søkerens kommentarer.
+21\. Ettersom det fortsatt er mulig at bruk av monakoliner fra rød gjæret ris kan ha helseskadelige virkninger, selv om det fremdeles hersker vitenskapelig usikkerhet om dette, og med tanke på at monakoliner fra rød gjæret ris bare kan brukes i kosttilskudd, og at det ikke var mulig for myndigheten å fastsette omfanget av bruken av disse kosttilskuddene, er bruken av monakoliner fra rød gjæret ris i kosttilskudd underlagt unionskontroll og er derfor oppført i del C i vedlegg III til forordning [(EF) nr. 1925/2006](eu/32006r1925). Berørte parter har i henhold til artikkel 8 nr. 4 i forordning [(EF) nr. 1925/2006](eu/32006r1925) mulighet til å framlegge data for myndigheten som viser at monakoliner fra rød gjæret ris er trygt, i samsvar med artikkel 5 i gjennomføringsforordning [(EU) nr. 307/2012](eu/32012r0307). I samsvar med artikkel 8 nr. 5 i forordning [(EF) nr. 1925/2006](eu/32006r1925) bør Kommisjonen innen fire år etter ikrafttredelsen av forordning [(EU) 2022/860](eu/32022r0860) treffe en beslutning om hvorvidt bruken av monakoliner fra rød gjæret ris som er oppført i vedlegg III del C generelt bør tillates, eller om stoffet skal oppføres i vedlegg III del A eller del B, alt etter hva som er relevant, idet det tas hensyn til myndighetens uttalelse om framlagte opplysninger.
 
-26. I sin rapport fastslo myndigheten at studiene til Myers et al., 2006 og Becker et al., 2009 viste at monakolin K i rød gjæret ris fra SYLVAN BIO har en virkning på nivået av LDL-kolesterol i blodet ved doser på henholdsvis ca. 9 og 10 mg per dag. Som det framgår av uttalelsen, ligger dette i området for dosene som ble brukt i de to intervensjonsundersøkelsene av mennesker (Heber et al., 1999; Lin et al., 2005) som ble evaluert av myndigheten for å fastsette vilkårene for bruk av 10 mg monakolin K per dag for en påstand om monakolin K fra preparater av rød gjæret ris generelt og opprettholdelse av normale nivåer av LDL-kolesterol i blodet (EFSAs vitenskapsgruppe for produkter til bruk ved spesielle ernæringsmessige behov, ernæring og allergier, 2011). Myndigheten fastslo også at den ved fastsettelse av vilkår for bruk tar hensyn til og avveier all tilgjengelig vitenskapelig dokumentasjon. I dette konkrete tilfellet tok myndigheten hensyn til dokumentasjonen fra to intervensjonsundersøkelser av mennesker (Heber et al., 1999; Lin et al., 2005) ved doser på ca. 7,5 og 11,5 mg/dag monakolin K, samt den laveste dosen av lovastatin (rent monakolin K) som konsekvent har vist seg å redusere nivået av LDL-kolesterol hos målpopulasjonen (dvs. 10 mg/dag). Myndigheten konkluderte med at de mottatte merknadene ikke endret konklusjonene, og stadfestet sin uttalelse.
+22\. Den foreslåtte helsepåstanden bør derfor ikke godkjennes og oppføres på EU-listen over tillatte helsepåstander.
 
-27. Tiltakene fastsatt i denne forordningen er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr.
+23\. De kommentarene som Kommisjonen har mottatt fra søkeren i henhold til artikkel 16 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924), er tatt i betraktning ved vedtakelsen av denne forordningen.
+
+24\. Den 4. mars 2013 framla søkeren kommentarer for Kommisjonen og opplyste om at det i vilkårene for bruk av påstanden fastsatt i den vitenskapelige uttalelsen ikke var tatt hensyn til dokumentasjon for en potensiell virkning av monakolin K på nivået av LDL-kolesterol i blodet ved en daglig dose på under 10 mg.
+
+25\. Etter anmodning fra Kommisjonen ble myndigheten bedt om å gjennomgå de mottatte vitenskapelige kommentarene, og 13. mai 2013 offentliggjorde myndigheten den tekniske rapporten12 som svar på søkerens kommentarer.
+
+26\. I sin rapport fastslo myndigheten at studiene til Myers et al., 2006 og Becker et al., 2009 viste at monakolin K i rød gjæret ris fra SYLVAN BIO har en virkning på nivået av LDL-kolesterol i blodet ved doser på henholdsvis ca. 9 og 10 mg per dag. Som det framgår av uttalelsen, ligger dette i området for dosene som ble brukt i de to intervensjonsundersøkelsene av mennesker (Heber et al., 1999; Lin et al., 2005) som ble evaluert av myndigheten for å fastsette vilkårene for bruk av 10 mg monakolin K per dag for en påstand om monakolin K fra preparater av rød gjæret ris generelt og opprettholdelse av normale nivåer av LDL-kolesterol i blodet (EFSAs vitenskapsgruppe for produkter til bruk ved spesielle ernæringsmessige behov, ernæring og allergier, 2011). Myndigheten fastslo også at den ved fastsettelse av vilkår for bruk tar hensyn til og avveier all tilgjengelig vitenskapelig dokumentasjon. I dette konkrete tilfellet tok myndigheten hensyn til dokumentasjonen fra to intervensjonsundersøkelser av mennesker (Heber et al., 1999; Lin et al., 2005) ved doser på ca. 7,5 og 11,5 mg/dag monakolin K, samt den laveste dosen av lovastatin (rent monakolin K) som konsekvent har vist seg å redusere nivået av LDL-kolesterol hos målpopulasjonen (dvs. 10 mg/dag). Myndigheten konkluderte med at de mottatte merknadene ikke endret konklusjonene, og stadfestet sin uttalelse.
+
+27\. Tiltakene fastsatt i denne forordningen er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr.
+
+1 EUT L 404 av 30.12.2006, s. 9.
+
+2 EFSA Journal 2013;11(2):3084.
+
+3 Myers SP, Cheras PA, Brooks L og O’Connor J, 2006, upublisert. Study on the Safety and Efficacy of Sylvan Red Yeast Rice in Adults with Primary Hypercholesteremia.
+
+4 Becker DJ, Gordon RY, Halbert SC, French B, Morris PB and Rader DJ, 2009. Red yeast rice for dyslipidemia in statin-intolerant patients: a randomized trial. Annals of Internal Medicine, 150, 830-839, W147-839.
+
+5 Halbert SC, French B, Gordon RY, Farrar JT, Schmitz K, Morris PB, Thompson PD, Rader DJ and Becker DJ, 2010. Tolerability of red yeast rice (2,400 mg twice daily) versus pravastatin (20 mg twice daily) in patients with previous statin intolerance. American Journal of Cardiology, 105, 198-204.
+
+6 EFSA Journal 2011;9(7):2304.
+
+7 Europaparlaments- og rådsforordning [(EF) nr. 1925/2006](eu/32006r1925) av 20. desember 2006 om tilsetting av vitaminer, mineraler og visse andre stoffer i næringsmidler (EUT L 404 av 30.12.2006, s. 26).
+
+8 Kommisjonens gjennomføringsforordning [(EU) nr. 307/2012](eu/32012r0307) av 11. april 2012 om fastsettelse av gjennomføringsregler for anvendelse av artikkel 8 i europaparlaments- og rådsforordning [(EF) nr. 1925/2006](eu/32006r1925) om tilsetting av vitaminer, mineraler og visse andre stoffer i næringsmidler (EUT L 102 av 12.4.2012, s. 2).
+
+9 EFSA Journal 2019;16(8):5368.
+
+10 EFSA Journal 2018;16(8):5368, side 38
+
+11 Kommisjonsforordning [(EU) 2022/860](eu/32022r0860) av 1. juni 2022 om endring av vedlegg III til europaparlaments- og rådsforordning [(EF) nr. 1925/2006](eu/32006r1925) med hensyn til monakoliner fra rød gjæret ris (EUT L 151 av 2.6.2022, s. 37).
+
+12 Teknisk rapport fra EFSA – «Response to comments on the Scientific Opinion of the EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA) on the scientific substantiation of health claims related to monacolin K in SYLVAN BIO red yeast rice and maintenance of normal blood LDL-cholesterol concentrations pursuant to Article 13(5) of Regulation [(EC) No 1924/2006](eu/32006r1924).»
+
+VEDTATT DENNE FORORDNINGEN:
 
 ### Artikkel 1
 
@@ -3247,16 +6003,16 @@ Den foreslåtte helsepåstanden angitt i vedlegget til denne forordningen skal i
 
 Denne forordningen trer i kraft den 20. dagen etter at den er kunngjort i Den europeiske unions tidende.
 
-Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
-
-Utferdiget i Brussel 30. juli 2024.
-
-For Kommisjonen
+Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.Utferdiget i Brussel 30. juli 2024.For Kommisjonen
 Ursula von der Leyen
 President
 
 ### VEDLEGG
 Avvist helsepåstand
+
+| *Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori* | *Påstand* | *EFSA-uttalelse* |
+| --- | --- | --- | --- |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på ny vitenskapelig dokumentasjon og/eller inneholder en anmodning om vern av data underlagt eiendomsrett | Monakolin K i rød gjæret ris fra SYLVAN BIO | Monakolin K fra rød gjæret ris bidrar til å opprettholde normale nivåer av LDL-kolesterol i blodet | Q-2012-00736 |
 
 ### Forordning [(EU) 2024/2105](eu/32024r2105)
 
@@ -3268,27 +6024,43 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2024/210
 av 31. juli 2024
 om avslag på godkjenning av en annen helsepåstand om næringsmidler enn de som viser til redusert sykdomsrisiko og barns utvikling og helse
 
-1. I henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924) er helsepåstander om næringsmidler forbudt med mindre de er godkjent av Krommisjonen i samsvar med nevnte forordning og er oppført på EU-listen over tillatte helsepåstander.
+EUROPAKOMMISJONEN HAR
 
-2. I henhold til artikkel 18 i forordning [(EF) nr. 1924/2006](eu/32006r1924) er det også fastsatt at driftsansvarlige for næringsmiddelforetak skal inngi søknader om godkjenning av helsepåstander til vedkommende nasjonale myndighet i en medlemsstat. Vedkommende nasjonale myndighet skal videresende gyldige søknader til Den europeiske myndighet for næringsmiddeltrygghet, («myndigheten»), for vitenskapelig vurdering samt til Kommisjonen og de øvrige medlemsstatene til orientering.
+under henvisning til [traktaten om Den europeiske unions virkemåte](eu/12016e),
 
-3. Etter at søknaden er mottatt, skal myndigheten avgi uttalelse om den aktuelle helsepåstanden innen fem måneder.
+under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler1, særlig artikkel 18 nr. 5, og
 
-4. Kommisjonen skal ta hensyn til uttalelsen fra myndigheten når den treffer beslutning om godkjenning av helsepåstanden. I samsvar med artikkel 17 i forordning [(EF) nr. 1924/2006](eu/32006r1924) må Kommisjonen imidlertid også ta hensyn til andre berettigede faktorer som er relevante for saken.
+ut fra følgende betraktninger:
 
-5. Etter en søknad fra BENEO GmbH, inngitt i henhold til artikkel 18 nr. 1 i forordning [(EF) nr. 1924/2006](eu/32006r1924) for en helsepåstand i henhold til artikkel 13 nr. 5, ble myndigheten bedt om å avgi uttalelse om en helsepåstand om isomaltulose og dets bidrag til normal energiomsetning (spørsmål nr. EFSA-Q-2021-00073). Søkerens foreslåtte påstand hadde følgende ordlyd: «Inntak av næringsmidler/drikker som inneholder isomaltulose (PalatinoseTM) som erstatning for andre sukkerarter, bidrar til normal energiomsetning, men gjennom en langsommere hydrolyse.» På anmodning fra myndigheten, i henhold til hvilken glykemiske karbohydraters (inkludert isomaltulose) bidrag til energiomsetningen ikke avhenger av hydrolysehastigheten til glukose, var omfanget av den vitenskapelige vurderingen, med søkerens samtykke, begrenset til isomaltuloses bidrag som glukosekilde til normal energiomsetning. Målgruppen er den generelle befolkningen.
+1\. I henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924) er helsepåstander om næringsmidler forbudt med mindre de er godkjent av Krommisjonen i samsvar med nevnte forordning og er oppført på EU-listen over tillatte helsepåstander.
 
-6. Myndigheten vedtok 15. september 2021 en vitenskapelig uttalelse2 om påstanden, som konkluderte med at det på grunnlag av de framlagte opplysningene kunne fastslås et årsaks- og virkningsforhold mellom inntak av isomaltose og bidraget til normal energiomsetning. Siden bidraget til energiomsetningen ikke er spesifikt for isomaltulose, men gjelder for alle energiholdige makronæringsstoffer (dvs. karbohydrater, proteiner og lipider) som forsyner kroppen med omsettelig energi, og en hvilken som helst mengde av disse makronæringsstoffene ville bidra til den påståtte virkningen, kunne imidlertid myndigheten ikke fastsette bruksvilkår for denne påstanden.
+2\. I henhold til artikkel 18 i forordning [(EF) nr. 1924/2006](eu/32006r1924) er det også fastsatt at driftsansvarlige for næringsmiddelforetak skal inngi søknader om godkjenning av helsepåstander til vedkommende nasjonale myndighet i en medlemsstat. Vedkommende nasjonale myndighet skal videresende gyldige søknader til Den europeiske myndighet for næringsmiddeltrygghet, («myndigheten»), for vitenskapelig vurdering samt til Kommisjonen og de øvrige medlemsstatene til orientering.
 
-7. I henhold til artikkel 6 nr. 1 og artikkel 13 nr. 1 i forordning [(EF) nr. 1924/2006](eu/32006r1924) skal helsepåstander bygge på allment anerkjente vitenskapelig dokumentasjon. I henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924) må helsepåstander også være sannferdige, tydelige, pålitelige og nyttige for forbrukeren ved valg av et sunt kosthold. I denne forbindelse skal bruk av en helsepåstand i henhold til artikkel 5 nr. 2 være tillatt bare dersom gjennomsnittsforbrukeren kan forventes å forstå de gunstige virkningene slik de uttrykkes i påstanden. Det er i samsvar med bestemmelsene ikke å godkjenne helsepåstander dersom de ikke er i samsvar med andre allmenne eller særlige krav i forordning [(EF) nr. 1924/2006](eu/32006r1924), selv i tilfeller der påstandene har fått en positiv vitenskapelig vurdering av myndigheten. Helsepåstander som ikke er forenlige med allment anerkjente ernærings- og helseprinsipper, skal ikke framsettes. I dette spesielle tilfellet vil bruk av en slik helsepåstand sende et motstridende og forvirrende budskap til forbrukerne. Isomaltulose er et disakkarid som består av et glukose- og et fruktosemolekyl, og en slik helsepåstand ville derfor oppmuntre til bruk av sukkerarter som nasjonale og internasjonale myndigheter på grunnlag av allment anerkjente vitenskapelig dokumentasjon råder forbrukerne til å redusere inntaket av.
+3\. Etter at søknaden er mottatt, skal myndigheten avgi uttalelse om den aktuelle helsepåstanden innen fem måneder.
 
-8. En påstand som beskrevet ovenfor er derfor ikke i samsvar med artikkel 3 annet ledd bokstav a) i forordning [(EF) nr. 1924/2006](eu/32006r1924), som fastsetter at bruken av ernærings- og helsepåstander ikke skal være tvetydig eller villedende. Selv om den berørte helsepåstanden ble godkjent bare på visse vilkår og/eller ledsaget av tilleggserklæringer eller -advarsler, ville det ikke være tilstrekkelig til å hindre forvirring blant forbrukerne, og følgelig bør påstanden ikke godkjennes for oppføring på EU-listen over tillatte helsepåstander. Den konklusjonen er også i samsvar med kommisjonsforordning [(EU) 2015/8](eu/32015r0008)3, som inneholder de samme funn om glukose og bidraget til energiomsetningen.
+4\. Kommisjonen skal ta hensyn til uttalelsen fra myndigheten når den treffer beslutning om godkjenning av helsepåstanden. I samsvar med artikkel 17 i forordning [(EF) nr. 1924/2006](eu/32006r1924) må Kommisjonen imidlertid også ta hensyn til andre berettigede faktorer som er relevante for saken.
 
-9. De kommentarene som Kommisjonen har mottatt fra søkeren i henhold til artikkel 16 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924), er tatt i betraktning ved vedtakelsen av denne forordningen.
+5\. Etter en søknad fra BENEO GmbH, inngitt i henhold til artikkel 18 nr. 1 i forordning [(EF) nr. 1924/2006](eu/32006r1924) for en helsepåstand i henhold til artikkel 13 nr. 5, ble myndigheten bedt om å avgi uttalelse om en helsepåstand om isomaltulose og dets bidrag til normal energiomsetning (spørsmål nr. EFSA-Q-2021-00073). Søkerens foreslåtte påstand hadde følgende ordlyd: «Inntak av næringsmidler/drikker som inneholder isomaltulose (PalatinoseTM) som erstatning for andre sukkerarter, bidrar til normal energiomsetning, men gjennom en langsommere hydrolyse.» På anmodning fra myndigheten, i henhold til hvilken glykemiske karbohydraters (inkludert isomaltulose) bidrag til energiomsetningen ikke avhenger av hydrolysehastigheten til glukose, var omfanget av den vitenskapelige vurderingen, med søkerens samtykke, begrenset til isomaltuloses bidrag som glukosekilde til normal energiomsetning. Målgruppen er den generelle befolkningen.
 
-10. Medlemsstatene er blitt konsultert i forbindelse med møtet i arbeidsgruppen for ernærings- og helsepåstander 11. juli 2022.
+6\. Myndigheten vedtok 15. september 2021 en vitenskapelig uttalelse2 om påstanden, som konkluderte med at det på grunnlag av de framlagte opplysningene kunne fastslås et årsaks- og virkningsforhold mellom inntak av isomaltose og bidraget til normal energiomsetning. Siden bidraget til energiomsetningen ikke er spesifikt for isomaltulose, men gjelder for alle energiholdige makronæringsstoffer (dvs. karbohydrater, proteiner og lipider) som forsyner kroppen med omsettelig energi, og en hvilken som helst mengde av disse makronæringsstoffene ville bidra til den påståtte virkningen, kunne imidlertid myndigheten ikke fastsette bruksvilkår for denne påstanden.
 
-11. Tiltakene fastsatt i denne forordningen er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr.
+7\. I henhold til artikkel 6 nr. 1 og artikkel 13 nr. 1 i forordning [(EF) nr. 1924/2006](eu/32006r1924) skal helsepåstander bygge på allment anerkjente vitenskapelig dokumentasjon. I henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924) må helsepåstander også være sannferdige, tydelige, pålitelige og nyttige for forbrukeren ved valg av et sunt kosthold. I denne forbindelse skal bruk av en helsepåstand i henhold til artikkel 5 nr. 2 være tillatt bare dersom gjennomsnittsforbrukeren kan forventes å forstå de gunstige virkningene slik de uttrykkes i påstanden. Det er i samsvar med bestemmelsene ikke å godkjenne helsepåstander dersom de ikke er i samsvar med andre allmenne eller særlige krav i forordning [(EF) nr. 1924/2006](eu/32006r1924), selv i tilfeller der påstandene har fått en positiv vitenskapelig vurdering av myndigheten. Helsepåstander som ikke er forenlige med allment anerkjente ernærings- og helseprinsipper, skal ikke framsettes. I dette spesielle tilfellet vil bruk av en slik helsepåstand sende et motstridende og forvirrende budskap til forbrukerne. Isomaltulose er et disakkarid som består av et glukose- og et fruktosemolekyl, og en slik helsepåstand ville derfor oppmuntre til bruk av sukkerarter som nasjonale og internasjonale myndigheter på grunnlag av allment anerkjente vitenskapelig dokumentasjon råder forbrukerne til å redusere inntaket av.
+
+8\. En påstand som beskrevet ovenfor er derfor ikke i samsvar med artikkel 3 annet ledd bokstav a) i forordning [(EF) nr. 1924/2006](eu/32006r1924), som fastsetter at bruken av ernærings- og helsepåstander ikke skal være tvetydig eller villedende. Selv om den berørte helsepåstanden ble godkjent bare på visse vilkår og/eller ledsaget av tilleggserklæringer eller -advarsler, ville det ikke være tilstrekkelig til å hindre forvirring blant forbrukerne, og følgelig bør påstanden ikke godkjennes for oppføring på EU-listen over tillatte helsepåstander. Den konklusjonen er også i samsvar med kommisjonsforordning [(EU) 2015/8](eu/32015r0008)3, som inneholder de samme funn om glukose og bidraget til energiomsetningen.
+
+9\. De kommentarene som Kommisjonen har mottatt fra søkeren i henhold til artikkel 16 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924), er tatt i betraktning ved vedtakelsen av denne forordningen.
+
+10\. Medlemsstatene er blitt konsultert i forbindelse med møtet i arbeidsgruppen for ernærings- og helsepåstander 11. juli 2022.
+
+11\. Tiltakene fastsatt i denne forordningen er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr.
+
+1 EUT L 404 av 30.12.2006, s. 9.
+
+2 EFSA Journal 2021;19(10):6849.
+
+3 Kommisjonsforordning [(EU) 2015/8](eu/32015r0008) av 6. januar 2015 om avslag på godkjenning av visse andre helsepåstander om næringsmidler enn dem som viser til redusert sykdomsrisiko og barns utvikling og helse (EUT L 3 av 7.1.2015, s. 6).
+
+VEDTATT DENNE FORORDNINGEN:
 
 ### Artikkel 1
 
@@ -3298,16 +6070,16 @@ Helsepåstanden angitt i vedlegget til denne forordningen skal ikke oppføres p�
 
 Denne forordningen trer i kraft den 20. dagen etter at den er kunngjort i Den europeiske unions tidende.
 
-Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
-
-Utferdiget i Brussel 31. juli 2024.
-
-For Kommisjonen
+Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.Utferdiget i Brussel 31. juli 2024.For Kommisjonen
 Ursula von der Leyen
 President
 
 ### VEDLEGG
 Avvist helsepåstand
+
+| *Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori* | *Påstand* | *EFSA-uttalelse* |
+| --- | --- | --- | --- |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på ny vitenskapelig dokumentasjon og/eller inneholder en anmodning om vern av data underlagt eiendomsrett | Isomaltulose | Isomaltulose bidrar til normal energiomsetning | Q-2021-00073 |
 
 ### Forordning (EU) 2025/350
 
@@ -3319,25 +6091,39 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2025/350
 av 21. februar 2025
 om avslag på godkjenning av en annen helsepåstand om næringsmidler enn de som viser til redusert sykdomsrisiko og barns utvikling og helse
 
-1. I henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924) er helsepåstander om næringsmidler forbudt med mindre de er godkjent av Kommisjonen i samsvar med nevnte forordning og er oppført på EU-listen over tillatte helsepåstander.
+EUROPAKOMMISJONEN HAR
 
-2. I henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924) bør vitenskapelig dokumentasjon være det viktigste aspektet som bør tas i betraktning ved bruken av ernærings- og helsepåstander, og driftsansvarlige for næringsmiddelforetak som benytter påstandene, bør dokumentere dem. En påstand bør dokumenteres vitenskapelig ved at det tas hensyn til alle tilgjengelige vitenskapelige data, og ved en avveining av den samlede dokumentasjonen.
+under henvisning til [traktaten om Den europeiske unions virkemåte](eu/12016e),
 
-3. I henhold til artikkel 18 i forordning [(EF) nr. 1924/2006](eu/32006r1924) kan driftsansvarlige for næringsmiddelforetak inngi søknader om oppføring av helsepåstander på EU-listen over tillatte helsepåstander til vedkommende nasjonale myndighet i en medlemsstat. Vedkommende nasjonale myndighet skal videresende gyldige søknader til Den europeiske myndighet for næringsmiddeltrygghet («myndigheten») med henblikk på en vitenskapelig vurdering samt til Kommisjonen og medlemsstatene til orientering.
+under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler1, særlig artikkel 18 nr. 5, og
 
-4. Etter å ha mottatt søknaden skal myndigheten avgi uttalelse om den aktuelle helsepåstanden. Kommisjonen skal ta hensyn til uttalelsen fra myndigheten når den treffer beslutning om godkjenning av helsepåstanden.
+ut fra følgende betraktninger:
 
-5. Etter en søknad fra Greenleaf Medical AB («søkeren») inngitt i henhold til artikkel 18 nr. 1 i forordning [(EF) nr. 1924/2006](eu/32006r1924) ble myndigheten bedt om å avgi uttalelse om det vitenskapelige grunnlaget for en helsepåstand om Appethyl® og vektreduksjon (spørsmål nr. EFSA-Q-2022-00096). Søkerens foreslåtte påstand hadde følgende ordlyd: «Appethyl® bidrar til vektreduksjon ved moderat begrensning av kaloriinntaket.»
+1\. I henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924) er helsepåstander om næringsmidler forbudt med mindre de er godkjent av Kommisjonen i samsvar med nevnte forordning og er oppført på EU-listen over tillatte helsepåstander.
 
-6. Den 31. august 2023 vedtok myndigheten den vitenskapelige uttalelsen2 om denne helsepåstanden og videresendte den til Kommisjonen og medlemsstatene henholdsvis 11. oktober og 9. november 2023.
+2\. I henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924) bør vitenskapelig dokumentasjon være det viktigste aspektet som bør tas i betraktning ved bruken av ernærings- og helsepåstander, og driftsansvarlige for næringsmiddelforetak som benytter påstandene, bør dokumentere dem. En påstand bør dokumenteres vitenskapelig ved at det tas hensyn til alle tilgjengelige vitenskapelige data, og ved en avveining av den samlede dokumentasjonen.
 
-7. På grunnlag av de framlagte dataene konkluderte myndigheten i sin uttalelse med at næringsmiddelet/bestanddelen Appethyl®, et vandig ekstrakt fra spinatblader som standardiseres ved framstillingsprosessen og dets evne til å hemme lipase/kolipase *in vitro*, som helsepåstanden gjelder, er tilstrekkelig karakterisert. Det er imidlertid ikke fastslått en årsaks- og virkningssammenheng mellom inntak av Appethyl® og vektreduksjon ved bruksvilkårene foreslått av søkeren. Ettersom helsepåstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924), bør den den derfor ikke godkjennes for oppføring på EU-listen over tillatte helsepåstander.
+3\. I henhold til artikkel 18 i forordning [(EF) nr. 1924/2006](eu/32006r1924) kan driftsansvarlige for næringsmiddelforetak inngi søknader om oppføring av helsepåstander på EU-listen over tillatte helsepåstander til vedkommende nasjonale myndighet i en medlemsstat. Vedkommende nasjonale myndighet skal videresende gyldige søknader til Den europeiske myndighet for næringsmiddeltrygghet («myndigheten») med henblikk på en vitenskapelig vurdering samt til Kommisjonen og medlemsstatene til orientering.
 
-8. Etter offentliggjøring av nevnte uttalelse har Kommisjonen ikke mottatt kommentarer i henhold til artikkel 16 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924).
+4\. Etter å ha mottatt søknaden skal myndigheten avgi uttalelse om den aktuelle helsepåstanden. Kommisjonen skal ta hensyn til uttalelsen fra myndigheten når den treffer beslutning om godkjenning av helsepåstanden.
 
-9. Medlemsstatene er blitt rådspurt i forbindelse med møtet i arbeidsgruppen for ernærings- og helsepåstander 17. november 2023.
+5\. Etter en søknad fra Greenleaf Medical AB («søkeren») inngitt i henhold til artikkel 18 nr. 1 i forordning [(EF) nr. 1924/2006](eu/32006r1924) ble myndigheten bedt om å avgi uttalelse om det vitenskapelige grunnlaget for en helsepåstand om Appethyl® og vektreduksjon (spørsmål nr. EFSA-Q-2022-00096). Søkerens foreslåtte påstand hadde følgende ordlyd: «Appethyl® bidrar til vektreduksjon ved moderat begrensning av kaloriinntaket.»
 
-10. Tiltakene fastsatt i denne forordningen er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr.
+6\. Den 31. august 2023 vedtok myndigheten den vitenskapelige uttalelsen2 om denne helsepåstanden og videresendte den til Kommisjonen og medlemsstatene henholdsvis 11. oktober og 9. november 2023.
+
+7\. På grunnlag av de framlagte dataene konkluderte myndigheten i sin uttalelse med at næringsmiddelet/bestanddelen Appethyl®, et vandig ekstrakt fra spinatblader som standardiseres ved framstillingsprosessen og dets evne til å hemme lipase/kolipase *in vitro*, som helsepåstanden gjelder, er tilstrekkelig karakterisert. Det er imidlertid ikke fastslått en årsaks- og virkningssammenheng mellom inntak av Appethyl® og vektreduksjon ved bruksvilkårene foreslått av søkeren. Ettersom helsepåstanden ikke oppfyller kravene i forordning [(EF) nr. 1924/2006](eu/32006r1924), bør den den derfor ikke godkjennes for oppføring på EU-listen over tillatte helsepåstander.
+
+8\. Etter offentliggjøring av nevnte uttalelse har Kommisjonen ikke mottatt kommentarer i henhold til artikkel 16 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924).
+
+9\. Medlemsstatene er blitt rådspurt i forbindelse med møtet i arbeidsgruppen for ernærings- og helsepåstander 17. november 2023.
+
+10\. Tiltakene fastsatt i denne forordningen er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr.
+
+1 EUT L 404 av 30.12.2006, s. 9, ELI: [http://data.europa.eu/eli/reg/2006/1924/oj](http://data.europa.eu/eli/reg/2006/1924/oj).
+
+2 EFSA Journal 2023;21(10):8239.
+
+VEDTATT DENNE FORORDNINGEN:
 
 ### Artikkel 1
 
@@ -3347,16 +6133,16 @@ Den foreslåtte helsepåstanden angitt i vedlegget til denne forordningen skal i
 
 Denne forordningen trer i kraft den 20. dagen etter at den er kunngjort i Den europeiske unions tidende.
 
-Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
-
-Utferdiget i Brussel 21. februar 2025.
-
-*For Kommisjonen*
+Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.Utferdiget i Brussel 21. februar 2025.*For Kommisjonen*
 Ursula von der Leyen
 *President*
 
 ### VEDLEGG
 Avslått helsepåstand
+
+| *Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori* | *Påstand* | *EFSA-uttalelse* |
+| --- | --- | --- | --- |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på ny vitenskapelig dokumentasjon og/eller inneholder en anmodning om beskyttelse av data underlagt eiendomsrett | Appethyl®, et vandig ekstrakt fra spinatblader som standardiseres ved framstillingsprosessen og dets evne til å hemme lipase/kolipase in vitro | Appethyl® bidrar til vektreduksjon ved moderat begrensning av kaloriinntaket | EFSA Journal 2023;21(10):8239 – Q-2022-00096 |
 
 ### Forordning [(EU) 2025/1560](eu/32025r1560)
 
@@ -3367,6 +6153,14 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2025/156
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING [(EU) 2025/1560](eu/32025r1560)
 av 30. juli 2025
 om godkjenning av en annen helsepåstand om næringsmidler enn dem som viser til redusert sykdomsrisiko eller barns utvikling og helse, og om endring av forordning [(EU) nr. 432/2012](eu/32012r0432)
+
+EUROPAKOMMISJONEN HAR
+
+under henvisning til [traktaten om Den europeiske unions virkemåte](eu/12016e),
+
+under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler1, særlig artikkel 18 nr. 4, og
+
+ut fra følgende betraktninger:
 
 1. I henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924) er helsepåstander om næringsmidler forbudt med mindre de er godkjent av Kommisjonen i samsvar med nevnte forordning og oppført på listen over tillatte helsepåstander.
 2. I medhold av artikkel 13 nr. 3 i forordning [(EF) nr. 1924/2006](eu/32006r1924) ble det ved kommisjonsforordning [(EU) nr. 432/2012](eu/32012r0432)2 fastsatt en liste over andre tillatte helsepåstander om næringsmidler enn dem som viser til redusert sykdomsrisiko eller barns utvikling og helse.
@@ -3383,6 +6177,14 @@ om godkjenning av en annen helsepåstand om næringsmidler enn dem som viser til
 13. Forordning [(EU) nr. 432/2012](eu/32012r0432) bør derfor endres.
 14. Medlemsstatene er blitt rådspurt.
 
+1 EUT L 404 av 30.12.2006, s. 9, ELI: http://data.europa.eu/eli/reg/2006/1924/oj.
+
+2 Kommisjonsforordning [(EU) nr. 432/2012](eu/32012r0432) av 16. mai 2012 om fastsettelse av en liste over andre tillatte helsepåstander om næringsmidler enn dem som viser til redusert sykdomsrisiko eller barns utvikling og helse (EUT L 136 av 25.5.2012, s. 1, ELI: http://data.europa.eu/eli/reg/2012/432/oj).
+
+3 EFSA Journal 2021;19(6):6641.
+
+VEDTATT DENNE FORORDNINGEN:
+
 ### Artikkel 1
 
 Helsepåstanden angitt i vedlegget til denne forordningen skal oppføres på unionslisten over tillatte helsepåstander omhandlet i artikkel 13 nr. 3 i forordning [(EF) nr. 1924/2006](eu/32006r1924).
@@ -3395,11 +6197,17 @@ Vedlegget til forordning [(EU) nr. 432/2012](eu/32012r0432) endres i samsvar med
 
 Denne forordningen trer i kraft den 20. dagen etter at den er kunngjort i *Den europeiske unions tidende*.
 
-Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
-
-Utferdiget i Brussel 30. juli 2025.
+Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.Utferdiget i Brussel 30. juli 2025.*For Kommisjonen*
+Ursula von der Leyen
+*President*
 
 ### VEDLEGG
+
+I vedlegget til forordning [(EU) nr. 432/2012](eu/32012r0432) innsettes følgende post på riktig sted alfabetisk:
+
+| *Nærings­stoff, stoff, nærings­middel eller nærings­middel­kategori* | *Påstand* | *Vilkår for bruk av<br>påstanden* | *Vilkår og/eller begrens­ninger for bruk av nærings­middelet og/eller en tilleggs­erklæring eller<br>-advarsel* | *EFSA Journal-<br>nummer* | *Registrerings­nummer på den konsoliderte listen innsendt til EFSA for vurdering* |
+| --- | --- | --- | --- | --- | --- |
+| Grønn kiwifrukt (*Actinidia deliciosa* «Hayward») | Inntak av grønn kiwifrukt bidrar til normal tarmfunksjon gjennom hyppigere avføring | Påstanden kan brukes bare om<br>i) friske grønne kiwifrukter som selges som slike, eller<br>ii) friske grønne kiwifrukter som bare er skrelt og/eller snittet,<br>og som gir minst 200 g kiwifruktkjøtt.<br>Forbrukerne skal opplyses om at den gunstige virkningen oppnås ved et daglig inntak av 200 g fruktkjøtt av frisk grønn kiwi. |  | 2021;19(6):6641 |  |
 
 ### Forordning [(EU) 2025/2222](eu/32025r2222)
 
@@ -3410,6 +6218,14 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2025/222
 ### KOMMISJONSFORORDNING [(EU) 2025/2222](eu/32025r2222)
 av 4. november 2025
 om avslag på godkjenning av en helsepåstand om næringsmidler som viser til redusert sykdomsrisiko
+
+EUROPAKOMMISJONEN HAR
+
+under henvisning til [traktaten om Den europeiske unions virkemåte](eu/12016e),
+
+under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler1, særlig artikkel 17 nr. 3, og
+
+ut fra følgende betraktninger:
 
 1. I henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924) er helsepåstander om næringsmidler forbudt med mindre de er godkjent av Kommisjonen i samsvar med nevnte forordning og er oppført på unionslisten over tillatte helsepåstander.
 2. Ved forordning [(EF) nr. 1924/2006](eu/32006r1924) er det også fastsatt at driftsansvarlige for næringsmiddelforetak kan inngi søknader om godkjenning av helsepåstander til vedkommende nasjonale myndighet i en medlemsstat. Vedkommende nasjonale myndighet skal videresende gyldige søknader til Den europeiske myndighet for næringsmiddeltrygghet («myndigheten») med henblikk på en vitenskapelig vurdering.
@@ -3423,6 +6239,16 @@ om avslag på godkjenning av en helsepåstand om næringsmidler som viser til re
 10. Myndigheten sendte sin vitenskapelige uttalelse til Kommisjonen, søkeren og medlemsstatene. Etter offentliggjøring av nevnte uttalelse har Kommisjonen ikke mottatt kommentarer fra søkeren eller andre personer i henhold til artikkel 16 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924).
 11. Tiltakene fastsatt i denne forordningen er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr.
 
+1 EUT L 404 av 30.12.2006, s. 9, ELI: http://data.europa.eu/eli/reg/2006/1924/oj.
+
+2 EFSA NDA Panel (EFSA Panel on Nutrition, Novel Foods and Food allergens), Turck, D., Bresson, J. L., Burlingame, B., Dean, T., Fairweather-Tait, S., Heinonen, M., Hirsch-Ernst, K. I., Mangelsdorf, I., McArdle, H. J., Naska, A., Neuhäuser-Berthold, M., Nowicka, G., Pentieva, K., Sanz, Y., Sjödin, A., Stern, M., Tomé, D., Van Loveren, H., Siani, A. (2018). «Guidance for the scientific requirements for health claims related to antioxidants, oxidative damage and cardiovascular health: (revision 1)». EFSA Journal, 16(1), e05136. https://doi.org/10. 2903/j.efsa.2018. 5136.
+
+3 Mayoral, P., Martinez-Salgado, C. S., Santiago, J. M., Rodriguez-Hernandez, M. V., García-Gomez, M. L., Morales, A., López-Novoa, J. M., & Macías-Nuñez, J. F. (2003). «Effect of ham protein substitution on oxidative stress in older adults». The Journal of Nutrition, Health & Aging, 7, 84–89.
+
+4 EFSA Journal. 2024;22(7):e8862.
+
+VEDTATT DENNE FORORDNINGEN:
+
 ### Artikkel 1
 
 Helsepåstanden angitt i vedlegget til denne forordningen skal ikke oppføres på unionslisten over tillatte helsepåstander omhandlet i artikkel 14 nr. 1 i forordning [(EF) nr. 1924/2006](eu/32006r1924).
@@ -3431,14 +6257,16 @@ Helsepåstanden angitt i vedlegget til denne forordningen skal ikke oppføres p�
 
 Denne forordningen trer i kraft den 20. dagen etter at den er kunngjort i *Den europeiske unions tidende*.
 
-Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
-
-Utferdiget i Brussel 4. november 2025.
+Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.Utferdiget i Brussel 4. november 2025.*For Kommisjonen*
+Ursula von der Leyen
+*President*
 
 ### VEDLEGG
 Avslått helsepåstand
 
-*Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924)**Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori**Påstand**EFSA-uttalelse*Artikkel 14 nr. 1 bokstav a) – helsepåstand som viser til redusert sykdomsrisikoJoselito®-skinkeInntak av Joselito®-skinke reduserer konsentrasjonen av LDL-kolesterol i blodet eller senker blodtrykketQ-2022-00412
+| *Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori* | *Påstand* | *EFSA-uttalelse* |
+| --- | --- | --- | --- |
+| Artikkel 14 nr. 1 bokstav a) – helsepåstand som viser til redusert sykdomsrisiko | Joselito®-skinke | Inntak av Joselito®-skinke reduserer konsentrasjonen av LDL-kolesterol i blodet eller senker blodtrykket | Q-2022-00412 |
 
 ### Forordning [(EU) 2025/2223](eu/32025r2223)
 
@@ -3450,6 +6278,14 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) 2025/222
 av 4. november 2025
 om avslag på godkjenning av en annen helsepåstand om næringsmidler enn de som viser til redusert sykdomsrisiko og barns utvikling og helse
 
+EUROPAKOMMISJONEN HAR
+
+under henvisning til [traktaten om Den europeiske unions virkemåte](eu/12016e),
+
+under henvisning til europaparlaments- og rådsforordning [(EF) nr. 1924/2006](eu/32006r1924) av 20. desember 2006 om ernærings- og helsepåstander om næringsmidler1, særlig artikkel 18 nr. 5, og
+
+ut fra følgende betraktninger:
+
 1. I henhold til forordning [(EF) nr. 1924/2006](eu/32006r1924) er helsepåstander om næringsmidler forbudt med mindre de er godkjent av Kommisjonen i samsvar med nevnte forordning og er oppført på EU-listen over tillatte helsepåstander.
 2. Ved forordning [(EF) nr. 1924/2006](eu/32006r1924) er det også fastsatt at driftsansvarlige for næringsmiddelforetak kan inngi søknader om oppføring av helsepåstander på EU-listen over tillatte helsepåstander til vedkommende nasjonale myndighet i en medlemsstat. Vedkommende nasjonale myndighet skal videresende gyldige søknader til Den europeiske myndighet for næringsmiddeltrygghet («myndigheten») for vitenskapelig vurdering samt til Kommisjonen og medlemsstatene til orientering.
 3. Etter å ha mottatt søknaden skal myndigheten avgi uttalelse om den aktuelle helsepåstanden.
@@ -3460,6 +6296,12 @@ om avslag på godkjenning av en annen helsepåstand om næringsmidler enn de som
 8. Myndigheten sendte sin vitenskapelige uttalelse til Kommisjonen, søkeren og medlemsstatene. Etter offentliggjøring av nevnte uttalelse har Kommisjonen ikke mottatt kommentarer fra søkeren eller andre personer i henhold til artikkel 16 nr. 6 i forordning [(EF) nr. 1924/2006](eu/32006r1924).
 9. Tiltakene fastsatt i denne forordningen er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr.
 
+1 EUT L 404 av 30.12.2006, s. 9, ELI: [https://data.europa.eu/eli/reg/2006/1924/oj](https://data.europa.eu/eli/reg/2006/1924/oj).
+
+2 EFSA Journal 2024;22(7):e8861.
+
+VEDTATT DENNE FORORDNINGEN:
+
 ### Artikkel 1
 
 Helsepåstanden angitt i vedlegget til denne forordningen skal ikke oppføres på EU-listen over tillatte helsepåstander omhandlet i artikkel 13 nr. 3 i forordning [(EF) nr. 1924/2006](eu/32006r1924).
@@ -3468,9 +6310,13 @@ Helsepåstanden angitt i vedlegget til denne forordningen skal ikke oppføres p�
 
 Denne forordningen trer i kraft den 20. dagen etter at den er kunngjort i *Den europeiske unions tidende*.
 
-Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
-
-Utferdiget i Brussel 4. november 2025.
+Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.Utferdiget i Brussel 4. november 2025.*For Kommisjonen*
+Ursula VON DER LEYEN
+*President*
 
 ### VEDLEGG
 Avslått helsepåstand
+
+| *Søknad – relevante bestemmelser i forordning [(EF) nr. 1924/2006](eu/32006r1924)* | *Næringsstoff, stoff, næringsmiddel eller næringsmiddelkategori* | *Påstand* | *EFSA-uttalelse* |
+| --- | --- | --- | --- |
+| Artikkel 13 nr. 5 – helsepåstand som bygger på nyutviklede vitenskapelige bevis og/eller inneholder en anmodning om sikring av data som er underlagt eiendomsrett | Citikolin (CDP-kolin), indre salt | Citikolin støtter forbedring eller opprettholdelse av hukommelsesfunksjonen eller redusert hukommelsestap hos friske middelaldrende eller eldre mennesker som opplever aldersrelatert subjektiv nedsatt hukommelse | Q-2022-00411 |

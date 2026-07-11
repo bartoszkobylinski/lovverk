@@ -166,6 +166,16 @@ Med drikkevann forstås drikkevann som definert i [forskrift 22. desember 2016 n
 
 ### § 17. Mikrobiologiske kriterier for drikkevann på flaske
 
+| *Parameter* | *Enhet* | *Grenseverdi* | *Merknad* |
+| --- | --- | --- | --- |
+| *Clostridium perfringens* (inkl. sporer) | Antall/100 ml | 0 | Dersom verdien overskrides, må virksomheten forsikre seg om at det ikke er noen potensiell helserisiko forbundet med tilstedeværelse av patogene mikroorganismer, for eksempel *Cryptosporidium* eller Norwalk-lignende virus. |
+| *E. coli* | Antall/250 ml | 0 |  |
+| Intestinale enterokokker | Antall/250 ml | 0 |  |
+| Kimtall 22 °C | Antall/ml | 100 |  |
+| Kimtall 37 °C | Antall/ml | 20 |  |
+| Koliforme bakterier | Antall/250 ml | 0 |  |
+| *Pseudomonas aeruginosa* | Antall/250 ml | 0 |  |
+
 > Tilføyd ved [forskrift 22 des 2016 nr. 1880](forskrift/2016-12-22-1880) (i kraft 1 jan 2017).
 
 ## Kapittel VIII. Administrative bestemmelser
@@ -202,6 +212,8 @@ Forskriften trer i kraft fra den tid departementene bestemmer.1
 
 > Endret ved [forskrift 9 des 2011 nr. 1325](forskrift/2011-12-09-1325) (tidligere § 18), [22 des 2016 nr. 1880](forskrift/2016-12-22-1880) (i kraft 1 jan 2017, tidligere § 20).
 
+1 I kraft 1 mars 2010, jf. [forskrift 19 feb 2010 nr. 316](forskrift/2010-02-19-316).
+
 ## Vedlegg 1 (Opphevet)
 
 > Opphevet ved [forskrift 13 des 2014 nr. 1674](forskrift/2014-12-13-1674).
@@ -216,12 +228,16 @@ Nedenfor gjengis til informasjon [EØS-avtalen vedlegg I](avtale/avt-1992-05-02-
 
 Forordning [(EF) nr. 852/2004](eu/32004r0852) er konsolidert til og med endringer gjennomført ved forordning [(EF) nr. 1019/2008](eu/32008r1019) og forordning [(EU) 2021/382](eu/32021r0382).► **B** Europaparlaments- og rådsforordning [(EF) nr. 852/2004](eu/32004r0852*) av 29. april 2004
 
+som endret ved
+
 - ► **M1** Kommisjonsforordning [(EF) nr. 1019/2008](eu/32008r1019) av 17. oktober 2008
 - ► **M3** Kommisjonsforordning [(EU) 2021/382](eu/32021r0382) av 3. mars 2021
 
 ### EUROPAPARLAMENTS- OG RÅDSFORORDNING [(EF) nr. 852/2004](eu/32004r0852*)
 av 29. april 2004
 om næringsmiddelhygiene
+
+[EUROPAPARLAMENTET OG RÅDET FOR DEN EUROPEISKE UNION HAR1 –
 
 under henvisning til traktaten om opprettelse av Det europeiske fellesskap, særlig artikkel 95 og artikkel 152 nr. 4 bokstav b),
 
@@ -235,24 +251,46 @@ etter framgangsmåten fastsatt i traktatens artikkel 2514 og
 
 ut fra følgende betraktninger:Det å oppnå et høyt vernenivå for menneskers liv og helse er ett av de grunnleggende målene i næringsmiddelregelverket, som fastsatt i forordning [(EF) nr. 178/2002](eu/32002r0178).5 I nevnte forordning fastsettes det også andre felles prinsipper og definisjoner for nasjonal lovgivning og Fellesskapets regelverk for næringsmidler, herunder målet om å oppnå fritt varebytte for næringsmidler innenfor Fellesskapet.I rådsdirektiv [93/43/EØF](eu/31993l0043*) av 14. juni 1993 om næringsmiddelhygiene6 ble det fastsatt alminnelige regler for næringsmiddelhygiene og framgangsmåter for å verifisere at disse reglene ble overholdt.Erfaringen har vist at disse reglene og framgangsmåtene utgjør et solid grunnlag for å sikre næringsmiddeltryggheten. Innenfor rammen av den felles landbrukspolitikk er det vedtatt mange direktiver for å fastsette særlige hygieneregler for produksjon og omsetning av produktene oppført i traktatens vedlegg I. Disse hygienereglene har redusert handelshindringene for de aktuelle produktene, noe som har bidratt til å opprette det indre marked, samtidig som de sikrer et høyt nivå for vern av folkehelsen.Når det gjelder folkehelsen, inneholder disse reglene og framgangsmåtene felles prinsipper, særlig når det gjelder produsentenes og vedkommende myndigheters ansvar, krav til virksomhetenes struktur, drift og hygiene, framgangsmåter for å godkjenne virksomhetene, krav til lagring og transport samt stempelmerker.Disse prinsippene utgjør et felles grunnlag for hygienisk produksjon av alle næringsmidler, herunder produktene av animalsk opprinnelse oppført i traktatens vedlegg I.I tillegg til dette felles grunnlaget er det nødvendig med særlige hygieneregler for visse næringsmidler. I europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853*) av 29. april 2004 om fastsettelse av særlige hygieneregler for næringsmidler av animalsk opprinnelse7 fastsettes disse reglene.Hovedmålet med de nye alminnelige og særlige hygienereglene er å sikre forbrukerne et høyt vernenivå med hensyn til næringsmiddeltrygghet.Det er behov for en integrert strategi for å sikre næringsmiddeltrygghet fra det stedet primærproduksjonen foregår, til og med omsetning eller eksport. Alle driftsansvarlige for næringsmiddelforetak, i alle ledd av næringsmiddelkjeden, skal bidra til å sikre trygge næringsmidler.Fellesskapsreglene bør heller ikke få anvendelse verken på primærproduksjon til bruk i private husholdninger eller på tilberedning, håndtering eller oppbevaring av næringsmidler i hjemmet til konsum i private husholdninger. Dessuten bør de få anvendelse bare på foretak hvis aktiviteter innebærer en viss kontinuitet og en viss grad av organisering.De næringsmiddelfarene som finnes på primærproduksjonsnivå, bør identifiseres og styres tilstrekkelig for å sikre at målene i denne forordning oppnås. Ved direkte levering av små mengder råvarer fra driftsansvarlige for det næringsmiddelforetaket som produserer dem, til sluttforbrukeren eller til en lokal detaljist, er det imidlertid hensiktsmessig å beskytte folkehelsen gjennom nasjonal lovgivning, særlig på grunn av det nære forholdet mellom produsenten og forbrukeren.Det er i alminnelighet ennå ikke mulig å anvende prinsippene om fareanalyse og kritiske styringspunkter (HACCP) i primærproduksjonen. Retningslinjer for god praksis bør imidlertid legge til rette for bruk av hensiktsmessig hygienepraksis på driftsenhetsplan. Når det er nødvendig, bør særlige hygieneregler for primærproduksjon utfylle disse retningslinjene. Det er hensiktsmessig at hygienekravene som får anvendelse på primærproduksjon og tilknyttede aktiviteter, skiller seg fra dem som gjelder for andre aktiviteter.Næringsmiddeltrygghet er et resultat av flere faktorer: lovgivningen bør fastsette minstekrav for hygiene, offentlig kontroll bør være innført for å kontrollere at driftsansvarlige for næringsmiddelforetak overholder kravene, og driftsansvarlige for næringsmiddelforetak bør opprette og gjennomføre programmer og framgangsmåter for næringsmiddeltrygghet basert på HACCP-prinsippene.En vellykket gjennomføring av framgangsmåtene som er basert på HACCP-prinsippene, forutsetter at de ansatte i næringsmiddelforetak samarbeider og engasjerer seg fullt ut. Derfor bør de ansatte få opplæring. HACCP-systemet er et verktøy som driftsansvarlige for næringsmiddelforetak kan bruke for å oppnå et høyere nivå av næringsmiddeltrygghet. HACCP-systemet bør ikke betraktes som en selvreguleringsmekanisme og bør ikke erstatte offentlig kontroll.Kravet om å opprette framgangsmåter basert på HACCP-prinsippene, bør til å begynne med ikke få anvendelse på primærproduksjonen, men muligheten for å utvide dette kravet vil være ett element i den gjennomgåelsen som Kommisjonen skal foreta etter at denne forordning er trådt i kraft. Det er imidlertid hensiktsmessig for medlemsstatene å legge til rette for at driftsansvarlige innen primærproduksjon skal anvende slike prinsipper så langt det er mulig.HACCP-kravene bør ta hensyn til prinsippene som er fastsatt i *Codex Alimentarius*. De bør være så fleksible at de kan anvendes i alle situasjoner, herunder i små foretak. Det er særlig viktig å innse at det i visse næringsmiddelforetak ikke er mulig å identifisere kritiske styringspunkter, og at god hygienepraksis i enkelte tilfeller kan erstatte overvåkningen av kritiske styringspunkter. På samme måte innebærer ikke kravet om å fastsette «kritiske grenser» at det nødvendigvis skal fastsettes en tallfestet grense i hvert enkelt tilfelle. I tillegg må kravet om å oppbevare dokumenter være fleksibelt for at ikke svært små foretak skal bli pålagt unødige byrder.Det er også behov for fleksibilitet for å gjøre det mulig å fortsatt bruke tradisjonelle metoder i alle ledd i produksjonen, bearbeidingen eller distribusjonen av næringsmidler og i forbindelse med kravene til virksomhetenes struktur. Fleksibilitet er særlig viktig for regioner med særlige geografiske begrensninger, herunder de mest fjerntliggende regionene som nevnt i traktatens artikkel 299 nr. 2. Fleksibiliteten bør imidlertid ikke sette målene for næringsmiddelhygiene i fare. Ettersom alle næringsmidler som produseres i samsvar med hygienereglene, vil bli omsatt fritt i hele Fellesskapet, bør det dessuten være full åpenhet om den framgangsmåten som tillater at medlemsstatene er fleksible. Den bør omfatte muligheten til ved behov og for å kunne løse konflikter, å forhandle i Den faste komité for næringsmiddelkjeden og dyrehelsen nedsatt ved forordning [(EF) nr. 178/2002](eu/32002r0178).Ved å fastsette mål, som reduksjon av sykdomsframkallende stoffer eller kvalitetsstandarder, kan gjennomføringen av hygienereglene styres. Det bør derfor fastsettes framgangsmåter for dette formål. Slike mål vil utfylle eksisterende næringsmiddelregelverk, som rådsforordning [(EØF) nr. 315/93](eu/31993r0315) av 8. februar 1993 om fastsettelse av framgangsmåter i Fellesskapet i forbindelse med forurensende stoffer i næringsmidler,8 der det fastsettes øvre grenser for visse forurensende stoffer, og forordning [(EF) nr. 178/2002](eu/32002r0178), som forbyr omsetning av farlige næringsmidler og danner et enhetlig grunnlag for bruk av føre-var-prinsippet.For å ta hensyn til den tekniske og vitenskapelige utvikling bør Kommisjonen og medlemsstatene ha et nært og effektivt samarbeid i Den faste komité for næringsmiddelkjeden og dyrehelsen. I denne forordning tas det hensyn til de internasjonale forpliktelsene som er fastsatt i WTO-avtalen om veterinære og plantesanitære tiltak og de internasjonale standardene for næringsmiddeltrygghet fastsatt i *Codex Alimentarius*.For at vedkommende myndigheter effektivt skal kunne utføre offentlig kontroll, er det nødvendig at virksomheter registreres og at driftsansvarlige for næringsmiddelforetak samarbeider.Næringsmidlenes og næringsmiddelingrediensenes sporbarhet i næringsmiddelkjeden er et vesentlig element for å sikre næringsmiddeltrygghet. Forordning [(EF) nr. 178/2002](eu/32002r0178) inneholder regler for å sikre næringsmidlenes og næringsmiddelingrediensenes sporbarhet og fastsetter en framgangsmåte for å vedta gjennomføringsregler for hvordan disse prinsippene skal anvendes innen visse sektorer.Næringsmidler som importeres til Fellesskapet, skal oppfylle de allmenne kravene i forordning [(EF) nr. 178/2002](eu/32002r0178) eller oppfylle regler som er likeverdige med fellesskapsreglene. I denne forordning defineres det visse særlige hygienekrav til næringsmidler som importeres til Fellesskapet.Næringsmidler som eksporteres til tredjestater fra Fellesskapet, skal oppfylle de allmenne kravene fastsatt i forordning [(EF) nr. 178/2002](eu/32002r0178). I denne forordning defineres det visse særlige hygienekrav for næringsmidler som eksporteres fra Fellesskapet.Fellesskapets regelverk for næringsmiddelhygiene bør baseres på vitenskapelig rådgivning. Derfor bør Den europeiske myndighet for næringsmiddeltrygghet rådspørres når det er nødvendig.Ettersom denne forordning erstatter direktiv [93/43/EØF](eu/31993l0043*), bør direktivet oppheves.Kravene i denne forordning bør først få anvendelse når alle deler av det nye regelverket for næringsmiddelhygiene er trådt i kraft. Det bør også gå minst 18 måneder fra de nye reglene trer i kraft til de får anvendelse, slik at de berørte næringene får tid til å tilpasse seg.De tiltak som er nødvendige for gjennomføringen av denne forordning, bør vedtas i samsvar med rådsbeslutning [1999/468/EF](eu/31999d0468) av 28. juni 1999 om fastsettelse av nærmere regler for utøvelsen av den gjennomføringsmyndighet som er tillagt Kommisjonen9 –
 
+1 Ordlyden i fortalen er ikke EØS-tilpasset, jf. EØS-avtalen protokoll 1 nr. 1. Fortalen er bare relevant i den grad den kan bidra til en korrekt tolkning av bestemmelsene i rettsaktene innenfor rammen av EØS-avtalen.
+
+2 EFT C 365 E av 19.12.2000, s. 43.
+
+3 EFT C 155 av 29.5.2001, s. 39.
+
+4 Europaparlamentsuttalelse av 15. mai 2002 (EUT C 180 E av 31.7.2003, s. 267), Rådets felles holdning av 27. oktober 2003 (EUT C 48 E av 24.2.2004, s. 1) og Europaparlamentets holdning av 30. mars 2004 (ennå ikke offentliggjort i EUT) og rådsbeslutning av 16. april 2004.
+
+5 Europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178) av 28. januar 2002 om fastsettelse av allmenne prinsipper og krav i næringsmiddelregelverket, om opprettelse av Den europeiske myndighet for næringsmiddeltrygghet og om fastsettelse av framgangsmåter i forbindelse med næringsmiddeltrygghet (EFT L 31 av 1.2.2002, s. 1). Forordningen sist endret ved forordning [(EF) nr. 1642/2003](eu/32003r1642) (EUT L 245 av 29.9.2003, s. 4).
+
+6 EFT L 175 av 19.7.1993, s. 1. Direktivet endret ved europaparlaments- og rådsforordning [(EF) nr. 1882/2003](eu/32003r1882) (EUT L 284 av 31.10.2003, s. 1).
+
+7 EUT L 226 av 25.6.2004, s. 22.
+
+8 EFT L 37 av 13.2.1993, s. 1. Forordningen endret ved forordning [(EF) nr. 1882/2003](eu/32003r1882).
+
+9 EFT L 184 av 17.7.1999, s. 23.
+
+– VEDTATT DENNE FORORDNING:]
+
 ### Kapittel I
 Alminnelige bestemmelser
 
 ### Artikkel 1. Virkeområde
 
-1. I denne forordning fastsettes det alminnelige regler for næringsmiddelhygiene som gjelder for driftsansvarlige for næringsmiddelforetak, idet det tas særlig hensyn til følgende prinsipper:Hovedansvaret for næringsmiddeltrygghet ligger hos driftsansvarlige for næringsmiddelforetak.Det er nødvendig å sikre næringsmiddeltrygghet i hele næringsmiddelkjeden fra og med primærproduksjonen.Det er viktig å opprettholde kjølekjeden for næringsmidler som ikke kan lagres trygt ved omgivelsestemperatur, særlig fryste næringsmidler.Allmenn gjennomføring av framgangsmåter basert på HACCP-prinsippene, bør sammen med anvendelse av god hygienepraksis øke ansvaret til driftsansvarlige for næringsmiddelforetak.Retningslinjer for god praksis er et verdifullt verktøy for at driftsansvarlige for næringsmiddelforetak i alle ledd i næringsmiddelkjeden skal kunne overholde hygienereglene for næringsmidler og anvende HACCP-prinsippene.Det er nødvendig å fastsette mikrobiologiske kriterier og krav til temperaturstyring basert på en vitenskapelig risikovurdering.Det er nødvendig å sikre at importerte næringsmidler oppfyller minst samme hygienestandard som næringsmidler produsert i *EØS-statene*, eller en likeverdig standard.Denne forordning får anvendelse på alle ledd i produksjonen, bearbeidingen og distribusjonen av næringsmidler og på eksport, uten å berøre mer spesifikke krav til næringsmiddelhygiene.
+1\. I denne forordning fastsettes det alminnelige regler for næringsmiddelhygiene som gjelder for driftsansvarlige for næringsmiddelforetak, idet det tas særlig hensyn til følgende prinsipper:Hovedansvaret for næringsmiddeltrygghet ligger hos driftsansvarlige for næringsmiddelforetak.Det er nødvendig å sikre næringsmiddeltrygghet i hele næringsmiddelkjeden fra og med primærproduksjonen.Det er viktig å opprettholde kjølekjeden for næringsmidler som ikke kan lagres trygt ved omgivelsestemperatur, særlig fryste næringsmidler.Allmenn gjennomføring av framgangsmåter basert på HACCP-prinsippene, bør sammen med anvendelse av god hygienepraksis øke ansvaret til driftsansvarlige for næringsmiddelforetak.Retningslinjer for god praksis er et verdifullt verktøy for at driftsansvarlige for næringsmiddelforetak i alle ledd i næringsmiddelkjeden skal kunne overholde hygienereglene for næringsmidler og anvende HACCP-prinsippene.Det er nødvendig å fastsette mikrobiologiske kriterier og krav til temperaturstyring basert på en vitenskapelig risikovurdering.Det er nødvendig å sikre at importerte næringsmidler oppfyller minst samme hygienestandard som næringsmidler produsert i *EØS-statene*, eller en likeverdig standard.Denne forordning får anvendelse på alle ledd i produksjonen, bearbeidingen og distribusjonen av næringsmidler og på eksport, uten å berøre mer spesifikke krav til næringsmiddelhygiene.
 
-2. Denne forordning får ikke anvendelse på:primærproduksjon til bruk i private husholdninger,tilberedning, håndtering eller oppbevaring av næringsmidler i hjemmet til konsum i private husholdninger,produsentens direkte levering av små mengder råvarer til sluttforbrukeren eller til lokale detaljister som leverer direkte til sluttforbrukeren,innsamlingssentraler og garverier som omfattes av definisjonen næringsmiddelforetak bare fordi de håndterer råstoff til produksjon av gelatin eller kollagen.
+2\. Denne forordning får ikke anvendelse på:primærproduksjon til bruk i private husholdninger,tilberedning, håndtering eller oppbevaring av næringsmidler i hjemmet til konsum i private husholdninger,produsentens direkte levering av små mengder råvarer til sluttforbrukeren eller til lokale detaljister som leverer direkte til sluttforbrukeren,innsamlingssentraler og garverier som omfattes av definisjonen næringsmiddelforetak bare fordi de håndterer råstoff til produksjon av gelatin eller kollagen.
 
-3. *EØS-statene* skal i sin nasjonale lovgivning fastsette regler for aktivitetene nevnt i nr. 2 bokstav c). Disse nasjonale reglene skal sikre at målene i denne forordning oppnås.
+3\. *EØS-statene* skal i sin nasjonale lovgivning fastsette regler for aktivitetene nevnt i nr. 2 bokstav c). Disse nasjonale reglene skal sikre at målene i denne forordning oppnås.
 
 ### Artikkel 2. Definisjoner
 
-1. I denne forordning menes med:«næringsmiddelhygiene», heretter kalt «hygiene»: de tiltakene og vilkårene som er nødvendige for å kontrollere farer og sikre at et næringsmiddel er egnet til konsum med hensyn til dets bruksområde,«råvarer»: produkter fra primærproduksjonen, herunder produkter fra jordbruk, oppdrett, jakt og fiske,«virksomhet»: enhver enhet i et næringsmiddelforetak,«vedkommende myndighet»: den sentrale myndighet i en *EØS-stat* som har myndighet til å sikre at kravene i denne forordning overholdes, eller enhver annen myndighet som den sentrale myndighet har delegert denne myndigheten til; denne definisjonen omfatter også, når det er relevant, tilsvarende myndighet i en tredjestat,«likeverdig»: med hensyn til ulike systemer: i stand til å oppnå samme mål,«forurensning»: forekomst eller innføring av en fare,«drikkevann»: vann som oppfyller minstekravene fastsatt i rådsdirektiv [98/83/EF](eu/31998l0083*) av 3. november 1998 om drikkevannets kvalitet,1«rent sjøvann»: naturlig, kunstig eller renset sjøvann eller brakkvann som ikke inneholder mikroorganismer, skadelige stoffer eller giftig plankton i mengder som direkte eller indirekte kan påvirke næringsmidlenes hygieniske kvalitet,«rent vann»: rent sjøvann og ferskvann av tilsvarende kvalitet,«innpakking/innpakning»: plassering av et næringsmiddel i en innpakning eller en beholder som er i direkte kontakt med det aktuelle næringsmiddelet, og selve denne innpakningen eller beholderen,«emballering/emballasje»: plassering av ett eller flere innpakkede næringsmidler i en ytre beholder, og selve denne ytre beholderen,«hermetisk lukket beholder»: beholder som er utformet for og beregnet på å beskytte innholdet mot farer,«foredling»: enhver handling som endrer det opprinnelige produktet vesentlig, herunder varmebehandling, røyking, salting, modning, tørking, marinering, ekstraksjon, ekstrudering eller en kombinasjon av disse prosessene,«uforedlede produkter»: næringsmidler som ikke har vært foredlet, herunder produkter som har blitt delt, partert, utskåret, oppskåret, utbeinet, hakket, flådd, kvernet, snittet, renset, renskåret, avskallet, malt, kjølt, fryst, dypfryst eller tint,«foredlede produkter»: næringsmidler som er et resultat av foredling av uforedlede produkter. Disse produktene kan inneholde ingredienser som er nødvendige for å framstille dem, eller som gir dem særlige egenskaper.
+1\. I denne forordning menes med:«næringsmiddelhygiene», heretter kalt «hygiene»: de tiltakene og vilkårene som er nødvendige for å kontrollere farer og sikre at et næringsmiddel er egnet til konsum med hensyn til dets bruksområde,«råvarer»: produkter fra primærproduksjonen, herunder produkter fra jordbruk, oppdrett, jakt og fiske,«virksomhet»: enhver enhet i et næringsmiddelforetak,«vedkommende myndighet»: den sentrale myndighet i en *EØS-stat* som har myndighet til å sikre at kravene i denne forordning overholdes, eller enhver annen myndighet som den sentrale myndighet har delegert denne myndigheten til; denne definisjonen omfatter også, når det er relevant, tilsvarende myndighet i en tredjestat,«likeverdig»: med hensyn til ulike systemer: i stand til å oppnå samme mål,«forurensning»: forekomst eller innføring av en fare,«drikkevann»: vann som oppfyller minstekravene fastsatt i rådsdirektiv [98/83/EF](eu/31998l0083*) av 3. november 1998 om drikkevannets kvalitet,1«rent sjøvann»: naturlig, kunstig eller renset sjøvann eller brakkvann som ikke inneholder mikroorganismer, skadelige stoffer eller giftig plankton i mengder som direkte eller indirekte kan påvirke næringsmidlenes hygieniske kvalitet,«rent vann»: rent sjøvann og ferskvann av tilsvarende kvalitet,«innpakking/innpakning»: plassering av et næringsmiddel i en innpakning eller en beholder som er i direkte kontakt med det aktuelle næringsmiddelet, og selve denne innpakningen eller beholderen,«emballering/emballasje»: plassering av ett eller flere innpakkede næringsmidler i en ytre beholder, og selve denne ytre beholderen,«hermetisk lukket beholder»: beholder som er utformet for og beregnet på å beskytte innholdet mot farer,«foredling»: enhver handling som endrer det opprinnelige produktet vesentlig, herunder varmebehandling, røyking, salting, modning, tørking, marinering, ekstraksjon, ekstrudering eller en kombinasjon av disse prosessene,«uforedlede produkter»: næringsmidler som ikke har vært foredlet, herunder produkter som har blitt delt, partert, utskåret, oppskåret, utbeinet, hakket, flådd, kvernet, snittet, renset, renskåret, avskallet, malt, kjølt, fryst, dypfryst eller tint,«foredlede produkter»: næringsmidler som er et resultat av foredling av uforedlede produkter. Disse produktene kan inneholde ingredienser som er nødvendige for å framstille dem, eller som gir dem særlige egenskaper.
 
-2. Definisjonene fastsatt i forordning [(EF) nr. 178/2002](eu/32002r0178) får også anvendelse.
+2\. Definisjonene fastsatt i forordning [(EF) nr. 178/2002](eu/32002r0178) får også anvendelse.
 
-3. I vedleggene til denne forordning menes med uttrykkene «når det er nødvendig», «når det er hensiktsmessig», «egnet» og «tilstrekkelig» henholdsvis når det er nødvendig, når det er hensiktsmessig, egnet eller tilstrekkelig for å oppnå målene i denne forordning.
+3\. I vedleggene til denne forordning menes med uttrykkene «når det er nødvendig», «når det er hensiktsmessig», «egnet» og «tilstrekkelig» henholdsvis når det er nødvendig, når det er hensiktsmessig, egnet eller tilstrekkelig for å oppnå målene i denne forordning.
+
+1 EFT L 330 av 5.12.1998, s. 32. Direktivet endret ved fordning (EF) [nr. 1882/2003](eu/32003r1882).
 
 ### Kapittel II
 Forpliktelser som påhviler driftsansvarlige for næringsmiddelforetak
@@ -263,38 +301,38 @@ Driftsansvarlige for næringsmiddelforetak skal sikre at alle ledd i produksjone
 
 ### Artikkel 4. Allmenne og særlige hygienekrav
 
-1. Driftsansvarlige for næringsmiddelforetak som utfører primærproduksjon og tilknyttede aktiviteter oppført i vedlegg I, skal overholde de alminnelige hygienebestemmelsene fastsatt i del A i vedlegg I, og alle særlige krav i forordning [(EF) nr. 853/2004](eu/32004r0853*).
+1\. Driftsansvarlige for næringsmiddelforetak som utfører primærproduksjon og tilknyttede aktiviteter oppført i vedlegg I, skal overholde de alminnelige hygienebestemmelsene fastsatt i del A i vedlegg I, og alle særlige krav i forordning [(EF) nr. 853/2004](eu/32004r0853*).
 
-2. Driftsansvarlige for næringsmiddelforetak som utfører et ledd i produksjonen, bearbeidingen og distribusjonen av næringsmidler etter de leddene som nr. 1 får anvendelse på, skal overholde de allmenne hygienekravene fastsatt i vedlegg II, og alle særlige krav i forordning [(EF) nr. 853/2004](eu/32004r0853*).
+2\. Driftsansvarlige for næringsmiddelforetak som utfører et ledd i produksjonen, bearbeidingen og distribusjonen av næringsmidler etter de leddene som nr. 1 får anvendelse på, skal overholde de allmenne hygienekravene fastsatt i vedlegg II, og alle særlige krav i forordning [(EF) nr. 853/2004](eu/32004r0853*).
 
-3. Driftsansvarlige for næringsmiddelforetak skal, når det er hensiktsmessig, treffe følgende særlige hygienetiltak:oppfylle mikrobiologiske kriterier for næringsmidler,innføre framgangsmåter som er nødvendige for å nå målsettingene som er satt for å oppnå målene i denne forordning,overholde krav til temperaturstyring for næringsmidler,opprettholde kjølekjeden,prøvetaking og analyse.
+3\. Driftsansvarlige for næringsmiddelforetak skal, når det er hensiktsmessig, treffe følgende særlige hygienetiltak:oppfylle mikrobiologiske kriterier for næringsmidler,innføre framgangsmåter som er nødvendige for å nå målsettingene som er satt for å oppnå målene i denne forordning,overholde krav til temperaturstyring for næringsmidler,opprettholde kjølekjeden,prøvetaking og analyse.
 
-4. Kriteriene, kravene og målsettingene nevnt i nr. 3, skal vedtas etter framgangsmåten fastsatt i artikkel 14 nr. 2.Prøvetakings- og analysemetoder i tilknytning til dette skal fastsettes etter samme framgangsmåte.
+4\. Kriteriene, kravene og målsettingene nevnt i nr. 3, skal vedtas etter framgangsmåten fastsatt i artikkel 14 nr. 2.Prøvetakings- og analysemetoder i tilknytning til dette skal fastsettes etter samme framgangsmåte.
 
-5. Når det i denne forordning, i forordning [(EF) nr. 853/2004](eu/32004r0853*) og i gjennomføringstiltakene for disse forordningene ikke er angitt prøvetakings- eller analysemetoder, kan driftsansvarlige for næringsmiddelforetak anvende hensiktsmessige metoder fastsatt i andre deler av *EØS-regelverket* eller i nasjonal lovgivning, eller, i fravær av slike metoder, metoder som gir resultater som er likeverdige med dem som oppnås ved bruk av referansemetoden, dersom metodene er vitenskapelig validert i samsvar med internasjonalt anerkjente regler eller protokoller.
+5\. Når det i denne forordning, i forordning [(EF) nr. 853/2004](eu/32004r0853*) og i gjennomføringstiltakene for disse forordningene ikke er angitt prøvetakings- eller analysemetoder, kan driftsansvarlige for næringsmiddelforetak anvende hensiktsmessige metoder fastsatt i andre deler av *EØS-regelverket* eller i nasjonal lovgivning, eller, i fravær av slike metoder, metoder som gir resultater som er likeverdige med dem som oppnås ved bruk av referansemetoden, dersom metodene er vitenskapelig validert i samsvar med internasjonalt anerkjente regler eller protokoller.
 
-6. Driftsansvarlige for næringsmiddelforetak kan bruke retningslinjene fastsatt i artikkel 7, 8 og 9 som hjelpemiddel til å overholde sine forpliktelser i henhold til denne forordning.
+6\. Driftsansvarlige for næringsmiddelforetak kan bruke retningslinjene fastsatt i artikkel 7, 8 og 9 som hjelpemiddel til å overholde sine forpliktelser i henhold til denne forordning.
 
 ### Artikkel 5. Fareanalyse og kritiske styringspunkter
 
-1. Driftsansvarlige for næringsmiddelforetak skal innføre, gjennomføre og opprettholde én eller flere permanente framgangsmåter som er basert på HACCP-prinsippene.
+1\. Driftsansvarlige for næringsmiddelforetak skal innføre, gjennomføre og opprettholde én eller flere permanente framgangsmåter som er basert på HACCP-prinsippene.
 
-2. HACCP-prinsippene nevnt i nr. 1, består av følgende:identifisere alle farer som må forebygges, fjernes eller reduseres til et akseptabelt nivå,identifisere de kritiske styringspunktene på det trinnet eller de trinnene der styring er viktig for å forebygge eller fjerne en fare eller for å redusere den til et akseptabelt nivå,fastsette kritiske grenser for kritiske styringspunkter som skiller det som kan aksepteres, fra det som ikke kan aksepteres, for å forebygge, fjerne eller redusere identifiserte farer,fastsette og gjennomføre effektive framgangsmåter for overvåking av kritiske styringspunkter,fastsette korrigerende tiltak når overvåkningen viser at et kritisk styringspunkt ikke er under kontroll,fastsette framgangsmåter som skal utføres regelmessig, for å verifisere at tiltakene som er skissert i bokstav a)-e), fungerer effektivt,
+2\. HACCP-prinsippene nevnt i nr. 1, består av følgende:identifisere alle farer som må forebygges, fjernes eller reduseres til et akseptabelt nivå,identifisere de kritiske styringspunktene på det trinnet eller de trinnene der styring er viktig for å forebygge eller fjerne en fare eller for å redusere den til et akseptabelt nivå,fastsette kritiske grenser for kritiske styringspunkter som skiller det som kan aksepteres, fra det som ikke kan aksepteres, for å forebygge, fjerne eller redusere identifiserte farer,fastsette og gjennomføre effektive framgangsmåter for overvåking av kritiske styringspunkter,fastsette korrigerende tiltak når overvåkningen viser at et kritisk styringspunkt ikke er under kontroll,fastsette framgangsmåter som skal utføres regelmessig, for å verifisere at tiltakene som er skissert i bokstav a)-e), fungerer effektivt,
 oginnføre dokumenter og registrering som er tilpasset næringsmiddelforetakets art og størrelse, for å vise at tiltakene som er skissert i bokstav a)-f), anvendes effektivt.Når det gjøres endringer i produktet, prosessen eller et av trinnene, skal driftsansvarlige for næringsmiddelforetak gjennomgå framgangsmåten på nytt og foreta nødvendige endringer i den.
 
-3. Nr. 1 får anvendelse bare på driftsansvarlige for næringsmiddelforetak som utfører et ledd i produksjonen, bearbeidingen og distribusjonen av næringsmidler etter primærproduksjonen og de tilknyttede aktivitetene som er oppført i vedlegg I.
+3\. Nr. 1 får anvendelse bare på driftsansvarlige for næringsmiddelforetak som utfører et ledd i produksjonen, bearbeidingen og distribusjonen av næringsmidler etter primærproduksjonen og de tilknyttede aktivitetene som er oppført i vedlegg I.
 
-4. Driftsansvarlige for næringsmiddelforetak skal:godtgjøre overfor vedkommende myndigheter at de overholder nr. 1 på den måten som vedkommende myndighet krever, idet det tas hensyn til næringsmiddelforetakets art og størrelse,sikre at alle dokumenter som beskriver framgangsmåtene som er utarbeidet i samsvar med denne artikkel, til enhver tid er ajourført,oppbevare alle andre dokumenter og journaler i et hensiktsmessig tidsrom.
+4\. Driftsansvarlige for næringsmiddelforetak skal:godtgjøre overfor vedkommende myndigheter at de overholder nr. 1 på den måten som vedkommende myndighet krever, idet det tas hensyn til næringsmiddelforetakets art og størrelse,sikre at alle dokumenter som beskriver framgangsmåtene som er utarbeidet i samsvar med denne artikkel, til enhver tid er ajourført,oppbevare alle andre dokumenter og journaler i et hensiktsmessig tidsrom.
 
-5. Nærmere regler for gjennomføringen av denne artikkel kan fastsettes etter framgangsmåten fastsatt i artikkel 14 nr. 2. Slike regler kan gjøre det lettere for visse driftsansvarlige for næringsmiddelforetak å gjen nomføre denne artikkel, særlig dersom det fastsettes at de framgangsmåtene som er oppført i retningslinjene for anvendelse av HACCP-prinsippene, skal benyttes for å overholde nr. 1. Reglene kan også inneholde en angivelse av hvor lenge driftsansvarlige for næringsmiddelforetak skal oppbevare dokumenter og journaler i samsvar med nr. 4 bokstav c).
+5\. Nærmere regler for gjennomføringen av denne artikkel kan fastsettes etter framgangsmåten fastsatt i artikkel 14 nr. 2. Slike regler kan gjøre det lettere for visse driftsansvarlige for næringsmiddelforetak å gjen nomføre denne artikkel, særlig dersom det fastsettes at de framgangsmåtene som er oppført i retningslinjene for anvendelse av HACCP-prinsippene, skal benyttes for å overholde nr. 1. Reglene kan også inneholde en angivelse av hvor lenge driftsansvarlige for næringsmiddelforetak skal oppbevare dokumenter og journaler i samsvar med nr. 4 bokstav c).
 
 ### Artikkel 6. Offentlig kontroll, registrering og godkjenning
 
-1. Driftsansvarlige for næringsmiddelforetak skal samarbeide med vedkommende myndigheter i samsvar med andre deler av gjeldende *EØS-regelverk* eller, i mangel av et slikt, med nasjonal lovgivning.
+1\. Driftsansvarlige for næringsmiddelforetak skal samarbeide med vedkommende myndigheter i samsvar med andre deler av gjeldende *EØS-regelverk* eller, i mangel av et slikt, med nasjonal lovgivning.
 
-2. Særlig skal alle driftsansvarlige for næringsmiddelforetak underrette den relevante vedkommende myndighet, på den måten som sistnevnte krever, om alle virksomheter som de har ansvar for, og som utfører noen av leddene i produksjonen, bearbeidingen og distribusjonen av næringsmidler, med henblikk på å registrere alle slike virksomheter.Driftsansvarlige for næringsmiddelforetak skal også sørge for at vedkommende myndighet alltid har ajourførte opplysninger om virksomhetene, herunder ved å underrette om enhver vesentlig endring i aktivitetene og enhver nedleggelse av en eksisterende virksomhet.
+2\. Særlig skal alle driftsansvarlige for næringsmiddelforetak underrette den relevante vedkommende myndighet, på den måten som sistnevnte krever, om alle virksomheter som de har ansvar for, og som utfører noen av leddene i produksjonen, bearbeidingen og distribusjonen av næringsmidler, med henblikk på å registrere alle slike virksomheter.Driftsansvarlige for næringsmiddelforetak skal også sørge for at vedkommende myndighet alltid har ajourførte opplysninger om virksomhetene, herunder ved å underrette om enhver vesentlig endring i aktivitetene og enhver nedleggelse av en eksisterende virksomhet.
 
-3. Driftsansvarlige for næringsmiddelforetak skal imidlertid sikre at virksomhetene godkjennes av vedkommende myndighet etter minst ett besøk på stedet når det kreves godkjenning i henhold til:nasjonal lovgivning i den *EØS-staten* der virksomheten ligger,forordning [(EF) nr. 853/2004](eu/32004r0853*),
+3\. Driftsansvarlige for næringsmiddelforetak skal imidlertid sikre at virksomhetene godkjennes av vedkommende myndighet etter minst ett besøk på stedet når det kreves godkjenning i henhold til:nasjonal lovgivning i den *EØS-staten* der virksomheten ligger,forordning [(EF) nr. 853/2004](eu/32004r0853*),
 elleren beslutning som er vedtatt etter framgangsmåten fastsatt i artikkel 14 nr. 2.Enhver *EØS-stat* som i henhold til nasjonal lovgivning krever at visse virksomheter som ligger på dens territorium, godkjennes som fastsatt i bokstav a), skal underrette *EFTAs overvåkingsorgan (ESA)* og de andre *EØS-statene* om relevant nasjonal lovgivning.
 
 ### Kapittel III
@@ -308,31 +346,33 @@ Formidling og bruk av både nasjonale retningslinjer og fellesskapsretningslinje
 
 ### Artikkel 8. Nasjonale retningslinjer
 
-1. Når det utarbeides nasjonale retningslinjer for god praksis, skal de utarbeides og formidles av næringsmiddelsektoren:i samråd med representanter for de partene hvis interesser blir vesentlig berørt, som vedkommende myndigheter og forbrukergrupper,med hensyn til relevante regler i *Codex Alimentarius*,
+1\. Når det utarbeides nasjonale retningslinjer for god praksis, skal de utarbeides og formidles av næringsmiddelsektoren:i samråd med representanter for de partene hvis interesser blir vesentlig berørt, som vedkommende myndigheter og forbrukergrupper,med hensyn til relevante regler i *Codex Alimentarius*,
 ognår de gjelder primærproduksjon og de tilknyttede aktivitetene oppført i vedlegg I, idet det tas hensyn til anbefalingene som er angitt i del B i vedlegg I.
 
-2. Nasjonale retningslinjer kan utarbeides under ledelse av et nasjonalt standardiseringsorgan som nevnt i vedlegg II til direktiv [98/34/EF](eu/31998l0034).1
+2\. Nasjonale retningslinjer kan utarbeides under ledelse av et nasjonalt standardiseringsorgan som nevnt i vedlegg II til direktiv [98/34/EF](eu/31998l0034).1
 
-3. *EØS-statene* skal vurdere de nasjonale retningslinjene for å sikre:at de er utarbeidet i samsvar med nr. 1,at deres innhold er praktisk gjennomførbart i de sektorene de gjelder for,
+3\. *EØS-statene* skal vurdere de nasjonale retningslinjene for å sikre:at de er utarbeidet i samsvar med nr. 1,at deres innhold er praktisk gjennomførbart i de sektorene de gjelder for,
 ogat de som retningslinjer er egnet til å sikre at artikkel 3, 4 og 5 overholdes i de sektorene og for de næringsmidlene de gjelder for.
 
-4. *EØS-statene* skal oversende *EFTAs overvåkingsorgan (ESA)* de nasjonale retningslinjene som er i samsvar med kravene i nr. 3. Kommisjonen*/EFTAs overvåkingsorgan (ESA)* skal opprette og føre et register over disse retningslinjene og gjøre det tilgjengelig for *EØS-statene*.
+4\. *EØS-statene* skal oversende *EFTAs overvåkingsorgan (ESA)* de nasjonale retningslinjene som er i samsvar med kravene i nr. 3. Kommisjonen*/EFTAs overvåkingsorgan (ESA)* skal opprette og føre et register over disse retningslinjene og gjøre det tilgjengelig for *EØS-statene*.
 
-5. Retningslinjene for god praksis som er utarbeidet i henhold til direktiv [93/43/EØF](eu/31993l0043*), får fortsatt anvendelse etter at denne forordning er trådt i kraft, forutsatt at de er forenlige med forordningens mål.
+5\. Retningslinjene for god praksis som er utarbeidet i henhold til direktiv [93/43/EØF](eu/31993l0043*), får fortsatt anvendelse etter at denne forordning er trådt i kraft, forutsatt at de er forenlige med forordningens mål.
+
+1 Europaparlaments- og rådsdirektiv [98/34/EF](eu/31998l0034) av 22. juni 1998 om en informasjonsprosedyre for standarder og tekniske forskrifter samt regler for informasjonssamfunnstjenester (EFT L 204 av 21.7.1998, s. 37). Direktivet sist endret ved tiltredelsesakten av 2003.
 
 ### Artikkel 9. Fellesskapsretningslinjer
 
-1. Før det utarbeides fellesskapsretningslinjer for god hygienepraksis eller for anvendelse av HACCP-prinsippene, skal Kommisjonen rådspørre komiteen nevnt i artikkel 14. Formålet med denne rådspørringen skal være å vurdere behovet for slike retningslinjer, deres virkeområde og innhold.
+1\. Før det utarbeides fellesskapsretningslinjer for god hygienepraksis eller for anvendelse av HACCP-prinsippene, skal Kommisjonen rådspørre komiteen nevnt i artikkel 14. Formålet med denne rådspørringen skal være å vurdere behovet for slike retningslinjer, deres virkeområde og innhold.
 
-2. Når det utformes fellesskapsretningslinjer, skal Kommisjonen sikre at de blir utarbeidet og formidlet:av eller i samråd med aktuelle representanter for de europeiske næringsmiddelsektorene, herunder små og mellomstore bedrifter (SMB) og andre interesserte parter, for eksempel forbrukergrupper,i samarbeid med de partene hvis interesser blir vesentlig berørt, herunder vedkommende myndigheter,med hensyn til relevante regler i *Codex Alimentarius*,
+2\. Når det utformes fellesskapsretningslinjer, skal Kommisjonen sikre at de blir utarbeidet og formidlet:av eller i samråd med aktuelle representanter for de europeiske næringsmiddelsektorene, herunder små og mellomstore bedrifter (SMB) og andre interesserte parter, for eksempel forbrukergrupper,i samarbeid med de partene hvis interesser blir vesentlig berørt, herunder vedkommende myndigheter,med hensyn til relevante regler i *Codex Alimentarius*,
 ognår retningslinjene gjelder primærproduksjon og de tilknyttede aktivitetene som er oppført i vedlegg I, idet det tas hensyn til anbefalingene som er angitt i del B i vedlegg I.
 
-3. Komiteen nevnt i artikkel 14, skal vurdere utkast til fellesskapsretningslinjer for å sikre at:de er utarbeidet i samsvar med nr. 2,deres innhold er praktisk gjennomførbart i de sektorene de gjelder for, i hele Fellesskapet,
+3\. Komiteen nevnt i artikkel 14, skal vurdere utkast til fellesskapsretningslinjer for å sikre at:de er utarbeidet i samsvar med nr. 2,deres innhold er praktisk gjennomførbart i de sektorene de gjelder for, i hele Fellesskapet,
 ogde som retningslinjer er egnet til å sikre at artikkel 3, 4 og 5 overholdes i de sektorene og for de næringsmidlene de gjelder for.
 
-4. Kommisjonen skal oppfordre komiteen nevnt i artikkel 14, om regelmessig å gjennomgå på nytt alle fellesskapsretningslinjer som er utarbeidet i henhold til denne artikkel, i samarbeid med organene nevnt i nr. 2.Formålet med denne gjennomgåelsen skal være å sikre at retningslinjene forblir praktisk gjennomførbare, og å ta hensyn til den teknologiske og vitenskapelige utvikling.
+4\. Kommisjonen skal oppfordre komiteen nevnt i artikkel 14, om regelmessig å gjennomgå på nytt alle fellesskapsretningslinjer som er utarbeidet i henhold til denne artikkel, i samarbeid med organene nevnt i nr. 2.Formålet med denne gjennomgåelsen skal være å sikre at retningslinjene forblir praktisk gjennomførbare, og å ta hensyn til den teknologiske og vitenskapelige utvikling.
 
-5. Titler på og henvisninger til fellesskapsretningslinjene som er utformet i samsvar med denne artikkel, skal offentliggjøres i C-serien av *Den europeiske unions tidende*.
+5\. Titler på og henvisninger til fellesskapsretningslinjene som er utformet i samsvar med denne artikkel, skal offentliggjøres i C-serien av *Den europeiske unions tidende*.
 
 ### Kapittel IV
 Import og eksport
@@ -354,30 +394,30 @@ Det kan fastsettes gjennomføringstiltak og overgangsbestemmelser etter framgang
 
 ### Artikkel 13. Endring og tilpasning av vedlegg I og II
 
-1. Vedlegg I og II kan tilpasses eller ajourføres etter framgangsmåten fastsatt i artikkel 14 nr. 2, samtidig som det tas hensyn til:behovet for å gjennomgå på nytt anbefalingene i del B nr. 2 i vedlegg I,erfaringene fra gjennomføringen av HACCP-baserte systemer i henhold til artikkel 5,den teknologiske utviklingen og de praktiske konsekvensene av den samt forbrukernes forventninger når det gjelder næringsmidlenes sammensetning,vitenskapelige råd, særlig nye risikovurderinger,mikrobiologiske kriterier og temperaturkriterier for næringsmidler.
+1\. Vedlegg I og II kan tilpasses eller ajourføres etter framgangsmåten fastsatt i artikkel 14 nr. 2, samtidig som det tas hensyn til:behovet for å gjennomgå på nytt anbefalingene i del B nr. 2 i vedlegg I,erfaringene fra gjennomføringen av HACCP-baserte systemer i henhold til artikkel 5,den teknologiske utviklingen og de praktiske konsekvensene av den samt forbrukernes forventninger når det gjelder næringsmidlenes sammensetning,vitenskapelige råd, særlig nye risikovurderinger,mikrobiologiske kriterier og temperaturkriterier for næringsmidler.
 
-2. Det kan gis unntak fra vedlegg I og II, særlig for å lette gjennomføringen av artikkel 5 for små foretak, etter framgangsmåten fastsatt i artikkel 14 nr. 2, idet det tas hensyn til de relevante risikofaktorene, forutsatt at disse unntakene ikke er til hinder for at målene i denne forordning oppnås.
+2\. Det kan gis unntak fra vedlegg I og II, særlig for å lette gjennomføringen av artikkel 5 for små foretak, etter framgangsmåten fastsatt i artikkel 14 nr. 2, idet det tas hensyn til de relevante risikofaktorene, forutsatt at disse unntakene ikke er til hinder for at målene i denne forordning oppnås.
 
-3. *EØS- stater* kan i samsvar med nr. 4-7 i denne artikkel vedta nasjonale tiltak for å tilpasse kravene fastsatt i vedlegg II, dersom dette ikke setter oppnåelsen av målene i denne forordning i fare.
+3\. *EØS- stater* kan i samsvar med nr. 4-7 i denne artikkel vedta nasjonale tiltak for å tilpasse kravene fastsatt i vedlegg II, dersom dette ikke setter oppnåelsen av målene i denne forordning i fare.
 
 4.De nasjonale tiltakene nevnt i nr. 3, skal ha som mål:å gjøre det mulig å fortsatt bruke tradisjonelle metoder i alle ledd i produksjonen, bearbeidingen eller distribusjonen av næringsmidler,
 ellerå oppfylle behovene til næringsmiddelforetak som ligger i regioner med særlige geografiske begrensninger.I andre tilfeller får de anvendelse bare på virksomhetenes oppføring, planløsning og utstyr.
 
-5. *EØS- stater* som ønsker å vedta nasjonale tiltak som nevnt i nr. 3, skal underrette *EFTAs overvåkingsorgan (ESA)* og de andre *EØS-statene* om dette. Hver underretning skal inneholde:en detaljert beskrivelse av kravene som denne *EØS-staten* anser det som nødvendig å tilpasse, samt angivelse av tilpasningens art,en beskrivelse av de næringsmidlene og virksomhetene som berøres,en begrunnelse for tilpasningen, herunder når det er relevant, et sammendrag av den fareanalysen som er utført, samt hvilke tiltak som må treffes for å sikre at tilpasningen ikke setter målene i denne forordning i fare,
+5\. *EØS- stater* som ønsker å vedta nasjonale tiltak som nevnt i nr. 3, skal underrette *EFTAs overvåkingsorgan (ESA)* og de andre *EØS-statene* om dette. Hver underretning skal inneholde:en detaljert beskrivelse av kravene som denne *EØS-staten* anser det som nødvendig å tilpasse, samt angivelse av tilpasningens art,en beskrivelse av de næringsmidlene og virksomhetene som berøres,en begrunnelse for tilpasningen, herunder når det er relevant, et sammendrag av den fareanalysen som er utført, samt hvilke tiltak som må treffes for å sikre at tilpasningen ikke setter målene i denne forordning i fare,
 ogalle andre relevante opplysninger.
 
-6. De andre *EØS-statene* skal ha en frist på tre måneder fra de mottar underretningen nevnt i nr. 5, til å sende skriftlige merknader til *EFTAs overvåkingsorgan (ESA)*. Når det gjelder tilpasningene nevnt i nr. 4 bokstav b), skal denne fristen forlenges til fire måneder dersom en *EØS-stat* ber om det. Kommisjonen kan, og skal når den mottar skriftlige merknader fra én eller flere medlemstater, rådspørre medlemsstatene i komiteen nevnt i artikkel 14 nr. 1. Kommisjonen kan etter framgangsmåten fastsatt i artikkel 14 nr. 2, beslutte om de påtenkte tiltakene kan gjennomføres, om nødvendig etter at det er foretatt hensiktsmessige endringer. Kommisjonen kan om nødvendig foreslå allmenne tiltak i samsvar med nr. 1 eller 2 i denne artikkel.
+6\. De andre *EØS-statene* skal ha en frist på tre måneder fra de mottar underretningen nevnt i nr. 5, til å sende skriftlige merknader til *EFTAs overvåkingsorgan (ESA)*. Når det gjelder tilpasningene nevnt i nr. 4 bokstav b), skal denne fristen forlenges til fire måneder dersom en *EØS-stat* ber om det. Kommisjonen kan, og skal når den mottar skriftlige merknader fra én eller flere medlemstater, rådspørre medlemsstatene i komiteen nevnt i artikkel 14 nr. 1. Kommisjonen kan etter framgangsmåten fastsatt i artikkel 14 nr. 2, beslutte om de påtenkte tiltakene kan gjennomføres, om nødvendig etter at det er foretatt hensiktsmessige endringer. Kommisjonen kan om nødvendig foreslå allmenne tiltak i samsvar med nr. 1 eller 2 i denne artikkel.
 
-7. En *EØS-stat* kan vedta nasjonale tiltak om tilpasning av kravene i vedlegg II bare:i samsvar med en beslutning vedtatt i henhold til nr. 6,
+7\. En *EØS-stat* kan vedta nasjonale tiltak om tilpasning av kravene i vedlegg II bare:i samsvar med en beslutning vedtatt i henhold til nr. 6,
 ellerdersom Kommisjonen*/EFTAs overvåkingsorgan (ESA)* én måned etter utløpet av fristen nevnt i nr. 6, ikke har underrettet *EØS-statene* om at den har mottatt skriftlige merknader eller at den har til hensikt å foreslå at det vedtas en beslutning i henhold til nr. 6.
 
 ### Artikkel 14. Komitéframgangsmåte
 
-1. Kommisjonen skal bistås av Den faste komité for næringsmiddelkjeden og dyrehelsen.
+1\. Kommisjonen skal bistås av Den faste komité for næringsmiddelkjeden og dyrehelsen.
 
-2. Når det vises til dette nummer, får artikkel 5 og 7 i beslutning [1999/468/EF](eu/31999d0468) anvendelse, samtidig som det tas hensyn til bestemmelsene i beslutningens artikkel 8.Tidsrommet fastsatt i artikkel 5 nr. 6 i beslutning [1999/468/EF](eu/31999d0468) skal være tre måneder.
+2\. Når det vises til dette nummer, får artikkel 5 og 7 i beslutning [1999/468/EF](eu/31999d0468) anvendelse, samtidig som det tas hensyn til bestemmelsene i beslutningens artikkel 8.Tidsrommet fastsatt i artikkel 5 nr. 6 i beslutning [1999/468/EF](eu/31999d0468) skal være tre måneder.
 
-3. Komiteen fastsetter sin forretningsorden.
+3\. Komiteen fastsetter sin forretningsorden.
 
 ### Artikkel 15. Samråd med Den europeiske myndighet for næringsmiddeltrygghet
 
@@ -385,21 +425,21 @@ Kommisjonen skal rådspørre Den europeiske myndighet for næringsmiddeltrygghet
 
 ### Artikkel 16. Rapport til Europaparlamentet og Rådet
 
-1. Kommisjonen skal innen 20. mai 2009 framlegge en rapport for Europaparlamentet og Rådet.
+1\. Kommisjonen skal innen 20. mai 2009 framlegge en rapport for Europaparlamentet og Rådet.
 
-2. Rapporten skal særlig inneholde en gjennomgåelse av de erfaringene som er gjort ved anvendelsen av denne forordning, og en vurdering av hvorvidt det er ønskelig og praktisk gjennomførbart å utvide kravene i artikkel 5 til også å omfatte driftsansvarlige for næringsmiddelforetak som driver primærproduksjon og de tilknyttede aktivitetene oppført i vedlegg I.
+2\. Rapporten skal særlig inneholde en gjennomgåelse av de erfaringene som er gjort ved anvendelsen av denne forordning, og en vurdering av hvorvidt det er ønskelig og praktisk gjennomførbart å utvide kravene i artikkel 5 til også å omfatte driftsansvarlige for næringsmiddelforetak som driver primærproduksjon og de tilknyttede aktivitetene oppført i vedlegg I.
 
-3. Kommisjonens rapport skal eventuelt ledsages av relevante forslag.
+3\. Kommisjonens rapport skal eventuelt ledsages av relevante forslag.
 
 ### Artikkel 17. Oppheving
 
-1. Direktiv [93/43/EØF](eu/31993l0043*) oppheves med virkning fra den dato da denne forordning trer i kraft.
+1\. Direktiv [93/43/EØF](eu/31993l0043*) oppheves med virkning fra den dato da denne forordning trer i kraft.
 
-2. Henvisninger til det opphevede direktivet skal forstås som henvisninger til denne forordning.
+2\. Henvisninger til det opphevede direktivet skal forstås som henvisninger til denne forordning.
 
-3. Beslutninger som er vedtatt i henhold til artikkel 3 nr. 3 og artikkel 10 i direktiv [93/43/EØF](eu/31993l0043*), skal imidlertid fortsatt gjelde inntil de erstattes av beslutninger som er vedtatt i samsvar med denne forordning eller forordning [(EF) nr. 178/2002](eu/32002r0178). Inntil det fastsettes kriterier eller krav som nevnt i artikkel 4 nr. 3 bokstav a)-e) i denne forordning, kan *EØS-statene* opprettholde alle nasjonale regler som fastsetter slike kriterier eller krav som de har vedtatt i samsvar med direktiv [93/43/EØF](eu/31993l0043*).
+3\. Beslutninger som er vedtatt i henhold til artikkel 3 nr. 3 og artikkel 10 i direktiv [93/43/EØF](eu/31993l0043*), skal imidlertid fortsatt gjelde inntil de erstattes av beslutninger som er vedtatt i samsvar med denne forordning eller forordning [(EF) nr. 178/2002](eu/32002r0178). Inntil det fastsettes kriterier eller krav som nevnt i artikkel 4 nr. 3 bokstav a)-e) i denne forordning, kan *EØS-statene* opprettholde alle nasjonale regler som fastsetter slike kriterier eller krav som de har vedtatt i samsvar med direktiv [93/43/EØF](eu/31993l0043*).
 
-4. I påvente av at nytt *EØS-regelverk* som fastsetter regler for offentlig kontroll av næringsmidler, får anvendelse, skal *EØS-statene* treffe alle hensiktsmessige tiltak for å sikre at forpliktelsene fastsatt i eller i henhold til denne forordning, oppfylles.
+4\. I påvente av at nytt *EØS-regelverk* som fastsetter regler for offentlig kontroll av næringsmidler, får anvendelse, skal *EØS-statene* treffe alle hensiktsmessige tiltak for å sikre at forpliktelsene fastsatt i eller i henhold til denne forordning, oppfylles.
 
 ### Artikkel 18. [Ikrafttredelse
 
@@ -414,13 +454,27 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Strasbourg, 29. april 2004.
 
-*For Europaparlamentet**For Rådet**P. COX**M. McDOWELL**President**Formann*
+|  |  |
+| --- | --- |
+| *For Europaparlamentet* | *For Rådet* |
+|  |  |
+| *P. COX* | *M. McDOWELL* |
+|  |  |
+| *President* | *Formann* |
+
+1 Ikrafttredelse for EFTA-statene vil skje i henhold til [EØS-komiteens beslutning nr. 137/2007](eu/22007d0137) artikkel 4.2 EUT L 226 av 25.6.2004, s. 83.3 EUT L 157 av 30.4.2004, s. 33.
 
 ### Vedlegg I
 primærproduksjon
 
+DEL A: ALMINNELIGE HYGIENEBESTEMMELSER FOR PRIMÆRPRODUKSJON OG TILKNYTTEDE AKTIVITETER
+
+I. Virkeområde
+
 1. Dette vedlegg får anvendelse på primærproduksjon og følgende tilknyttede aktiviteter:transport, lagring og håndtering av råvarer på produksjonsstedet, forutsatt at dette ikke endrer råvarens karakter i vesentlig grad,transport av levende dyr, når dette er nødvendig for å oppnå målene i denne forordning,
 ognår det gjelder produkter av vegetabilsk opprinnelse, fiskerivarer og viltlevende vilt, transport for å levere råvarer, der råvarenes karakter ikke er endret i vesentlig grad, fra produksjonsstedet til en virksomhet.
+
+II. Hygienebestemmelser
 
 1. Driftsansvarlige for næringsmiddelforetak skal så langt det er mulig, sikre at råvarer beskyttes mot forurensning, idet det tas hensyn til all foredling som råvarene senere skal gjennomgå.
 2. Uten at den alminnelige forpliktelsen fastsatt i nr. 2 berøres, skal driftsansvarlige for næringsmiddelforetak overholde relevante bestemmelser i *EØS-regelverk* og nasjonal lovgivning som gjelder kontroll av farer i primærproduksjonen og tilknyttede aktiviteter, herunder:tiltak for å kontrollere forurensning som kommer fra luft, jord, vann, fôr, gjødsel, veterinærpreparater, plantevernmidler og biocider og oppbevaring, håndtering og disponering av avfall,
@@ -430,9 +484,15 @@ ogbruke tilsetningsstoff i fôrvarer og veterinærpreparater på korrekt måte, 
 4. Driftsansvarlige for næringsmiddelforetak som produserer eller høster planteprodukter, skal treffe egnede tiltak for, når det er relevant, å:holde lokaler, utstyr, beholdere, kasser, kjøretøyer og fartøyer rene og, når det er nødvendig, desinfisere dem på en hensiktsmessig måte etter rengjøring,når det er nødvendig, sikre at planteprodukter er rene, og at de produseres, transporteres og lagres under hygieniske forhold,bruke drikkevann eller rent vann når det er nødvendig for å hindre forurensning,sikre at personale som håndterer næringsmidler, er ved god helse og får opplæring om helserisikoer,så langt det er mulig, hindre at dyr og skadedyr forårsaker forurensning,lagre og håndtere avfall og farlige stoffer slik at forurensning unngås,ta hensyn til resultatene av alle relevante analyser som utføres på prøver som er tatt fra planter, eller andre prøver som har betydning for menneskers helse,
 ogbruke plantevernmidler og biocider på korrekt måte, slik det kreves i relevant lovgivning.
 
+► **M3**
+
 - Utstyr, beholdere på transportmidler og/eller containere som brukes i forbindelse med innhøsting, transport eller lagring av et av stoffene eller produktene som forårsaker allergier eller intoleranser oppført i vedlegg II til forordning [(EU) nr. 1169/2011](eu/32011r1169), skal ikke brukes til innhøsting, transport eller lagring av næringsmidler som ikke inneholder dette stoffet eller produktet, med mindre utstyret, beholderne og/eller containerne er rengjort og minst kontrollert for fravær av synlige rester av stoffet eller produktet.
 
+◄ **M3**
+
 1. Når driftsansvarlige for næringsmiddelforetak underrettes om problemer som er avdekket ved offentlig kontroll, skal de treffe hensiktsmessige tiltak for å bøte på situasjonen.
+
+III. Registrering
 
 1. Driftsansvarlige for næringsmiddelforetak skal på en hensiktsmessig måte og i et hensiktsmessig tidsrom som er tilpasset næringsmiddelforetakets art og størrelse, føre og oppbevare journaler over tiltak som er truffet for å kontrollere farer. Driftsansvarlige for næringsmiddelforetak skal på anmodning gjøre relevante opplysninger i disse journalene tilgjengelig for vedkommende myndighet og det næringsmiddelforetaket som mottar produktene.
 2. Driftsansvarlige for næringsmiddelforetak som oppdretter dyr eller produserer råvarer av animalsk opprinnelse, skal særlig føre journaler over:arten av og opprinnelsen til fôret som gis til dyrene,veterinærpreparater eller andre behandlinger som dyrene har fått, behandlingsdatoer og tilbakeholdingstider,forekomst av sykdommer som kan påvirke tryggheten til produkter av animalsk opprinnelse,resultatene av alle analyser som er utført på prøver som er tatt fra dyr, eller andre prøver som er tatt for diagnostiske formål, og som er av betydning for menneskers helse,
@@ -441,13 +501,21 @@ ogalle relevante rapporter om kontroller av dyr eller produkter av animalsk oppr
 ogresultatene av alle relevante analyser som utføres på prøver som er tatt fra planter, eller andre prøver som har betydning for menneskers helse.
 4. Andre personer, som veterinærer, agronomer og konsulenter, kan bistå driftsansvarlige for næringsmiddelforetak med å føre journalene.
 
+DEL B: ANBEFALINGER FOR RETNINGSLINJER FOR GOD HYGIENEPRAKSIS
+
 1. De nasjonale retningslinjene og fellesskapsretningslinjene nevnt i artikkel 7-9 i denne forordning, bør inneholde veiledning om god hygienepraksis ved kontroll av farer i primærproduksjonen og tilknyttede aktiviteter.
 2. Retningslinjer for god hygienepraksis skal omfatte hensiktsmessige opplysninger om farer som kan oppstå i primærproduksjonen og tilknyttede aktiviteter, og tiltak for å kontrollere farer, herunder relevante tiltak som er angitt i *EØS-regelverk* og nasjonal lovgivning eller nasjonale programmer og *EØS-programmer*. Eksempler på slike farer og tiltak kan være:kontroll av forurensning som mykotoksiner, tungmetaller og radioaktivt materiale,bruk av vann, organisk avfall og gjødsel,korrekt og hensiktsmessig bruk av plantevernmidler og biocider og deres sporbarhet,korrekt og hensiktsmessig bruk av veterinærpreparater og tilsetningsstoffer i fôrvarer og deres sporbarhet,tilberedning, lagring og bruk av fôr og fôrets sporbarhet,riktig disponering av døde dyr, avfall og strø,beskyttelsestiltak for å hindre at det innføres smittsomme sykdommer som kan overføres til mennesker gjennom næringsmidler, og enhver plikt til å underrette vedkommende myndighet,rutiner, praksis og metoder for å sikre at næringsmidler produseres, håndteres, pakkes, lagres og transporteres under hensiktsmessige, hygieniske forhold, herunder effektiv rengjøring og skadedyrbekjempelse,tiltak knyttet til renheten til slakte- og produksjonsdyr,tiltak knyttet til registrering.
 
 ### Vedlegg II
 Allmenne hygienekrav til alle driftsansvarlige for næringsmiddelforetak (unntatt når vedlegg i får anvendelse)
 
+► **M3**
+
+INNLEDNING
+
 Kapittel V, Va, VI, VII, VIII, IX, X, XI, XIa og XII får anvendelse på alle ledd i produksjonen, foredlingen og distribusjonen av næringsmidler. De resterende kapitlene får anvendelse som følger:Kapittel I får anvendelse på alle lokaler som brukes til næringsmidler, bortsett fra lokaler som omfattes av kapittel III.Kapittel II får anvendelse på alle lokaler der næringsmidler tilberedes, behandles eller foredles, bortsett fra serveringsområder og lokaler som omfattes av kapittel III.Kapittel III får anvendelse på de lokalene som er oppført i overskriften til kapittelet.Kapittel IV får anvendelse på all transport.
+
+◄ **M3**
 
 ### Kapittel I
 Allmenne krav til lokaler som brukes til næringsmidler (unntatt dem som er angitt i kapittel III)
@@ -499,7 +567,15 @@ ogvære installert slik at utstyret og omgivelsene kan rengjøres på egnet måt
 ### ► **M3** KAPITTEL Va
 Redistribusjon av næringsmidler
 
-Driftsansvarlige for næringsmiddelforetak kan redistribuere næringsmidler til næringsmiddeldonasjon på følgende vilkår:Driftsansvarlige for næringsmiddelforetak skal regelmessig kontrollere at næringsmidler som de har ansvar for, ikke er helseskadelige og at de er egnet til konsum, i samsvar med artikkel 14 nr. 2 i forordning [(EF) nr. 178/2002](eu/32002r0178)*. Dersom kontrollen som er utført, er tilfredsstillende, kan driftsansvarlige for næringsmiddelforetak redistribuere næringsmidler i samsvar med nr. 2 i henhold til følgende:For næringsmidler som har en siste forbruksdato i samsvar med artikkel 24 i forordning [(EU) nr. 1169/2011](eu/32011r1169), innen utløpet av denne datoen.For næringsmidler som har en holdbarhetsdato i samsvar med artikkel 2 nr. 2 bokstav r) i forordning [(EU) nr. 1169/2011](eu/32011r1169), fram til og etter denne datoen.For næringsmidler som ikke er underlagt krav om holdbarhetsdato i samsvar med nr. 1 bokstav d) i vedlegg X til forordning [(EU) nr. 1169/2011](eu/32011r1169), på et hvilket som helst tidspunkt.Driftsansvarlige for næringsmiddelforetak som håndterer de næringsmidlene det vises til i nr. 1, skal vurdere om næringsmidlene ikke er helseskadelige, og om de er egnet til konsum, ved minst å ta hensyn tilholdbarhetsdatoen eller siste forbruksdatoen, slik at gjenværende holdbarhetstid er tilstrekkelig til at sluttforbrukeren kan redistribuere og bruke næringsmiddelet på en sikker måte,at emballasjen er intakt, dersom det er relevant,korrekte lagrings- og transportforhold, herunder gjeldende temperaturkrav,innfrysingsdatoen i samsvar med nr. 2 bokstav b) i avsnitt IV i vedlegg II til europaparlaments- og rådsforordning (EF) nr. 853/2004**, dersom det er relevant,de organoleptiske forholdene,sikringen av sporbarhet i samsvar med Kommisjonens gjennomføringsforordning (EU) nr. 931/2011*** for produkter av animalsk opprinnelse.
+Driftsansvarlige for næringsmiddelforetak kan redistribuere næringsmidler til næringsmiddeldonasjon på følgende vilkår:Driftsansvarlige for næringsmiddelforetak skal regelmessig kontrollere at næringsmidler som de har ansvar for, ikke er helseskadelige og at de er egnet til konsum, i samsvar med artikkel 14 nr. 2 i forordning [(EF) nr. 178/2002](eu/32002r0178)\*. Dersom kontrollen som er utført, er tilfredsstillende, kan driftsansvarlige for næringsmiddelforetak redistribuere næringsmidler i samsvar med nr. 2 i henhold til følgende:For næringsmidler som har en siste forbruksdato i samsvar med artikkel 24 i forordning [(EU) nr. 1169/2011](eu/32011r1169), innen utløpet av denne datoen.For næringsmidler som har en holdbarhetsdato i samsvar med artikkel 2 nr. 2 bokstav r) i forordning [(EU) nr. 1169/2011](eu/32011r1169), fram til og etter denne datoen.For næringsmidler som ikke er underlagt krav om holdbarhetsdato i samsvar med nr. 1 bokstav d) i vedlegg X til forordning [(EU) nr. 1169/2011](eu/32011r1169), på et hvilket som helst tidspunkt.Driftsansvarlige for næringsmiddelforetak som håndterer de næringsmidlene det vises til i nr. 1, skal vurdere om næringsmidlene ikke er helseskadelige, og om de er egnet til konsum, ved minst å ta hensyn tilholdbarhetsdatoen eller siste forbruksdatoen, slik at gjenværende holdbarhetstid er tilstrekkelig til at sluttforbrukeren kan redistribuere og bruke næringsmiddelet på en sikker måte,at emballasjen er intakt, dersom det er relevant,korrekte lagrings- og transportforhold, herunder gjeldende temperaturkrav,innfrysingsdatoen i samsvar med nr. 2 bokstav b) i avsnitt IV i vedlegg II til europaparlaments- og rådsforordning (EF) nr. 853/2004\*\*, dersom det er relevant,de organoleptiske forholdene,sikringen av sporbarhet i samsvar med Kommisjonens gjennomføringsforordning (EU) nr. 931/2011\*\*\* for produkter av animalsk opprinnelse.
+
+\* Europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178) av 28. januar 2002 om fastsettelse av allmenne prinsipper og krav i næringsmiddelregelverket, om opprettelse av Den europeiske myndighet for næringsmiddeltrygghet og om fastsettelse av framgangsmåter i forbindelse med næringsmiddeltrygghet (EFT L 31 av 1.2.2002, s. 1).
+
+\*\* Europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853) av 29. april 2004 om fastsettelse av særlige hygieneregler for næringsmidler av animalsk opprinnelse (EUT L 139 av 30.4.2004, s. 55).
+
+\*\*\* Kommisjonens gjennomføringsforordning [(EU) nr. 931/2011](eu/32011r0931) av 19. september 2011 om kravene til sporbarhet fastsatt ved europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178) for næringsmidler av animalsk opprinnelse (EUT L 242 av 20.9.2011, s. 2).
+
+◄ **M3**
 
 ### Kapittel VI
 Næringsmiddelavfall
@@ -537,7 +613,11 @@ Bestemmelser som får anvendelse på næringsmidler
 7. Tining av næringsmidler skal foregå på en slik måte at risikoen for vekst av sykdomsframkallende mikroorganismer eller dannelse av toksiner i næringsmidlene er så liten som mulig. Når næringsmidlene tines, skal de ikke utsettes for temperaturer som kan innebære helserisiko. Dersom væske som renner av i tiningsprosessen, kan utgjøre en helserisiko, skal den ledes bort på egnet måte. Etter tining skal næringsmidlene håndteres på en slik måte at risikoen for vekst av sykdomsframkallende mikroorganismer eller dannelse av toksiner er så liten som mulig.
 8. Farlige og/eller uspiselige stoffer, herunder fôr, skal merkes på egnet måte og lagres i egne, sikre beholdere.
 
+► **M3**
+
 1. Utstyr, beholdere på transportmidler og/eller containere som brukes i forbindelse med foredling, håndtering, transport eller lagring av et av stoffene eller produktene som forårsaker allergier eller intoleranser oppført i vedlegg II til forordning [(EU) nr. 1169/2011](eu/32011r1169), skal ikke brukes til foredling, håndtering, transport eller lagring av næringsmidler som ikke inneholder dette stoffet eller produktet, med mindre utstyret, beholderne og/eller containerne er rengjort og minst kontrollert for fravær av synlige rester av stoffet eller produktet.
+
+◄ **M3**
 
 ### Kapittel X
 Bestemmelser som får anvendelse på innpakking og emballering av næringsmidler
@@ -560,11 +640,15 @@ Næringsmiddeltrygghetskultur
 2. Ledelsens forpliktelser skal omfatte følgende:Sikre tydelig formidling av roller og ansvarsområder innenfor hver av næringsmiddelforetakets aktiviteter.Opprettholde næringsmiddelhygienesystemets integritet når endringer planlegges og gjennomføres.Verifisere at kontrollene utføres på en rettidig og effektiv måte, og at dokumentasjonen er ajourført.Sikre at egnet opplæring og tilsyn er på plass for personalet.Sikre at relevante regelverkskrav overholdes.Oppmuntre til kontinuerlig forbedring av virksomhetens styringssystem for næringsmiddeltrygghet, dersom det er relevant, idet det tas hensyn til utviklingen innen vitenskap, teknologi og beste praksis.
 3. Ved gjennomføringen av næringsmiddeltrygghetskulturen skal det tas hensyn til næringsmiddelforetakets art og størrelse.
 
+◄ **M3**
+
 ### Kapittel XII
 Opplæring
 
 Driftsansvarlige for næringsmiddelforetak skal sikre at:personer som håndterer næringsmidler, følges opp, instrueres og/eller gis opplæring i næringsmiddelhygiene på en måte som står i forhold til deres arbeidsoppgaver,de som har ansvar for å utvikle og opprettholde framgangsmåten nevnt i artikkel 5 nr. 1 i denne forordning, eller for å gjennomføre relevante retningslinjer, har fått egnet opplæring i anvendelsen av HACCP-prinsippene,
 ogalle krav i nasjonal lovgivning som gjelder opplæringsprogrammer for personer som arbeider i visse næringsmiddelsektorer, overholdes.
+
+Se her for å lese norsk oversettelse av forordning [(EU) 2021/382](eu/32021r0382): [(pdf)](static/SF/32021r0382u-01.pdf)
 
 ### Forordning (EU) nr. 208/2013 om sporbarhetskrav for spirer og frø til spireproduksjon
 
@@ -576,11 +660,19 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 208/
 av 11. mars 2013
 om krav til sporbarhet for spirer og frø beregnet på produksjon av spirer
 
+EUROPAKOMMISJONEN HAR –
+
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178) av 28. januar 2002 om fastsettelse av allmenne prinsipper og krav i næringsmiddelregelverket, om opprettelse av Den europeiske myndighet for næringsmiddeltrygghet og om fastsettelse av framgangsmåter i forbindelse med næringsmiddeltrygghet,1 særlig artikkel 18 nr. 5, og
 
 ut fra følgende betraktninger:Ved forordning [(EF) nr. 178/2002](eu/32002r0178) fastsettes allmenne prinsipper for næringsmidler og fôr i alminnelighet og for næringsmiddel- og fôrtrygghet i særdeleshet, på unionsplan og nasjonalt plan. I artikkel 18 i nevnte forordning er det fastsatt at næringsmidler, fôr, dyr bestemt til næringsmiddelproduksjon og alle andre stoffer som er bestemt til eller kan forventes å bli iblandet et næringsmiddel eller et fôr, skal kunne spores i alle ledd i produksjon, bearbeiding og distribusjon.I nevnte artikkel er det også fastsatt at driftsansvarlige for næringsmiddel- og fôrforetak må kunne identifisere enhver person som har levert til dem et næringsmiddel, og de skal også ha ordninger og framgangsmåter for å kunne identifisere de andre foretakene som har mottatt deres produkter. Disse opplysningene skal gjøres tilgjengelige for vedkommende myndighet på anmodning.Etter utbruddet av shigatoksinproduserende *E. coli* (STEC) i mai 2011 i Unionen ble konsum av spirer identifisert som den mest sannsynlige kilden til utbruddene.Den europeiske myndighet for næringsmiddeltrygghet (EFSA) vedtok 20. oktober 2011 en vitenskapelig uttalelse om risikoen ved shigatoksinproduserende *Escherichia coli* (STEC) og andre sykdomsframkallende bakterier i frø og spirer.2 EFSA konkluderer i sin uttalelse at den mest sannsynlige kilden til utbruddene som kan knyttes til spirer er at tørre frø er blitt kontaminert med sykdomsframkallende bakterier. Videre framgår det av uttalelsen at som følge av den høye fuktigheten og gunstige temperaturen under spiring, kan sykdomsframkallende bakterier på tørre frø formere seg under spiring og utgjøre en fare for folkehelsen.Sporbarhet er et effektivt redskap for å sikre næringsmiddeltrygghet, ettersom dette gjør det mulig å spore et næringsmiddel gjennom alle ledd i produksjon, bearbeiding og distribusjon og dermed reagere raskt i tilfelle utbrudd av næringsmiddeloverført sykdom. Særlig kan sporbarhet når det gjelder visse næringsmidler av ikke-animalsk opprinnelse bidra til at næringsmidler som ikke er trygge fjernes fra markedet, og dermed verne forbrukerne.For å sikre sporbarheten i henhold til artikkel 18 i forordning [(EF) nr. 178/2002](eu/32002r0178) bør navnet på og adressen til både den driftsansvarlige for næringsmiddelforetaket som leverer spirer eller frø beregnet på produksjon av spirer, og den driftsansvarlige for næringsmiddelforetaket som slike frø eller spirer er levert til, alltid være tilgjengelige. Kravet bygger på prinsippet «ett skritt tilbake»–«ett skritt fram», som innebærer at driftsansvarlige for næringsmiddelforetak har etablert et system som gjør det mulig for dem å identifisere sine direkte leverandører og direkte kunder, bortsett fra når disse er sluttforbrukere.Forholdene ved produksjon av spirer kan utgjøre en potensielt stor fare for folkehelsen, ettersom forholdene kan føre til en vesentlig økning av sykdomsframkallende stoffer som overføres gjennom næringsmidler. I tilfelle et utbrudd av næringsmiddeloverført sykdom knyttet til konsum av spirer er det derfor avgjørende å kunne spore de berørte varene raskt for å begrense innvirkningen et slikt utbrudd har på folkehelsen.Videre er handelen med frø beregnet på produksjon av spirer utbredt, noe som øker behovet for sporbarhet.Særlige regler for sporbarhet av spirer og frø beregnet på produksjon av spirer bør derfor fastsettes i denne forordning.Særlig bør det fastsettes et krav om at driftsansvarlige for næringsmiddelforetak skal framlegge tilleggsopplysninger om volumet eller mengden av slike frø eller spirer og avsendelsesdatoen samt en referanse som identifiserer partiet og en detaljert beskrivelse av frøene eller spirene.For å redusere den administrative byrden for driftsansvarlige for næringsmiddelforetak bør det tillates fleksibilitet med hensyn til hvilket format de anvender til å registrere og oversende de relevante opplysningene som en del av kravene til sporbarhet.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for næringsmiddelkjeden og dyrehelsen –
+
+1 EFT L 31 av 1.2.2002, s. 1.
+
+2 EFSA Journal 2011; 9(11):2424.
+
+VEDTATT DENNE FORORDNING:
 
 ### Artikkel 1. Formål
 
@@ -593,6 +685,8 @@ Denne forordning får ikke anvendelse på spirer etter at de har gjennomgått en
 I denne forordning menes med:«spirer» det produkt som framkommer ved spiring av frø og deres utvikling i vann eller et annet medium, som høstes før virkelige blader utvikles og som er beregnet på å spises helt, inklusive frøet,«parti» en mengde spirer eller frø beregnet på produksjon av spirer, med samme taksonomiske navn, som sendes fra samme virksomhet til samme bestemmelsessted på samme dag. Ett eller flere partier kan utgjøre en forsendelse. Frø med ulike taksonomiske navn som er blandet i samme emballasje og er beregnet på å spire sammen, samt spirer av slike frø, skal også betraktes som ett parti.
 
 I tillegg menes i denne forordning med «forsendelse» definisjonen fastsatt i artikkel 2 i kommisjonsforordning [(EU) nr. 211/2013](eu/32013r0211).1
+
+1 EUT L 68 av 12.3.2013, s. 26.
 
 ### Artikkel 3. Krav til sporbarhet
 
@@ -619,7 +713,11 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel, 11. mars 2013.
 
-*For Kommisjonen*José Manuel BARROSO*President*
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  | José Manuel BARROSO |
+|  | *President* |
 
 ### Forordning (EU) nr. 931/2011
 
@@ -631,11 +729,23 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 931/
 av 19. september 2011
 om kravene til sporbarhet fastsatt ved europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178) for næringsmidler av animalsk opprinnelse
 
+EUROPAKOMMISJONEN HAR –
+
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178) av 28. januar 2002 om fastsettelse av allmenne prinsipper og krav i næringsmiddelregelverket, om opprettelse av Den europeiske myndighet for næringsmiddeltrygghet og om fastsettelse av framgangsmåter i forbindelse med næringsmiddeltrygghet,1 særlig artikkel 18 nr. 5, og
 
 ut fra følgende betraktninger:Ved artikkel 18 i forordning [(EF) nr. 178/2002](eu/32002r0178) innføres allmenne prinsipper for sporbarhet av næringsmidler. I nevnte artikkel fastsettes det at sporbarhet av næringsmidler må innføres i alle ledd i produksjon, bearbeiding og distribusjon. Det fastslås dessuten at driftsansvarlige for næringsmiddel- og fôrforetak må kunne identifisere enhver person som har levert til dem et næringsmiddel. Disse driftsansvarlige må også kunne identifisere foretak som har mottatt deres produkter. Opplysningene skal gjøres tilgjengelige for vedkommende myndigheter på anmodning.Sporbarhet er nødvendig for å sikre næringsmiddeltrygghet og at forbrukerne får pålitelige opplysninger. Det er særlig viktig å anvende sporbarhet av næringsmidler av animalsk opprinnelse for å fjerne næringsmidler som ikke er trygge, fra markedet, og dermed verne forbrukerne.For å oppnå sporbarhet av næringsmidler som fastsatt i artikkel 18 i forordning [(EF) nr. 178/2002](eu/32002r0178) er det nødvendig å kjenne navn og adresse til både den driftsansvarlige for næringsmiddelforetaket som leverer næringsmiddelet, og den driftsansvarlige for næringsmiddelforetaket som mottar næringsmiddelet. Kravet bygger på prinsippet «ett skritt tilbake»-«ett skritt fram», som innebærer at driftsansvarlige for næringsmiddelforetak har etablert et system som gjør det mulig for dem å identifisere sine direkte leverandører og direkte kunder, bortsett fra når disse er sluttforbrukere.Tidligere kriser på næringsmiddelområdet har vist at dokumentasjonen ikke alltid har vært tilstrekkelig til at fullstendig sporbarhet av mistenkte næringsmidler har vært mulig. Under gjennomføringen av forordning [(EF) nr. 178/2002](eu/32002r0178), europaparlaments- og rådsforordning [(EF) nr. 852/2004](eu/32004r0852*) av 29. april 2004 om næringsmiddelhygiene,2 europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853*) av 29. april 2004 om fastsettelse av særlige hygieneregler for næringsmidler av animalsk opprinnelse3 og europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854*) av 29. april 2004 om fastsettelse av særlige regler for gjennomføringen av offentlig kontroll av produkter av animalsk opprinnelse beregnet på konsum4 har erfaringen vist at driftsansvarlige for næringsmiddelforetak generelt ikke har de opplysninger som er nødvendige for å sikre at deres systemer for identifikasjon av håndtering eller lagring av næringsmidler er tilstrekkelige, særlig innenfor sektoren næringsmidler av animalsk opprinnelse. Dette har medført at denne sektoren har vært påført unødvendig store økonomiske tap på grunn av mangelen på rask og fullstendig sporbarhet av næringsmidler.For å sikre korrekt anvendelse av kravene fastsatt i artikkel 18 i forordning [(EF) nr. 178/2002](eu/32002r0178) bør det derfor fastsettes visse regler spesifikt for sektoren næringsmidler av animalsk opprinnelse. Disse reglene bør gi (en viss) fleksibilitet med hensyn til hvilket format de relevante opplysningene gjøres tilgjengelige i.Det bør særlig gis tilleggsopplysninger om volumene eller mengdene av næringsmidler av animalsk opprinnelse, en henvisning som identifiserer partiet eller forsendelsen, alt etter hva som er hensiktsmessig, en detaljert beskrivelse av næringsmiddelet samt avsendelsesdato.Tiltakene fastsatt i dette direktiv er i samsvar med uttalelse fra Den faste komité for næringsmiddelkjeden og dyrehelsen –
+
+1 EFT L 31 av 1.2.2002, s. 1.
+
+2 EUT L 139 av 30.4.2004, s. 1.
+
+3 EUT L 139 av 30.4.2004, s. 55.
+
+4 EUT L 139 av 30.4.2004, s. 206.
+
+VEDTATT DENNE FORORDNING:
 
 ### Artikkel 1. Formål
 
@@ -643,17 +753,17 @@ I denne forordning fastsettes bestemmelser om gjennomføring av kravene til spor
 
 ### Artikkel 2. Virkeområde
 
-1. Denne forordning får anvendelse på næringsmidler definert som uforedlede og foredlede produkter i artikkel 2 nr. 1 i forordning [(EF) nr. 852/2004](eu/32004r0852*).
+1\. Denne forordning får anvendelse på næringsmidler definert som uforedlede og foredlede produkter i artikkel 2 nr. 1 i forordning [(EF) nr. 852/2004](eu/32004r0852*).
 
-2. Denne forordning får ikke anvendelse på næringsmidler som inneholder både produkter av vegetabilsk opprinnelse og foredlede produkter av animalsk opprinnelse.
+2\. Denne forordning får ikke anvendelse på næringsmidler som inneholder både produkter av vegetabilsk opprinnelse og foredlede produkter av animalsk opprinnelse.
 
 ### Artikkel 3. Krav til sporbarhet
 
-1. Driftsansvarlige for næringsmiddelforetak skal sikre at følgende opplysninger om forsendelser av næringsmidler av animalsk opprinnelse gjøres tilgjengelige for den driftsansvarlige for næringsmiddelforetaket som mottar næringsmiddelet, og, på anmodning, for vedkommende myndighet:en nøyaktig beskrivelse av næringsmiddelet,volum eller mengde av næringsmiddelet,navn og adresse til den driftsansvarlige for næringsmiddelforetaket som næringsmiddelet ble sendt fra,navn og adresse til avsenderen (eieren) dersom denne er en annen enn den driftsansvarlige for næringsmiddelforetaket som næringsmiddelet ble sendt fra,navn og adresse til den driftsansvarlige for næringsmiddelforetaket som næringsmiddelet ble sendt til,navn og adresse til mottakeren (eieren) dersom denne er en annen enn den driftsansvarlige for næringsmiddelforetaket som næringsmiddelet ble sendt til,en henvisning som identifiserer partiet eller forsendelsen, alt etter hva som er hensiktsmessig, ogavsendelsesdato.
+1\. Driftsansvarlige for næringsmiddelforetak skal sikre at følgende opplysninger om forsendelser av næringsmidler av animalsk opprinnelse gjøres tilgjengelige for den driftsansvarlige for næringsmiddelforetaket som mottar næringsmiddelet, og, på anmodning, for vedkommende myndighet:en nøyaktig beskrivelse av næringsmiddelet,volum eller mengde av næringsmiddelet,navn og adresse til den driftsansvarlige for næringsmiddelforetaket som næringsmiddelet ble sendt fra,navn og adresse til avsenderen (eieren) dersom denne er en annen enn den driftsansvarlige for næringsmiddelforetaket som næringsmiddelet ble sendt fra,navn og adresse til den driftsansvarlige for næringsmiddelforetaket som næringsmiddelet ble sendt til,navn og adresse til mottakeren (eieren) dersom denne er en annen enn den driftsansvarlige for næringsmiddelforetaket som næringsmiddelet ble sendt til,en henvisning som identifiserer partiet eller forsendelsen, alt etter hva som er hensiktsmessig, ogavsendelsesdato.
 
-2. Opplysningene nevnt i nr. 1 skal gjøres tilgjengelige i tillegg til de opplysninger som kreves i henhold til gjeldende bestemmelser i Unionens regelverk for sporbarhet av næringsmidler av animalsk opprinnelse.
+2\. Opplysningene nevnt i nr. 1 skal gjøres tilgjengelige i tillegg til de opplysninger som kreves i henhold til gjeldende bestemmelser i Unionens regelverk for sporbarhet av næringsmidler av animalsk opprinnelse.
 
-3. Opplysningene nevnt i nr. 1 skal ajourføres daglig og være tilgjengelige minst inntil det med rimelighet kan antas at næringsmiddelet er konsumert.Når vedkommende myndighet anmoder om det, skal den driftsansvarlige for næringsmiddelforetaket straks framlegge opplysningene. Leverandøren av næringsmiddelet kan velge hvilket format opplysningene skal gjøres tilgjengelige i, forutsatt at de opplysningene som kreves etter nr. 1, gjøres tilgjengelige på en klar og utvetydig måte og lett kan finnes av den driftsansvarlige for næringsmiddelforetaket som mottar næringsmiddelet.
+3\. Opplysningene nevnt i nr. 1 skal ajourføres daglig og være tilgjengelige minst inntil det med rimelighet kan antas at næringsmiddelet er konsumert.Når vedkommende myndighet anmoder om det, skal den driftsansvarlige for næringsmiddelforetaket straks framlegge opplysningene. Leverandøren av næringsmiddelet kan velge hvilket format opplysningene skal gjøres tilgjengelige i, forutsatt at de opplysningene som kreves etter nr. 1, gjøres tilgjengelige på en klar og utvetydig måte og lett kan finnes av den driftsansvarlige for næringsmiddelforetaket som mottar næringsmiddelet.
 
 ### Artikkel 4
 
@@ -665,7 +775,11 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel, 19. september 2011.
 
-*For Kommisjonen*José Manuel BARROSO*President*
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  | José Manuel BARROSO |
+|  | *President* |
 
 ### Konsolidert forordning (EF) nr. 2073/2005
 
@@ -674,6 +788,8 @@ Utferdiget i Brussel, 19. september 2011.
 Nedenfor gjengis til informasjon EØS-avtalen vedlegg I kapittel I del 6.2 nr. 52 og vedlegg II kapittel XII nr. 54zzzj (forordning [(EF) nr. 2073/2005](eu/32005r2073*) som endret ved forordning [(EF) nr. 1441/2007](eu/32007r1441*), forordning [(EU) nr. 365/2010](eu/32010r0365), forordning [(EU) nr. 1086/2011](eu/32011r1086*), forordning [(EU) nr. 209/2013](eu/32013r0209), forordning [(EU) nr. 1019/2013](eu/32013r1019*), forordning [(EU) nr. 217/2014](eu/32014r0217), forordning [(EU) 2015/2285](eu/32015r2285), forordning [(EU) 2017/1495](eu/32017r1495), forordning [(EU) 2019/229](eu/32019r0229) og forordning [(EU) 2020/205](eu/32020r0205)) med endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg I, vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.
 
 Forordning [(EF) nr. 2073/2005](eu/32005r2073*) er konsolidert med endringer gjennomført ved forordning [(EF) nr. 1441/2007](eu/32007r1441*), forordning [(EU) nr. 365/2010](eu/32010r0365), forordning [(EU) nr. 1086/2011](eu/32011r1086*), forordning [(EU) nr. 209/2013](eu/32013r0209), forordning [(EU) nr. 1019/2013](eu/32013r1019*), forordning [(EU) nr. 217/2014](eu/32014r0217), forordning [(EU) 2015/2285](eu/32015r2285),forordning (EU) [2017/1495](eu/32017r1495), forordning [(EU) 2019/229](eu/32019r0229) og forordning [(EU) 2020/205](eu/32020r0205)).► **B** Europaparlaments- og rådsforordning [(EF) nr. 2073/2005](eu/32005r2073*) av 15. november 2005
+
+som endret ved:
 
 - ► **M1** Kommisjonsforordning [(EF) nr. 1441/2007](eu/32007r1441*) av 5. desember 2007
 - ► **M2** Kommisjonsforordning [(EU) nr. 365/2010](eu/32010r0365) av 28. april 2010
@@ -691,11 +807,37 @@ Forordning [(EF) nr. 2073/2005](eu/32005r2073*) er konsolidert med endringer gje
 av 15. november 2005
 om mikrobiologiske kriterier for næringsmidler
 
+[ KOMMISJONEN FOR DE EUROPEISKE FELLESSKAP HAR1 –
+
 under henvisning til traktaten om opprettelse av Det europeiske fellesskap,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 852/2004](eu/32004r0852*) av 29. april 2004 om næringsmiddelhygiene,2 særlig artikkel 4 nr. 4 og artikkel 12, og
 
 ut fra følgende betraktninger:Et av de grunnleggende målene med næringsmiddelregelverket er å oppnå et høyt vernenivå for folkehelsen, som fastsatt i europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178) av 28. januar 2002 om fastsettelse av allmenne prinsipper og krav i næringsmiddelregelverket, om opprettelse av Den europeiske myndighet for næringsmiddeltrygghet og om fastsettelse av framgangsmåter i forbindelse med næringsmiddeltrygghet.3 Mikrobiologiske farer i næringsmidler utgjør en vesentlig kilde til sykdommer som overføres gjennom næringsmidler, hos mennesker.Næringsmidler skal ikke inneholde mikroorganismer eller toksiner eller metabolitter av disse i mengder som innebærer en uakseptabel risiko for menneskers helse.Ved forordning [(EF) nr. 178/2002](eu/32002r0178) er det fastsatt allmenne krav for næringsmiddeltrygghet som medfører at næringsmidler ikke kan omsettes dersom de er utrygge. Driftsansvarlige for næringsmiddelforetak er forpliktet til å trekke utrygge næringsmidler tilbake fra markedet. For å kunne verne om folkehelsen og unngå avvikende fortolkninger, bør det fastsettes harmoniserte trygghetskriterier for å kunne fastslå når næringsmidlene er akseptable, særlig med hensyn til forekomst av visse sykdomsframkallende mikroorganismer.Mikrobiologiske kriterier gir også retningslinjer for om næringsmidlene og prosessene for framstilling, håndtering og distribusjon er akseptable. Bruk av mikrobiologiske kriterier skal være en integrert del av gjennomføringen av HACCP-baserte framgangsmåter og andre tiltak for hygienekontroll.Næringsmiddeltrygghet oppnås hovedsakelig ved forebyggende tiltak, som ved gjennomføring av god hygienepraksis og anvendelse av framgangsmåter basert på prinsippene om fareanalyse og kritiske styringspunkter (HACCP-prinsippene). Mikrobiologiske kriterier kan brukes for å validere og verifisere HACCP-framgangsmåter og andre tiltak for hygienekontroll. Det bør derfor fastsettes mikrobiologiske kriterier som definerer når prosessene er akseptable, samt mikrobiologiske kriterier for næringsmiddeltrygghet som fastsetter en grenseverdi, som dersom den overskrides, medfører at næringsmiddelet skal anses som uakseptabelt forurenset av de mikroorganismene som disse kriteriene er fastsatt for.I samsvar med artikkel 4 i forordning [(EF) nr. 852/2004](eu/32004r0852*) skal driftsansvarlige for næringsmiddelforetak oppfylle mikrobiologiske kriterier. Dette bør omfatte prøving mot de grenseverdiene som er fastsatt for kriteriene, ved prøvetaking, analyser og gjennomføring av korrigerende tiltak i samsvar med næringsmiddelregelverket og retningslinjene fra vedkommende myndighet. Det bør derfor fastsettes gjennomføringstiltak for analysemetodene, herunder om nødvendig måleusikkerheten, prøvetakingsplanen, de mikrobiologiske grenseverdiene og antall analyseenheter som skal oppfylle disse grenseverdiene. Videre bør det fastsettes gjennomføringstilstak for de næringsmidlene som kriteriet får anvendelse på, de nivåene i næringsmiddelkjeden som kriteriet får anvendelse på, samt hvilke tiltak som skal treffes dersom kriteriet ikke blir oppfylt. De tiltakene som driftsansvarlige for næringsmiddelforetak skal treffe for å sikre at kriteriene som definerer når en prosess er akseptabel, er oppfylt, kan blant annet omfatte kontroll av råvarer, hygiene, temperatur og produktets holdbarhetstid.I henhold til europaparlaments- og rådsforordning [(EF) nr. 882/2004](eu/32004r0882*) av 29. april 2004 om offentlig kontroll for å sikre at fôrvare- og næringsmiddelregelverket samt bestemmelsene om dyrs helse og velferd overholdes,4 skal medlemsstatene sikre at offentlig kontroll foretas regelmessig på grunnlag av en risikovurdering og så ofte som det er hensiktsmessig. Slike kontroller skal finne sted på hensiktsmessige ledd i produksjonen, foredlingen og distribusjonen av næringsmidler for å sikre at driftsansvarlige for næringsmiddelforetak oppfyller kriteriene fastsatt i denne forordning.Meldingen fra Kommisjonen om fellesskapsstrategien for fastsettelse av mikrobiologiske kriterier for næringsmidler5 beskriver strategien for å fastsette og revidere kriteriene i Fellesskapets regelverk, samt prinsippene for å utvikle og anvende kriteriene. Denne strategien skal følges når det fastsettes mikrobiologiske kriterier.Vitenskapskomiteen for veterinære tiltak knyttet til folkehelsen, avgav 23. september 1999 en uttalelse om evaluering av mikrobiologiske kriterier for næringsmidler av animalsk opprinnelse beregnet på konsum. Komiteen understreket betydningen av at mikrobiologiske kriterier bygger på formelle risikovurderinger og internasjonalt godkjente prinsipper. I uttalelsen anbefales det at mikrobiologiske kriterier skal være relevante og virkningsfulle med hensyn til vern av forbrukernes helse. Komiteen foreslo enkelte reviderte kriterier som midlertidige tiltak i påvente av formelle risikovurderinger.Samtidig avgav Vitenskapskomiteen for veterinære tiltak knyttet til folkehelsen en egen uttalelse om *Listeria monocytogenes*. I denne uttalelsen anbefales et mål om å holde konsentrasjonen av *Listeria monocytogenes* i næringsmidler under 100 kde/g. Vitenskapskomiteen for næringsmidler sluttet seg til disse anbefalingene i sin uttalelse av 22. juni 2000.Vitenskapskomiteen for veterinære tiltak knyttet til folkehelsen avgav 19. og 20. september 2001 en uttalelse om *Vibrio vulnificus* og *Vibrio parahaemolyticus*. Komiteen konkluderte med at det ikke kan fastsettes særlige kriterier for sykdomsframkallende *V*. *vulnificus* og *parahaemolyticus* i sjømat på grunnlag av tilgjengelige vitenskapelige opplysninger. Den anbefalte imidlertid å fastsette regler for god praksis for å sikre at det anvendes god hygienepraksis.Vitenskapskomiteen for veterinære tiltak knyttet til folkehelsen avgav 30.-31. januar 2002 en uttalelse om norwalklignende virus (NLV, norovirus). I denne uttalelsen konkluderer komiteen med at konvensjonelle fekale indikatorer ikke er pålitelige når det gjelder å avdekke forekomst eller fravær av norwalkvirus, og at det er forbundet med usikkerhet å følge praksis med å fjerne fekale indikatorbakterier for å bestemme skjellenes rensetid. Komiteen anbefalte også å bruke *E. coli* framfor fekale koliforme bakterier for å angi fekal forurensning i områder hvor det høstes skjell, når det anvendes indikatorbakterier.Vitenskapskomiteen for næringsmidler avgav 27. februar 2002 en uttalelse om spesifikasjoner for gelatin med hensyn til forbrukernes helse. Komiteen konkluderte med at de mikrobiologiske kriteriene fastsatt i kapittel 4 i vedlegg II til rådsdirektiv [92/118/EØF](eu/31992l0118) av 17. desember 1992 om fastsettelse av krav til dyrehelse og folkehelse ved handel innenfor Fellesskapet med og innførsel til Fellesskapet av produkter som ikke omfattes av nevnte krav fastsatt i særlige fellesskapsregler nevnt i vedlegg A avsnitt I i direktiv [89/662/EØF](eu/31989l0662*) og, med hensyn til sykdomsframkallende smittestoffer, i direktiv [90/425/EØF](eu/31990l0425),6 var overdrevne med hensyn til forbrukernes helse, og vurderte det som tilstrekkelig å anvende et obligatorisk mikrobiologisk kriterium utelukkende for salmonella.Vitenskapskomiteen for veterinære tiltak knyttet til folkehelsen avgav 21. og 22. januar 2003 en uttalelse om verotoksinproduserende *E. coli* (VTEC) i næringsmidler. I uttalelsen konkluderte komiteen med at det er lite sannsynlig at anvendelse av en mikrobiologisk standard for VTEC O157 i sluttproduktet vil redusere den tilhørende risikoen for forbrukerne nevneverdig. Mikrobiologiske retningslinjer som har som mål å redusere fekal forurensning i næringsmiddelkjeden, kan derimot bidra til å redusere risikoene for folkehelsen, herunder VTEC. Vitenskapskomiteen for veterinære tiltak knyttet til folkehelsen identifiserte følgende næringsmiddelkategorier der VTEC utgjør en fare for folkehelsen: rått eller for lite kokt eller stekt storfekjøtt og muligens kjøtt fra andre drøvtyggere, kvernet kjøtt og fermentert storfekjøtt og produkter basert på fermentert storfekjøtt, rå melk og rå melkeprodukter, friske produkter, særlig spirer og upasteurisert frukt- og grønnsaksjuice.Vitenskapskomiteen for veterinære tiltak knyttet til folkehelsen avgav 26. og 27. mars 2003 en uttalelse om enterotoksiner framkalt av stafylokokker i melkeprodukter, særlig i ost. Komiteen anbefalte å revidere kriteriene for koagulasepositive stafylokokker i ost, rå melk beregnet på foredling, samt i melkepulver. Det bør videre fastsettes kriterier for enterotoksiner framkalt av stafylokokker i ost og melkepulver.Vitenskapskomiteen for veterinære tiltak knyttet til folkehelsen avgav 14. og 15. april 2003 en uttalelse om salmonella i næringsmidler. I henhold til uttalelsen omfatter de næringsmiddelkategoriene som muligens utgjør en stor risiko for folkehelsen, rått kjøtt og enkelte produkter som skal spises rå, fjørfekjøttprodukter som er rå eller for lite kokt eller stekt, egg og produkter som inneholder rå egg, upasteurisert melk og enkelte produkter av upasteurisert melk. Spirer og upasteurisert fruktjuice kan også utgjøre en risiko. Komiteen anbefalte at vedtaket om behovet for mikrobiologiske kriterier gjøres på grunnlag av kriterienes evne til å verne forbrukerne, og om det er mulig å gjennomføre vedtaket.Vitenskapsgruppen for biologiske farer under Den europeiske myndighet for næringsmiddeltrygghet (EFSA) avgav 9. september 2004 en uttalelse om mikrobiologiske farer i morsmelkerstatninger og tilskuddsblandinger. Vitenskapsgruppen konkluderte med at *Salmonella* og *Enterobacter sakazakii* er de mikroorganismene som skaper flest problemer i morsmelkerstatninger, tilskuddsblandinger til spesielle medisinske formål og tilskuddsblandinger. Forekomsten av disse sykdomsframkallende mikroorganismene utgjør en betydelig risiko dersom forholdene etter rekonstituering tillater formering. Enterobacteriaceae, som forekommer hyppigere, kan anvendes som en risikoindikator. EFSA har anbefalt overvåking og undersøkelse av enterobacteriaceae både i produksjonsmiljøet og i sluttproduktet. I tillegg til sykdomsframkallende arter omfatter imidlertid enterobacteriaceae-familien også arter som opptrer i miljøet, og disse opptrer ofte i næringsmidlenes produksjonsmiljø uten at de medfører noen helsefare. Enterobacteriaceae-familien kan derfor anvendes til rutineovervåking, og dersom enterobacteriaceae forekommer, kan det igangsettes undersøkelse av spesifikke sykdomsframkallende mikroorganismer.For mange næringsmidler er det ennå ikke fastsatt internasjonale retningslinjer for mikrobiologiske kriterier. Kommisjonen har imidlertid fulgt Codex Alimentarius' retningslinjer «Principles for the establishment and application of microbiological criteria for foods CAC/GL 21 – 1997», samt rådene fra Vitenskapskomiteen for veterinære tiltak knyttet til folkehelsen og Vitenskapskomiteen for næringsmidler, for å fastsette mikrobiologiske kriterier. Det er tatt hensyn til eksisterende Codex-spesifikasjoner for tørkede melkeprodukter, barnemat, samt kriteriet for histamin som får anvendelse på visse fiskeprodukter og fiskerivarer. Handelen bør dra nytte av at det vedtas fellesskapskriterier, ettersom det blir fastsatt harmoniserte mikrobiologiske krav for næringsmidler som erstatter nasjonale kriterier.De mikrobiologiske kriteriene som ble fastsatt for visse kategorier av næringsmidler av animalsk opprinnelse i direktiver som ble opphevet ved europaparlaments- og rådsdirektiv [2004/41/EF](eu/32004l0041*) av 21. april 2004 om oppheving av visse direktiver om næringsmiddelhygiene og hygieneregler for produksjon og omsetning av visse produkter av animalsk opprinnelse beregnet på konsum, og om endring av rådsdirektiv [89/662/EØF](eu/31989l0662*) og [92/118/EØF](eu/31992l0118) samt rådsvedtak [95/408/EF](eu/31995d0408),7 bør revideres, og det bør fastsettes enkelte nye kriterier på grunnlag av vitenskapelige råd.De mikrobiologiske kriteriene fastsatt i kommisjonsvedtak [93/51/EØF](eu/31993d0051) av 15. desember 1992 om mikrobiologiske kriterier for produksjon av kokte krepsdyr og bløtdyr8 er innarbeidet i denne forordning. Nevnte vedtak bør derfor oppheves. Ettersom kommisjonsvedtak [2001/471/EF](eu/32001d0471) av 8. juni 2001 om fastsettelse av regler for den regelmessige kontrollen av den alminnelige hygienen, som skal foretas av den driftsansvarlige ved en bedrift i samsvar med direktiv [64/433/EØF](eu/31964l0433*) om hygienekrav til produksjon og omsetning av ferskt kjøtt og direktiv [71/118/EØF](eu/31971l0118*) om helseproblemer ved produksjon og markedsføring av ferskt fjørfekjøtt,9 er opphevet med virkning fra 1. januar 2006, bør mikrobiologiske kriterier for skrotter innarbeides i denne forordning.Produsenten eller fabrikanten av et næringsmiddel må avgjøre om det kan spises slik det er, uten koking eller steking eller annen tilberedning for å sikre at det er trygt og at det oppfyller de mikrobiologiske kriteriene. I samsvar med artikkel 3 i europaparlaments- og rådsdirektiv [2000/13/EF](eu/32000l0013*) av 20. mars 2000 om tilnærming av medlemsstatenes lovgivning om merking og presentasjon av samt reklamering for næringsmidler,10 er det nødvendig med en bruksanvisning på næringsmiddelets etikett dersom forsvarlig bruk av næringsmiddelet ellers ikke er mulig. Driftsansvarlige for næringsmiddelforetak må ta hensyn til slike bruksanvisninger når de skal fastsette hensiktsmessig prøvetakingsfrekvens for undersøkelse på grunnlag av mikrobiologiske kriterier.Prøvetaking fra produksjons- og foredlingsmiljøet kan være et nyttig redskap for å identifisere og forebygge forekomst av sykdomsframkallende mikroorganismer i næringsmidler.Driftsansvarlige for næringsmiddelforetak må selv avgjøre hvor ofte det er nødvendig å foreta prøvetaking og prøving innenfor rammen av sine framgangsmåter basert på HACCP-prinsipper og andre framgangsmåter for hygienekontroll. I enkelte tilfeller kan det imidlertid være nødvendig å fastsette harmoniserte prøvetakingsfrekvenser på fellesskapsplan, særlig for å sikre at kontrollnivået er likt i hele Fellesskapet.Prøvingsresultatene avhenger av den analysemetoden som benyttes, og en gitt referansemetode bør derfor knyttes til hvert mikrobiologisk kriterium. Driftsansvarlige for næringsmiddelforetak bør imidlertid ha anledning til å bruke andre analysemetoder enn referansemetodene, særlig raskere metoder, så lenge bruken av disse alternative metodene gir likeverdige resultater. Det er dessuten nødvendig å fastsette en prøvetakingsplan for hvert kriterium for å sikre en harmonisert gjennomføring. Det er likevel nødvendig å tillate bruk av andre prøvetakings- og prøvingsordninger, herunder bruk av alternative indikatororganismer dersom disse ordningene kan garantere samme næringsmiddeltrygghet.Utviklingstrekk i prøvingsresultatene skal analyseres, siden de kan avdekke uønsket utvikling i framstillingsprosessen og gi den driftsansvarlige for næringsmiddelforetaket anledning til å treffe korrigerende tiltak før prosessen kommer ut av kontroll.De mikrobiologiske kriteriene fastsatt i denne forordning, bør kunne gjennomgås på nytt og eventuelt endres eller suppleres for å ta hensyn til utviklingen innen næringsmiddeltrygghet og næringsmiddelmikrobiologi. Dette omfatter vitenskapelige, teknologiske og metodologiske framskritt, endringer av prevalens- og forurensningsnivåer, endringer i gruppen av utsatte forbrukere, samt eventuelle resultater fra risikovurderinger.Det bør særlig fastsettes kriterier for sykdomsframkallende virus i levende muslinger når analysemetodene er tilstrekkelig utviklet. Det er også behov for å utvikle pålitelige metoder for andre mikrobielle farer, for eksempel *Vibrio parahaemolyticus*.Det er godtgjort at gjennomføring av kontrollprogrammer kan bidra betydelig til å redusere prevalensen av salmonella hos produksjonsdyr og produkter av disse. Formålet med europaparlaments- og rådsforordning [(EF) nr. 2160/2003](eu/32003r2160) av 17. november 2003 om kontroll av salmonella og andre spesifiserte zoonotiske smittestoffer som overføres gjennom næringsmidler,11 er å sikre at det treffes korrekte og virkningsfulle tiltak for å bekjempe salmonella på relevante nivåer i næringsmiddelkjeden. Kriterier for kjøtt og kjøttprodukter skal ta hensyn til forventet bedring i salmonellasituasjonen på primærproduksjonsnivå.For enkelte av kriteriene for næringsmiddeltrygghet bør medlemsstatene gis et midlertidig unntak som gir dem anledning til å oppfylle mindre strenge kriterier, forutsatt at næringsmidlene bare omsettes på det nasjonale markedet. Medlemsstatene skal underrette Kommisjonen og andre medlemsstater når de benytter seg av dette midlertidige unntaket.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for næringsmiddelkjeden og dyrehelsen –
+
+1 Ordlyden i fortalen er ikke EØS-tilpasset, jf. EØS-avtalens protokoll 1 nr.1. Fortalen er bare relevant i den grad den kan bidra til en korrekt tolkning av bestemmelsene i rettsaktene innen for rammen av EØS-avtalen.
+
+2 EUT L 139 av 30.4.2004, s. 1, rettet i EUT L 226 av 25.6.2004, s. 3.
+
+3 EFT L 31 av 1.2.2002, s. 1.Forordningen endret ved forordning [(EF) nr. 1642/2003](eu/32003r1642) (EUT L 245 av 29.9.2003, s. 4).
+
+4 EUT L 165 av 30.4.2004, s. 1, rettet i EUT L 191 av 28.5.2004, s. 1.
+
+5 SANCO/1252/2001. Diskusjonsnotat om strategien for fastsettelse av mikrobiologiske kriterier for næringsmidler i Fellesskapets regelverk, s. 34.
+
+6 EFT L 62 av 15.3.1993, s. 49. Direktivet sist endret ved kommisjonsforordning [(EF) nr. 445/2004](eu/32004r0445) (EUT L 72 av 11.3.2004, s. 60).
+
+7 EUT L 157 av 30.4.2004, s. 33, rettet i EUT L 195 av 2.6.2004, s. 12.
+
+8 EFT L 13 av 21.1.1993, s. 11.
+
+9 EFT L 165 av 21.6.2001, s. 48. Vedtaket endret ved vedtak [2004/379/EF](eu/32004d0379*) (EUT L 144 av 30.4.2004, s. 1).
+
+10 EFT L 109 av 6.5.2000, s. 29. Direktivet sist endret ved direktiv [2003/89/EF](eu/32003l0089) (EUT L 308 av 25.11.2003, s. 15).
+
+11 EUT L 325 av 12.12.2003, s. 1.
+
+VEDTATT DENNE FORORDNING: ]
 
 ### Artikkel 1. Formål og virkeområde
 
@@ -703,57 +845,67 @@ Ved denne forordning fastsettes mikrobiologiske kriterier for visse mikroorganis
 
 Denne forordning får anvendelse med forbehold for andre særlige bestemmelser om kontroll av mikroorganismer fastsatt i *EØS-regelverket*, særlig helsestandarder for næringsmidler fastsatt i europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853*),1 regler for parasitter fastsatt i europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854*),2 og de mikrobiologiske kriteriene fastsatt i rådsdirektiv [80/777/EØF](eu/31980l0777).3
 
+1 EUT L 139 av 30.4.2004, s. 55, rettet i EUT L 226 av 25.6.2004, s. 22.2 EUT L 139 av 30.4.2004, s. 206, rettet i EUT L 226 av 25.6.2004, s. 83.3 EFT L 229 av 30.8.1980, s. 1.
+
 ### Artikkel 2. Definisjoner
 
-I denne forordning menes med:«mikroorganismer»: bakterier, virus, gjær, mugg, alger, parasittære protozoer, mikroskopiske parasittære helminter og toksiner og metabolitter av disse,«mikrobiologisk kriterium»: et kriterium som definerer når et produkt, et parti næringsmidler eller en prosess kan aksepteres, basert på fravær av, forekomst av eller antall mikroorganismer, og/eller mengden av toksiner/metabolitter av disse, per enhet(er) masse, volum, areal eller parti,«kriterium for næringsmiddeltrygghet»: et kriterium som definerer når et produkt eller et parti næringsmidler kan aksepteres, og som gjelder for produkter som er omsatt,«hygienekriterium for prosessen»: et kriterium som angir når produksjonsprosessen fungerer tilfredsstillende. Et slikt kriterium gjelder ikke for produkter som er omsatt på markedet. Kriteriet fastsetter en veiledende grenseverdi for forurensning, og ved overskridelse av denne kreves det korrigerende tiltak for at hygienen i prosessen fortsatt skal være i samsvar med næringsmiddelregelverket,«parti»: en gruppe eller en serie identifiserbare produkter som er framstilt i en gitt prosess under tilnærmet like forhold og produsert på et gitt sted innenfor en bestemt produksjonsperiode,«holdbarhetstid»: enten tidsrommet før siste forbruksdato eller holdbarhetsgrensen, som definert i henholdsvis artikkel 9 og 10 i direktiv [2000/13/EF](eu/32000l0013*),«spiseferdige næringsmidler»: næringsmidler som produsenten eller fabrikanten har framstilt med henblikk på direkte konsum uten at koking eller annen tilberedning er nødvendig for å fjerne, eller redusere til et akseptabelt nivå, uønskede mikroorganismer,«spedbarnsmat»: næringsmidler som særlig er beregnet på spedbarn, som definert i rådsdirektiv [91/321/EØF](eu/31991l0321),1«næringsmiddel til spesielle medisinske formål»: næringsmidler til spesielle medisinske formål, som definert i rådsdirektiv [1999/21/EØF](eu/31999l0021*),2«prøve»: et sett med én eller flere enheter eller en porsjon av stoff utvalgt med forskjellige metoder i en populasjon eller i en stor mengde stoff, som har som mål å gi opplysninger om en gitt egenskap ved den populasjonen eller det stoffet som undersøkes, og å danne et grunnlag for en beslutning om populasjonen eller stoffet, eller om prosessen som har framstilt den/det,«representativ prøve»: en prøve der egenskapene i det partiet som prøven kommer fra, er bevart. Dette gjelder særlig for en tilfeldig prøve der hver enhet eller del i partiet har samme sannsynlighet for å utgjøre prøven,«overholdelse av mikrobiologiske kriterier»: oppnåelse av tilfredsstillende eller akseptable resultater nevnt i vedlegg I, ved prøving mot de grenseverdiene som er fastsatt for kriteriene, gjennom å ta prøver, foreta analyser og gjennomføre korrigerende tiltak i samsvar med næringsmiddelregelverket og retningslinjene fra vedkommende myndighet.► **M4**definisjonen av «spirer» i artikkel 2 bokstav a) i kommisjonens gjennomføringsforordning [(EU) nr. 208/2013](eu/32013r0208) av 11. mars om krav til sporbarhet for spirer og frø beregnet på produksjon av spirer.*◄ **M4**► **M9**«en lang rekke næringsmidler», som omhandlet i EN ISO 16140-2, næringsmidler som definert i artikkel 2 første ledd i europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178);**«uavhengig sertifiseringsorgan» et organ som er uavhengig av organisasjonen som utarbeider eller distribuerer den alternative metoden, og som i form av et sertifikat skriftlig bekrefter at den validerte alternative metoden oppfyller kravene i EN ISO 16140-2,«produsentens sikring av produksjonsprosessen» en produksjonsprosess der styringssystemet sikrer at den validerte alternative metoden hele tiden har egenskapene som kreves av EN ISO 16140-2, og sikrer at feil og mangler i den alternative metoden unngås.
+I denne forordning menes med:«mikroorganismer»: bakterier, virus, gjær, mugg, alger, parasittære protozoer, mikroskopiske parasittære helminter og toksiner og metabolitter av disse,«mikrobiologisk kriterium»: et kriterium som definerer når et produkt, et parti næringsmidler eller en prosess kan aksepteres, basert på fravær av, forekomst av eller antall mikroorganismer, og/eller mengden av toksiner/metabolitter av disse, per enhet(er) masse, volum, areal eller parti,«kriterium for næringsmiddeltrygghet»: et kriterium som definerer når et produkt eller et parti næringsmidler kan aksepteres, og som gjelder for produkter som er omsatt,«hygienekriterium for prosessen»: et kriterium som angir når produksjonsprosessen fungerer tilfredsstillende. Et slikt kriterium gjelder ikke for produkter som er omsatt på markedet. Kriteriet fastsetter en veiledende grenseverdi for forurensning, og ved overskridelse av denne kreves det korrigerende tiltak for at hygienen i prosessen fortsatt skal være i samsvar med næringsmiddelregelverket,«parti»: en gruppe eller en serie identifiserbare produkter som er framstilt i en gitt prosess under tilnærmet like forhold og produsert på et gitt sted innenfor en bestemt produksjonsperiode,«holdbarhetstid»: enten tidsrommet før siste forbruksdato eller holdbarhetsgrensen, som definert i henholdsvis artikkel 9 og 10 i direktiv [2000/13/EF](eu/32000l0013*),«spiseferdige næringsmidler»: næringsmidler som produsenten eller fabrikanten har framstilt med henblikk på direkte konsum uten at koking eller annen tilberedning er nødvendig for å fjerne, eller redusere til et akseptabelt nivå, uønskede mikroorganismer,«spedbarnsmat»: næringsmidler som særlig er beregnet på spedbarn, som definert i rådsdirektiv [91/321/EØF](eu/31991l0321),1«næringsmiddel til spesielle medisinske formål»: næringsmidler til spesielle medisinske formål, som definert i rådsdirektiv [1999/21/EØF](eu/31999l0021*),2«prøve»: et sett med én eller flere enheter eller en porsjon av stoff utvalgt med forskjellige metoder i en populasjon eller i en stor mengde stoff, som har som mål å gi opplysninger om en gitt egenskap ved den populasjonen eller det stoffet som undersøkes, og å danne et grunnlag for en beslutning om populasjonen eller stoffet, eller om prosessen som har framstilt den/det,«representativ prøve»: en prøve der egenskapene i det partiet som prøven kommer fra, er bevart. Dette gjelder særlig for en tilfeldig prøve der hver enhet eller del i partiet har samme sannsynlighet for å utgjøre prøven,«overholdelse av mikrobiologiske kriterier»: oppnåelse av tilfredsstillende eller akseptable resultater nevnt i vedlegg I, ved prøving mot de grenseverdiene som er fastsatt for kriteriene, gjennom å ta prøver, foreta analyser og gjennomføre korrigerende tiltak i samsvar med næringsmiddelregelverket og retningslinjene fra vedkommende myndighet.► **M4**definisjonen av «spirer» i artikkel 2 bokstav a) i kommisjonens gjennomføringsforordning [(EU) nr. 208/2013](eu/32013r0208) av 11. mars om krav til sporbarhet for spirer og frø beregnet på produksjon av spirer.\*◄ **M4**► **M9**«en lang rekke næringsmidler», som omhandlet i EN ISO 16140-2, næringsmidler som definert i artikkel 2 første ledd i europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178);\*\*«uavhengig sertifiseringsorgan» et organ som er uavhengig av organisasjonen som utarbeider eller distribuerer den alternative metoden, og som i form av et sertifikat skriftlig bekrefter at den validerte alternative metoden oppfyller kravene i EN ISO 16140-2,«produsentens sikring av produksjonsprosessen» en produksjonsprosess der styringssystemet sikrer at den validerte alternative metoden hele tiden har egenskapene som kreves av EN ISO 16140-2, og sikrer at feil og mangler i den alternative metoden unngås.
 
-1. «krypdyrkjøtt» krypdyrkjøtt som fastsatt i artikkel 2 nr. 16 i delegert kommisjonsforordning [(EU) 2019/625](eu/32019r0625*);***
+► **M10**
+
+1. «krypdyrkjøtt» krypdyrkjøtt som fastsatt i artikkel 2 nr. 16 i delegert kommisjonsforordning [(EU) 2019/625](eu/32019r0625*);\*\*\*
+
+◄ **M10**
+
+◄ **M9**
+
+1 EFT L 175 av 4.7.1991, s. 35.2 EFT L 91 av 7.4.1999, s. 29.\* ►**M4** EUT L 68 av 12.3.2013, s. 16. ◄**M4**\*\* ►**M9** Europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178) av 28. januar 2002 om fastsettelse av allmenne prinsipper og krav i næringsmiddelregelverket, om opprettelse av Den europeiske myndighet for næringsmiddeltrygghet og om fastsettelse av framgangsmåter i forbindelse med næringsmiddeltrygghet (EFT L 31 av 1.2.2002, s. 1). ◄**M9**\*\*\* ►**M10** Delegert kommisjonsforordning [(EU) 2019/625](eu/32019r0625*) av 4. mars 2019 om utfylling av europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*) med hensyn til krav ved innførsel til Unionen av forsendelser av visse dyr og varer beregnet på konsum (EUT L 131 av 17.5.2019, s. 18). ◄**M10**
 
 ### Artikkel 3. Allmenne krav
 
-1. Driftsansvarlige for næringsmiddelforetak skal sikre at næringsmidlene oppfyller de relevante mikrobiologiske kriteriene som er fastsatt i vedlegg I. For dette formål skal driftsansvarlige for næringsmiddelforetak i alle ledd i produksjonen, foredlingen og distribusjonen av næringsmidler, herunder detaljhandel, treffe tiltak innenfor rammen av egne framgangsmåter basert på HACCP-prinsipper, og samtidig gjennomføre god hygienepraksis, for å sikre at:forsyning, håndtering og foredling av råvarer og næringsmidler under deres kontroll blir utført slik at hygienekriteriene for prosessen blir oppfylt,de kriteriene for næringsmiddeltrygghet som gjelder for hele holdbarhetstiden til produktene, oppfylles under rimelig forutsigbare vilkår for distribusjon, lagring og bruk.
+1\. Driftsansvarlige for næringsmiddelforetak skal sikre at næringsmidlene oppfyller de relevante mikrobiologiske kriteriene som er fastsatt i vedlegg I. For dette formål skal driftsansvarlige for næringsmiddelforetak i alle ledd i produksjonen, foredlingen og distribusjonen av næringsmidler, herunder detaljhandel, treffe tiltak innenfor rammen av egne framgangsmåter basert på HACCP-prinsipper, og samtidig gjennomføre god hygienepraksis, for å sikre at:forsyning, håndtering og foredling av råvarer og næringsmidler under deres kontroll blir utført slik at hygienekriteriene for prosessen blir oppfylt,de kriteriene for næringsmiddeltrygghet som gjelder for hele holdbarhetstiden til produktene, oppfylles under rimelig forutsigbare vilkår for distribusjon, lagring og bruk.
 
-2. Driftsansvarlige for næringsmiddelforetak som har ansvaret for å framstille produktene, skal om nødvendig gjennomføre undersøkelser i samsvar med vedlegg II for å kontrollere om kriteriene oppfylles gjennom hele holdbarhetstiden. Dette gjelder særlig for spiseferdige næringsmidler der *Listeria monocytogenes* kan vokse, og som kan innebære risiko for folkehelsen gjennom *Listeria monocytogenes*.Næringsmiddelforetak kan samarbeide om å foreta slike undersøkelser.Retningslinjer for å utføre slike undersøkelser kan innlemmes i retningslinjene for god praksis nevnt i artikkel 7 i forordning [(EF) nr. 852/2004](eu/32004r0852*).
+2\. Driftsansvarlige for næringsmiddelforetak som har ansvaret for å framstille produktene, skal om nødvendig gjennomføre undersøkelser i samsvar med vedlegg II for å kontrollere om kriteriene oppfylles gjennom hele holdbarhetstiden. Dette gjelder særlig for spiseferdige næringsmidler der *Listeria monocytogenes* kan vokse, og som kan innebære risiko for folkehelsen gjennom *Listeria monocytogenes*.Næringsmiddelforetak kan samarbeide om å foreta slike undersøkelser.Retningslinjer for å utføre slike undersøkelser kan innlemmes i retningslinjene for god praksis nevnt i artikkel 7 i forordning [(EF) nr. 852/2004](eu/32004r0852*).
 
 ### Artikkel 4. Prøving mot kriteriene
 
-1. Driftsansvarlige for næringsmiddelforetak skal utføre hensiktsmessig prøving mot de mikrobiologiske kriteriene som er fastsatt i vedlegg I, når de validerer eller kontrollerer om deres framgangsmåter basert på HACCP-prinsippene og god hygienepraksis fungerer korrekt.
+1\. Driftsansvarlige for næringsmiddelforetak skal utføre hensiktsmessig prøving mot de mikrobiologiske kriteriene som er fastsatt i vedlegg I, når de validerer eller kontrollerer om deres framgangsmåter basert på HACCP-prinsippene og god hygienepraksis fungerer korrekt.
 
-2. Driftsansvarlige for næringsmiddelforetak skal beslutte egnet prøvetakingsfrekvens, unntatt når det i vedlegg I er fastsatt spesifikke prøvetakingsfrekvenser, som i så tilfelle fastsetter at prøvetakingsfrekvensen skal være minst som fastsatt i vedlegg I. Driftsansvarlige for næringsmiddelforetak skal treffe en slik beslutning innenfor rammen av framgangsmåtene basert på HACCP-prinsippene og god hygienepraksis, idet det tas hensyn til bruksanvisningene for næringsmidlene.Prøvetakingsfrekvensen kan tilpasses næringsmiddelforetakenes karakter og størrelse, forutsatt at næringsmiddeltryggheten ivaretas.
+2\. Driftsansvarlige for næringsmiddelforetak skal beslutte egnet prøvetakingsfrekvens, unntatt når det i vedlegg I er fastsatt spesifikke prøvetakingsfrekvenser, som i så tilfelle fastsetter at prøvetakingsfrekvensen skal være minst som fastsatt i vedlegg I. Driftsansvarlige for næringsmiddelforetak skal treffe en slik beslutning innenfor rammen av framgangsmåtene basert på HACCP-prinsippene og god hygienepraksis, idet det tas hensyn til bruksanvisningene for næringsmidlene.Prøvetakingsfrekvensen kan tilpasses næringsmiddelforetakenes karakter og størrelse, forutsatt at næringsmiddeltryggheten ivaretas.
 
 ### Artikkel 5. Særlige regler for prøving og prøvetaking
 
-1. De analysemetodene og prøvetakingsplanene og -metodene som er oppført i vedlegg I, skal benyttes som referansemetoder.
+1\. De analysemetodene og prøvetakingsplanene og -metodene som er oppført i vedlegg I, skal benyttes som referansemetoder.
 
-2. Det skal tas prøver fra foredlingsområder og utstyr som benyttes i produksjonen av næringsmidler, når det er nødvendig med slik prøvetaking for å sikre at kriteriene blir oppfylt. Ved slik prøvetaking skal ISO-standard 18593 benyttes som referansemetode.Driftsansvarlige for næringsmiddelforetak som framstiller spiseferdige næringsmidler som kan innebære risiko for folkehelsen gjennom *Listeria monocytogenes*, skal som et ledd i sin prøvetakingsplan, ta prøver fra foredlingsområdene og utstyret for å avdekke forekomst av *Listeria monocytogenes*.► **M9**Driftsansvarlige for næringsmiddelforetak som framstiller morsmelkerstatning i pulverform eller næringsmidler i pulverform til spesielle medisinske formål beregnet på spedbarn under seks måneder, og som kan innebære en risiko for *Cronobacter* spp., skal som et ledd i sin prøvetakingsplan overvåke foredlingsområdene og utstyret for å avdekke forekomst av Enterobacteriaceae.◄ **M9**
+2\. Det skal tas prøver fra foredlingsområder og utstyr som benyttes i produksjonen av næringsmidler, når det er nødvendig med slik prøvetaking for å sikre at kriteriene blir oppfylt. Ved slik prøvetaking skal ISO-standard 18593 benyttes som referansemetode.Driftsansvarlige for næringsmiddelforetak som framstiller spiseferdige næringsmidler som kan innebære risiko for folkehelsen gjennom *Listeria monocytogenes*, skal som et ledd i sin prøvetakingsplan, ta prøver fra foredlingsområdene og utstyret for å avdekke forekomst av *Listeria monocytogenes*.► **M9**Driftsansvarlige for næringsmiddelforetak som framstiller morsmelkerstatning i pulverform eller næringsmidler i pulverform til spesielle medisinske formål beregnet på spedbarn under seks måneder, og som kan innebære en risiko for *Cronobacter* spp., skal som et ledd i sin prøvetakingsplan overvåke foredlingsområdene og utstyret for å avdekke forekomst av Enterobacteriaceae.◄ **M9**
 
-3. Antall prøveenheter i prøvetakingsplanene oppført i vedlegg I, kan reduseres dersom den driftsansvarlige for næringsmiddelforetaket kan framlegge historisk dokumentasjon som viser at vedkommende benytter effektive HACCP-baserte framgangsmåter.
+3\. Antall prøveenheter i prøvetakingsplanene oppført i vedlegg I, kan reduseres dersom den driftsansvarlige for næringsmiddelforetaket kan framlegge historisk dokumentasjon som viser at vedkommende benytter effektive HACCP-baserte framgangsmåter.
 
-4. Dersom formålet med prøvingen er å foreta en særlig vurdering av om et bestemt parti næringsmidler eller en prosess kan aksepteres, skal i det minste prøvetakingsplanene oppført i vedlegg I, overholdes.
+4\. Dersom formålet med prøvingen er å foreta en særlig vurdering av om et bestemt parti næringsmidler eller en prosess kan aksepteres, skal i det minste prøvetakingsplanene oppført i vedlegg I, overholdes.
 
-5. Driftsansvarlige for næringsmiddelforetak kan benytte andre framgangsmåter for prøvetaking og prøving dersom de kan godtgjøre overfor vedkommende myndighet at disse framgangsmåtene gir minst likeverdige garantier. Disse framgangsmåtene kan omfatte bruk av alternative prøvetakingssteder og analyser av utviklingstrekk.Prøving mot alternative mikroorganismer og tilhørende mikrobiologiske grenseverdier, samt prøving av ikke-mikrobiologiske analytter, skal tillates bare for hygienekriterier for prosessen.► **M9**Bruk av alternative analysemetoder godtas forutsatt at de ervalidert på grunnlag av den spesifikke referansemetoden fastsatt i vedlegg I, i samsvar med protokollen fastsatt i standard EN ISO 16140-2, ogvalidert for næringsmiddelkategorien angitt i det relevante mikrobiologiske kriteriet fastsatt i vedlegg I, som den driftsansvarlige for næringsmiddelforetaket kontrollerer oppfyllelsen av, eller er validert for en lang rekke næringsmidler som omhandlet i EN ISO 16140-2.Opphavsrettslig beskyttede metoder kan benyttes som alternative analysemetoder, forutsatt at de ervalidert, i samsvar med protokollen fastsatt i standard EN ISO 16140-2, på grunnlag av den spesifikke referansemetoden for kontroll av oppfyllelse av de mikrobiologiske kriteriene fastsatt i vedlegg I, som fastsatt i tredje ledd, ogsertifisert av et uavhengig sertifiseringsorgan.Sertifiseringen av den opphavsrettslig beskyttede metoden nevnt i annet strekpunkt fjerde ledd skalminst hvert femte år tas opp til ny vurdering gjennom framgangsmåter for fornyelse,vise at produsentens sikring av produksjonsprosessen er blitt evaluert, oginneholde et sammendrag av eller en henvisning til resultatene av valideringen av den opphavsrettslig beskyttede metoden og en erklæring om kvalitetsstyringen av metodens produksjonsprosess.Driftsansvarlige for næringsmiddelforetak kan benytte andre analysemetoder enn dem som er validert og sertifisert som fastsatt i tredje, fjerde og femte ledd, dersom slike metoder er blitt validert i samsvar med internasjonalt anerkjente protokoller og vedkommende myndighet har godkjent bruken av dem.◄ **M9**
+5\. Driftsansvarlige for næringsmiddelforetak kan benytte andre framgangsmåter for prøvetaking og prøving dersom de kan godtgjøre overfor vedkommende myndighet at disse framgangsmåtene gir minst likeverdige garantier. Disse framgangsmåtene kan omfatte bruk av alternative prøvetakingssteder og analyser av utviklingstrekk.Prøving mot alternative mikroorganismer og tilhørende mikrobiologiske grenseverdier, samt prøving av ikke-mikrobiologiske analytter, skal tillates bare for hygienekriterier for prosessen.► **M9**Bruk av alternative analysemetoder godtas forutsatt at de ervalidert på grunnlag av den spesifikke referansemetoden fastsatt i vedlegg I, i samsvar med protokollen fastsatt i standard EN ISO 16140-2, ogvalidert for næringsmiddelkategorien angitt i det relevante mikrobiologiske kriteriet fastsatt i vedlegg I, som den driftsansvarlige for næringsmiddelforetaket kontrollerer oppfyllelsen av, eller er validert for en lang rekke næringsmidler som omhandlet i EN ISO 16140-2.Opphavsrettslig beskyttede metoder kan benyttes som alternative analysemetoder, forutsatt at de ervalidert, i samsvar med protokollen fastsatt i standard EN ISO 16140-2, på grunnlag av den spesifikke referansemetoden for kontroll av oppfyllelse av de mikrobiologiske kriteriene fastsatt i vedlegg I, som fastsatt i tredje ledd, ogsertifisert av et uavhengig sertifiseringsorgan.Sertifiseringen av den opphavsrettslig beskyttede metoden nevnt i annet strekpunkt fjerde ledd skalminst hvert femte år tas opp til ny vurdering gjennom framgangsmåter for fornyelse,vise at produsentens sikring av produksjonsprosessen er blitt evaluert, oginneholde et sammendrag av eller en henvisning til resultatene av valideringen av den opphavsrettslig beskyttede metoden og en erklæring om kvalitetsstyringen av metodens produksjonsprosess.Driftsansvarlige for næringsmiddelforetak kan benytte andre analysemetoder enn dem som er validert og sertifisert som fastsatt i tredje, fjerde og femte ledd, dersom slike metoder er blitt validert i samsvar med internasjonalt anerkjente protokoller og vedkommende myndighet har godkjent bruken av dem.◄ **M9**
 
 ### Artikkel 6. Krav til merking
 
-1. Når kravene som gjelder forekomst av *Salmonella* i kvernet kjøtt, tilberedt kjøtt og kjøttprodukter beregnet på å spises etter koking, steking eller lignende, fra alle arter oppført i vedlegg I, er oppfylt, skal produsenten tydelig merke de partiene av disse produktene som skal omsettes, slik at forbrukeren opplyses om at det er nødvendig å koke eller steke produktet grundig før det spises.
+1\. Når kravene som gjelder forekomst av *Salmonella* i kvernet kjøtt, tilberedt kjøtt og kjøttprodukter beregnet på å spises etter koking, steking eller lignende, fra alle arter oppført i vedlegg I, er oppfylt, skal produsenten tydelig merke de partiene av disse produktene som skal omsettes, slik at forbrukeren opplyses om at det er nødvendig å koke eller steke produktet grundig før det spises.
 
-2. Fra 1. januar 2010 kreves det ikke lenger merking som nevnt i nr. 1 av kvernet kjøtt, tilberedt kjøtt og kjøttprodukter av fjørfekjøtt.
+2\. Fra 1. januar 2010 kreves det ikke lenger merking som nevnt i nr. 1 av kvernet kjøtt, tilberedt kjøtt og kjøttprodukter av fjørfekjøtt.
 
 ### Artikkel 7. Utilfredsstillende resultater
 
-1. Dersom prøving mot kriteriene oppført i vedlegg I, gir utilfredsstillende resultater, skal driftsansvarlige for næringsmiddelforetak treffe de tiltakene som er fastsatt i nr. 2-4 i denne artikkel, samt andre korrigerende tiltak definert i deres HACCP-baserte framgangsmåter, og øvrige tiltak som er nødvendige for å verne forbrukernes helse.De skal dessuten treffe tiltak for å finne årsaken til de utilfredsstillende resultatene, slik at gjentakelse av uakseptabel mikrobiologisk forurensning kan forebygges. Slike tiltak kan omfatte endringer av de HACCP-baserte framgangsmåtene eller andre eksisterende tiltak for kontroll av næringsmiddelhygienen.
+1\. Dersom prøving mot kriteriene oppført i vedlegg I, gir utilfredsstillende resultater, skal driftsansvarlige for næringsmiddelforetak treffe de tiltakene som er fastsatt i nr. 2-4 i denne artikkel, samt andre korrigerende tiltak definert i deres HACCP-baserte framgangsmåter, og øvrige tiltak som er nødvendige for å verne forbrukernes helse.De skal dessuten treffe tiltak for å finne årsaken til de utilfredsstillende resultatene, slik at gjentakelse av uakseptabel mikrobiologisk forurensning kan forebygges. Slike tiltak kan omfatte endringer av de HACCP-baserte framgangsmåtene eller andre eksisterende tiltak for kontroll av næringsmiddelhygienen.
 
-2. Dersom prøving mot kriterier for næringsmiddeltrygghet oppført i kapittel 1 i vedlegg I gir utilfredsstillende resultater, skal produktet eller næringsmiddelpartiet trekkes tilbake eller kalles tilbake i samsvar med artikkel 19 i forordning [(EF) nr. 178/2002](eu/32002r0178). Produkter som omsettes og som ennå ikke har nådd detaljistnivået og ikke oppfyller kriteriene for næringsmiddeltrygghet, kan imidlertid underlegges ytterligere behandling som fjerner den aktuelle faren. Denne behandlingen kan bare utføres av andre driftsansvarlige for næringsmiddelforetak enn dem som opptrer på detaljistnivået.Den driftsansvarlige for et næringsmiddelforetak kan bruke partiet til andre formål enn dem det opprinnelig var beregnet på, forutsatt at dette ikke innebærer noen risiko for folke- eller dyrehelsen, og forutsatt at slik bruk er besluttet innenfor rammen av framgangsmåtene basert på HACCP-prinsippene og god hygienepraksis, og er godkjent av vedkommende myndighet.
+2\. Dersom prøving mot kriterier for næringsmiddeltrygghet oppført i kapittel 1 i vedlegg I gir utilfredsstillende resultater, skal produktet eller næringsmiddelpartiet trekkes tilbake eller kalles tilbake i samsvar med artikkel 19 i forordning [(EF) nr. 178/2002](eu/32002r0178). Produkter som omsettes og som ennå ikke har nådd detaljistnivået og ikke oppfyller kriteriene for næringsmiddeltrygghet, kan imidlertid underlegges ytterligere behandling som fjerner den aktuelle faren. Denne behandlingen kan bare utføres av andre driftsansvarlige for næringsmiddelforetak enn dem som opptrer på detaljistnivået.Den driftsansvarlige for et næringsmiddelforetak kan bruke partiet til andre formål enn dem det opprinnelig var beregnet på, forutsatt at dette ikke innebærer noen risiko for folke- eller dyrehelsen, og forutsatt at slik bruk er besluttet innenfor rammen av framgangsmåtene basert på HACCP-prinsippene og god hygienepraksis, og er godkjent av vedkommende myndighet.
 
-3. Et parti mekanisk utbeinet kjøtt (MSM) framstilt med teknikker nevnt i avsnitt V i [kapittel III](forskrift/2008-12-22-1623/kapiii) nr. 3 i vedlegg III til forordning [(EF) nr. 853/2004](eu/32004r0853*), og som har gitt utilfredsstillende resultater med hensyn til *Salmonella*-kriteriet, kan i næringsmiddelkjeden bare benyttes til å framstille varmebehandlede kjøttprodukter i virksomheter som er godkjent i samsvar med forordning [(EF) nr. 853/2004](eu/32004r0853*).
+3\. Et parti mekanisk utbeinet kjøtt (MSM) framstilt med teknikker nevnt i avsnitt V i [kapittel III](forskrift/2008-12-22-1623/kapiii) nr. 3 i vedlegg III til forordning [(EF) nr. 853/2004](eu/32004r0853*), og som har gitt utilfredsstillende resultater med hensyn til *Salmonella*-kriteriet, kan i næringsmiddelkjeden bare benyttes til å framstille varmebehandlede kjøttprodukter i virksomheter som er godkjent i samsvar med forordning [(EF) nr. 853/2004](eu/32004r0853*).
 
-4. Dersom resultatene med hensyn til hygienekriteriene for prosessen er utilfredsstillende, skal det treffes tiltak som fastsatt i vedlegg I kapittel 2.
+4\. Dersom resultatene med hensyn til hygienekriteriene for prosessen er utilfredsstillende, skal det treffes tiltak som fastsatt i vedlegg I kapittel 2.
 
 ### Artikkel 8. Midlertidig unntak
 
-1. Fram til senest 31. desember 2009 er det i henhold til artikkel 12 i forordning [(EF) nr. 852/2004](eu/32004r0852*) gitt et midlertidig unntak når det gjelder overholdelse av grenseverdien fastsatt i vedlegg I til denne forordning, for *Salmonella* i kvernet kjøtt, tilberedt kjøtt og kjøttprodukter som er beregnet på å spises kokt eller stekt, og som omsettes på det nasjonale markedet i en *EØS-stat*.
+1\. Fram til senest 31. desember 2009 er det i henhold til artikkel 12 i forordning [(EF) nr. 852/2004](eu/32004r0852*) gitt et midlertidig unntak når det gjelder overholdelse av grenseverdien fastsatt i vedlegg I til denne forordning, for *Salmonella* i kvernet kjøtt, tilberedt kjøtt og kjøttprodukter som er beregnet på å spises kokt eller stekt, og som omsettes på det nasjonale markedet i en *EØS-stat*.
 
-2. EØS-stater som benytter seg av denne muligheten, skal underrette *EFTAs overvåkingsorgan (ESA) og de andre EØS-statene om dette. EØS-staten* skal:garantere at det er truffet relevante tiltak, herunder merking og et særlig merke, som ikke kan forveksles med identifikasjonsmerket fastsatt i avsnitt I i vedlegg II til forordning [(EF) nr. 853/2004](eu/32004r0853*), for å sikre at unntaket gjelder bare for de aktuelle produktene når de omsettes på hjemmemarkedet, og at produkter som er ekspedert for handel innenfor *EØS*, oppfyller kriteriene fastsatt i vedlegg I,fastsette at de produktene som et slikt midlertidig unntak gjelder for, merkes tydelig med at de må kokes eller stekes grundig før de spises,forplikte seg til at høyst en av fem prøveenheter er positiv ved prøving mot *Salmonella*-kriteriet i henhold til artikkel 4, for at resultatet skal være akseptabelt med hensyn til det midlertidige unntaket.
+2\. EØS-stater som benytter seg av denne muligheten, skal underrette *EFTAs overvåkingsorgan (ESA) og de andre EØS-statene om dette. EØS-staten* skal:garantere at det er truffet relevante tiltak, herunder merking og et særlig merke, som ikke kan forveksles med identifikasjonsmerket fastsatt i avsnitt I i vedlegg II til forordning [(EF) nr. 853/2004](eu/32004r0853*), for å sikre at unntaket gjelder bare for de aktuelle produktene når de omsettes på hjemmemarkedet, og at produkter som er ekspedert for handel innenfor *EØS*, oppfyller kriteriene fastsatt i vedlegg I,fastsette at de produktene som et slikt midlertidig unntak gjelder for, merkes tydelig med at de må kokes eller stekes grundig før de spises,forplikte seg til at høyst en av fem prøveenheter er positiv ved prøving mot *Salmonella*-kriteriet i henhold til artikkel 4, for at resultatet skal være akseptabelt med hensyn til det midlertidige unntaket.
 
 ### Artikkel 9. Analyse av utviklingstrekk
 
@@ -783,101 +935,394 @@ Markos KYPRIANOU
 
 *Medlem av Kommisjonen*
 
+1 Ikrafttredelse for EFTA-statene vil skje i henhold til [EØS-komiteens beslutning nr. 137/2007](eu/22007d0137) artikkel 4.
+
 ### ► M1 Vedlegg I
 Mikrobiologiske kriterier for næringsmidler
 
 ### [Kapittel](forskrift/2008-12-22-1623/kap1) 1. Kriterier for næringsmiddeltrygghet
 
+| *Næringsmiddelkategori* | *Mikroorganismer/toksiner, metabolitter av disse* | *Prøvetakingsplan*1 |  | *Grenseverdier*2 |  | *Referansemetode for analyse*3 | *Ledd der kriteriet anvendes* |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | *n* | *c* | *m* | *M* |  |  |
+| 1.1. Spiseferdige næringsmidler beregnet på spedbarn og spiseferdige næringsmidler til spesielle medisinske formål4 | *Listeria monocytogenes* | 10 | 0 | ►**M9** Ikke påvist i ◄**M9** 25 g |  | EN/ISO 11290-1 | Produkter som omsettes innen holdbarhetstiden utløper |
+| ►**M11** 1.2 Andre spiseferdige næringsmidler der *L. monocytogenes* kan vokse, enn spiseferdige næringsmidler beregnet på spedbarn og til spesielle medisinske formål | *Listeria monocytogenes* | 5<br>5 | 0<br>0 | 100 kde/g5<br>Ikke påvist i 25 g7 |  | EN/ISO 11290-26<br>EN/ISO 11290-1 | Produkter som omsettes innen holdbarhetstiden utløper ◄**M11** |
+|  |  | 5 | 0 | ►**M9** Ikke påvist i ◄**M9** 25 g7 |  | EN/ISO 11290-1 | Mens næringsmiddelet fortsatt er under umiddelbar kontroll hos den driftsansvarlige for næringsmiddelforetaket som har framstilt det |
+| 1.3. Andre spiseferdige næringsmidler der *L. monocytogenes* ikke kan vokse, enn spiseferdige næringsmidler beregnet på spedbarn og til spesielle medisinske formål4 8 | *Listeria monocytogenes* | 5 | 0 | 100 kde/g |  | EN/ISO 11290-26 | Produkter som omsettes innen holdbarhetstiden utløper |
+| 1.4. Kvernet kjøtt og tilberedt kjøtt som er beregnet på å spises rått | *Salmonella* | 5 | 0 | ►**M9** Ikke påvist i ◄**M9** 25 g |  | ► **M9** EN ISO 6579-1 eller EN/ISO 6579 som er gyldig til 31.12.2021 ◄ **M9** | Produkt som omsettes innen holdbarhetstiden utløper |
+| ►**M2** 1.5. Kvernet kjøtt og tilberedt kjøtt fra fjørfe, som er beregnet på å spises kokt eller stekt | *Salmonella* | 5 | 0 | ►**M9** Ikke påvist i ◄**M9** 25 g |  | ► **M9** EN ISO 6579-1 eller EN/ISO 6579 som er gyldig til 31.12.2021 ◄ **M9** | Produkter som omsettes innen holdbarhetstiden utløper ◄**M2** |
+| 1.6. Kvernet kjøtt og tilberedt kjøtt fra andre arter enn fjørfe, som er beregnet på å spises kokt eller stekt | *Salmonella* | 5 | 0 | ►**M9** Ikke påvist i ◄**M9** 10 g |  | ► **M9** EN ISO 6579-1 eller EN/ISO 6579 som er gyldig til 31.12.2021 ◄ **M9** | Produkter som omsettes innen holdbarhetstiden utløper |
+| 1.7. Mekanisk utbeinet kjøtt (MSM)9 | *Salmonella* | 5 | 0 | ►**M9** Ikke påvist i ◄**M9** 10 g |  | ► **M9** EN ISO 6579-1 eller EN/ISO 6579 som er gyldig til 31.12.2021 ◄ **M9** | Produkter som omsettes innen holdbarhetstiden utløper |
+| 1.8. Kjøttprodukter som er beregnet på å spises rå, unntatt produkter der framstillingsprosessen eller produktets sammensetning fjerner salmonellarisikoen | *Salmonella* | 5 | 0 | ►**M9** Ikke påvist i ◄**M9** 25 g |  | ► **M9** EN ISO 6579-1 eller EN/ISO 6579 som er gyldig til 31.12.2021 ◄ **M9** | Produkter som omsettes innen holdbarhetstiden utløper |
+| ► **M2** 1.9. Kjøttprodukter fra fjørfe som er beregnet på å spises kokt eller stekt | *Salmonella* | 5 | 0 | ►**M9** Ikke påvist i ◄**M9** 25 g |  | ► **M9** EN ISO 6579-1 eller EN/ISO 6579 som er gyldig til 31.12.2021 ◄ **M9** | Produkter som omsettes innen holdbarhetstiden utløper ◄**M2** |
+| 1.10. Gelatin og kollagen | *Salmonella* | 5 | 0 | ►**M9** Ikke påvist i ◄**M9** 25 g |  | ► **M9** EN ISO 6579-1 eller EN/ISO 6579 som er gyldig til 31.12.2021 ◄ **M9** | Produkter som omsettes innen holdbarhetstiden utløper |
+| 1.11. Ost, smør og fløte framstilt av rå melk eller melk som har gjennomgått en varmebehandling ved lavere temperatur enn ved pasteurisering10 | *Salmonella* | 5 | 0 | ►**M9** Ikke påvist i ◄**M9** 25 g |  | ► **M9** EN ISO 6579-1 eller EN/ISO 6579 som er gyldig til 31.12.2021 ◄ **M9** | Produkter som omsettes innen holdbarhetstiden utløper |
+| 1.12. Melkepulver og mysepulver | *Salmonella* | 5 | 0 | ►**M9** Ikke påvist i ◄**M9** 25 g |  | ► **M9** EN ISO 6579-1 eller EN/ISO 6579 som er gyldig til 31.12.2021 ◄ **M9** | Produkter som omsettes innen holdbarhetstiden utløper |
+| 1.13. Iskrem,11 unntatt produkter der framstillingsprosessen eller produktets sammensetning fjerner salmonellarisikoen | *Salmonella* | 5 | 0 | ►**M9** Ikke påvist i ◄**M9** 25 g |  | ► **M9** EN ISO 6579-1 eller EN/ISO 6579 som er gyldig til 31.12.2021 ◄ **M9** | Produkter som omsettes innen holdbarhetstiden utløper |
+| 1.14. Eggprodukter, unntatt produkter der framstillingsprosessen eller produktets sammensetning fjerner salmonellarisikoen | *Salmonella* | 5 | 0 | ►**M9** Ikke påvist i ◄**M9** 25 g |  | ► **M9** EN ISO 6579-1 eller EN/ISO 6579 som er gyldig til 31.12.2021 ◄ **M9** | Produkter som omsettes innen holdbarhetstiden utløper |
+| 1.15. Spiseferdige næringsmidler som inneholder rå egg, unntatt produkter der framstillingsprosessen eller produktets sammensetning fjerner salmonellarisikoen | *Salmonella* | 5 | 0 | ►**M9** Ikke påvist i ◄**M9** 25 g eller ml |  | ► **M9** EN ISO 6579-1 eller EN/ISO 6579 som er gyldig til 31.12.2021 ◄ **M9** | Produkter som omsettes innen holdbarhetstiden utløper |
+| 1.16. Kokte krepsdyr og bløtdyr | *Salmonella* | 5 | 0 | ►**M9** Ikke påvist i ◄**M9** 25 g |  | ► **M9** EN ISO 6579-1 eller EN/ISO 6579 som er gyldig til 31.12.2021 ◄ **M9** | Produkter som omsettes innen holdbarhetstiden utløper |
+| 1.17. Levende muslinger og levende pigghuder, kappedyr og sjøsnegler | *Salmonella* | 5 | 0 | ►**M9** Ikke påvist i ◄**M9** 25 g |  | ► **M9** EN ISO 6579-1 eller EN/ISO 6579 som er gyldig til 31.12.2021 ◄ **M9** | Produkter som omsettes innen holdbarhetstiden utløper |
+| 1.18. Spirer (spiseferdige) ►**M4** 23 ◄**M4** | Salmonella | 5 | 0 | ►**M9** Ikke påvist i ◄**M9** 25 g |  | ► **M9** EN ISO 6579-1 eller EN/ISO 6579 som er gyldig til 31.12.2021 ◄ **M9** | Produkter som omsettes innen holdbarhetstiden utløper |
+| 1.19. Ferdig skåret frukt og grønnsaker (spiseferdige) | *Salmonella* | 5 | 0 | ►**M9** Ikke påvist i ◄**M9** 25 g |  | ► **M9** EN ISO 6579-1 eller EN/ISO 6579 som er gyldig til 31.12.2021 ◄ **M9** | Produkter som omsettes innen holdbarhetstiden utløper |
+| 1.20. ► **M9** Upasteurisert24 frukt- og grønnsakjuice (drikkeferdig) ◄ **M9** | *Salmonella* | 5 | 0 | ►**M9** Ikke påvist i ◄**M9** 25 g |  | ► **M9** EN ISO 6579-1 eller EN/ISO 6579 som er gyldig til 31.12.2021 ◄ **M9** | Produkter som omsettes innen holdbarhetstiden utløper |
+| 1.21. Ost, melkepulver og mysepulver, som nevnt i kriteriene for koagulasepositive stafylokokker i kapittel 2.2 i dette vedlegg | Enterotoksiner framkalt av stafylokokker | 5 | 0 | Ikke påvist i 25 g |  | ► **M9** EN ISO 19020 eller Europeisk screening-metode av melk fra Fellesskapets referanselaboratorium som er gyldig til 31.12.2021 ◄ **M9** | Produkter som omsettes innen holdbarhetstiden utløper |
+| 1.22. Morsmelkerstatning i pulverform og næringsmidler til spesielle medisinske formål i pulverform beregnet på spedbarn under seks måneder | *Salmonella* | 30 | 0 | ►**M9** Ikke påvist i ◄**M9** 25 g |  | ► **M9** EN ISO 6579-1 eller EN/ISO 6579 som er gyldig til 31.12.2021 ◄ **M9** | Produkter som omsettes innen holdbarhetstiden utløper |
+| 1.23 Tilskuddsblandinger i pulverform | *Salmonella* | 30 | 0 | ►**M9** Ikke påvist i ◄**M9** 25 g |  | ► **M9** EN ISO 6579-1 eller EN/ISO 6579 som er gyldig til 31.12.2021 ◄ **M9** | Produkter som omsettes innen holdbarhetstiden utløper |
+| ► **M2** 1.24. Morsmelkerstatning i pulverform og næringsmidler til spesielle medisinske formål i pulverform beregnet på spedbarn under seks måneder14 | ► **M9** *Cronobacter* spp. ◄ **M9** | 30 | 0 | ►**M9** Ikke påvist i ◄**M9** 10 g |  | ► **M9** EN ISO 22964 eller ISO/TS 22964 som er gyldig til 31.12.2021 ◄ **M9** | Produkter som omsettes innen holdbarhetstiden utløper ◄**M2** |
+| ►**M7** 1.25 Levende muslinger og levende pigghuder, sekkedyr og sjøsnegler | *E. coli*15 | 516 | 1 | 230 MPN/100 g kjøtt og kappevann | 700 MPN/100 g kjøtt og kappevann | EN/ISO 16649-3 | Produkter omsatt i løpet av holdbarhetstiden ◄**M7** |
+| 1.26. Fiskerivarer fra fiskearter som forbindes med store mengder histidin17 | Histamin | 918 | 2 | 100 mg/kg | 200 mg/kg | ► **M9** EN ISO 19343 eller HPLC som er gyldig til 31.12.2021 ◄ **M9** | Produkter som omsettes innen holdbarhetstiden utløper |
+| ►**M5** 1.27. Fiskerivarer, unntatt dem i næringsmiddelkategori 1.27a, som har gjennomgått en behandling med enzymmodning i saltlake, framstilt av fiskearter som forbindes med store mengder histidin17 | Histamin | 918 | 2 | 200 mg/kg | 400 mg/kg | ► **M9** EN ISO 19343 eller HPLC som er gyldig til 31.12.2021 ◄ **M9** | Produkter omsatt i løpet av holdbarhetstiden |
+| 1.27a. Fiskesaus fremstilt ved gjæring av fiskerivarer | Histamin |  | 1 |  | 400 mg/kg | ► **M9** EN ISO 19343 eller HPLC som er gyldig til 31.12.2021 ◄ **M9** | Produkter omsatt i løpet av holdbarhetstiden ◄**M5** |
+| ►**M3** 1.28 Ferskt fjørfekjøtt20 | ► **M9** *Salmonella* Typhimurium21 *Salmonella* Enteritidis ◄ **M9** | 5 | 0 | ►**M9** Ikke påvist i ◄**M9** 25 g |  | ►**M9** EN/ISO 6579-1 (for påvisning) White-Kaufmann-Le Minor skjema (for serotypebestemmelse) eller EN/ISO 6579 (for påvisning) White-Kaufmann-Le Minor skjema (for serotypebestemmelse) som er gyldig til 31.12.2021 ◄**M9** | Produkter som omsettes innen holdbarhetstiden utløper ◄**M3** |
+| ►**M4** 1.29 Spirer23 | Shigatoksinproduserende E. coli (STEC) O157, O26, O111, O103, O145 og O104:H4 | 5 | 0 | ►**M9** Ikke påvist i ◄**M9** 25 g |  | CEN/ISO TS 1313622 | Produkter som omsettes innen holdbarhetstiden utløper ◄**M4** |
+| ►**M10** 1.30 Krypdyrkjøtt | *Salmonella* | 5 | 0 | Ikke påvist i 25 g |  | EN ISO 6579-1 | Produkter som omsettes innen holdbarhetstiden utløper ◄**M10** |
+
+1 n = antall prøveenheter som utgjør prøven; c = antall prøveenheter med verdier mellom m og M.
+
+►**M10**
+
+2 For NR. 1.1-1.24, 1.27a, 1.28-1.30 m = M.
+
+◄**M10**
+
+3 Den siste versjonen av standarden skal benyttes.
+
+4 Regelmessig prøving mot kriteriet kreves under normale omstendigheter ikke for følgende spiseferdige næringsmidler: de som har gjennomgått varmebehandling eller annen foredling som effektivt fjerner *L. monocytogenes*, dersom rekontaminering er umulig etter behandlingen (for eksempel produkter som er varmebehandlet i endelig emballasje), friske, ikke skårne og uforedlede grønnsaker og frukter, ► **M9** - - - ◄ **M9** brød, kjeks og lignende produkter, vann på flaske eller i annen emballasje, leskedrikker, øl, sider, vin, brennevin og lignende produkter, sukker, honning og sukkervarer, herunder kakao og sjokoladeprodukter, levende muslinger. ► **M2** – koksalt ◄ **M2**
+
+►**M11**
+
+5 Dette kriteriet skal få anvendelse dersom den driftsansvarlige for næringsmiddelforetaket som har framstilt dem har kunnet godtgjøre overfor vedkommende myndighet at *L. monocytogenes*-innholdet ikke vil overskride grenseverdien på 100 kde/g i næringsmiddelets holdbarhetstid. Den driftsansvarlige kan underveis i prosessen fastsette foreløpige grenseverdier som skal være tilstrekkelig lave til å kunne garantere at grenseverdien på 100 kde/g ikke vil overskrides når næringsmiddelets holdbarhetstid utløper.
+
+6 1 ml podestoff overføres til en petriskål med en diameter på 140 mm eller til tre petriskåler med en diameter på 90 mm.
+
+7 Dette kriteriet skal få anvendelse der den driftsansvarlige for næringsmiddelforetaket som har framstilt det ikke har kunnet godtgjøre overfor vedkommende myndighet at *L. monocytogenes*-innholdet ikke vil overskride grenseverdien på 100 kde/g i næringsmiddelets holdbarhetstid.
+
+**◄M11**
+
+8 Produkter med en pH-verdi på ≤ 4,4 eller aw ≤ 0,92, produkter med en pH-verdi på ≤ 5,0 og aw ≤ 0,94 og produkter med en holdbarhetstid på under fem dager, hører automatisk til denne kategorien. Andre produktkategorier kan også høre til denne kategorien, dersom det er vitenskapelig begrunnet.
+
+9 Dette kriteriet gjelder for mekanisk utbeinet kjøtt (MSM), framstilt med teknikker nevnt i avsnitt Vi [kapittel III](forskrift/2008-12-22-1623/kapiii) nr. 3 i vedlegg III til europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853*) av 29. april 2004 om fastsettelse av særlige hygieneregler for næringsmidler av animalsk opprinnelse.
+
+10 Unntatt produkter der produsenten kan godtgjøre overfor vedkommende myndighet at det for produkter som følge av modningstid og aw ikke er noen salmonellarisiko for produktet.
+
+11 Bare iskrem som inneholder melkebestanddeler.
+
+12 – – –
+
+13 – – –
+
+14 Det foretas parallelltest for entereobacteriaceae og ► **M9** Cronobacter spp. ◄ **M9**, dersom det ikke på et individuelt anlegg er fastslått en sammenheng mellom entereobacteriaceae og ► **M9** Cronobacter spp. ◄ **M9**. Hvis det påvises etereobacteriaceae i en produktprøve fra et slikt anlegg, må hele partiet undersøkes for ► **M9** Cronobacter spp. ◄ **M9**. Produsenten er ansvarlig for å dokumentere for vedkommende myndighet om det er en slik sammenheng mellom entereobacteriaceae og ► **M9** Cronobacter spp. ◄ **M9**.
+
+15 *E. coli* blir her brukt som indikator for fekal forurensning.
+
+►**M7**
+
+16 Hver stikkprøveenhet består av et minste antall dyr i henhold til EN/ISO 6887-3.
+
+◄**M7**
+
+17 Særlig fiskearter av familien: *Scombridae, Clupeidae, Engraulidae, Coryfenidae, Pomatomidae, Scombresosidae*.
+
+► **M5**
+
+18 Enkeltprøver kan tas på detaljistnivå. I et slikt tilfelle vil ikke formodningen i artikkel 14 nr. 6 i forordning [(EF) nr. 178/2002](eu/32002r0178), som fastsetter at hele partiet skal anses som utrygt, få anvendelse, med mindre resultatet er over M. ◄ **M5**
+
+19 – – –
+
+► **M3**
+
+20 Dette kriteriet gjelder for ferskt kjøtt fra avlsflokker av *Gallus gallus*, verpehøns, broilere og flokker av avls- og slaktekalkuner.
+
+21 Når det gjelder monofasiske stammer av *Salmonella typhimurium*, tas bare 1,4,[5],12:i:– med. ◄**M3**
+
+► **M4**
+
+22 Idet det tas hensyn til Den europeiske unions referanselaboratoriums siste tilpasning for Escherichia coli, herunder Verotoxigenic E. coli (VTEC), for påvisning av STEC O104:H4.
+
+23 Unntatt spirer som har mottatt behandling som effektivt fjerner Salmonella spp. og STEC.◄**M4**
+
+► **M9**
+
+24 Begrepet upasteurisert betyr at juicen ikke har gjennomgått pasteurisering gjennom kombinasjoner av tid og temperatur eller andre prosesser som det er bekreftet at har en tilsvarende bakteriedrepende virkning på som *Salmonella* pasteurisering.
+
+◄ **M9**
+
+*Tolkning av analyseresultatene*
+
+►**M7**
+
 De angitte grenseverdiene viser til hver prøveenhet som er undersøkt.◄**M7**
 
 Analyseresultatene viser den mikrobiologiske kvaliteten på det partiet som er undersøkt.1
 
+*Listeria monocytogenes* i spiseferdige næringsmidler beregnet på spedbarn og spiseferdige næringsmidler til spesielle medisinske formål:
+
 - tilfredsstillende dersom ingen av de målte verdiene viser forekomst av bakterien,
 - utilfredsstillende dersom bakterien påvises i én eller flere prøveenheter.
+
+►**M11**
+
+*L. monocytogenes* i spiseferdige næringsmidler der *L. monocytogenes* kan vokse dersom den driftsansvarlige for næringsmiddelforetaket som har framstilt det ikke har kunnet godtgjøre overfor vedkommende myndighet at *L. monocytogenes*-innholdet ikke vil overskride grenseverdien på 100 kde/g i næringsmiddelets holdbarhetstid.
 
 - tilfredsstillende dersom ingen av de målte verdiene viser at bakterien er påvist i noen av prøveenhetene.
 - utilfredsstillende dersom bakterien påvises i én eller flere prøveenheter.
 
+◄**M11**
+
+►**M7**
+
+*L. monocytogenes* i andre spiseferdige næringsmidler:
+
 - tilfredsstillende dersom de målte verdiene er ≤ grenseverdien,
 - utilfredsstillende dersom noen av de målte verdiene er > grenseverdien.
+
+*E. coli* i levende muslinger og levende pigghuder, sekkedyr og sjøsnegler:
 
 - tilfredsstillende dersom alle de fem målte verdiene er ≤ 230 MPN/100 g kjøtt og kappevann eller dersom én av de fem målte verdiene er > 230 MPN/100 g kjøtt og kappevann, men ≤ 700 MPN/100 g kjøtt og kappevann,
 - utilfredsstillende dersom noen av de fem målte verdiene er > 700 MPN/100 g kjøtt og kappevann eller dersom minst to av de fem målte verdiene er > 230 MPN/100 g kjøtt og kappevann.
 
+◄ **M7**
+
+*Salmonella* i forskjellige næringsmiddelkategorier:
+
 - tilfredsstillende dersom ingen av de målte verdiene viser forekomst av bakterien,
 - utilfredsstillende dersom bakterien påvises i én eller flere prøveenheter.
+
+Enterotoksiner framkalt av stafylokokker i melkeprodukter:
 
 - tilfredsstillende dersom det ikke påvises enterotoksiner i noen av prøveenhetene,
 - utilfredsstillende dersom det påvises enterotoksiner i én eller flere prøveenheter.
 
+► **M9** *Cronobacter* spp. ◄ **M9** i morsmelkerstatning i pulverform og næringsmidler til spesielle medisinske formål i pulverform beregnet på spedbarn under seks måneder:
+
 - tilfredsstillende dersom ingen av de målte verdiene viser forekomst av bakterien,
 - utilfredsstillende dersom bakterien påvises i én eller flere prøveenheter.
 
+► **M5**
+
+Histamin i fiskerivarer:
+
 Histamin i fiskerivarer fra fiskearter som forbindes med store mengder histidin, unntatt fiskesaus framstilt ved gjæring av fiskerivarer:tilfredsstillende dersom følgende krav er oppfylt:den målte gjennomsnittsverdien er ≤ m,antallet verdier mellom m og M er høyst c/n,ingen av de målte verdiene overstiger grenseverdien M,utilfredsstillende dersom den målte gjennomsnittsverdien overstiger m, dersom antallet verdier mellom m og M er større enn c/n, eller dersom én eller flere av de målte verdiene er > M.
+
+Histamin i fiskesaus fremstilt ved gjæring av fiskerivarer:
 
 - tilfredsstillende dersom den målte verdien er ≤ grenseverdien,
 - utilfredsstillende dersom den målte verdien er > grenseverdien. ◄ **M5**
 
+1 Analyseresultatene kan også benyttes til å vise hvor virkningsfull HACCP eller god hygienepraksis er for prosessen.
+
 ### Kapittel 2. Hygienekriterier for prosessen
+
+###### 2.1. Kjøtt og kjøttprodukter
+
+| *Næringsmiddelkategori* | *Mikroorganismer* | *Prøvetakingsplan*1 |  | *Grenseverdier*2 |  | *Referansemetode for analyse*3 | *Ledd der kriteriet anvendes* | *Tiltak dersom resultatene er utilfredsstillende* |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | *n* | *c* | *m* | *M* |  |  |  |
+| 2.1.1. Skrotter av storfe, sauer, geiter og hester4 | Aerobe kimtall |  |  | 3,5 log kde/cm2 daglig logaritmisk gjennomsnittsverdi | 5,0 l kde/cm2 daglig logaritmisk gjennomsnittsverdi | ► **M9** EN ISO 4833-1 eller ISO 4833 som er gyldig til 31.12.2021 ◄ **M9** | Skrotter etter slaktebehandling, men før kjøling | Forbedre slaktehygienen og gjennomgå prosesskontrollene |
+|  | Enterobacteriaceae |  |  | 1,5 log kde/cm2 daglig logaritmisk gjennomsnittsverdi | 2,5 log kde/cm2 daglig logaritmisk gjennomsnittsverdi | ► **M9** EN ISO 21528-2 eller ISO 21528-2 som er gyldig til 31.12.2021 ◄ **M9** | Skrotter etter slaktebehandling, men før kjøling | Forbedre slaktehygienen og gjennomgå prosesskontrollene |
+| 2.1.2. Skrotter av svin4 | Aerobe kimtall |  |  | 4,0 log kde/cm2 daglig logaritmisk gjennomsnittsverdi | 5,0 log kde/cm2 daglig logaritmisk gjennomsnittsverdi | ► **M9** EN ISO 4833-1 eller ISO 4833 som er gyldig til 31.12.2021 ◄ **M9** | Skrotter etter slaktebehandling, men før kjøling | Forbedre slaktehygienen og gjennomgå prosesskontrollene |
+|  | Enterobacteriaceae |  |  | 2,0 log kde/cm2 daglig logaritmisk gjennomsnittsverdi | 3,0 log kde/cm2 daglig logaritmisk gjennomsnittsverdi | ► **M9** EN ISO 21528-2 eller ISO 21528-2 som er gyldig til 31.12.2021 ◄ **M9** | Skrotter etter slaktebehandling, men før kjøling | Forbedre slaktehygienen og gjennomgå prosesskontrollene |
+| 2.1.3. Skrotter av storfe, sauer, geiter og hester4 | *Salmonella* | 505 | 26 | ► **M9** Ikke påvist på det området som er undersøkt på hver skrott ◄ **M9** |  | ► **M9** EN ISO 6579-1 eller EN/ISO 6579 som er gyldig til 31.12.2021 ◄ **M9** | Skrotter etter slaktebehandling, men før kjøling | Forbedre slaktehygienen og gjennomgå prosesskontrollene og dyrenes opprinnelse |
+| ►**M6**<br>2.1.4. Skrotter av svin | *Salmonella* | 505 | 36 | Ingen på det området som er undersøkt på hver skrott |  | ► **M9** EN ISO 6579-1 eller EN/ISO 6579 som er gyldig til 31.12.2021 ◄ **M9** | Skrotter etter slaktebehandling, men før kjøling | Forbedre slaktehygienen og gjennomgå prosesskontrollene, dyrenes opprinnelse og biosikkerhets-tiltakene på opprinnelsesenhetene. ◄**M6** |
+| ►**M3**<br>2.1.5 Fjørfeskrotter av broilere og kalkuner | *Salmonella* spp.10 | 505 | 76<br>Fra 1.1.2012:<br>c = 5 for broilere<br>Fra 1.1.2013:<br>c = 5 for kalkuner | Ikke påvist i 25 g i en samleprøve av halsskinn |  | ► **M9** EN ISO 6579-1 eller EN/ISO 6579 (for påvisning) som er gyldig til 31.12.2021 ◄ **M9** | Skrotter etter kjøling | Forbedre slaktehygienen og gjennomgå prosesskontrollene, dyrenes opprinnelse og biosikkerhetstiltakene i opprinnelsesenhetene ◄**M3** |
+| 2.1.6 Kvernet kjøtt | Aerobe kimtall7 | 5 | 2 | 5x105 kde/g | 5x106 kde/g | ► **M9** EN ISO 4833-1 eller ISO 4833 som er gyldig til 31.12.2021 ◄ **M9** | Når framstillingsprosessen avsluttes | Forbedre produksjonshygienen og utvelgingen og/eller råstoffenes opprinnelse |
+|  | *E.coli*8 | 5 | 2 | 50 kde/g | 500 kde/g | ISO 16649-1 eller 2 | Når framstillingsprosessen avsluttes | Forbedre produksjonshygienen og utvelgingen og/eller råstoffenes opprinnelse |
+| 2.1.7. Mekanisk utbeinet kjøtt (MSM)9 | Aerobe kimtall | 5 | 2 | 5x105 kde/g | 5x106 kde/g | ► **M9** EN ISO 4833-1 eller ISO 4833 som er gyldig til 31.12.2021 ◄ **M9** | Når framstillingsprosessen avsluttes | Forbedre produksjonshygienen og utvelgingen og/eller råstoffenes opprinnelse |
+|  | *E. coli*8 | 5 | 2 | 50 kde/g | 500 kde/g | ISO 16649-1 eller 2 | Når framstillingsprosessen avsluttes | Forbedre produksjonshygienen og utvelgingen og/eller råstoffenes opprinnelse |
+| 2.1.8. Tilberedt kjøtt | *E.coli*8 | 5 | 2 | 500 kde/g eller cm2 | 5000 kde/g eller cm2 | ISO 16649-1 eller 2 | Når framstillingsprosessen avsluttes | Forbedre produksjonshygienen og utvelgingen og/eller råstoffenes opprinnelse |
+| ►**M8**<br>2.1.9 Skrotter av broilere | *Campylobacter* spp. | 505 | c = 20<br>Fra 1.1.2020<br>c = 15<br>Fra 1.1.2025<br>c = 10 | 1000<br>kde/g | 1000<br>kde/g | EN ISO 10272-2 | Skrotter etter kjøling | Forbedre slaktehygienen og gjennomgå prosesskontrollene, dyrenes opprinnelse og biosikkerhetstiltakene på opprinnelsesenhetene |
+|  |  |  |  |  |  |  |  | ◄ **M8** |
+
+1 n = antall prøveenheter som utgjør prøven; c = antall prøveenheter med verdier mellom m og M.
+
+2 ►**M8** For nr. 2.1.3–2.1.5 og 2.1.9 m = M. ◄**M8**
+
+3 Den siste versjonen av standarden skal benyttes.
+
+4 Grenseverdiene (m og M) gjelder bare for prøver som er tatt med den destruktive metoden. Den daglige logaritmiske gjennomsnittsverdien beregnes ved først å ta den logaritmiske verdien av hvert analyseresultat og deretter beregne gjennomsnittet av disse logaritmiske verdiene.
+
+5 De 50 prøvene stammer fra 10 fortløpende prøvetakinger i samsvar med prøvetakingsreglene og -frekvensene som er fastsatt i denne forordning.
+
+6 Antall prøver der det er påvist salmonella. Verdi c skal gjennomgås på nytt for å ta hensyn til de framskrittene som er gjort for å redusere salmonellaprevalensen. Medlemsstater eller regioner med lav salmonellaprevalens kan bruke lavere c-verdier også før gjennomgåelsen.
+
+7 Dette kriteriet gjelder ikke for kvernet kjøtt som er framstilt på detaljistnivå, når produktets holdbarhetstid er under 24 timer.
+
+8 *E. coli* blir her brukt som indikator for fekal forurensning.
+
+9 Disse kriteriene gjelder for mekanisk utbeinet kjøtt (MSM), framstilt med teknikker nevnt i [kapittel III](forskrift/2008-12-22-1623/kapiii) nr. 3 i avsnitt V i vedlegg III til europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853*) av 29. april 2004 om fastsettelse av særlige hygieneregler for næringsmidler av animalsk opprinnelse.
+
+10 ► **M9** Dersom *Salmonella* spp. blir funnet, skal det utføres ytterligere serotypebestemmelse på isolatene for *Salmonella* Typhimurium og *Salmonella* Enteritidis for å kontrollere samsvar med det mikrobiologiske kriteriet fastsatt i rad 1.28 i [kapittel 1](forskrift/2008-12-22-1623/kap1). ◄ **M9**
+
+*Tolkning av analyseresultatene*
 
 De angitte grenseverdiene viser til hver prøveenhet som er undersøkt, unntatt ved undersøkelse av skrotter, der grenseverdiene viser til samleprøver.
 
 Analyseresultatene viser den mikrobiologiske kvaliteten på den prosessen som er undersøkt.
 
+Enterobacteriaceae og aerobe kimtall i skrotter av storfe, sauer, geiter, hester og svin:
+
 - tilfredsstillende dersom den daglige logaritmiske gjennomsnittsverdien er ≤ m,
 - akseptabel dersom den daglige logaritmiske gjennomsnittsverdien ligger mellom m og M,
 - utilfredsstillende dersom den daglige logaritmiske gjennomsnittsverdien er >M.
+
+*Salmonella* i skrotter:
 
 - tilfredsstillende dersom antall prøver der det påvises *Salmonella*, ikke overstiger c/n,
 - utilfredsstillende dersom det påvises *Salmonella* i mer enn c/n antall prøver.
 
 Etter hver prøvetaking blir resultatene fra de 10 siste prøvetakingene analysert for å oppnå n antall prøver.
 
+*E.coli* og aerobe kimtall i kvernet kjøtt, tilberedt kjøtt og mekanisk utbeinet kjøtt (MSM):
+
 - tilfredsstillende dersom alle målte verdier er ≤ m,
 - akseptabelt dersom maksimalt c/n verdier ligger mellom m og M, og resten av de målte verdiene er ≤ m,
 - utilfredsstillende dersom én eller flere av de målte verdiene er > M, eller dersom mer enn c/n verdier ligger mellom m og M.
 
+► **M8**
+
+*Campylobacter* spp. i fjørfeskrotter av broilere:
+
 - tilfredsstillende dersom høyst c/n verdier er > m,
 - utilfredsstillende dersom mer enn c/n verdier er > m.
+
+◄ **M8**
+
+###### 2.2. Melk og melkeprodukter
+
+| *Næringsmiddelkategori* | *Mikroorganismer* | *Prøvetakingsplan*1 |  | *Grenseverdier*2 |  | *Referansemetode for analyse*3 | *Ledd der kriteriet anvendes* | *Tiltak dersom resultatene er utilfredsstillende* |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | *n* | *c* | *m* | *M* |  |  |  |
+| ► **M2** 2.2.1. Pasteurisert melk og andre pasteuriserte flytende melkeprodukter4 | Entero-bacteriaceae | 5 | 2 | 10 kde/ml |  | ► **M9** EN ISO 21528-2 eller ISO 21528-2 som er gyldig til 31.12.2021 | Når framstillingsprosessen avsluttes | Kontrollere hvor virkningsfull varmebehandlingen og forebyggingen av rekontaminering er, samt kontrollere kvaliteten på råstoffene ◄ **M2** |
+| 2.2.2. Ost framstilt av melk eller myse som er varmebehandlet | E.coli5 | 5 | 2 | 100 kde/g | 1000 kde/g | ISO 16649-1 eller 2 | På det tidspunktet i framstillingsprosessen der antall E. coli antas å være høyest6 | Forbedre produksjonshygienen og utvelgingen av råstoffer |
+| 2.2.3. Ost framstilt av rå melk | Koagulasepositive stafylokokker | 5 | 2 | 104 kde/g | 105 kde/g | EN/ISO 6888-2 | På det tidspunktet i framstillingsprosessen der antall stafylokokker antas å være høyest | Forbedre produksjonshygienen og utvelgingen av råstoffer. Dersom det påvises verdier på >105 kde/g, må ostepartiet undersøkes for enterotoksiner framkalt av stafylokokker |
+| 2.2.4. Ost framstilt av melk som har gjennomgått varmebehandling ved temperaturer som er lavere enn ved pasteurisering,7 og modnet ost framstilt av melk eller myse som har gjennomgått pasteurisering eller kraftigere varmebehandling7 | Koagulasepositive stafylokokker | 5 | 2 | 100 kde/g | 1000 kde/g | EN/ISO 6888-1 eller 2 | På det tidspunktet i framstillingsprosessen der antall stafylokokker antas å være høyest | Forbedre produksjonshygienen og utvelgingen av råstoffer. Dersom det påvises verdier på >105 kde/g, må ostepartiet undersøkes for enterotoksiner framkalt av stafylokokker |
+| 2.2.5. Myk ost som ikke er modnet (fersk ost), framstilt av melk eller myse som har gjennomgått pasteurisering eller kraftigere varmebehandling7 | Koagulasepositive stafylokokker | 5 | 2 | 10 kde/g | 100 kde/g | EN/ISO 6888-1 eller 2 | Når framstillingsprosessen avsluttes | Forbedre produksjonshygienen. Dersom det påvises verdier på >105 kde/g, må ostepartiet undersøkes for enterotoksiner framkalt av stafylokokker |
+| 2.2.6. Smør og fløte framstilt av rå melk eller melk som har gjennomgått en varmebehandling ved lavere temperatur enn ved pasteurisering | *E.coli*5 | 5 | 2 | 10 kde/g | 100 kde/g | ISO 16649-1 eller 2 | Når framstillingsprosessen avsluttes | Forbedre produksjonshygienen og utvelgingen av råstoffer |
+| 2.2.7. Melkepulver og mysepulver4 | Entero-bacteriaceae | 5 | 0 | 10 kde/g |  | ► **M9** EN ISO 21528-2 eller ISO 21528-2 som er gyldig til 31.12.2021 ◄ **M9** | Når framstillingsprosessen avsluttes | Kontrollere hvor virkningsfull varmebehandlingen og forebyggingen av rekontaminering er |
+|  | Koagulasepositive stafylokokker | 5 | 2 | 10 kde/g | 100 kde/g | EN/ISO 6888-1 eller 2 | Når framstillingsprosessen avsluttes | Forbedre produksjonshygienen. Dersom det påvises verdier på >105 kde/g, må ostepartiet undersøkes for enterotoksiner framkalt av stafylokokker |
+| 2.2.8. Iskrem8 og fryste melkeprodukter (desserter) | Entero-bacteriaceae | 5 | 2 | 10 kde/g | 100 kde/g | ► **M9** EN ISO 21528-2 eller ISO 21528-2 som er gyldig til 31.12.2021 ◄ **M9** | Når framstillingsprosessen avsluttes | Forbedre produksjonshygienen |
+| 2.2.9. Morsmelkerstatning i pulverform og næringsmidler til spesielle medisinske formål i pulverform beregnet på spedbarn under seks måneder | Entero-bacteriaceae | 10 | 0 | ► **M9** Ikke påvist i 10 g ◄ **M9** |  | ► **M9** EN ISO 21528-1 eller ISO 21528-1 som er gyldig til 31.12.2021 ◄ **M9** | Når framstillingsprosessen avsluttes | Forbedre produksjonshygienen for å minimere kontaminering9 |
+| 2.2.10 Tilskuddsblandinger i pulverform | Entero-bacteriaceae | 5 | 0 | ► **M9** Ikke påvist i 10 g ◄ **M9** |  | ► **M9** EN ISO 21528-1 eller ISO 21528-1 som er gyldig til 31.12.2021 ◄ **M9** | Når framstillingsprosessen avsluttes | Forbedre produksjonshygienen for å minimere kontaminering |
+| 2.2.11 Morsmelkerstatning i pulverform og næringsmidler til spesielle medisinske formål i pulverform beregnet på spedbarn under seks måneder | Formodet/antatt Bacillus cereus | 5 | 1 | 50 kde/g | 500 kde/g | ISO 793210 | Når framstillingsprosessen avsluttes | Forbedre produksjonshygienen. Forebygging av rekontaminering. Utvelgelse av råvarer |
+
+1 n = antall prøveenheter som utgjør prøven; c = antall prøveenheter med verdier mellom m og M.
+
+2 ►**M2** For nr. 2.2.1, 2.2.7, 2.2.9 og 2.2.10: m=M. ◄**M2**
+
+3 Den siste versjonen av standarden skal benyttes.
+
+4 Kriteriet gjelder ikke for produkter beregnet på videre foredling i næringsmiddelindustrien.
+
+5 *E. coli* blir her brukt som indikator for hygienenivå.
+
+6 For ost der *E. coli* ikke kan vokse, er antall *E. coli* vanligvis høyest i begynnelsen av modningsperioden, og for ost der *E. coli* kan vokse, er det vanligvis på slutten av modningsperioden.
+
+7 Unntatt ost dersom produsenten kan godtgjøre overfor vedkommende myndighet at produktet ikke utgjør noen risiko for enterotoksiner framkalt av stafylokokker.
+
+8 Bare iskrem som inneholder melkebestanddeler.
+
+9 Det foretas parallelltest for entereobacteriaceae og ► **M9** *Cronobacter* spp. ◄ **M9**, med mindre det på et individuelt anlegg er fastslått en sammenheng mellom entereobacteriaceae og ► **M9** *Cronobacter* spp. ◄ **M9**. Hvis det påvises entereobakterier i en slik produktprøve fra et slikt anlegg, skal hele partiet undersøkes for ► **M9** *Cronobacter* spp. ◄ **M9**. Det er produsentens ansvar å dokumentere overfor vedkommende myndighet om det finnes en slik sammenheng mellom entereobakterier og ► **M9** *Cronobacter* spp. ◄ **M9**.
+
+10 1 ml inokulat overføres til en petriskål med en diameter på 140 mm eller på tre petriskåler med en diameter på 90 mm.
+
+*Tolkning av analyseresultatene*
 
 De angitte grenseverdiene viser til hver prøveenhet som er undersøkt.
 
 Analyseresultatene viser den mikrobiologiske kvaliteten på den prosessen som er undersøkt.
 
+Enterobacteriaceae i morsmelkerstatning i pulverform og næringsmidler til spesielle medisinske formål i pulverform beregnet på spedbarn under seks måneder:
+
 - tilfredsstillende dersom ingen av de målte verdiene viser forekomst av bakterien,
 - utilfredsstillende dersom bakterien påvises i én eller flere prøveenheter.
+
+*E.coli*, enterobacteriaceae (andre næringsmiddelkategorier) og koagulasepositive stafylokokker:
 
 - tilfredsstillende dersom alle målte verdier er ≤ m,
 - akseptabelt dersom maksimalt c/n verdier ligger mellom m og M, og resten av de målte verdiene er ≤ m,
 - utilfredsstillende dersom én eller flere av de målte verdiene er > M, eller dersom mer enn c/n verdier ligger mellom m og M.
+
+Antatt/Formodet Bacillus cereus i morsmelkerstatning i pulverform eller næringsmidler til spesielle medisinske formål i pulverform beregnet på spedbarn under seks måneder:
 
 - tilfredsstillende dersom alle målte verdier er ≤ m,
 - akseptabel dersom maksimalt c/n verdier ligger mellom m og M, og resten av de målte verdiene er ≤ m,
 - utilfredsstillende dersom en eller flere av de målte verdiene er > M, eller dersom mer enn c/n verdier ligger mellom m og M.
 
+###### 2.3. Eggprodukter
+
+| *Næringsmiddelkategori* | *Mikroorganismer* | *Prøvetakingsplan*1 |  | *Grenseverdier* |  | *Referansemetode for analyse*2 | *Ledd der kriteriet anvendes* | *Tiltak dersom resultatene er utilfredsstillende* |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | *n* | *c* | *m* | *M* |  |  |  |
+| 2.3.1. Eggprodukter | Enterobacteriaceae | 5 | 2 | 10 kde/g eller ml | 100 kde/g eller ml | ► **M9** EN ISO 21528-2 eller ISO 21528-2 som er gyldig til 31.12.2021 ◄ **M9** | Når framstillingsprosessen avsluttes | Kontrollere hvor virkningsfull varmebehandlingen og forebyggingen av rekontaminering er |
+
+1 n = antall prøveenheter som utgjør prøven; c = antall prøveenheter med verdier mellom m og M.
+
+2 Den siste versjonen av standarden skal benyttes.
+
+*Tolkning av analyseresultatene*
+
 De angitte grenseverdiene viser til hver prøveenhet som er undersøkt.
 
 Analyseresultatene viser den mikrobiologiske kvaliteten på den prosessen som er undersøkt.
+
+Enterobacteriaceae i eggprodukter:
 
 - tilfredsstillende dersom alle målte verdier er ≤ m,
 - akseptabelt dersom maksimalt c/n verdier ligger mellom m og M, og resten av de målte verdiene er ≤ m,
 - utilfredsstillende dersom én eller flere av de målte verdiene er > M, eller dersom mer enn c/n verdier ligger mellom m og M.
 
+###### 2.4. Fiskerivarer
+
+| *Næringsmiddelkategori* | *Mikroorganismer* | *Prøvetakingsplan*1 |  | *Grenseverdier* |  | *Referansemetode for analyse*2 | *Ledd der kriteriet anvendes* | *Tiltak dersom resultatene er utilfredsstillende* |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | *n* | *c* | *m* | *M* |  |  |  |
+| 2.4.1. Produkter uten skall fra kokte krepsdyr og bløtdyr | *E.coli* | 5 | 2 | 1/g | 10/g | ISO TS 16649-3 | Når framstillingsprosessen avsluttes | Forbedre produksjonshygienen. |
+|  | Koagulasepositive stafylokokker | 5 | 2 | 100 kde/g | 1000 kde/g | EN/ISO 6888-1 eller 2 | Når framstillingsprosessen avsluttes | Forbedre produksjonshygienen. |
+
+1 n = antall prøveenheter som utgjør prøven; c = antall prøveenheter med verdier mellom m og M.
+
+2 Den siste versjonen av standarden skal benyttes.
+
+*Tolkning av analyseresultatene*
+
 De angitte grenseverdiene viser til hver prøveenhet som er undersøkt.
 
 Analyseresultatene viser den mikrobiologiske kvaliteten på den prosessen som er undersøkt.
 
+*E.coli* i produkter uten skall fra kokte krepsdyr og bløtdyr:
+
 - tilfredsstillende dersom alle målte verdier er ≤ m,
 - akseptabelt dersom maksimalt c/n verdier ligger mellom m og M, og resten av de målte verdiene er ≤ m,
 - utilfredsstillende dersom én eller flere av de målte verdiene er > M, eller dersom mer enn c/n verdier ligger mellom m og M.
+
+Koagulasepositive stafylokokker i produkter uten skall fra kokte krepsdyr og bløtdyr:
 
 - tilfredsstillende dersom alle målte verdier er < m,
 - akseptabelt dersom maksimalt c/n verdier ligger mellom m og M, og resten av de målte verdiene er < m,
 - utilfredsstillende dersom én eller flere av de målte verdiene er > M, eller dersom mer enn c/n verdier ligger mellom m og M.
 
+###### 2.5. Grønnsaker, frukt og produkter av grønnsaker og frukt
+
+| *Næringsmiddelkategori* | *Mikroorganismer* | *Prøvetakingsplan*1 |  | *Grenseverdier* |  | *Referansemetode for analyse*2 | *Ledd der kriteriet anvendes* | *Tiltak dersom resultatene er utilfredsstillende* |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | *n* | *c* | *m* | *M* |  |  |  |
+| 2.5.1. Ferdig skåret frukt og grønnsaker (spiseferdige) | *E.coli* | 5 | 2 | 100 kde/g | 1000 kde/g | ISO 16649-1 eller 2 | Framstillingsprosess | Forbedre produksjonshygienen og utvelgingen av råstoffer |
+| 2.5.2. ► **M9** Upasteurisert3 frukt- og grønnsaksjuice (drikkeferdig) ◄ **M9** | *E.coli* | 5 | 2 | 100 kde/g | 1000 kde/g | ISO 16649-1 eller 2 | Framstillingsprosess | Forbedre produksjonshygienen og utvelgingen av råstoffer |
+
+1 n = antall prøveenheter som utgjør prøven; c = antall prøveenheter med verdier mellom m og M.
+
+2 Den siste versjonen av standarden skal benyttes.
+
+3 ►**M9** Begrepet upasteurisert betyr at juicen ikke har gjennomgått pasteurisering gjennom kombinasjoner av tid og temperatur eller andre prosesser som det er bekreftet at har en tilsvarende bakteriedrepende virkning på *E.coli* som pasteurisering. ◄**M9**
+
+*Tolkning av analyseresultatene*
+
 De angitte grenseverdiene viser til hver prøveenhet som er undersøkt.
 
 Analyseresultatene viser den mikrobiologiske kvaliteten på den prosessen som er undersøkt.
+
+*E.coli* i ferdig skåret frukt og grønnsaker (spiseferdige) og i upasteurisert frukt- og grønnsaksjuice (drikkeferdig):
 
 - tilfredsstillende dersom alle målte verdier er ≤ m,
 - akseptabelt dersom maksimalt c/n verdier ligger mellom m og M, og resten av de målte verdiene er ≤ m,
@@ -885,7 +1330,13 @@ Analyseresultatene viser den mikrobiologiske kvaliteten på den prosessen som er
 
 ### Kapittel 3. Regler for prøvetaking og klargjøring av analyseprøver
 
+###### 3.1. Allmenne regler for prøvetaking og klargjøring av analyseprøver
+
 Der det ikke finnes mer spesifikke regler for prøvetaking og klargjøring av prøver, skal relevante ISO-standarder (Den internasjonale standardiseringsorganisasjon) og retningslinjene fra Codex Alimentarius benyttes som referansemetoder.
+
+###### 3.2. ►M8 Bakteriologisk prøvetaking i slakterier og lokaler der det framstilles kvernet kjøtt, bearbeidet kjøtt, mekanisk utbeinet kjøtt og ferskt kjøtt
+
+*Regler for prøvetaking av skrotter av storfe, svin, sauer, geiter og hester*
 
 De destruktive og de ikke-destruktive prøvetakingsmetodene, utvelgingen av prøvetakingssteder og reglene for oppbevaring og transport av prøver som skal brukes, er beskrevet i standarden ISO 17604.
 
@@ -897,6 +1348,8 @@ Ved prøvetaking for salmonellaanalyser skal det benyttes en svamp med ru overfl
 
 Når det tas prøver fra forskjellige prøvetakingssteder på skrotten, skal prøvene samles før de analyseres.
 
+*Regler for prøvetaking av fjørfeskrotter og ferskt fjørfekjøtt*
+
 Slakterier skal ta prøver av hele fjørfeskrotter med halsskinn til salmonella- og campylobacteranalyser. Nedskjæringsanlegg og bearbeidingsanlegg, unntatt de som ligger like i nærheten av et slakteri, og som nedskjærer og bearbeider kjøtt som bare kommer fra dette slakteriet, skal også ta prøver for Salmonellaanalyser. Ved prøvetakingen skal de prioritere hele fjørfeskrotter med halsskinn dersom dette er tilgjengelig, men samtidig sørge for at porsjoner av fjørfe med skinn og/eller porsjoner av fjørfe uten skinn eller med bare en liten mengde skinn dekkes, og dette valget skal være risikobasert.
 
 Slakteriene skal i sine prøvetakingsplaner ta med fjørfeskrotter fra flokker med ukjent salmonellastatus eller med kjent positiv status for *Salmonella enteritidis* eller *Salmonella typhimurium*.
@@ -907,7 +1360,11 @@ Ved testing på grunnlag av prosesshygienekriteriene som er fastsatt i rad 2.1.5
 
 Til salmonellaanalysene av annet ferskt fjørfekjøtt enn fjørfeskrotter skal det tas fem prøver på minst 25 g fra samme parti. Prøven som er tatt fra porsjoner av fjørfe med skinn, skal inneholde skinn og en tynn skive overflatemuskel dersom mengden skinn ikke er tilstrekkelig til å utgjøre en prøveenhet. Prøven som er tatt fra porsjoner av fjørfe uten skinn eller med bare en liten mengde skinn, skal i tillegg til eventuelt skinn inneholde en eller flere tynne skiver overflatemuskel for å utgjøre en tilstrekkelig stor prøveenhet. Kjøttskivene skal skjæres på en slik måte at så mye som mulig av overflaten av kjøttet er med.
 
+*Retningslinjer for prøvetaking*
+
 Nærmere retningslinjer for prøvetaking av skrotter, særlig med hensyn til prøvetakingssteder, kan tas med i retningslinjene for god praksis nevnt i artikkel 7 i forordning [(EF) nr. 852/2004](eu/32004r0852*).
+
+*Prøvetakingsfrekvenser for skrotter, kvernet kjøtt, bearbeidet kjøtt, mekanisk utbeinet kjøtt og ferskt fjørfekjøtt*
 
 Driftsansvarlige for slakterier eller virksomheter som produserer kvernet kjøtt, bearbeidet kjøtt, mekanisk utbeinet kjøtt eller ferskt fjørfekjøtt, skal ta prøver til mikrobiologisk analyse minst én gang per uke. Prøvetakingsdag skal endres hver uke for å sikre at alle ukedager dekkes.
 
@@ -919,13 +1376,21 @@ Ved prøvetaking av fjørfeskrotter for å analysere for forekomst av *Campyloba
 
 Mindre slakterier og virksomheter som framstiller kvernet kjøtt, bearbeidet kjøtt og ferskt fjørfekjøtt i små mengder, kan imidlertid unntas fra disse prøvetakingsfrekvensene dersom det er berettiget på grunnlag av en risikoanalyse og godkjent av vedkommende myndighet.
 
+◄ **M8**
+
+###### 3.3. ►**M4** Prøvetakingsregler for spirer
+
 I dette avsnitt gjelder definisjonen for parti som er fastsatt i artikkel 2 bokstav b) i gjennomføringsforordning [(EU) nr. 208/2013](eu/32013r0208).
 
-1. *Innledende undersøkelse av frøpartiet*Driftsansvarlige for næringsmiddelforetak som produserer spirer, skal gjennomføre innledende undersøkelse på et representativt utvalg av alle frøpartiene. Et representativt utvalg skal utgjøre minst 0,5 % av frøpartiets vekt i delprøver på 50 g eller velges ut på bakgrunn av en strukturert prøvetakingsstrategi, som er statistisk likeverdig med det første alternativet, og kontrollert av vedkommende myndighet.Ved gjennomføring av de innledende undersøkelsene skal den driftsansvarlige for et næringsmiddelforetak la frøene i den representative prøven spire under samme forhold som resten av frøpartiet som skal spires.
+*A. Allmenne regler for prøvetaking og undersøkelse*
 
-2. *Prøvetaking og undersøkelse av spirer og brukt vanningsvann*Driftsansvarlige for næringsmiddelforetak som produserer spirer, skal ta prøver for mikrobiologisk undersøkelse på det tidspunkt der det er størst sannsynlighet for å finne shigatoksinproduserende E. coli (STEC) og Salmonella spp., men aldri før 48 timer etter at spiringsprosessen har startet.Prøver av spirer skal analyseres i samsvar med kravene i rad 1.18 og 1.29 i [kapittel 1](forskrift/2008-12-22-1623/kap1).Dersom en driftsansvarlig for et næringsmiddelforetak som produserer spirer har en prøvetakingsplan, som omfatter framgangsmåter for prøvetaking og prøvetakingssteder for brukt vanningsvann, kan prøvetakingskriteriene i prøvetakingsplanene som er fastsatt i rad 1.18 og 1.29 i [kapittel 1](forskrift/2008-12-22-1623/kap1), erstattes med analyse av 5 prøver på 200 ml av vannet som ble brukt til vanning av spirene.I dette tilfellet skal kravene i rad 1.18 og 1.29 i [kapittel 1](forskrift/2008-12-22-1623/kap1) få anvendelse på analysen av vannet som ble brukt til vanning av spirene, med fraværsgrensen for 200 ml.Når et frøparti undersøkes for første gang, kan driftsansvarlige for næringsmiddelforetak bringe spirer i omsetning bare dersom resultatene av den mikrobiologiske analysen er i samsvar med rad 1.18 og 1.29 i [kapittel 1](forskrift/2008-12-22-1623/kap1) eller med fraværsgrensen for 200 ml dersom det er brukt vanningsvann som analyseres.
+1\. *Innledende undersøkelse av frøpartiet*Driftsansvarlige for næringsmiddelforetak som produserer spirer, skal gjennomføre innledende undersøkelse på et representativt utvalg av alle frøpartiene. Et representativt utvalg skal utgjøre minst 0,5 % av frøpartiets vekt i delprøver på 50 g eller velges ut på bakgrunn av en strukturert prøvetakingsstrategi, som er statistisk likeverdig med det første alternativet, og kontrollert av vedkommende myndighet.Ved gjennomføring av de innledende undersøkelsene skal den driftsansvarlige for et næringsmiddelforetak la frøene i den representative prøven spire under samme forhold som resten av frøpartiet som skal spires.
 
-3. *Prøvetakingshyppighet*Minst én gang i måneden skal driftsansvarlige for næringsmiddelforetak som produserer spirer, ta prøver for mikrobiologisk analyse på det tidspunkt der det er størst sannsynlighet for å finne shigatoksinproduserende E. coli (STEC) og Salmonella spp., men aldri før 48 timer etter at spiringsprosessen har startet.
+2\. *Prøvetaking og undersøkelse av spirer og brukt vanningsvann*Driftsansvarlige for næringsmiddelforetak som produserer spirer, skal ta prøver for mikrobiologisk undersøkelse på det tidspunkt der det er størst sannsynlighet for å finne shigatoksinproduserende E. coli (STEC) og Salmonella spp., men aldri før 48 timer etter at spiringsprosessen har startet.Prøver av spirer skal analyseres i samsvar med kravene i rad 1.18 og 1.29 i [kapittel 1](forskrift/2008-12-22-1623/kap1).Dersom en driftsansvarlig for et næringsmiddelforetak som produserer spirer har en prøvetakingsplan, som omfatter framgangsmåter for prøvetaking og prøvetakingssteder for brukt vanningsvann, kan prøvetakingskriteriene i prøvetakingsplanene som er fastsatt i rad 1.18 og 1.29 i [kapittel 1](forskrift/2008-12-22-1623/kap1), erstattes med analyse av 5 prøver på 200 ml av vannet som ble brukt til vanning av spirene.I dette tilfellet skal kravene i rad 1.18 og 1.29 i [kapittel 1](forskrift/2008-12-22-1623/kap1) få anvendelse på analysen av vannet som ble brukt til vanning av spirene, med fraværsgrensen for 200 ml.Når et frøparti undersøkes for første gang, kan driftsansvarlige for næringsmiddelforetak bringe spirer i omsetning bare dersom resultatene av den mikrobiologiske analysen er i samsvar med rad 1.18 og 1.29 i [kapittel 1](forskrift/2008-12-22-1623/kap1) eller med fraværsgrensen for 200 ml dersom det er brukt vanningsvann som analyseres.
+
+3\. *Prøvetakingshyppighet*Minst én gang i måneden skal driftsansvarlige for næringsmiddelforetak som produserer spirer, ta prøver for mikrobiologisk analyse på det tidspunkt der det er størst sannsynlighet for å finne shigatoksinproduserende E. coli (STEC) og Salmonella spp., men aldri før 48 timer etter at spiringsprosessen har startet.
+
+*B. Unntak fra innledende undersøkelse av alle frøpartiene fastsatt i nr. A.1 i dette avsnitt*
 
 Når det er berettiget på grunnlag av følgende vilkår og godkjent av vedkommende myndighet, kan driftsansvarlige for næringsmiddelforetak som produserer spirer, unntas fra prøvetakingen fastsatt i nr. A.1 i dette avsnitt:vedkommende myndighet finner det godtgjort at den driftsansvarlige for næringsmiddelforetak har innført et styringssystem for næringsmiddeltrygghet for anlegget, som kan omfatte trinn i produksjonsprosessen, som reduserer den mikrobiologiske risikoen, og,historiske data bekrefter at alle partier av forskjellige typer spirer som er produsert i anlegget oppfyller kriteriene for næringsmiddeltrygghet fastsatt i rad 1.18 og 1.29 i kapittel 1 i minst seks sammenhengende måneder før tildeling av tillatelser.◄**M4**
 
@@ -949,11 +1414,31 @@ Forordning [(EU) nr. 579/2014](eu/32014r0579) er konsolidert til og med endringe
 av 28. mai 2014
 om unntak fra visse bestemmelser i vedlegg II til europaparlaments- og rådsforordning [(EF) nr. 852/2004](eu/32004r0852*) med hensyn til sjøtransport av flytende oljer og fettstoffer
 
+EUROPAKOMMISJONEN HAR –
+
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 852/2004](eu/32004r0852*) av 29. april 2004 om næringsmiddelhygiene,1 særlig artikkel 13 nr. 2, og
 
 ut fra følgende betraktninger:Ved forordning [(EF) nr. 852/2004](eu/32004r0852*) er det fastsatt at driftsansvarlige for næringsmiddelforetak må oppfylle de allmenne hygienekravene for transport av næringsmidler fastsatt i kapittel IV i vedlegg II til nevnte forordning. I henhold til nr. 4 i nevnte kapittel skal bulktransport av næringsmidler i flytende form eller i form av granulat eller pulver foregå i beholdere og/eller containere/tanker som er forbeholdt transport av næringsmidler. Dette kravet er imidlertid ikke praktisk og påfører driftsansvarlige for næringsmiddelforetak en urimelig stor byrde dersom kravet også skal gjelde transport i sjøgående fartøy av flytende oljer og fettstoffer beregnet på, eller som sannsynligvis vil bli brukt til, konsum. Antall sjøgående fartøy forbeholdt transport av næringsmidler er heller ikke tilstrekkelig til å kunne opprettholde en avbrutt handel med slike oljer og fettstoffer.Ved kommisjonsdirektiv [96/3/EF](eu/31996l0003)2 tillates sjøtransport av flytende oljer og fettstoffer i bulk i tanker som tidligere er blitt brukt til transport av stoffene som er oppført i vedlegget til nevnte direktiv, forutsatt at visse vilkår som sikrer vern av menneskers helse og de berørt næringsmidlenes sikkerhet og sunnhet, er oppfylt.På bakgrunn av drøftelsene i Codex Alimentarius som førte til vedtakelse av de kriterier som skal anvendes for å bestemme om tidligere laster i forbindelse med sjøtransport av flytende matoljer og matfett i bulk, er akseptable,3 og på Kommisjonens anmodning, vurderte Den europeiske myndighet for næringsmiddeltrygghet (EFSA) kriteriene for akseptable tidligere laster for matfett og matoljer, og vedtok en vitenskapelig uttalelse om gjennomgåelsen av kriteriene for akseptable tidligere laster for matfett og matoljer.4På Kommisjonens anmodning foretok EFSA også en vurdering av listen over stoffer der det ble tatt hensyn til disse kriteriene. EFSA har vedtatt flere vitenskapelige uttalelser om vurderingen av stoffene med tanke på om de er akseptable som tidligere laster for matfett og matoljer.5 6 7 8Av hensyn til klarheten i Unionens regelverk og for å ta hensyn til resultatene av EFSAs vitenskapelige uttalelser bør direktiv [96/3/EF](eu/31996l0003) oppheves og erstattes av denne forordning.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for næringsmiddelkjeden og dyrehelsen –
+
+1 EUT L 139 av 30.4.2004, s. 1.
+
+2 Kommisjonsdirektiv [96/3/EF](eu/31996l0003) av 26. januar 1996 om unntak fra visse bestemmelser i rådsdirektiv [93/43/EØF](eu/31993l0043*) om næringsmiddelhygiene med hensyn til sjøtransport av flytende oljer og fettstoffer i bulk (EFT L 21 av 27.1.1996, s. 42).
+
+3 Det felles FAO/WHO-programmet om næringsmiddelstandarder, Codex Alimentarius-kommisjonen, 34. møte, International Conference Centre, Genève, Sveits, 4.–9. juli 2011, REP11/CAC, nr. 45–46.
+
+4 Vitenskapelig uttalelse fra vitenskapsgruppen for forurensende stoffer i næringsmiddelkjeden på anmodning fra Europakommisjonen om gjennomgåelsen av kriteriene for akseptable tidligere laster for matfett og matoljer. EFSA Journal (2009) 1110, 1–21.
+
+5 EFSAs vitenskapsgruppe for forurensende stoffer i næringsmiddelkjeden (CONTAM): «Scientific Opinion on the evaluation of substances as acceptable previous cargoes for edible fats and oils». EFSA Journal 2009; 7(11):1391.
+
+6 EFSAs vitenskapsgruppe for forurensende stoffer i næringsmiddelkjeden (CONTAM): «Scientific Opinion on the evaluation of the substances currently on the list in the Annex to Commission Directive [96/3/EC](eu/31996l0003) as acceptable previous cargoes for edible fats and oils, Part I of III». EFSA Journal 2011; 9(12):2482.
+
+7 EFSAs vitenskapsgruppe for forurensende stoffer i næringsmiddelkjeden (CONTAM): «Scientific Opinion on the evaluation of the substances currently on the list in the Annex to Commission Directive [96/3/EC](eu/31996l0003) as acceptable previous cargoes for edible fats and oils, Part II of III». EFSA Journal 2012; 10(5):2703.
+
+8 EFSAs vitenskapsgruppe for forurensende stoffer i næringsmiddelkjeden (CONTAM): «Scientific Opinion on the evaluation of the substances currently on the list in the Annex to Commission Directive [96/3/EC](eu/31996l0003) as acceptable previous cargoes for edible fats and oils, Part III of III». EFSA Journal 2012; 10(12):2984.
+
+VEDTATT DENNE FORORDNING:
 
 ### Artikkel 1. Unntak
 
@@ -961,19 +1446,19 @@ Som unntak fra [kapittel IV](forskrift/2008-12-22-1623/kapiv) nr. 4 i vedlegg II
 
 ### Artikkel 2. Vilkår for unntak
 
-1. Det gods som transporteres før oljer og fettstoffer i samme utstyr i et sjøgående fartøy (heretter kalt «tidligere last»), skal bestå av et stoff eller en blanding av de stoffer som er oppført i vedlegget til denne forordning.
+1\. Det gods som transporteres før oljer og fettstoffer i samme utstyr i et sjøgående fartøy (heretter kalt «tidligere last»), skal bestå av et stoff eller en blanding av de stoffer som er oppført i vedlegget til denne forordning.
 
-2. Bulktransport i sjøgående fartøy av flytende oljer eller fettstoffer som skal bearbeides, skal være tillatt i tanker som ikke utelukkende er forbeholdt transport av næringsmidler, på følgende vilkår:dersom oljene eller fettstoffene transporteres i en tank av rustfritt stål eller en tank som innvendig er belagt med epoksymateriale eller et teknisk likeverdig materiale, skal den siste lasten ha vært:et næringsmiddel elleren last på listen over akseptable tidligere laster fastsatt i vedlegget,ellerdersom oljene eller fettstoffene transporteres i en tank produsert av andre materialer enn de som er nevnt i bokstav a), skal de tre siste lastene som ble transportert i tanken ha vært:næringsmidler elleren last på listen over akseptable tidligere laster fastsatt i vedlegget.
+2\. Bulktransport i sjøgående fartøy av flytende oljer eller fettstoffer som skal bearbeides, skal være tillatt i tanker som ikke utelukkende er forbeholdt transport av næringsmidler, på følgende vilkår:dersom oljene eller fettstoffene transporteres i en tank av rustfritt stål eller en tank som innvendig er belagt med epoksymateriale eller et teknisk likeverdig materiale, skal den siste lasten ha vært:et næringsmiddel elleren last på listen over akseptable tidligere laster fastsatt i vedlegget,ellerdersom oljene eller fettstoffene transporteres i en tank produsert av andre materialer enn de som er nevnt i bokstav a), skal de tre siste lastene som ble transportert i tanken ha vært:næringsmidler elleren last på listen over akseptable tidligere laster fastsatt i vedlegget.
 
-3. Bulktransport i sjøgående fartøy av oljer eller fettstoffer som ikke skal bearbeides ytterligere, skal være tillatt i tanker som ikke utelukkende er forbeholdt transport av næringsmidler, på følgende vilkår:tanken skal:være produsert av rustfritt stål ellerha et innvendig belegg av epoksymateriale eller et teknisk likeverdig materialeogde tre siste lastene som ble transportert i tanken, skal ha vært næringsmidler.
+3\. Bulktransport i sjøgående fartøy av oljer eller fettstoffer som ikke skal bearbeides ytterligere, skal være tillatt i tanker som ikke utelukkende er forbeholdt transport av næringsmidler, på følgende vilkår:tanken skal:være produsert av rustfritt stål ellerha et innvendig belegg av epoksymateriale eller et teknisk likeverdig materialeogde tre siste lastene som ble transportert i tanken, skal ha vært næringsmidler.
 
 ### Artikkel 3. Registrering
 
-1. Kapteinen på det sjøgående fartøyet som transporterer oljer og fettstoffer i bulk i tanker, skal inneha nøyaktig dokumentasjon om de tre tidligere lastene i de berørte tankene og om effektiviteten av rengjøringsprosessen som er brukt mellom disse lastene.
+1\. Kapteinen på det sjøgående fartøyet som transporterer oljer og fettstoffer i bulk i tanker, skal inneha nøyaktig dokumentasjon om de tre tidligere lastene i de berørte tankene og om effektiviteten av rengjøringsprosessen som er brukt mellom disse lastene.
 
-2. Dersom lasten omlastes til et annet fartøy, skal kapteinen på det mottakende sjøgående fartøyet, utover den dokumentasjon som kreves i nr. 1, inneha nøyaktig dokumentasjon som viser at den tidligere bulktransporten av oljer og fettstoffer skjedde i henhold til vilkårene fastsatt i artikkel 2, og om effektiviteten av rengjøringsprosessen som er brukt mellom disse lastene på det andre fartøyet.
+2\. Dersom lasten omlastes til et annet fartøy, skal kapteinen på det mottakende sjøgående fartøyet, utover den dokumentasjon som kreves i nr. 1, inneha nøyaktig dokumentasjon som viser at den tidligere bulktransporten av oljer og fettstoffer skjedde i henhold til vilkårene fastsatt i artikkel 2, og om effektiviteten av rengjøringsprosessen som er brukt mellom disse lastene på det andre fartøyet.
 
-3. På anmodning skal kapteinen på det sjøgående fartøyet framlegge dokumentasjonen nevnt i nr. 1 og 2 for vedkommende myndighet.
+3\. På anmodning skal kapteinen på det sjøgående fartøyet framlegge dokumentasjonen nevnt i nr. 1 og 2 for vedkommende myndighet.
 
 ### Artikkel 4. Oppheving
 
@@ -987,10 +1472,130 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel, 28. mai 2014.
 
-*For Kommisjonen*José Manuel BARROSO*President*
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  | José Manuel BARROSO |
+|  | *President* |
 
 ### Vedlegg
 Liste over akseptable tidligere laster
+
+| *Stoff (synonymer)* | *CAS-nr.* |
+| --- | --- |
+| Eddiksyre (etansyre, vineddik, metankarboksylsyre) | 64-19-7 |
+| Eddiksyreanhydrid (etansyreanhydrid) | 108-24-7 |
+| Aceton (dimetylketon, 2-propanon) | 67-64-1 |
+| Sure oljer og destillater av fettsyrer – fra vegetabilske oljer og fettstoffer og/eller blandinger av disse samt animalske og marine oljer og fettstoffer | – |
+| Ammoniumhydroksid (ammoniumhydrat, ammoniakkløsning, ammoniakkvann) | 1336-21-6 |
+| Ammoniumpolyfosfat | 68333-79-9 og 10124-31-9 |
+| Animalske, marine, vegetabilske og hydrogenerte oljer og fettstoffer i samsvar med IMOs MEPC.2/Circ. | – |
+| Benzylalkohol (bare legemiddel- og reagenskvalitet) | 100-51-6 |
+| N-butylacetat | 123-86-4 |
+| Sec-butylacetat | 105-46-4 |
+| Tert-butylacetat | 540-88-5 |
+| ►**M1** Ammoniumnitratløsning | 6484-52-2 |
+| Kalsium-ammoniumnitrat | 15245-12-2 ◄**M1** |
+| Kalsiumkloridløsning | 10043-52-4 |
+| ►**M1** Kalsiumnitrat | 10124-37-5 |
+| Kalsium(II)nitratdihydrat | 35054-52-5 |
+| Kalsiumnitrattetrahydrat | 13477-34-4 ◄**M1** |
+| Sykloheksan (heksametylen, heksanaften, heksahydrobenzen) | 110-82-7 |
+| Epoksydert soyaolje (med minst 7 % og høyst 8 % oksiraninnhold) | 8013-07-8 |
+| Etanol | 64-17-5 |
+| Etylacetat (eddiksyreeter, eddiksyreester, eddiknafta) | 141-78-6 |
+| 2-etylheksanol (2-etylheksylalkohol) | 104-76-7 |
+| ►**M2** Ethyl-tert-butylether | 637-92-3 ◄**M2** |
+| Fettsyrer |  |
+| Arachinsyre (eikosansyre) | 506-30-9 |
+| Behensyre (dokosansyre) | 112-85-6 |
+| Butansyre (n-butansyre, smørsyre) | 107-92-6 |
+| N-dekansyre (dekansyre) | 334-48-5 |
+| Heksansyre (kapronsyre) | 142-62-1 |
+| Kaprylsyre (n-oktansyre) | 124-07-2 |
+| Erukasyre (cis-13-dokosensyre) | 112-86-7 |
+| Heptansyre (n-heptansyre) | 111-14-8 |
+| Laurinsyre (n-dodekansyre) | 143-07-7 |
+| Lauroleinsyre (dodekansyre) | 4998-71-4 |
+| Linoleat (9,12-oktadekadiensyre) | 60-33-3 |
+| Linoleat (9,12,15-oktadekatriensyre) | 463-40-1 |
+| Myristinsyre (n-tetradekansyre) | 544-63-8 |
+| Myristoleinsyre (n-tetradekensyre) | 544-64-9 |
+| Oleinsyre (n-oktadekensyre) | 112-80-1 |
+| Palmitinsyre (n-heksadekansyre) | 57-10-3 |
+| Palmitoleinsyre (cis-9-heksadekensyre) | 373-49-9 |
+| Pelargonsyre (n-nonansyre) | 112-05-0 |
+| Ricinolsyre (cis-12-hydroksy-oktadek-9-ensyre, ricinusoljesyre) | 141-22-0 |
+| Stearinsyre (n-oktadekansyre) | 57-11-4 |
+| Valeriansyre (n-pentansyre) | 109-52-4 |
+| Fettsyreestere – enhver ester dannet ved kombinasjon av en hvilken som helst av de oppførte fettsyrer og en hvilken som helst av de oppførte fettalkoholer samt metanol og etanol. Eksempler på slike er: |  |
+| Butylmyristat | 110-36-1 |
+| Cetylstearat | 110-63-2 |
+| Oleylpalmitat | 2906-55-0 |
+| Metyllaurat (metyldodekanat) | 111-82-0 |
+| Metyloleat (metyloktadekenat) | 112-62-9 |
+| Metylpalmitat (metylheksadekanat) | 112-39-0 |
+| Metylstearat (metyloktadekanat) | 112-61-8 |
+| Fettalkoholer |  |
+| Butylalkohol (1-butanol) | 71-36-3 |
+| Heksan-1-ol (1-heksanol, heksylalkohol) | 111-27-3 |
+| Oktan-1-ol (1-n-oktanol, oktylalkohol) | 111-87-5 |
+| Cetylalkohol (alkohol C-16, heksadekan-1-ol, palmitylalkohol, n-primær heksadekylalkohol) | 36653-82-4 |
+| Dekan-1-ol (dekylalkohol) | 112-30-1 |
+| Heptan-1-ol (heptylalkohol) | 111-70-6 |
+| Laurylalkohol (n-dodekanol, dodekylakohol) | 112-53-8 |
+| Myristylalkohol (tetradekan-1-ol, tetradekanol) | 112-72-1 |
+| Nonylalkohol (nonan-1-ol) | 143-08-8 |
+| Oleylalkohol (oktadekenol) | 143-28-2 |
+| Stearylalkohol (oktadekan-1-ol) | 112-92-5 |
+| Tridekan-1-ol | 112-70-9 |
+| Blandinger av fettalkoholer |  |
+| Laurylmyristylalkohol (C12–C14-blanding) |  |
+| Cetylstearylalkohol (C16–C18-blanding) |  |
+| Maursyre (metansyre, hydrogenkarboksylsyre) | 64-18-6 |
+| Fruktose | 57-48-7 og 30237-26-4 |
+| Glyserol (glyserin, 1,2,3-propantriol) | 56-81-5 |
+| Glykoler |  |
+| 1,3-butandiol (1,3-butylenglykol) | 107-88-0 |
+| 1,4-butandiol (1,4-butylenglykol) | 110-63-4 |
+| Heptan (kommersiell kvalitet) | 142-82-5 |
+| Heksan (teknisk kvalitet) | 110-54-3 og 64742-49-0 |
+| Hydrogenperoksid | 7722-84-1 |
+| Isobutanol (2-metyl-1-propanol) | 78-83-1 |
+| Isobutylacetat (2-metylpropylacetat) | 110-19-0 |
+| Isodekanol (isodekylalkohol) | 25339-17-7 |
+| Isononanol (isononylalkohol) | 27458-94-2 |
+| Isooktanol (isooktylalkohol) | 26952-21-6 |
+| Isopropanol (2-propanol, isopropylalkohol, IPA) | 67-63-0 |
+| Kaolinoppslemming | 1332-58-7 |
+| Limonen (dipenten) | 138-86-3 |
+| Magnesiumkloridløsning | 7786-30-3 |
+| Metanol (metylalkohol) | 67-56-1 |
+| ►**M2** Methylacetat | 79-20-9 ◄**M2** |
+| Metyletylketon (2-butanon) | 78-93-3 |
+| Metylisobutylketon (4-metyl-2-pentanon) | 108-10-1 |
+| Metyltertiærbutyleter (MBTE) | 1634-04-4 |
+| Melasse framstilt av den konvensjonelle sukkerbearbeidingsindustrien ved bruk av sukkerrør, sukkerbete, sitrus eller sorghum | – |
+| Parafinvoks (næringsmiddelkvalitet) | 8002-74-2 og 63231-60-7 |
+| Pentan | 109-66-0 |
+| Fosforsyre (ortofosforsyre) | 7664-38-2 |
+| Polypropylenglykol (molekylvekt over 400) | 25322-69-4 |
+| Drikkevann | 7732-18-5 |
+| Kaliumhydroksidløsning (kaustisk kali) | 1310-58-3 |
+| N-propylacetat | 109-60-4 |
+| Propylalkohol (1-propanol) | 71-23-8 |
+| Propylenglykol (1,2-propylenglykol, 1,2-propandiol, 1,2-dihydroksypropan, monopropylenglykol (mpg), metylglykol) | 57-55-6 |
+| 1,3-propandiol (1,3-propylenglykol, trimetylglykol) | 504-63-2 |
+| Tetrapropylen | 6842-15-5 |
+| Natrimhydroksidløsning (kaustisk soda, natriumhydroksid) | 1310-73-2 |
+| Natriumsilikatløsning (vannglass) | 1344-09-8 |
+| Sorbitolløsning (d-sorbitol) | 50-70-4 |
+| Svovelsyre | 7664-93-9 |
+| Ufraksjonerte fettsyrer fra vegetabilske, marine og animalske oljer og fettstoffer og/eller blandinger av disse, forutsatt at kildene er spiselige typer av fettstoffer eller oljer | – |
+| Ufraksjonerte fettalkoholer fra vegetabilske, marine og animalske oljer og fettstoffer og/eller blandinger av disse, forutsatt at kildene er spiselige typer av fettstoffer eller oljer | – |
+| Ufraksjonerte fettsyreestere fra vegetabilske, marine og animalske oljer og fettstoffer og/eller blandinger av disse, forutsatt at kildene er spiselige typer av fettstoffer eller oljer | – |
+| Urea og ammoniumnitrat (UAN) | – |
+| Hvite mineraloljer | 8042-47-5 |
 
 ### Forordning (EU) nr. 210/2013 om virksomheter som produserer spirer i henhold til europaparlaments- og rådsforordning (EF) nr. 852/2004
 
@@ -1002,11 +1607,29 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EU) nr. 210/
 av 11. mars 2013
 om godkjenning av virksomheter som produserer spirer, i henhold til europaparlaments- og rådsforordning [(EF) nr. 852/2004](eu/32004r0852*)
 
+EUROPAKOMMISJONEN HAR –
+
 under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til europaparlaments- og rådsforordning [(EF) nr. 852/2004](eu/32004r0852*) av 29. april 2004 om næringsmiddelhygiene,1 særlig artikkel 6 nr. 3 bokstav c), og
 
 ut fra følgende betraktninger:Ved europaparlaments- og rådsforordning [(EF) nr. 852/2004](eu/32004r0852*) er det fastsatt alminnelige regler for næringsmiddelhygiene som gjelder for driftsansvarlige for næringsmiddelforetak, blant annet for primærproduksjon og tilknyttede aktiviteter. Ved nevnte forordning er det fastsatt at driftsansvarlige for næringsmiddelforetak skal sikre at virksomhetene godkjennes av den vedkommende myndighet etter minst ett besøk på stedet dersom godkjenning kreves i henhold til nasjonal lovgivning, europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853*)2 eller en beslutning vedtatt i henhold til forordning [(EF) nr. 852/2004](eu/32004r0852*).Etter utbruddene av shigatoksinproduserende *E. coli* i mai 2011 i Unionen ble konsum av spirer identifisert som den mest sannsynlige kilden til utbruddene.Den europeiske myndighet for næringsmiddeltrygghet (EFSA) vedtok 20. oktober 2011 en vitenskapelig uttalelse om risikoen ved shigatoksinproduserende *Escherichia coli* (STEC) og andre sykdomsframkallende bakterier i frø og spirer.3 EFSA konkluderer i sin uttalelse med at den mest sannsynlige kilden til utbruddene som kan knyttes til spirer, er at tørre frø er blitt forurenset med sykdomsframkallende bakterier. Videre framgår det av uttalelsen at som følge av den høye fuktigheten og gunstige temperaturen under spiring, kan sykdomsframkallende bakterier på tørre frø formere seg under spiring og utgjøre en fare for folkehelsen.Av hensyn til vernet av folkehelsen i Unionen og i lys av EFSAs uttalelse ble kommisjonsforordning [(EU) nr. 209/2013](eu/32013r0209)4 om endring av forordning [(EF) nr. 2073/2005](eu/32005r2073*) om mikrobiologiske kriterier for næringsmidler,5 kommisjonsforordning [(EU) nr. 211/2013](eu/32013r0211)6 og Kommisjonens gjennomføringsforordning [(EU) nr. 208/2013](eu/32013r0208)7 vedtatt.I tillegg til tiltakene fastsatt i nevnte rettsakter bør virksomheter som produserer spirer, være underlagt godkjenning i samsvar med forordning [(EF) nr. 852/2004](eu/32004r0852*). Slik godkjenning, som skal gis etter minst ett besøkt på stedet, vil sikre at slike virksomheter oppfyller relevante hygieneregler, og dermed sikre et høyt nivå for vern av folkehelsen. Godkjenning av slike virksomheter bør gis under forutsetning av at de oppfyller flere krav for å sikre at risikoen for forurensning i anlegget der spirene produseres, reduseres.Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for næringsmiddelkjeden og dyrehelsen –
+
+1 EUT L 139 av 30.4.2004, s. 1.
+
+2 EUT L 139 av 30.4.2004, s. 55.
+
+3 EFSA Journal 2011; 9(11):2424.
+
+4 Se s. 19 i denne utgaven av EUT.
+
+5 Se s. 16 i denne utgaven av EUT.
+
+6 EUT L 338 av 22.12.2005, s. 1.
+
+7 Se s. 26 i denne utgaven av EUT.
+
+VEDTATT DENNE FORORDNING:
 
 ### Artikkel 1
 
@@ -1026,7 +1649,11 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel, 11. mars 2013.
 
-*For Kommisjonen*José Manuel BARROSO*President*
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  | José Manuel BARROSO |
+|  | *President* |
 
 ### Vedlegg
 Krav til godkjenning av virksomheter som produserer spirer

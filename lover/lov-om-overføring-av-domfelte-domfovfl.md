@@ -15,7 +15,7 @@ xml_hash: "4ab14159f83e1a69dabf491e1ad3f2ece6df3ff862aac1e527dcee83b0af8774"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-10T17:52:49.841668+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -400,11 +400,11 @@ I denne konvensjonbetyr «europeisk straffedom» enhver endelig avgjørelse truf
 
 ### a. Alminnelige vilkår for fullbyrding.
 
-Art 2.
+###### Art 2.
 
 Denne del gjelder:sanksjoner som medfører frihetsberøvelse;bøter eller inndragning;rettighetstap.
 
-Art 3.
+###### Art 3.
 
 1\. I de tilfelle og på de vilkår som er fastsatt i denne konvensjon, har en kontraherende stat kompetanse til å fullbyrde en sanksjon1 som er idømt i en annen kontraherende stat, og som er eksigibel der.
 
@@ -412,7 +412,7 @@ Art 3.
 
 1 Se del I, art 1, d.
 
-Art 4.
+###### Art 4.
 
 1\. En sanksjon1 kan ikke fullbyrdes av en annen kontraherende stat med mindre den handling sanksjonen gjelder, ville ha vært en lovovertredelse2 etter denne stats lovgivning, såframt den var begått på dens eget territorium, og lovovertrederen ville ha kunnet idømmes straff der.
 
@@ -420,35 +420,35 @@ Art 4.
 
 1 Se del I, art 1, d.2 Se del I, art 1, b.
 
-Art 5.
+###### Art 5.
 
 Den dømmende stat kan bare anmode en annen kontraherende stat om å fullbyrde sanksjonen1 dersom ett eller flere av følgende vilkår er oppfylt:domfelte er fast bosatt i den annen stat;det må antas at fullbyrdingen av sanksjonen i den annen stat vil forbedre mulighetene for sosial rehabilitering av domfelte;sanksjonen medfører frihetsberøvelse og den vil kunne fullbyrdes i fortsettelse av en annen sanksjon, som medfører frihetsberøvelse, og som domfelte soner eller skal sone i den annen stat;den annen stat er domfeltes opprinnelige hjemland og har erklært seg villig til å påta seg ansvaret for å fullbyrde denne sanksjonen;den dømmende stat finner at den selv ikke kan fullbyrde sanksjonen, selv ikke ved å gjøre bruk av utlevering, og at den annen stat er i stand til det.
 
 1 Se del I, art 1, d.
 
-Art 6.
+###### Art 6.
 
 Fullbyrding som det er anmodet om i samsvar med de foregående bestemmelser, kan avslås helt eller delvis i følgende tilfelle:dersom fullbyrding ville stride mot mottakerstatens grunnleggende rettsprinsipper;dersom mottakerstaten anser den pådømte lovovertredelse for å være av politisk karakter eller for å være en rent militær lovovertredelse;dersom mottakerstaten finner at det er vektige grunner til å anta at dommen skyldes eller er skjerpet på grunn av rase, religion, nasjonalitet eller politisk oppfatning;dersom fullbyrdingen ville stride mot mottakerstatens internasjonale forpliktelser;dersom handlingen allerede er gjenstand for rettsforfølgning i mottakerstaten eller denne beslutter å innlede rettsforfølgning for handlingen;dersom kompetent myndighet i mottakerstaten har besluttet å unnlate rettsforfølgning eller å innstille en allerede påbegynt rettsforfølgning for den samme handling;dersom handlingen er begått utenfor avsenderstatens territorium;dersom mottakerstaten ikke er i stand til å fullbyrde sanksjonen;dersom anmodningen er begrunnet i artikkel 5 bokstav e og ingen av de øvrige betingelser som er nevnt i artikkel 5 er oppfylt;dersom mottakerstaten finner at avsenderstaten selv er i stand til å fullbyrde sanksjonen;dersom det ikke ville kunne reises tiltale mot domfelte i mottakerstaten på grunn av hans alder på det tidspunkt da lovovertredelsen ble begått;dersom den ilagte sanksjon etter lovgivningen i mottakerstaten ikke lenger kan fullbyrdes på grunn av foreldelse;for så vidt domfellelsen medfører rettighetstap.1
 
 1 Se del I, art 1, e.
 
-Art 7.
+###### Art 7.
 
 En anmodning om fullbyrding skal ikke fremmes dersom fullbyrding ville stride mot de prinsipper som er anerkjent i denne konvensjons del III avsnitt 1.
 
 ### b. Virkningene av overføring av fullbyrding.
 
-Art 8.
+###### Art 8.
 
 Ved anvendelsen av artikkel 6 bokstav 1 og det forbehold som er nevnt i bilag I bokstav c til denne konvensjon, skal enhver handling som avbryter eller utsetter foreldelse, og som gyldig er foretatt av den dømmende stats myndigheter, gis samme virkning med hensyn til beregningen av foreldelsen i mottakerstaten etter dennes lovgivning.
 
-Art 9.
+###### Art 9.
 
 1\. En domfelt som er blitt fengslet i avsenderstaten og er blitt overført til mottakerstaten med henblikk på fullbyrding, kan ikke siktes, tiltales, domfelles eller fengsles med henblikk på fullbyrding av straff eller sikkerhetstiltak eller undergis noen annen begrensning i sin personlige frihet for noen annen lovovertredelse begått før overføringen enn den som ligger til grunn for den dom som skal fullbyrdes, unntatt i følgende tilfelle:Når den stat som har overført ham samtykker. Det skal framsettes anmodning om samtykke, vedlagt alle relevante dokumenter og en utskrift av enhver forklaring domfelte måtte ha avgitt angående vedkommende lovovertredelse. Samtykke skal gis når den lovovertredelse anmodningen gjelder i seg selv ville gi adgang til utlevering etter den anmodende stats lovgivning, eller når utlevering ville være utelukket bare på grunn av straffens størrelse.Når domfelte, selv om han har hatt mulighet for det, ikke har forlatt den stat han er blitt overført til innen 45 dager etter sin endelige løslatelse, eller han er vendt tilbake til denne stats territorium etter å ha forlatt det.
 
 2\. Mottakerstaten kan likevel treffe ethvert tiltak som er nødvendig for å fjerne vedkommende fra sitt territorium, eller som etter dens lovgivning er nødvendig for å avbryte foreldelse, herunder rettsforfølgning uten at vedkommende er til stede.
 
-Art 10.
+###### Art 10.
 
 1\. Fullbyrding skal skje etter mottakerstatens lovgivning, og bare denne stat kan treffe alle behørige avgjørelser, herunder prøveløslatelse.
 
@@ -456,7 +456,7 @@ Art 10.
 
 3\. Begge stater kan utøve retten til amnesti eller benådning.
 
-Art 11.1
+###### Art 11.1
 
 1\. Når den dømmende stat har anmodet om fullbyrding, kan den ikke lenger selv innlede fullbyrdingen av en sanksjon2 som anmodningen gjelder. Den dømmende stat kan likevel innlede fullbyrdingen av en sanksjon2 som medfører frihetsberøvelse, når domfelte allerede er fengslet innen denne stats territorium på den tid anmodningen framsettes.
 
@@ -464,7 +464,7 @@ Art 11.1
 
 1 Se art. 51.2 Se del I, art 1, d.
 
-Art 12.
+###### Art 12.
 
 1\. De kompetente myndigheter i mottakerstaten skal stanse fullbyrdingen så snart de får kunnskap om benådning, amnesti eller søknad om gjenopptakelse eller noen annen avgjørelse, som fører til at sanksjonen ikke lenger kan fullbyrdes. Det samme gjelder for fullbyrding av bøtestraff, når domfelte har betalt boten til den kompetente myndighet i avsenderstaten.
 
@@ -472,7 +472,7 @@ Art 12.
 
 ### c. Forskjellige bestemmelser.
 
-Art 13.
+###### Art 13.
 
 1\. Transitt gjennom en kontraherende stats territorium av en fengslet person som skal overføres til en tredje kontraherende stat i medhold av denne konvensjon, skal tillates etter anmodning fra den stat hvor vedkommende er blitt fengslet. Transittstaten kan kreve å få tilsendt ethvert behørig dokument før den treffer avgjørelse om anmodningen. Den person som skal overføres, skal forbli fengslet på transittstatens territorium, med mindre den stat han overføres fra anmoder om at han frigis.
 
@@ -480,7 +480,7 @@ Art 13.
 
 3\. Dersom det brukes lufttransport, gjelder følgende bestemmelser:Når det ikke er meningen at landing skulle skje, kan den stat vedkommende skal overføres fra, underrette den stat hvis territorium skal overflys, om at vedkommende overføres i medhold av denne konvensjon. I tilfelle av uforutsett landing, har denne underretning virkning som en anmodning om pågripelse og fengsling som nevnt i artikkel 32 nr. 2, og det skal framsettes formell anmodning om transitt.Når det er meningen at landing skal skje, skal det framsettes formell anmodning om transitt.
 
-Art 14.
+###### Art 14.
 
 De kontraherende stater kan ikke seg imellom kreve refusjon av utgifter som følge av anvendelsen av denne konvensjon.
 
@@ -638,23 +638,23 @@ Dersom domfelte er til stede i avsenderstaten etter at det er mottatt underretni
 
 ### a. Alminnelige bestemmelser.
 
-Art 37.
+###### Art 37.
 
 En sanksjon1 idømt i avsenderstaten kan bare fullbyrdes i mottakerstaten etter en domstolsavgjørelse truffet der. Enhver kontraherende stat kan likevel gi andre myndigheter fullmakt til å treffe slike avgjørelser, dersom det bare gjelder fullbyrding av bot eller inndragning og avgjørelsen kan bringes inn for en domstol.
 
 1 Se del I, art 1, d.
 
-Art 38.
+###### Art 38.
 
 Saken skal bringes inn for retten eller for den myndighet som er utpekt i medhold av artikkel 37, dersom mottakerstaten finner grunnlag for å fremme anmodningen om fullbyrding.
 
-Art 39.
+###### Art 39.
 
 1\. Før en domstol treffer avgjørelse om en anmodning om fullbyrding skal domfelte gis adgang til å framsette sine synspunkter. På begjæring skal domfelte få forklare seg enten ved hjelp av en rettsanmodning eller personlig for retten. Domfelte skal gis adgang til å forklare seg personlig i retten dersom han uttrykkelig begjærer det.
 
 2\. Retten kan likevel treffe avgjørelse om hvorvidt anmodningen om fullbyrding skal imøtekommes, uten at en domfelt som har begjært å få forklare seg personlig for retten, er til stede, dersom han er fengslet i avsenderstaten. I disse tilfelle skal avgjørelsen etter artikkel 44 om omsetting av sanksjonen utsettes inntil domfelte er overført til mottakerstaten og har hatt adgang til å møte for retten.
 
-Art 40.
+###### Art 40.
 
 1\. Domstolen eller den myndighet som behandler saken i medhold av artikkel 37, skal forvisse seg om:at den sanksjon som begjæres fullbyrdet, er idømt ved en europeisk straffedom;1at vilkårene i artikkel 4 er oppfylt;at vilkåret i artikkel 6 bokstav a ikke er oppfylt eller ikke bør utelukke fullbyrding;at fullbyrding ikke er utelukket i medhold av artikkel 7;at vilkårene i denne dels avsnitt 3 er oppfylt dersom det dreier seg om en uteblivelsesdom2 eller en «ordonnance pénale».3
 
@@ -662,21 +662,21 @@ Art 40.
 
 1 Se del I, art 1, a.2 Se del I, art 1, f.3 Se del I, art 1, g.
 
-Art 41.
+###### Art 41.
 
 Det skal være adgang til å appellere de rettslige avgjørelser som etter dette avsnitt treffes om fullbyrdingen samt de avgjørelser som treffes etter at avgjørelse av den administrative myndighet som er nevnt i artikkel 37 er brakt inn for en domstol.
 
-Art 42.
+###### Art 42.
 
 Mottakerstaten er bundet av bevisbedømmelsen for så vidt den er anført i avgjørelsen eller avgjørelsen forutsetningsvis bygger på den.
 
 ### b. Bestemmelser spesielt om fullbyrding av sanksjoner som medfører frihetsberøvelse.
 
-Art 43.
+###### Art 43.
 
 Dersom domfelte er fengslet i avsenderstaten, skal han, med mindre denne stats lovgivning bestemmer noe annet, overføres til mottakerstaten så snart avsenderstaten har fått underretning om at anmodningen om fullbyrding er imøtekommet.
 
-Art 44.
+###### Art 44.
 
 1\. Dersom en anmodning om fullbyrding imøtekommes, skal retten istedenfor den frihetsberøvende sanksjon1 som er idømt i avsenderstaten, fastsette en sanksjon som har heimel i dens egen lovgivning for samme lovovertredelse.2 Med de begrensninger som er fastsatt i nr. 2, kan sanksjonen være av en annen art eller varighet enn den som er idømt i avsenderstaten. Dersom den sistnevnte sanksjon ligger under den minstestraff som kan idømmes etter mottakerstatens lovgivning, er retten ikke bundet av denne minstestraff, men den skal idømme en sanksjon som svarer til den som er idømt i avsenderstaten.
 
@@ -690,7 +690,7 @@ Art 44.
 
 ### c. Bestemmelser spesielt om fullbyrding av bøter og inndragning.
 
-Art 45.
+###### Art 45.
 
 1\. Dersom en anmodning om fullbyrding av en bot eller inndragning av et pengebeløp imøtekommes, skal retten eller den myndighet som er utpekt i medhold av artikkel 37, omsette beløpet til mottakerstatens myntenhet etter den vekselkurs som gjelder når avgjørelsen treffes. Den skal således fastsette boten eller det beløp som skal inndras, men kan likevel ikke overskride det maksimumsbeløp som er fastsatt i dens egen lovgivning for samme lovovertredelse, eller dersom det ikke er fastsatt noe maksimumsbeløp, det høyeste beløp som normalt pålegges i mottakerstaten for en slik lovovertredelse.
 
@@ -698,7 +698,7 @@ Art 45.
 
 3\. Enhver lemping med hensyn til tidspunktet for betalingen eller avdragsvis betaling som er innrømmet i avsenderstaten, skal respekteres av mottakerstaten.
 
-Art 46.
+###### Art 46.
 
 1\. Dersom anmodningen om fullbyrding gjelder inndragning av en bestemt gjenstand, kan retten eller den myndighet som er utpekt i medhold av artikkel 37, beslutte inndragning av gjenstanden bare for så vidt slik inndragning har heimel i mottakerstatens lovgivning for samme lovovertredelse.
 
@@ -706,13 +706,13 @@ Art 46.
 
 1 Se del I, art 1, b.
 
-Art 47.
+###### Art 47.
 
 1\. Beløp som innkommer gjennom bøter og inndragning skal innbetales til statskassen i mottakerstaten, likevel slik at det tas hensyn til tredjemanns rettigheter.
 
 2\. Gjenstander som representerer en særlig interesse, kan sendes tilbake til avsenderstaten på dennes anmodning.
 
-Art 48.
+###### Art 48.
 
 Dersom en bot ikke kan inndrives, kan retten i mottakerstaten idømme en subsidiær sanksjon som medfører frihetsberøvelse, for så vidt begge staters lovgivning gir heimel for det i slike tilfelle, med mindre avsenderstaten uttrykkelig har begrenset sin anmodning til bare å gjelde inndrivelse av boten. Dersom retten beslutter å pålegge en subsidiær sanksjon som medfører frihetsberøvelse, gjelder følgende regler:Dersom omsetting av en bot til en sanksjon som medfører frihetsberøvelse, allerede er foreskrevet enten i den dom som er avsagt i avsenderstaten eller direkte i denne stats lovgivning, skal retten i mottakerstaten fastsette denne sanksjons art og varighet i samsvar med reglene i dens egen lovgivning. Såframt den frihetsberøvende sanksjon,1 som allerede er fastsatt i avsenderstaten, ligger under den minstestraff som kan idømmes etter mottakerstatens lovgivning, er retten ikke bundet av denne minstestraff, men den skal idømme en sanksjon1 som svarer til den som er fastsatt i avsenderstaten. Ved fastsettelse av sanksjonen må retten ikke forverre domfeltes strafferettslige situasjon som følger av den avgjørelse som er truffet i avsenderstaten.I alle andre tilfelle skal retten i mottakerstaten omsette boten i samsvar med dens egen lovgivning, men under hensyn til de rammer som er fastsatt i avsenderstatens lovgivning.
 
@@ -722,7 +722,7 @@ Dersom en bot ikke kan inndrives, kan retten i mottakerstaten idømme en subsidi
 
 1 Se del I, art 1, e.
 
-Art 49.
+###### Art 49.
 
 1\. Når det er anmodet om fullbyrding av rettighetstap,1 kan slikt rettighetstap som er idømt i avsenderstaten, bare gjennomføres i mottakerstaten dersom dennes lovgivning gir heimel for rettighetstapet for en slik lovovertredelse.
 
@@ -730,7 +730,7 @@ Art 49.
 
 1 Se del I, art 1, e.
 
-Art 50.
+###### Art 50.
 
 1\. Dersom retten bestemmer at rettighetstapet1 skal fullbyrdes, skal den fastsatte varigheten av tapet innenfor den ramme som er fastsatt i dens egen lovgivning, men uten å overskride rammen i den dom som er avsagt i avsenderstaten.
 
@@ -738,11 +738,11 @@ Art 50.
 
 1 Se del I, art 1, e.
 
-Art 51.
+###### Art 51.
 
 Artikkel 11 gjelder ikke rettighetstap.
 
-Art 52.
+###### Art 52.
 
 Mottakerstaten kan gi domfelte tilbake de rettigheter han er frakjent i medhold av dette avsnitt.
 

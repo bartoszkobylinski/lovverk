@@ -15,7 +15,7 @@ xml_hash: "2de2080995e2fc1737c38d4c50977f434278f9b30eb3b0718114ccafb2028d92"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-05-04T10:13:30.563489+00:00"
+retrieved_at: "2026-07-10T17:52:49.841668+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -233,7 +233,22 @@ For søknad om godkjenning av flyverksteder og organisasjoner som administrerer 
 | j. Per offshore linestasjon | 15 500 |
 | k. Per baselokasjon utenom hovedbase | 15 500 |
 
-I de tilfeller hvor baselokasjon og linestasjon er samlokalisert, betales bare gebyr for baselokasjon.*Årsgebyr**Grunngebyr Part-CAO:*20 700Tillegg for hver rettighet:a. Luftfartøy og helikopter – unntatt CMPA (complex motor powered aircraft)7 250b. Luftfartøy inntil 2 730 MTOM5 200c. Helikopter inntil 1 200 kg MTOM5 200d. Luftskip, ballong, seilfly5 200e. Airworthiness review7 250f. Maintenance5 200g. Permit to fly5 200h. Continuing Airworthiness management10 400i. Komplett motor (turbin og piston), øvrige komponenter5 200j. Specialised services (NDT)7 250
+I de tilfeller hvor baselokasjon og linestasjon er samlokalisert, betales bare gebyr for baselokasjon.
+
+|  | *Årsgebyr* |  |
+| --- | --- | --- |
+| *Grunngebyr Part-CAO:* |  | 20 700 |
+| Tillegg for hver rettighet: |  |  |
+| a. Luftfartøy og helikopter – unntatt CMPA (complex motor powered aircraft) |  | 7 250 |
+| b. Luftfartøy inntil 2 730 MTOM |  | 5 200 |
+| c. Helikopter inntil 1 200 kg MTOM |  | 5 200 |
+| d. Luftskip, ballong, seilfly |  | 5 200 |
+| e. Airworthiness review |  | 7 250 |
+| f. Maintenance |  | 5 200 |
+| g. Permit to fly |  | 5 200 |
+| h. Continuing Airworthiness management |  | 10 400 |
+| i. Komplett motor (turbin og piston), øvrige komponenter |  | 5 200 |
+| j. Specialised services (NDT) |  | 7 250 |
 
 For søknad om godkjenning av flyverksted og vedlikeholdsordning som ikke har ansatte, betales gebyr for første gangs godkjenning kr 5 900 og årsgebyr kr 3 730.
 

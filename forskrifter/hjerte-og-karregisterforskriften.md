@@ -15,7 +15,7 @@ xml_hash: "bc3c7eb1d70cb28349516ce78756fb3b23bf234c05a6e6162f3538fed793db6d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-10T17:52:49.841668+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -196,4 +196,18 @@ Forskriften trer i kraft 1. januar 2012.
 
 Fra 1. januar 2012 gjøres følgende endringer i andre forskrifter:
 
-1\. I [forskrift 7. desember 2007 nr. 1389](forskrift/2007-12-07-1389) om innsamling og behandling av helseopplysninger i Norsk pasientregister gjøres følgende endringer: – – –2. I [forskrift 21. desember 2001 nr. 1477](forskrift/2001-12-21-1477) om innsamling og behandling av helseopplysninger i Kreftregisteret gjøres følgende endringer: – – –3. I [forskrift 21. desember 2001 nr. 1483](forskrift/2001-12-21-1483) om innsamling og behandling av helseopplysninger i Medisinsk fødselsregister gjøres følgende endring: – – –4. I [forskrift 21. desember 2001 nr. 1476](forskrift/2001-12-21-1476) om innsamling og behandling av helseopplysninger i Dødsårsaksregisteret gjøres følgende endringer: – – –5. I [forskrift 20. juni 2003 nr. 740](forskrift/2003-06-20-740) om innsamling og behandling av helseopplysninger i Meldingssystem for smittsomme sykdommer og i Tuberkuloseregisteret og om varsling om smittsomme sykdommer gjøres følgende endring: – – –6. I [forskrift 20. juni 2003 nr. 739](forskrift/2003-06-20-739) om innsamling og behandling av helseopplysninger i Nasjonalt vaksinasjonsregister gjøres følgende endring: – – –7. I [forskrift 17. oktober 2003 nr. 1246](forskrift/2003-10-17-1246) om innsamling og behandling av helseopplysninger i Reseptbasert legemiddelregister gjøres følgende endring: – – –8. I [forskrift 2. september 2005 nr. 1010](forskrift/2005-09-02-1010) om innsamling og behandling av opplysninger i Forsvarets helseregister gjøres følgende endring: – – –
+1\. I [forskrift 7. desember 2007 nr. 1389](forskrift/2007-12-07-1389) om innsamling og behandling av helseopplysninger i Norsk pasientregister gjøres følgende endringer: – – –
+
+2\. I [forskrift 21. desember 2001 nr. 1477](forskrift/2001-12-21-1477) om innsamling og behandling av helseopplysninger i Kreftregisteret gjøres følgende endringer: – – –
+
+3\. I [forskrift 21. desember 2001 nr. 1483](forskrift/2001-12-21-1483) om innsamling og behandling av helseopplysninger i Medisinsk fødselsregister gjøres følgende endring: – – –
+
+4\. I [forskrift 21. desember 2001 nr. 1476](forskrift/2001-12-21-1476) om innsamling og behandling av helseopplysninger i Dødsårsaksregisteret gjøres følgende endringer: – – –
+
+5\. I [forskrift 20. juni 2003 nr. 740](forskrift/2003-06-20-740) om innsamling og behandling av helseopplysninger i Meldingssystem for smittsomme sykdommer og i Tuberkuloseregisteret og om varsling om smittsomme sykdommer gjøres følgende endring: – – –
+
+6\. I [forskrift 20. juni 2003 nr. 739](forskrift/2003-06-20-739) om innsamling og behandling av helseopplysninger i Nasjonalt vaksinasjonsregister gjøres følgende endring: – – –
+
+7\. I [forskrift 17. oktober 2003 nr. 1246](forskrift/2003-10-17-1246) om innsamling og behandling av helseopplysninger i Reseptbasert legemiddelregister gjøres følgende endring: – – –
+
+8\. I [forskrift 2. september 2005 nr. 1010](forskrift/2005-09-02-1010) om innsamling og behandling av opplysninger i Forsvarets helseregister gjøres følgende endring: – – –

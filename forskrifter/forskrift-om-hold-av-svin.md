@@ -15,7 +15,7 @@ xml_hash: "1e7593f322c1677130c037d0d3a087fa7bff472d13ad8a58612858fa24ce279d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-10T17:52:49.841668+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -270,7 +270,12 @@ I fødebinger uten fiksering skal det være plass nok til at purka kan ligge på
 | Totalareal | Minst 6 m2 . |
 | Bredde | Minst 1,8 m. |
 
-Ved bruk av fikseringsbås skal denne ha følgende mål:Lengde målt innvendig fra troas bakkantMinst 2 mBredde målt innvendig0,70-0,80 m avhengig av purkas størrelse
+Ved bruk av fikseringsbås skal denne ha følgende mål:
+
+|  |  |
+| --- | --- |
+| Lengde målt innvendig fra troas bakkant | Minst 2 m |
+| Bredde målt innvendig | 0,70-0,80 m avhengig av purkas størrelse |
 
 Det skal brukes rikelig med strø i fødebingene. Fra 3 dager før forventet grising skal purka ha passende materiale til å bygge rede av. Det skal være en åpen plass bak purka for å lette assistert eller naturlig fødsel. Smågrisene skal ha egen plass i fødebingen hvor de er beskyttet mot purka. Smågrisene skal ha god plass til å die.
 

@@ -78,6 +78,8 @@ Dette er en norsk oversettelse av forordning [(EU) 2016/1012](eu/32016r1012) med
 av 8. juni 2016
 om avls- og avstamningsvilkår for avl, handel med og innførsel til Unionen av renrasede avlsdyr, hybridavlsdyr av svin og formeringsmateriale fra dem og om endring av forordning [(EU) nr. 652/2014](eu/32014r0652), rådsdirektiv [89/608/EØF](eu/31989l0608) og [90/425/EØF](eu/31990l0425) og om oppheving av visse rettsakter med hensyn til dyreavl («dyreavlsforordningen»)
 
+EUROPAPARLAMENTET OG RÅDET FOR DEN EUROPEISKE UNION HAR –
+
 under henvisning til traktaten om Den europeiske unions virkemåte, særlig artikkel 42 og 43 nr. 2,
 
 under henvisning til forslag fra Europakommisjonen,
@@ -92,20 +94,122 @@ etter den ordinære regelverksprosedyren2 og
 
 ut fra følgende betraktninger:Avl av dyr av arten storfe, svin, sau, geit og hest utgjør en økonomisk og samfunnsmessig strategisk del av Unionens landbruk og bidrar til Unionens kulturarv. Denne landbruksvirksomheten, som bidrar til Unions matvaretrygghet, er en inntektskilde for landbruksbefolkningen. Avl av dyr av disse artene fremmes best ved å oppmuntre til bruk av renrasede avlsdyr eller hybridavlsdyr av svin med en dokumentert høy genetisk kvalitet.Som ledd i sin landbrukspolitikk har medlemsstatene derfor alltid bestrebet seg på å støtte produksjonen av husdyr med særlige genetiske egenskaper ved å fastsette standarder, blant annet gjennom offentlige investeringer. Forskjeller mellom disse standardene kan skape tekniske hindringer for handel med avlsdyr og formeringsmateriale fra dem, samt tekniske hindringer for deres innførsel til Unionen.Den rettslige rammen for Unionens regelverk for avl av renrasede avlsdyr av storfe, svin, sau, geit og hest og hybridavlsdyr av svin utgjøres av rådsdirektiv [88/661/EØF](eu/31988l0661),3 [89/361/EØF](eu/31989l0361),4 [90/427/EØF](eu/31990l0427*),5 [91/174/EØF](eu/31991l0174),6 [94/28/EF](eu/31994l0028*)7 og [2009/157/EF](eu/32009l0157).8 Formålet med disse direktiver var å utvikle husdyravl i Unionen og samtidig regulere handelen med og innførselen til Unionen av avlsdyr og formeringsmateriale fra dem, og følgelig opprettholde konkurranseevnen til dyreavlssektoren i Unionen.Rådsdirektiv [87/328/EØF](eu/31987l0328),9 [90/118/EØF](eu/31990l0118)10 og [90/119/EØF](eu/31990l0119)11 ble vedtatt for å hindre medlemsstatene i å opprettholde eller vedta nasjonale regler for godkjenning av avlsdyr av storfe og svin for avlsformål samt produksjon og bruk av deres sæd, oocytter og embryoer som ville kunne innebære forbud, begrensninger eller hindringer for handel, enten det dreier seg om naturlig bedekning, kunstig sædoverføring eller oppsamling av sæd, oocytter eller embryoer.På grunnlag av direktiv [88/661/EØF](eu/31988l0661), [89/361/EØF](eu/31989l0361), [90/427/EØF](eu/31990l0427*), [91/174/EØF](eu/31991l0174), [94/28/EF](eu/31994l0028*) og [2009/157/EF](eu/32009l0157) traff Kommisjonen, etter samråd med medlemsstatene gjennom Den faste komité for avlsspørsmål nedsatt i samsvar med rådsbeslutning [77/505/EØF](eu/31977d0505),12 en rekke beslutninger som fastsetter artsspesifikke kriterier for godkjenning eller anerkjennelse av avlsorganisasjoner og avlslag, for innføring av avlsdyr i stambøker, for godkjenning av renrasede avlsdyr av sau og geit for avlsformål og kunstig sædoverføring, for individgransking og avlsverdivurdering av avlsdyr av storfe, svin, sau og geit samt for utstedelse av avstamnings- eller avlssertifikater til bruk ved handel med avlsdyr og formeringsmateriale fra dem.Kommisjonen fastsatte også en liste over avlsorganer i tredjestater og standard avstamnings- eller avlssertifikater ved innførsel til Unionen av avlsdyr og deres sæd, oocytter og embryoer.Direktiv [88/661/EØF](eu/31988l0661), [89/361/EØF](eu/31989l0361), [90/427/EF](eu/31990l0427*), [91/174/EF](eu/31991l0174), [94/28/EF](eu/31994l0028*) og [2009/157/EF](eu/32009l0157) er stort sett like hverandre når det gjelder struktur og innhold. Flere av disse direktivene er blitt endret med tiden. Av hensyn til klarheten og sammenhengen i unionsretten bør reglene fastsatt i nevnte direktiver forenkles.De siste 20 årene har Kommisjonen måttet svare på et betydelig antall klager framsatt av oppdrettere og aktører som gjennomfører avlsprogrammer, med hensyn til innarbeiding av disse direktiver i nasjonal lovgivning og fortolkningen av Unionens rettsakter om avl av dyr i forskjellige medlemsstater. For å sikre en ensartet anvendelse av Unionens regler for avlsdyr og for å unngå handelshindringer for avlsdyr og formeringsmateriale fra dem, som skyldes forskjeller i innarbeiding av nevnte direktiver i nasjonal lovgivning, bør vilkårene for avl og avstamning for handel med avlsdyr og formeringsmateriale fra dem og innførsel av dem til Unionen fastsettes i en forordning.Erfaring har også vist at for å lette anvendelsen av reglene fastsatt i nevnte direktiver, er det nødvendig å bruke mer nøyaktige formuleringer i en rekke av bestemmelsene og en ensartet terminologi som er standard i alle medlemsstater. Av hensyn til klarhet og sammenheng i unionsretten er det også hensiktsmessig å fastsette definisjoner, herunder en definisjon av begrepet «rase».Innsatsen for å sikre konkurranseevne i dyreavlssektoren bør ikke føre til at visse raser med egenskaper som er tilpasset særlige biofysiske sammenhenger, forsvinner. Dersom størrelsen på populasjonen av lokale raser er for liten, kan dette føre til at deres genetiske mangfold forsvinner. Ettersom dyregenetiske ressurser er en veldig viktig del av det biologiske mangfoldet i landbruket, utgjør de et vesentlig grunnlag for en bærekraftig utvikling av husdyrsektoren og gir mulighet til å tilpasse dyrene til endrede miljøer, produksjonsvilkår og markedets og kundenes behov. Unionens rettsakter om avl av dyr bør derfor bidra til å bevare dyregenetiske ressurser, vern av biologisk mangfold og produksjon av typiske regionale kvalitetsprodukter som er avhengige av spesifikke arvelige egenskaper hos lokale raser av husdyr. Unionens rettsakter bør også fremme levedyktige avlsprogrammer for å forbedre raser, særlig når det gjelder raser som er truet av utryddelse, eller lokale raser som er uvanlige i unionen, og bevare raser og det genetiske mangfoldet innenfor og mellom raser.Gjennom utvelging og avl er det oppnådd vesentlige framskritt i utviklingen av egenskaper knyttet til produktiviteten for produksjonsdyr, som fører til reduserte produksjonskostnader i den enkelte driftsenheten. Dette har imidlertid i noen tilfeller ført til uønskede bivirkninger som har gitt opphav til bekymringer i samfunnet når det gjelder dyrevelferd og miljørelaterte spørsmål. Bruken av genomikk og avansert teknologi som «Precision livestock farming», som gjør det mulig å registrere store datamengder om alternative egenskaper, som er direkte eller indirekte knyttet til dyrevelferd og spørsmål som gjelder bærekraft, har et betydelig potensial for å håndtere offentlighetens bekymringer og oppfylle målene om bærekraftig dyreavl når det gjelder bedre ressurseffektivitet og mer motstandsdyktighet og robusthet hos dyrene. Innsamlingen av data om disse alternative egenskapene bør få større betydning innenfor rammen av avlsprogrammene, og de bør få en mer framtredende rolle når utvelgingsmålene fastsettes. I denne sammenhengen bør de genetiske ressursene fra utryddelsestruede raser anses å være et reservoar av gener som eventuelt kan bidra til å oppfylle disse målene om dyrevelferd og en bærekraftig utvikling.Denne forordning bør få anvendelse på avlsdyr av storfe, svin, sau, geit og hest og formeringsmateriale fra dem dersom det er hensikten at disse dyrene eller avkommet som stammer fra dette formeringsmaterialet, skal innføres som renrasede avlsdyr i en stambok eller registreres som hybridavlsdyr av svin i et avlsregister, særlig med sikte på handel innenfor Unionen, herunder innenfor en medlemsstat, eller innførsel til Unionen av disse avlsdyrene og formeringsmateriale fra dem.Begrepet «avlsdyr» eller «renraset avlsdyr» bør ikke forstås som at det bare omfatter dyr som fremdeles besitter sin forplantningsevne. Kastrerte dyr kan faktisk bidra med sine data om avstamning og avl for å vurdere avlspopulasjonens genetiske kvalitet og dermed gjøre klassifiseringen av avlsdyr mer fullstendig på grunnlag av disse resultatene. Avhengig av målene for avlsprogrammet vil mangel på eller tap av data som følge av en uttrykkelig utelukkelse av kastrerte dyr fra en stambok eller et registrer, sannsynligvis påvirke resultatet av vurderingen av den genetiske kvaliteten hos slike avlsdyr, som er genetisk beslektet med disse kastrerte dyrene.Formålet med reglene for renrasede avlsdyr fastsatt i denne forordning bør være å åpne for handel på grunnlag av avtalte prinsipper for anerkjennelse av avlslag som forvalter raser, og for godkjenning av deres respektive avlsprogrammer. Denne forordning bør også fastsette regler for registrering av renrasede avlsdyr i hovedavsnittet i stambøkene og, dersom slike foreligger, i de forskjellige klassene for genetisk verdi i hovedavsnittet. Det bør også fastsettes regler for individgransking og avlsverdivurdering og regler for godkjenning av avlsdyr for avlsformål, samt for innholdet i avlssertifikatene.På samme måte bør formålet med denne forordnings regler for hybridavlsdyr av svin være å åpne for handel på grunnlag av avtalte prinsipper for anerkjennelse av avlsvirksomheter som forvalter ulike raser, linjer eller krysninger av svin, og for godkjenning av deres avlsprogrammer. Denne forordning bør også fastsette regler for registrering av hybridavlsdyr av svin i avlsregistrene. Det bør også fastsettes regler for individgransking og avlsverdivurdering og regler for godkjenning av hybridavlsdyr av svin samt for innholdet i avlssertifikatene.Det er ikke hensiktsmessig at spørsmål som omhandler kloning, tas med i denne forordning.Ettersom målene for denne forordning, som er å sikre en harmonisert metode med hensyn til handel med avlsdyr og formeringsmateriale fra dem, og innførsel av dem til Unionen, samt de nødvendige kontrollene med de avlsprogrammene som gjennomføres av avlslag og avlsvirksomheter, ikke kan nås i tilstrekkelig grad av medlemsstatene og derfor på grunn av sine virkninger, kompleksitet samt grensekryssende og internasjonale karakter bedre kan nås på unionsplan, kan Unionen treffe tiltak i samsvar med nærhetsprinsippet som fastsatt i artikkel 5 i traktaten om Den europeiske union. I samsvar med forholdsmessighetsprinsippet fastsatt i nevnte artikkel går denne forordning ikke lenger enn det som er nødvendig for å nå disse målene.Kvaliteten på de tjenestene som tilbys av avlslag og avlsvirksomheter, og den måten de vurderer og klassifiserer avlsdyr på, har innvirkning på kvaliteten og nøyaktigheten i opplysningene om avl og avstamning som samles inn eller fastsettes, når det gjelder disse dyrene og deres verdi på markedet. Derfor bør det fastsettes regler for anerkjennelse av avlslag og avlsvirksomheter og godkjenning av deres avlsprogrammer på grunnlag av harmoniserte unionskriterier. Disse reglene bør også omfatte tilsyn av vedkommende myndigheter i medlemsstatene for å sikre at reglene fastsatt av avlslag og avlsvirksomheter ikke fører til forskjeller mellom avlsprogrammer og dermed skaper tekniske hindringer for handel i Unionen.Denne forordning bør fastsette framgangsmåter som ligner dem som er fastsatt i direktiv [88/661/EØF](eu/31988l0661), [89/361/EØF](eu/31989l0361), [90/427/EØF](eu/31990l0427*), [91/174/EØF](eu/31991l0174), [94/28/EF](eu/31994l0028*) og [2009/157/EF](eu/32009l0157) for oppføring av anerkjente avlslag og avlsvirksomheter på lister, herunder oppdatering, overføring og offentliggjøring av listene.Avlsprogrammer for renrasede avlsdyr har som sitt overordnede mål å forbedre på en bærekraftig måte produksjons- og ikkeproduksjonsegenskapene hos dyr av en bestemt rase, eller å bevare en rase. Disse avlsprogrammene skal omfatte et tilstrekkelig stort antall renrasede avlsdyr hos oppdretterne, som gjennom avl og utvelging fremmer og utvikler ønskede egenskaper hos disse dyrene, eller sikrer bevaring av rasen, i samsvar med de målene som deltakende oppdrettere har godkjent i fellesskap. Likeledes gjennomføres avlsprogrammer for hybridavlsdyr av svin med henblikk på å utvikle ønskede egenskaper gjennom bevisst krysningsavl mellom ulike raser, linjer eller krysninger av svin. Avlsdyr (renrasede avlsdyr eller hybrider) som deltar i et avlsprogram, føres inn i en stambok eller et register, herunder med opplysninger om forfedrene, og, avhengig av de avlsmålene som er fastsatt i avlsprogrammet, gjennomgår en individgransking eller enhver annen vurdering som fører til registrering av opplysninger om egenskaper i forhold til målene for dette avlsprogrammet. Når det er angitt i avlsprogrammet, skal det foretas en avlsverdivurdering for å anslå avlsverdien til dyrene, slik at de kan klassifiseres etter resultatene. Disse avlsverdiene og resultatene av individgranskinger, samt opplysninger om avl, danner grunnlaget for avl og utvelging.Retten til å bli anerkjent som et avlslag eller en avlsvirksomhet som oppfyller de fastsatte kriteriene, bør være et grunnleggende prinsipp i unionsretten om dyreavl og det indre marked. Vern av et eksisterende anerkjent avlslags økonomiske virksomhet bør ikke være en gyldig grunn for at vedkommende myndighet avslår å anerkjenne ytterligere et avlslag for samme rase, eller bryter de prinsippene som gjelder for det indre marked. Det samme gjelder for godkjenning av et nytt avlsprogram eller godkjenning av den geografiske utvidelsen av eksisterende avlsprogram som utføres med samme rase, eller med avlsdyr av samme rase som kan verves fra avlspopulasjonen av et avlslag som allerede gjennomfører et avlsprogram med denne rasen. Dersom et eller flere anerkjente avlslag allerede gjennomfører et godkjent avlsprogram med en bestemt rase i en medlemsstat, bør vedkommende myndighet i nevnte medlemsstat, i visse særlige tilfeller, tillates å avslå godkjenning av et ytterligere avlsprogram for samme rase, selv om dette avlsprogrammet oppfyller alle de kravene som er nødvendige for godkjenning. En begrunnelse på avslaget kan være at godkjenningen av ytterligere et avlsprogram for samme rase vil kunne utgjøre en fare for å bevare denne rasen eller for det genetiske mangfoldet innenfor denne rasen i vedkommende medlemsstat. Bevaring av denne rasen kan særlig settes i fare som følge av fragmentering av avlspopulasjonen, som eventuelt fører til høyere innavl, økt forekomst av observerte genetiske defekter, færre muligheter til utvelging eller redusert tilgang for oppdretterne til renrasede avlsdyr og formeringsmateriale fra dem. En annen årsak til avslag kan være om de fastsatte avlsegenskapene for rasen eller de viktigste målene for disse avlsprogrammene er inkonsekvente. Vedkommende myndighet, uavhengig av formålet med avlsprogrammet, som er å bevare eller forbedre rasen, bør faktisk kunne avslå å godkjenne et ytterligere avlsprogram for samme rase når forskjellene mellom de to avlsprogrammenes hovedmål eller mellom vesentlige særtrekk i avlsegenskapene fastsatt i disse avlsprogrammene, vil føre til effektivitetstap når det gjelder de genetiske framskrittene for disse målene eller egenskapene, eller eventuelle andre egenskaper som er gjensidig forbundet, eller dersom en utveksling av dyr mellom de to avlspopulasjonene skulle kunne innebære en risiko for at disse vesentlige særtrekkene i den opprinnelige avlspopulasjonen velges eller avles bort. Når det gjelder en rase som er truet av utryddelse, eller en lokal rase som er uvanlig på et eller flere av Unionens territorier, bør en vedkommende myndighet også ha mulighet til å avslå å godkjenne et ytterligere avlsprogram for samme rase fordi dette programmet vil være til hinder for at det eksisterende avlsprogrammet kan gjennomføres på en effektiv måte, særlig på grunn av mangel på koordinering eller utveksling av opplysninger om avstamning og avl, som fører til at det ikke kan dras nytte av den felles vurderingen av innsamlede data for denne rasen. Ved avslag på en anmodning om å godkjenne et avlsprogram, bør vedkommende myndighet alltid gi en begrunnelse til søkerne og gi dem rett til å klage på dette avslaget.Oppdrettere bør ha rett til å utforme og gjennomføre et avlsprogram for eget bruk, uten at avlsprogrammet skal være godkjent av vedkommende myndigheter. Hver medlemsstat eller dens vedkommende myndigheter bør fortsatt ha mulighet til å regulere denne virksomheten, særlig så snart et slikt avlsprogram fører til forretningstransaksjoner med hensyn til avlsdyr eller formeringsmateriale fra dem, eller setter et allerede eksisterende godkjent avlsprogram for samme rase i fare.Dersom formålet med avlsprogrammet er å bevare rasen, kan kravene til avlsprogrammet suppleres med tiltak for ex situ- og in situ-bevaring eller andre verktøy for å kontrollere rasens tilstand, som vil sikre en langsiktig, bærekraftig bevaring av denne rasen. Det bør være mulig å fastsette disse tiltakene i avlsprogrammet.Avlslag, avlsorganisasjoner, herunder avlsorganisasjoner som er private foretak, eller offentlige organer, bør anerkjennes som avlslag bare når de har oppdrettere som deltar i sine avlsprogrammer, og når de sikrer at disse oppdretterne har mulighet til å velge fritt når det gjelder utvelging og avl av deres renrasede avlsdyr, har rett til å få avkommet fra disse dyrene innført i deres stambøker og muligheten til å eie disse dyrene.Før endringer gjennomføres i det godkjente avlsprogrammet, bør et avlslag eller en avlsvirksomhet framlegge disse endringene for vedkommende myndighet som har anerkjent dette avlslaget eller denne avlsvirksomheten. For å unngå en unødvendig administrativ byrde for vedkommende myndighet og avlslaget eller avlsvirksomheten skal avslaget eller avlsvirksomheten bare underrette vedkommende myndighet om de endringene som i betydelig grad påvirker avlsprogrammet. Disse endringene bør særlig omfatte utvidelsen av det geografiske området, endringer i avlsprogrammets formål eller mål for utvelging og avl, endringer i beskrivelsen av rasens egenskaper eller i delegeringen av oppgaver til tredjemann, samt vesentlige endringer i registreringssystemet for avstamning eller i de metodene som benyttes til individgransking og avlsverdivurdering, og alle andre endringer som vedkommende myndighet anser for å være en vesentlig endring av avlsprogrammet. Uavhengig av den obligatoriske innsendingen av betydelige endringer til vedkommende myndighet, bør avlslag eller avlsvirksomheten på anmodning fra vedkommende myndighet framlegge en oppdatert versjon av avlsprogrammet.Når det er et reelt behov for å fastholde eller fremme utviklingen av en rase på et bestemt område, eller dersom det dreier seg om en rase som er truet av utryddelse, bør vedkommende myndighet selv ha mulighet til å gjennomføre et avlsprogram for denne rasen, forutsatt at det ikke allerede finnes et avlsprogram som fungerer på en effektiv måte, for den aktuelle rasen. Vedkommende myndighet som gjennomfører et slikt avlsprogram bør imidlertid ikke lenger ha denne muligheten dersom det er mulig å overlate avlsprogrammet til en aktør som oppfyller kravene til en sikker gjennomføring av dette avlsprogrammet.Ettersom bevaring av raser som er truet av utryddelse, krever at også avlslag med et begrenset antall avlsdyr på sine avlsprogram opprettes og anerkjennes, bør avlspopulasjonens størrelse generelt ikke anses for å være et avgjørende vilkår for anerkjennelse av avlslag som forvalter raser som er truet av utryddelse, eller for godkjenning av deres avlsprogrammer, særlig ettersom anerkjennelsen skjer på nasjonalt plan.Det bør i denne forordning fastsettes spesifikke bestemmelser, særlig om oppgradering fra tilleggsavsnittet til hovedavsnittet og om unntak fra individgransking og avlsverdivurdering, for å ta hensyn til den særlige statusen til raser som er truet av utryddelse.Unionen er avtalepart i Konvensjonen om biologisk mangfold, godkjent ved rådsbeslutning [93/626/EØF](eu/31993d0626),13 der målene er vern av biologisk mangfold, bærekraftig bruk av dens bestanddeler og rimelig og rettferdig fordeling av de fordelene som følger av bruk av genetiske ressurser. Konvensjonen fastsetter at avtalepartene har uinnskrenket rett til sine biologiske ressurser og at de har ansvaret for å bevare sitt biologiske mangfold og for en bærekraftig bruk av sine biologiske ressurser. Unionen er også part i Nagoya-protokollen om tilgang til genetiske ressurser og rimelig og rettferdig fordeling av fordelene ved anvendelsen av konvensjonen om biologisk mangfold, godkjent ved rådsbeslutning [2014/283/EF](eu/32014d0283).14 Denne forordning bør derfor, når det er relevant, ta hensyn til Konvensjonen om biologisk mangfold samt Nagoya-protokollen og bør få anvendelse uten at det berører europaparlaments- og rådsforordning [(EU) nr. 511/2014](eu/32014r0511).15Avlslag og avlsvirksomheter som er anerkjent i én medlemsstat, bør ha mulighet til å gjennomføre sine godkjente avlsprogrammer i en eller flere andre medlemsstater, for å sikre best mulig bruk innenfor Unionen av avlsdyr med høy genetisk verdi. For dette formål skal en forenklet framgangsmåte for melding sikre at vedkommende myndighet i den andre medlemsstaten er kjent med hensikten om å gjennomføre grensekryssende virksomhet. De sesongavhengige forflytningene av avlsdyr innenfor grensene til en medlemsstat eller mellom flere medlemsstater bør imidlertid ikke medføre en obligatorisk utvidelse av det geografiske området.Samarbeid over landegrensene mellom avlslag og avlsvirksomheter som ønsker å inngå et slikt samarbeid, bør gjøres enklere, samtidig som det sikres fri entreprenørskap og fjerning av hindringer for fritt varebytte og fri bevegelighet for avlsdyr og formeringsmateriale fra dem.Ettersom vedkommende myndighet vil kunne måtte godkjenne flere avlsprogrammer som utføres av et avlslag eller en avlsvirksomhet som den har anerkjent, og ettersom en vedkommende myndighet vil kunne måtte godkjenne utvidelse på sitt territorium av avlsprogrammer som gjennomføres av et avlslag eller en avlsvirksomhet anerkjent i en annen medlemsstat, bør anerkjennelsen av avlslaget eller avlsvirksomheten være atskilt fra dets/dens avlsprogrammer. Når vedkommende myndighet vurderer en søknad om anerkjennelse som avlslag eller avlsvirksomhet, bør den også motta en søknad om godkjenning av minst ett avlsprogram.På bakgrunn av en rekke klager som Kommisjonen har måttet behandle i tidligere år, bør det i denne forordning fastsettes tydelige regler for forholdet mellom det avlslaget som oppretter en datterstambok for en bestemt rase av renrasede avlsdyr av hest, og det avlslaget som hevder å ha opprettet den opprinnelige stamboken for denne rasen.Det er nødvendig å klargjøre forholdet mellom oppdrettere og avlslag, særlig for å sikre deres rett til å delta i avlsprogrammet innenfor det geografiske området som det er godkjent for, og dersom medlemskap er en mulighet, for å sikre at disse oppdrettere har rett til å bli medlemmer. Avlslag bør fastsette regler for å løse tvister med oppdrettere som deltar i deres avlsprogrammer og for å sikre at disse oppdrettere behandles likt. De bør også fastsette sine egne rettigheter og forpliktelser samt rettighetene og forpliktelsene for de oppdretterne som deltar i deres avlsprogrammer.Oppdrettere hvis avlsdyr flyttes hver sesong innenfor grensene til en medlemsstat eller innenfor et område som overskrider nasjonale grenser, bør ha rett til fortsatt å kunne delta i avlsprogrammet så lenge hovedkontoret til deres driftsenhet ligger innenfor det geografiske området til dette avlsprogrammet.Det bør i denne forordning tas hensyn til den særlige situasjonen i sektoren for hybridavlsdyr av svin. De fleste private foretak i sektoren med hybridavlsdyr av svin har lukkede produksjonssystemer og forvalter sin egen avlsdyrbestand. Det bør derfor fastsettes en rekke unntak for disse foretakene, særlig når det gjelder oppdretteres deltaking i avlsprogrammet og retten til å registrere hybridavlsdyr av svin i avlsregistrene.Definisjonen av «hybridavlsdyr av svin» omfatter dyr på alle nivåer i avls- og utvelgingspyramiden som brukes for å dra størst mulig fordel av krysningsavl ved å kombinere særlige egenskaper hos ulike genotyper og utnytte heterosisvirkningene. Avhengig av nivået i avls- og utvelgingspyramiden omfatter «hybridavlsdyr av svin» raser, linjer eller krysninger. Dermed er ikke alle dyr nødvendigvis «hybrider» i tradisjonell forstand.De erfaringene som er gjort, særlig ved anvendelse av direktiv [90/427/EØF](eu/31990l0427*), og i mindre grad direktiv [89/361/EØF](eu/31989l0361) og [2009/157/EF](eu/32009l0157), viser at det er behov for mer nøyaktige bestemmelser som gjør det mulig å løse tvister på en effektiv måte mellom oppdrettere på den ene side og avlslag på den annen side, på grunnlag av klart fastsatte regler og tydelige beskrivelser av oppdretternes rettigheter og forpliktelser. Dette kan best oppnås dersom tvister løses i den medlemsstaten der de oppstår.Avlslag som oppretter og fører stambøker for renrasede avlsdyr av storfe, svin, sau, geit og hest, samt andre avlsvirksomheter enn private foretak som driver virksomhet i lukkede produksjonssystemer, som oppretter og fører avlsregistre over hybridavlsdyr av svin, bør føre inn avlsdyr i sine stambøker eller registrere dem i sin avlsregistre uten forskjellsbehandling på grunn av dyrenes eller deres eieres opprinnelsesstat og, dersom dette er fastsatt i avlsprogrammet, klassifisere disse dyrene i henhold til deres genetiske verdier.Avlslag bør også ha rett til å opprette tilleggsavsnitt for å registrere dyr som ikke oppfyller kriteriene for avstamning, men som av avlslagene anses å ha de særlige raseegenskapene som er fastsatt i avlsprogrammet for den berørte rasen, med henblikk på deretter å avle disse dyrene med renrasede avlsdyr som tilhører den rasen som er omfattet av avlsprogrammet, slik at avkommet kan bli oppgradert til hovedavsnittet i stamboken. De særlige reglene for oppgradering av disse dyrenes avkom til hovedavsnittet i en stambok bør fastsettes på unionsplan.Oppgraderingen av avkommet til hovedavsnittet i stambøkene bør tillates bare gjennom hunndyr, med unntak av dyr av hestefamilien. For utryddelsestruede raser av storfe, svin, sau og geit samt «hardføre» raser av sau, der det ikke finnes mange nok renrasede avlsdyr av hanndyr, bør medlemsstatene ha mulighet til å gi avlslagene tillatelse til å anvende mindre strenge regler for oppgradering av avkommet til disse dyrene, som er registrert i tilleggsavsnittene til stambokens hovedavsnitt, for å unngå at disse rasenes genetiske mangfold forringes ytterligere. På samme måte bør det fastsettes særlige regler som tillater gjenskaping av raser som er gått tapt, eller som står i alvorlig fare for å forsvinne. Medlemsstater som benytter seg av disse unntakene bør nøye vurdere risikostatusen til disse avlspopulasjonene og sørge for en sikker håndtering av genetiske ressurser.Dersom det er behov for å skape en ny rase ved å forene egenskaper fra renrasede avlsdyr fra forskjellige raser, eller ved å samle dyr som fysisk sett ligner hverandre i tilstrekkelig grad, og som allerede reproduserer med en tilstrekkelig genetisk stabilitet til at de kan anses for at ha utviklet seg til en ny rase, bør avlslagene ha mulighet til å opprette stambøker for å gjennomføre avlsprogrammer for disse nye rasene.Ingen bestemmelse i denne forordning bør hindre at dyr som er registrert i et tilleggsavsnitt i en stambok for en bestemt rase, omfattes av virkeområdet for miljø- og klimavennlige landbrukstiltak nevnt i artikkel 28 i europaparlaments- og rådsforordning [(EU) nr. 1305/2013](eu/32013r1305*),16 og dermed er berettiget til støtte fra de nasjonale eller regionale myndighetene innenfor rammen av deres programmer for utvikling av landdistrikter.For renrasede avlsdyr av hest bør avlslag kunne fastsette bestemmelser i sine avlsprogrammer som forbyr eller begrenser bruken av bestemte reproduksjonsteknikker og bestemte renrasede avlsdyr, herunder bruken av formeringsmateriale fra dem. Avlslagene bør for eksempel kunne anmode om at avkommet bare er et resultat av naturlig bedekning. Avlslag som gjør bruk av dette forbudet eller denne begrensningen, bør fastsette disse reglene i sitt avlsprogram i samsvar med de reglene som er fastsatt av det avlslaget som fører den opprinnelige stamboken.Renrasede avlsdyr som føres inn i stambøker, bør identifiseres i henhold til europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429*).17Når det gjelder renrasede avlsdyr av hest, er det i forordning [(EU) 2016/429](eu/32016r0429*) fastsatt at vedkommende myndigheter på dyrehelseområdet skal utstede ett enkelt identifikasjonsdokument for hest som er gyldig i hele dyrets levetid, og som skal angis nærmere av Kommisjonen gjennom delegerte rettsakter. For at avlssertifikatet skal være mest mulig identisk med dette enkelte livslange identifikasjonsdokumentet når det gjelder innhold og forvaltningsprosedyre, bør myndighet til å vedta rettsakter i samsvar med artikkel 290 i traktaten om Den europeiske unions virkemåte (TEUV) delegeres til Kommisjonen med hensyn til formatet og innholdet til ett enkelt identifikasjonsdokument for hest som er gyldig i hele dyrets levetid.Internasjonale private avtaler regulerer hvorvidt renrasede avlsdyr av hest er berettiget til å konkurrere på internasjonalt plan. Tatt i betraktning hestesektorens internasjonale dimensjon bør Kommisjonen når den forbereder og utarbeider de relevante delegerte rettsaktene og gjennomføringsrettsaktene, ta hensyn til disse avtalene for å opprettholde retten for disse renrasede avlsdyrene av hest til å konkurrere på internasjonalt plan.Godkjenning av avlsdyr for avlsformål, særlig for naturlig bedekning eller assistert befruktning, bør reguleres på unionsplan for å unngå handelshindringer, særlig dersom disse dyrene har gjennomgått individgransking eller avlsverdivurdering i samsvar med reglene fastsatt i denne forordning, særlig i vedlegg III.Det forutsettes at medlemsstatene eller deres vedkommende myndigheter ikke bør anvende denne forordning for å forby, begrense eller hindre bruken av renrasede avlsdyr eller formeringsmateriale fra dem for produksjon av dyr som ikke er bestemt innført eller registrert som avlsdyr i en stambok eller et avlsregister.Det er på unionsplan fastsatt regler for individgransking og avlsverdivurdering av avlsdyr av storfe, svin, sau og geit som er testet for et visst antall egenskaper, men når det gjelder renrasede avlsdyr av hest, har det store antallet krav til ulike raser, bruksområder og utvelging hittil hindret en harmonisering av disse reglene. I stedet finnes det i dag rasespesifikke regler for individgransking og avlsverdivurdering i den opprinnelige stamboken for rasen.For å ta hensyn til den tekniske utviklingen, de vitenskapelige framskrittene eller behovet for å bevare verdifulle genetiske ressurser, bør myndigheten til å vedta rettsakter i samsvar med artikkel 290 i TEUV delegeres til Kommisjonen for å endre vedlegg III til denne forordning. For å sikre ensartede vilkår for gjennomføringen av denne forordning bør Kommisjonen også gis gjennomføringsmyndighet, som gjør det mulig for den å fastsette ensartede og mer detaljerte regler for individgransking og avlsverdivurdering av renrasede avlsdyr av storfe, sau og geit.Individgransking eller avlsverdivurdering bør kunne gjennomføres av en tredjemann utpekt av avlslaget, avlsvirksomheten eller et offentlig organ, herunder en myndighet som utfører dette som en selvstendig oppgave. Denne tredjemannen skal kunne godkjennes og vurderes av vedkommende myndighet i forbindelse med godkjenningen av avlsprogrammet. Et avlslag eller en avlsvirksomhet som setter ut individgransking eller avlsverdivurdering, bør, med mindre noe annet er besluttet av den berørte medlemsstaten eller dens vedkommende myndigheter, fortsatt ha ansvaret for å sikre at gjeldende krav til denne virksomheten er oppfylt og angi den utpekte tredjemannen i sitt avlsprogram.Avhengig av blant annet art eller rase kan det være nødvendig å harmonisere og forbedre metodene for individgransking og avlsverdivurdering av renrasede avlsdyr som brukes av avlslag, eller av tredjemann som de har utpekt. For å sikre ensartede vilkår for gjennomføringen av denne beslutning bør Kommisjonen gis gjennomføringsmyndighet som gjør det mulig for den å utpeke EU-referansesentre. Med sikte på om nødvendig å endre disse referansesentrenes arbeidsoppgaver, bør myndigheten til å vedta rettsakter i samsvar med artikkel 290 i TEUV delegeres til Kommisjonen. Disse EU-referansesentrene bør ha rett til økonomisk støtte fra Unionen i henhold til europaparlaments- og rådsforordning [(EU) nr. 652/2014](eu/32014r0652).18 Når det gjelder renrasede avlsdyr av storfe, utføres disse oppgavene av Interbull Centre, et permanent underutvalg til Den internasjonale komité for kontroll av ytelse innen avl (ICAR), som er det referansesenteret som er utpekt ved rådsvedtak [96/463/EF](eu/31996d0463).19For å støtte avlslag som forvalter raser som er truet av utryddelse, når det er et erkjent behov, bør Kommisjonen i tillegg gis gjennomføringsmyndighet som gjør at den kan utpeke EU-referansesentre som har som sin særlige oppgave å fremme innføring eller harmonisering av metoder som disse avlslagene kan bruke. Med sikte på om nødvendig å endre disse referansesentrenes arbeidsoppgaver, bør myndigheten til å vedta rettsakter i samsvar med artikkel 290 i TEUV også delegeres til Kommisjonen. Når Kommisjonen utpeker disse sentrene og beskriver deres oppgaver, bør den ta behørig hensyn til den virksomheten som utføres ved det europeiske regionale kontaktpunktet for nasjonale koordinatorer for forvaltning av dyrs genetiske ressurser (ERFP – European Regional Focal Point for Animal Genetic Resources), som er opprettet innenfor rammen av den globale handlingsplanen for dyrs genetiske ressurser i Europa, som FNs organisasjon for ernæring og landbruk (FAO) har fastsatt. Metodene som er fastsatt av disse sentrene, bør ikke være bindende.Oppdrettere som deltar i et avlsprogram, bør ha rett til å motta avlssertifikater for sine avlsdyr som er omfattet av dette avlsprogrammet, og for formeringsmateriale fra dem. Avlssertifikater bør følge avlsdyr eller formeringsmateriale fra dem når de/det omsettes eller innføres til Unionen, med henblikk på at dyrene eller avkommet fra dette formeringsmaterialet skal føres inn eller registreres i andre stambøker eller avlsregistre. Avlssertifikater bør opplyse oppdretteren om det ervervede dyrets genetiske kvalitet og avstamning. Slike sertifikater bør for eksempel utstedes etter behov for å følge avlsdyr på utstillinger eller når de plasseres på teststasjoner eller sædstasjoner.Det forutsettes at denne forordning ikke forbyr medlemsstater eller vedkommende myndigheter å kreve at sæd fra renrasede avlsdyr av storfe, svin, sau, geit og hest beregnet på kunstig sædoverføring med sikte på produksjon av dyr som ikke er beregnet på å bli renrasede avlsdyr, skal ledsages av opplysninger om dette dyrets kvalitet og avstamning, når det omsettes. Generelt skulle konkurranseevnen til Unionens dyreavlssektor kunne forbedres ved at formeringsmaterialet fra avlsdyrene, og særlig deres sæd, samt tilhørende opplysninger om avlssertifikater gjøres tilgjengelige for aktører som reproduserer dyr uten at de har til hensikt å få sitt avkom ført inn i en stambok.Innførsel til Unionen og eksport til tredjestater av avlsdyr og formeringsmateriale fra dem er viktig for Unionens landbruk. Innførsel til Unionen av avlsdyr og formeringsmateriale fra dem bør derfor skje under forhold som er nært sammenlignbare med de reglene som gjelder for handel i Unionen. Avlsdyr og formeringsmateriale fra dem bør imidlertid bare være berettiget til å bli innført i hovedavsnittet i en stambok eller et avlsregister i Unionen, dersom den kontrollen som foretas i den eksporterende tredjestaten, sikrer samme grad av sikkerhet når det gjelder opplysninger om avstamning og resultater av individgransking og avlsverdivurdering som i Unionen, og dersom de avlslagene som leverer disse opplysningene og resultatene, er oppført på den listen som Kommisjonen fører. I tillegg bør avlsorganer i tredjestater på tilsvarende måte godta avlsdyr og formeringsmateriale fra dem fra de avlslagene eller avlsvirksomhetene som er anerkjent i Unionen.I henhold til rådsforordning [(EØF) nr. 2658/87](eu/31987r2658*)20 skal Kommisjonen opprette en varenomenklatur, nemlig «Den kombinerte nomenklatur», eller i forkortet form «KN», som på samme tid oppfyller kravene i den felles tolltariffen, statistikken over Fellesskapets utenrikshandel og annen unionspolitikk som gjelder import eller eksport av varer. Vedlegg I til nevnte forordning inneholder en liste over KN-koder for renrasede avlsdyr av storfe, svin, sau, geit og dyr og sæd fra storfe og angir at de er unntatt fra den bundne tollsatsen. I så fall skal disse dyrene og formeringsmaterialet fra dem ledsages av det relevante avlssertifikatet til støtte for deres klassifisering som renrasede avlsdyr og formeringsmateriale fra dem. Når det gjelder renrasede avlsdyr, bør de også ledsages av et dokument som angir at de skal føres inn i en stambok som føres av et avlslag, eller registreres i et avlsregister som føres av en avlsvirksomhet.Når avlsdyr og formeringsmateriale fra dem føres inn til Unionen, bør de gjennomgå veterinærkontroller i samsvar med rådsdirektiv [91/496/EØF](eu/31991l0496*)21 og [97/78/EF](eu/31997l0078).22 Når det gjelder renrasede avlsdyr, bør de også gjennomgå de kontrollene som er nødvendige for å anvende unntaket fra den bundne tollsatsen for renrasede avlsdyr.Det er nødvendig å fastsette regler for offentlig kontroll, som foretas for å verifisere om reglene som er fastsatt i denne forordning, er oppfylt, og for annen offentlig virksomhet som gjennomføres av vedkommende myndigheter i samsvar med denne forordning, som er tilpasset dyreavlssektoren. Vedkommende myndigheter bør ha mulighet til å foreta offentlig kontroll av alle aktører som er omfattet av denne forordning, særlig av avlslag, av avlsvirksomheter, av tredjemann som gjennomfører individgransking eller avlsverdivurdering, og av oppdrettere, og, dersom de utsteder avlssertifikater, av sædstasjoner og sædlagre, av stasjoner for oppbevaring av embryoer og av embryooppsamlings- eller embryoproduksjonsgrupper.Vedkommende myndigheter bør foreta offentlig kontroll for å verifisere om reglene som er fastsatt i denne forordning, og kravene som er fastsatt i det godkjente avlsprogrammet, er oppfylt. Disse kontrollene kan omfatte inspeksjon av utstyr som brukes til individgransking eller kontroll av framgangsmåter for registrering av opplysninger om avl og avstamning, eller undersøkelse av dokumenter eller systemer som brukes til lagring og behandling av slike data, som er samlet inn om avlsdyr. Denne undersøkelsen kan ta hensyn til kvalitetskontroller eller kontrollsystemer for å sikre at de registrerte opplysningene er korrekte, for eksempel avstamningskontroller som foretas for å bekrefte dyrets avstamning. Vedkommende myndigheter kan foreta offentlig kontroll i lokaler, på kontorer og av utstyr som tilhører oppdrettere, avlslag eller avlsvirksomheter, samt av avlsdyrene eller formeringsmaterialet som er samlet inn fra disse avlsdyrene, som er omfattet av avlsprogrammet.Når det i denne forordning vises til «annen offentlig virksomhet», bør dette anses å omfatte anerkjennelse av avlslag og avlsvirksomheter, godkjenning av avlsprogrammer eller støtte til andre medlemsstater og tredjestater.For å sikre en effektiv anvendelse av unionsreglene for avlsdyr og formeringsmateriale fra dem som fastsatt i denne forordning må vedkommende myndigheter i medlemsstatene samarbeide med hverandre og yte hverandre administrativ bistand ved behov. I henhold til dette bør det derfor ved denne forordning fastsettes alminnelige regler for administrativ bistand og samarbeid, tilsvarende dem som er fastsatt i avdeling IV i europaparlaments- og rådsforordning [(EF) nr. 882/2004](eu/32004r0882*),23 med de tilpasningene som er nødvendige.For å sikre ensartede vilkår for gjennomføringen av denne forordning bør Kommisjonen gis gjennomføringsmyndighet til å treffe, dersom det foreligger dokumentasjon på at det i en tredjestat forekommer omfattende og alvorlig manglende overholdelse av Unionens regelverk for avl av dyr, særlige tiltak for å begrense virkningene av en slik manglende overholdelse.Vedkommende myndigheter i medlemsstatene bør også inneha den myndigheten som er nødvendig for å håndheve de reglene for avl og avstamming for avlsdyr som er fastsatt i denne forordning, herunder midlertidig oppheving av godkjenningen av et avlsprogram eller tilbakekalling av anerkjennelsen av et avlslag eller en avlsvirksomhet i tilfelle av manglende overholdelse av reglene fastsatt i denne forordning.Kommisjonen bør ved behov foreta kontroll i medlemsstatene, blant annet på bakgrunn av resultatene av offentlig kontroll som gjennomføres av medlemsstatene, for å sikre at reglene fastsatt i denne forordning anvendes i alle medlemsstater.Kommisjonen bør ved behov foreta kontroll i tredjestater for å opprette listen over avlsorganer i tredjestater, fra hvilke det er tillatt innførsel til Unionen av avlsdyr og deres sæd, oocytter og embryoer, med henblikk på å utarbeide vilkårene for innførsel av dem til Unionen samt å oppnå opplysninger om avl og avstamning vedrørende anvendelsen av likeverdighetsavtaler. Kommisjonen bør også foreta kontroll i tredjestater dersom tilbakevendende eller nye problemer med hensyn til avlsdyr eller formeringsmateriale fra dem, tilsier det.Verifisering av om reglene fastsatt i denne forordning overholdes gjennom offentlig kontroll, er avgjørende for å sikre at forordningens mål virkelig oppnås i hele Unionen. Mangler i en medlemsstats kontrollsystem kan i visse tilfeller i betydelig grad hindre at disse målene oppfylles, og føre til situasjoner med alvorlig og omfattende manglende overholdelse av disse reglene. Kommisjonen bør derfor ha mulighet til å reagere på alvorlige mangler i en medlemsstats kontrollsystem ved å treffe de tiltakene som er nødvendige fram til den berørte medlemsstaten treffer det tiltaket som er nødvendig for å rette opp uregelmessigheten. Slike tiltak omfatter forbud mot eller håndheving av særlige vilkår for handel med avlsdyr eller formeringsmateriale fra dem, eller eventuelle andre tiltak som Kommisjonen anser som hensiktsmessige for å håndtere den omfattende overtredelsen.Ettersom direktiv [88/661/EØF](eu/31988l0661), [89/361/EØF](eu/31989l0361), [90/427/EØF](eu/31990l0427*), [94/28/EF](eu/31994l0028*) og [2009/157/EF](eu/32009l0157) skal oppheves ved og erstattes av denne forordning, er det også nødvendig å oppheve kommisjonsrettsakter vedtatt i henhold til nevnte direktiver og, om nødvendig, erstatte dem med enten delegerte rettsakter eller gjennomføringsrettsakter vedtatt i henhold til den respektive myndigheten som gis i denne forordning. Nevnte kommisjonsrettsakter bør derfor oppheves og om nødvendig erstattes.For å sikre en korrekt anvendelse av denne forordning, og for å utfylle den eller endre vedleggene til den, bør myndigheten til å vedta rettsakter i samsvar med artikkel 290 i TEUV delegeres til Kommisjonen når det gjelder fastsettelse av kravene til individgransking og avlsverdivurdering, oppgavene og kravene til EU-referansesentre samt innholdet og formatet for avlssertifikater.Når Kommisjonen forbereder og utarbeider delegerte rettsakter, er det særlig viktig at den gjennomfører relevante samråd under sitt forberedende arbeid, herunder på ekspertnivå, og at disse samrådene gjennomføres i samsvar med prinsippene fastsatt i den tverrinstitusjonelle avtalen om bedre regelverksutforming av 13. april 2016.24 For å sikre lik deltaking i forberedelsen av delegerte rettsakter skal Europaparlamentet og Rådet motta alle dokumenter samtidig som medlemsstatenes eksperter, og deres eksperter har systematisk adgang til møter i Kommisjonens ekspertgrupper, som forbereder delegerte rettsakter.For å sikre ensartede vilkår for gjennomføring av bestemmelsene i denne forordning med hensyn til standardskjemaer for de opplysningene som medlemsstatene skal gi offentligheten vedrørende listen over anerkjente avlslag og avlsvirksomheter, metodene for å kontrollere identiteten til renrasede avlsdyr, individgransking og avlsverdivurdering, utpekingen av EU-referansesentre, standardskjemaene for det enkelte identifikasjonsdokumentet for dyr av hestefamilien som er gyldig i hele dyrets levetid, standardskjemaene for de avlssertifikatene som følger avlsdyr og formeringsmateriale fra dem, anerkjennelsen av likeverdighet mellom tiltak som anvendes i en tredjestat, alvorlige uregelmessigheter i en medlemsstats kontrollsystem og innføringen av særlige tiltak med hensyn til innførsel til Unionen av avlsdyr og formeringsmateriale fra dem, bør Kommisjonen gis gjennomføringsmyndighet. Denne myndighet bør utøves i samsvar med europaparlaments- og rådsforordning [(EU) nr. 182/2011](eu/32011r0182).25 Dersom den faste komité for avlsspørsmål ikke avgir uttalelse, bør Kommisjonen ikke vedta gjennomføringsrettsakten.Reglene fastsatt i direktiv [87/328/EØF](eu/31987l0328), [88/661/EØF](eu/31988l0661), [89/361/EØF](eu/31989l0361), [90/118/EØF](eu/31990l0118), [90/119/EØF](eu/31990l0119), [90/427/EØF](eu/31990l0427*), [91/174/EØF](eu/31991l0174), [94/28/EF](eu/31994l0028*) og [2009/157/EF](eu/32009l0157) og rådsvedtak [96/463/EF](eu/31996d0463) skal erstattes med reglene fastsatt i denne forordning og i delegerte rettsakter og gjennomføringsrettsakter vedtatt av Kommisjonen i henhold til den myndighet som gis ved denne forordning. Disse rettsaktene bør derfor oppheves.Følgende kommisjonsbeslutninger om blant annet artsspesifikke kriterier for godkjenning eller anerkjennelse av avlslag og avlsvirksomheter, innføring av avlsdyr i stambøker, godkjenning for avlsformål og kunstig sædoverføring, individgransking og avlsverdivurdering ble vedtatt i henhold til direktiv [88/661/EØF](eu/31988l0661), [89/361/EØF](eu/31989l0361), [90/427/EØF](eu/31990l0427*), [94/28/EF](eu/31994l0028*) og [2009/157/EF](eu/32009l0157): Kommisjonsvedtak [84/247/EØF](eu/31984d0247),26 [84/419/EØF](eu/31984d0419),27 [89/501/EØF](eu/31989d0501),28 [89/502/EØF](eu/31989d0502),29 [89/504/EØF](eu/31989d0504),30 [89/505/EØF](eu/31989d0505),31 [89/507/EØF](eu/31989d0507),32 [90/254/EØF](eu/31990d0254),33 [90/255/EØF](eu/31990d0255),34 [90/256/EØF](eu/31990d0256),35 [90/257/EØF](eu/31990d0257),36 [92/353/EØF](eu/31992d0353*),37 [96/78/EF](eu/31996d0078)38 og [2006/427/EF](eu/32006d0427).39 Denne forordning bør fastsette bestemmelser som erstatter dem som er fastsatt i nevnte kommisjonsvedtak.Ved denne forordning bør det fastsettes bestemmelser tilsvarende dem som er fastsatt i kommisjonsvedtak [92/354/EØF](eu/31992d0354).40Følgende kommisjonsrettsakter ble vedtatt i henhold til direktiv [88/661/EØF](eu/31988l0661), [89/361/EØF](eu/31989l0361), [90/427/EØF](eu/31990l0427*), [94/28/EF](eu/31994l0028*) og [2009/157/EF](eu/32009l0157): Kommisjonsvedtak [89/503/EØF](eu/31989d0503),41 [89/506/EØF](eu/31989d0506),42 [90/258/EØF](eu/31990d0258),43 [96/79/EF](eu/31996*0079),44 [96/509/EF](eu/31996d0509),45 [96/510/EF](eu/31996d0510)46 og [2005/379/EF](eu/32005d0379),47 og Kommisjonens gjennomføringsforordning [(EU) 2015/262](eu/32015r0262).48 Denne forordning bør fastsette bestemmelser som erstatter dem som er fastsatt i nevnte kommisjonsrettsakter.For å sikre rettslig klarhet og unngå overlapping bør kommisjonsrettsaktene nevnt i betraktning 74, 75 og 76 oppheves fra datoen for når denne forordning får anvendelse. I tillegg bør Kommisjonen minst 18 måneder før denne forordning anvendelsesdato vedta gjennomføringsrettsakter som fastsetter standardskjemaene for framlegging av de opplysningene som skal oppføres på listen over anerkjente avlslag og avlsvirksomheter, som skal offentliggjøres av medlemsstatene, samt standardskjemaer for avlssertifikatene for avlsdyr og formeringsmateriale fra dem. Disse gjennomføringsrettsaktene bør få anvendelse fra datoen for når denne forordning får anvendelse.For å sikre en smidig overgang for avlslag, avlsorganisasjoner, avlsvirksomheter, private foretak eller andre organisasjoner eller virksomheter som er godkjent eller anerkjent med eller uten tidsbegrensning i henhold til de rettsaktene som er opphevet ved denne forordning, og for de avlsprogrammene som gjennomføres av disse aktørene, bør disse aktørene og deres avlsprogrammer anses for å være anerkjent eller godkjent i samsvar med denne forordning. Disse aktørene bør derfor ikke være omfattet av framgangsmåtene for anerkjennelse, godkjenning og melding om utvidelse av det geografiske området til andre medlemsstater som fastsatt i denne forordning, selv om de andre bestemmelsene i denne forordning bør få anvendelse på dem. Medlemsstatene bør sikre at disse aktørene oppfyller alle de reglene som er fastsatt i denne forordning, særlig ved å foreta offentlig risikobasert kontroll av dem. I tilfelle manglende overholdelse bør vedkommende myndigheter sikre at disse aktørene treffer de tiltakene som er nødvendige for å rette opp manglende overholdelse, og, om nødvendig, midlertidig oppheve eller trekke tilbake anerkjennelsen av disse aktørene eller godkjenningen av deres avlsprogrammer.Kommisjonen har nylig vedtatt et forslag til en ny forordning om offentlig kontroll og annen offentlig virksomhet. Denne nye forordningen har til formål å oppheve forordning [(EF) nr. 882/2004](eu/32004r0882*), rådsdirektiv [89/608/EØF](eu/31989l0608),49 rådsdirektiv [90/425/EØF](eu/31990l0425)50 og direktiv [91/496/EØF](eu/31991l0496*) og [97/78/EF](eu/31997l0078). Målet er også å innarbeide noen av reglene som er fastsatt i forordning [(EF) nr. 882/2004](eu/32004r0882*) og i nevnte direktiver, med de tilpasningene som er nødvendige. Det er imidlertid ikke hensikten at dyreavl skal omfattes av virkeområdet for nevnte nye forordning. Av hensyn til rettslig klarhet og rettssikkerheten og i påvente av oppheving av direktiv [89/608/EØF](eu/31989l0608), [90/425/EØF](eu/31990l0425), [91/496/EØF](eu/31991l0496*) og [97/78/EF](eu/31997l0078) ved nevnte nye forordning er det nødvendig å slette henvisninger til «avlsteknisk» fra direktiv [89/608/EØF](eu/31989l0608) og [90/425/EØF](eu/31990l0425), samtidig som direktiv [91/496/EØF](eu/31991l0496*) og [97/78/EF](eu/31997l0078) ikke krever en slik endring. Direktiv [89/608/EØF](eu/31989l0608) og [90/425/EØF](eu/31990l0425) bør derfor endres.Fram til datoen for anvendelse av artikkel 110 i forordning [(EU) 2016/429](eu/32016r0429*), bør avlslag som gjennomfører godkjente avlsprogrammer for renrasede avlsdyr av hest fortsatt kunne utstede identifikasjonsdokumenter for disse renrasede avlsdyrene i samsvar med artikkel 8 nr. 1 i direktiv [90/427/EØF](eu/31990l0427*).Denne forordning bør få anvendelse fra den første dagen i den tjueåttende måneden etter datoen for når den trer i kraft,
 
+1 EUT C 226 av 16.7.2014, s. 70.
+
+2 Europaparlamentets holdning av 12. april 2016 (ennå ikke offentliggjort i EUT) og rådsbeslutning av 17. mai 2016.
+
+3 Rådsdirektiv [88/661/EØF](eu/31988l0661) av 19. desember 1988 om avlstekniske standarder for avlsdyr av svin (EFT L 382 av 31.12.1988, s. 36).
+
+4 Rådsdirektiv [89/361/EØF](eu/31989l0361) av 30. mai 1989 om renrasede avlsdyr av sau og geit (EFT L 153 av 6.6.1989, s. 30).
+
+5 Rådsdirektiv [90/427/EØF](eu/31990l0427*) av 26. juni 1990 om vilkår med hensyn til avl og avstamning ved handel med dyr av hestefamilien innenfor Fellesskapet (EFT L 224 av 18.8.1990, s. 55).
+
+6 Rådsdirektiv [91/174/EØF](eu/31991l0174) av 25. mars 1991 om fastsettelse av vilkår med hensyn til avl og avstamning ved markedsføring av renrasede dyr og om endring av direktiv [77/504/EØF](eu/31977l0504*) og [90/452/EØF](eu/31990*0452) (EFT L 85 av 5.4.1991, s. 37).
+
+7 Rådsdirektiv [94/28/EF](eu/31994l0028*) av 23. juni 1994 om fastsettelse av prinsipper for avls- og avstamningsvilkår ved import fra tredjestater av dyr samt deres sæd, egg og embryoer, og om endring av direktiv [77/504/EØF](eu/31977l0504*) om renrasede avlsdyr av storfe (EFT L 178 av 12.7.1994, s. 66).
+
+8 Rådsdirektiv [2009/157/EF](eu/32009l0157) av 30. november 2009 om renrasede avlsdyr av storfe (EUT L 323 av 10.12.2009, s. 1).
+
+9 Rådsdirektiv [87/328/EØF](eu/31987l0328) av 18. juni 1987 om godkjenning av renrasede avlsdyr av storfe for avlsformål (EFT L 167 av 26.6.1987, s. 54).
+
+10 Rådsdirektiv [90/118/EØF](eu/31990l0118) av 5. mars 1990 om godkjenning av renrasede avlsdyr av svin for avlsformål (EFT L 71 av 17.3.1990, s. 34).
+
+11 Rådsdirektiv [90/119/EØF](eu/31990l0119) av 5. mars 1990 om godkjenning av hybride avlsdyr av svin for avlsformål (EFT L 71 av 17.3.1990, s. 36).
+
+12 Rådsbeslutning [77/505/EØF](eu/31977d0505) av 25. juli 1977 om nedsettelse av en fast komité for avlsspørsmål (EFT L 206 av 12.8.1977, s. 11).
+
+13 Rådsbeslutning [93/626/EØF](eu/31993d0626) av 25. oktober 1993 om inngåelse av konvensjonen om biologisk mangfold (EFT L 309 av 13.12.1993, s. 1).
+
+14 Rådsbeslutning [2014/283/EU](eu/32014d0283) av 14. april 2014 om inngåelse, på Den europeiske unions vegne, av Nagoya-protokollen om tilgang til genetiske ressurser og rimelig og rettferdig fordeling av de fordelene som oppstår ved å utnytte disse ressursene med hensyn til konvensjonen om biologisk mangfold (EUT L 150 av 20.5.2014, s. 231).
+
+15 Europaparlaments- og rådsforordning [(EU) nr. 511/2014](eu/32014r0511) av 16. april 2014 om de tiltakene i Nagoya-protokollen om tilgang til genetiske ressurser og rimelig og rettferdig fordeling av de fordelene som oppstår ved å utnytte disse ressursene i Unionen, som brukerne skal overholde (EUT L 150 av 20.5.2014, s. 59).
+
+16 Europaparlaments- og rådsforordning [(EU) nr. 1305/2013](eu/32013r1305*) av 17. desember 2013 om støtte til utvikling av landdistriktene fra Det europeiske fond for utvikling av landdistriktene (EAFRD) og om oppheving av rådsforordning [(EF) nr. 1698/2005](eu/32005r1698*) (EUT L 347 av 20.12.2013, s. 487).
+
+17 Europaparlaments- og rådsforordning [2016/429](eu/32016r0429*) av 9. mars 2016 om smittsomme dyresykdommer og om endring og oppheving av visse rettsakter på dyrehelseområdet («dyrehelseregelverket») (EUT L 84 av 31.3.2016, s. 1)
+
+18 Europaparlaments- og rådsforordning [(EU) nr. 652/2014](eu/32014r0652) av 15. mai 2014 om bestemmelser for forvaltningen av utgifter i forbindelse med næringsmiddelkjeden, dyrehelse og dyrevelferd, og i forbindelse med plantehelse og planteformeringsmateriale, om endring av rådsdirektiv [98/56/EF](eu/31998l0056), [2000/29/EF](eu/32000*0029) og [2008/90/EF](eu/32008*0090), europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178), (EF) [nr. 882/2004](eu/32004r0882*) og (EF) [nr. 396/2005](eu/32005r0396), europaparlaments- og rådsdirektiv [2009/128/EF](eu/32009l0128*) og europaparlaments- og rådsforordning [(EF) nr. 1107/2009](eu/32009r1107) og om oppheving av rådsbeslutning [66/399/EØF](eu/31966d0399), [76/894/EØF](eu/31976*0894) og [2009/470/EF](eu/32009r0470) (EUT L 189 av 27.6.2014, s. 1).
+
+19 Rådsvedtak [96/463/EF](eu/31996d0463) av 23. juli 1996 om utpeking av referanseorganet som skal delta i arbeidet med å harmonisere granskingsmetoder og vurdering av granskingsresultater for renrasede avlsdyr av storfe (EFT L 192 av 2.8.1996, s. 19).
+
+20 Rådsforordning [(EØF) nr. 2658/87](eu/31987r2658*) av 23. juli 1987 om toll- og statistikknomenklaturen og om den felles tolltariff (EFT L 256 av 7.9.1987, s. 1).
+
+21 Rådsdirektiv [91/496/EØF](eu/31991l0496*) av 15. juli 1991 om fastsettelse av prinsippene for organisering av veterinærkontrollene av dyr som innføres til Fellesskapet fra tredjestater, og om endring av direktiv [89/662/EØF](eu/31989l0662*), [90/425/EØF](eu/31990l0425) og [90/675/EØF](eu/31990l0675) (EFT L 268 av 24.9.1991, s. 56).
+
+22 Rådsdirektiv [97/78/EF](eu/31997l0078) av 18. desember 1997 om fastsettelse av prinsippene for organisering av veterinærkontrollene av produkter som innføres til Fellesskapet fra tredjestater (EFT L 24 av 30.1.1998, s. 9).
+
+23 Europaparlaments- og rådsforordning [(EF) nr. 882/2004](eu/32004r0882*) av 29. april 2004 om offentlig kontroll for å sikre at fôrvare- og næringsmiddelregelverket samt bestemmelsene om dyrs helse og velferd overholdes (EUT L 165 av 30.4.2004, s. 1).
+
+24 EUT L 123 av 12.5.2016, s. 1.
+
+25 Europaparlaments- og rådsforordning [(EU) nr. 182/2011](eu/32011r0182) av 16. februar 2011 om fastsettelse av allmenne regler og prinsipper for medlemsstatenes kontroll med Kommisjonens utøvelse av sin gjennomføringsmyndighet (EUT L 55 av 28.2.2011, s. 13).
+
+26 Kommisjonsvedtak [84/247/EØF](eu/31984d0247) av 27. april 1984 om fastsettelse av kriterier for godkjenning av avlsorganisasjoner og avlslag som oppretter eller fører stambøker for renrasede avlsdyr av storfe (EFT L 125 av 12.5.1984, s. 58).
+
+27 Kommisjonsvedtak [84/419/EØF](eu/31984d0419) av 19. juli 1984 om fastsettelse av kriterier for oppføring av storfe i stambøker (EFT L 237 av 5.9.1984, s. 11).
+
+28 Kommisjonsvedtak [89/501/EØF](eu/31989d0501) av 18. juli 1989 om fastsettelse av kriterier for godkjenning av og kontroll med avlslag og avlsorganisasjoner som oppretter eller fører stambøker for renrasede avlsdyr av svin (EFT L 247 av 23.8.1989, s. 19).
+
+29 Kommisjonsvedtak [89/502/EØF](eu/31989d0502) av 18. juli 1989 om fastsettelse av kriterier for oppføring av renrasede avlsdyr av svin i stambøker (EFT L 247 av 23.8.1989, s. 21).
+
+30 Kommisjonsvedtak [89/504/EØF](eu/31989d0504) av 18. juli 1989 om fastsettelse av kriterier for godkjenning av og kontroll med avlslag, avlsorganisasjoner og private foretak som oppretter eller fører registre for hybride avlsdyr av svin (EFT L 247 av 23.8.1989, s. 31).
+
+31 Kommisjonsvedtak [89/505/EØF](eu/31989d0505) av 18. juli 1989 om fastsettelse av kriterier for oppføring av hybride avlsdyr av svin i registre (EFT L 247 av 23.8.1989, s. 33).
+
+32 Kommisjonsvedtak [89/507/EØF](eu/31989d0507) av 18. juli 1989 om fastsettelse av metoder til kontroll av ytelsesevne og til vurdering av avlsverdi hos renrasede og hybride avlsdyr av svin (EFT L 247 av 23.8.1989, s. 43).
+
+33 Kommisjonsvedtak [90/254/EØF](eu/31990d0254) av 10. mai 1990 om fastsettelse av kriterier for godkjenning av avlsorganisasjoner og avlslag som oppretter eller fører stambøker for renrasede avlsdyr av sau og geit (EFT L 145 av 8.6.1990, s. 30).
+
+34 Kommisjonsvedtak [90/255/EØF](eu/31990d0255) av 10. mai 1990 om fastsettelse av kriterier for oppføring av renrasede avlsdyr av sau og geit i stambøker (EFT L 145 av 8.6.1990, s. 32).
+
+35 Kommisjonsvedtak [90/256/EØF](eu/31990d0256) av 10. mai 1990 om fastsettelse av metoder til kontroll av ytelsesevne og til vurdering av avlsverdi hos renrasede avlsdyr av sau og geit (EFT L 145 av 8.6.1990, s. 35).
+
+36 Kommisjonsvedtak [90/257/EØF](eu/31990d0257) av 10. mai 1990 om fastsettelse av kriterier for godkjenning av renrasede avlsdyr av sau og geit for avlsformål og bruk av deres sæd, egg og embryoer (EFT L 145 av 8.6.1990, s. 38).
+
+37 Kommisjonsvedtak [92/353/EØF](eu/31992d0353*) av 11. juni 1992 om fastsettelse av kriterier for godkjenning eller autorisering av organisasjoner og lag som oppretter eller fører stambøker for registrerte dyr av hestefamilien (EFT L 192 av 1.7.1992, s. 63).
+
+38 Kommisjonsvedtak [96/78/EF](eu/31996d0078) av 10. januar 1996 om fastsettelse av kriterier for oppføring og registrering av avlsdyr av hestefamilien i stambøker (EFT L 19 av 25.1.1996, s. 39).
+
+39 Kommisjonsvedtak [2006/427/EF](eu/32006d0427) av 20. juni 2006 om fastsettelse av metoder til kontroll av ytelse og til vurdering av avlsverdi hos renrasede avlsdyr av storfe (EUT L 169 av 22.6.2006, s. 56).
+
+40 Kommisjonsvedtak [92/354/EØF](eu/31992d0354) av 11. juni 1992 om fastsettelse av visse regler for å sikre samordning mellom organisasjoner og lag som oppretter eller fører stambøker for registrerte dyr av hestefamilien (EFT L 192 av 11.7.1992, s. 66).
+
+41 Kommisjonsvedtak [89/503/EØF](eu/31989d0503) av 18. juli 1989 om fastsettelse av et sertifikat for renrasede avlsdyr av svin og deres sæd, egg og embryoer (EFT L 247 av 23.8.1989, s. 22).
+
+42 Kommisjonsvedtak [89/506/EØF](eu/31989d0506) av 18. juli 1989 om fastsettelse av et sertifikat for hybride avlsdyr av svin og deres sæd, egg og embryoer (EFT L 247 av 23.8.1989, s. 34).
+
+43 Kommisjonsvedtak [90/258/EØF](eu/31990d0258) av 10. mai 1990 om fastsettelse av et avlssertifikat for renrasede avlsdyr av sau og geit og deres sæd, egg og embryoer (EFT L 145 av 8.6.1990, s. 39).
+
+44 Kommisjonsvedtak [96/79/EF](eu/31996d0079) av 12. januar 1996 om fastsettelse av avlssertifikater for sæd, egg og embryoer fra registrerte dyr av hestefamilien (EFT L 19 av 25.1.1996, s. 41).
+
+45 Kommisjonsvedtak [96/509/EF](eu/31996d0509) av 18. juli 1996 om fastsettelse av krav til avl og avstamning ved import av sæd fra visse dyr (EFT L 210 av 20.8.1996, s. 47).
+
+46 Kommisjonsvedtak [96/510/EF](eu/31996d0510) av 18. juli 1996 om fastsettelse av avstamnings- og avlssertifikater for import av avlsdyr og deres sæd, egg og embryoer (EFT L 210 av 20.8.1996, s. 53).
+
+47 Kommisjonsvedtak av 17. mai 2005 om avstammingssertifikat for og opplysningar om reinrasa avlsdyr av storfe og om sæd, egg og embryo frå desse ([2005/379/EF](eu/32005d0379)) (EUT L 125 av 18.5.2005, s. 15).
+
+48 Kommisjonens gjennomføringsforordning [(EU) 2015/262](eu/32015r0262) av 17. februar 2015 om fastsettelse av regler i henhold til rådsdirektiv [90/427/EØF](eu/31990l0427*) og [2009/156/EF](eu/32009l0156) for metoder for identifikasjon av dyr av hestefamilien (hestepassforordningen) (EUT L 59 av 3.3.2015, s. 1).
+
+49 Rådsdirektiv [89/608/EØF](eu/31989l0608) av 21. november 1989 om gjensidig bistand mellom medlemsstatenes forvaltningsmyndigheter og om samarbeid mellom dem og Kommisjonen for å sikre riktig anvendelse av veterinær- og avlsbestemmelsene (EFT L 351 av 2.12.1989, s. 34).
+
+50 Rådsdirektiv [90/425/EØF](eu/31990l0425) av 26. juni 1990 om veterinærkontroll og avlskontroll ved handel med visse levende dyr og produkter innenfor Fellesskapet med sikte på gjennomføring av det indre marked (EFT L 224 av 18.8.1990, s. 29).
+
+VEDTATT DENNE FORORDNING:
+
 ### KAPITTEL I
 ALMINNELIGE BESTEMMELSER
 
 ### Artikkel 1. Formål og virkeområde
 
-1. Denne forordning fastsetter:Regler for avl og avstamning for handel med avlsdyr og formeringsmateriale fra dem og om innførsel av dem til Unionen.Regler for anerkjennelse av avlslag og avlsvirksomheter og godkjenning av deres avlsprogrammer.Rettigheter og forpliktelser for oppdrettere, avlslag og avlsvirksomheter.Regler for registrering av avlsdyr i stambøker og registre og om godkjenning av avlsdyr og formeringsmateriale fra dem.Regler for individgransking og avlsverdivurdering av avlsdyr.Regler for utstedelse av avlssertifikater for avlsdyr og formeringsmateriale fra dem.Regler for gjennomføringen av offentlige kontroller, og særlig kontrollene av avlslag og avlsvirksomheter, og reglene for gjennomføring av annen offentlig virksomhet.Regler for administrativ bistand og samarbeid og regler for håndheving i medlemsstatene.Regler for Kommisjonens gjennomføring av kontroller i medlemsstatene og tredjestater.
+1\. Denne forordning fastsetter:Regler for avl og avstamning for handel med avlsdyr og formeringsmateriale fra dem og om innførsel av dem til Unionen.Regler for anerkjennelse av avlslag og avlsvirksomheter og godkjenning av deres avlsprogrammer.Rettigheter og forpliktelser for oppdrettere, avlslag og avlsvirksomheter.Regler for registrering av avlsdyr i stambøker og registre og om godkjenning av avlsdyr og formeringsmateriale fra dem.Regler for individgransking og avlsverdivurdering av avlsdyr.Regler for utstedelse av avlssertifikater for avlsdyr og formeringsmateriale fra dem.Regler for gjennomføringen av offentlige kontroller, og særlig kontrollene av avlslag og avlsvirksomheter, og reglene for gjennomføring av annen offentlig virksomhet.Regler for administrativ bistand og samarbeid og regler for håndheving i medlemsstatene.Regler for Kommisjonens gjennomføring av kontroller i medlemsstatene og tredjestater.
 
-2. Denne forordning får anvendelse på avlsdyr og formeringsmateriale fra dem dersom det er bestemt at disse dyrene eller avkommet som stammer fra dette formeringsmaterialet, skal innføres som renrasede avlsdyr i en stambok eller registreres som hybridavlsdyr av svin i et avlsregister.
+2\. Denne forordning får anvendelse på avlsdyr og formeringsmateriale fra dem dersom det er bestemt at disse dyrene eller avkommet som stammer fra dette formeringsmaterialet, skal innføres som renrasede avlsdyr i en stambok eller registreres som hybridavlsdyr av svin i et avlsregister.
 
-3. Denne forordning får ikke anvendelse på avlsdyr og formeringsmateriale fra dem dersom disse dyrene og formeringsmaterialet er beregnet på tekniske eller vitenskapelige eksperimenter som utføres under tilsyn av vedkommende myndigheter.
+3\. Denne forordning får ikke anvendelse på avlsdyr og formeringsmateriale fra dem dersom disse dyrene og formeringsmaterialet er beregnet på tekniske eller vitenskapelige eksperimenter som utføres under tilsyn av vedkommende myndigheter.
 
-4. Artikkel 9 nr. 4, artikkel 13, artikkel 14 nr. 3 og 4, artikkel 23 og 24, artikkel 28 nr. 2 og artikkel 36 nr. 1 får ikke anvendelse på private foretak, som er anerkjent som avlslag, som driver virksomhet i lukkede produksjonssystemer.
+4\. Artikkel 9 nr. 4, artikkel 13, artikkel 14 nr. 3 og 4, artikkel 23 og 24, artikkel 28 nr. 2 og artikkel 36 nr. 1 får ikke anvendelse på private foretak, som er anerkjent som avlslag, som driver virksomhet i lukkede produksjonssystemer.
 
-5. Denne forordning berører ikke medlemsstatenes rett til å treffe nasjonale tiltak for å regulere gjennomføringen av avlsprogrammer som ikke er blitt godkjent i samsvar med artikkel 8 nr. 3, og eventuelt artikkel 12.
+5\. Denne forordning berører ikke medlemsstatenes rett til å treffe nasjonale tiltak for å regulere gjennomføringen av avlsprogrammer som ikke er blitt godkjent i samsvar med artikkel 8 nr. 3, og eventuelt artikkel 12.
 
 ### Artikkel 2. Definisjoner
 
@@ -113,9 +217,9 @@ I denne forordning menes med:«dyr» husdyr av:storfe (*Bos taurus*, *Bos indicu
 
 ### Artikkel 3. Regler for avl og avstamning for handel med avlsdyr og formeringsmateriale fra dem, og om innførsel av dem til Unionen
 
-1. Handel med avlsdyr og formeringsmateriale fra dem og innførsel til Unionen av avlsdyr og formeringsmateriale fra dem, skal ikke forbys, begrenses eller hindres av vilkår om avl eller avstamning, med unntak av de vilkårene som følger av de reglene som er fastsatt i denne forordning.
+1\. Handel med avlsdyr og formeringsmateriale fra dem og innførsel til Unionen av avlsdyr og formeringsmateriale fra dem, skal ikke forbys, begrenses eller hindres av vilkår om avl eller avstamning, med unntak av de vilkårene som følger av de reglene som er fastsatt i denne forordning.
 
-2. Oppdrettere av avlsdyr, avlslag, avlsvirksomheter eller avlsorganer skal ikke forskjellsbehandles på grunnlag av sin opprinnelsesstat eller opprinnelsesstaten for deres avlsdyr og formeringsmateriale fra dem.
+2\. Oppdrettere av avlsdyr, avlslag, avlsvirksomheter eller avlsorganer skal ikke forskjellsbehandles på grunnlag av sin opprinnelsesstat eller opprinnelsesstaten for deres avlsdyr og formeringsmateriale fra dem.
 
 ### KAPITTEL II
 ANERKJENNELSE AV AVLSLAG OG AVLSVIRKSOMHETER I MEDLEMSSTATENE OG GODKJENNING AV AVLSPROGRAMMER
@@ -123,99 +227,135 @@ ANERKJENNELSE AV AVLSLAG OG AVLSVIRKSOMHETER I MEDLEMSSTATENE OG GODKJENNING AV 
 ### AVSNITT 1
 ANERKJENNELSE AV AVLSLAG OG AVLSVIRKSOMHETER
 
-1. Når det gjelder renrasede avlsdyr, kan avlslag, avlsorganisasjoner eller offentlige organer søke vedkommende myndigheter om anerkjennelse som et avlslag.Når det gjelder hybridavlsdyr av svin, kan avlslag, avlsorganisasjoner, private foretak som utøver virksomhet i et lukket produksjonssystem, eller offentlige organer søke vedkommende myndigheter om anerkjennelse som en avlsvirksomhet.
+###### Artikkel 4
 
-2. Søknadene nevnt i nr. 1 skal være skriftlige og foreligge enten på papir eller i elektronisk form.
+Anerkjennelse av avlslag og avlsvirksomheter
 
-3. Vedkommende myndigheter skal vurdere søknadene nevnt i nr. 1. De skal anerkjenne enhver søker nevnt i nr. 1 første ledd som et avlslag, og enhver søker nevnt i nr. 1 annet avsnitt som en avlsvirksomhet, forutsatt at følgende krav er oppfylt:den har sitt hovedkontor på den medlemsstatens territorium der vedkommende myndighet befinner seg,den viser i sin søknad at den oppfyller kravene i del 1 i vedlegg I for sine avlsprogrammer, som den har til hensikt å søke om godkjenning for i samsvar med artikkel 8 nr. 3, og eventuelt artikkel 12,søknaden inneholder for hvert av disse planlagte avlsprogrammene et utkast til avlsprogrammet, som skal inneholde de opplysningene som er fastsatt i del 2 i vedlegg I, samt, når det gjelder renrasede avlsdyr av hest, i del 3 i vedlegg I,når søkeren sender inn søknaden nevnt i nr. 1 i denne artikkel, sender søkeren inn en søknad om godkjenning av minst et av disse planlagte avlsprogrammene i samsvar med artikkel 8 nr. 2.
+1\. Når det gjelder renrasede avlsdyr, kan avlslag, avlsorganisasjoner eller offentlige organer søke vedkommende myndigheter om anerkjennelse som et avlslag.Når det gjelder hybridavlsdyr av svin, kan avlslag, avlsorganisasjoner, private foretak som utøver virksomhet i et lukket produksjonssystem, eller offentlige organer søke vedkommende myndigheter om anerkjennelse som en avlsvirksomhet.
 
-1. I henhold til artikkel 4 nr. 1, dersom vedkommende myndighet har til hensikt å avslå å anerkjenne en søker som et avlslag eller en avlsvirksomhet, skal den gi søkeren en begrunnelse for å gjøre dette. Denne søkeren skal ha rett til å anmode om en ny vurdering av dette påtenkte avslaget fra vedkommende myndighet innen 60 dager etter mottak av begrunnelsen, eller tidligere dersom nasjonale bestemmelser fastsetter kortere frister.
+2\. Søknadene nevnt i nr. 1 skal være skriftlige og foreligge enten på papir eller i elektronisk form.
 
-2. Dersom vedkommende myndighet på bakgrunn av en ny vurdering nevnt i nr. 1 beslutter å opprettholde avslaget, skal den gi søkeren en begrunnelse på sin beslutning om å avslå anerkjennelse innen 90 dager fra mottak av søkerens anmodning om en ny vurdering, eller tidligere dersom nasjonale bestemmelser fastsetter kortere frister. Samtidig skal vedkommende myndighet underrette Kommisjonen om sin beslutning om å avslå anerkjennelse og angi grunnene for dette.
+3\. Vedkommende myndigheter skal vurdere søknadene nevnt i nr. 1. De skal anerkjenne enhver søker nevnt i nr. 1 første ledd som et avlslag, og enhver søker nevnt i nr. 1 annet avsnitt som en avlsvirksomhet, forutsatt at følgende krav er oppfylt:den har sitt hovedkontor på den medlemsstatens territorium der vedkommende myndighet befinner seg,den viser i sin søknad at den oppfyller kravene i del 1 i vedlegg I for sine avlsprogrammer, som den har til hensikt å søke om godkjenning for i samsvar med artikkel 8 nr. 3, og eventuelt artikkel 12,søknaden inneholder for hvert av disse planlagte avlsprogrammene et utkast til avlsprogrammet, som skal inneholde de opplysningene som er fastsatt i del 2 i vedlegg I, samt, når det gjelder renrasede avlsdyr av hest, i del 3 i vedlegg I,når søkeren sender inn søknaden nevnt i nr. 1 i denne artikkel, sender søkeren inn en søknad om godkjenning av minst et av disse planlagte avlsprogrammene i samsvar med artikkel 8 nr. 2.
 
-1. Dersom vedkommende myndighet som har anerkjent et avlslag eller en avlsvirksomhet i samsvar med artikkel 4 nr. 3, avslår å godkjenne et avlsprogram som dette avlslaget eller denne avlsvirksomheten har sendt inn i samsvar med artikkel 8, skal dette avlslaget eller denne avlsvirksomheten ha mulighet til å sende inn en endret utgave av det aktuelle avlsprogrammet innen seks måneder etter dette avslaget.
+###### Artikkel 5
 
-2. Vedkommende myndighet skal tilbakekalle anerkjennelsen fra dette avlslaget eller denne avlsvirksomheten dersom det ved utløpet av den fristen som er nevnt i nr. 1 i denne artikkel, ikke er sendt inn en endret utgave av avlsprogrammet, og dersom dette avlslaget eller denne avlsvirksomheten ikke har noe annet avlsprogram som er godkjent i samsvar med artikkel 8 nr. 3, og eventuelt artikkel 12.
+Avslag på anerkjennelse av avlslag og avlsvirksomheter
 
-1. Medlemsstatene skal utarbeide og oppdatere en liste over avlslag og avlsvirksomheter som deres vedkommende myndigheter har anerkjent i samsvar med artikkel 4 nr. 3, og som har minst ett avlsprogram som er godkjent i samsvar med artikkel 8 nr. 3. Medlemsstatene skal gjøre denne listen tilgjengelig for offentligheten.
+1\. I henhold til artikkel 4 nr. 1, dersom vedkommende myndighet har til hensikt å avslå å anerkjenne en søker som et avlslag eller en avlsvirksomhet, skal den gi søkeren en begrunnelse for å gjøre dette. Denne søkeren skal ha rett til å anmode om en ny vurdering av dette påtenkte avslaget fra vedkommende myndighet innen 60 dager etter mottak av begrunnelsen, eller tidligere dersom nasjonale bestemmelser fastsetter kortere frister.
 
-2. Listen nevnt i nr. 1 skal inneholde følgende opplysninger:navn, kontaktopplysninger og eventuelt nettstedet til avlslaget eller avlsvirksomheten,for hvert avlslag eller hver avlsvirksomhet på denne listennår det gjelder renrasede avlsdyr, navnet på rasen eller, når det gjelder hybridavlsdyr av svin, navnet på rasen, linjen eller krysningen, som er omfattet av hvert av dets/dens avlsprogrammer, som er godkjent i samsvar med artikkel 8 nr. 3, samt, dersom avlslaget gjør bruk av unntakene nevnt i artikkel 19 eller i nr. 2 kapittel III del 1 i vedlegg II, en henvisning til disse unntakene,det geografiske området der hvert av dets/dens avlsprogram skal gjennomføres,når det gjelder renrasede dyr av hest, dersom det er relevant, navnet på og kontaktopplysningene til det avlslaget som fører den opprinnelige stamboken for rasen,for hvert av dets/dens avlsprogram, en henvisning til et nettsted, når dette finnes, der opplysningene om disse avlsprogrammene er tilgjengelige.
+2\. Dersom vedkommende myndighet på bakgrunn av en ny vurdering nevnt i nr. 1 beslutter å opprettholde avslaget, skal den gi søkeren en begrunnelse på sin beslutning om å avslå anerkjennelse innen 90 dager fra mottak av søkerens anmodning om en ny vurdering, eller tidligere dersom nasjonale bestemmelser fastsetter kortere frister. Samtidig skal vedkommende myndighet underrette Kommisjonen om sin beslutning om å avslå anerkjennelse og angi grunnene for dette.
 
-3. Medlemsstatene skal også føre opp på listen nevnt i nr. 2 i denne artikkel enhver vedkommende myndighet som gjennomfører et avlsprogram i samsvar med artikkel 38.
+###### Artikkel 6
 
-4. Når anerkjennelsen av et avlslag eller en avlsvirksomhet tilbakekalles i samsvar med artikkel 47 nr. 1 tredje ledd bokstav e), eller godkjenningen av et avlsprogram er midlertidig opphevet eller tilbakekalt i samsvar med artikkel 47 nr. 1 tredje ledd bokstav d), skal medlemsstatene, uten unødig opphold, angi denne midlertidige opphevingen eller tilbakekallingen på listen fastsatt i nr. 1 i denne artikkel.Når denne anerkjennelsen forblir tilbakekalt eller den nevnte godkjenningen forblir midlertidig opphevet eller tilbakekalt i en periode på 24 måneder, skal medlemsstatene fjerne dette avlslaget, denne avlsvirksomheten eller dette avlsprogrammet endelig fra listen fastsatt i nr. 1.
+Framlegging av endrede avlsprogrammer i forbindelse med avslag og tilbakekalling av anerkjennelse av avlslag eller avlsvirksomheter, dersom det ikke er godkjente avlsprogrammer
 
-5. Kommisjonen skal vedta gjennomføringsrettsakter om fastsettelse av standardskjemaer for framlegging av opplysninger som skal føres opp på listen over anerkjente avlslag og avlsvirksomheter fastsatt i nr. 1. Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med undersøkelseskomité nevnt i artikkel 62 nr. 2.
+1\. Dersom vedkommende myndighet som har anerkjent et avlslag eller en avlsvirksomhet i samsvar med artikkel 4 nr. 3, avslår å godkjenne et avlsprogram som dette avlslaget eller denne avlsvirksomheten har sendt inn i samsvar med artikkel 8, skal dette avlslaget eller denne avlsvirksomheten ha mulighet til å sende inn en endret utgave av det aktuelle avlsprogrammet innen seks måneder etter dette avslaget.
+
+2\. Vedkommende myndighet skal tilbakekalle anerkjennelsen fra dette avlslaget eller denne avlsvirksomheten dersom det ved utløpet av den fristen som er nevnt i nr. 1 i denne artikkel, ikke er sendt inn en endret utgave av avlsprogrammet, og dersom dette avlslaget eller denne avlsvirksomheten ikke har noe annet avlsprogram som er godkjent i samsvar med artikkel 8 nr. 3, og eventuelt artikkel 12.
+
+###### Artikkel 7
+
+Lister over anerkjente avlslag og avlsvirksomheter
+
+1\. Medlemsstatene skal utarbeide og oppdatere en liste over avlslag og avlsvirksomheter som deres vedkommende myndigheter har anerkjent i samsvar med artikkel 4 nr. 3, og som har minst ett avlsprogram som er godkjent i samsvar med artikkel 8 nr. 3. Medlemsstatene skal gjøre denne listen tilgjengelig for offentligheten.
+
+2\. Listen nevnt i nr. 1 skal inneholde følgende opplysninger:navn, kontaktopplysninger og eventuelt nettstedet til avlslaget eller avlsvirksomheten,for hvert avlslag eller hver avlsvirksomhet på denne listennår det gjelder renrasede avlsdyr, navnet på rasen eller, når det gjelder hybridavlsdyr av svin, navnet på rasen, linjen eller krysningen, som er omfattet av hvert av dets/dens avlsprogrammer, som er godkjent i samsvar med artikkel 8 nr. 3, samt, dersom avlslaget gjør bruk av unntakene nevnt i artikkel 19 eller i nr. 2 kapittel III del 1 i vedlegg II, en henvisning til disse unntakene,det geografiske området der hvert av dets/dens avlsprogram skal gjennomføres,når det gjelder renrasede dyr av hest, dersom det er relevant, navnet på og kontaktopplysningene til det avlslaget som fører den opprinnelige stamboken for rasen,for hvert av dets/dens avlsprogram, en henvisning til et nettsted, når dette finnes, der opplysningene om disse avlsprogrammene er tilgjengelige.
+
+3\. Medlemsstatene skal også føre opp på listen nevnt i nr. 2 i denne artikkel enhver vedkommende myndighet som gjennomfører et avlsprogram i samsvar med artikkel 38.
+
+4\. Når anerkjennelsen av et avlslag eller en avlsvirksomhet tilbakekalles i samsvar med artikkel 47 nr. 1 tredje ledd bokstav e), eller godkjenningen av et avlsprogram er midlertidig opphevet eller tilbakekalt i samsvar med artikkel 47 nr. 1 tredje ledd bokstav d), skal medlemsstatene, uten unødig opphold, angi denne midlertidige opphevingen eller tilbakekallingen på listen fastsatt i nr. 1 i denne artikkel.Når denne anerkjennelsen forblir tilbakekalt eller den nevnte godkjenningen forblir midlertidig opphevet eller tilbakekalt i en periode på 24 måneder, skal medlemsstatene fjerne dette avlslaget, denne avlsvirksomheten eller dette avlsprogrammet endelig fra listen fastsatt i nr. 1.
+
+5\. Kommisjonen skal vedta gjennomføringsrettsakter om fastsettelse av standardskjemaer for framlegging av opplysninger som skal føres opp på listen over anerkjente avlslag og avlsvirksomheter fastsatt i nr. 1. Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med undersøkelseskomité nevnt i artikkel 62 nr. 2.
 
 ### AVSNITT 2
 GODKJENNING AV AVLSPROGRAMMER
 
-1. Et avlslag eller en avlsvirksomhet skal sende inn søknader om godkjenning av sine avlsprogrammer til vedkommende myndighet som har anerkjent avlslaget eller avlsvirksomheten i samsvar med artikkel 4 nr. 3.
+###### Artikkel 8
 
-2. Søknadene nevnt i nr. 1 skal være skriftlige og foreligge enten på papir eller i elektronisk form.
+Godkjenning av avlsprogrammer som gjennomføres av avlslag og avlsvirksomheter
 
-3. Vedkommende myndighet nevnt i nr. 1 skal vurdere disse avlsprogrammene og godkjenne dem, forutsatt atDe har et eller flere av følgende formål:når det gjelder renrasede avlsdyr:å forbedre rasen,å bevare rasen,å skape en ny rase,å gjenskape en rase,når det gjelder hybridavlsdyr av svin:å forbedre rasen, linjen eller krysningen,å skape en ny rase, linje eller krysning,de beskriver i detaljer utvelgings- og avlsmålene,de oppfyller kravene i del 2 i vedlegg I, og i tillegg, når det dreier seg om renrasede avlsdyr av hest, i del 3 i vedlegg I.
+1\. Et avlslag eller en avlsvirksomhet skal sende inn søknader om godkjenning av sine avlsprogrammer til vedkommende myndighet som har anerkjent avlslaget eller avlsvirksomheten i samsvar med artikkel 4 nr. 3.
 
-4. Avlslag eller avlsvirksomheter kan utkontraktere spesifikke tekniske oppgaver knyttet til forvaltningen av sine avlsprogrammer til en tredjemann, herunder individgransking og avlsverdivurdering, forutsatt atansvaret overfor vedkommende myndighet for å sikre at kravene i del 2 og 3 i vedlegg I er oppfylt, fortsatt ligger hos avlslagene og avlsvirksomhetene,det ikke foreligger noen interessekonflikt mellom nevnte tredjemann og de oppdretterne som deltar i avlsprogrammet, når det gjelder deres økonomiske virksomhet,denne tredjemannen oppfyller alle krav som er nødvendige for å utføre denne virksomheten,disse avlslagene og avlsvirksomhetene angir i sine søknader nevnt i nr. 2 hvilke oppgaver de vurderer å utkontraktere, samt navnet og kontaktopplysningene til denne tredjemannen.
+2\. Søknadene nevnt i nr. 1 skal være skriftlige og foreligge enten på papir eller i elektronisk form.
 
-5. Dersom det i minst 24 måneder ikke finnes oppdrettere med egne driftsenheter, der de holder sine avlsdyr, som befinner seg på en bestemt del av det geografiske området som deltar i et avlsprogram, og som er godkjent i samsvar med nr. 3, kan vedkommende myndighet nevnt i nr. 1 kreve at det aktuelle avlslaget eller den aktuelle avlsvirksomheten justerer det geografiske området i sitt avlsprogram, slik at det ikke omfatter denne delen.
+3\. Vedkommende myndighet nevnt i nr. 1 skal vurdere disse avlsprogrammene og godkjenne dem, forutsatt atDe har et eller flere av følgende formål:når det gjelder renrasede avlsdyr:å forbedre rasen,å bevare rasen,å skape en ny rase,å gjenskape en rase,når det gjelder hybridavlsdyr av svin:å forbedre rasen, linjen eller krysningen,å skape en ny rase, linje eller krysning,de beskriver i detaljer utvelgings- og avlsmålene,de oppfyller kravene i del 2 i vedlegg I, og i tillegg, når det dreier seg om renrasede avlsdyr av hest, i del 3 i vedlegg I.
 
-1. Før et avlslag eller en avlsvirksomhet gjennomfører vesentlige endringer som omfatter kravene nevnt i artikkel 8 nr. 3 i sitt avlsprogram, som er godkjent i samsvar med denne bestemmelsen, meddeler det/den disse endringene til vedkommende myndighet som har anerkjent dette avlslaget eller denne avlsvirksomheten i samsvar med artikkel 4 nr. 3.
+4\. Avlslag eller avlsvirksomheter kan utkontraktere spesifikke tekniske oppgaver knyttet til forvaltningen av sine avlsprogrammer til en tredjemann, herunder individgransking og avlsverdivurdering, forutsatt atansvaret overfor vedkommende myndighet for å sikre at kravene i del 2 og 3 i vedlegg I er oppfylt, fortsatt ligger hos avlslagene og avlsvirksomhetene,det ikke foreligger noen interessekonflikt mellom nevnte tredjemann og de oppdretterne som deltar i avlsprogrammet, når det gjelder deres økonomiske virksomhet,denne tredjemannen oppfyller alle krav som er nødvendige for å utføre denne virksomheten,disse avlslagene og avlsvirksomhetene angir i sine søknader nevnt i nr. 2 hvilke oppgaver de vurderer å utkontraktere, samt navnet og kontaktopplysningene til denne tredjemannen.
 
-2. Meldingen skal være skriftlig og foreligge enten på papir eller i elektronisk form.
+5\. Dersom det i minst 24 måneder ikke finnes oppdrettere med egne driftsenheter, der de holder sine avlsdyr, som befinner seg på en bestemt del av det geografiske området som deltar i et avlsprogram, og som er godkjent i samsvar med nr. 3, kan vedkommende myndighet nevnt i nr. 1 kreve at det aktuelle avlslaget eller den aktuelle avlsvirksomheten justerer det geografiske området i sitt avlsprogram, slik at det ikke omfatter denne delen.
 
-3. Med mindre vedkommende myndighet angir noe annet innen en frist på 90 dager fra datoen for meldingen, anses disse endringene for å være godkjent.
+###### Artikkel 9
 
-4. Avlslag og avlsvirksomheter skal på en åpen måte og til rett tid informere de oppdretterne som deltar i deres avlsprogrammer, om de endringene i deres avlsprogrammer som er blitt godkjent i samsvar med nr. 3.
+Endringer av et godkjent avlsprogram
 
-1. Som unntak fra artikkel 8 nr. 3 kan vedkommende myndighet som har godkjent et avlslag i samsvar med artikkel 4 nr. 3, avslå å godkjenne et avlsprogram for det avlslaget som oppfyller kravene i del 2 i vedlegg I, og når det gjelder renrasede avlsdyr av hest i del 3 i vedlegg I, på grunn av at dette avlsprogrammet vil kunne skade det avlsprogrammet som gjennomføres av et annet avlslag med den samme rasen, som allerede er blitt godkjent i nevnte medlemsstat med hensyn til minst et av følgende punkter:de vesentlige særtrekkene i egenskapene hos en rase eller de viktigste målene i avlsprogrammet,bevaring av denne rasen eller av det genetiske mangfoldet innenfor rasen, ellerdersom formålet med dette avlsprogrammet er å bevare denne rasen, den effektive gjennomføringen av dette avlsprogrammetnår det dreier seg om en rase som er truet av utryddelse, ellernår det dreier seg om en lokal rase som ikke er så utbredt på et eller flere av Unionens territorier.
+1\. Før et avlslag eller en avlsvirksomhet gjennomfører vesentlige endringer som omfatter kravene nevnt i artikkel 8 nr. 3 i sitt avlsprogram, som er godkjent i samsvar med denne bestemmelsen, meddeler det/den disse endringene til vedkommende myndighet som har anerkjent dette avlslaget eller denne avlsvirksomheten i samsvar med artikkel 4 nr. 3.
 
-2. Med henblikk på nr. 1 skal vedkommende myndighet ta behørig hensyn til følgende:antall avlsprogrammer som allerede er godkjent for denne rasen i nevnte medlemsstat,størrelsen på de avlspopulasjonene som er omfattet av disse avlsprogrammene,det mulige genetiske bidraget fra avlsprogrammer som gjennomføres av andre avlslag for samme rase i andre medlemsstater eller av avlsorganer i tredjestater.
+2\. Meldingen skal være skriftlig og foreligge enten på papir eller i elektronisk form.
+
+3\. Med mindre vedkommende myndighet angir noe annet innen en frist på 90 dager fra datoen for meldingen, anses disse endringene for å være godkjent.
+
+4\. Avlslag og avlsvirksomheter skal på en åpen måte og til rett tid informere de oppdretterne som deltar i deres avlsprogrammer, om de endringene i deres avlsprogrammer som er blitt godkjent i samsvar med nr. 3.
+
+###### Artikkel 10
+
+Unntak fra artikkel 8 nr. 3 om godkjenning av avlsprogrammer
+
+1\. Som unntak fra artikkel 8 nr. 3 kan vedkommende myndighet som har godkjent et avlslag i samsvar med artikkel 4 nr. 3, avslå å godkjenne et avlsprogram for det avlslaget som oppfyller kravene i del 2 i vedlegg I, og når det gjelder renrasede avlsdyr av hest i del 3 i vedlegg I, på grunn av at dette avlsprogrammet vil kunne skade det avlsprogrammet som gjennomføres av et annet avlslag med den samme rasen, som allerede er blitt godkjent i nevnte medlemsstat med hensyn til minst et av følgende punkter:de vesentlige særtrekkene i egenskapene hos en rase eller de viktigste målene i avlsprogrammet,bevaring av denne rasen eller av det genetiske mangfoldet innenfor rasen, ellerdersom formålet med dette avlsprogrammet er å bevare denne rasen, den effektive gjennomføringen av dette avlsprogrammetnår det dreier seg om en rase som er truet av utryddelse, ellernår det dreier seg om en lokal rase som ikke er så utbredt på et eller flere av Unionens territorier.
+
+2\. Med henblikk på nr. 1 skal vedkommende myndighet ta behørig hensyn til følgende:antall avlsprogrammer som allerede er godkjent for denne rasen i nevnte medlemsstat,størrelsen på de avlspopulasjonene som er omfattet av disse avlsprogrammene,det mulige genetiske bidraget fra avlsprogrammer som gjennomføres av andre avlslag for samme rase i andre medlemsstater eller av avlsorganer i tredjestater.
+
+###### Artikkel 11
+
+Avslag på godkjenning av avlsprogrammer
 
 Dersom vedkommende myndighet som har anerkjent et avlslag eller en avlsvirksomhet i samsvar med artikkel 4 nr. 3, avslår å godkjenne et avlsprogram som et avlslag eller en avlsvirksomhet har sendt inn i samsvar med artikkel 8 nr. 1, eller avslår å godkjenne endringer i et avlsprogram som er meddelt i samsvar med artikkel 9 nr. 1, skal den gi dette avlslaget eller denne avlsvirksomheten en begrunnelse på dette avslaget.
 
-1. Dersom et avlslag eller en avlsvirksomhet også har til hensikt å gjennomføre et avlsprogram som er godkjent i samsvar med artikkel 8 nr. 3, med avlsdyr som holdes i en annen medlemsstat enn den medlemsstaten der dette avlslaget eller denne avlsvirksomheten er anerkjent i samsvar med artikkel 4 nr. 3 (med henblikk på denne artikkel «den andre medlemsstaten»), skal dette avlslaget eller denne avlsvirksomheten melde fra om den planlagte utvidelsen av det geografiske området til vedkommende myndighet som har anerkjent dette avslaget eller denne avlsvirksomheten i samsvar med artikkel 4 nr. 3.
+###### Artikkel 12
 
-2. Vedkommende myndighet som har anerkjent dette avlslaget eller denne avlsvirksomheten i samsvar med artikkel 4 nr. 3, skalgi vedkommende myndighet i den andre medlemsstaten en melding minst 90 dager før beregnet startdato for avlsprogrammet i den andre medlemsstaten, og på anmodning fra den myndigheten som mottar meldingen, legge fram en oversettelse av denne meldingen på et av de offisielle språkene i den andre medlemsstaten,på anmodning fra den myndigheten som mottar meldingen, minst 60 dager før beregnet startdato for avlsprogrammet i den andre medlemsstaten, legge fram en kopi av avlsprogrammet godkjent i samsvar med artikkel 8 nr. 3, og, dersom denne myndigheten anmoder om det, vedlegge en oversettelse til et av de offisielle språkene i den andre medlemsstaten, som avlslaget eller avlsvirksomheten som søker, skal legge fram.
+Melding om og godkjenning av avlsprogrammer som gjennomføres i andre medlemsstater enn den medlemsstaten der avlslaget eller avlsvirksomheten er anerkjent
 
-3. Vedkommende myndighet i den andre medlemsstaten kan innen 90 dager fra mottak av meldingen som er nevnt i nr. 2 bokstav a), avslå å godkjenne gjennomføringen av avlsprogrammet på sitt territorium, dersomdet allerede gjennomføres et godkjent avlsprogram i den andre medlemsstaten med renrasede avlsdyr av samme rase, oggodkjenningen av ytterligere et avlsprogram vil kunne skade det avlsprogrammet som gjennomføres av et annet avlslag for den samme rasen, som allerede er godkjent i denne medlemsstaten når det gjelder minst et av følgende punkter:de vesentlige særtrekkene i egenskapene hos en rase eller de viktigste målene i avlsprogrammet,bevaring av denne rasen eller av det genetiske mangfoldet innenfor denne rasen,dersom formålet med dette avlsprogrammet er å bevare denne rasen, den effektive gjennomføringen av dette avlsprogrammetnår det dreier seg om en rase som er truet av utryddelse, ellernår det dreier seg om en lokal rase som ikke er så utbredt på et eller flere av Unionens territorier.
+1\. Dersom et avlslag eller en avlsvirksomhet også har til hensikt å gjennomføre et avlsprogram som er godkjent i samsvar med artikkel 8 nr. 3, med avlsdyr som holdes i en annen medlemsstat enn den medlemsstaten der dette avlslaget eller denne avlsvirksomheten er anerkjent i samsvar med artikkel 4 nr. 3 (med henblikk på denne artikkel «den andre medlemsstaten»), skal dette avlslaget eller denne avlsvirksomheten melde fra om den planlagte utvidelsen av det geografiske området til vedkommende myndighet som har anerkjent dette avslaget eller denne avlsvirksomheten i samsvar med artikkel 4 nr. 3.
 
-4. Vedkommende myndighet i den andre medlemsstaten skal underrette vedkommende myndighet som har godkjent avlslaget eller avlsvirksomheten i samsvar med artikkel 4 nr. 3, om resultatet av meldingen nevnt i nr. 1 i denne artikkel og gi, når den avslår å godkjenne at det gjennomføres et avlsprogram på sitt territorium, en begrunnelse på avslaget.
+2\. Vedkommende myndighet som har anerkjent dette avlslaget eller denne avlsvirksomheten i samsvar med artikkel 4 nr. 3, skalgi vedkommende myndighet i den andre medlemsstaten en melding minst 90 dager før beregnet startdato for avlsprogrammet i den andre medlemsstaten, og på anmodning fra den myndigheten som mottar meldingen, legge fram en oversettelse av denne meldingen på et av de offisielle språkene i den andre medlemsstaten,på anmodning fra den myndigheten som mottar meldingen, minst 60 dager før beregnet startdato for avlsprogrammet i den andre medlemsstaten, legge fram en kopi av avlsprogrammet godkjent i samsvar med artikkel 8 nr. 3, og, dersom denne myndigheten anmoder om det, vedlegge en oversettelse til et av de offisielle språkene i den andre medlemsstaten, som avlslaget eller avlsvirksomheten som søker, skal legge fram.
 
-5. Dersom vedkommende myndighet i den andre medlemsstaten unnlater å svare på meldingen nevnt i nr. 2 bokstav a) innen 90 dager fra datoen for mottak av den aktuelle meldingen, er dette å regne som en godkjenning.
+3\. Vedkommende myndighet i den andre medlemsstaten kan innen 90 dager fra mottak av meldingen som er nevnt i nr. 2 bokstav a), avslå å godkjenne gjennomføringen av avlsprogrammet på sitt territorium, dersomdet allerede gjennomføres et godkjent avlsprogram i den andre medlemsstaten med renrasede avlsdyr av samme rase, oggodkjenningen av ytterligere et avlsprogram vil kunne skade det avlsprogrammet som gjennomføres av et annet avlslag for den samme rasen, som allerede er godkjent i denne medlemsstaten når det gjelder minst et av følgende punkter:de vesentlige særtrekkene i egenskapene hos en rase eller de viktigste målene i avlsprogrammet,bevaring av denne rasen eller av det genetiske mangfoldet innenfor denne rasen,dersom formålet med dette avlsprogrammet er å bevare denne rasen, den effektive gjennomføringen av dette avlsprogrammetnår det dreier seg om en rase som er truet av utryddelse, ellernår det dreier seg om en lokal rase som ikke er så utbredt på et eller flere av Unionens territorier.
 
-6. Vedkommende myndighet som har anerkjent avlslaget eller avlsvirksomheten i samsvar med artikkel 4 nr. 3, skal uten unødig forsinkelse informere avlslaget eller avlsvirksomheten om resultatet av den meldingen som er nevnt i nr. 2 bokstav a) i denne artikkel, og ved et slikt avslag gi dette avlslaget eller denne avlsvirksomheten en begrunnelse på avslaget nevnt i nr. 4 i denne artikkel.
+4\. Vedkommende myndighet i den andre medlemsstaten skal underrette vedkommende myndighet som har godkjent avlslaget eller avlsvirksomheten i samsvar med artikkel 4 nr. 3, om resultatet av meldingen nevnt i nr. 1 i denne artikkel og gi, når den avslår å godkjenne at det gjennomføres et avlsprogram på sitt territorium, en begrunnelse på avslaget.
 
-7. Dersom vedkommende myndighet i den andre medlemsstaten avslår å gi sin godkjenning i samsvar med nr. 3, skal den underrette Kommisjonen om sitt avslag sammen med en begrunnelse på dette avslaget.
+5\. Dersom vedkommende myndighet i den andre medlemsstaten unnlater å svare på meldingen nevnt i nr. 2 bokstav a) innen 90 dager fra datoen for mottak av den aktuelle meldingen, er dette å regne som en godkjenning.
 
-8. Dersom vedkommende myndighet i den andre medlemsstaten avslår å gi sin godkjenning i samsvar med nr. 3 i denne artikkel, og avlslaget eller avlsvirksomheten som har til hensikt å gjennomføre dette avlsprogrammet i den andre medlemsstaten, ber om ny vurdering av dette avslaget, skal vedkommende myndighet i den andre medlemsstaten og vedkommende myndighet som har anerkjent avlslaget eller avlsvirksomheten i samsvar med artikkel 4 nr. 3, samarbeide i forbindelse med denne anmodningen om en ny vurdering.
+6\. Vedkommende myndighet som har anerkjent avlslaget eller avlsvirksomheten i samsvar med artikkel 4 nr. 3, skal uten unødig forsinkelse informere avlslaget eller avlsvirksomheten om resultatet av den meldingen som er nevnt i nr. 2 bokstav a) i denne artikkel, og ved et slikt avslag gi dette avlslaget eller denne avlsvirksomheten en begrunnelse på avslaget nevnt i nr. 4 i denne artikkel.
 
-9. Vedkommende myndighet som har anerkjent avlslaget eller avlsvirksomheten i samsvar med artikkel 4 nr. 3, skal underrette vedkommende myndighet i den andre medlemsstaten om endringer i avlsprogrammene som er godkjent i samsvar med artikkel 9 nr. 3.
+7\. Dersom vedkommende myndighet i den andre medlemsstaten avslår å gi sin godkjenning i samsvar med nr. 3, skal den underrette Kommisjonen om sitt avslag sammen med en begrunnelse på dette avslaget.
 
-10. På anmodning fra vedkommende myndighet i den andre medlemsstaten skal avlslaget eller avlsvirksomheten, som i samsvar med denne artikkel driver virksomhet på den andre medlemsstatens territorium, legge fram oppdaterte opplysninger for vedkommende myndighet, særlig med hensyn til antall oppdrettere og avlsdyr som omfattes ved gjennomføringen av avlsprogrammet på medlemsstatens territorium. En slik anmodning skal gjøres på samme måte som anmodninger til avlslag eller avlsvirksomheter som er anerkjent i den andre medlemsstaten.
+8\. Dersom vedkommende myndighet i den andre medlemsstaten avslår å gi sin godkjenning i samsvar med nr. 3 i denne artikkel, og avlslaget eller avlsvirksomheten som har til hensikt å gjennomføre dette avlsprogrammet i den andre medlemsstaten, ber om ny vurdering av dette avslaget, skal vedkommende myndighet i den andre medlemsstaten og vedkommende myndighet som har anerkjent avlslaget eller avlsvirksomheten i samsvar med artikkel 4 nr. 3, samarbeide i forbindelse med denne anmodningen om en ny vurdering.
 
-11. Vedkommende myndighet i den andre medlemsstaten kan trekke tilbake godkjenningen av avlsprogrammet fastsatt i denne artikkel i minst 12 måneder, dersom det ikke finnes noen oppdretter som deltar i dette avlsprogrammet på den andre medlemsstatens territorium.
+9\. Vedkommende myndighet som har anerkjent avlslaget eller avlsvirksomheten i samsvar med artikkel 4 nr. 3, skal underrette vedkommende myndighet i den andre medlemsstaten om endringer i avlsprogrammene som er godkjent i samsvar med artikkel 9 nr. 3.
+
+10\. På anmodning fra vedkommende myndighet i den andre medlemsstaten skal avlslaget eller avlsvirksomheten, som i samsvar med denne artikkel driver virksomhet på den andre medlemsstatens territorium, legge fram oppdaterte opplysninger for vedkommende myndighet, særlig med hensyn til antall oppdrettere og avlsdyr som omfattes ved gjennomføringen av avlsprogrammet på medlemsstatens territorium. En slik anmodning skal gjøres på samme måte som anmodninger til avlslag eller avlsvirksomheter som er anerkjent i den andre medlemsstaten.
+
+11\. Vedkommende myndighet i den andre medlemsstaten kan trekke tilbake godkjenningen av avlsprogrammet fastsatt i denne artikkel i minst 12 måneder, dersom det ikke finnes noen oppdretter som deltar i dette avlsprogrammet på den andre medlemsstatens territorium.
 
 ### KAPITTEL III
 RETTIGHETER OG FORPLIKTELSER FOR OPPDRETTERE, AVLSLAG OG AVLSVIRKSOMHETER
 
 ### Artikkel 13. Rettighetene for oppdrettere som deltar i avlsprogrammer godkjent i samsvar med artikkel 8 nr. 3, og eventuelt artikkel 12
 
-1. Oppdrettere skal ha rett til å delta i et avlsprogram som er godkjent i samsvar med artikkel 8 nr. 3 og eventuelt artikkel 12, forutsatt atderes avlsdyr holdes på driftsenheter som ligger innenfor det geografiske området til dette avlsprogrammet,deres avlsdyr tilhører, når det gjelder renrasede avlsdyr, den rasen eller, når det gjelder hybridavlsdyr av svin, den rasen, linjen eller krysningen som er omfattet av dette avlsprogrammet.
+1\. Oppdrettere skal ha rett til å delta i et avlsprogram som er godkjent i samsvar med artikkel 8 nr. 3 og eventuelt artikkel 12, forutsatt atderes avlsdyr holdes på driftsenheter som ligger innenfor det geografiske området til dette avlsprogrammet,deres avlsdyr tilhører, når det gjelder renrasede avlsdyr, den rasen eller, når det gjelder hybridavlsdyr av svin, den rasen, linjen eller krysningen som er omfattet av dette avlsprogrammet.
 
-2. Oppdrettere som deltar i et avlsprogram som er godkjent i samsvar med artikkel 8 nr. 3, og eventuelt artikkel 12, skal ha rett tilå få sine renrasede avlsdyr innført i hovedavsnitt i stamboken, som avlslaget har opprettet for rasen i samsvar med artikkel 18 og 20,å få sine dyr innført i et tilleggsavsnitt til den stamboken som avlslaget har opprettet for rasen i samsvar med artikkel 20,å få sine hybridavlsdyr av svin registrert i et avlsregister opprettet for rasen, linjen eller krysningen av en avlsvirksomhet i samsvar med artikkel 23,å delta i individgransking og avlsverdivurdering i samsvar med artikkel 25,å få utstedt et avlssertifikat i samsvar med artikkel 30 nr. 1 og 4,å få, på anmodning, oppdaterte resultater av individgransking og avlsverdivurdering for sine avlsdyr, dersom disse resultatene er tilgjengelige,å få tilgang til alle andre tjenester som i forbindelse med dette avlsprogrammet leveres til de deltakende oppdretterne av avlslaget eller avlsvirksomheten som gjennomfører dette avlsprogrammet.
+2\. Oppdrettere som deltar i et avlsprogram som er godkjent i samsvar med artikkel 8 nr. 3, og eventuelt artikkel 12, skal ha rett tilå få sine renrasede avlsdyr innført i hovedavsnitt i stamboken, som avlslaget har opprettet for rasen i samsvar med artikkel 18 og 20,å få sine dyr innført i et tilleggsavsnitt til den stamboken som avlslaget har opprettet for rasen i samsvar med artikkel 20,å få sine hybridavlsdyr av svin registrert i et avlsregister opprettet for rasen, linjen eller krysningen av en avlsvirksomhet i samsvar med artikkel 23,å delta i individgransking og avlsverdivurdering i samsvar med artikkel 25,å få utstedt et avlssertifikat i samsvar med artikkel 30 nr. 1 og 4,å få, på anmodning, oppdaterte resultater av individgransking og avlsverdivurdering for sine avlsdyr, dersom disse resultatene er tilgjengelige,å få tilgang til alle andre tjenester som i forbindelse med dette avlsprogrammet leveres til de deltakende oppdretterne av avlslaget eller avlsvirksomheten som gjennomfører dette avlsprogrammet.
 
-3. I tillegg til de rettighetene som er fastsatt i nr. 1 og 2, når reglene til et avlslag eller en avlsvirksomhet omfatter regler for medlemskap, skal oppdretterne nevnt i nr. 1 også ha rett tilå bli medlem av dette avlslaget eller denne avlsvirksomheten,å delta i fastsettelsen og utviklingen av avlsprogrammet i samsvar med de vedtektene som er nevnt i punkt B nr. 1 bokstav b) del 1 i vedlegg I.
+3\. I tillegg til de rettighetene som er fastsatt i nr. 1 og 2, når reglene til et avlslag eller en avlsvirksomhet omfatter regler for medlemskap, skal oppdretterne nevnt i nr. 1 også ha rett tilå bli medlem av dette avlslaget eller denne avlsvirksomheten,å delta i fastsettelsen og utviklingen av avlsprogrammet i samsvar med de vedtektene som er nevnt i punkt B nr. 1 bokstav b) del 1 i vedlegg I.
 
 ### Artikkel 14. Rettigheter og forpliktelser for avlslag og avlsvirksomheter
 
-1. Når det gjelder deres avlsprogrammer som er godkjent i samsvar med artikkel 8 nr. 3, og eventuelt artikkel 12, skal avlslag og avlsvirksomheter ha rett til å fastsette og gjennomføre slike avlsprogrammer på egen hånd, forutsatt at de oppfyller kravene i denne forordning og eventuelle vilkår for deres godkjenning.
+1\. Når det gjelder deres avlsprogrammer som er godkjent i samsvar med artikkel 8 nr. 3, og eventuelt artikkel 12, skal avlslag og avlsvirksomheter ha rett til å fastsette og gjennomføre slike avlsprogrammer på egen hånd, forutsatt at de oppfyller kravene i denne forordning og eventuelle vilkår for deres godkjenning.
 
-2. Avlslag eller avlsvirksomheter skal ha rett til å utelukke oppdrettere fra å delta i et avlsprogram dersom disse oppdretterne unnlater å overholde reglene for dette avlsprogrammet eller forpliktelsene fastsatt i vedtektene nevnt i punkt B nr. 1 bokstav b) del 1 i vedlegg I.
+2\. Avlslag eller avlsvirksomheter skal ha rett til å utelukke oppdrettere fra å delta i et avlsprogram dersom disse oppdretterne unnlater å overholde reglene for dette avlsprogrammet eller forpliktelsene fastsatt i vedtektene nevnt i punkt B nr. 1 bokstav b) del 1 i vedlegg I.
 
-3. I tillegg til retten nevnt i nr. 2 skal avlslag og avlsvirksomheter som har regler for medlemskap, ha rett til å utelukke oppdrettere fra medlemskap når disse oppdretterne unnlater å oppfylle sine forpliktelser i henhold til vedtektene fastsatt i punkt B nr. 1 bokstav b) del 1 i vedlegg I.
+3\. I tillegg til retten nevnt i nr. 2 skal avlslag og avlsvirksomheter som har regler for medlemskap, ha rett til å utelukke oppdrettere fra medlemskap når disse oppdretterne unnlater å oppfylle sine forpliktelser i henhold til vedtektene fastsatt i punkt B nr. 1 bokstav b) del 1 i vedlegg I.
 
-4. Avlslag og avlsvirksomheter skal, uten at det berører rollen til domstolene, ha et ansvar for å løse tvister som kan oppstå mellom oppdrettere og mellom oppdrettere og avlslag eller avlsvirksomheter i forbindelse med gjennomføringen av avlsprogrammer, som er godkjent i henhold til artikkel 8 nr. 3, og eventuelt artikkel 12, i samsvar med vedtektene nevnt i punkt B nr. 1 bokstav b) del 1 i vedlegg I.
+4\. Avlslag og avlsvirksomheter skal, uten at det berører rollen til domstolene, ha et ansvar for å løse tvister som kan oppstå mellom oppdrettere og mellom oppdrettere og avlslag eller avlsvirksomheter i forbindelse med gjennomføringen av avlsprogrammer, som er godkjent i henhold til artikkel 8 nr. 3, og eventuelt artikkel 12, i samsvar med vedtektene nevnt i punkt B nr. 1 bokstav b) del 1 i vedlegg I.
 
 ### KAPITTEL IV
 INNFØRING AV AVLSDYR I STAMBØKER OG AVLSREGISTRE OG GODKJENNING FOR AVLSFORMÅL
@@ -223,68 +363,108 @@ INNFØRING AV AVLSDYR I STAMBØKER OG AVLSREGISTRE OG GODKJENNING FOR AVLSFORMÅ
 ### AVSNITT 1
 INNFØRING AV RENRASEDE AVLSDYR I STAMBØKER OG GODKJENNING FOR AVLSFORMÅL
 
+###### Artikkel 15
+
+Stambøkers oppbygning
+
 En stambok skal bestå av et hovedavsnitt og, dersom dette er angitt i det avlsprogrammet som er godkjent i samsvar med artikkel 8 nr. 3, og eventuelt artikkel 12, et eller flere tilleggsavsnitt.
 
-1. Dersom avlslag fastsetter ulike kriterier eller framgangsmåter for å innføre renrasede avlsdyr i ulike klasser, kan disse avlslagene dele inn stambøkenes hovedavsnitt i klasseretter de genetiske verdiene for disse dyrene og deretter dele inn disse klassene etter deres alder eller kjønn, elleretter alder eller kjønn for disse dyrene, forutsatt at disse klassene også er inndelt etter deres genetiske verdier.Disse kriteriene og framgangsmåtene kan kreve at renrasede avlsdyr gjennomgår den individgranskingen eller avlsverdivurderingen som er angitt i artikkel 25, eller en annen vurdering som er beskrevet i det avlsprogrammet som er godkjent i samsvar med artikkel 8 nr. 3, og eventuelt artikkel 12, før det blir innført i en bestemt klasse i hovedavsnittet.
+###### Artikkel 16
 
-2. Dersom avlsprogrammet fastsetter vilkår for innføring i hovedavsnittet i stamboken utover dem som er fastsatt i kapittel I del 1 i vedlegg II, skal det avlslaget som gjennomfører dette avlsprogrammet, opprette i dette hovedavsnittet minst én klasse for renrasede avlsdyr som bare oppfyller vilkårene i kapittel I del 1 i vedlegg II og artikkel 21, som skal føres inn på anmodning fra oppdretteren.
+Stambøkers hovedavsnitt
+
+1\. Dersom avlslag fastsetter ulike kriterier eller framgangsmåter for å innføre renrasede avlsdyr i ulike klasser, kan disse avlslagene dele inn stambøkenes hovedavsnitt i klasseretter de genetiske verdiene for disse dyrene og deretter dele inn disse klassene etter deres alder eller kjønn, elleretter alder eller kjønn for disse dyrene, forutsatt at disse klassene også er inndelt etter deres genetiske verdier.Disse kriteriene og framgangsmåtene kan kreve at renrasede avlsdyr gjennomgår den individgranskingen eller avlsverdivurderingen som er angitt i artikkel 25, eller en annen vurdering som er beskrevet i det avlsprogrammet som er godkjent i samsvar med artikkel 8 nr. 3, og eventuelt artikkel 12, før det blir innført i en bestemt klasse i hovedavsnittet.
+
+2\. Dersom avlsprogrammet fastsetter vilkår for innføring i hovedavsnittet i stamboken utover dem som er fastsatt i kapittel I del 1 i vedlegg II, skal det avlslaget som gjennomfører dette avlsprogrammet, opprette i dette hovedavsnittet minst én klasse for renrasede avlsdyr som bare oppfyller vilkårene i kapittel I del 1 i vedlegg II og artikkel 21, som skal føres inn på anmodning fra oppdretteren.
+
+###### Artikkel 17
+
+Tilleggsavsnitt i stambøker
 
 Avlslag kan opprette et eller flere tilleggsavsnitt i stamboken for dyr av samme art som ikke er berettiget til å bli innført i hovedavsnittet, forutsatt at de reglene som er fastsatt i avlsprogrammet, tillater at avkom av disse dyrene føres inn i hovedavsnittet i samsvar med reglene fastsatt inr. 1 bokstav a) kapittel III del 1 i vedlegg II når det gjelder hunndyr av storfe, svin, sau og geit,nr. 2 kapittel III del 1 i vedlegg II når det gjelder utryddelsestruede raser av storfe, svin, sau og geit eller «hardføre» raser av sau,ellernr. 1 bokstav b) kapittel III del 1 i vedlegg II når det gjelder hann- og hunndyr av hest.
 
-1. Avlslag skal på anmodning fra oppdrettere føre inn eller registrere for innføring ethvert renraset avlsdyr av den rasen som omfattes av deres avlsprogram, i stambokens hovedavsnitt, forutsatt at disse dyrene oppfyller kravene fastsatt i kapittel I i del 1 i vedlegg II og, dersom det er relevant, at dyrene er avkom av avlsdyr eller resultatet av formeringsmateriale fra dem i samsvar med reglene fastsatt i artikkel 21.
+###### Artikkel 18
 
-2. Avlslag skal ikke nekte å føre inn et renraset avlsdyr i hovedavsnittet i sine stambøker på grunn av at det renrasede dyret allerede er innført i en annen stambok for samme rase eller, når det gjelder et krysningsprogram som gjennomføres med renrasede avlsdyr av hest, en stambok for en annen rase som er opprettet av et annet avlslag som er anerkjent i samsvar med artikkel 4 nr. 3, eller av et avlsorgan i en tredjestat som er oppført på listen i henhold til artikkel 34.
+Innføring av renrasede avlsdyr i stambokens hovedavsnitt
 
-3. Når hovedavsnittet i stamboken er inndelt i klasser, skal avlslaget føre inn renrasede avlsdyr som oppfyller kriteriene for innføring i hovedavsnittet, i den klassen som svarer til de genetiske verdiene til disse renrasede avlsdyrene.
+1\. Avlslag skal på anmodning fra oppdrettere føre inn eller registrere for innføring ethvert renraset avlsdyr av den rasen som omfattes av deres avlsprogram, i stambokens hovedavsnitt, forutsatt at disse dyrene oppfyller kravene fastsatt i kapittel I i del 1 i vedlegg II og, dersom det er relevant, at dyrene er avkom av avlsdyr eller resultatet av formeringsmateriale fra dem i samsvar med reglene fastsatt i artikkel 21.
 
-1. Som unntak fra artikkel 18 nr. 1 kan et avlslag som gjennomfører et avlsprogram som er godkjent i samsvar med artikkel 8 nr. 3, og eventuelt artikkel 12, for en rase som det ikke finnes noen stambok for i noen medlemsstat eller tredjestat som er oppført på listen angitt i artikkel 34, i hovedavsnittet i denne nyopprettede stamboken føre inn renrasede avlsdyr av ulike raser eller avkom fra renrasede avlsdyr av ulike raser eller et hvilket som helst dyr som avlslaget anser å besitte egenskapene for denne nye rasen, og som eventuelt oppfyller de minstekravene til individgransking som er fastsatt i avlsprogrammet.Avlslag som gjør bruk av dette unntaket, skali sitt avlsprogram fastsette en opprettelsesperiode for den nye stamboken, som er hensiktsmessig med hensyn til avstanden mellom generasjoner av den aktuelle arten eller rasen,vise til en eventuell eksisterende stambok som renrasede avlsdyr eller deres foreldre ble innført i for første gang etter fødselen, samt til det opprinnelige registreringsnummer i denne stamboken,i sitt system for registrering av dyrenes avstamning, identifisere de dyrene som de anser for å være rasens grunnstamme.
+2\. Avlslag skal ikke nekte å føre inn et renraset avlsdyr i hovedavsnittet i sine stambøker på grunn av at det renrasede dyret allerede er innført i en annen stambok for samme rase eller, når det gjelder et krysningsprogram som gjennomføres med renrasede avlsdyr av hest, en stambok for en annen rase som er opprettet av et annet avlslag som er anerkjent i samsvar med artikkel 4 nr. 3, eller av et avlsorgan i en tredjestat som er oppført på listen i henhold til artikkel 34.
 
-2. Dersom et avlslag har til hensikt å gjenskape en rase som er gått tapt, eller som står i alvorlig fare for å forsvinne, kan en medlemsstat eller, dersom den beslutter det, vedkommende myndighet tillate dette avlslaget å innføre i stambokens hovedavsnitt avkom av renrasede avlsdyr av den rasen som skal gjenskapes, eller renrasede avlsdyr eller avkom av renrasede avlsdyr av andre raser, som inngår i gjenskapingen av den aktuelle rasen, eller et hvilket som helst dyr som avlslaget anser for å besitte de egenskapene som tilhører den rasen som skal gjenskapes, og som eventuelt oppfyller minstekravene til individgransking som er fastsatt i avlsprogrammet, forutsatt atdet i avlsprogrammet er fastsatt en opprettelsesperiode eller en gjenskapingsperiode for denne stamboken, som er hensiktsmessig for den aktuelle rasen,det, dersom det er relevant, vises til en eventuell stambok der disse renrasede avlsdyrene eller forfedrene ble ført inn sammen med det opprinnelige registreringsnummeret i denne stamboken,de dyrene som avlslaget anser for å være rasens grunnstamme, identifiseres i systemet for registrering av avstamningen.
+3\. Når hovedavsnittet i stamboken er inndelt i klasser, skal avlslaget føre inn renrasede avlsdyr som oppfyller kriteriene for innføring i hovedavsnittet, i den klassen som svarer til de genetiske verdiene til disse renrasede avlsdyrene.
 
-3. Et avlslag som ønsker å gjøre bruk av unntaket nevnt i nr. 1 i denne artikkel, eller unntaket nevnt i nr. 2 i denne artikkel, skal fastsette en detaljert plan for å skape eller gjenskape rasen i sitt avlsprogram, som er nevnt i artikkel 8 nr. 1.
+###### Artikkel 19
 
-4. Når periodene nevnt i nr. 1 bokstav a) i denne artikkel og nr. 2 bokstav a) i denne artikkel utløper, skal vedkommende myndighet foreta en offentlig kontroll som fastsatt i artikkel 43.
+Unntak fra kravene om innføring av dyr i stambøkenes hovedavsnitt dersom det skapes eller gjenskapes en ny rase
 
-5. Dersom en rase skapes eller gjenskapes i samsvar med denne artikkel, skal medlemsstatene gjøre opplysningene offentlig tilgjengelige ved å angi dette på listen fastsatt i artikkel 7.
+1\. Som unntak fra artikkel 18 nr. 1 kan et avlslag som gjennomfører et avlsprogram som er godkjent i samsvar med artikkel 8 nr. 3, og eventuelt artikkel 12, for en rase som det ikke finnes noen stambok for i noen medlemsstat eller tredjestat som er oppført på listen angitt i artikkel 34, i hovedavsnittet i denne nyopprettede stamboken føre inn renrasede avlsdyr av ulike raser eller avkom fra renrasede avlsdyr av ulike raser eller et hvilket som helst dyr som avlslaget anser å besitte egenskapene for denne nye rasen, og som eventuelt oppfyller de minstekravene til individgransking som er fastsatt i avlsprogrammet.Avlslag som gjør bruk av dette unntaket, skali sitt avlsprogram fastsette en opprettelsesperiode for den nye stamboken, som er hensiktsmessig med hensyn til avstanden mellom generasjoner av den aktuelle arten eller rasen,vise til en eventuell eksisterende stambok som renrasede avlsdyr eller deres foreldre ble innført i for første gang etter fødselen, samt til det opprinnelige registreringsnummer i denne stamboken,i sitt system for registrering av dyrenes avstamning, identifisere de dyrene som de anser for å være rasens grunnstamme.
 
-1. Dersom et avlslag oppretter tilleggsavsnitt i samsvar med artikkel 17, skal avlslaget, på anmodning fra oppdretterne, registrere dyr av arter som er omfattet av dets avlsprogram, og som ikke er berettiget til å bli innført i hovedavsnittet, i de relevante tilleggsavsnittene nevnt i artikkel 17, forutsatt at disse dyrene oppfyller vilkårene fastsatt i kapittel II del 1 i vedlegg II.
+2\. Dersom et avlslag har til hensikt å gjenskape en rase som er gått tapt, eller som står i alvorlig fare for å forsvinne, kan en medlemsstat eller, dersom den beslutter det, vedkommende myndighet tillate dette avlslaget å innføre i stambokens hovedavsnitt avkom av renrasede avlsdyr av den rasen som skal gjenskapes, eller renrasede avlsdyr eller avkom av renrasede avlsdyr av andre raser, som inngår i gjenskapingen av den aktuelle rasen, eller et hvilket som helst dyr som avlslaget anser for å besitte de egenskapene som tilhører den rasen som skal gjenskapes, og som eventuelt oppfyller minstekravene til individgransking som er fastsatt i avlsprogrammet, forutsatt atdet i avlsprogrammet er fastsatt en opprettelsesperiode eller en gjenskapingsperiode for denne stamboken, som er hensiktsmessig for den aktuelle rasen,det, dersom det er relevant, vises til en eventuell stambok der disse renrasede avlsdyrene eller forfedrene ble ført inn sammen med det opprinnelige registreringsnummeret i denne stamboken,de dyrene som avlslaget anser for å være rasens grunnstamme, identifiseres i systemet for registrering av avstamningen.
 
-2. Avlslag skal, på anmodning fra oppdretterne, føre inn avkommet fra de dyrene som er nevnt i nr. 1 i denne artikkel, i hovedavsnittet som er nevnt i artikkel 16, og skal anse dette avkommet for å være et renraset avlsdyr, forutsatt at avkommet oppfyller vilkårene i kapittel III del 1 i vedlegg II.
+3\. Et avlslag som ønsker å gjøre bruk av unntaket nevnt i nr. 1 i denne artikkel, eller unntaket nevnt i nr. 2 i denne artikkel, skal fastsette en detaljert plan for å skape eller gjenskape rasen i sitt avlsprogram, som er nevnt i artikkel 8 nr. 1.
 
-1. Et avlslag som gjennomfører et avlsprogram som er godkjent i samsvar med artikkel 8 nr. 3, og eventuelt artikkel 12, for en rase, skal godtaved naturlig bedekning, et hvilket som helst renraset avlsdyr av denne rasen,ved kunstig sædoverføring, sæd oppsamlet fra renrasede avlsdyr av storfe som har gjennomgått avlsverdivurdering i samsvar med artikkel 25,ved kunstig sædoverføring, sæd oppsamlet fra renrasede avlsdyr av svin, sau og geit som har gjennomgått individgransking eller avlsverdivurdering i samsvar med artikkel 25,ved kunstig sædoverføring, sæd oppsamlet fra renrasede avlsdyr av hest som har gjennomgått, dersom dette kreves i det avlsprogrammet som er godkjent i samsvar med artikkel 8 nr. 3, og eventuelt artikkel 12, individgransking eller avlsverdivurdering i samsvar med artikkel 25,ved embryooverføring, oocytter oppsamlet og brukt til in vitro-framstilling av embryoer, og in vivo-framstilte embryoer befruktet ved bruk av sæd nevnt i bokstav b) eller c) i dette nummer, forutsatt at disse oocyttene og embryoene ble oppsamlet fra renrasede avlsdyr av storfe, svin, sau eller geit som har gjennomgått individgransking eller avlsverdivurdering i samsvar med artikkel 25,ved embryooverføring, oocytter oppsamlet og brukt til in vitro-framstilling av embryoer, og in vivo-framstilte embryoer befruktet ved bruk av sæd nevnt i bokstav d) i dette nummer, forutsatt at disse oocyttene og embryoene ble oppsamlet fra renrasede avlsdyr av hest som har gjennomgått, når dette kreves i det avlsprogrammet som er godkjent i samsvar med artikkel 8 nr. 3, og eventuelt artikkel 12, individgransking eller avlsverdivurdering i samsvar med artikkel 25,ved testing av renrasede avlsdyr av hanndyr av storfe, svin, sau og geit, sæd oppsamlet fra renrasede avlsdyr som ikke har gjennomgått en individgransking eller avlsverdivurdering, forutsatt at sæden bare brukes til å teste disse renrasede avlsdyrene av hanndyr innenfor de mengdebegrensningene som avlslaget trenger for å gjennomføre en slik testing i samsvar med artikkel 25.
+4\. Når periodene nevnt i nr. 1 bokstav a) i denne artikkel og nr. 2 bokstav a) i denne artikkel utløper, skal vedkommende myndighet foreta en offentlig kontroll som fastsatt i artikkel 43.
 
-2. Når det gjelder renrasede avlsdyr av hest kan et avlslag, som unntak fra nr. 1 i denne artikkel, forby eller begrense bruken av en eller flere av disse reproduksjonsteknikkene som er nevnt i dette nummer, eller bruken av renrasede avlsdyr til en eller flere av disse reproduksjonsteknikkene, herunder bruken av formeringsmateriale fra dem, forutsatt at dette forbudet eller denne begrensningen er angitt i avlslagets avlsprogram som er godkjent i samsvar med artikkel 8 nr. 3, og eventuelt artikkel 12.Et slikt forbud eller enhver slik begrensning som er nærmere angitt i avlsprogrammet for det avlslaget som har opprettet den opprinnelige stamboken for rasen i samsvar med nr. 3 bokstav a) del 3 i vedlegg I, skal være bindende for avlsprogrammer for de avlslagene som oppretter datterstambøker for den samme rasen i samsvar med nr. 3 bokstav b) del 3 i vedlegg I.
+5\. Dersom en rase skapes eller gjenskapes i samsvar med denne artikkel, skal medlemsstatene gjøre opplysningene offentlig tilgjengelige ved å angi dette på listen fastsatt i artikkel 7.
 
-3. Når det gjelder en rase som er truet av utryddelse, kan avlslaget forby eller begrense bruken av et renraset avlsdyr av denne rasen, herunder bruken av formeringsmateriale fra det, dersom denne bruken vil kunne sette bevaringen eller det genetiske mangfoldet av denne rasen i fare.
+###### Artikkel 20
 
-4. Sæden nevnt i bokstav g) nr. 1 som er oppsamlet fra renrasede avlsdyr av hanndyr, som er innført i hovedavsnittet i en stambok opprettet av et avlslag som gjennomfører et avlsprogram som er godkjent i samsvar med artikkel 8 nr. 3, og eventuelt artikkel 12, skal godkjennes av et annet avlslag som gjennomfører et godkjent avlsprogram for den samme rasen i den samme eller en annen medlemsstat på de samme vilkårene og med de samme mengdebegrensningene for individgransking og eventuelt avlsverdivurdering som dem som gjelder for dets egne renrasede avlsdyr av hanndyr.
+Registrering av dyr i tilleggsavsnitt og oppgradering av deres avkom i hovedavsnittet
 
-5. Med henblikk på nr. 1 og 4 skal formeringsmateriale fra renrasede avlsdyr nevnt i disse numre oppsamles, produseres, behandles og oppbevares på en sædstasjon eller et sædlager, eller av en embryooppsamlingsgruppe eller en embryoproduksjonsgruppe, som er godkjent for handel innenfor Unionen med disse produktene i samsvar med Unionens dyrehelseregelverk.
+1\. Dersom et avlslag oppretter tilleggsavsnitt i samsvar med artikkel 17, skal avlslaget, på anmodning fra oppdretterne, registrere dyr av arter som er omfattet av dets avlsprogram, og som ikke er berettiget til å bli innført i hovedavsnittet, i de relevante tilleggsavsnittene nevnt i artikkel 17, forutsatt at disse dyrene oppfyller vilkårene fastsatt i kapittel II del 1 i vedlegg II.
 
-6. Som unntak fra nr. 5 kan en medlemsstat tillate oppsamling, produksjon, behandling og lagring til bruk innenfor nevnte medlemsstats territorium av formeringsmateriale fra renrasede avlsdyr på en sædstasjon eller et sædlager, på en stasjon for oppbevaring av embryoer, av en embryooppsamlingsgruppe eller en embryoproduksjonsgruppe eller av særlig kvalifisert personale, som er godkjent i samsvar med lovgivningen i nevnte medlemsstat.
+2\. Avlslag skal, på anmodning fra oppdretterne, føre inn avkommet fra de dyrene som er nevnt i nr. 1 i denne artikkel, i hovedavsnittet som er nevnt i artikkel 16, og skal anse dette avkommet for å være et renraset avlsdyr, forutsatt at avkommet oppfyller vilkårene i kapittel III del 1 i vedlegg II.
 
-7. Som unntak fra bokstav b), c) og e) i nr. 1, når formålet med et avlsprogram som er godkjent i samsvar med artikkel 8 nr. 3, og eventuelt artikkel 12, er å bevare rasen eller rasens genetiske mangfold, skal det bare gjennomføres individgransking eller avlsverdivurdering dersom dette avlsprogrammet krever en slik individgransking eller avlsverdivurdering.
+###### Artikkel 21
 
-1. Dersom renrasede avlsdyr av storfe, sau, geit og hest brukes til oppsamling av sæd beregnet på kunstig sædoverføring, skal avlslag kreve at disse renrasede avlsdyrene identifiseres ved analyse av deres blodtype eller ved en annen hensiktsmessig metode som gir minst samme grad av sikkerhet, for eksempel DNA-analyse.
+Godkjenning av renrasede avlsdyr og formeringsmateriale fra dem for avlsformål
 
-2. Dersom avlsdyr av storfe, svin, sau, geit og hest brukes til oppsamling av oocytter og embryoer, og dersom avlsdyr av svin brukes til oppsamling av sæd beregnet på kunstig sædoverføring, kan avlslagene og avlsvirksomhetene kreve at disse avlsdyrene identifiseres ved hjelp av en av metodene nevnt i nr. 1.
+1\. Et avlslag som gjennomfører et avlsprogram som er godkjent i samsvar med artikkel 8 nr. 3, og eventuelt artikkel 12, for en rase, skal godtaved naturlig bedekning, et hvilket som helst renraset avlsdyr av denne rasen,ved kunstig sædoverføring, sæd oppsamlet fra renrasede avlsdyr av storfe som har gjennomgått avlsverdivurdering i samsvar med artikkel 25,ved kunstig sædoverføring, sæd oppsamlet fra renrasede avlsdyr av svin, sau og geit som har gjennomgått individgransking eller avlsverdivurdering i samsvar med artikkel 25,ved kunstig sædoverføring, sæd oppsamlet fra renrasede avlsdyr av hest som har gjennomgått, dersom dette kreves i det avlsprogrammet som er godkjent i samsvar med artikkel 8 nr. 3, og eventuelt artikkel 12, individgransking eller avlsverdivurdering i samsvar med artikkel 25,ved embryooverføring, oocytter oppsamlet og brukt til in vitro-framstilling av embryoer, og in vivo-framstilte embryoer befruktet ved bruk av sæd nevnt i bokstav b) eller c) i dette nummer, forutsatt at disse oocyttene og embryoene ble oppsamlet fra renrasede avlsdyr av storfe, svin, sau eller geit som har gjennomgått individgransking eller avlsverdivurdering i samsvar med artikkel 25,ved embryooverføring, oocytter oppsamlet og brukt til in vitro-framstilling av embryoer, og in vivo-framstilte embryoer befruktet ved bruk av sæd nevnt i bokstav d) i dette nummer, forutsatt at disse oocyttene og embryoene ble oppsamlet fra renrasede avlsdyr av hest som har gjennomgått, når dette kreves i det avlsprogrammet som er godkjent i samsvar med artikkel 8 nr. 3, og eventuelt artikkel 12, individgransking eller avlsverdivurdering i samsvar med artikkel 25,ved testing av renrasede avlsdyr av hanndyr av storfe, svin, sau og geit, sæd oppsamlet fra renrasede avlsdyr som ikke har gjennomgått en individgransking eller avlsverdivurdering, forutsatt at sæden bare brukes til å teste disse renrasede avlsdyrene av hanndyr innenfor de mengdebegrensningene som avlslaget trenger for å gjennomføre en slik testing i samsvar med artikkel 25.
 
-3. På anmodning fra en medlemsstat eller en europeisk sammenslutning for avlsdyr av de aktuelle artene, kan Kommisjonen vedta gjennomføringsrettsakter som godkjenner metoder for kontroll av identiteten til avlsdyr, forutsatt at de gir minst samme grad av sikkerhet som analyse av avlsdyrenes blodtype, idet det tas hensyn til tekniske framskritt og anbefalingene fra EU-referansesentrene nevnt i artikkel 29, ICAR eller International Society for Animal Genetics (ISAG). Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med undersøkelseskomité nevnt i artikkel 62 nr. 2.
+2\. Når det gjelder renrasede avlsdyr av hest kan et avlslag, som unntak fra nr. 1 i denne artikkel, forby eller begrense bruken av en eller flere av disse reproduksjonsteknikkene som er nevnt i dette nummer, eller bruken av renrasede avlsdyr til en eller flere av disse reproduksjonsteknikkene, herunder bruken av formeringsmateriale fra dem, forutsatt at dette forbudet eller denne begrensningen er angitt i avlslagets avlsprogram som er godkjent i samsvar med artikkel 8 nr. 3, og eventuelt artikkel 12.Et slikt forbud eller enhver slik begrensning som er nærmere angitt i avlsprogrammet for det avlslaget som har opprettet den opprinnelige stamboken for rasen i samsvar med nr. 3 bokstav a) del 3 i vedlegg I, skal være bindende for avlsprogrammer for de avlslagene som oppretter datterstambøker for den samme rasen i samsvar med nr. 3 bokstav b) del 3 i vedlegg I.
+
+3\. Når det gjelder en rase som er truet av utryddelse, kan avlslaget forby eller begrense bruken av et renraset avlsdyr av denne rasen, herunder bruken av formeringsmateriale fra det, dersom denne bruken vil kunne sette bevaringen eller det genetiske mangfoldet av denne rasen i fare.
+
+4\. Sæden nevnt i bokstav g) nr. 1 som er oppsamlet fra renrasede avlsdyr av hanndyr, som er innført i hovedavsnittet i en stambok opprettet av et avlslag som gjennomfører et avlsprogram som er godkjent i samsvar med artikkel 8 nr. 3, og eventuelt artikkel 12, skal godkjennes av et annet avlslag som gjennomfører et godkjent avlsprogram for den samme rasen i den samme eller en annen medlemsstat på de samme vilkårene og med de samme mengdebegrensningene for individgransking og eventuelt avlsverdivurdering som dem som gjelder for dets egne renrasede avlsdyr av hanndyr.
+
+5\. Med henblikk på nr. 1 og 4 skal formeringsmateriale fra renrasede avlsdyr nevnt i disse numre oppsamles, produseres, behandles og oppbevares på en sædstasjon eller et sædlager, eller av en embryooppsamlingsgruppe eller en embryoproduksjonsgruppe, som er godkjent for handel innenfor Unionen med disse produktene i samsvar med Unionens dyrehelseregelverk.
+
+6\. Som unntak fra nr. 5 kan en medlemsstat tillate oppsamling, produksjon, behandling og lagring til bruk innenfor nevnte medlemsstats territorium av formeringsmateriale fra renrasede avlsdyr på en sædstasjon eller et sædlager, på en stasjon for oppbevaring av embryoer, av en embryooppsamlingsgruppe eller en embryoproduksjonsgruppe eller av særlig kvalifisert personale, som er godkjent i samsvar med lovgivningen i nevnte medlemsstat.
+
+7\. Som unntak fra bokstav b), c) og e) i nr. 1, når formålet med et avlsprogram som er godkjent i samsvar med artikkel 8 nr. 3, og eventuelt artikkel 12, er å bevare rasen eller rasens genetiske mangfold, skal det bare gjennomføres individgransking eller avlsverdivurdering dersom dette avlsprogrammet krever en slik individgransking eller avlsverdivurdering.
+
+###### Artikkel 22
+
+Metoder for identitetskontroll
+
+1\. Dersom renrasede avlsdyr av storfe, sau, geit og hest brukes til oppsamling av sæd beregnet på kunstig sædoverføring, skal avlslag kreve at disse renrasede avlsdyrene identifiseres ved analyse av deres blodtype eller ved en annen hensiktsmessig metode som gir minst samme grad av sikkerhet, for eksempel DNA-analyse.
+
+2\. Dersom avlsdyr av storfe, svin, sau, geit og hest brukes til oppsamling av oocytter og embryoer, og dersom avlsdyr av svin brukes til oppsamling av sæd beregnet på kunstig sædoverføring, kan avlslagene og avlsvirksomhetene kreve at disse avlsdyrene identifiseres ved hjelp av en av metodene nevnt i nr. 1.
+
+3\. På anmodning fra en medlemsstat eller en europeisk sammenslutning for avlsdyr av de aktuelle artene, kan Kommisjonen vedta gjennomføringsrettsakter som godkjenner metoder for kontroll av identiteten til avlsdyr, forutsatt at de gir minst samme grad av sikkerhet som analyse av avlsdyrenes blodtype, idet det tas hensyn til tekniske framskritt og anbefalingene fra EU-referansesentrene nevnt i artikkel 29, ICAR eller International Society for Animal Genetics (ISAG). Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med undersøkelseskomité nevnt i artikkel 62 nr. 2.
 
 ### AVSNITT 2
 REGISTRERING AV HYBRIDAVLSDYR AV SVIN I AVLSREGISTRE OG GODKJENNING FOR AVLSFORMÅL
 
-1. Avlsvirksomheter skal på anmodning fra sine oppdrettere føre inn i sitt avlsregister ethvert hybridavlsdyr av svin av samme rase, linje eller krysning som oppfyller kravene i del 2 i vedlegg II.
+###### Artikkel 23
 
-2. Avlsvirksomheter skal ikke nekte å føre inn i sine avlsregistre ethvert hybridavlsdyr av svin som er blitt registrert i samsvar med del 2 i vedlegg II, i et avlsregister opprettet for den samme rasen, linjen eller krysningen av en avlsvirksomhet som er godkjent i samsvar med artikkel 4 nr. 3 i samme eller i en annen medlemsstat.
+Registrering av hybridavlsdyr av svin i avlsregistre
 
-1. En avlsvirksomhet som gjennomfører et avlsprogram, som er godkjent i samsvar med artikkel 8 nr. 3, og eventuelt artikkel 12, med hybridavlsdyr av svin av en rase, linje eller krysning, skal godtaved naturlig bedekning, ethvert hybridavlsdyr av svin av samme rase, linje eller krysning som fastsatt i dette avlsprogrammet,ved kunstig sædoverføring, sæd oppsamlet fra hybridavlsdyr av svin som har gjennomgått, dersom dette kreves i det avlsprogrammet som er godkjent i samsvar med artikkel 8 nr. 3, og eventuelt artikkel 12, individgransking eller avlsverdivurdering i samsvar med artikkel 25,ved embryooverføring, oocytter oppsamlet og brukt til in vitro-framstilling av embryoer, og in vivo-framstilte embryoer befruktet ved bruk av sæd nevnt i bokstav b), forutsatt at disse oocyttene og embryoene ble oppsamlet fra hybridavlsdyr av svin som har gjennomgått, når dette kreves i det avlsprogrammet som er godkjent i samsvar med artikkel 8 nr. 3, og eventuelt artikkel 12, individgransking eller avlsverdivurdering i samsvar med artikkel 25,ved testing av hanndyr av hybridavlsdyr av svin, sæd oppsamlet fra disse hybridavlsdyrene av svin som ikke har gjennomgått en individgransking eller avlsverdivurdering, forutsatt at sæden bare brukes til å teste disse hybridavlsdyrene av svin innenfor de mengdebegrensningene som avlsvirksomheten trenger for å gjennomføre slike tester i samsvar med artikkel 25.
+1\. Avlsvirksomheter skal på anmodning fra sine oppdrettere føre inn i sitt avlsregister ethvert hybridavlsdyr av svin av samme rase, linje eller krysning som oppfyller kravene i del 2 i vedlegg II.
 
-2. Hanndyr av hybridavlsdyr av svin som er registrert i et avlsregister opprettet av en avlsvirksomhet, som gjennomfører et avlsprogram som er godkjent i samsvar med artikkel 8 nr. 3, og eventuelt artikkel 12, og formeringsmateriale fra dem, skal godkjennes av en annet avlsvirksomhet som gjennomfører et avlsprogram med den samme rasen, linjen eller krysningen i den samme eller en annen medlemsstat, på de samme vilkårene og med de samme mengdebegrensningene for individgransking og eventuelt avlsverdivurdering som dem som gjelder for dens egne hybridavlsdyr av svin.
+2\. Avlsvirksomheter skal ikke nekte å føre inn i sine avlsregistre ethvert hybridavlsdyr av svin som er blitt registrert i samsvar med del 2 i vedlegg II, i et avlsregister opprettet for den samme rasen, linjen eller krysningen av en avlsvirksomhet som er godkjent i samsvar med artikkel 4 nr. 3 i samme eller i en annen medlemsstat.
 
-3. Med henblikk på nr. 1 og 2 skal formeringsmateriale fra hybridavlsdyr av svin nevnt i disse numre oppsamles, produseres, behandles og oppbevares på en sædstasjon eller et sædlager, eller av en embryooppsamlingsgruppe eller en embryoproduksjonsgruppe, som er godkjent for handel innenfor Unionen med disse produktene i samsvar med Unionens dyrehelseregelverk.
+###### Artikkel 24
 
-4. Som unntak fra nr. 3 kan en medlemsstat tillate oppsamling, produksjon, behandling og lagring til bruk innenfor nevnte medlemsstats territorium av formeringsmateriale fra hybridavlsdyr av svin på en sædstasjon eller et sædlager, på en stasjon for oppbevaring av embryoer, av en embryooppsamlingsgruppe eller en embryoproduksjonsgruppe eller av særlig kvalifisert personale, som er godkjent i samsvar med lovgivningen i nevnte medlemsstat.
+Godkjenning av hybridavlsdyr av svin og formeringsmateriale fra dem for avlsformål
+
+1\. En avlsvirksomhet som gjennomfører et avlsprogram, som er godkjent i samsvar med artikkel 8 nr. 3, og eventuelt artikkel 12, med hybridavlsdyr av svin av en rase, linje eller krysning, skal godtaved naturlig bedekning, ethvert hybridavlsdyr av svin av samme rase, linje eller krysning som fastsatt i dette avlsprogrammet,ved kunstig sædoverføring, sæd oppsamlet fra hybridavlsdyr av svin som har gjennomgått, dersom dette kreves i det avlsprogrammet som er godkjent i samsvar med artikkel 8 nr. 3, og eventuelt artikkel 12, individgransking eller avlsverdivurdering i samsvar med artikkel 25,ved embryooverføring, oocytter oppsamlet og brukt til in vitro-framstilling av embryoer, og in vivo-framstilte embryoer befruktet ved bruk av sæd nevnt i bokstav b), forutsatt at disse oocyttene og embryoene ble oppsamlet fra hybridavlsdyr av svin som har gjennomgått, når dette kreves i det avlsprogrammet som er godkjent i samsvar med artikkel 8 nr. 3, og eventuelt artikkel 12, individgransking eller avlsverdivurdering i samsvar med artikkel 25,ved testing av hanndyr av hybridavlsdyr av svin, sæd oppsamlet fra disse hybridavlsdyrene av svin som ikke har gjennomgått en individgransking eller avlsverdivurdering, forutsatt at sæden bare brukes til å teste disse hybridavlsdyrene av svin innenfor de mengdebegrensningene som avlsvirksomheten trenger for å gjennomføre slike tester i samsvar med artikkel 25.
+
+2\. Hanndyr av hybridavlsdyr av svin som er registrert i et avlsregister opprettet av en avlsvirksomhet, som gjennomfører et avlsprogram som er godkjent i samsvar med artikkel 8 nr. 3, og eventuelt artikkel 12, og formeringsmateriale fra dem, skal godkjennes av en annet avlsvirksomhet som gjennomfører et avlsprogram med den samme rasen, linjen eller krysningen i den samme eller en annen medlemsstat, på de samme vilkårene og med de samme mengdebegrensningene for individgransking og eventuelt avlsverdivurdering som dem som gjelder for dens egne hybridavlsdyr av svin.
+
+3\. Med henblikk på nr. 1 og 2 skal formeringsmateriale fra hybridavlsdyr av svin nevnt i disse numre oppsamles, produseres, behandles og oppbevares på en sædstasjon eller et sædlager, eller av en embryooppsamlingsgruppe eller en embryoproduksjonsgruppe, som er godkjent for handel innenfor Unionen med disse produktene i samsvar med Unionens dyrehelseregelverk.
+
+4\. Som unntak fra nr. 3 kan en medlemsstat tillate oppsamling, produksjon, behandling og lagring til bruk innenfor nevnte medlemsstats territorium av formeringsmateriale fra hybridavlsdyr av svin på en sædstasjon eller et sædlager, på en stasjon for oppbevaring av embryoer, av en embryooppsamlingsgruppe eller en embryoproduksjonsgruppe eller av særlig kvalifisert personale, som er godkjent i samsvar med lovgivningen i nevnte medlemsstat.
 
 ### KAPITTEL V
 INDIVIDGRANSKING OG AVLSVERDIVURDERING
@@ -295,162 +475,162 @@ Dersom et avlslag, en avlsvirksomhet eller en tredjemann, som er utpekt i samsva
 
 ### Artikkel 26. Delegert myndighet og gjennomføringsmyndighet vedrørende krav til individgransking og avlsverdivurdering
 
-1. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 61 vedrørende endringer av vedlegg III når det gjelder individgransking og avlsverdivurdering av renrasede avlsdyr av storfe, sau og geit, som er nødvendig for å ta hensyn tilvitenskapelige framskritt,teknisk utvikling ellerbehovet for å bevare verdifulle genetiske ressurser.
+1\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 61 vedrørende endringer av vedlegg III når det gjelder individgransking og avlsverdivurdering av renrasede avlsdyr av storfe, sau og geit, som er nødvendig for å ta hensyn tilvitenskapelige framskritt,teknisk utvikling ellerbehovet for å bevare verdifulle genetiske ressurser.
 
-2. Kommisjonen kan vedta gjennomføringsrettsakter som fastsetter ensartede regler for individgransking og avlsverdivurdering av renrasede avlsdyr av storfe, sau og geit nevnt i denne artikkel, herunder tolkningen av resultatene av disse. Kommisjonen skal i den forbindelse ta hensyn til tekniske og vitenskapelige framskritt eller anbefalinger fra relevante EU-referansesentre angitt i artikkel 29 nr. 1 eller, i mangel av slike, prinsippene fastsatt av ICR. Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med undersøkelseskomité nevnt i artikkel 62 nr. 2.
+2\. Kommisjonen kan vedta gjennomføringsrettsakter som fastsetter ensartede regler for individgransking og avlsverdivurdering av renrasede avlsdyr av storfe, sau og geit nevnt i denne artikkel, herunder tolkningen av resultatene av disse. Kommisjonen skal i den forbindelse ta hensyn til tekniske og vitenskapelige framskritt eller anbefalinger fra relevante EU-referansesentre angitt i artikkel 29 nr. 1 eller, i mangel av slike, prinsippene fastsatt av ICR. Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med undersøkelseskomité nevnt i artikkel 62 nr. 2.
 
 ### Artikkel 27. Gjennomføring av individgransking og avlsverdivurdering
 
-1. Dersom individgransking eller avlsverdivurdering skal gjennomføres i henhold til avlsprogrammet som er godkjent i samsvar med artikkel 8 nr. 3, og eventuelt artikkel 12, skal avlslag og avlsvirksomheterselv gjennomføre individgransking eller avlsverdivurdering, ellerutpeke den tredjemannen som denne individgranskingen eller avlsverdivurderingen skal utkontrakteres til.
+1\. Dersom individgransking eller avlsverdivurdering skal gjennomføres i henhold til avlsprogrammet som er godkjent i samsvar med artikkel 8 nr. 3, og eventuelt artikkel 12, skal avlslag og avlsvirksomheterselv gjennomføre individgransking eller avlsverdivurdering, ellerutpeke den tredjemannen som denne individgranskingen eller avlsverdivurderingen skal utkontrakteres til.
 
-2. En medlemsstat eller, dersom nevnte medlemsstat beslutter det, dens vedkommende myndigheter, kan kreve at denne tredjemannen, for at de kan bli utpekt i samsvar med nr. 1 bokstav b), skal være godkjent for å gjennomføre individgransking eller avlsverdivurdering av avlsdyr av nevnte medlemsstat eller dens vedkommende myndigheter, bortsett fra dersom den aktuelle utpekte tredjemannen er et offentlig organ som er underlagt nevnte medlemsstats eller dens vedkommende myndigheters kontroll.
+2\. En medlemsstat eller, dersom nevnte medlemsstat beslutter det, dens vedkommende myndigheter, kan kreve at denne tredjemannen, for at de kan bli utpekt i samsvar med nr. 1 bokstav b), skal være godkjent for å gjennomføre individgransking eller avlsverdivurdering av avlsdyr av nevnte medlemsstat eller dens vedkommende myndigheter, bortsett fra dersom den aktuelle utpekte tredjemannen er et offentlig organ som er underlagt nevnte medlemsstats eller dens vedkommende myndigheters kontroll.
 
-3. En medlemsstat eller, dersom nevnte medlemsstat beslutter det, dens vedkommende myndigheter, som anvender bestemmelsen nevnt i nr. 2, skal sikre at det er gitt tillatelse til den tredjemannen som er nevnt i dette nummer, dersom de harde lokalene og det utstyret som er nødvendig for å gjennomføre denne individgranskingen eller avlsverdivurderingen,egnet kvalifisert personale ogkapasitet til å gjennomføre denne individgranskingen eller avlsverdivurderingen i samsvar med artikkel 25.
+3\. En medlemsstat eller, dersom nevnte medlemsstat beslutter det, dens vedkommende myndigheter, som anvender bestemmelsen nevnt i nr. 2, skal sikre at det er gitt tillatelse til den tredjemannen som er nevnt i dette nummer, dersom de harde lokalene og det utstyret som er nødvendig for å gjennomføre denne individgranskingen eller avlsverdivurderingen,egnet kvalifisert personale ogkapasitet til å gjennomføre denne individgranskingen eller avlsverdivurderingen i samsvar med artikkel 25.
 
-4. Som unntak fra artikkel 8 nr. 4 bokstav a) kan en medlemsstat eller dens vedkommende myndighet beslutte at en tredjemann som er godkjent i samsvar med nr. 2 i denne artikkel, eller det utpekte offentlige organet som er underlagt kontroll av medlemsstaten eller dens vedkommende myndigheter nevnt i nr. 2 i denne artikkel, skal være ansvarlig overfor nevnte vedkommende myndighet for å sikre at kravene fastsatt i denne forordning, som får anvendelse på en slik utkontraktert individgransking eller avlsverdivurdering, oppfylles.
+4\. Som unntak fra artikkel 8 nr. 4 bokstav a) kan en medlemsstat eller dens vedkommende myndighet beslutte at en tredjemann som er godkjent i samsvar med nr. 2 i denne artikkel, eller det utpekte offentlige organet som er underlagt kontroll av medlemsstaten eller dens vedkommende myndigheter nevnt i nr. 2 i denne artikkel, skal være ansvarlig overfor nevnte vedkommende myndighet for å sikre at kravene fastsatt i denne forordning, som får anvendelse på en slik utkontraktert individgransking eller avlsverdivurdering, oppfylles.
 
-5. Avlslag eller avlsvirksomheter som selv gjennomfører individgransking eller avlsverdivurdering, eller en tredjemann som er utpekt av et avlslag eller en avlsvirksomhet i samsvar med nr. 1 bokstav b) i denne artikkel, eller som er godkjent av en medlemsstat eller dens vedkommende myndigheter nevnt i nr. 2 i denne artikkel, kan forplikte seg til å overholde de reglene og standardene som er fastsatt av ICAR, eller delta i virksomhet utført av de EU-referansesentrene som er nevnt i artikkel 29.Vedkommende myndigheter kan ta hensyn til resultatene av slike forpliktelser eller deltaking i slik virksomhet, når de anerkjenner disse avlslagene eller avlsvirksomhetene, godkjenner deres avlsprogrammer, godkjenner deres tredjemann eller foretar offentlig kontroll av disse aktørene.
+5\. Avlslag eller avlsvirksomheter som selv gjennomfører individgransking eller avlsverdivurdering, eller en tredjemann som er utpekt av et avlslag eller en avlsvirksomhet i samsvar med nr. 1 bokstav b) i denne artikkel, eller som er godkjent av en medlemsstat eller dens vedkommende myndigheter nevnt i nr. 2 i denne artikkel, kan forplikte seg til å overholde de reglene og standardene som er fastsatt av ICAR, eller delta i virksomhet utført av de EU-referansesentrene som er nevnt i artikkel 29.Vedkommende myndigheter kan ta hensyn til resultatene av slike forpliktelser eller deltaking i slik virksomhet, når de anerkjenner disse avlslagene eller avlsvirksomhetene, godkjenner deres avlsprogrammer, godkjenner deres tredjemann eller foretar offentlig kontroll av disse aktørene.
 
-6. Avlslag og avlsvirksomheter skal offentliggjøre detaljerte opplysninger om dem som gjennomfører individgransking eller avlsverdivurdering.
+6\. Avlslag og avlsvirksomheter skal offentliggjøre detaljerte opplysninger om dem som gjennomfører individgransking eller avlsverdivurdering.
 
 ### Artikkel 28. Forpliktelser for avlslag, avlsvirksomheter og tredjemann som utfører individgransking eller avlsverdivurdering
 
-1. Dersom et avlslag eller en avlsvirksomhet gjennomfører individgransking eller avlsverdivurdering av avlsdyr eller utkontrakterer slik virksomhet til en tredjemann i samsvar med artikkel 27 nr. 1 bokstav b), skal dette avlslaget eller denne avlsvirksomheten på anmodning fra vedkommende myndighet nevnt i artikkel 8 nr. 3, eller eventuelt artikkel 12 nr. 5, gi følgende opplysninger:journaler med alle data fra individgranskinger og avlsverdivurderinger av avlsdyr fra driftsenheter som ligger på det området der nevnte vedkommende myndighet utøver sin virksomhet,nærmere opplysninger om de metodene som er brukt for å registrere egenskaper,nærmere opplysninger om modellen som beskriver ytelsesevnen, og som brukes for å analysere resultatene av individgranskingen,nærmere opplysninger om statistiske metoder som brukes for å analysere resultatene av individgranskingen for hver enkelt egenskap som vurderes,nærmere opplysninger om de genetiske parametrene som brukes for hver enkelt egenskap som vurderes, herunder, dersom det er relevant, nærmere opplysninger om genomisk vurdering.
+1\. Dersom et avlslag eller en avlsvirksomhet gjennomfører individgransking eller avlsverdivurdering av avlsdyr eller utkontrakterer slik virksomhet til en tredjemann i samsvar med artikkel 27 nr. 1 bokstav b), skal dette avlslaget eller denne avlsvirksomheten på anmodning fra vedkommende myndighet nevnt i artikkel 8 nr. 3, eller eventuelt artikkel 12 nr. 5, gi følgende opplysninger:journaler med alle data fra individgranskinger og avlsverdivurderinger av avlsdyr fra driftsenheter som ligger på det området der nevnte vedkommende myndighet utøver sin virksomhet,nærmere opplysninger om de metodene som er brukt for å registrere egenskaper,nærmere opplysninger om modellen som beskriver ytelsesevnen, og som brukes for å analysere resultatene av individgranskingen,nærmere opplysninger om statistiske metoder som brukes for å analysere resultatene av individgranskingen for hver enkelt egenskap som vurderes,nærmere opplysninger om de genetiske parametrene som brukes for hver enkelt egenskap som vurderes, herunder, dersom det er relevant, nærmere opplysninger om genomisk vurdering.
 
-2. Avlslaget eller avlsvirksomheten eller, på anmodning fra avlslaget eller avlsvirksomheten, tredjemannen utpekt av dette avlslaget eller denne avlsvirksomheten i samsvar med artikkel 27 nr. 1 bokstav b), skal offentliggjøre og oppdatere resultatene av avlsverdivurderingen av avlsdyr, hvis sæd brukes til kunstig sædoverføring i samsvar med artikkel 21 nr. 1 bokstav b), c) og d) og artikkel 24 nr. 1 bokstav b).
+2\. Avlslaget eller avlsvirksomheten eller, på anmodning fra avlslaget eller avlsvirksomheten, tredjemannen utpekt av dette avlslaget eller denne avlsvirksomheten i samsvar med artikkel 27 nr. 1 bokstav b), skal offentliggjøre og oppdatere resultatene av avlsverdivurderingen av avlsdyr, hvis sæd brukes til kunstig sædoverføring i samsvar med artikkel 21 nr. 1 bokstav b), c) og d) og artikkel 24 nr. 1 bokstav b).
 
 ### KAPITTEL VI
 EU-REFERANSESENTRE
 
 ### Artikkel 29. EU-referansesentre
 
-1. Dersom det er et erkjent behov for å fremme harmoniseringen eller forbedringen av de metodene for individgransking eller avlsverdivurdering av renrasede avlsdyr som brukes av avlslag eller tredjemann utpekt av avlslag i samsvar med artikkel 27 nr. 1 bokstav b), kan Kommisjonen vedta gjennomføringsrettsakter som utpeker de EU-referansesentrene som er ansvarlige for det tekniske og vitenskapelige bidraget til harmoniseringen eller forbedringen av disse metodene.Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med undersøkelseskomité nevnt i artikkel 62 nr. 2.
+1\. Dersom det er et erkjent behov for å fremme harmoniseringen eller forbedringen av de metodene for individgransking eller avlsverdivurdering av renrasede avlsdyr som brukes av avlslag eller tredjemann utpekt av avlslag i samsvar med artikkel 27 nr. 1 bokstav b), kan Kommisjonen vedta gjennomføringsrettsakter som utpeker de EU-referansesentrene som er ansvarlige for det tekniske og vitenskapelige bidraget til harmoniseringen eller forbedringen av disse metodene.Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med undersøkelseskomité nevnt i artikkel 62 nr. 2.
 
-2. Dersom det er et erkjent behov for å fremme fastsettelsen eller harmoniseringen av metoder som benyttes av avlslag, tredjemann utpekt av avlslag i samsvar med artikkel 27 nr. 1 bokstav b), vedkommende myndigheter eller andre myndigheter i medlemsstatene for å bevare raser som er truet av utryddelse, eller det genetiske mangfoldet innenfor disse rasene, kan Kommisjonen vedta gjennomføringsrettsakter for å utpeke de EU-referansesentrene som er ansvarlige for det tekniske og vitenskapelige bidraget til fastsettelsen eller harmoniseringen av disse metodene. Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med undersøkelseskomité nevnt i artikkel 62 nr. 2.
+2\. Dersom det er et erkjent behov for å fremme fastsettelsen eller harmoniseringen av metoder som benyttes av avlslag, tredjemann utpekt av avlslag i samsvar med artikkel 27 nr. 1 bokstav b), vedkommende myndigheter eller andre myndigheter i medlemsstatene for å bevare raser som er truet av utryddelse, eller det genetiske mangfoldet innenfor disse rasene, kan Kommisjonen vedta gjennomføringsrettsakter for å utpeke de EU-referansesentrene som er ansvarlige for det tekniske og vitenskapelige bidraget til fastsettelsen eller harmoniseringen av disse metodene. Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med undersøkelseskomité nevnt i artikkel 62 nr. 2.
 
-3. De utpekingene som er angitt i nr. 1 og 2, skal følge en offentlig utvelgingsprosess og være av begrenset varighet eller gjennomgås jevnlig.
+3\. De utpekingene som er angitt i nr. 1 og 2, skal følge en offentlig utvelgingsprosess og være av begrenset varighet eller gjennomgås jevnlig.
 
-4. EU-referansesentre utpekt i samsvar med nr. 1 eller 2 i denne artikkel skaloppfylle kravene som er fastsatt i nr. 1 i vedlegg IV, ogvære ansvarlige for oppgavene som er fastsatt inr. 2 i vedlegg IV, når det gjelder EU-referansesentre som er utpekt i samsvar med nr. 1 i denne artikkel,nr. 3 i vedlegg IV, når det gjelder EU-referansesentre som er utpekt i samsvar med nr. 2 i denne artikkel,dersom disse oppgavene inngår i referansesentrenes ettårige eller flerårige arbeidsprogrammer som fastsettes i samsvar med målene og prioriteringene i de relevante arbeidsprogrammene som vedtas av Kommisjonen i samsvar med artikkel 36 i forordning [(EU) nr. 652/2014](eu/32014r0652).
+4\. EU-referansesentre utpekt i samsvar med nr. 1 eller 2 i denne artikkel skaloppfylle kravene som er fastsatt i nr. 1 i vedlegg IV, ogvære ansvarlige for oppgavene som er fastsatt inr. 2 i vedlegg IV, når det gjelder EU-referansesentre som er utpekt i samsvar med nr. 1 i denne artikkel,nr. 3 i vedlegg IV, når det gjelder EU-referansesentre som er utpekt i samsvar med nr. 2 i denne artikkel,dersom disse oppgavene inngår i referansesentrenes ettårige eller flerårige arbeidsprogrammer som fastsettes i samsvar med målene og prioriteringene i de relevante arbeidsprogrammene som vedtas av Kommisjonen i samsvar med artikkel 36 i forordning [(EU) nr. 652/2014](eu/32014r0652).
 
-5. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 61 for å endre følgende:kravene til EU-referansesentre som fastsatt i nr. 1 i vedlegg IV,oppgavene til EU-referansesentre som fastsatt i nr. 2 og 3 i vedlegg IV.Delegerte rettsakter fastsatt i dette nummer skal ta behørig hensyn til følgende:de artene av renrasede avlsdyr for hvilke metodene for individgransking og avlsverdivurdering skal harmoniseres eller forbedres, og de vitenskapelige og tekniske framskrittene på området for individgransking eller avlsverdivurdering, ellerde rasene som er truet av utryddelse, for hvilke metoder for bevaring av disse rasene eller bevaring av det genetiske mangfoldet innenfor disse rasene skal fastsettes eller harmoniseres, samt de vitenskapelige og tekniske framskrittene på disse områdene.
+5\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 61 for å endre følgende:kravene til EU-referansesentre som fastsatt i nr. 1 i vedlegg IV,oppgavene til EU-referansesentre som fastsatt i nr. 2 og 3 i vedlegg IV.Delegerte rettsakter fastsatt i dette nummer skal ta behørig hensyn til følgende:de artene av renrasede avlsdyr for hvilke metodene for individgransking og avlsverdivurdering skal harmoniseres eller forbedres, og de vitenskapelige og tekniske framskrittene på området for individgransking eller avlsverdivurdering, ellerde rasene som er truet av utryddelse, for hvilke metoder for bevaring av disse rasene eller bevaring av det genetiske mangfoldet innenfor disse rasene skal fastsettes eller harmoniseres, samt de vitenskapelige og tekniske framskrittene på disse områdene.
 
-6. EU-referansesentre utpekt i samsvar med nr. 1 eller 2 skal være underlagt Kommisjonens kontroll for å verifisere atde oppfyller kravene fastsatt i nr. 1 i vedlegg IV,de utfører sine oppgaver som fastsatt inr. 2 i vedlegg IV, når det gjelder EU-referansesentre som er utpekt i samsvar med nr. 1,nr. 3 i vedlegg IV, når det gjelder EU-referansesentre som er utpekt i samsvar med nr. 2.Dersom resultatene av en slik kontroll viser at et EU-referansesenter ikke oppfyller kravene i nr. 1 i vedlegg IV, eller ikke utfører de oppgavene som er fastsatt i nr. 2 eller 3 i vedlegg IV, kan Kommisjonen vedta gjennomføringsrettsakter, redusere Unionens økonomiske bidrag gitt i samsvar med artikkel 30 i forordning [(EU) nr. 652/2014](eu/32014r0652) eller trekke tilbake utpekingen som et EU-referansesenter. Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med undersøkelseskomité nevnt i artikkel 62 nr. 2.
+6\. EU-referansesentre utpekt i samsvar med nr. 1 eller 2 skal være underlagt Kommisjonens kontroll for å verifisere atde oppfyller kravene fastsatt i nr. 1 i vedlegg IV,de utfører sine oppgaver som fastsatt inr. 2 i vedlegg IV, når det gjelder EU-referansesentre som er utpekt i samsvar med nr. 1,nr. 3 i vedlegg IV, når det gjelder EU-referansesentre som er utpekt i samsvar med nr. 2.Dersom resultatene av en slik kontroll viser at et EU-referansesenter ikke oppfyller kravene i nr. 1 i vedlegg IV, eller ikke utfører de oppgavene som er fastsatt i nr. 2 eller 3 i vedlegg IV, kan Kommisjonen vedta gjennomføringsrettsakter, redusere Unionens økonomiske bidrag gitt i samsvar med artikkel 30 i forordning [(EU) nr. 652/2014](eu/32014r0652) eller trekke tilbake utpekingen som et EU-referansesenter. Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med undersøkelseskomité nevnt i artikkel 62 nr. 2.
 
 ### KAPITTEL VII
 AVLSSERTIFIKATER
 
 ### Artikkel 30. Utstedelse, innhold og format for avlssertifikater som ledsager avlsdyr, og formeringsmateriale fra dem
 
-1. Dersom oppdrettere som deltar i et avlsprogram godkjent i samsvar med artikkel 8, og eventuelt artikkel 12, anmoder om avlssertifikater for sine avlsdyr eller formeringsmateriale fra dem, skal avlslaget eller avlsvirksomheten som gjennomfører dette avlsprogrammet, utstede slike sertifikater.
+1\. Dersom oppdrettere som deltar i et avlsprogram godkjent i samsvar med artikkel 8, og eventuelt artikkel 12, anmoder om avlssertifikater for sine avlsdyr eller formeringsmateriale fra dem, skal avlslaget eller avlsvirksomheten som gjennomfører dette avlsprogrammet, utstede slike sertifikater.
 
-2. Avlssertifikater som ledsager avlsdyr eller formeringsmateriale fra dem, skal bare utstedes avavlslag eller avlsvirksomheter som gjennomfører avlsprogrammene godkjent i samsvar med artikkel 8, og eventuelt artikkel 12, med disse avlsdyrene,vedkommende myndigheter nevnt i artikkel 8 nr. 3, eller eventuelt artikkel 12 nr. 2 bokstav a), dersom nevnte vedkommende myndigheter beslutter det, elleravlsorganer oppført på listen fastsatt i artikkel 34 gjennomfører avlsprogrammer med disse avlsdyrene.
+2\. Avlssertifikater som ledsager avlsdyr eller formeringsmateriale fra dem, skal bare utstedes avavlslag eller avlsvirksomheter som gjennomfører avlsprogrammene godkjent i samsvar med artikkel 8, og eventuelt artikkel 12, med disse avlsdyrene,vedkommende myndigheter nevnt i artikkel 8 nr. 3, eller eventuelt artikkel 12 nr. 2 bokstav a), dersom nevnte vedkommende myndigheter beslutter det, elleravlsorganer oppført på listen fastsatt i artikkel 34 gjennomfører avlsprogrammer med disse avlsdyrene.
 
-3. Avlslag eller avlsvirksomheter skal sikre at avlssertifikater oversendes i rett tid.
+3\. Avlslag eller avlsvirksomheter skal sikre at avlssertifikater oversendes i rett tid.
 
-4. Dersom det forekommer handel med avlsdyr innført i en stambok som føres av et avlslag, eller avlsdyr registrert i et avlsregister som føres av en avlsvirksomhet, eller formeringsmaterialet fra dem, eller dersom disse avlsdyrene eller avkommet fra dette formeringsmaterialet er beregnet på å innføres i en annen stambok eller registreres i et annet avlsregister, skal disse avlsdyrene eller dette formeringsmaterialet ledsages av et avlssertifikat.Det avlslaget eller den avlsvirksomheten som sender fra seg avlsdyrene eller formeringsmateriale fra dem, og som fører den stamboken eller det avlsregisteret som disse avlsdyrene er innført eller registrert i, skal utstede dette avlssertifikatet.
+4\. Dersom det forekommer handel med avlsdyr innført i en stambok som føres av et avlslag, eller avlsdyr registrert i et avlsregister som føres av en avlsvirksomhet, eller formeringsmaterialet fra dem, eller dersom disse avlsdyrene eller avkommet fra dette formeringsmaterialet er beregnet på å innføres i en annen stambok eller registreres i et annet avlsregister, skal disse avlsdyrene eller dette formeringsmaterialet ledsages av et avlssertifikat.Det avlslaget eller den avlsvirksomheten som sender fra seg avlsdyrene eller formeringsmateriale fra dem, og som fører den stamboken eller det avlsregisteret som disse avlsdyrene er innført eller registrert i, skal utstede dette avlssertifikatet.
 
-5. Dersom avlsdyr som er blitt innført i en stambok eller registrert i et avlsregister ført av et avlsorgan oppført på listen fastsatt i artikkel 34, eller formeringsmateriale fra dem, innføres til Unionen, og dersom disse avlsdyrene eller deres avkom fra dette formeringsmaterialet er beregnet på å innføres i en stambok ført av et avlslag eller registreres i et avlsregister ført av en avlsvirksomhet, skal disse avlsdyrene eller formeringsmateriale fra dem, ledsages av et avlssertifikat.Dette avlssertifikatet skal utstedes av det avlsorganet som er oppført i samsvar med artikkel 34, og som fører den stamboken eller det avlsregisteret som disse avlsdyrene er innført eller registrert i, eller av det offentlige organet i avsendertredjestaten.
+5\. Dersom avlsdyr som er blitt innført i en stambok eller registrert i et avlsregister ført av et avlsorgan oppført på listen fastsatt i artikkel 34, eller formeringsmateriale fra dem, innføres til Unionen, og dersom disse avlsdyrene eller deres avkom fra dette formeringsmaterialet er beregnet på å innføres i en stambok ført av et avlslag eller registreres i et avlsregister ført av en avlsvirksomhet, skal disse avlsdyrene eller formeringsmateriale fra dem, ledsages av et avlssertifikat.Dette avlssertifikatet skal utstedes av det avlsorganet som er oppført i samsvar med artikkel 34, og som fører den stamboken eller det avlsregisteret som disse avlsdyrene er innført eller registrert i, eller av det offentlige organet i avsendertredjestaten.
 
-6. De avlssertifikatene som er nevnt i nr. 4 og 5 skalinneholde de opplysningene som er fastsatt i de relevante delene og kapitlene i vedlegg V,være i samsvar med de relevante standardskjemaene for avlssertifikater fastsatt i gjennomføringsrettsaktene vedtatt i henhold til nr. 10.
+6\. De avlssertifikatene som er nevnt i nr. 4 og 5 skalinneholde de opplysningene som er fastsatt i de relevante delene og kapitlene i vedlegg V,være i samsvar med de relevante standardskjemaene for avlssertifikater fastsatt i gjennomføringsrettsaktene vedtatt i henhold til nr. 10.
 
-7. Et avlslag eller et avlsorgan som gjennomfører individgransking eller avlsverdivurdering, eller begge, i samsvar med sitt avlsprogram, eller utkontrakterer slik virksomhet til tredjemann, skal, når det gjelder et avlslag i samsvar med artikkel 27 nr. 1 bokstav b), angi følgende i avlssertifikatet som utstedes for et renraset avlsdyr eller formeringsmaterialet fra detresultatene av denne individgranskingen,oppdaterte resultater av denne avlsverdivurderingen oggenetiske defekter og genetiske særegenheter i forhold til dette avlsprogrammet som påvirker dette avlsdyret eller donorene av dette formeringsmaterialet.
+7\. Et avlslag eller et avlsorgan som gjennomfører individgransking eller avlsverdivurdering, eller begge, i samsvar med sitt avlsprogram, eller utkontrakterer slik virksomhet til tredjemann, skal, når det gjelder et avlslag i samsvar med artikkel 27 nr. 1 bokstav b), angi følgende i avlssertifikatet som utstedes for et renraset avlsdyr eller formeringsmaterialet fra detresultatene av denne individgranskingen,oppdaterte resultater av denne avlsverdivurderingen oggenetiske defekter og genetiske særegenheter i forhold til dette avlsprogrammet som påvirker dette avlsdyret eller donorene av dette formeringsmaterialet.
 
-8. En avlsvirksomhet eller et avlsorgan som gjennomfører individgransking eller avlsverdivurdering, eller begge, i samsvar med sitt avlsprogram eller utkontrakterer slik virksomhet til tredjemann, skal, når det gjelder en avlsvirksomhet i samsvar med artikkel 27 nr. 1 bokstav b), angi følgende i avlssertifikatet som utstedes for et hybridavlsdyr av svin eller formeringsmaterialet fra detresultatene av denne individgranskingen,oppdaterte resultater av denne avlsverdivurderingen oggenetiske defekter og genetiske særegenheter i forhold til dette avlsprogrammet som påvirker dette avlsdyret eller donorene av dette formeringsmaterialet.
+8\. En avlsvirksomhet eller et avlsorgan som gjennomfører individgransking eller avlsverdivurdering, eller begge, i samsvar med sitt avlsprogram eller utkontrakterer slik virksomhet til tredjemann, skal, når det gjelder en avlsvirksomhet i samsvar med artikkel 27 nr. 1 bokstav b), angi følgende i avlssertifikatet som utstedes for et hybridavlsdyr av svin eller formeringsmaterialet fra detresultatene av denne individgranskingen,oppdaterte resultater av denne avlsverdivurderingen oggenetiske defekter og genetiske særegenheter i forhold til dette avlsprogrammet som påvirker dette avlsdyret eller donorene av dette formeringsmaterialet.
 
-9. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 61, som endrer innholdet i avlssertifikater fastsatt i vedlegg V, for å oppdatere dem slik at det tas hensyn til følgende:vitenskapelige framskritt,teknisk utvikling,hvordan det indre marked fungerer,behovet for å bevare verdifulle genetiske ressurser.
+9\. Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 61, som endrer innholdet i avlssertifikater fastsatt i vedlegg V, for å oppdatere dem slik at det tas hensyn til følgende:vitenskapelige framskritt,teknisk utvikling,hvordan det indre marked fungerer,behovet for å bevare verdifulle genetiske ressurser.
 
-10. Kommisjonen skal vedta gjennomføringsrettsakter om fastsettelse av standardskjemaer for avlssertifikatene for avlsdyr og formeringsmateriale fra dem. Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med undersøkelseskomité nevnt i artikkel 62 nr. 2.
+10\. Kommisjonen skal vedta gjennomføringsrettsakter om fastsettelse av standardskjemaer for avlssertifikatene for avlsdyr og formeringsmateriale fra dem. Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med undersøkelseskomité nevnt i artikkel 62 nr. 2.
 
 ### Artikkel 31. Unntak fra kravene til utstedelse, innhold og format for avlssertifikatene for handel med avlsdyr og formeringsmateriale fra dem
 
-1. Som unntak fra artikkel 30 nr. 2 bokstav a) kan vedkommende myndighet tillate at formeringsmateriale skal ledsages av et avlssertifikat utstedt på grunnlag av opplysninger mottatt fra avlslaget eller avlsvirksomheten, av en sædstasjon eller et sædlager, eller av en embryooppsamlingsgruppe eller en embryoproduksjonsgruppe som er godkjent for handel innenfor Unionen med dette formeringsmaterialet i samsvar med Unionens dyrehelseregelverk.
+1\. Som unntak fra artikkel 30 nr. 2 bokstav a) kan vedkommende myndighet tillate at formeringsmateriale skal ledsages av et avlssertifikat utstedt på grunnlag av opplysninger mottatt fra avlslaget eller avlsvirksomheten, av en sædstasjon eller et sædlager, eller av en embryooppsamlingsgruppe eller en embryoproduksjonsgruppe som er godkjent for handel innenfor Unionen med dette formeringsmaterialet i samsvar med Unionens dyrehelseregelverk.
 
-2. Som unntak fra artikkel 30 nr. 6 bokstav b) kan vedkommende myndighet tillate at standardskjemaene nevnt i artikkel 30 nr. 6 bokstav b) ikke brukes, forutsatt atnår det gjelder avlsdyr av storfe, svin, sau og geit, de opplysningene som er fastsatt i kapittel I del 2 i vedlegg V eller kapittel I del 3 i vedlegg V inngår i andre dokumenter som ledsager disse avlsdyrene, og som er utstedt av avlslaget eller avlsvirksomheten,når det gjelder formeringsmateriale av storfe, svin, sau, geit og hest,de opplysningene som gjelder donorene av dette formeringsmaterialet, inngår i andre dokumenter eller kopier av det opprinnelige avlssertifikatet som ledsager dette formeringsmaterialet, eller, før eller etter at dette formeringsmaterialet er blitt sendt, på anmodning er blitt gjort tilgjengelige av avlslaget, avlsvirksomheten eller andre aktører nevnt i nr. 1,de opplysningene som gjelder sæd, oocytter eller embryoer, finnes i andre dokumenter som ledsager nevnte sæd, oocytter eller embryoer, utstedt av avlslaget, avlsvirksomheten eller andre aktører nevnt i nr. 1.
+2\. Som unntak fra artikkel 30 nr. 6 bokstav b) kan vedkommende myndighet tillate at standardskjemaene nevnt i artikkel 30 nr. 6 bokstav b) ikke brukes, forutsatt atnår det gjelder avlsdyr av storfe, svin, sau og geit, de opplysningene som er fastsatt i kapittel I del 2 i vedlegg V eller kapittel I del 3 i vedlegg V inngår i andre dokumenter som ledsager disse avlsdyrene, og som er utstedt av avlslaget eller avlsvirksomheten,når det gjelder formeringsmateriale av storfe, svin, sau, geit og hest,de opplysningene som gjelder donorene av dette formeringsmaterialet, inngår i andre dokumenter eller kopier av det opprinnelige avlssertifikatet som ledsager dette formeringsmaterialet, eller, før eller etter at dette formeringsmaterialet er blitt sendt, på anmodning er blitt gjort tilgjengelige av avlslaget, avlsvirksomheten eller andre aktører nevnt i nr. 1,de opplysningene som gjelder sæd, oocytter eller embryoer, finnes i andre dokumenter som ledsager nevnte sæd, oocytter eller embryoer, utstedt av avlslaget, avlsvirksomheten eller andre aktører nevnt i nr. 1.
 
-3. Som unntak fra artikkel 30 nr. 7 bokstav a) og b) og artikkel 30 nr. 8 bokstav a) og b) kan avlslagene, avlsvirksomhetene eller de øvrige aktørene nevnt i nr. 1 i denne artikkel, dersom resultatene av individgransking eller avlsverdivurdering er gjort offentlig tilgjengelige på et nettsted, i det avlssertifikatet eller i de dokumentene som er nevnt i nr. 2 bokstav a) i denne artikkel, vise til nettstedet der disse resultatene er gjort tilgjengelige.
+3\. Som unntak fra artikkel 30 nr. 7 bokstav a) og b) og artikkel 30 nr. 8 bokstav a) og b) kan avlslagene, avlsvirksomhetene eller de øvrige aktørene nevnt i nr. 1 i denne artikkel, dersom resultatene av individgransking eller avlsverdivurdering er gjort offentlig tilgjengelige på et nettsted, i det avlssertifikatet eller i de dokumentene som er nevnt i nr. 2 bokstav a) i denne artikkel, vise til nettstedet der disse resultatene er gjort tilgjengelige.
 
 ### Artikkel 32. Unntak fra kravene til formatet for avlssertifikater utstedt for renrasede avlsdyr av hest
 
-1. Som unntak fra artikkel 30 nr. 6 skal opplysningene fastsatt i kapittel I del 2 i vedlegg V, når det gjelder renrasede avlsdyr av hest, inngå i ett enkelt identifikasjonsdokument for dyr av hestefamilien som gjelder hele dyrets levetid. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 61 når det gjelder innholdet og formatet for slike identifikasjonsdokumenter.
+1\. Som unntak fra artikkel 30 nr. 6 skal opplysningene fastsatt i kapittel I del 2 i vedlegg V, når det gjelder renrasede avlsdyr av hest, inngå i ett enkelt identifikasjonsdokument for dyr av hestefamilien som gjelder hele dyrets levetid. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 61 når det gjelder innholdet og formatet for slike identifikasjonsdokumenter.
 
-2. Kommisjonen kan vedta gjennomføringsrettsakter om fastsettelse av standardskjemaer for ett enkelt identifikasjonsdokument for dyr av hestefamilien som gjelder hele dyrets levetid. Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med undersøkelseskomité nevnt i artikkel 62 nr. 2.
+2\. Kommisjonen kan vedta gjennomføringsrettsakter om fastsettelse av standardskjemaer for ett enkelt identifikasjonsdokument for dyr av hestefamilien som gjelder hele dyrets levetid. Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med undersøkelseskomité nevnt i artikkel 62 nr. 2.
 
-3. Som unntak fra nr. 1 kan vedkommende myndigheter tillate at de opplysningene som er fastsatt i nr. 1 bokstav m) kapittel I del 2 i vedlegg V, ikke inngår i dokumentet nevnt i nr. 1 dersom oppdaterte resultater av individgransking eller avlsverdivurdering er offentliggjort på et nettsted, forutsatt at dette avlslaget viser til dette nettstedet i nevnte dokument.
+3\. Som unntak fra nr. 1 kan vedkommende myndigheter tillate at de opplysningene som er fastsatt i nr. 1 bokstav m) kapittel I del 2 i vedlegg V, ikke inngår i dokumentet nevnt i nr. 1 dersom oppdaterte resultater av individgransking eller avlsverdivurdering er offentliggjort på et nettsted, forutsatt at dette avlslaget viser til dette nettstedet i nevnte dokument.
 
-4. Som unntak fra nr. 1 kan vedkommende myndigheter tillate at opplysningene fastsatt i nr. 1 bokstav m) og n) i kapittel I del 2 i vedlegg V inngår i andre dokumenter som er utstedt av avlslaget, for de renrasede avlsdyrene som er innført i en stambok ført av dette avlslaget.
+4\. Som unntak fra nr. 1 kan vedkommende myndigheter tillate at opplysningene fastsatt i nr. 1 bokstav m) og n) i kapittel I del 2 i vedlegg V inngår i andre dokumenter som er utstedt av avlslaget, for de renrasede avlsdyrene som er innført i en stambok ført av dette avlslaget.
 
 ### Artikkel 33. Unntak fra kravene til utstedelse, innhold og format for avlssertifikater ved innførsel til Unionen av avlsdyr og formeringsmateriale fra dem
 
-1. Som unntak fra artikkel 30 nr. 2 bokstav c) og nr. 5 kan formeringsmateriale ledsages av et avlssertifikat utstedt på vegne av avlsorganet på grunnlag av opplysninger mottatt fra dette avlsorganet, av en sædstasjon eller et sædlager, eller av en embryooppsamlingsgruppe eller en embryoproduksjonsgruppe som er godkjent for innførsel til Unionen av dette formeringsmaterialet i samsvar med Unionens dyrehelseregelverk.
+1\. Som unntak fra artikkel 30 nr. 2 bokstav c) og nr. 5 kan formeringsmateriale ledsages av et avlssertifikat utstedt på vegne av avlsorganet på grunnlag av opplysninger mottatt fra dette avlsorganet, av en sædstasjon eller et sædlager, eller av en embryooppsamlingsgruppe eller en embryoproduksjonsgruppe som er godkjent for innførsel til Unionen av dette formeringsmaterialet i samsvar med Unionens dyrehelseregelverk.
 
-2. Som unntak fra artikkel 30 nr. 6 bokstav b) er det ikke nødvendig å bruke standardskjemaene nevnt i artikkel 30 nr. 6 bokstav b) dersomopplysningene fastsatt i de relevante delene og kapitlene i vedlegg V inngår i andre dokumenter som ledsager avlsdyret eller formeringsmaterialet fra dem,det avlsorganet som gjennomfører avlsprogrammet, eller en annen aktør nevnt i nr. 1, legger fram en uttømmende liste over disse dokumentene, erklærer at de opplysningene som er beskrevet i de relevante delene og kapitlene i vedlegg V, inngår i disse dokumentene og bekrefter innholdet i disse dokumentene.
+2\. Som unntak fra artikkel 30 nr. 6 bokstav b) er det ikke nødvendig å bruke standardskjemaene nevnt i artikkel 30 nr. 6 bokstav b) dersomopplysningene fastsatt i de relevante delene og kapitlene i vedlegg V inngår i andre dokumenter som ledsager avlsdyret eller formeringsmaterialet fra dem,det avlsorganet som gjennomfører avlsprogrammet, eller en annen aktør nevnt i nr. 1, legger fram en uttømmende liste over disse dokumentene, erklærer at de opplysningene som er beskrevet i de relevante delene og kapitlene i vedlegg V, inngår i disse dokumentene og bekrefter innholdet i disse dokumentene.
 
-3. Som unntak fra artikkel 30 nr. 7 bokstav a) og b) og artikkel 30 nr. 8 bokstav a) og b) kan avlsorganer eller de øvrige aktørene nevnt i nr. 1 i denne artikkel, dersom resultatene av individgransking eller avlsverdivurdering er gjort offentlig tilgjengelige på et nettsted, i det avlssertifikatet eller i de dokumentene som er nevnt i bokstav a) nr. 2 i denne artikkel, vise til nettstedet der disse resultatene er gjort tilgjengelige.
+3\. Som unntak fra artikkel 30 nr. 7 bokstav a) og b) og artikkel 30 nr. 8 bokstav a) og b) kan avlsorganer eller de øvrige aktørene nevnt i nr. 1 i denne artikkel, dersom resultatene av individgransking eller avlsverdivurdering er gjort offentlig tilgjengelige på et nettsted, i det avlssertifikatet eller i de dokumentene som er nevnt i bokstav a) nr. 2 i denne artikkel, vise til nettstedet der disse resultatene er gjort tilgjengelige.
 
 ### KAPITTEL VIII
 INNFØRSEL TIL UNIONEN AV AVLSDYR OG FORMERINGSMATERIALE FRA DEM
 
 ### Artikkel 34. Liste over avlsorganer
 
-1. Kommisjonen skal føre, oppdatere og offentliggjøre en liste over avlsorganer.
+1\. Kommisjonen skal føre, oppdatere og offentliggjøre en liste over avlsorganer.
 
-2. Kommisjonen skal føre opp på den listen som er angitt i nr. 1, bare et avlsorgan som den har mottatt dokumentasjon om fra et offentlig organ i tredjestaten, og som viser at avlsorganet oppfyller følgende krav:det gjennomfører et avlsprogram som tilsvarer avlsprogrammene godkjent i samsvar med artikkel 8 nr. 3, som gjennomføres av avlslag med den samme rasen, eller gjennomføres av avlsvirksomheter med den samme rasen, linjen eller krysningen, når det gjelderinnføringen av avlsdyr i stambøker eller deres registrering i avlsregistrene,godkjenningen av avlsdyr for avlsformål,bruken av formeringsmateriale fra avlsdyr for testing og avlsformål,metodene brukt til individgransking og avlsverdivurdering,den er underlagt tilsyn eller kontroll av et offentlig organ i nevnte tredjestat,den har fastsatt vedtekter for å sikre at avlsdyr som er ført inn i stambøker av avlslag, eller registrert i avlsregistre av avlsvirksomheter, og deres avkom som stammer fra formeringsmateriale fra slike avlsdyr, uten forskjellsbehandling med hensyn til opprinnelsesstaten til renrasede avlsdyr, innføres eller er berettiget til å bli innført, når det gjelder renrasede avlsdyr, i stamboken for den samme rasen, eller, når det gjelder hybridavlsdyr av svin, i registeret for den samme rasen, linjen eller krysningen, som føres av dette avlsorganet.
+2\. Kommisjonen skal føre opp på den listen som er angitt i nr. 1, bare et avlsorgan som den har mottatt dokumentasjon om fra et offentlig organ i tredjestaten, og som viser at avlsorganet oppfyller følgende krav:det gjennomfører et avlsprogram som tilsvarer avlsprogrammene godkjent i samsvar med artikkel 8 nr. 3, som gjennomføres av avlslag med den samme rasen, eller gjennomføres av avlsvirksomheter med den samme rasen, linjen eller krysningen, når det gjelderinnføringen av avlsdyr i stambøker eller deres registrering i avlsregistrene,godkjenningen av avlsdyr for avlsformål,bruken av formeringsmateriale fra avlsdyr for testing og avlsformål,metodene brukt til individgransking og avlsverdivurdering,den er underlagt tilsyn eller kontroll av et offentlig organ i nevnte tredjestat,den har fastsatt vedtekter for å sikre at avlsdyr som er ført inn i stambøker av avlslag, eller registrert i avlsregistre av avlsvirksomheter, og deres avkom som stammer fra formeringsmateriale fra slike avlsdyr, uten forskjellsbehandling med hensyn til opprinnelsesstaten til renrasede avlsdyr, innføres eller er berettiget til å bli innført, når det gjelder renrasede avlsdyr, i stamboken for den samme rasen, eller, når det gjelder hybridavlsdyr av svin, i registeret for den samme rasen, linjen eller krysningen, som føres av dette avlsorganet.
 
-3. Kommisjonen skal også føre opp på den listen som er fastsatt i nr. 1 i denne artikkel, henvisningen til nevnte tredjestater som har truffet tiltak som anses som likeverdige i henhold til artikkel 35, herunder en henvisning til alle avlsorganer i nevnte tredjestater.
+3\. Kommisjonen skal også føre opp på den listen som er fastsatt i nr. 1 i denne artikkel, henvisningen til nevnte tredjestater som har truffet tiltak som anses som likeverdige i henhold til artikkel 35, herunder en henvisning til alle avlsorganer i nevnte tredjestater.
 
-4. Kommisjonen skal uten unødig opphold fjerne fra listen ethvert avlsorgan som ikke lenger oppfyller minst et av kravene nevnt i nr. 2.
+4\. Kommisjonen skal uten unødig opphold fjerne fra listen ethvert avlsorgan som ikke lenger oppfyller minst et av kravene nevnt i nr. 2.
 
 ### Artikkel 35. Likeverdighet mellom tiltak som anvendes på dyreavl i tredjestater
 
-1. Kommisjonen kan vedta gjennomføringsrettsakter som anerkjenner at tiltakene som benyttes i en tredjestat er likeverdige med dem som kreves ved denne forordning med hensyn til følgende:anerkjennelsen av avlslag og avlsvirksomheter som fastsatt i artikkel 4,godkjenningen av avlslags og avlsvirksomheters avlsprogrammer som fastsatt i artikkel 8,innføringen av renrasede avlsdyr i stambøker og registreringen av hybridavlsdyr av svin i avlsregistrene som fastsatt i artikkel 18, 20 og 23,godkjenningen av avlsdyr for avlsformål som fastsatt i artikkel 21, 22 og 24,bruken av formeringsmateriale fra avlsdyr til testing og avlsformål som fastsatt i artikkel 21 og 24,individgranskingen og avlsverdivurderingen som fastsatt i artikkel 25,den offentlige kontrollen med aktører som fastsatt i artikkel 43.Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med undersøkelseskomité nevnt i artikkel 62 nr. 2.
+1\. Kommisjonen kan vedta gjennomføringsrettsakter som anerkjenner at tiltakene som benyttes i en tredjestat er likeverdige med dem som kreves ved denne forordning med hensyn til følgende:anerkjennelsen av avlslag og avlsvirksomheter som fastsatt i artikkel 4,godkjenningen av avlslags og avlsvirksomheters avlsprogrammer som fastsatt i artikkel 8,innføringen av renrasede avlsdyr i stambøker og registreringen av hybridavlsdyr av svin i avlsregistrene som fastsatt i artikkel 18, 20 og 23,godkjenningen av avlsdyr for avlsformål som fastsatt i artikkel 21, 22 og 24,bruken av formeringsmateriale fra avlsdyr til testing og avlsformål som fastsatt i artikkel 21 og 24,individgranskingen og avlsverdivurderingen som fastsatt i artikkel 25,den offentlige kontrollen med aktører som fastsatt i artikkel 43.Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med undersøkelseskomité nevnt i artikkel 62 nr. 2.
 
-2. De gjennomføringsrettsaktene som er nevnt i nr. 1, skal vedtas på grunnlag aven grundig undersøkelse av opplysninger og data fra tredjestater som søker om å få sine tiltak anerkjent som likeverdige med dem som kreves ved denne forordning,eventuelt det tilfredsstillende resultatet av en kontroll foretatt av Kommisjonen i samsvar med artikkel 57.
+2\. De gjennomføringsrettsaktene som er nevnt i nr. 1, skal vedtas på grunnlag aven grundig undersøkelse av opplysninger og data fra tredjestater som søker om å få sine tiltak anerkjent som likeverdige med dem som kreves ved denne forordning,eventuelt det tilfredsstillende resultatet av en kontroll foretatt av Kommisjonen i samsvar med artikkel 57.
 
-3. De gjennomføringsrettsaktene som er nevnt i nr. 1, kan fastsette nærmere ordninger for innførsel av avlsdyr og formeringsmateriale til Unionen fra den berørte tredjestaten, og kan omfatteformatet og innholdet for avlssertifikatene som ledsager disse avlsdyrene eller formeringsmateriale fra dem,særlige krav til innførsel til Unionen av disse avlsdyrene eller formeringsmateriale fra dem, og den offentlige kontrollen som skal foretas av disse avlsdyrene eller formeringsmaterialet fra dem, ved innførsel til Unionen,om nødvendig prosedyrer for å utarbeide og endre lister over avlsorganer som befinner seg i den berørte tredjestaten, hvorfra innførselen til Unionen av avlsdyr og formeringsmateriale fra dem er tillatt.
+3\. De gjennomføringsrettsaktene som er nevnt i nr. 1, kan fastsette nærmere ordninger for innførsel av avlsdyr og formeringsmateriale til Unionen fra den berørte tredjestaten, og kan omfatteformatet og innholdet for avlssertifikatene som ledsager disse avlsdyrene eller formeringsmateriale fra dem,særlige krav til innførsel til Unionen av disse avlsdyrene eller formeringsmateriale fra dem, og den offentlige kontrollen som skal foretas av disse avlsdyrene eller formeringsmaterialet fra dem, ved innførsel til Unionen,om nødvendig prosedyrer for å utarbeide og endre lister over avlsorganer som befinner seg i den berørte tredjestaten, hvorfra innførselen til Unionen av avlsdyr og formeringsmateriale fra dem er tillatt.
 
-4. Kommisjonen skal uten unødig opphold vedta gjennomføringsrettsakter om oppheving av gjennomføringsrettsaktene nevnt i nr. 1 dersom et av vilkårene for å anerkjenne likeverdighet fastsatt på det tidspunktet de ble vedtatt, ikke lenger er oppfylt. Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med undersøkelseskomité nevnt i artikkel 62 nr. 2.
+4\. Kommisjonen skal uten unødig opphold vedta gjennomføringsrettsakter om oppheving av gjennomføringsrettsaktene nevnt i nr. 1 dersom et av vilkårene for å anerkjenne likeverdighet fastsatt på det tidspunktet de ble vedtatt, ikke lenger er oppfylt. Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med undersøkelseskomité nevnt i artikkel 62 nr. 2.
 
 ### Artikkel 36. Innføring i stambøker eller registrering i avlsregistre av avlsdyr og avkom fra formeringsmateriale som er innført til Unionen
 
-1. Etter søknad fra en oppdretter skal et avlslag eller en avlsvirksomhet føre inn i hovedavsnittet i sin stambok eller registrere i sitt avlsregister alle avlsdyr som er innført til Unionen, og avkom fra formeringsmateriale som er innført til Unionen, derdette avlsdyret eller donorene av dette formeringsmaterialet er ført inn i en stambok eller er registrert i et avlsregister, som føres av et avlsorgan i avsendertredjestaten,dette formeringsmaterialet oppfyller vilkårene fastsatt i artikkel 21 nr. 1 eller 2, der dette er et krav i det avlsprogrammet som gjennomføres av dette avlslaget eller denne avlsvirksomheten,dette avlsdyret innehar egenskapene til rasen eller, når det gjelder et hybridavlsdyr av svin, egenskapene til rasen, linjen eller krysningen som er fastsatt i det avlsprogrammet som gjennomføres av dette avlslaget eller denne avlsvirksomheten,avlsorganet nevnt i bokstav a) er oppført på listen over avlsorganer fastsatt i artikkel 34.
+1\. Etter søknad fra en oppdretter skal et avlslag eller en avlsvirksomhet føre inn i hovedavsnittet i sin stambok eller registrere i sitt avlsregister alle avlsdyr som er innført til Unionen, og avkom fra formeringsmateriale som er innført til Unionen, derdette avlsdyret eller donorene av dette formeringsmaterialet er ført inn i en stambok eller er registrert i et avlsregister, som føres av et avlsorgan i avsendertredjestaten,dette formeringsmaterialet oppfyller vilkårene fastsatt i artikkel 21 nr. 1 eller 2, der dette er et krav i det avlsprogrammet som gjennomføres av dette avlslaget eller denne avlsvirksomheten,dette avlsdyret innehar egenskapene til rasen eller, når det gjelder et hybridavlsdyr av svin, egenskapene til rasen, linjen eller krysningen som er fastsatt i det avlsprogrammet som gjennomføres av dette avlslaget eller denne avlsvirksomheten,avlsorganet nevnt i bokstav a) er oppført på listen over avlsorganer fastsatt i artikkel 34.
 
-2. Medlemsstatene eller vedkommende myndigheter skal på grunnlag av vilkår om avl og avstamning ikke forby, begrense eller hindre innførsel til Unionen av avlsdyr eller formeringsmateriale fra dem, og den etterfølgende bruken av disse dyrene eller dette formeringsmaterialet, dersom disse avlsdyrene eller donorene av dette formeringsmaterialet føres inn i en stambok eller registreres i et avlsregister, som føres av et avlsorgan oppført på listen over avlsorganer opprettet i samsvar med artikkel 34.
+2\. Medlemsstatene eller vedkommende myndigheter skal på grunnlag av vilkår om avl og avstamning ikke forby, begrense eller hindre innførsel til Unionen av avlsdyr eller formeringsmateriale fra dem, og den etterfølgende bruken av disse dyrene eller dette formeringsmaterialet, dersom disse avlsdyrene eller donorene av dette formeringsmaterialet føres inn i en stambok eller registreres i et avlsregister, som føres av et avlsorgan oppført på listen over avlsorganer opprettet i samsvar med artikkel 34.
 
 ### Artikkel 37. Kontroll med retten til å bruke den bundne tollsatsen for renrasede avlsdyr som innføres til Unionen
 
-1. Dersom den ansvarlige for forsendelsen av renrasede avlsdyr anmoder om bruk av den bundne tollsatsen for renrasede avlsdyr i henhold i forordning [(EØF) nr. 2658/87](eu/31987r2658*) for dyrene i denne forsendelsenskal disse dyrene ledsages avde avlssertifikatene som er nevnt i artikkel 30 nr. 5 eller artikkel 32,et dokument som angir at de skal innføres i en stambok som føres av et avlslag, eller registreres i et avlsregister som føres av en avlsvirksomhet,skal kontroll av denne forsendelsen foretas på den grensekontrollstasjonen der dokumentkontrollen, identitetskontrollen og den fysiske kontrollen nevnt i artikkel 4 i direktiv [91/496/EØF](eu/31991l0496*), blir utført.
+1\. Dersom den ansvarlige for forsendelsen av renrasede avlsdyr anmoder om bruk av den bundne tollsatsen for renrasede avlsdyr i henhold i forordning [(EØF) nr. 2658/87](eu/31987r2658*) for dyrene i denne forsendelsenskal disse dyrene ledsages avde avlssertifikatene som er nevnt i artikkel 30 nr. 5 eller artikkel 32,et dokument som angir at de skal innføres i en stambok som føres av et avlslag, eller registreres i et avlsregister som føres av en avlsvirksomhet,skal kontroll av denne forsendelsen foretas på den grensekontrollstasjonen der dokumentkontrollen, identitetskontrollen og den fysiske kontrollen nevnt i artikkel 4 i direktiv [91/496/EØF](eu/31991l0496*), blir utført.
 
-2. Formålet med de kontrollene som er fastsatt i nr. 1 bokstav b), skal være å verifisere atforsendelsen er ledsaget av de dokumentene som er nevnt i nr. 1 bokstav a),innholdet i og merkingen av forsendelsen samsvarer med opplysningene i de dokumentene som er nevnt i nr. 1 bokstav a).
+2\. Formålet med de kontrollene som er fastsatt i nr. 1 bokstav b), skal være å verifisere atforsendelsen er ledsaget av de dokumentene som er nevnt i nr. 1 bokstav a),innholdet i og merkingen av forsendelsen samsvarer med opplysningene i de dokumentene som er nevnt i nr. 1 bokstav a).
 
 ### KAPITTEL IX
 VEDKOMMENDE MYNDIGHETER SOM GJENNOMFØRER ET AVLSPROGRAM MED RENRASEDE AVLSDYR
 
 ### Artikkel 38. Vedkommende myndigheter som gjennomfører et avlsprogram med renrasede avlsdyr
 
-1. Dersom det i en medlemsstat eller på et territorium der en vedkommende myndighet har sin virksomhet, ikke finnes noen avlslagsvirksomhet, noe avlslag eller et offentlig organ som gjennomfører et avlsprogram med renrasede avlsdyr av storfe, svin, sau, geit eller hest, kan vedkommende myndighet beslutte å gjennomføre et avlsprogram for denne rasen, forutsatt atdet er behov for å opprettholde rasen eller for å etablere denne rasen i den medlemsstaten eller på det territoriet der vedkommende myndighet har sin virksomhet, ellerdenne rasen er truet av utryddelse.
+1\. Dersom det i en medlemsstat eller på et territorium der en vedkommende myndighet har sin virksomhet, ikke finnes noen avlslagsvirksomhet, noe avlslag eller et offentlig organ som gjennomfører et avlsprogram med renrasede avlsdyr av storfe, svin, sau, geit eller hest, kan vedkommende myndighet beslutte å gjennomføre et avlsprogram for denne rasen, forutsatt atdet er behov for å opprettholde rasen eller for å etablere denne rasen i den medlemsstaten eller på det territoriet der vedkommende myndighet har sin virksomhet, ellerdenne rasen er truet av utryddelse.
 
-2. En vedkommende myndighet som gjennomfører et avlsprogram i samsvar med denne artikkel, skal treffe de tiltakene som er nødvendige for å sikre at dette ikke har en negativ innvirkning på muligheten foravlsorganisasjoner, avlslag eller offentlige organer å bli anerkjent som avlslag i samsvar med artikkel 4 nr. 3,avlslag å få sine avlsprogrammer godkjent i samsvar med artikkel 8 nr. 3, og eventuelt artikkel 12.
+2\. En vedkommende myndighet som gjennomfører et avlsprogram i samsvar med denne artikkel, skal treffe de tiltakene som er nødvendige for å sikre at dette ikke har en negativ innvirkning på muligheten foravlsorganisasjoner, avlslag eller offentlige organer å bli anerkjent som avlslag i samsvar med artikkel 4 nr. 3,avlslag å få sine avlsprogrammer godkjent i samsvar med artikkel 8 nr. 3, og eventuelt artikkel 12.
 
-3. Dersom en vedkommende myndighet gjennomfører et avlsprogram med renrasede avlsdyr, skal nevnte vedkommende myndighetha tilstrekkelig med kvalifisert personale og tilfredsstillende lokaler og utstyr for å kunne gjennomføre dette avlsprogrammet på en effektiv måte,være i stand til å foreta de kontrollene som er nødvendige for å registrere avstamningen til de renrasede avlsdyrene som er omfattet av dette avlsprogrammet,ha en tilstrekkelig stor populasjon av renrasede avlsdyr og et tilstrekkelig antall oppdrettere innenfor det geografiske området som er omfattet av dette avlsprogrammet,være i stand til å frambringe, eller ha fått frambragt for dem, og være i stand til å bruke data innsamlet om renrasede avlsdyr, som er nødvendige for å gjennomføre dette avlsprogrammet,ha fastsatt vedtektersom regulerer hvordan tvister med oppdrettere som deltar i dette avlsprogrammet, løses,som sikrer lik behandling av oppdrettere som deltar i dette avlsprogrammet,som fastsetter rettighetene og forpliktelsene til oppdrettere som deltar i dette avlsprogrammet.
+3\. Dersom en vedkommende myndighet gjennomfører et avlsprogram med renrasede avlsdyr, skal nevnte vedkommende myndighetha tilstrekkelig med kvalifisert personale og tilfredsstillende lokaler og utstyr for å kunne gjennomføre dette avlsprogrammet på en effektiv måte,være i stand til å foreta de kontrollene som er nødvendige for å registrere avstamningen til de renrasede avlsdyrene som er omfattet av dette avlsprogrammet,ha en tilstrekkelig stor populasjon av renrasede avlsdyr og et tilstrekkelig antall oppdrettere innenfor det geografiske området som er omfattet av dette avlsprogrammet,være i stand til å frambringe, eller ha fått frambragt for dem, og være i stand til å bruke data innsamlet om renrasede avlsdyr, som er nødvendige for å gjennomføre dette avlsprogrammet,ha fastsatt vedtektersom regulerer hvordan tvister med oppdrettere som deltar i dette avlsprogrammet, løses,som sikrer lik behandling av oppdrettere som deltar i dette avlsprogrammet,som fastsetter rettighetene og forpliktelsene til oppdrettere som deltar i dette avlsprogrammet.
 
-4. Avlsprogrammet nevnt i nr. 1 skal inneholde følgende:opplysninger om dets formål, som skal være å bevare rasen, forbedre rasen, skape eller gjenskape en ny rase eller enhver kombinasjon av disse,navnet på den rasen som er omfattet av dette avlsprogrammet, for å unngå forveksling med lignende renrasede avlsdyr av andre raser som er ført inn i andre eksisterende stambøker,en detaljert beskrivelse av rasens egenskaper, herunder angivelse av vesentlige særtrekk, som er omfattet av dette avlsprogrammet,opplysninger om det geografiske området der programmet skal gjennomføres,opplysninger om systemet for identifisering av renrasede avlsdyr som skal sikre at renrasede avlsdyr bare innføres i stamboken dersom de identifiseres individuelt og i samsvar med Unionens dyrehelseregelverk for identifisering og registrering av dyr av de aktuelle artene,opplysninger om systemet for registrering av avstamningen til de renrasede avlsdyrene som er ført inn eller er registrert, og er berettiget til å bli innført i stambøker,avlsprogrammets utvelgings- og avlsmål, herunder en angivelse av de viktigste målene i dette avlsprogrammet, og eventuelt nærmere vurderingskriterier knyttet til disse målene for utvelging av renrasede avlsdyr,dersom avlsprogrammet krever individgransking eller avlsverdivurdering,opplysninger om systemer som brukes for å utarbeide, registrere, meddele og bruke resultatene av individgransking,opplysninger om systemer for avlsverdivurdering og eventuelt for genomisk vurdering av renrasede avlsdyr,dersom det opprettes tilleggsavsnitt som fastsatt i artikkel 17, eller dersom hovedavsnittet er inndelt i klasser som fastsatt i artikkel 16, reglene for inndelingen av stamboken og kriteriene eller framgangsmåtene for registrering av dyr i disse avsnittene eller klassifisering av dem i disse klassene,dersom avlsprogrammet, når det gjelder renrasede dyr av hest, forbyr eller begrenser bruken av en eller flere reproduksjonsteknikker eller bruken av renrasede avlsdyr for en eller flere reproduksjonsteknikker som nevnt i artikkel 21 nr. 2, opplysninger om slike forbud eller begrensninger,dersom vedkommende myndighet utkontrakterer spesifikke teknisk oppgaver knyttet til forvaltningen av sitt avlsprogram til tredjemann, opplysninger om disse oppgavene, samt navnet på og kontaktopplysningene til den utpekte tredjemannen.
+4\. Avlsprogrammet nevnt i nr. 1 skal inneholde følgende:opplysninger om dets formål, som skal være å bevare rasen, forbedre rasen, skape eller gjenskape en ny rase eller enhver kombinasjon av disse,navnet på den rasen som er omfattet av dette avlsprogrammet, for å unngå forveksling med lignende renrasede avlsdyr av andre raser som er ført inn i andre eksisterende stambøker,en detaljert beskrivelse av rasens egenskaper, herunder angivelse av vesentlige særtrekk, som er omfattet av dette avlsprogrammet,opplysninger om det geografiske området der programmet skal gjennomføres,opplysninger om systemet for identifisering av renrasede avlsdyr som skal sikre at renrasede avlsdyr bare innføres i stamboken dersom de identifiseres individuelt og i samsvar med Unionens dyrehelseregelverk for identifisering og registrering av dyr av de aktuelle artene,opplysninger om systemet for registrering av avstamningen til de renrasede avlsdyrene som er ført inn eller er registrert, og er berettiget til å bli innført i stambøker,avlsprogrammets utvelgings- og avlsmål, herunder en angivelse av de viktigste målene i dette avlsprogrammet, og eventuelt nærmere vurderingskriterier knyttet til disse målene for utvelging av renrasede avlsdyr,dersom avlsprogrammet krever individgransking eller avlsverdivurdering,opplysninger om systemer som brukes for å utarbeide, registrere, meddele og bruke resultatene av individgransking,opplysninger om systemer for avlsverdivurdering og eventuelt for genomisk vurdering av renrasede avlsdyr,dersom det opprettes tilleggsavsnitt som fastsatt i artikkel 17, eller dersom hovedavsnittet er inndelt i klasser som fastsatt i artikkel 16, reglene for inndelingen av stamboken og kriteriene eller framgangsmåtene for registrering av dyr i disse avsnittene eller klassifisering av dem i disse klassene,dersom avlsprogrammet, når det gjelder renrasede dyr av hest, forbyr eller begrenser bruken av en eller flere reproduksjonsteknikker eller bruken av renrasede avlsdyr for en eller flere reproduksjonsteknikker som nevnt i artikkel 21 nr. 2, opplysninger om slike forbud eller begrensninger,dersom vedkommende myndighet utkontrakterer spesifikke teknisk oppgaver knyttet til forvaltningen av sitt avlsprogram til tredjemann, opplysninger om disse oppgavene, samt navnet på og kontaktopplysningene til den utpekte tredjemannen.
 
-5. Dersom en vedkommende myndighet gjennomfører et avlsprogram med renrasede avlsdyr av hest, får kravene fastsatt i nr. 1, 2, 3, 4 bokstav a) og nr. 4 bokstav c) del 3 i vedlegg I anvendelse i tillegg til dem som er fastsatt i nr. 3 og 4.
+5\. Dersom en vedkommende myndighet gjennomfører et avlsprogram med renrasede avlsdyr av hest, får kravene fastsatt i nr. 1, 2, 3, 4 bokstav a) og nr. 4 bokstav c) del 3 i vedlegg I anvendelse i tillegg til dem som er fastsatt i nr. 3 og 4.
 
-6. Dersom en vedkommende myndighet gjennomfører et avlsprogram med renrasede avlsdyr, skal vedkommende myndighet på en åpen måte og til rett tid underrette oppdretterne som deltar i dette avlsprogrammet, om eventuelle endringer i det.
+6\. Dersom en vedkommende myndighet gjennomfører et avlsprogram med renrasede avlsdyr, skal vedkommende myndighet på en åpen måte og til rett tid underrette oppdretterne som deltar i dette avlsprogrammet, om eventuelle endringer i det.
 
-7. Dersom en vedkommende myndighet gjennomfører et avlsprogram med renrasede avlsdyr, får artikkel 3, 13–22, 25, 27, artikkel 28 nr. 2, artikkel 30, 31, 32 og artikkel 36 nr. 1 *tilsvarende anvendelse*.
+7\. Dersom en vedkommende myndighet gjennomfører et avlsprogram med renrasede avlsdyr, får artikkel 3, 13–22, 25, 27, artikkel 28 nr. 2, artikkel 30, 31, 32 og artikkel 36 nr. 1 *tilsvarende anvendelse*.
 
 ### KAPITTEL IX
 OFFENTLIG KONTROLL OG ANNEN OFFENTLIG VIRKSOMHET, ADMINISTRATIV BISTAND, SAMARBEID OG HÅNDHEVING I MEDLEMSSTATENE
 
 ### Artikkel 39. Utpeking av vedkommende myndigheter
 
-1. Medlemsstatene skal utpeke vedkommende myndigheter som skal ha ansvaret for å foreta offentlig kontroll for å verifisere at aktørene overholder reglene fastsatt i denne forordning, og for å utføre annen offentlig virksomhet for å sikre at disse reglene anvendes.
+1\. Medlemsstatene skal utpeke vedkommende myndigheter som skal ha ansvaret for å foreta offentlig kontroll for å verifisere at aktørene overholder reglene fastsatt i denne forordning, og for å utføre annen offentlig virksomhet for å sikre at disse reglene anvendes.
 
-2. Hver medlemsstat skalutarbeide og oppdatere en liste over vedkommende myndigheter som den har utpekt i samsvar med nr. 1, herunder deres kontaktopplysninger,i listen som er fastsatt i bokstav a), angi den adressen følgende skal sendes til:de meldingene som er nevnt i artikkel 12, ellerde opplysningene, anmodningene eller meldingene som er nevnt i artikkel 48 og 49,gjøre listen nevnt i bokstav a) tilgjengelig for offentligheten på et nettsted og underrette Kommisjonen om dette nettstedet.
+2\. Hver medlemsstat skalutarbeide og oppdatere en liste over vedkommende myndigheter som den har utpekt i samsvar med nr. 1, herunder deres kontaktopplysninger,i listen som er fastsatt i bokstav a), angi den adressen følgende skal sendes til:de meldingene som er nevnt i artikkel 12, ellerde opplysningene, anmodningene eller meldingene som er nevnt i artikkel 48 og 49,gjøre listen nevnt i bokstav a) tilgjengelig for offentligheten på et nettsted og underrette Kommisjonen om dette nettstedet.
 
-3. Kommisjonen skal utarbeide og oppdatere en liste over nettstedene nevnt i nr. 2 bokstav c) og gjøre listen tilgjengelig for offentligheten.
+3\. Kommisjonen skal utarbeide og oppdatere en liste over nettstedene nevnt i nr. 2 bokstav c) og gjøre listen tilgjengelig for offentligheten.
 
 ### Artikkel 40. Overholdelse av bestemmelsene for vedkommende myndigheter som gjennomfører avlsprogrammer
 
@@ -462,21 +642,21 @@ Vedkommende myndigheter skalha framgangsmåter eller ordninger, eller begge dele
 
 ### Artikkel 42. Vedkommende myndigheters forpliktelser om fortrolighet
 
-1. Uten at det berører tilfeller der offentliggjøring kreves i henhold til unionsretten eller nasjonal lovgivning, skal vedkommende myndigheter kreve at deres personale forplikter seg til ikke å bringe videre til tredjemann opplysninger som de har fått kjennskap til når de har utført sine oppgaver i forbindelse med offentlig kontroll og annen offentlig virksomhet, og som etter sin art er omfattet av taushetsplikt, med mindre offentliggjøring er av en vesentlig samfunnsmessig interesse.
+1\. Uten at det berører tilfeller der offentliggjøring kreves i henhold til unionsretten eller nasjonal lovgivning, skal vedkommende myndigheter kreve at deres personale forplikter seg til ikke å bringe videre til tredjemann opplysninger som de har fått kjennskap til når de har utført sine oppgaver i forbindelse med offentlig kontroll og annen offentlig virksomhet, og som etter sin art er omfattet av taushetsplikt, med mindre offentliggjøring er av en vesentlig samfunnsmessig interesse.
 
-2. Opplysninger som er omfattet av taushetsplikt, skal inneholde opplysninger som ved utlevering skulle kunne undergrave følgende:Formålet med offentlig kontroll eller undersøkelser.Vern av forretningsinteressene til en aktør eller en annen fysisk eller juridisk person.Vern av rettergang og juridisk rådgivning.
+2\. Opplysninger som er omfattet av taushetsplikt, skal inneholde opplysninger som ved utlevering skulle kunne undergrave følgende:Formålet med offentlig kontroll eller undersøkelser.Vern av forretningsinteressene til en aktør eller en annen fysisk eller juridisk person.Vern av rettergang og juridisk rådgivning.
 
 ### Artikkel 43. Regler for offentlig kontroll
 
-1. Vedkommende myndigheter skal foreta offentlig kontroll av aktører med passende mellomrom, idet det tas hensyn til følgende:Risikoen for manglende overholdelse av reglene fastsatt i denne forordning.Resultatene av tidligere offentlig kontroll av aktører og deres respekt for og overholdelse av reglene fastsatt i denne forordning,Påliteligheten og resultatene av egenkontroll utført av aktørene eller av tredjemann på deres anmodning for å kontrollere at reglene fastsatt i denne forordning er overholdt.Alle opplysninger som kan tyde på manglende overholdelse av reglene fastsatt i denne forordning.
+1\. Vedkommende myndigheter skal foreta offentlig kontroll av aktører med passende mellomrom, idet det tas hensyn til følgende:Risikoen for manglende overholdelse av reglene fastsatt i denne forordning.Resultatene av tidligere offentlig kontroll av aktører og deres respekt for og overholdelse av reglene fastsatt i denne forordning,Påliteligheten og resultatene av egenkontroll utført av aktørene eller av tredjemann på deres anmodning for å kontrollere at reglene fastsatt i denne forordning er overholdt.Alle opplysninger som kan tyde på manglende overholdelse av reglene fastsatt i denne forordning.
 
-2. Vedkommende myndigheter skal foreta offentlig kontroll i samsvar med dokumenterte framgangsmåter, som skal inneholde instrukser til personalet som foretar offentlig kontroll.
+2\. Vedkommende myndigheter skal foreta offentlig kontroll i samsvar med dokumenterte framgangsmåter, som skal inneholde instrukser til personalet som foretar offentlig kontroll.
 
-3. Offentlig kontroll skal foretas etter at operatøren er blitt underrettet på forhånd, med mindre det er grunn til å foreta offentlig kontroll uten forhåndsvarsel.
+3\. Offentlig kontroll skal foretas etter at operatøren er blitt underrettet på forhånd, med mindre det er grunn til å foreta offentlig kontroll uten forhåndsvarsel.
 
-4. Offentlig kontroll skal, så langt det er mulig, foretas på en slik måte at byrden for aktørene minimeres, uten at dette får en negativ innvirkning på kvaliteten på denne offentlige kontrollen.
+4\. Offentlig kontroll skal, så langt det er mulig, foretas på en slik måte at byrden for aktørene minimeres, uten at dette får en negativ innvirkning på kvaliteten på denne offentlige kontrollen.
 
-5. Vedkommende myndigheter skal foreta offentlig kontroll på samme måte, uten hensyn til om avlsdyr og formeringsmateriale fra demhar sin opprinnelse i den medlemsstaten der den offentlige kontrollen foretas, eller i en annen medlemsstat, ellerinnføres til Unionen.
+5\. Vedkommende myndigheter skal foreta offentlig kontroll på samme måte, uten hensyn til om avlsdyr og formeringsmateriale fra demhar sin opprinnelse i den medlemsstaten der den offentlige kontrollen foretas, eller i en annen medlemsstat, ellerinnføres til Unionen.
 
 ### Artikkel 44. Åpenhet i den offentlige kontrollen
 
@@ -484,51 +664,51 @@ Vedkommende myndighet skal foreta offentlig kontroll med en høy grad av åpenhe
 
 ### Artikkel 45. Skriftlig dokumentasjon om offentlig kontroll
 
-1. Vedkommende myndigheter skal utarbeide skriftlig dokumentasjon om all offentlig kontroll som de foretar.Denne skriftlige dokumentasjonen skal inneholde følgende:en beskrivelse av formålet med den offentlige kontrollen.de kontrollmetodene som brukes,resultatene av den offentlige kontrollen,dersom det er relevant, tiltak som vedkommende myndigheter krever at aktørene treffer som følge av den offentlige kontrollen.
+1\. Vedkommende myndigheter skal utarbeide skriftlig dokumentasjon om all offentlig kontroll som de foretar.Denne skriftlige dokumentasjonen skal inneholde følgende:en beskrivelse av formålet med den offentlige kontrollen.de kontrollmetodene som brukes,resultatene av den offentlige kontrollen,dersom det er relevant, tiltak som vedkommende myndigheter krever at aktørene treffer som følge av den offentlige kontrollen.
 
-2. Med mindre det av hensyn til rettslige undersøkelser eller vern av rettergangen kreves noe annet, skal vedkommende myndigheter gi de aktørene som har vært gjenstand for en offentlig kontroll, en kopi av den skriftlige dokumentasjonen nevnt i nr. 1.
+2\. Med mindre det av hensyn til rettslige undersøkelser eller vern av rettergangen kreves noe annet, skal vedkommende myndigheter gi de aktørene som har vært gjenstand for en offentlig kontroll, en kopi av den skriftlige dokumentasjonen nevnt i nr. 1.
 
 ### Artikkel 46. Forpliktelser for aktører som er gjenstand for offentlig kontroll eller annen offentlig virksomhet
 
-1. I den utstrekning det er nødvendig for å foreta offentlig kontroll eller utføre annen offentlig virksomhet, skal aktører, når det er påkrevd av vedkommende myndigheter, gi vedkommende myndigheters personale nødvendig tilgang til følgende:sitt utstyr, sine lokaler og andre steder som de har ansvaret for,sine databaserte informasjonsstyringssystemer,sine avlsdyr og formeringsmateriale fra dem, som de har ansvaret for,sine dokumenter og eventuelle andre relevante opplysninger.
+1\. I den utstrekning det er nødvendig for å foreta offentlig kontroll eller utføre annen offentlig virksomhet, skal aktører, når det er påkrevd av vedkommende myndigheter, gi vedkommende myndigheters personale nødvendig tilgang til følgende:sitt utstyr, sine lokaler og andre steder som de har ansvaret for,sine databaserte informasjonsstyringssystemer,sine avlsdyr og formeringsmateriale fra dem, som de har ansvaret for,sine dokumenter og eventuelle andre relevante opplysninger.
 
-2. I forbindelse med offentlig kontroll og annen offentlig virksomhet skal aktører bistå og samarbeide med vedkommende myndigheters personale når de utfører sine oppgaver.
+2\. I forbindelse med offentlig kontroll og annen offentlig virksomhet skal aktører bistå og samarbeide med vedkommende myndigheters personale når de utfører sine oppgaver.
 
 ### Artikkel 47. Tiltak ved fastslått manglende overholdelse
 
-1. Dersom manglende samsvar fastslås, skal vedkommende myndighetertreffe alle de tiltakene som er nødvendige for å fastslå årsaken til og omfanget av den manglende overholdelsen og de berørte aktørenes ansvar,treffe de tiltakene som er hensiktsmessige for å sikre at de berørte aktørene utbedrer den manglende overholdelsen og for å forhindre at den ikke oppstår igjen.Når vedkommende myndigheter skal avgjøre hvilke tiltak som skal treffes, skal de ta hensyn til den manglende overholdelsens art og hvorvidt de berørte aktørene tidligere har overholdt bestemmelsene.Vedkommende myndigheter skal særlig, i den grad det er relevant,påby at avlslaget utsetter innføringen av renrasede avlsdyr i stambøker, eller at avlsvirksomheten utsetter registreringen av hybridavlsdyr av svin i avlsregistrene,påby at avlsdyr eller formeringsmateriale fra dem ikke skal brukes for avlsformål i samsvar med denne forordning,midlertidig oppheve avlslagets eller avlsvirksomhetens utstedelse av avlssertifikater,midlertidig oppheve eller tilbakekalle godkjenningen av et avlsprogram som utføres av avlslaget eller avlsvirksomheten, dersom dette avlslaget eller denne avlsvirksomheten gjentatte ganger, kontinuerlig eller generelt ikke oppfyller kravene til avlsprogrammet som er godkjent i samsvar med artikkel 8 nr. 3, og eventuelt artikkel 12,tilbakekalle anerkjennelsen av avlslaget eller avlsvirksomheten, som er gitt i samsvar med artikkel 4 nr. 3, dersom dette avlslaget eller denne avlsvirksomheten gjentatte ganger, kontinuerlig eller generelt ikke oppfyller kravene nevnt i artikkel 4 nr. 3,treffe alle andre tiltak som de anser som hensiktsmessige for å sikre at reglene fastsatt i denne forordning overholdes.
+1\. Dersom manglende samsvar fastslås, skal vedkommende myndighetertreffe alle de tiltakene som er nødvendige for å fastslå årsaken til og omfanget av den manglende overholdelsen og de berørte aktørenes ansvar,treffe de tiltakene som er hensiktsmessige for å sikre at de berørte aktørene utbedrer den manglende overholdelsen og for å forhindre at den ikke oppstår igjen.Når vedkommende myndigheter skal avgjøre hvilke tiltak som skal treffes, skal de ta hensyn til den manglende overholdelsens art og hvorvidt de berørte aktørene tidligere har overholdt bestemmelsene.Vedkommende myndigheter skal særlig, i den grad det er relevant,påby at avlslaget utsetter innføringen av renrasede avlsdyr i stambøker, eller at avlsvirksomheten utsetter registreringen av hybridavlsdyr av svin i avlsregistrene,påby at avlsdyr eller formeringsmateriale fra dem ikke skal brukes for avlsformål i samsvar med denne forordning,midlertidig oppheve avlslagets eller avlsvirksomhetens utstedelse av avlssertifikater,midlertidig oppheve eller tilbakekalle godkjenningen av et avlsprogram som utføres av avlslaget eller avlsvirksomheten, dersom dette avlslaget eller denne avlsvirksomheten gjentatte ganger, kontinuerlig eller generelt ikke oppfyller kravene til avlsprogrammet som er godkjent i samsvar med artikkel 8 nr. 3, og eventuelt artikkel 12,tilbakekalle anerkjennelsen av avlslaget eller avlsvirksomheten, som er gitt i samsvar med artikkel 4 nr. 3, dersom dette avlslaget eller denne avlsvirksomheten gjentatte ganger, kontinuerlig eller generelt ikke oppfyller kravene nevnt i artikkel 4 nr. 3,treffe alle andre tiltak som de anser som hensiktsmessige for å sikre at reglene fastsatt i denne forordning overholdes.
 
-2. Vedkommende myndigheter skal gi de berørte aktørene eller deres representanteren skriftlig underretning om sin beslutning vedrørende de forholdsreglene eller de tiltakene som skal treffes i samsvar med nr. 1, sammen med begrunnelsen for denne beslutningen,opplysninger om enhver rett til å påklage slike beslutninger, og om den framgangsmåten og de tidsfristene som gjelder for dette.
+2\. Vedkommende myndigheter skal gi de berørte aktørene eller deres representanteren skriftlig underretning om sin beslutning vedrørende de forholdsreglene eller de tiltakene som skal treffes i samsvar med nr. 1, sammen med begrunnelsen for denne beslutningen,opplysninger om enhver rett til å påklage slike beslutninger, og om den framgangsmåten og de tidsfristene som gjelder for dette.
 
-3. Vedkommende myndigheter skal overvåke situasjonen og endre, midlertidig oppheve eller trekke tilbake de tiltakene de har truffet i samsvar med denne artikkel, avhengig av hvor alvorlig den manglende overholdelsen er og med hensyn til forekomsten av klare bevis på at det ikke lenger foreligger manglende overholdelse.
+3\. Vedkommende myndigheter skal overvåke situasjonen og endre, midlertidig oppheve eller trekke tilbake de tiltakene de har truffet i samsvar med denne artikkel, avhengig av hvor alvorlig den manglende overholdelsen er og med hensyn til forekomsten av klare bevis på at det ikke lenger foreligger manglende overholdelse.
 
-4. Medlemsstatene kan fastsette at de berørte aktørene skal bære alle eller deler av kostnadene som har oppstått for vedkommende berørte myndigheter i henhold til denne artikkel.
+4\. Medlemsstatene kan fastsette at de berørte aktørene skal bære alle eller deler av kostnadene som har oppstått for vedkommende berørte myndigheter i henhold til denne artikkel.
 
 ### Artikkel 48. Samarbeid og administrativ bistand
 
-1. Dersom den manglende overholdelsen oppstår i, sprer seg til eller berører mer enn én medlemsstat, skal vedkommende myndigheter i disse medlemsstatene samarbeide med hverandre og yte hverandre administrativ bistand for å sikre en riktig anvendelse av reglene fastsatt i denne forordning.
+1\. Dersom den manglende overholdelsen oppstår i, sprer seg til eller berører mer enn én medlemsstat, skal vedkommende myndigheter i disse medlemsstatene samarbeide med hverandre og yte hverandre administrativ bistand for å sikre en riktig anvendelse av reglene fastsatt i denne forordning.
 
-2. Samarbeid og administrativ bistand som fastsatt i nr. 1 kan omfatte følgende:en begrunnet anmodning fra en vedkommende myndighet i en medlemsstat («anmodende vedkommende myndighet») om opplysninger fra en vedkommende myndighet i en annen medlemsstat («anmodet vedkommende myndighet») som er nødvendige for å kunne foreta eller følge opp en offentlig kontroll,når det gjelder manglende overholdelse som kan ha betydning i andre medlemsstater, melding til vedkommende myndigheter i disse andre medlemsstatene fra den vedkommende myndighet som har fått kjennskap til den manglende overholdelsen,anmodet vedkommende myndighets framleggelse av nødvendige opplysninger og dokumenter til anmodende vedkommende myndighet uten unødig opphold, så snart de relevante opplysningene og dokumentene er tilgjengelige,gjennomføring av undersøkelser eller offentlig kontroll av vedkommende anmodet myndighet som er nødvendig for ågi anmodende vedkommende myndighet alle nødvendige opplysninger og dokumenter, herunder opplysninger om resultatene av slike undersøkelser eller den offentlige kontrollen og, dersom det er relevant, tiltak som er truffet,verifisere, om nødvendig på stedet, at denne forordnings bestemmelser er overholdt innenfor deres jurisdiksjon,etter avtale mellom berørte vedkommende myndigheter, deltaking fra en vedkommende myndighet i en medlemsstat i offentlig kontroll på stedet som foretas av en vedkommende myndighet i en annen medlemsstat.
+2\. Samarbeid og administrativ bistand som fastsatt i nr. 1 kan omfatte følgende:en begrunnet anmodning fra en vedkommende myndighet i en medlemsstat («anmodende vedkommende myndighet») om opplysninger fra en vedkommende myndighet i en annen medlemsstat («anmodet vedkommende myndighet») som er nødvendige for å kunne foreta eller følge opp en offentlig kontroll,når det gjelder manglende overholdelse som kan ha betydning i andre medlemsstater, melding til vedkommende myndigheter i disse andre medlemsstatene fra den vedkommende myndighet som har fått kjennskap til den manglende overholdelsen,anmodet vedkommende myndighets framleggelse av nødvendige opplysninger og dokumenter til anmodende vedkommende myndighet uten unødig opphold, så snart de relevante opplysningene og dokumentene er tilgjengelige,gjennomføring av undersøkelser eller offentlig kontroll av vedkommende anmodet myndighet som er nødvendig for ågi anmodende vedkommende myndighet alle nødvendige opplysninger og dokumenter, herunder opplysninger om resultatene av slike undersøkelser eller den offentlige kontrollen og, dersom det er relevant, tiltak som er truffet,verifisere, om nødvendig på stedet, at denne forordnings bestemmelser er overholdt innenfor deres jurisdiksjon,etter avtale mellom berørte vedkommende myndigheter, deltaking fra en vedkommende myndighet i en medlemsstat i offentlig kontroll på stedet som foretas av en vedkommende myndighet i en annen medlemsstat.
 
-3. Dersom den offentlige kontrollen av avlsdyr eller formeringsmateriale fra dem med opprinnelse i en annen medlemsstat i gjentatte tilfeller viser manglende overholdelse av reglene fastsatt i denne forordning, skal vedkommende myndighet i den medlemsstaten som har utført denne offentlige kontrollen, underrette Kommisjonen og vedkommende myndigheter i de andre medlemsstatene om dette uten unødig opphold.
+3\. Dersom den offentlige kontrollen av avlsdyr eller formeringsmateriale fra dem med opprinnelse i en annen medlemsstat i gjentatte tilfeller viser manglende overholdelse av reglene fastsatt i denne forordning, skal vedkommende myndighet i den medlemsstaten som har utført denne offentlige kontrollen, underrette Kommisjonen og vedkommende myndigheter i de andre medlemsstatene om dette uten unødig opphold.
 
-4. Denne artikkel får anvendelse uten at det berører nasjonale bestemmelser somfår anvendelse på frigivelsen av dokumenter som er gjenstand for eller har tilknytning til retterganger,sikter mot å verne fysiske eller juridiske personer forretningsinteresser.
+4\. Denne artikkel får anvendelse uten at det berører nasjonale bestemmelser somfår anvendelse på frigivelsen av dokumenter som er gjenstand for eller har tilknytning til retterganger,sikter mot å verne fysiske eller juridiske personer forretningsinteresser.
 
-5. All kommunikasjon mellom vedkommende myndigheter i henhold til denne artikkel skal være skriftlig, enten på papir eller i elektronisk form.
+5\. All kommunikasjon mellom vedkommende myndigheter i henhold til denne artikkel skal være skriftlig, enten på papir eller i elektronisk form.
 
 ### Artikkel 49
 
 Melding fra Kommisjonen og medlemsstatene på grunnlag av opplysninger fra tredjestater
 
-1. Når vedkommende myndigheter mottar opplysninger fra en tredjestat om manglende overholdelse av reglene fastsatt i denne forordning, skal de uten unødig oppholdmeddele disse opplysningene til vedkommende myndigheter i de andre medlemsstatene som berøres av denne manglende overholdelsen,dersom slike opplysninger er eller kan være relevante på unionsplan, meddele disse opplysningene til Kommisjonen.
+1\. Når vedkommende myndigheter mottar opplysninger fra en tredjestat om manglende overholdelse av reglene fastsatt i denne forordning, skal de uten unødig oppholdmeddele disse opplysningene til vedkommende myndigheter i de andre medlemsstatene som berøres av denne manglende overholdelsen,dersom slike opplysninger er eller kan være relevante på unionsplan, meddele disse opplysningene til Kommisjonen.
 
-2. Opplysninger som er kommet fram i forbindelse med offentlig kontroll eller undersøkelser utført i samsvar med denne forordning, kan meddeles til en tredjestat som nevnt i nr. 1, forutsatt atvedkommende myndigheter som har meddelt opplysningene, har gir sitt samtykke,relevante unionsregler og nasjonale regler for oversending av personopplysninger til tredjestater er overholdt.
+2\. Opplysninger som er kommet fram i forbindelse med offentlig kontroll eller undersøkelser utført i samsvar med denne forordning, kan meddeles til en tredjestat som nevnt i nr. 1, forutsatt atvedkommende myndigheter som har meddelt opplysningene, har gir sitt samtykke,relevante unionsregler og nasjonale regler for oversending av personopplysninger til tredjestater er overholdt.
 
 ### Artikkel 50. Samordnet bistand og oppfølging fra Kommisjonen
 
-1. Kommisjonen skal uten opphold samordne de tiltakene og forholdsreglene som er truffet av vedkommende myndigheter i samsvar med dette kapittel, dersomopplysninger som Kommisjonen har tilgang til, tyder på at det forekommer virksomhet som er eller synes å være i strid med reglene fastsatt i denne forordning, og som gjelder flere enn én medlemsstat,vedkommende myndigheter i de berørte medlemsstatene ikke blir enige om hensiktsmessige tiltak for å håndtere manglende overholdelse av reglene fastsatt i denne forordning.
+1\. Kommisjonen skal uten opphold samordne de tiltakene og forholdsreglene som er truffet av vedkommende myndigheter i samsvar med dette kapittel, dersomopplysninger som Kommisjonen har tilgang til, tyder på at det forekommer virksomhet som er eller synes å være i strid med reglene fastsatt i denne forordning, og som gjelder flere enn én medlemsstat,vedkommende myndigheter i de berørte medlemsstatene ikke blir enige om hensiktsmessige tiltak for å håndtere manglende overholdelse av reglene fastsatt i denne forordning.
 
-2. I de tilfellene som er nevnt i nr. 1, kan Kommisjonen gjøre følgende:anmode om at vedkommende myndigheter i de medlemsstatene som er berørt av virksomheten som er eller synes å være i strid med reglene fastsatt i denne forordning, framlegger en rapport for Kommisjonen om de tiltakene de har truffet,i samarbeid med de medlemsstatene som er berørt av den virksomheten som er eller synes å være i strid med reglene fastsatt i denne forordning, sende en inspeksjonsgruppe for å foreta en kommisjonskontroll på stedet,anmode om at vedkommende myndigheter i avsendermedlemsstaten og, dersom det er relevant, i andre berørte medlemsstater skjerper den offentlige kontrollen på en hensiktsmessig måte og legger fram for den en rapport om de tiltakene de har truffet,framlegge opplysninger om slike tilfeller til komiteen nevnt i artikkel 62 nr. 1 sammen med et forslag til tiltak for å avhjelpe tilfeller av manglende overholdelse som nevnt i nr. 1 bokstav a) i denne artikkel,treffe alle andre tiltak som er hensiktsmessige.
+2\. I de tilfellene som er nevnt i nr. 1, kan Kommisjonen gjøre følgende:anmode om at vedkommende myndigheter i de medlemsstatene som er berørt av virksomheten som er eller synes å være i strid med reglene fastsatt i denne forordning, framlegger en rapport for Kommisjonen om de tiltakene de har truffet,i samarbeid med de medlemsstatene som er berørt av den virksomheten som er eller synes å være i strid med reglene fastsatt i denne forordning, sende en inspeksjonsgruppe for å foreta en kommisjonskontroll på stedet,anmode om at vedkommende myndigheter i avsendermedlemsstaten og, dersom det er relevant, i andre berørte medlemsstater skjerper den offentlige kontrollen på en hensiktsmessig måte og legger fram for den en rapport om de tiltakene de har truffet,framlegge opplysninger om slike tilfeller til komiteen nevnt i artikkel 62 nr. 1 sammen med et forslag til tiltak for å avhjelpe tilfeller av manglende overholdelse som nevnt i nr. 1 bokstav a) i denne artikkel,treffe alle andre tiltak som er hensiktsmessige.
 
 ### Artikkel 51. Generelt prinsipp for finansiering av offentlig kontroll
 
@@ -546,77 +726,109 @@ KOMMISJONENS KONTROLL
 ### AVSNITT 1
 KOMMISJONENS KONTROLL I MEDLEMSSTATENE
 
-1. Kommisjonens sakkyndige kan innenfor rammen av denne forordning, foreta kontroll i medlemsstatene for, i den grad det er relevantå verifisere anvendelsen av reglene i denne forordning,å verifisere rutinene for håndheving og at de offentlige kontrollsystemene og vedkommende myndigheter som betjener dem, fungerer,undersøke og samle inn opplysningerom viktige eller tilbakevendende problemer i forbindelse med anvendelsen eller håndhevingen av reglene fastsatt i denne forordning,om nye problemer eller nye tiltak når det gjelder visse rutiner som aktørene benytter seg av.
+###### Artikkel 53
 
-2. Kontrollen fastsatt i nr. 1 skal organiseres i samarbeid med vedkommende myndigheter i medlemsstatene.
+Kommisjonens kontroll i medlemsstatene
 
-3. Kontrollen fastsatt i nr. 1 kan omfatte undersøkelser på stedet som utføres i samarbeid med vedkommende myndigheter, som foretar offentlig kontroll.
+1\. Kommisjonens sakkyndige kan innenfor rammen av denne forordning, foreta kontroll i medlemsstatene for, i den grad det er relevantå verifisere anvendelsen av reglene i denne forordning,å verifisere rutinene for håndheving og at de offentlige kontrollsystemene og vedkommende myndigheter som betjener dem, fungerer,undersøke og samle inn opplysningerom viktige eller tilbakevendende problemer i forbindelse med anvendelsen eller håndhevingen av reglene fastsatt i denne forordning,om nye problemer eller nye tiltak når det gjelder visse rutiner som aktørene benytter seg av.
 
-4. Sakkyndige fra medlemsstatene kan bistå Kommisjonens sakkyndige. Sakkyndige fra medlemsstatene som følger Kommisjonens sakkyndige skal ha samme rettigheter som Kommisjonens sakkyndige.
+2\. Kontrollen fastsatt i nr. 1 skal organiseres i samarbeid med vedkommende myndigheter i medlemsstatene.
 
-1. Kommisjonen skalutarbeide et utkast til rapport om resultatene og anbefalingene om å avhjelpe de manglene som dens sakkyndige har identifisert under kontrollen i henhold til artikkel 53 nr. 1,sende en kopi av utkastet til rapporten nevnt i bokstav a) til den medlemsstaten der kontrollen ble foretatt, slik at den kan komme med sine merknader,ta hensyn til merknadene fra medlemsstaten nevnt i bokstav b) i dette nummer i forbindelse med utarbeidingen av sluttrapporten om resultatene av kontrollen fastsatt i artikkel 53 nr. 1, som er foretatt av dens sakkyndige i nevnte medlemsstat,offentliggjøre sluttrapporten nevnt i bokstav c) og merknadene fra medlemsstaten nevnt i bokstav b).
+3\. Kontrollen fastsatt i nr. 1 kan omfatte undersøkelser på stedet som utføres i samarbeid med vedkommende myndigheter, som foretar offentlig kontroll.
 
-2. Kommisjonen kan, dersom det er relevant, i sin sluttrapport nevnt i nr. 1 bokstav c) i denne artikkel, anbefale korrigerende eller forebyggende tiltak som skal treffes av medlemsstatene for å rette opp bestemte eller systemiske mangler, som er konstatert i forbindelse med Kommisjonens kontroll foretatt i samsvar med artikkel 53 nr. 1.
+4\. Sakkyndige fra medlemsstatene kan bistå Kommisjonens sakkyndige. Sakkyndige fra medlemsstatene som følger Kommisjonens sakkyndige skal ha samme rettigheter som Kommisjonens sakkyndige.
 
-1. Medlemsstatene skalpå anmodning fra Kommisjonens sakkyndige, yte den tekniske bistanden som er nødvendig, og bidra med tilgjengelig dokumentasjon og annen teknisk støtte slik at de sakkyndige kan foreta den kontrollen som er nevnt i artikkel 53 nr. 1, på en hensiktsmessig og effektiv måte,yte nødvendig bistand for å sikre at Kommisjonens sakkyndige har tilgang til alle lokaler, herunder til deler av dem, og til andre steder, utstyr og opplysninger, herunder databaserte informasjonsstyringssystemer, samt eventuelt til avlsdyr og formeringsmateriale fra dem, som det er nødvendig å ha tilgang til for å kunne foreta den kontrollen som er nevnt i artikkel 53 nr. 1.
+###### Artikkel 54
 
-2. Medlemsstatene skal treffe hensiktsmessige oppfølgende tiltak på bakgrunn av anbefalingene fastsatt i sluttrapporten nevnt i artikkel 54 nr. 1 bokstav c) for å sikre overholdelse av reglene fastsatt i denne forordning.
+Rapporter fra Kommisjonen om den kontrollen som dens sakkyndige foretar i medlemsstatene
 
-1. Dersom Kommisjonen har bevis på alvorlige uregelmessigheter i en annen medlemsstats kontrollsystem, og dersom en slik uregelmessighet kan føre til omfattende overtredelse av reglene i denne forordning, skal den vedta gjennomføringsrettsakter som fastsetter et eller flere av følgende tiltak:særlige vilkår for eller forbud mot handel med avlsdyr eller formeringsmateriale fra dem, som er berørt av uregelmessigheten i den offentlige kontrollen,alle andre hensiktsmessige midlertidige tiltak.Disse gjennomføringsrettsaktene skal opphøre å gjelde når denne uregelmessigheten er fjernet.Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med undersøkelseskomité nevnt i artikkel 62 nr. 2.
+1\. Kommisjonen skalutarbeide et utkast til rapport om resultatene og anbefalingene om å avhjelpe de manglene som dens sakkyndige har identifisert under kontrollen i henhold til artikkel 53 nr. 1,sende en kopi av utkastet til rapporten nevnt i bokstav a) til den medlemsstaten der kontrollen ble foretatt, slik at den kan komme med sine merknader,ta hensyn til merknadene fra medlemsstaten nevnt i bokstav b) i dette nummer i forbindelse med utarbeidingen av sluttrapporten om resultatene av kontrollen fastsatt i artikkel 53 nr. 1, som er foretatt av dens sakkyndige i nevnte medlemsstat,offentliggjøre sluttrapporten nevnt i bokstav c) og merknadene fra medlemsstaten nevnt i bokstav b).
 
-2. Tiltakene fastsatt i nr. 1 skal vedtas bare dersom Kommisjonen har bedt om at den berørte medlemsstaten retter opp forholdene innen en passende tidsfrist, og medlemsstaten har unnlatt å gjøre dette.
+2\. Kommisjonen kan, dersom det er relevant, i sin sluttrapport nevnt i nr. 1 bokstav c) i denne artikkel, anbefale korrigerende eller forebyggende tiltak som skal treffes av medlemsstatene for å rette opp bestemte eller systemiske mangler, som er konstatert i forbindelse med Kommisjonens kontroll foretatt i samsvar med artikkel 53 nr. 1.
 
-3. Kommisjonen skal overvåke situasjonen nevnt i nr. 1 og skal vedta gjennomføringsrettsakter om endring eller oppheving av tiltakene som er vedtatt, avhengig av hvordan situasjonen utvikler seg. Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med undersøkelseskomité nevnt i artikkel 62 nr. 2.
+###### Artikkel 55
+
+Medlemsstatenes forpliktelser med hensyn til Kommisjonens kontroll
+
+1\. Medlemsstatene skalpå anmodning fra Kommisjonens sakkyndige, yte den tekniske bistanden som er nødvendig, og bidra med tilgjengelig dokumentasjon og annen teknisk støtte slik at de sakkyndige kan foreta den kontrollen som er nevnt i artikkel 53 nr. 1, på en hensiktsmessig og effektiv måte,yte nødvendig bistand for å sikre at Kommisjonens sakkyndige har tilgang til alle lokaler, herunder til deler av dem, og til andre steder, utstyr og opplysninger, herunder databaserte informasjonsstyringssystemer, samt eventuelt til avlsdyr og formeringsmateriale fra dem, som det er nødvendig å ha tilgang til for å kunne foreta den kontrollen som er nevnt i artikkel 53 nr. 1.
+
+2\. Medlemsstatene skal treffe hensiktsmessige oppfølgende tiltak på bakgrunn av anbefalingene fastsatt i sluttrapporten nevnt i artikkel 54 nr. 1 bokstav c) for å sikre overholdelse av reglene fastsatt i denne forordning.
+
+###### Artikkel 56
+
+Alvorlige uregelmessigheter i en medlemsstats kontrollsystem
+
+1\. Dersom Kommisjonen har bevis på alvorlige uregelmessigheter i en annen medlemsstats kontrollsystem, og dersom en slik uregelmessighet kan føre til omfattende overtredelse av reglene i denne forordning, skal den vedta gjennomføringsrettsakter som fastsetter et eller flere av følgende tiltak:særlige vilkår for eller forbud mot handel med avlsdyr eller formeringsmateriale fra dem, som er berørt av uregelmessigheten i den offentlige kontrollen,alle andre hensiktsmessige midlertidige tiltak.Disse gjennomføringsrettsaktene skal opphøre å gjelde når denne uregelmessigheten er fjernet.Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med undersøkelseskomité nevnt i artikkel 62 nr. 2.
+
+2\. Tiltakene fastsatt i nr. 1 skal vedtas bare dersom Kommisjonen har bedt om at den berørte medlemsstaten retter opp forholdene innen en passende tidsfrist, og medlemsstaten har unnlatt å gjøre dette.
+
+3\. Kommisjonen skal overvåke situasjonen nevnt i nr. 1 og skal vedta gjennomføringsrettsakter om endring eller oppheving av tiltakene som er vedtatt, avhengig av hvordan situasjonen utvikler seg. Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med undersøkelseskomité nevnt i artikkel 62 nr. 2.
 
 ### AVSNITT 2
 KOMMISJONENS KONTROLL I TREDJESTATER
 
-1. Kommisjonens sakkyndige kan foreta kontroll i en tredjestat, når det er relevant, forå verifisere at tredjestatens lovgivning eller systemer oppfyller eller er likeverdige med kravene fastsatt i denne forordning,å verifisere at tredjestatens kontrollsystem for å sikre at forsendelser av avlsdyr og formeringsmateriale fra dem, som innføres til Unionen, oppfyller relevante krav i kapittel VIII i denne forordning.å samle inn opplysninger og data for å klarlegge årsakene til gjentatte eller nye problemer i forbindelse med avlsdyr og formeringsmateriale fra dem som innføres fra tredjestaten til Unionen.
+###### Artikkel 57
 
-2. Kommisjonens kontroll nevnt i nr. 1 skal ta særlig hensyn tiltredjestaters lovgivning om avl og avstamning når det gjelder avlsdyr og formeringsmateriale fra dem,hvordan tredjestatens vedkommende myndigheter er organisert, deres myndighet og uavhengighet, hvilken kontroll de er underlagt og hvilken myndighet de har til å håndheve gjeldende lovgivning på en effektiv måte,opplæring av personalet i den tredjestaten som har ansvaret for å foreta kontroll eller overvåking av avlsorganer,de ressursene som er tilgjengelige for vedkommende myndigheter i tredjestaten,om det finnes dokumenterte kontrollrutiner og kontrollsystemer basert på prioriteringer, og hvordan disse fungerer,omfanget og gjennomføringen av kontroller som er foretatt av vedkommende myndigheter i tredjestaten, når det gjelder avlsdyr og formeringsmateriale fra dem fra andre tredjestater,de forsikringene tredjestaten kan gi om at dets lovgivning er i samsvar med og er likeverdig med de kravene som er fastsatt i denne forordning.
+Kommisjonens kontroll i tredjestater
 
-1. Hvor ofte det skal foretas kontroll i en tredjestat nevnt i artikkel 57 nr. 1, skal bestemmes på grunnlag av følgende:prinsippene og målene for reglene i denne forordning,mengden og arten av avlsdyr og formeringsmateriale fra dem, som innføres til Unionen fra nevnte tredjestat,resultatene av den kontrollen som er nevnt i artikkel 57 nr. 1, og som allerede er foretatt,resultatene av offentlig kontroll av avlsdyr og formeringsmateriale fra dem, som innføres til Unionen fra en tredjestat, og enhver annen form for offentlig kontroll som er foretatt av vedkommende myndigheter i medlemsstatene,alle andre opplysninger som Kommisjonen anser som hensiktsmessig.
+1\. Kommisjonens sakkyndige kan foreta kontroll i en tredjestat, når det er relevant, forå verifisere at tredjestatens lovgivning eller systemer oppfyller eller er likeverdige med kravene fastsatt i denne forordning,å verifisere at tredjestatens kontrollsystem for å sikre at forsendelser av avlsdyr og formeringsmateriale fra dem, som innføres til Unionen, oppfyller relevante krav i kapittel VIII i denne forordning.å samle inn opplysninger og data for å klarlegge årsakene til gjentatte eller nye problemer i forbindelse med avlsdyr og formeringsmateriale fra dem som innføres fra tredjestaten til Unionen.
 
-2. For å legge til rette for en hensiktsmessig og effektiv gjennomføring av kontrollen fastsatt i artikkel 57 nr. 1 kan Kommisjonen, før den foretar en slik kontroll, anmode den berørte tredjestaten om å framlegge følgende:de opplysningene som er nevnt i artikkel 34 nr. 2 eller artikkel 35 nr. 2 bokstav a),dersom det er hensiktsmessig og nødvendig, den skriftlige dokumentasjonen om den kontrollen som er foretatt av vedkommende myndigheter i nevnte tredjestat.
+2\. Kommisjonens kontroll nevnt i nr. 1 skal ta særlig hensyn tiltredjestaters lovgivning om avl og avstamning når det gjelder avlsdyr og formeringsmateriale fra dem,hvordan tredjestatens vedkommende myndigheter er organisert, deres myndighet og uavhengighet, hvilken kontroll de er underlagt og hvilken myndighet de har til å håndheve gjeldende lovgivning på en effektiv måte,opplæring av personalet i den tredjestaten som har ansvaret for å foreta kontroll eller overvåking av avlsorganer,de ressursene som er tilgjengelige for vedkommende myndigheter i tredjestaten,om det finnes dokumenterte kontrollrutiner og kontrollsystemer basert på prioriteringer, og hvordan disse fungerer,omfanget og gjennomføringen av kontroller som er foretatt av vedkommende myndigheter i tredjestaten, når det gjelder avlsdyr og formeringsmateriale fra dem fra andre tredjestater,de forsikringene tredjestaten kan gi om at dets lovgivning er i samsvar med og er likeverdig med de kravene som er fastsatt i denne forordning.
 
-3. Kommisjonen kan utnevne sakkyndige fra medlemsstatene som skal bistå Kommisjonens egne sakkyndige i forbindelse med kontrollen nevnt i artikkel 57 nr. 1.
+###### Artikkel 58
+
+Hyppighet og organisering av Kommisjonens kontroll i tredjestater
+
+1\. Hvor ofte det skal foretas kontroll i en tredjestat nevnt i artikkel 57 nr. 1, skal bestemmes på grunnlag av følgende:prinsippene og målene for reglene i denne forordning,mengden og arten av avlsdyr og formeringsmateriale fra dem, som innføres til Unionen fra nevnte tredjestat,resultatene av den kontrollen som er nevnt i artikkel 57 nr. 1, og som allerede er foretatt,resultatene av offentlig kontroll av avlsdyr og formeringsmateriale fra dem, som innføres til Unionen fra en tredjestat, og enhver annen form for offentlig kontroll som er foretatt av vedkommende myndigheter i medlemsstatene,alle andre opplysninger som Kommisjonen anser som hensiktsmessig.
+
+2\. For å legge til rette for en hensiktsmessig og effektiv gjennomføring av kontrollen fastsatt i artikkel 57 nr. 1 kan Kommisjonen, før den foretar en slik kontroll, anmode den berørte tredjestaten om å framlegge følgende:de opplysningene som er nevnt i artikkel 34 nr. 2 eller artikkel 35 nr. 2 bokstav a),dersom det er hensiktsmessig og nødvendig, den skriftlige dokumentasjonen om den kontrollen som er foretatt av vedkommende myndigheter i nevnte tredjestat.
+
+3\. Kommisjonen kan utnevne sakkyndige fra medlemsstatene som skal bistå Kommisjonens egne sakkyndige i forbindelse med kontrollen nevnt i artikkel 57 nr. 1.
+
+###### Artikkel 59
+
+Rapporter fra Kommisjonen om den kontrollen som dens sakkyndige foretar i tredjestater
 
 Kommisjonen skal utarbeide en rapport om resultatene av hver kontroll som er foretatt i samsvar med artikkel 57 og 58.
 
 Disse rapportene skal eventuelt inneholde anbefalinger. Kommisjonen skal offentliggjøre disse rapportene.
 
-1. Dersom det i en tredjestat foreligger dokumentasjon på omfattende og alvorlig manglende overholdelse av reglene fastsatt i denne forordning, skal Kommisjonen vedta gjennomføringsrettsakter om et eller flere av følgende tiltak:forbud mot innførsel til Unionen, som avlsdyr eller formeringsmateriale fra dem, av dyr eller deres sæd, oocytter eller embryoer fra dem som kommer fra nevnte tredjestat,forbud mot innføring i stambøker som føres av avlslag, eller mot registrering i avlsregistrene som føres av avlsvirksomheter, av avlsdyr og avkom som stammer fra formeringsmaterialet fra dem, fra denne tredjestaten.Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med undersøkelseskomité nevnt i artikkel 62 nr. 2.I tillegg til eller i stedet for disse rettsaktene kan Kommisjonen gjennomføre et eller flere av følgende tiltak:stryke nevnte tredjestat eller avlsorganer i nevnte tredjestat fra listen fastsatt i artikkel 34 nr. 1,treffe alle andre tiltak som er hensiktsmessige.
+###### Artikkel 60
 
-2. Gjennomføringsrettsaktene og andre tiltak nevnt i nr. 1 skal identifisere avlsdyr og formeringsmateriale fra dem ved hjelp av koder i den kombinerte nomenklaturen.
+Fastsettelse av særlige tiltak med hensyn til innførsel til Unionen av avlsdyr og formeringsmateriale fra dem
 
-3. Når Kommisjonen vedtar gjennomføringsrettsaktene og andre tiltak nevnt i nr. 1, skal den ta hensyn til følgende:de opplysningene som er samlet inn i samsvar med artikkel 58 nr. 2,eventuelle andre opplysninger fra nevnte tredjestat som den manglende overholdelsen nevnt i nr. 1 berører,om nødvendig, resultatene av den kontrollen som er nevnt i artikkel 57 nr. 1.
+1\. Dersom det i en tredjestat foreligger dokumentasjon på omfattende og alvorlig manglende overholdelse av reglene fastsatt i denne forordning, skal Kommisjonen vedta gjennomføringsrettsakter om et eller flere av følgende tiltak:forbud mot innførsel til Unionen, som avlsdyr eller formeringsmateriale fra dem, av dyr eller deres sæd, oocytter eller embryoer fra dem som kommer fra nevnte tredjestat,forbud mot innføring i stambøker som føres av avlslag, eller mot registrering i avlsregistrene som føres av avlsvirksomheter, av avlsdyr og avkom som stammer fra formeringsmaterialet fra dem, fra denne tredjestaten.Disse gjennomføringsrettsaktene skal vedtas etter framgangsmåten med undersøkelseskomité nevnt i artikkel 62 nr. 2.I tillegg til eller i stedet for disse rettsaktene kan Kommisjonen gjennomføre et eller flere av følgende tiltak:stryke nevnte tredjestat eller avlsorganer i nevnte tredjestat fra listen fastsatt i artikkel 34 nr. 1,treffe alle andre tiltak som er hensiktsmessige.
 
-4. Kommisjonen skal overvåke den manglende overholdelsen nevnt i nr. 1 og i samsvar med samme framgangsmåte som for vedtakelse av dem, endre eller oppheve tiltakene som er truffet, avhengig av hvordan situasjonen utvikler seg.
+2\. Gjennomføringsrettsaktene og andre tiltak nevnt i nr. 1 skal identifisere avlsdyr og formeringsmateriale fra dem ved hjelp av koder i den kombinerte nomenklaturen.
+
+3\. Når Kommisjonen vedtar gjennomføringsrettsaktene og andre tiltak nevnt i nr. 1, skal den ta hensyn til følgende:de opplysningene som er samlet inn i samsvar med artikkel 58 nr. 2,eventuelle andre opplysninger fra nevnte tredjestat som den manglende overholdelsen nevnt i nr. 1 berører,om nødvendig, resultatene av den kontrollen som er nevnt i artikkel 57 nr. 1.
+
+4\. Kommisjonen skal overvåke den manglende overholdelsen nevnt i nr. 1 og i samsvar med samme framgangsmåte som for vedtakelse av dem, endre eller oppheve tiltakene som er truffet, avhengig av hvordan situasjonen utvikler seg.
 
 ### KAPITTEL XII
 DELEGERING OG GJENNOMFØRING
 
 ### Artikkel 61. Utøvelse av delegert myndighet
 
-1. Myndigheten til å vedta delegerte rettsakter gis Kommisjonen med forbehold for vilkårene fastsatt i denne artikkel.
+1\. Myndigheten til å vedta delegerte rettsakter gis Kommisjonen med forbehold for vilkårene fastsatt i denne artikkel.
 
-2. Myndigheten til å vedta delegerte rettsakter som nevnt i artikkel 26 nr. 1, artikkel 29 nr. 5, artikkel 30 nr. 9 og artikkel 32 nr. 1 gis Kommisjonen for en periode på fem år fra 19. juli 2016. Kommisjonen skal utarbeide en rapport om delegeringen av myndighet senest ni måneder før utgangen av femårsperioden. Den delegerte myndigheten skal stilltiende forlenges med perioder av samme varighet, med mindre Europaparlamentet eller Rådet motsetter seg en slik forlengelse senest tre måneder før utløpet av hver periode.
+2\. Myndigheten til å vedta delegerte rettsakter som nevnt i artikkel 26 nr. 1, artikkel 29 nr. 5, artikkel 30 nr. 9 og artikkel 32 nr. 1 gis Kommisjonen for en periode på fem år fra 19. juli 2016. Kommisjonen skal utarbeide en rapport om delegeringen av myndighet senest ni måneder før utgangen av femårsperioden. Den delegerte myndigheten skal stilltiende forlenges med perioder av samme varighet, med mindre Europaparlamentet eller Rådet motsetter seg en slik forlengelse senest tre måneder før utløpet av hver periode.
 
-3. Den delegerte myndigheten nevnt i artikkel 26 nr. 1, artikkel 29 nr. 5, artikkel 30 nr. 9 og artikkel 32 nr. 1 kan til enhver tid tilbakekalles av Europaparlamentet eller Rådet. En beslutning om tilbakekalling innebærer at den delegerte myndigheten som angis i nevnte beslutning, opphører å gjelde. Den får virkning dagen etter at den er offentliggjort i *Den europeiske unions tidende*, eller på et senere tidspunkt som er angitt i beslutningen. Den berører ikke gyldigheten av delegerte rettsakter som allerede er trådt i kraft.
+3\. Den delegerte myndigheten nevnt i artikkel 26 nr. 1, artikkel 29 nr. 5, artikkel 30 nr. 9 og artikkel 32 nr. 1 kan til enhver tid tilbakekalles av Europaparlamentet eller Rådet. En beslutning om tilbakekalling innebærer at den delegerte myndigheten som angis i nevnte beslutning, opphører å gjelde. Den får virkning dagen etter at den er offentliggjort i *Den europeiske unions tidende*, eller på et senere tidspunkt som er angitt i beslutningen. Den berører ikke gyldigheten av delegerte rettsakter som allerede er trådt i kraft.
 
-4. Før Kommisjonen vedtar en delegert rettsakt, skal Kommisjonen rådføre seg med sakkyndige utnevnt av hver medlemsstat i samsvar med prinsippene fastsatt i den tverrinstitusjonelle avtalen om bedre regelverksutforming av 13. april 2016.
+4\. Før Kommisjonen vedtar en delegert rettsakt, skal Kommisjonen rådføre seg med sakkyndige utnevnt av hver medlemsstat i samsvar med prinsippene fastsatt i den tverrinstitusjonelle avtalen om bedre regelverksutforming av 13. april 2016.
 
-5. Så snart Kommisjonen har vedtatt en delegert rettsakt, skal den underrette Europaparlamentet og Rådet samtidig om dette.
+5\. Så snart Kommisjonen har vedtatt en delegert rettsakt, skal den underrette Europaparlamentet og Rådet samtidig om dette.
 
-6. En delegert rettsakt vedtatt i henhold til artikkel 26 nr. 1, artikkel 29 nr. 5, artikkel 30 nr. 9 og artikkel 32 nr. 1 trer i kraft bare dersom verken Europaparlamentet eller Rådet har gjort innsigelse mot rettsakten innen en frist på to måneder etter at rettsakten ble meddelt Europaparlamentet eller Rådet, eller dersom Europaparlamentet og Rådet innen denne fristen utløper har underrettet Kommisjonen om at de ikke har til hensikt å gjøre innsigelse. Denne fristen kan forlenges med to måneder på initiativ fra Europaparlamentet eller Rådet.
+6\. En delegert rettsakt vedtatt i henhold til artikkel 26 nr. 1, artikkel 29 nr. 5, artikkel 30 nr. 9 og artikkel 32 nr. 1 trer i kraft bare dersom verken Europaparlamentet eller Rådet har gjort innsigelse mot rettsakten innen en frist på to måneder etter at rettsakten ble meddelt Europaparlamentet eller Rådet, eller dersom Europaparlamentet og Rådet innen denne fristen utløper har underrettet Kommisjonen om at de ikke har til hensikt å gjøre innsigelse. Denne fristen kan forlenges med to måneder på initiativ fra Europaparlamentet eller Rådet.
 
 ### Artikkel 62. Komitéframgangsmåte
 
-1. Kommisjonen skal bistås av Den faste komité for avlsspørsmål nedsatt ved beslutning [77/505/EØF](eu/31977d0505). Nevnte komité skal være en komité i henhold til forordning [(EU) nr. 182/2011](eu/32011r0182).
+1\. Kommisjonen skal bistås av Den faste komité for avlsspørsmål nedsatt ved beslutning [77/505/EØF](eu/31977d0505). Nevnte komité skal være en komité i henhold til forordning [(EU) nr. 182/2011](eu/32011r0182).
 
-2. Når det vises til dette nummer, får artikkel 5 i forordning [(EU) nr. 182/2011](eu/32011r0182) anvendelse.Dersom komiteen ikke avgir uttalelse, skal Kommisjonen ikke vedta utkastet til gjennomføringsrettsakt, og artikkel 5 nr. 4 tredje ledd i forordning [(EU) nr. 182/2011](eu/32011r0182) får anvendelse.
+2\. Når det vises til dette nummer, får artikkel 5 i forordning [(EU) nr. 182/2011](eu/32011r0182) anvendelse.Dersom komiteen ikke avgir uttalelse, skal Kommisjonen ikke vedta utkastet til gjennomføringsrettsakt, og artikkel 5 nr. 4 tredje ledd i forordning [(EU) nr. 182/2011](eu/32011r0182) får anvendelse.
 
-3. Når det vises til dette nummer, får artikkel 8, sammenholdt med artikkel 5 i forordning [(EU) nr. 182/2011](eu/32011r0182), anvendelse.
+3\. Når det vises til dette nummer, får artikkel 8, sammenholdt med artikkel 5 i forordning [(EU) nr. 182/2011](eu/32011r0182), anvendelse.
 
 ### Artikkel 63. Overgangstiltak i forbindelse med datoen for vedtakelse av visse gjennomføringsrettsakter
 
@@ -638,7 +850,7 @@ SLUTTBESTEMMELSER
 ### Artikkel 65. Endringer av forordning (EU) nr. 652/2014
 
 I artikkel 30 i forordning [(EU) nr. 652/2014](eu/32014r0652) gjøres følgende endringer:Overskriften skal lyde:
-«EU-referanselaboratorier og -sentre»Nr. 1 skal lyde:Tilskudd kan tildeles til Den europeiske unions referanselaboratorier nevnt i artikkel 32 i forordning [(EF) nr. 882/2004](eu/32004r0882*) og til Den europeiske unions referansesentre nevnt i artikkel 29 i europaparlaments- og rådsforordning [(EU) 2016/1012](eu/32016r1012)* for de kostnadene de pådrar seg ved å gjennomføre arbeidsprogrammene som er godkjent av Kommisjonen.» ______________* Europaparlaments- og rådsforordning [(EU) 2016/1012](eu/32016r1012) om avls- og avstamningsvilkår for avl, handel med og innførsel til Unionen av renrasede avlsdyr, hybridavlsdyr av svin og formeringsmateriale fra dem og om endring av forordning [(EU) nr. 652/2014](eu/32014r0652), rådsdirektiv [89/608/EØF](eu/31989l0608) og [90/425/EØF](eu/31990l0425) og om oppheving av visse rettsakter med hensyn til dyreavl («dyreavlsforordningen») (EUT L 171 av 29.6.2016, s. 66).I nr. 2 skal bokstav a) lyde:utgifter til personale, uansett deres status, som er direkte involvert i den virksomheten som laboratoriene eller sentrene utfører i egenskap av Den europeiske unions referanselaboratorium eller -senter.»
+«EU-referanselaboratorier og -sentre»Nr. 1 skal lyde:Tilskudd kan tildeles til Den europeiske unions referanselaboratorier nevnt i artikkel 32 i forordning [(EF) nr. 882/2004](eu/32004r0882*) og til Den europeiske unions referansesentre nevnt i artikkel 29 i europaparlaments- og rådsforordning [(EU) 2016/1012](eu/32016r1012)\* for de kostnadene de pådrar seg ved å gjennomføre arbeidsprogrammene som er godkjent av Kommisjonen.» ______________\* Europaparlaments- og rådsforordning [(EU) 2016/1012](eu/32016r1012) om avls- og avstamningsvilkår for avl, handel med og innførsel til Unionen av renrasede avlsdyr, hybridavlsdyr av svin og formeringsmateriale fra dem og om endring av forordning [(EU) nr. 652/2014](eu/32014r0652), rådsdirektiv [89/608/EØF](eu/31989l0608) og [90/425/EØF](eu/31990l0425) og om oppheving av visse rettsakter med hensyn til dyreavl («dyreavlsforordningen») (EUT L 171 av 29.6.2016, s. 66).I nr. 2 skal bokstav a) lyde:utgifter til personale, uansett deres status, som er direkte involvert i den virksomheten som laboratoriene eller sentrene utfører i egenskap av Den europeiske unions referanselaboratorium eller -senter.»
 
 ### Artikkel 66. Endringer av direktiv 89/608/EØF
 
@@ -672,6 +884,14 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Strasbourg 8. juni 2016.
 
+|  |  |
+| --- | --- |
+| *For Europaparlamentet* | *For Rådet* |
+|  |  |
+| M. SCHULZ | A.G. KOENDERS |
+|  |  |
+| *President* | *Formann* |
+
 ### VEDLEGG I
 ANERKJENNELSE AV AVLSLAG OG AVLSVIRKSOMHETER OG GODKJENNING AV AVLSPROGRAMMER NEVNT I KAPITTEL II
 
@@ -701,12 +921,24 @@ INNFØRING I STAMBØKER OG REGISTRERING I AVLSREGISTRE NEVNT I KAPITTEL IV
 ### DEL 1
 Innføring av renrasede avlsdyr i stambøker og registrering av dyr i tilleggsavsnitt
 
+###### KAPITTEL I
+
+Innføring av renrasede avlsdyr i hovedavsnittet
+
 1. Kravene nevnt i artikkel 18 nr. 1 er som følger:dyret skal oppfylle følgende kriterier for avstamning:når det gjelder storfe, svin, sau og geit, skal dyret nedstamme fra foreldre og besteforeldre som er innført i hovedavsnittet i en stambok for samme rase,når det gjelder hest, skal dyret nedstamme fra foreldre som er innført i hovedavsnittet i en stambok for samme rase,dyrets avstamning fastlegges i samsvar med reglene angitt i avlsprogrammet som er godkjent i samsvar med artikkel 8 nr. 3, og eventuelt artikkel 12,dyret skal identifiseres i samsvar med Unionens dyrehelseregelverk for identifisering og registrering av dyr av den aktuelle arten og reglene fastsatt i avlsprogrammet som er godkjent i samsvar med artikkel 8 nr. 3, og eventuelt artikkel 12,når det gjelder handel med og innførsel til Unionen av et dyr, og dersom dette dyret er beregnet på å innføres eller registreres for innføring i stamboken, skal dette dyret være ledsaget av et avlssertifikat utstedt i samsvar med artikkel 30,dersom et dyr er framstilt av et formeringsmateriale som selges eller innføres til Unionen, og dersom dette dyret er beregnet på å innføres eller registreres for innføring i stamboken, skal dette formeringsmaterialet være ledsaget av et avlssertifikat utstedt i samsvar med artikkel 30.
 2. Som unntak fra nr. 1 bokstav a) ii) i dette kapittel kan et avlslag som gjennomfører et avlsprogram med renrasede avlsdyr av hest, innføre i hovedavsnittet i sin stambok et renraset avlsdyr av hestsom når det gjelder krysning, er innført i hovedavsnittet i en stambok for en annen rase, dersom denne andre rasen og kriteriene for innføring av dette renrasede avlsdyret er fastsatt i avlsprogrammet som er godkjent i samsvar med artikkel 8 nr. 3, og eventuelt artikkel 12, ellersom når det gjelder avl på grunnlag av avstamning, tilhører en bestemt hingstlinje eller hoppefamilie av en annen rase, dersom disse linjene, familiene og kriteriene for innføring av dette renrasede avlsdyret er fastsatt i avlsprogrammet som er godkjent i samsvar med artikkel 8 nr. 3, og eventuelt artikkel 12.
 3. Utover reglene fastsatt i nr. 1 bokstav c) i dette kapittel skal et avlslag som fører inn i sin stambok et renraset avlsdyr av hest, som allerede er innført i en stambok opprettet av et annet avlslag som gjennomfører et avlsprogram som er godkjent i samsvar med artikkel 8 nr. 3, og eventuelt artikkel 12, føre inn dette renrasede avlsdyret under det identifikasjonsnummeret som det har fått tildelt i henhold til forordning [(EU) 2016/429](eu/32016r0429*), som skal sikre entydighet og kontinuitet i identifiseringen av dette dyret, med mindre et unntak er avtalt mellom de to berørte avlslagene, under samme navn, med angivelse av fødselsstatens kode i samsvar med internasjonale avtaler om den aktuelle rasen.
 
+###### KAPITTEL II
+
+Registrering av dyr i tilleggsavsnitt
+
 1. Vilkårene nevnt i artikkel 20 nr. 1 er som følger:dyret skal identifiseres i samsvar med Unionens dyrehelseregelverk for identifisering og registrering av dyr av den aktuelle arten og reglene fastsatt i avlsprogrammet som er godkjent i samsvar med artikkel 8 nr. 3, og eventuelt artikkel 12,dyret skal være vurdert av avlslaget til å være i samsvar med egenskapene hos rasen nevnt i nr. 1 bokstav c) del 2 i vedlegg I,dyret skal, dersom det er relevant, minst oppfylle minstekravene til ytelse som er fastsatt i det avlsprogrammet som er godkjent i samsvar med artikkel 8 nr. 3, og eventuelt artikkel 12, for de egenskapene renrasede avlsdyr, som innføres i hovedavsnittet, skal prøves for i samsvar med vedlegg III.
 2. Avlslaget kan anvende ulike krav med hensyn til samsvar med rasens egenskaper nevnt i nr. 1 bokstav b) i dette kapittel eller kravene til ytelse nevnt i nr. 1 bokstav c) i dette kapittel, avhengig av om dyrettilhører rasen, selv om dyrets opprinnelse er ukjent, ellerdet stammer fra et krysningsprogram nevnt i avlsprogrammet som er godkjent i samsvar med artikkel 8 nr. 3, og eventuelt artikkel 12.
+
+###### KAPITTEL III
+
+Oppgradering av avkommet til dyr som er registrert i tilleggsavsnittene til hovedavsnittet
 
 1. Vilkårene nevnt i artikkel 20 nr. 2 er som følger:for storfe, svin, sau og geit skal hunndyret være avkom aven mor og en mormor som er innført i et tilleggsavsnitt i en stambok for samme rase, som fastsatt i artikkel 20 nr. 1,en far og to bestefedre som er innført i hovedavsnittet i en stambok for den samme rasen.Den første generasjonen av avkom fra det hunndyret som er nevnt i innledningen til første ledd, og et renraset avlsdyr av hanndyr som er innført i hovedavsnittet i stamboken for den samme rasen, anses også som et renraset avlsdyr og skal innføres i eller registreres og er berettiget til å bli innført i hovedavsnittet i denne stamboken,for dyr av hestefamilien skal dyret oppfylle vilkårene for innføring i hovedavsnittet for hann- og hunndyr som stammer fra dyr som er registrert i tilleggsavsnittet i avlsprogrammet som er godkjent i samsvar med artikkel 8 nr. 3, og eventuelt artikkel 12.
 2. Som unntak fra nr. 1 i dette kapittel og nr. 1 bokstav a) i) i kapittel I kan en medlemsstat, eller dersom den beslutter det, dens vedkommende myndighet nevnt i artikkel 4 nr. 3, tillate at et avlslag som gjennomfører et avlsprogram med renrasede avlsdyr av en utryddelsestruet rase av storfe, svin, sau eller geit eller en «hardføre» rase av sau, innfører i sin stamboks hovedavsnitt et dyr som nedstammer fra foreldre og besteforeldre, som er innført eller registrert i hovedavsnittet eller i tilleggsavsnittene i en stambok for denne rasen.En medlemsstat, eller dersom den beslutter det, dens vedkommende myndighet som tillater at et avlslag benytter seg av dette unntaket, skal sikre atdette avlslaget har begrunnet behovet for å gjøre bruk av dette unntaket, særlig ved å påvise mangelen på renrasede avlsdyr av hanndyr av denne rasen for avlsformål,dette avlslaget har opprettet et eller flere tilleggsavsnitt i sin stambok,de reglene som avlslaget benytter for å innføre eller registrere dyr i hovedavsnittet eller i tilleggsavsnittene i denne stamboken, er fastsatt i avlsprogrammet som er godkjent i samsvar med artikkel 8 nr. 3, og eventuelt artikkel 12.Medlemsstater som benytter seg av dette unntaket, skal offentliggjøre de rasene som det er gitt et slikt unntak for i listen nevnt i artikkel 7.
@@ -715,6 +947,8 @@ Innføring av renrasede avlsdyr i stambøker og registrering av dyr i tilleggsav
 Registrering av hybridavlsdyr av svin i avlsregistre
 
 Kravene nevnt i artikkel 23 er som følger:hybridavlsdyr av svin skal nedstamme fra foreldre og besteforeldre som er innført i stambøker eller registrert i avlsregistre,hybridavlsdyret av svin skal identifiseres etter fødselen i samsvar med Unionens dyrehelseregelverk for identifisering og registrering av dyr av svin og reglene fastsatt i avlsprogrammet som er godkjent i samsvar med artikkel 8 nr. 3, og eventuelt artikkel 12,hybridavlsdyret av svin skal ha en avstamning som er fastlagt i samsvar med reglene i avlsprogrammet som er godkjent i samsvar med artikkel 8 nr. 3, og eventuelt artikkel 12,hybridavlsdyret av svin skal, dersom det kreves, ledsages av et avlssertifikat utstedt i samsvar med artikkel 30.
+
+__________
 
 ### VEDLEGG III
 INDIVIDGRANSKING OG AVLSVERDIVURDERING NEVNT I ARTIKKEL 25
@@ -751,6 +985,8 @@ Krav til avlsverdivurdering
 9. Genomisk vurderte hanndyr av renrasede avlsdyr av storfe skal anses som egnede for kunstig sædoverføring dersom den genomiske vurderingen av dem ervalidert i samsvar med metodene nevnt i del 1 for hver egenskap som er genomisk vurdert,regelmessig validert på nytt for hver av disse egenskapene, og når som helst når det skjer store endringer i den genomiske vurderingen, avlsverdivurderingen eller referansepopulasjonen.
 10. Avlslaget eller avlsvirksomheten, eller på anmodning fra dette avlslaget eller denne avlsvirksomheten, den tredjemann som er utpekt av det aktuelle avlslaget eller den aktuelle avlsvirksomheten i samsvar med artikkel 27 nr. 1 bokstav b), skal gjøre opplysninger om genetiske defekter og genetiske særegenheter hos avlsdyr knyttet til avlsprogrammet, offentlig tilgjengelige.
 
+__________
+
 ### VEDLEGG IV
 EU-REFERANSESENTRE NEVNT I ARTIKKEL 29
 
@@ -769,6 +1005,10 @@ Overskriften på avlssertifikatet skalangi om dyret er et renraset avlsdyr eller
 ### DEL 2
 Avlssertifikater for renrasede avlsdyr og formeringsmateriale fra dem
 
+###### KAPITTEL I
+
+Avlssertifikater nevnt i artikkel 30 for renrasede avlsdyr
+
 1. Avlssertifikatene nevnt i artikkel 30 for renrasede avlsdyr skal inneholde følgende opplysninger:navnet på utstedende avlslag eller, dersom det gjelder innførsel til Unionen av renrasede avlsdyr, navnet på utstedende avlsorgan og eventuelt en henvisning til nettstedet til dette avlslaget eller avlsorganet,stambokens navn,dersom det er relevant, den klassen i hovedavsnittet der det renrasede avlsdyret er innført,navnet på rasen til det renrasede avlsdyret,kjønnet til det renrasede avlsdyret,nummeret som det renrasede avlsdyret er innført med i stamboken («stamboknummer»),systemet for identifisering og det individuelle identifikasjonsnummeret som det renrasede avlsdyret er tildelt i henhold tilUnionens dyrehelseregelverk for identifisering og registrering av dyr av den berørte arten,reglene for avlsprogrammet som er godkjent i samsvar med artikkel 8 nr. 3, og eventuelt artikkel 12, dersom det ikke finnes noe dyrehelseregelverk i Unionen for identifisering og registrering av dyr som har krav på et individuelt identifikasjonsnummer, eller iii) lovgivningen i tredjestaten, når det gjelder innførsel til Unionen av det renrasede avlsdyret,dersom det kreves i samsvar med artikkel 22 nr. 1 og 2, den metoden som er benyttet for å kontrollere identiteten til renrasede avlsdyr som brukes til oppsamling av sæd, oocytter og embryoer, og resultatene av kontrollen av denne identiteten, i) det renrasede avlsdyrets fødselsdato og fødselsstat,oppdretterens navn, adresse og eventuelt e-postadresse (fødestedet til det renrasede avlsdyret),eierens navn og adresse og eventuelt e-postadresse,avstamning:Far
 Stamboknummer og avsnittFarfar
 Stamboknummer og avsnittFarmor
@@ -778,14 +1018,30 @@ Stamboknummer og avsnittMormor
 Stamboknummer og avsnitttilgjengelige resultater av individgransking og oppdaterte resultater av avlsverdivurderingen, herunder datoen for denne vurderingen og genetiske defekter og genetiske særegenheter i forhold til avlsprogrammet som påvirker det renrasede avlsdyret selv,for drektige hunndyr, datoen for sædoverføring eller bedekning og identiteten på det hanndyret som er brukt til befruktningen, som kan angis i et eget dokument,avlssertifikatets utstedelsesdato og -sted samt navn, stilling og underskrift for den personen som har fått fullmakt til å underskrive dette sertifikatet av det utstedende avlslaget, eller, dersom det gjelder innførsel av et renraset avlsdyr til Unionen, av det utstedende avlsorganet; denne personen skal være en representant for dette avlslaget eller avlsorganet, eller en representant for en vedkommende myndighet, som nevnt i artikkel 30 nr. 2 bokstav b).
 2. Dersom avlssertifikater utstedes for en gruppe av renrasede avlsdyr av svin, kan opplysningene nevnt i nr. 1 i dette kapittel angis i ett enkelt avlssertifikat, forutsatt at disse renrasede avlsdyrene har den samme alderen og den samme genetiske moren og faren.
 
+###### ***KAPITTEL II***
+
+Avlssertifikater nevnt i artikkel 30 for sæd fra renrasede avlsdyr
+
 Avlssertifikatene nevnt i artikkel 30 for sæd fra renrasede avlsdyr skal inneholde følgende opplysninger:alle opplysningene nevnt i kapittel I i denne delen om det renrasede avlsdyret som sæden stammer fra,opplysninger som gjør det mulig å identifisere sæden, antall doser som skal sendes, oppsamlingssted og -dato for sæden, sædstasjonens eller sædlagerets navn, adresse og godkjenningsnummer, samt mottakerens navn og adresse,for sæd som er beregnet på testing av renrasede avlsdyr som ikke har gjennomgått individgransking eller avlsverdivurdering, antall doser av denne sæden som skal være i samsvar med de mengdebegrensningene som er nevnt i artikkel 21 nr. 1 bokstav g), navn og adresse på avlslaget, eller på den tredjemannen som er utpekt av dette avlslaget i samsvar med artikkel 27 nr. 1 bokstav b), og som har ansvaret for å gjennomføre denne testingen i samsvar med artikkel 25,avlssertifikatets utstedelsesdato og -sted samt navn, stilling og underskrift for den personen som har fått fullmakt til å underskrive dette sertifikatet av det utstedende avlslaget, eller, dersom det gjelder innførsel av sæd til Unionen, av det utstedende avlsorganet; denne personen skal være en representant for dette avlslaget eller dette avlsorganet eller en aktør som nevnt i artikkel 31 nr. 1 eller artikkel 33 nr. 1, eller en representant for en vedkommende myndighet, som nevnt i artikkel 30 nr. 2 bokstav b).
 
+###### KAPITTEL III
+
+Avlssertifikater nevnt i artikkel 30 for oocytter fra renrasede avlsdyr
+
 Avlssertifikatene nevnt i artikkel 30 for oocytter fra renrasede avlsdyr skal inneholde følgende opplysninger:alle opplysningene nevnt i kapittel I i denne delen om donorhunndyr som oocyttene stammer fra,opplysninger som gjør det mulig å identifisere oocyttene, antall strå, oppsamlingssted og -dato for oocyttene, embryooppsamlingsgruppens eller embryoproduksjonsgruppens navn, adresse og godkjenningsnummer, samt mottakerens navn og adresse,dersom det finnes flere enn én oocytt i et strå, en tydelig angivelse av antall oocytter som er oppsamlet fra samme renrasede avlsdyr,avlssertifikatets utstedelsesdato og -sted samt navn, stilling og underskrift for den personen som har fått fullmakt til å underskrive dette sertifikatet av det utstedende avlslaget, eller, dersom det gjelder innførsel av oocytter til Unionen, av det utstedende avlsorganet; denne personen skal være en representant for dette avlslaget eller avlsorganet eller en aktør som nevnt i artikkel 31 nr. 1 eller artikkel 33 nr. 1, eller en representant for en vedkommende myndighet, som nevnt i artikkel 30 nr. 2 bokstav b).
+
+###### KAPITTEL IV
+
+Avlssertifikater nevnt i artikkel 30 for embryoer fra renrasede avlsdyr
 
 Avlssertifikatene nevnt i artikkel 30 for embryoer fra renrasede avlsdyr skal inneholde følgende opplysninger:alle opplysningene nevnt i kapittel I i denne delen om donorhunndyr og hanndyret som er brukt til befruktningen,opplysninger som gjør det mulig å identifisere embryoene, antall strå, oppsamlingssted og -dato for embryoene, embryooppsamlingsgruppens eller embryoproduksjonsgruppens navn, adresse og godkjenningsnummer, samt mottakerens navn og adresse,dersom det finnes flere enn ett embryo i et strå, en tydelig angivelse av antall embryoer som har samme foreldre,avlssertifikatets utstedelsesdato og -sted samt navn, stilling og underskrift for den personen som har fått fullmakt til å underskrive dette sertifikatet av det utstedende avlslaget, eller, dersom det gjelder innførsel av embryoer til Unionen, av det utstedende avlsorganet; denne personen skal være en representant for dette avlslaget eller avlsorganet eller en aktør som nevnt i artikkel 31 nr. 1 eller artikkel 33 nr. 1, eller en representant for en vedkommende myndighet, som nevnt i artikkel 30 nr. 2 bokstav b).
 
 ### DEL 3
 Avlssertifikater nevnt i artikkel 30 for hybridavlsdyr av svin og formeringsmateriale fra dem
+
+###### KAPITTEL I
+
+Avlssertifikater for hybridavlsdyr av svin
 
 1. Avlssertifikatene nevnt i artikkel 30 for hybridavlsdyr av svin skal inneholde følgende opplysninger:navnet på utstedende avlsvirksomhet, dersom det gjelder innførsel til Unionen av hybridavlsdyr av svin, navnet på avlsorganet og eventuelt en henvisning til nettstedet til denne avlsvirksomheten eller dette avlsorganet,avlsregisterets navn,navnet på rasen, linjen eller krysningen for hybridavlsdyret av svin og dets foreldre og besteforeldre,kjønnet til hybridavlsdyret av svin,nummeret som hybridavlsdyret av svin er registrert med i avlsregisteret («avlsregisternummer»),systemet for identifisering og det individuelle identifikasjonsnummeret som hybridavlsdyret av svin er tildelt i henhold tilUnionens dyrehelseregelverk for identifisering og registrering av svin,reglene for avlsprogrammet som er godkjent i samsvar med artikkel 8 nr. 3, og eventuelt artikkel 12, dersom det ikke finnes noe dyrehelseregelverk i Unionen for identifisering og registrering av dyr som har krav på et individuelt identifikasjonsnummer, ellerlovgivningen i tredjestaten, når det gjelder innførsel til Unionen av hybridavlsdyret av svin,dersom det kreves i samsvar med artikkel 22 nr. 2, den metoden som er benyttet for å kontrollere identiteten til hybridavlsdyret av svin, og resultatene av kontrollen av denne identiteten,fødselsdatoen og fødselsstaten til hybridavlsdyret av svin,oppdretterens navn, adresse og eventuelt e-postadresse (fødestedet til hybridavlsdyret av svin),eierens navn og adresse og eventuelt e-postadresse,avstamning:Far
 Avlsregisternummer
@@ -802,9 +1058,21 @@ Avlsregisternummer
 Rase, linje eller krysningdersom det kreves i avlsprogrammet, resultater av individgransking eller oppdaterte resultater av avlsverdivurderingen eller begge, herunder datoen for denne vurderingen og genetiske defekter og genetiske særegenheter i forhold til avlsprogrammet som påvirker hybridavlsdyret av svin selv, eller, i det omfanget det er kjent, dets avkom,for drektige hunndyr, opplysninger om datoen for sædoverføring eller bedekning samt identiteten på det hanndyret som er brukt til befruktningen, som kan angis i et eget dokument,avlssertifikatets utstedelsesdato og -sted samt navn, stilling og underskrift for den personen som har fått fullmakt til å underskrive dette sertifikatet av den utstedende avlsvirksomheten, eller, dersom det gjelder innførsel av et hybridavlsdyr av svin til Unionen, av det utstedende avlsorganet; denne personen skal være en representant for denne avlsvirksomheten eller dette avlsorganet, eller en representant for en vedkommende myndighet, som nevnt i artikkel 30 nr. 2 bokstav b).
 2. Dersom avlssertifikater utstedes for en gruppe av hybridavlsdyr av svin, kan opplysningene nevnt i nr. 1 i dette kapittel angis i ett enkelt avlssertifikat, forutsatt at disse hybridavlsdyrene av svin har den samme alderen og den samme genetiske moren og faren.
 
+###### KAPITTEL II
+
+Avlssertifikater nevnt i artikkel 30 for sæd fra hybridavlsdyr av svin
+
 Avlssertifikatene nevnt i artikkel 30 for sæd fra hybridavlsdyr av svin skal inneholde følgende opplysninger:alle opplysningene nevnt i kapittel I i denne delen om det hybridavlsdyret av svin som sæden kommer fra,opplysninger som gjør det mulig å identifisere sæden, antall doser, oppsamlingssted og -dato for sæden, sædstasjonens eller sædlagerets navn, adresse og godkjenningsnummer, samt mottakerens navn og adresse,for sæd som er beregnet på individgransking eller avlsverdivurdering av hybridavlsdyr av svin, som ikke har gjennomgått en slik individgransking eller avlsverdivurdering, antall doser av denne sæden som skal være i samsvar med de mengdebegrensningene som er nevnt i artikkel 24 nr. 1 bokstav d), navn og adresse på avlsvirksomheten, eller på den tredjemannen som er utpekt av denne avlsvirksomheten i samsvar med artikkel 27 nr. 1 bokstav b), og som har ansvaret for å gjennomføre denne testingen i samsvar med artikkel 25,avlssertifikatets utstedelsesdato og -sted samt navn, stilling og underskrift for den personen som har fått fullmakt til å underskrive dette sertifikatet av den utstedende avlsvirksomheten, eller, dersom det gjelder innførsel av sæd til Unionen, av det utstedende avlsorganet; denne personen skal være en representant for denne avlsvirksomheten eller dette avlsorganet eller en aktør som nevnt i artikkel 31 nr. 1 eller artikkel 33 nr. 1, eller en representant for en vedkommende myndighet, som nevnt i artikkel 30 nr. 2 bokstav b).
 
+###### KAPITTEL III
+
+Avlssertifikater nevnt i artikkel 30 for oocytter fra hybridavlsdyr av svin
+
 Avlssertifikatene nevnt i artikkel 30 for oocytter fra hybridavlsdyr av svin skal inneholde følgende opplysninger:alle opplysningene nevnt i kapittel I i denne delen om donorhunndyr som oocyttene stammer fra,opplysninger som gjør det mulig å identifisere oocyttene, antall strå, oppsamlingsdato for oocyttene, embryooppsamlingsgruppens eller embryoproduksjonsgruppens navn, adresse og godkjenningsnummer, samt mottakerens navn og adresse,dersom det finnes flere enn én oocytt i et strå, en tydelig angivelse av antall oocytter som er oppsamlet fra samme hybridavlsdyr av svin,avlssertifikatets utstedelsesdato og -sted samt navn, stilling og underskrift for den personen som har fått fullmakt til å underskrive dette sertifikatet av den utstedende avlsvirksomheten, eller, dersom det gjelder innførsel av oocytter til Unionen, av det utstedende avlsorganet; denne personen skal være en representant for denne avlsvirksomheten eller dette avlsorganet eller en aktør som nevnt i artikkel 31 nr. 1 eller artikkel 33 nr. 1, eller en representant for en vedkommende myndighet, som nevnt i artikkel 30 nr. 2 bokstav b).
+
+###### KAPITTEL IV
+
+Avlssertifikater nevnt i artikkel 30 for embryoer fra hybridavlsdyr av svin
 
 Avlssertifikatene nevnt i artikkel 30 for embryoer fra hybridavlsdyr av svin skal inneholde følgende opplysninger:alle opplysningene nevnt i kapittel I i denne delen om donorhunndyr og hanndyret som er brukt til befruktningen,opplysninger som gjør det mulig å identifisere embryoene, antall strå, oppsamlingssted og -dato for oocyttene, embryooppsamlingsgruppens eller embryoproduksjonsgruppens navn, adresse og godkjenningsnummer, samt mottakerens navn og adresse,dersom det finnes flere enn én embryo i et strå, en tydelig angivelse av antall embryoer som har samme foreldre,avlssertifikatets utstedelsesdato og -sted samt navn, stilling og underskrift for den personen som har fått fullmakt til å underskrive dette sertifikatet av den utstedende avlsvirksomheten, eller, dersom det gjelder innførsel av embryoer til Unionen, av det utstedende avlsorganet; denne personen skal være en representant for denne avlsvirksomheten eller dette avlsorganet eller en aktør som nevnt i artikkel 31 nr. 1 eller artikkel 33 nr. 1, eller en representant for en vedkommende myndighet, som nevnt i artikkel 30 nr. 2 bokstav b).
 
@@ -841,8 +1109,179 @@ TERRITORIER NEVNT I ARTIKKEL 2 NR. 21
 - Det forente kongerike Storbritannia og Nord-Irlands territorium
 - ►**EØS** 29. Kongeriket Norges territorium, unntatt Svalbard.◄**EØS**
 
+_________
+
 ### VEDLEGG VII
 SAMMENLIGNINGSTABELL
+
+|  |  |
+| --- | --- |
+| Rådsdirektiv [2009/157/EF](eu/32009l0157) | Denne forordning |
+| Artikkel 1 | Artikkel 2 nr. 9 og 12 |
+| Artikkel 2 bokstav a), b) og e) | Artikkel 3 nr. 1 |
+| Artikkel 2 bokstav c) | Artikkel 8 nr. 3 |
+| Artikkel 2 bokstav d) | Artikkel 4 nr. 3 |
+| Artikkel 3 | Artikkel 18 nr. 1 |
+| Artikkel 4 nr. 1 | Artikkel 7 nr. 1 |
+| Artikkel 4 nr. 2 | Artikkel 7 nr. 5 |
+| Artikkel 5 | Artikkel 30 nr. 1, artikkel 30 nr. 4 første ledd, artikkel 30 nr. 6 og vedlegg II del 1 kapittel I nr. 1 bokstav d) |
+| Artikkel 6 bokstav a) | Artikkel 26 nr. 1 og vedlegg III |
+| Artikkel 6 bokstav b) | Del 1 i vedlegg I |
+| Artikkel 6 bokstav c) | Del 2 i vedlegg I |
+| Artikkel 6 bokstav d) | Del 1 i vedlegg II |
+| Artikkel 6 bokstav e) | Artikkel 30 nr. 9 og 10 og vedlegg V |
+| Artikkel 7 nr. 1 | Artikkel 62 nr. 1 |
+| Artikkel 7 nr. 2 | Artikkel 62 nr. 2 |
+| Artikkel 8 | – |
+| Artikkel 9 | – |
+| Artikkel 10 | – |
+| Rådsdirektiv [2009/157/EF](eu/32009l0157) | Denne forordning |
+| Artikkel 11 | – |
+
+|  |  |
+| --- | --- |
+| Rådsdirektiv [87/328/EØF](eu/31987l0328) | Denne forordning |
+| Artikkel 1 | Artikkel 21 nr. 1 |
+| Artikkel 2 nr. 1 | Artikkel 21 nr. 4 |
+| Artikkel 2 nr. 2 | Artikkel 12 og 13 |
+| Artikkel 2 nr. 3 | – |
+| Artikkel 3 | Artikkel 22 nr. 1 og 3 |
+| Artikkel 4 | Artikkel 21 nr. 5 |
+| Artikkel 5 | Artikkel 29 nr. 1 |
+| Artikkel 6 | – |
+| Artikkel 7 | – |
+
+|  |  |
+| --- | --- |
+| Rådsvedtak [96/463/EF](eu/31996d0463) | Denne forordning |
+| Artikkel 1 nr. 1 | Artikkel 29 nr. 1 |
+| Artikkel 1 nr. 2 | Artikkel 29 nr. 4 bokstav a) og b) i) |
+| Artikkel 2 | – |
+| Vedlegg II | Vedlegg IV nr. 1 og 2 |
+
+|  |  |
+| --- | --- |
+| Rådsdirektiv [88/661/EØF](eu/31988l0661) | Denne forordning |
+| Artikkel 1 | Artikkel 2 nr. 9, 10, 12 og 17 |
+| Artikkel 2 nr. 1 | Artikkel 3 nr. 1, artikkel 4 nr. 3 og artikkel 8 nr. 3 |
+| Artikkel 2 nr. 2 | – |
+| Artikkel 3 | Artikkel 21 nr. 2 |
+| Artikkel 4 nr. 1 | Artikkel 18 nr. 1 |
+| Artikkel 4 nr. 2 | Artikkel 64 nr. 7 |
+| Artikkel 4a første ledd | Artikkel 7 nr. 1 |
+| Artikkel 4a annet ledd | Artikkel 7 nr. 5 |
+| Artikkel 5 | Artikkel 30 nr. 1, artikkel 30 nr. 4 første ledd, artikkel 30 nr. 6 og vedlegg II del 1 kapittel I nr. 1 bokstav d) |
+| Artikkel 6 nr. 1 | Artikkel 30 nr. 9 og 10, vedlegg I del 1 og 2, vedlegg II del<br>1, vedlegg III og vedlegg V |
+| Artikkel 6 nr. 2 | – |
+| Artikkel 7 nr. 1 | Artikkel 3 nr. 1, artikkel 4 nr. 3 og artikkel 8 nr. 3 |
+| Artikkel 7 nr. 2 | Artikkel 1 nr. 3 |
+| Artikkel 7a | Artikkel 7 nr. 1 og 5 |
+| Artikkel 8 | Artikkel 25 nr. 2 |
+| Artikkel 9 | Artikkel 30 nr. 1, artikkel 30 nr. 4 første ledd, artikkel 30 nr. 6 og vedlegg II del 2 nr. 1 bokstav d) |
+| Artikkel 10 nr. 1 | Artikkel 30 nr. 9 og 10, vedlegg I del 1 og 2, vedlegg II del<br>2, vedlegg III og vedlegg V |
+| Rådsdirektiv [88/661/EØF](eu/31988l0661) | Denne forordning |
+| Artikkel 10 nr. 2 | – |
+| Artikkel 11 nr. 1 | Artikkel 62 nr. 1 |
+| Artikkel 11 nr. 2 | Artikkel 62 nr. 2 |
+| Artikkel 11 nr. 3 | Artikkel 62 nr. 2 |
+| Artikkel 12 | Artikkel 1 nr. 3 |
+| Artikkel 13 | – |
+| Artikkel 14 | – |
+
+|  |  |
+| --- | --- |
+| Rådsdirektiv [90/118/EØF](eu/31990l0118) | Denne forordning |
+| Artikkel 1 | Artikkel 21 nr. 1 |
+| Artikkel 2 nr. 1 | Artikkel 21 nr. 4 |
+| Artikkel 2 nr. 2 | Artikkel 12 og 13 og artikkel 28 nr. 2 |
+| Artikkel 2 nr. 3 | Artikkel 14 og artikkel 28 nr. 2 |
+| Artikkel 3 | Artikkel 21 nr. 5 |
+| Artikkel 4 | Artikkel 62 nr. 1 |
+| Artikkel 5 | – |
+| Artikkel 6 | – |
+
+|  |  |
+| --- | --- |
+| Rådsdirektiv [90/119/EØF](eu/31990l0119) | Denne forordning |
+| Artikkel 1 | Artikkel 24 nr. 1 artikkel 25 |
+| Rådsdirektiv [90/119/EØF](eu/31990l0119) | Denne forordning |
+| Artikkel 2 | Artikkel 24 nr. 3 |
+| Artikkel 3 | – |
+| Artikkel 4 | – |
+
+|  |  |
+| --- | --- |
+| Rådsdirektiv [89/361/EØF](eu/31989l0361) | Denne forordning |
+| Artikkel 1 nr. 1 | Artikkel 1 nr. 1 |
+| Artikkel 1 nr. 2 | Artikkel 1 nr. 3 |
+| Artikkel 2 | Artikkel 2 nr. 9 og 12 |
+| Artikkel 3 nr. 1 | Artikkel 3 nr. 1, artikkel 4 nr. 3 og artikkel 8 nr. 3 |
+| Artikkel 3 nr. 2 | Artikkel 1 nr. 3 |
+| Artikkel 4 | Vedlegg I del 1 og 2, vedlegg II del 1, vedlegg III |
+| Artikkel 5 | Artikkel 7 nr. 1 og 5 |
+| Artikkel 6 | Artikkel 30 nr. 1, artikkel 30 nr. 4 første ledd, artikkel 30 nr. 6 og vedlegg II del 1 kapittel I nr. 1 bokstav d) |
+| Artikkel 7 | Artikkel 1 nr. 3 |
+| Artikkel 8 | Artikkel 62 nr. 1 |
+| Artikkel 9 | – |
+| Artikkel 10 | – |
+
+|  |  |
+| --- | --- |
+| Rådsdirektiv [90/427/EØF](eu/31990l0427*) | Denne forordning |
+| Artikkel 1 | Artikkel 1 nr. 1 |
+| Artikkel 2 | Artikkel 2 nr. 9 og 12 |
+| Artikkel 3 første ledd | Artikkel 3 nr. 1 |
+| Artikkel 3 annet ledd | Artikkel 1 nr. 3 |
+| Artikkel 4 nr. 1 bokstav a) | Del 1 og 3 i vedlegg I |
+| Artikkel 4 nr. 1 bokstav b) | Vedlegg II del 1 kapittel I nr. 1 bokstav c) |
+| Artikkel 4 nr. 2 | Artikkel 4 nr. 3, artikkel 19 nr. 4, artikkel 33, artikkel 34 nr. 1 bokstav c), artikkel 30 nr. 9 og 10, artikkel 32, vedlegg I, vedlegg II del 1, vedlegg V |
+| Artikkel 5 | Artikkel 7 nr. 1 og 5 |
+| Artikkel 6 | Vedlegg II del 1 kapittel I nr. 3 |
+| Artikkel 7 | Vedlegg II del 1 og vedlegg III del 1 |
+| Artikkel 8 nr. 1 | Vedlegg I del 1 kapittel I nr. 1 bokstav c) |
+| Artikkel 8 nr. 2 | Artikkel 30 nr. 1, artikkel 30 nr. 4 første ledd, artikkel 30 nr. 6, artikkel 32 og vedlegg II del 1 kapittel I nr. 1 bokstav d) |
+| Artikkel 9 | Artikkel 1 nr. 3 |
+| Artikkel 10 | Artikkel 62 nr. 1 |
+| Artikkel 11 | – |
+| Artikkel 12 | – |
+| Rådsdirektiv [90/427/EØF](eu/31990l0427*) | Denne forordning |
+| Vedlegg | – |
+
+|  |  |
+| --- | --- |
+| Rådsdirektiv [91/174/EØF](eu/31991l0174) | Denne forordning |
+| Artikkel 1 | Artikkel 2 |
+| Artikkel 2 | Artikkel 3, artikkel 35 nr. 1 og artikkel 45 nr. 1 |
+| Artikkel 3 | – |
+| Artikkel 4 | – |
+| Artikkel 5 | – |
+| Artikkel 6 | – |
+| Artikkel 7 | – |
+| Artikkel 8 | – |
+
+|  |  |
+| --- | --- |
+| Rådsdirektiv [94/28/EF](eu/31994l0028*) | Denne forordning |
+| Artikkel 1 nr. 1 | Artikkel 1 nr. 1 |
+| Artikkel 1 nr. 2 | – |
+| Artikkel 1 nr. 3 | – |
+| Artikkel 1 nr. 4 | Artikkel 3 nr. 1 og artikkel 36 nr. 2 |
+| Artikkel 2 | Artikkel 2 |
+| Artikkel 3 | Artikkel 34 |
+| Rådsdirektiv [94/28/EF](eu/31994l0028*) | Denne forordning |
+| Artikkel 4 | Artikkel 36 nr. 1 bokstav a), c) og d) og artikkel 37 nr. 1 bokstav a) |
+| Artikkel 5 | Artikkel 36 nr. 1 bokstav b) og d) |
+| Artikkel 6 | Artikkel 36 nr. 1 bokstav b) og d) |
+| Artikkel 7 | Artikkel 36 nr. 1 bokstav b) og d) |
+| Artikkel 8 | Artikkel 39 nr. 2 |
+| Artikkel 9 nr. 1 og 2 | Artikkel 37 nr. 1 bokstav b) og nr. 2 |
+| Artikkel 9 nr. 3 | – |
+| Artikkel 10 | Artikkel 57 og 60 |
+| Artikkel 11 | – |
+| Artikkel 12 | Artikkel 62 nr. 1 |
+| Artikkel 13 | – |
+| Artikkel 14 | – |
+| Artikkel 15 | – |
 
 ### Forordning [(EU) 2017/1422](eu/32017r1422) om utpeking av EUs referansesenter for individgranskning og avlsverdivurdering av storfe
 
@@ -854,6 +1293,14 @@ Kommisjonens gjennomføringsforordning [(EU) 2017/1422](eu/32017r1422) av 4. aug
 av 4. august 2017
 om utpeking av EU-referansesenteret med ansvar for det vitenskapelige og tekniske bidraget til harmoniseringen og forbedringen av metodene for individgransking og avlsverdivurdering av renrasede avlsdyr av storfe
 
+EUROPAKOMMISJONEN HAR –
+
+under henvisning til [traktaten om Den europeiske unions virkemåte](eu/12016e),
+
+under henvisning til europaparlaments- og rådsforordning [(EU) nr. 2016/1012](eu/32016r1012) av 8. juni 2016 om avls- og avstamningsvilkår for avl, handel med og innførsel til Unionen av renrasede avlsdyr, hybridavlsdyr av svin og formeringsmateriale fra dem og om endring av forordning [(EU) nr. 652/2014](eu/32014r0652), rådsdirektiv [89/608/EØF](eu/31989l0608) og [90/425/EØF](eu/31990l0425) og om oppheving av visse rettsakter med hensyn til dyreavl («dyreavlsforordningen»)1, særlig artikkel 29 nr. 1, og
+
+ut fra følgende betraktninger:
+
 1. På møtet i Kommisjonens arbeidsgruppe for avlsspørsmål 15. November 2016 ga sakkyndige fra medlemsstatene uttrykk for et fortsatt behov for å fremme harmoniseringen og forbedringen av de metodene for individgransking og avlsverdivurdering av renrasede avlsdyr av storfe som brukes av avlslag eller av tredjemann utpekt av disse avlslagene.
 2. Kommisjonen har i samsvar med artikkel 29 nr. 3 i forordning [(EU) nr. 2016/1012](eu/32016r1012) gjennomført en offentlig prosess med henblikk på utvelging og utpeking av EU-referansesenteret som med ansvar for det vitenskapelige og tekniske bidraget til harmoniseringen og forbedringen av metodene i forbindelse med renrasede avlsdyr av storfe.
 3. Evaluerings- og utvelgingsrådet nedsatt for nevnte prosess konkluderte med at «Interbull Centre» oppfyller kravene fastsatt i nr. 1 i vedlegg IV til forordning [(EU) 2016/1012](eu/32016r1012) og kan være ansvarlig for oppgavene angitt i nr. 2 i nevnte vedlegg.
@@ -861,9 +1308,21 @@ om utpeking av EU-referansesenteret med ansvar for det vitenskapelige og teknisk
 5. Denne forordning bør få anvendelse fra 1. november 2018 i samsvar med anvendelsesdatoen fastsatt i artikkel 69 i [forordning (EU) 2016/1012](eu/32016r1012).
 6. Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for avlsspørsmål –
 
+1 EUT L 171 av 29.6.2016, s. 66.
+
+VEDTATT DENNE FORORDNING:
+
 ### Artikkel 1
 
 Følgende senter skal utpekes som EU-referansesenteret med ansvar for det vitenskapelige og tekniske bidraget til harmoniseringen og forbedringen av metodene for individgransking og avlsverdivurdering av renrasede avlsdyr av storfe:
+
+Interbull Centre
+Institutionen för husdjursgenetik
+Sveriges lantbruksuniversitet (SLU)
+Ulls väg 26
+Box 7023
+SE-750 07 Uppsala
+Sverige
 
 ### Artikkel 2
 
@@ -871,11 +1330,7 @@ Denne forordning trer i kraft den 20. dagen etter at den er kunngjort i *Den eur
 
 Den får anvendelse fra 1. november 2018.
 
-Denne forordning er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
-
-Utferdiget i Brussel 4. august 2017.
-
-*For Kommisjonen*Jean-Claude Juncker*President*
+Denne forordning er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.Utferdiget i Brussel 4. august 2017.*For Kommisjonen*Jean-Claude Juncker*President*
 
 ### Forordning [(EU) 2017/716](eu/32017r0716) om standardskjema for lister over anerkjente avlslag og avlsvirksomheter
 
@@ -887,6 +1342,14 @@ Kommisjonens gjennomføringsforordning [(EU) 2017/716](eu/32017r0716) av 10. apr
 av 10. april 2017
 om fastsettelse av regler for anvendelse av europaparlaments- og rådsforordning [(EU) 2016/1012](eu/32016r1012) med hensyn til standardskjemaene som skal brukes til opplysninger som skal inngå i listene over anerkjente avlslag og avlsvirksomheter
 
+EUROPAKOMMISJONEN HAR –
+
+under henvisning til [traktaten om Den europeiske unions virkemåte](eu/12016e),
+
+under henvisning til europaparlaments- og rådsforordning [(EU) nr. 2016/1012](eu/32016r1012) av 8. juni 2016 om avls- og avstamningsvilkår for avl, handel med og innførsel til Unionen av renrasede avlsdyr, hybridavlsdyr av svin og formeringsmateriale fra dem og om endring av forordning [(EU) nr. 652/2014](eu/32014r0652), rådsdirektiv [89/608/EØF](eu/31989l0608) og [90/425/EØF](eu/31990l0425) og om oppheving av visse rettsakter med hensyn til dyreavl («dyreavlsforordningen»)1, særlig artikkel 7 nr. 5, og
+
+ut fra følgende betraktninger:
+
 1. I artikkel 7 nr. 1 i forordning [(EU) 2016/1012](eu/32016r1012) er det fastsatt at medlemsstatene skal utarbeide og oppdatere en liste over avlslag og avlsvirksomheter som deres vedkommende myndigheter har anerkjent i samsvar med artikkel 4 nr. 3 i nevnte forordning, og som gjennomfører minst ett avlsprogram som er godkjent i samsvar med artikkel 8 nr. 3 i nevnte forordning. I forordning [(EU) 2016/1012](eu/32016r1012) er det dessuten fastsatt at medlemsstatene skal gjøre denne listen tilgjengelig for offentligheten.
 2. I artikkel 7 nr. 2 og artikkel 19 nr. 5 samt i del 1 kapittel III nr. 2 i vedlegg II til forordning [(EU) 2016/1012](eu/32016r1012) angis hvilke opplysninger som skal føres opp på listen over anerkjente avlslag og avlsvirksomheter.
 3. I henhold til artikkel 7 nr. 3 i forordning [(EU) 2016/1012](eu/32016r1012) fastsettes det dessuten at medlemsstatene også skal føre opp på listen over anerkjente avlslag og avlsvirksomheter enhver vedkommende myndighet som gjennomfører et avlsprogram i samsvar med artikkel 38 i nevnte forordning.
@@ -895,6 +1358,10 @@ om fastsettelse av regler for anvendelse av europaparlaments- og rådsforordning
 6. For å forenkle handel med avlsdyr og de offentlige kontrollene som utføres av vedkommende myndigheter, er det også nødvendig å angi på listen over anerkjente avlslag og avlsvirksomheter fastsatt i artikkel 7 i forordning [(EU) 2016/1012](eu/32016r1012) datoene da anerkjennelse ble gitt eller tilbakekalt, idet det tas hensyn til bestemmelsene i artikkel 64 nr. 4 i nevnte forordning, eller da godkjenningen av et avlsprogram ble gitt, midlertidig opphevet eller tilbakekalt.
 7. Denne forordning bør få anvendelse fra 1. november 2018 i samsvar med anvendelsesdatoen fastsatt i forordning [(EU) 2016/1012](eu/32016r1012).
 8. Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for avlsspørsmål –
+
+1 EUT L 171 av 29.6.2016, s. 66.
+
+VEDTATT DENNE FORORDNING:
 
 ### Artikkel 1
 
@@ -906,13 +1373,11 @@ Denne forordning trer i kraft den 20. dagen etter at den er kunngjort i *Den eur
 
 Den får anvendelse fra 1. november 2018.
 
-Denne forordning er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
-
-Utferdiget i Brussel 10. april 2017.
-
-*For Kommisjonen*Jean-Claude Juncker*President*
+Denne forordning er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.Utferdiget i Brussel 10. april 2017.*For Kommisjonen*Jean-Claude Juncker*President*
 
 ### VEDLEGG
+
+For å lese vedlegget se her: [(pdf)](static/SF/sf-20180131-0145-32017r0716-01-01.pdf)
 
 ### Forordning [(EU) 2017/717](eu/32017r0717)
 
@@ -920,9 +1385,23 @@ Utferdiget i Brussel 10. april 2017.
 
 Dette er en norsk oversettelse av forordning [(EU) 2017/717](eu/32017r0717). Rettsakten er endret ved forordning [(EU) 2020/602](eu/32020r0602) og forordning [(EU) 2021/761](eu/32021r0761). Alle endringer av rettsakten samt de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg I er innarbeidet nedenfor.
 
+► **B** KOMMISJONENS GJENNOMFØRINGSFORORDNING [(EU) 2017/717](eu/32017r0717) av 10. april 2017 om fastsettelse av regler for anvendelse av europaparlaments- og rådsforordning [(EU) 2016/1012](eu/32016r1012) med hensyn til standardskjemaene for avlssertifikater for avlsdyr og formeringsmateriale fra dem som endret ved:
+
+► **M1** Kommisjonsforordning [(EU) 2020/602](eu/32020r0602) av 15. april 2020
+
+► **M2** Kommisjonsforordning [(EU) 2021/761](eu/32021r0761) av 7. mai 2021
+
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING [(EU) 2017/717](eu/32017r0717)
 av 10. april 2017
 om fastsettelse av regler for anvendelse av europaparlaments- og rådsforordning [(EU) 2016/1012](eu/32016r1012) med hensyn til standardskjemaene for avlssertifikater for avlsdyr og formeringsmateriale fra dem
+
+EUROPAKOMMISJONEN HAR –
+
+under henvisning til traktaten om Den europeiske unions virkemåte,
+
+under henvisning til europaparlaments- og rådsforordning [(EU) 2016/1012](eu/32016r1012) av 8. juni 2016 om avls- og avstamningsvilkår for avl, handel med og innførsel til Unionen av renrasede avlsdyr, hybridavlsdyr av svin og formeringsmateriale fra dem og om endring av forordning [(EU) nr. 652/2014](eu/32014r0652), rådsdirektiv [89/608/EØF](eu/31989l0608) og [90/425/EØF](eu/31990l0425) og om oppheving av visse rettsakter med hensyn til dyreavl («dyreavlsforordningen»)1, særlig artikkel 30 nr. 10, og
+
+ut fra følgende betraktninger:
 
 1. I forordning [(EU) 2016/1012](eu/32016r1012) fastsettes regler for avl og avstamning for handel med avlsdyr og formeringsmateriale fra dem, og for innførsel av dem til Unionen, herunder regler for utstedelse av avlssertifikater for disse varene. I artikkel 30 nr. 4 i nevnte forordning fastsettes det at dersom det forekommer handel med avlsdyr innført i en stambok som føres av et avlslag, eller avlsdyr registrert i et avlsregister som føres av en avlsvirksomhet, eller formeringsmateriale fra dem, eller dersom disse avlsdyrene eller avkommet fra dette formeringsmaterialet er beregnet på å innføres i en annen stambok eller registreres i et annet avlsregister, skal disse avlsdyrene eller dette formeringsmaterialet ledsages av et avlssertifikat.
 2. I artikkel 30 nr. 5 i forordning [(EU) 2016/1012](eu/32016r1012) fastsettes det dessuten at dersom avlsdyr som er blitt innført i en stambok eller registrert i et avlsregister ført av et avlsorgan oppført på listen fastsatt i artikkel 34 i nevnte forordning, eller formeringsmateriale fra dem, innføres til Unionen, og dersom disse avlsdyrene eller deres avkom fra dette formeringsmaterialet er beregnet på å innføres i en stambok ført av et avlslag eller registreres i et avlsregister ført av en avlsvirksomhet, skal disse avlsdyrene eller formeringsmaterialet fra dem ledsages av et avlssertifikat.
@@ -935,21 +1414,25 @@ om fastsettelse av regler for anvendelse av europaparlaments- og rådsforordning
 9. Denne forordning bør få anvendelse fra 1. november 2018 i samsvar med anvendelsesdatoen for forordning [(EU) 2016/1012](eu/32016r1012).
 10. Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for avlsspørsmål –
 
+1 EUT L 171 av 29.6.2016, s. 66.
+
+VEDTATT DENNE FORORDNING:
+
 ### Artikkel 1. Formål og virkeområde
 
 I denne forordning fastsettes regler for avlssertifikater for handel med og innførsel til Unionen av avlsdyr og formeringsmateriale fra dem som fastsatt i kapittel VII i forordning [(EU) 2016/1012](eu/32016r1012).
 
 ### Artikkel 2. Avlssertifikater for handel med renrasede avlsdyr og formeringsmateriale fra dem og med hybridavlsdyr av svin og formeringsmateriale fra dem
 
-1. For handel med renrasede avlsdyr og formeringsmateriale fra dem skal opplysningene i del 1 og 2 i vedlegg V til forordning [(EU) 2016/1012](eu/32016r1012) som skal inngå i avlssertifikatene som ledsager forsendelser av disse varene, framlegges i samsvar med standardskjemaene i følgende avsnitt i vedlegg I til denne forordning:Avsnitt A for renrasede avlsdyr av storfe, svin, sau og geit.Avsnitt B for sæd fra renrasede avlsdyr av storfe, svin, sau, geit og hest.Avsnitt C for oocytter fra renrasede avlsdyr av storfe, svin, sau, geit og hest.Avsnitt D for embryoer fra renrasede avlsdyr av storfe, svin, sau, geit og hest.
+1\. For handel med renrasede avlsdyr og formeringsmateriale fra dem skal opplysningene i del 1 og 2 i vedlegg V til forordning [(EU) 2016/1012](eu/32016r1012) som skal inngå i avlssertifikatene som ledsager forsendelser av disse varene, framlegges i samsvar med standardskjemaene i følgende avsnitt i vedlegg I til denne forordning:Avsnitt A for renrasede avlsdyr av storfe, svin, sau og geit.Avsnitt B for sæd fra renrasede avlsdyr av storfe, svin, sau, geit og hest.Avsnitt C for oocytter fra renrasede avlsdyr av storfe, svin, sau, geit og hest.Avsnitt D for embryoer fra renrasede avlsdyr av storfe, svin, sau, geit og hest.
 
-2. For handel med hybridavlsdyr av svin og formeringsmateriale fra dem skal opplysningene i del 1 og 3 i vedlegg V til forordning [(EU) 2016/1012](eu/32016r1012) som skal inngå i avlssertifikatene som ledsager forsendelser av disse varene, framlegges i samsvar med standardskjemaene i følgende avsnitt i vedlegg II til denne forordning:Avsnitt A for hybridavlsdyr av svin.Avsnitt B for sæd fra hybridavlsdyr av svin.Avsnitt C for oocytter fra hybridavlsdyr av svin.Avsnitt D for embryoer fra hybridavlsdyr av svin.
+2\. For handel med hybridavlsdyr av svin og formeringsmateriale fra dem skal opplysningene i del 1 og 3 i vedlegg V til forordning [(EU) 2016/1012](eu/32016r1012) som skal inngå i avlssertifikatene som ledsager forsendelser av disse varene, framlegges i samsvar med standardskjemaene i følgende avsnitt i vedlegg II til denne forordning:Avsnitt A for hybridavlsdyr av svin.Avsnitt B for sæd fra hybridavlsdyr av svin.Avsnitt C for oocytter fra hybridavlsdyr av svin.Avsnitt D for embryoer fra hybridavlsdyr av svin.
 
 ### Artikkel 3. Avlssertifikater for innførsel til Unionen av renrasede avlsdyr og formeringsmateriale fra dem og av hybridavlsdyr av svin og formeringsmateriale fra dem
 
-1. For innførsel til Unionen av renrasede avlsdyr og formeringsmateriale fra dem skal opplysningene i del 1 og 2 i vedlegg V til forordning [(EU) 2016/1012](eu/32016r1012) som skal inngå i avlssertifikatene som ledsager forsendelser av disse varene, framlegges i samsvar med standardskjemaene i følgende avsnitt i vedlegg III til denne forordning:Avsnitt A for renrasede avlsdyr av storfe, svin, sau, geit og hest.Avsnitt B for sæd fra renrasede avlsdyr av storfe, svin, sau, geit og hest.Avsnitt C for oocytter fra renrasede avlsdyr av storfe, svin, sau, geit og hest.Avsnitt D for embryoer fra renrasede avlsdyr av storfe, svin, sau, geit og hest.
+1\. For innførsel til Unionen av renrasede avlsdyr og formeringsmateriale fra dem skal opplysningene i del 1 og 2 i vedlegg V til forordning [(EU) 2016/1012](eu/32016r1012) som skal inngå i avlssertifikatene som ledsager forsendelser av disse varene, framlegges i samsvar med standardskjemaene i følgende avsnitt i vedlegg III til denne forordning:Avsnitt A for renrasede avlsdyr av storfe, svin, sau, geit og hest.Avsnitt B for sæd fra renrasede avlsdyr av storfe, svin, sau, geit og hest.Avsnitt C for oocytter fra renrasede avlsdyr av storfe, svin, sau, geit og hest.Avsnitt D for embryoer fra renrasede avlsdyr av storfe, svin, sau, geit og hest.
 
-2. For innførsel til Unionen av hybridavlsdyr av svin og formeringsmateriale fra dem skal opplysningene i del 1 og 3 i vedlegg V til forordning [(EU) 2016/1012](eu/32016r1012) som skal inngå i avlssertifikatene som ledsager forsendelser av disse varene, framlegges i samsvar med standardskjemaene i følgende avsnitt i vedlegg IV til denne forordning:Avsnitt A for hybridavlsdyr av svin.Avsnitt B for sæd fra hybridavlsdyr av svin.Avsnitt C for oocytter fra hybridavlsdyr av svin.Avsnitt D for embryoer fra hybridavlsdyr av svin.
+2\. For innførsel til Unionen av hybridavlsdyr av svin og formeringsmateriale fra dem skal opplysningene i del 1 og 3 i vedlegg V til forordning [(EU) 2016/1012](eu/32016r1012) som skal inngå i avlssertifikatene som ledsager forsendelser av disse varene, framlegges i samsvar med standardskjemaene i følgende avsnitt i vedlegg IV til denne forordning:Avsnitt A for hybridavlsdyr av svin.Avsnitt B for sæd fra hybridavlsdyr av svin.Avsnitt C for oocytter fra hybridavlsdyr av svin.Avsnitt D for embryoer fra hybridavlsdyr av svin.
 
 ### Artikkel 4. Ikrafttredelse og anvendelse
 
@@ -961,7 +1444,13 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel 10. april 2017.
 
-*For Kommisjonen*Jean-Claude Juncker*President*
+|  |  |
+| --- | --- |
+|  | *For Kommisjonen* |
+|  |  |
+|  | Jean-Claude Juncker |
+|  |  |
+|  | *President* |
 
 ### ►**M1** VEDLEGG I
 STANDARDSKJEMAER FOR AVLSSERTIFIKATER FOR HANDEL MED RENSRASEDE AVLSDYR OG FORMERINGSMATERIALE FRA DEM
@@ -969,14 +1458,22 @@ STANDARDSKJEMAER FOR AVLSSERTIFIKATER FOR HANDEL MED RENSRASEDE AVLSDYR OG FORME
 ### AVSNITT A
 Avlssertifikat for handel med renrasede avlsdyr av storfe, svin, sau og geit
 
+[(pdf)](static/SF/sf-20180131-0145-32017r0717-01-01.pdf)
+
 ### AVSNITT B
 Avlssertifikat for handel med sæd fra renrasede avlsdyr
+
+[(pdf)](static/SF/sf-20180131-0145-32017r0717-02-01.pdf)
 
 ### AVSNITT C
 Avlssertifikat for handel med oocytter fra renrasede avlsdyr
 
+[(pdf)](static/SF/sf-20180131-0145-32017r0717-03-01.pdf)
+
 ### AVSNITT D
 Avlssertifikat for handel med embryoer fra renrasede avlsdyr
+
+[(pdf)](static/SF/sf-20180131-0145-32017r0717-04-01.pdf)
 
 ### VEDLEGG II
 STANDARDSKJEMAER FOR AVLSSERTIFIKATER FOR HANDEL MED HYBRIDAVLSDYR AV SVIN OG FORMERINGSMATERIALE FRA DEM
@@ -984,14 +1481,22 @@ STANDARDSKJEMAER FOR AVLSSERTIFIKATER FOR HANDEL MED HYBRIDAVLSDYR AV SVIN OG FO
 ### AVSNITT A
 Avlssertifikater for handel med hybridavlsdyr av svin
 
+[(pdf)](static/SF/sf-20180131-0145-32017r0717-05-01.pdf)
+
 ### AVSNITT B
 Avlssertifikat for handel med sæd fra hybridavlsdyr av svin
+
+[(pdf)](static/SF/sf-20180131-0145-32017r0717-06-01.pdf)
 
 ### AVSNITT C
 Avlssertifikat for handel med oocytter fra hybridavlsdyr av svin
 
+[(pdf)](static/SF/sf-20180131-0145-32017r0717-07-01.pdf)
+
 ### AVSNITT D
 Avlssertifikat for handel med embryoer fra hybridavlsdyr av svin
+
+[(pdf)](static/SF/sf-20180131-0145-32017r0717-08-01.pdf)
 
 ### VEDLEGG III
 STANDARDSKJEMAER FOR AVLSSERTIFIKATER FOR INNFØRSEL TIL UNIONEN AV RENRASEDE AVLSDYR OG FORMERINGSMATERIALE FRA DEM
@@ -999,14 +1504,22 @@ STANDARDSKJEMAER FOR AVLSSERTIFIKATER FOR INNFØRSEL TIL UNIONEN AV RENRASEDE AV
 ### AVSNITT A
 Avlssertifikat for innførsel til Unionen av renrasede avlsdyr av storfe, svin, sau, geit og hest
 
+[(pdf)](static/SF/sf-20180131-0145-32017r0717-09-01.pdf)
+
 ### AVSNITT B
 Avlssertifikat for innførsel til Unionen av sæd fra renrasede avlsdyr
+
+[(pdf)](static/SF/sf-20180131-0145-32017r0717-10-01.pdf)
 
 ### AVSNITT C
 Avlssertifikat for innførsel til Unionen av oocytter fra renrasede avlsdyr
 
+[(pdf)](static/SF/sf-20180131-0145-32017r0717-11-01.pdf)
+
 ### AVSNITT D
 Avlssertifikat for innførsel til Unionen av embryoer fra renrasede avlsdyr
+
+[(pdf)](static/SF/sf-20180131-0145-32017r0717-12-01.pdf)
 
 ### VEDLEGG IV
 STANDARDSKJEMAER FOR AVLSSERTIFIKATER FOR INNFØRSEL TIL UNIONEN AV HYBRIDAVLSDYR AV SVIN OG FORMERINGSMATERIALE FRA DEM
@@ -1014,14 +1527,24 @@ STANDARDSKJEMAER FOR AVLSSERTIFIKATER FOR INNFØRSEL TIL UNIONEN AV HYBRIDAVLSDY
 ### AVSNITT A
 Avlssertifikat for innførsel til Unionen av hybridavlsdyr av svin
 
+[(pdf)](static/SF/sf-20180131-0145-32017r0717-13-01.pdf)
+
 ### AVSNITT B
 Avlssertifikat for innførsel til Unionen av sæd fra hybridavlsdyr av svin
+
+[(pdf)](static/SF/sf-20180131-0145-32017r0717-14-01.pdf)
 
 ### AVSNITT C
 Avlssertifikat for innførsel til Unionen av oocytter fra hybridavlsdyr av svin
 
+[(pdf)](static/SF/sf-20180131-0145-32017r0717-15-01.pdf)
+
 ### AVSNITT D
 Avlssertifikat for innførsel til Unionen av embryoer fra hybridavlsdyr av svin
+
+[(pdf)](static/SF/sf-20180131-0145-32017r0717-16-01.pdf)
+
+◄**M1**
 
 ### Forordning [(EU) 2017/1940](eu/32017r1940) om avlssertifikat for renrasede avsldyr som inngår i identifikasjonsdokumentet for hestedyr
 
@@ -1032,6 +1555,14 @@ Kommisjonens gjennomføringsforordning [(EU) 2017/1940](eu/32017r1940) av 13. ju
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING [(EU) 2017/1940](eu/32017*1940)
 av 13. juli 2017
 om utfylling av europaparlaments- og rådsforordning [(EU) 2016/1012](eu/32016r1012) med hensyn til innholdet i og formatet til avlssertifikater utstedt for renrasede avlsdyr av hest som inngår i ett enkelt identifikasjonsdokument for dyr av hestefamilien som er gyldig i hele dyrets levetid
+
+EUROPAKOMMISJONEN HAR
+
+under henvisning til [traktaten om Den europeiske unions virkemåte](eu/12016e),
+
+under henvisning til europaparlaments- og rådsforordning [(EU) 2016/1012](eu/32016r1012) av 8. juni 2016 om avls- og avstamningsvilkår for avl, handel med og innførsel til Unionen av renrasede avlsdyr, hybridavlsdyr av svin og formeringsmateriale fra dem og om endring av forordning [(EU) nr. 652/2014](eu/32014r0652), rådsdirektiv [89/608/EØF](eu/31989l0608) og [90/425/EØF](eu/31990l0425) og om oppheving av visse rettsakter med hensyn til dyreavl («dyreavlsforordningen»)1, særlig artikkel 32 nr. 1, og
+
+ut fra følgende betraktninger:
 
 1. Forordning [(EU) 2016/1012](eu/32016r1012) fastsetter regler for avl og avstamning for handel med avlsdyr, og for innførsel av dem til Unionen. Forordning [(EU) 2016/1012](eu/32016r1012) får anvendelse fra 1. november 2018.
 2. Artikkel 30 i forordning [(EU) 2016/1012](eu/32016r1012) fastsetter regler for utstedelse, innhold og format for avlssertifikater som ledsager avlsdyr og formeringsmateriale fra dem (heretter kalt «avlssertifikatet»). Det fastsettes at dersom det forekommer handel med renrasede avlsdyr som er ført inn i en stambok som føres av et avlslag, og dersom det er bestemt at disse renrasede avlsdyrene skal innføres i en annen stambok, skal avlsdyrene ledsages av et avlssertifikat.
@@ -1049,6 +1580,16 @@ om utfylling av europaparlaments- og rådsforordning [(EU) 2016/1012](eu/32016r1
 14. Fram til 21. april 2021, som er anvendelsesdatoen for forordning [(EU) 2016/429](eu/32016r0429), er del I i avlssertifikatet angitt i vedlegget til denne forordning valgfri dersom et identifikasjonsdokument for dyr av hestefamilien som er gyldig i hele dyrets levetid, omfatter avsnitt V i modellen for identifikasjonsdokument angitt i del 1 i vedlegg I til gjennomføringsforordning [(EU) 2015/262](eu/32015r0262).
 15. Denne forordning bør få anvendelse fra 1. november 2018 i samsvar med den anvendelsesdatoen som fastsettes i forordning [(EU) 2016/1012](eu/32016r1012).
 
+1 EUT L 171 av 29.6.2016, s. 66.
+
+2 Europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429) av 9. mars 2016 om smittsomme dyresykdommer og om endring og opp-heving av visse rettsakter på dyrehelseområdet («dyrehelseregelverket») (EUT L 84 av 31.3.2016, s. 1).
+
+3 Kommisjonens gjennomføringsforordning [(EU) 2015/262](eu/32015r0262) av 17. februar 2015 om fastsettelse av regler i henhold til rådsdirektiv [90/427/EØF](eu/31990l0427) og [2009/156/EF](eu/32009l0156) for metoder for identifikasjon av dyr av hestefamilien (hestepassforordningen) (EUT L 59 av 3.3.2015, s. 1).
+
+4 http://www.ueln.net.
+
+VEDTATT DENNE FORORDNING:
+
 ### Artikkel 1
 
 Innholdet i og formatet til avlssertifikatet som utgjør en del av identifikasjonsdokumentet for renrasede avlsdyr av hest som er gyldig i hele dyrets levetid, fastsatt i artikkel 32 nr. 1 i forordning [(EU) 2016/1012](eu/32016r1012) (heretter kalt «avlssertifikatet»), skal være som fastsatt i vedlegget til denne forordning.
@@ -1059,9 +1600,9 @@ Del I og II i avlssertifikatet skal inngå i identifikasjonsdokumentet for renra
 
 ### Artikkel 3
 
-1. Fra og med 1. november 2018 skal avsnitt V i identifikasjonsdokumentet som utstedes for et renraset avlsdyr av hest i samsvar med gjennomføringsforordning [(EU) 2015/262](eu/32015r0262), fylles ut i samsvar med artikkel 9 nr. 2 i nevnte forordning og om nødvendig i henhold til artikkel 30 nr. 4 i forordning [(EU) 2016/1012](eu/32016r1012), suppleres med del II av avlssertifikatet som beskrevet i artikkel 2 bokstav b) ii) i denne forordning.
+1\. Fra og med 1. november 2018 skal avsnitt V i identifikasjonsdokumentet som utstedes for et renraset avlsdyr av hest i samsvar med gjennomføringsforordning [(EU) 2015/262](eu/32015r0262), fylles ut i samsvar med artikkel 9 nr. 2 i nevnte forordning og om nødvendig i henhold til artikkel 30 nr. 4 i forordning [(EU) 2016/1012](eu/32016r1012), suppleres med del II av avlssertifikatet som beskrevet i artikkel 2 bokstav b) ii) i denne forordning.
 
-2. Del II i avlssertifikatet skal være vedlagt identifikasjonsdokument som er gyldig i hele dyrets levetid og utstedt i samsvar med gjennomføringsforordning [(EU) 2015/262](eu/32015r0262), og skal være knyttet til opprinnelsesbeviset som fastsatt i del 1 avsnitt V i vedlegg I til nevnte forordning gjennom angivelse av det unike individnummeret som definert i artikkel 2 bokstav o) i nevnte forordning.
+2\. Del II i avlssertifikatet skal være vedlagt identifikasjonsdokument som er gyldig i hele dyrets levetid og utstedt i samsvar med gjennomføringsforordning [(EU) 2015/262](eu/32015r0262), og skal være knyttet til opprinnelsesbeviset som fastsatt i del 1 avsnitt V i vedlegg I til nevnte forordning gjennom angivelse av det unike individnummeret som definert i artikkel 2 bokstav o) i nevnte forordning.
 
 ### Artikkel 4
 
@@ -1069,14 +1610,12 @@ Denne forordning trer i kraft den 20. dagen etter at den er kunngjort i *Den eur
 
 Den får anvendelse fra 1. november 2018.
 
-Denne forordning er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
-
-Utferdiget i Brussel 13. juli 2017.
-
-*For Kommisjonen*Jean-Claude Juncker*President*
+Denne forordning er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.Utferdiget i Brussel 13. juli 2017.*For Kommisjonen*Jean-Claude Juncker*President*
 
 ### VEDLEGG
 Avlssertifikat for handel med renrasede avlsdyr av hest (*Equus caballus* og *Equus asinus*) i samsvar med del 2 kapittel I i vedlegg V til forordning [(EU) 2016/1012](eu/32016r1012)
+
+For å lese vedlegget se her: [(pdf)](static/SF/sf-20180131-0145-32017r1940-01-01.pdf)
 
 ### Forordning [(EU) 2022/2077](eu/32022r2077) om utpeking av EUs referansesenter for bevaring av truede raser
 
@@ -1088,6 +1627,14 @@ Kommisjonens gjennomføringsforordning [(EU) 2022/2077](eu/32022r2077) av 27. ok
 av 27. oktober 2022
 om utpeking av EU-referansesenter for vitenskapelig og teknisk bidrag til opprettelsen og harmoniseringen av metoder for bevaring av truede raser, og bevaring av genetisk mangfold som eksisterer innen disse rasene.
 
+EUROPAKOMMISJONEN HAR –
+
+med tilvising til traktaten om verkemåten til Den europeiske unionen,
+
+med tilvising til europaparlaments- og rådsforordning [(EU) 2016/1012](eu/32016r1012) av 8. juni 2016 om avls- og avstamningsvilkår for avl, handel med og innførsel til Unionen av renrasede avlsdyr, hybridavlsdyr av svin og formeringsmateriale fra dem og om endring av forordning [(EU) nr. 652/2014](eu/32014r0652), rådsdirektiv [89/608/EØF](eu/31989l0608) og [90/425/EØF](eu/31990l0425) og om oppheving av visse rettsakter med hensyn til dyreavl («dyreavlsforordningen»)1, særleg artikkel 29 nr. 2, og
+
+ut frå desse synsmåtane:
+
 1. Medlemsstatar og interessepartar har uttrykt behov for å fremje innføring og harmonisering av dei metodane som avlslag og tredjepartar som er utpeikte av avlslag i samsvar med artikkel 27 nr. 1 bokstav b) i forordning [(EU) 2016/1012](eu/32016r1012), nyttar for bevaring av trua rasar eller av det genetiske mangfaldet innanfor desse rasane.
 2. I samsvar med artikkel 29 nr. 3 i forordning [(EU) 2016/1012](eu/32016r1012) har Kommisjonen gjennomført ein offentleg utveljingsprosess for å peike ut eit EU-referansesenter som skal ha ansvaret for det vitskaplege og tekniske bidraget til innføring og harmonisering av metodar for bevaring av trua rasar og av det genetiske mangfaldet innanfor desse rasane («EU-referansesenteret for trua dyrerasar»).
 3. Evaluerings- og utveljingsutvalet som er oppnemnt for denne prosessen, konkluderte med at konsortiet som vert leidd av Stichting Wageningen Research, Wageningen Livestock Research, Nederland, og omfattar Institut de l'Elevage, Frankrike og Die Bundesanstalt für Landwirtschaft und Ernährung, Tyskland, oppfyller krava i nr. 1 i vedlegg IV til forordning [(EU) 2016/1012](eu/32016r1012) og har kapasitet til å utføre dei oppgåvene som er fastsette i nr. 3 i det nemnde vedlegget.
@@ -1095,6 +1642,10 @@ om utpeking av EU-referansesenter for vitenskapelig og teknisk bidrag til oppret
 5. Utpeikinga av EU-referansesenteret for trua dyrerasar bør ikkje vere tidsavgrensa, men bør evaluerast jamleg slik det er nemnt i artikkel 29 nr. 3 i forordning [(EU) 2016/1012](eu/32016r1012).
 6. EU-referansesenteret for trua dyrerasar bør starte verksemda si frå 1. januar 2023, ettersom senteret medverkar til dei politiske initiativa for den europeiske grøne given, og difor bør denne forordninga nyttast frå den same datoen.
 7. Dei tiltaka som er fastsette i denne forordninga, er i samsvar med fråsegna frå Det faste utvalet for avlsspørsmål.
+
+1 TEU L 171 av 29.6.2016, s. 66.
+
+VEDTEKE DENNE FORORDNINGA:
 
 ### Artikkel 1
 
@@ -1108,6 +1659,4 @@ Denne forordninga trer i kraft 20. dagen etter at ho er kunngjord i *Tidend for 
 
 Ho skal nyttast frå 1. januar 2023.
 
-Denne forordninga er bindande i alle delar og gjeld direkte i alle medlemsstatane.
-
-Utferda i Brussel 27. oktober 2022.*For Kommisjonen*Ursula von der Leyen*President*
+Denne forordninga er bindande i alle delar og gjeld direkte i alle medlemsstatane.Utferda i Brussel 27. oktober 2022.*For Kommisjonen*Ursula von der Leyen*President*

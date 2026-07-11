@@ -15,7 +15,7 @@ xml_hash: "69b40eb90a3b56a859d434ff68975a9d21f07b416ad157222db564e1a25d59d7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-01T08:08:55.828874+00:00"
+retrieved_at: "2026-07-10T17:52:49.841668+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -2759,7 +2759,21 @@ Nedfasingsplan for import av HFK til Norge:
 
 Forbruk er lik importert mengde HFK i bulk minus eksportert mengde HFK i bulk, angitt i CO2-ekvivalenter.
 
-*Tildelingskriterier:*Virksomheter som har dokumentert import av HFK i referanseperioden for tildeling kan tildeles sin relative andel av 89 % av den totale importkvoten for kommende år.Nye virksomheter som ønsker å importere HFK (som ikke har dokumentert import i referanseperioden) og virksomheter med dokumentert import i referanseperioden som har økt behov for import av HFK, kan tildeles en forholdsmessig del av de resterende 11 % av den totale importkvoten.Importkvoter tildeles iht. forordning [(EU) nr. 517/2014](eu/32014r0517) vedlegg VI.Referanseperioden for tildeling for årene 2019–2023 er årene 2015 til og med år 2017.Referanseperioden for tildeling for årene 2024–2028 er årene 2020 til og med år 2022.Referanseperioden for tildeling for årene 2029–2033 er årene 2025 til og med år 2027.Referanseperioden for tildeling for årene 2034–2036 er årene 2030 til og med år 2032.
+*Tildelingskriterier:*
+
+Virksomheter som har dokumentert import av HFK i referanseperioden for tildeling kan tildeles sin relative andel av 89 % av den totale importkvoten for kommende år.
+
+Nye virksomheter som ønsker å importere HFK (som ikke har dokumentert import i referanseperioden) og virksomheter med dokumentert import i referanseperioden som har økt behov for import av HFK, kan tildeles en forholdsmessig del av de resterende 11 % av den totale importkvoten.
+
+Importkvoter tildeles iht. forordning [(EU) nr. 517/2014](eu/32014r0517) vedlegg VI.
+
+Referanseperioden for tildeling for årene 2019–2023 er årene 2015 til og med år 2017.
+
+Referanseperioden for tildeling for årene 2024–2028 er årene 2020 til og med år 2022.
+
+Referanseperioden for tildeling for årene 2029–2033 er årene 2025 til og med år 2027.
+
+Referanseperioden for tildeling for årene 2034–2036 er årene 2030 til og med år 2032.
 
 > Tilføyd ved [forskrift 6 mai 2010 nr. 722](forskrift/2010-05-06-722), endret ved [forskrift 14 des 2018 nr. 2032](forskrift/2018-12-14-2032).
 

@@ -51,6 +51,8 @@ Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EF) nr. 152/
 
 Forordning [(EF) nr. 152/2009](eu/32009r0152) er konsolidert til og med endringer gjennomført ved forordning [(EU) nr. 278/2012](eu/32012r0278), forordning [(EU) nr. 51/2013](eu/32013r0051), forordning [(EU) nr. 691/2013](eu/32013r0691), forordning [(EU) nr. 709/2014](eu/32014r0709), forordning [(EU) 2017/771](eu/32017r0771), forordning [(EU) 2020/1560](eu/32020r1560), forordning [(EU) 2022/893](eu/32022r0893), forordning [(EU) 2024/771](eu/32024r0771) og forordning [(EU) 2025/782](eu/32025r0782).
 
+►**B** Forordning [(EF) nr. 152/2009](eu/32009r0152) av 27. januar 2009 om prøvetakings- og analysemetoder av fôr, som endret ved
+
 - ►**M1** Forordning [(EU) nr. 278/2012](eu/32012r0278) av 28. mars 2012
 - ►**M2** Forordning [(EU) nr. 51/2013](eu/32013r0051) av 16. januar 2013
 - ►**M3** Forordning [(EU) nr. 691/2013](eu/32013r0691) av 19. juli 2013
@@ -65,14 +67,68 @@ Forordning [(EF) nr. 152/2009](eu/32009r0152) er konsolidert til og med endringe
 av 27. januar 2009
 om fastsettelse av metoder for prøvetaking og analyse i forbindelse med offentlig kontroll av fôrvarer
 
+KOMMISJONEN FOR DE EUROPEISKE FELLESSKAP HAR –
+
+under henvisning til traktaten om opprettelse av Det europeiske fellesskap, og
+
+under henvisning til europarlaments- og rådsforordning [(EF) nr. 882/2004](eu/32004r0882*) av 29. april 2004 om offentlig kontroll for å sikre at fôrvare- og næringsmiddelregelverket samt bestemmelsene om dyrs helse og velferd overholdes1, særlig artikkel 11 nr. 4 bokstav a), b) og c), og
+
+ut fra følgende betraktninger:
+
 1. Følgende rettsakter er vedtatt for gjennomføring av direktiv [70/373/EØS](eu/31970l0373) og er fortsatt i kraft i samsvar med artikkel 61 nr. 2 av forordning [(EF) nr. 882/2004](eu/32004r0882*):Første kommisjonsdirektiv [71/250/EØF](eu/31971l0250*) av 15. juni 1971 om fastsettelse av analysemetoder i Fellesskapet i forbindelse med offentlig kontroll av fôrvarer2,Annet kommisjonsdirektiv [71/393/EØF](eu/31971l0393) av 18. november 1971 om fastsettelse på av analysemetoder i Fellesskapet i forbindelse med offentlig kontroll av fôrvarer3,Tredje kommisjonsdirektiv [72/199/EØF](eu/31972l0199*) av 27. april 1972 om fastsettelse av analysemetoder i Fellesskapet i forbindelse med offentlig kontroll av fôrvarer4,Fjerde kommisjonsdirektiv [73/46/EØF](eu/31973l0046) av 5. desember 1972 om fastsettelse av analysemetoder i Fellesskapet i forbindelse med offentlig kontroll av fôrvarer5,Første kommisjonsdirektiv [76/371/EØF](eu/31976l0371) av 1. mars 1976 om fastsettelse av prøvetakingsmetoder i Fellesskapet i forbindelse med offentlig kontroll av fôrvarer6,Sjuende kommisjonsdirektiv [76/372/EØF](eu/31976l0372) av 1. mars 1976 om fastsettelse av analysemetoder i Fellesskapet i forbindelse med offentlig kontroll av fôrvarer7,Åttende kommisjonsdirektiv [78/633/EØF](eu/31978l0633) av 15. juni 1978 om fastsettelse på av analysemetoder i Fellesskapet i forbindelse med offentlig kontroll av fôrvarer8,Niende kommisjonsdirektiv [81/715/EØF](eu/31981l0715) av 31. juli 1981 om fastsettelse på av analysemetoder i Fellesskapet i forbindelse med offentlig kontroll av fôrvarer9,Tiende kommisjonsdirektiv [84/425/EØF](eu/31984l0425) av 25. juli 1984 om fastsettelse av analysemetoder i Fellesskapet i forbindelse med offentlig kontroll av fôrvarer10,Kommisjonsdirektiv [86/174/EØF](eu/31986l0174) av 9. april 1986 om fastsettelse av en metode til å beregne energiverdien i fôrblandinger for fjørfe11,Ellevte kommisjonsdirektiv [93/70/EØF](eu/31993l0070) av 28. juli 1993 om fastsettelse av analysemetoder i Fellesskapet i forbindelse med offentlig kontroll av fôrvarer12,Tolvte kommisjonsdirektiv [93/117/EØF](eu/31993l0117) av 17. desember 1993 om fastsettelse av analysemetoder i Fellesskapet i forbindelse med offentlig kontroll av fôrvarer13,Kommisjonsdirektiv [98/64/EF](eu/31998l0064*) av 3. september 1998 om fastsettelse av analysemetoder i Fellesskapet for bestemmelse av aminosyrer, råoljer og -fett og olakindoks i fôrvarer og om endring av direktiv [71/393/EØF](eu/31971l0393)14,Kommisjonsdirektiv [1999/27/EF](eu/31999l0027) av 20. april 1999 om fastsettelse av analysemetoder i Fellesskapet for bestemmelse av amprolium, diclazuril og karbadoks i fôrvarer og om endring av direktiv [71/250/EØF](eu/31971l0250*), [73/46/EØF](eu/31973l0046) og oppheving av direktiv [74/203/EØF](eu/31974l0203*)15,Kommisjonsdirektiv [1999/76/EF](eu/31999l0076) av 23. juli 1999 om fastsettelse av en analysemetode i Fellesskapet for bestemmelse av lasalocid-natrium i fôrvarer16,Kommisjonsdirektiv [2000/45/EF](eu/32000l0045) av 6. juli 2000 om fastsettelse av fellesskapsmetoder for bestemmelse av vitamin A, vitamin E og tryptofan i fôrvarer17,Kommisjonsdirektiv [2002/70/EF](eu/32002l0070) av 26. juli 2002 om fastsettelse av krav til bestemmelse av innholdet av dioksiner og dioksinlignende PCB i fôrvarer18,Kommisjonsdirektiv [2003/126/EF](eu/32003l0126) av 23. desember 2003 om analysemetoden for bestemmelse av bestanddeler av animalsk opprinnelse i forbindelse med offentlig kontroll av fôrvarer19.
 2. Ettersom direktiv [70/373/EØF](eu/31970l0373) er erstattet av forordning [(EF) nr. 882/2004](eu/32004r0882*), bør gjennomføringsrettsaktene for det direktivet erstattes med en enkelt forordning. Samtidig bør metodene tilpasses i tråd med den vitenskapelige og teknologiske utviklingen. Metoder som ikke lenger er gyldige for det tiltenkte formål, bør slettes. Bestemmelsene for prøvetaking vil med tiden bli ajourført for å ta høyde for de siste utviklingene innen framstilling, lagring, transport og markedsføring av fôr, men inntil videre er det likevel hensiktsmessig å opprettholde de eksisterende bestemmelsene for prøvetaking.
 3. Direktiv [71/250/EØF](eu/31971l0250*), [71/393/EØF](eu/31971l0393), [72/199/EØF](eu/31972l0199*), [73/46/EØF](eu/31973l0046), [76/371/EØF](eu/31976l0371), [76/372/EØF](eu/31976l0372), [78/633/EØF](eu/31978l0633), [81/715/EØF](eu/31981l0715), [84/425/EØF](eu/31984l0425), [86/174/EØF](eu/31986l0174), [93/70/EØF](eu/31993*0070), [93/117/EF](eu/31993l0117), [98/64/EF](eu/31998l0064*), [1999/27/EF](eu/31999l0027), [1999/76/EF](eu/31999l0076), [2000/45/EF](eu/32000*0045), [2002/70/EF](eu/32002l0070) og [2003/126/EF](eu/32003l0126) bør derfor oppheves.
 4. Tiltakene fastsatt i denne forordning er i samsvar med uttalelse fra Den faste komité for næringsmiddelkjeden og dyrehelsen –
 
+1 EUT L 165 av 30.4.2004, s. 1. Rettet versjon i EUT L 191 av 28.5.2004, s. 1.
+
+2 EFT L 155 av 12.7.1971, s. 13.
+
+3 EFT L 279 av 20.12.1971, s. 7.
+
+4 EFT L 123 av 29.5.1972, s. 6.
+
+5 EFT L 83 av 30.3.1973, s. 21.
+
+6 EFT L 102 av 15.4.1976, s. 1.
+
+7 EFT L 102 av 15.4.1976, s. 8.
+
+8 EFT L 206 av 29.7.1978, s. 43.
+
+9 EFT L 257 av 10.9.1981, s. 38.
+
+10 EFT L 238 av 6.9.1984, s. 34.
+
+11 EFT L 130 av 16.5.1986, s. 53.
+
+12 EFT L 234 av 17.9.1993, s. 17.
+
+13 EFT L 329 av 30.12.1993, s. 54.
+
+14 EFT L 257 av 19.9.1998, s. 14.
+
+15 EFT L 118 av 6.5.1999, s. 36.
+
+16 EFT L 207 av 6.8.1999, s. 13.
+
+17 EFT L 174 av 13.7.2000, s. 32.
+
+18 EFT L 209 av 6.8.2002, s. 15.
+
+19 EUT L 339 av 24.12.2003, s. 78.
+
+VEDTATT DENNE FORORDNING:
+
+►**M8**
+
 ### Artikkel 1. Gjennomføring av forordning (EF) nr. 152/2009
 
-Prøvetaking i forbindelse med offentlig kontroll av fôr, særlig med henblikk på bestemmelse av bestanddeler, herunder materiale som inneholder eller består av eller er framstilt av genmodifiserte organismer (GMO), tilsetningsstoffer i fôrvarer som definert i europaparlaments- og rådsforordning [(EF) nr. 1831/2003](eu/32003r1831)*, uønskede stoffer som definert i europaparlaments- og rådsdirektiv [2002/32/EF](eu/32002l0032)**, skal utføres i samsvar med metodene som er fastsatt i vedlegg I, med unntak av prøvetaking i forbindelse med kontroll av mikrobiologisk forurensning.
+Prøvetaking i forbindelse med offentlig kontroll av fôr, særlig med henblikk på bestemmelse av bestanddeler, herunder materiale som inneholder eller består av eller er framstilt av genmodifiserte organismer (GMO), tilsetningsstoffer i fôrvarer som definert i europaparlaments- og rådsforordning [(EF) nr. 1831/2003](eu/32003r1831)\*, uønskede stoffer som definert i europaparlaments- og rådsdirektiv [2002/32/EF](eu/32002l0032)\*\*, skal utføres i samsvar med metodene som er fastsatt i vedlegg I, med unntak av prøvetaking i forbindelse med kontroll av mikrobiologisk forurensning.
+
+\* Europaparlaments- og rådsforordning [(EF) nr. 1831/2003](eu/32003r1831) av 22. september 2003 om tilsetningsstoffer i fôrvarer (EUT L 268 av 18.10.2003, s. 29).\*\* Europaparlaments- og rådsdirektiv [2002/32/EF](eu/32002l0032) av 7. mai 2002 om uønskede stoffer i fôrvarer (EFT L 140 av 30.5.2002, s. 10).
+
+◄**M8**
 
 ### Artikkel 2
 
@@ -106,7 +162,15 @@ Denne forordning er bindende i alle deler og kommer direkte til anvendelse i all
 
 Utferdiget i Brussel, 27. januar 2009.
 
-For KommisjonenAndroulla VASSILIOUMedlem av Kommisjonen
+|  |  |
+| --- | --- |
+|  | For Kommisjonen |
+|  |  |
+|  | Androulla VASSILIOU |
+|  |  |
+|  | Medlem av Kommisjonen |
+
+►**M8**
 
 ### VEDLEGG I
 Prøvetakingsmetoder
@@ -122,6 +186,8 @@ Dersom det ved en visuell kontroll eller på grunnlag av andre relevante opplysn
 Dersom det fastslås at fôr som det tas prøver av i samsvar med bestemmelsene i denne forordningen, ikke oppfyller EUs krav, og er en del av et parti fôr av samme klasse eller betegnelse, skal det antas at alt fôr i dette partiet er berørt, med mindre det som følge av en nærmere vurdering ikke kan dokumenteres at den resterende delen av partiet ikke oppfyller EUs krav.
 
 Prøvetakingen kan også omfatte fôr som tilbys for salg av driftsansvarlige for fôrforetak ved hjelp av fjernkommunikasjonsmiddel i samsvar med artikkel 11 nr. 3 i europaparlaments- og rådsforordning [(EF) nr. 767/2009](eu/32009r0767)1. Prøvetaking av fôrvarer som tilbys for salg ved hjelp av fjernkommunikasjonsmidler, skal i prinsippet være omfattet av punktene fastsatt i dette vedlegget. Spesifikke aspekter ved prøvetaking av fjernsalgsprøver er beskrevet i punkt 11.
+
+1 Europaparlaments- og rådsforordning [(EF) nr. 767/2009](eu/32009r0767) av 13. juli 2009 om omsetning av og bruk av fôrvarer, endring av europaparlaments- og rådsforordning [(EF) nr. 1831/2003](eu/32003r1831) og oppheving av rådsdirektiv [79/373/EØF](eu/31979l0373), kommisjonsdirektiv [80/511/EØF](eu/31980l0511), rådsdirektiv [82/471/EØF](eu/31982l0471), [83/228/EØF](eu/31983l0228), [93/74/EØF](eu/31993l0074), [93/113/EF](eu/31993l0113) og [96/25/EF](eu/31996l0025) samt kommisjonsvedtak [2004/217/EF](eu/32004d0217) (EUT L 229 av 1.9.2009, s. 1).
 
 ### 2. Definisjoner
 
@@ -148,23 +214,37 @@ Prøvetakingen kan også omfatte fôr som tilbys for salg av driftsansvarlige fo
 
 ### 4. Utstyr
 
+4.1.
+
 Prøvetakingsutstyret må være laget av materialer som ikke kan kontaminere produktene det skal tas prøver av. Utstyr som skal anvendes flere ganger, må være lett å rengjøre for å unngå krysskontaminering.
+
+4.2.
 
 Anbefalt utstyr for prøvetaking av fôr i fast form
 
+4.2.1.
+
 Manuell prøvetaking
 
+4.2.1.1.
+
 Flatbunnet prøvetakingsskuffe med loddrette sider.
+
+4.2.1.2.
 
 Prøvetakingssonde med lang spalte eller kamre. Prøvetakingssondens dimensjoner må være tilpasset prøvemengdens egenskaper (beholderens dybde, sekkens dimensjoner osv.) og størrelsen på de partiklene fôret består av.
 
 Dersom prøvetakingssonden har flere åpninger for å sikre at prøvene tas på forskjellige steder langs sonden, skal åpningene være atskilt av kamre eller sekvensielt forskjøvne åpninger.
+
+4.2.2.
 
 Mekanisk prøvetaking
 
 Egnet mekanisk utstyr kan brukes ved prøvetaking av fôr i bevegelse. Det mekaniske utstyret skal anses som egnet når det minst tar prøver av hele tverrsnittet av strømmen.
 
 Prøvetaking av fôr i bevegelse (med høy flythastighet) kan utføres med automatisk prøvetakingsutstyr.
+
+4.2.3.
 
 Deleapparat
 
@@ -179,19 +259,52 @@ Dersom det er mulig og hensiktsmessig, bør utstyr som er konstruert for å dele
 - Dersom den driftsansvarlige for fôrforetaket i henhold til regelverket har plikt til å overholde denne forordning som ledd i et obligatorisk overvåkingssystem, kan den driftsansvarlige for fôrforetaket avvike fra de kvantitative kravene som er fastsatt i dette nummeret for å ta hensyn til driftsmessige egenskaper, forutsatt at den driftsansvarlige for fôrforetaket på tilfredsstillende måte har godtgjort overfor vedkommende myndighet at prøvetakingsmetoden er likeverdig med hensyn til representativitet og etter godkjenning fra vedkommende myndighet.
 - Dersom det ikke er mulig å anvende den fastsatte prøvetakingsmetoden med hensyn til de kvantitative kravene uten at det får uakseptable økonomiske konsekvenser som følge av skade på partiet (på grunn av emballasjetypen, transportmiddelet, lagringsmåten osv.), kan det benyttes en annen prøvetakingsmetode, forutsatt at den er så representativ som mulig og at den beskrives og dokumenteres fullt ut.
 
+5.1.
+
 Kvantitative krav til enkeltprøver i forbindelse med kontroll av stoffer eller produkter som er jevnt fordelt i fôret
+
+5.1.1.
 
 Uemballert fôr i fast form
 
-*Prøvemengdens størrelse**Minste antall enkeltprøver*≤ 2,5 tonn7> 2,5 tonn√ (20 ganger det antallet tonn prøvemengden består av)*, opptil 40 enkeltprøver
+| *Prøvemengdens størrelse* | *Minste antall enkeltprøver* |
+| --- | --- |
+| ≤ 2,5 tonn | 7 |
+| > 2,5 tonn | √ (20 ganger det antallet tonn prøvemengden består av)\*, opptil 40 enkeltprøver |
+
+\* Når det oppnådde tallet er en desimalbrøk, skal den avrundes oppover til nærmeste hele tall.
+
+5.1.2.
 
 Uemballert fôr i flytende form
 
-*Prøvemengdens størrelse**Minste antall enkeltprøver*≤ 2,5 tonn eller ≤ 2 500 liter4 *> 2,5 tonn eller > 2 500 liter7 *
+| *Prøvemengdens størrelse* | *Minste antall enkeltprøver* |
+| --- | --- |
+| ≤ 2,5 tonn eller ≤ 2 500 liter | 4 \* |
+| > 2,5 tonn eller > 2 500 liter | 7 \* |
+
+\* Dersom det ikke er mulig å homogenisere væsken, skal antall enkeltprøver økes.
+
+5.1.3.
 
 Emballert fôr
 
-Fôr (i fast og flytende form) kan emballeres i sekker, poser, bokser, tønner osv., som i den følgende tabellen er omhandlet som enheter. Fra store enheter (≥ 500 kg eller liter) tas prøver i samsvar med bestemmelsene om uemballert fôr (se punkt 5.1.1 og 5.1.2).*Prøvemengdens størrelse**Minste antall enheter som det skal tas (minst) én enkeltprøve fra**1–20 enheter1 enhet **21–150 enheter3 enheter **151–400 enheter5 enheter **> 400 enheter¼ av √ (antallet enheter som utgjør prøvemengden)*** , opptil 40 enheter
+Fôr (i fast og flytende form) kan emballeres i sekker, poser, bokser, tønner osv., som i den følgende tabellen er omhandlet som enheter. Fra store enheter (≥ 500 kg eller liter) tas prøver i samsvar med bestemmelsene om uemballert fôr (se punkt 5.1.1 og 5.1.2).
+
+| *Prøvemengdens størrelse* | *Minste antall enheter som det skal tas (minst) én enkeltprøve fra\** |
+| --- | --- |
+| 1–20 enheter | 1 enhet \*\* |
+| 21–150 enheter | 3 enheter \*\* |
+| 151–400 enheter | 5 enheter \*\* |
+| > 400 enheter | ¼ av √ (antallet enheter som utgjør prøvemengden)\*\*\* , opptil 40 enheter |
+
+\* Dersom åpningen av en enhet kan påvirke analysen (f.eks. lett bedervelig vått fôr), skal den uåpnede enheten utgjøre en enkeltprøve.
+
+\*\* For enheter med et innhold som ikke overstiger 1 kg eller 1 liter, skal en opprinnelig enhet utgjøre en enkeltprøve
+
+\*\*\* Når det oppnådde tallet er en desimalbrøk, skal den avrundes oppover til nærmeste hele tall.
+
+5.1.4.
 
 Fôrbriketter og saltslikkesteiner
 
@@ -199,15 +312,33 @@ Det skal tas prøver av minst én brikett eller saltslikkestein per prøvemengde
 
 For briketter eller saltslikkesteiner som ikke veier mer enn 1 kg hver, skal én enkeltprøve utgjøres av innholdet i én brikett eller én saltslikkestein.
 
+5.1.5.
+
 Grovfôr/fôrvekster
 
-*Prøvemengdens størrelse**Minste antall enkeltprøver**≤ 5 tonn5> 5 tonn√ (5 ganger det antallet tonn prøvemengden består av)**, opptil 40 enkeltprøver
+| *Prøvemengdens størrelse* | *Minste antall enkeltprøver\** |
+| --- | --- |
+| ≤ 5 tonn | 5 |
+| > 5 tonn | √ (5 ganger det antallet tonn prøvemengden består av)\*\*, opptil 40 enkeltprøver |
+
+\* Det erkjennes at det i enkelte situasjoner (f.eks. ved ensilasje) ikke er mulig å ta de påkrevde enkeltprøvene uten å skade partiet på en uakseptabel måte. En alternativ prøvetakingsmetode kan anvendes i slike situasjoner, og det er utarbeidet en veiledning for prøvetaking av slike partier, som er tilgjengelig på https://food.ec.europa.eu/system/files/2016-10/animal-feed-guidance_documents_691_2013_en.pdf
+
+\*\* Når det oppnådde tallet er en desimalbrøk, skal den avrundes oppover til nærmeste hele tall.
+
+5.2.
 
 Kvantitative krav til enkeltprøver i forbindelse med kontroll av bestanddeler eller stoffer som kan være ujevnt fordelt i fôret
 
 Disse kvantitative kravene til enkeltprøver skal anvendes i følgende situasjoner:kontroll av aflatoksiner, meldrøye, andre mykotoksiner og skadelige botaniske urenheter i fôrmidler,kontroll av krysskontaminering fra en bestanddel, herunder genmodifisert materiale eller stoff som vanligvis er ujevnt fordelt i fôr.
 
-Dersom kontrollmyndigheten har en sterk mistanke om at det forekommer en ujevn fordeling også i tilfelle av krysskontaminering fra en bestanddel eller et stoff i en fôrblanding, kan de kvantitative kravene i den følgende tabellen anvendes.*Prøvemengdens størrelse**Minste antall enkeltprøver*< 80 tonnSe de kvantitative kravene i punkt 5.1. Antall enkeltprøver som skal tas, skal multipliseres med 2,5.≥ 80 tonn100
+Dersom kontrollmyndigheten har en sterk mistanke om at det forekommer en ujevn fordeling også i tilfelle av krysskontaminering fra en bestanddel eller et stoff i en fôrblanding, kan de kvantitative kravene i den følgende tabellen anvendes.
+
+| *Prøvemengdens størrelse* | *Minste antall enkeltprøver* |
+| --- | --- |
+| < 80 tonn | Se de kvantitative kravene i punkt 5.1. Antall enkeltprøver som skal tas, skal multipliseres med 2,5. |
+| ≥ 80 tonn | 100 |
+
+5.3.
 
 Kvantitative krav til enkeltprøvene når det gjelder svært store partier
 
@@ -217,15 +348,46 @@ Når det gjelder store prøvemengder (prøvemengder > 500 tonn), er antall enkel
 
 Det kreves én enkelt samleprøve per prøvemengde.
 
-*Fôrtype**Samleprøvens minstestørrelse* ***6.1.Uemballert fôr4 kg6.2.Emballert fôr:4 kg***6.3.Flytende eller halvflytende fôr:4 liter6.4.Fôrbriketter eller saltslikkesteiner:6.4.1.Med en vekt på over 1 kg per stk.4 kg6.4.2.Med en vekt på inntil 1 kg per stk.Vekten av fire opprinnelige briketter eller saltslikkesteiner6.5.Grovfôr/fôrvekster4 kg****
+|  | *Fôrtype* | *Samleprøvens minstestørrelse\* \*\** |
+| --- | --- | --- |
+| 6.1. | Uemballert fôr | 4 kg |
+| 6.2. | Emballert fôr: | 4 kg\*\*\* |
+| 6.3. | Flytende eller halvflytende fôr: | 4 liter |
+| 6.4. | Fôrbriketter eller saltslikkesteiner: |  |
+| 6.4.1. | Med en vekt på over 1 kg per stk. | 4 kg |
+| 6.4.2. | Med en vekt på inntil 1 kg per stk. | Vekten av fire opprinnelige briketter eller saltslikkesteiner |
+| 6.5. | Grovfôr/fôrvekster | 4 kg\*\*\*\* |
+
+\* Dersom fôret det tas prøver av er av høy verdi, kan det tas en mindre mengde samleprøve, forutsatt at dette beskrives og dokumenteres i prøvetakingsrapporten.
+
+\*\* I henhold til bestemmelsene i kommisjonsforordning [(EU) nr. 619/2011](eu/32011r0619) av 24. juni 2011 om fastsettelse av metoder for prøvetaking og analyser for den offentlige fôrkontrollen med hensyn til forekomst av genmodifisert materiale i påvente av godkjenning eller når godkjenningen er utløpt (EUT L 166 av 25.6.2011, s. 9) skal samleprøven til kontroll av forekomst av genmodifisert materiale inneholde minst 35 000 frø/korn. Dette innebærer at størrelsen på samleprøven skal være minst 10,5 kg for mais og 7 kg for soyabønner. For andre frø og korn, f.eks. bygg, hirse, havre, ris, rug, hvete og rapsfrø, tilsvarer størrelsen på samleprøven på 4 kg over 35 000 frø/korn.
+
+\*\*\* Når det gjelder emballert fôr, er det heller ikke alltid mulig å oppnå en størrelse på 4 kg for samleprøven, avhengig av de enkelte enhetenes størrelse.
+
+\*\*\*\* Når det gjelder grovfôr/fôrvekster med lav massetetthet (f.eks. høy, halm), skal samleprøven være på minst 1 kg.
 
 ### 7. Kvantitative krav til sluttprøver
 
 Sluttprøver
 
-Det kreves analyse av minst én sluttprøve. Mengden av sluttprøven som skal analyseres, skal ikke være mindre enn:Fôr i fast form500 g* ** *** ****Flytende eller halvtflytende fôr500 ml*
+Det kreves analyse av minst én sluttprøve. Mengden av sluttprøven som skal analyseres, skal ikke være mindre enn:
+
+|  |  |
+| --- | --- |
+| Fôr i fast form | 500 g\* \*\* \*\*\* \*\*\*\* |
+| Flytende eller halvtflytende fôr | 500 ml\* |
+
+\* I henhold til bestemmelsene i forordning [(EU) nr. 619/2011](eu/32011r0619) skal sluttprøver til kontroll av forekomst av genmodifisert materiale inneholde minst 10 000 frø/korn. Dette innebærer at størrelsen på sluttprøven skal være minst 3 000 g for mais og 2 000 g for soyabønner. For andre frø og korn, f.eks. bygg, hirse, havre, ris, rug, hvete og rapsfrø, tilsvarer størrelsen på sluttprøven på 500 g over 10 000 frø/korn.
+
+\*\* Dersom størrelsen på samleprøven er betydelig mindre enn 4 kg eller liter (se fotnotene under punkt 6), kan det også tas en mindre mengde sluttprøve, forutsatt at dette beskrives og dokumenteres i prøvetakingsrapporten.
+
+\*\*\* Når det gjelder prøvetaking av belgfrukter, korn og nøtter for å fastsette innholdet av rester av plantevernmidler, skal sluttprøvens minstestørrelse være 1 kg i samsvar med bestemmelsene i kommisjonsdirektiv [2002/63/EF](eu/32002l0063) av 11. juli 2002 om fastsettelse av fellesskapsmetoder for prøvetaking ved offentlig kontroll av rester av plantevernmidler i og på produkter av vegetabilsk og animalsk opprinnelse og om oppheving av direktiv [79/700/EØF](eu/31979l0700) (EFT L 187 av 16.7.2002, s. 30).
+
+\*\*\*\* Ved undersøkelse gjennom visuell eller mikroskopisk kontroll skal mengden av sluttprøven som skal undersøkes, være 1 kg.
 
 ### 8. Prøvetakingsmetode for svært store partier eller partier som lagres eller transporteres på en måte som gjør det umulig å ta prøver av hele partiet
+
+8.1.
 
 Generelle prinsipper
 
@@ -235,7 +397,11 @@ Når det gjelder store lagre som er beregnet på lagring av fôr, bør driftsans
 
 Ved anvendelse av de prøvetakingsmetodene som er omhandlet i dette nummeret, underrettes den driftsansvarlige for fôrforetaket eller dennes representant om prøvetakingsmetoden. Dersom den driftsansvarlige for fôrforetaket eller dennes representant er i tvil når det gjelder denne framgangsmåten for prøvetaking, skal den driftsansvarlige for fôrforetaket eller dennes representant gi vedkommende myndighet mulighet til å ta prøver av hele partiet for den driftsansvarliges regning.
 
+8.2.
+
 Store partier som transporteres med skip
+
+8.2.1.
 
 Dynamisk prøvetaking av store partier som transporteres med skip
 
@@ -249,31 +415,47 @@ Ved prøvetaking av en del av et parti fôr av samme klasse eller betegnelse ska
 
 Selv om den offisielle prøven tas automatisk, skal en inspektør være til stede. Dersom den automatiske prøvetakingen foretas med forhåndsinnstilte parametrer som ikke kan endres under prøvetakingen, og enkeltprøvene samles i en forseglet beholder som hindrer eventuell svindel, kreves det at inspektøren er til stede bare når prøvetakingen starter, hver gang prøvebeholderen skal skiftes ut og når prøvetakingen avsluttes.
 
+8.2.2.
+
 Statisk prøvetaking av partier som transporteres med skip
 
 Dersom prøvetakingen foretas på en statisk måte, må det anvendes samme framgangsmåte som den som gjelder for lagringssteder (siloer) som er tilgjengelige ovenfra (se punkt 8.4.1).
 
 Prøvene skal tas (ovenfra) fra den tilgjengelige delen av partiet/lasterommet. Antall enkeltprøver fastsettes ut fra størrelsen på den delen som tas ut for prøvetaking. Ved prøvetaking av en del av et parti fôr av samme klasse eller betegnelse skal det, når det fastslås at denne delen av partiet ikke oppfyller EUs krav, antas at alt fôr i partiet er berørt, med mindre det etter en nærmere vurdering ikke foreligger dokumentasjon for at den resterende delen av partiet ikke oppfyller EUs krav.
 
+8.3.
+
 Prøvetaking av store partier som oppbevares i lagre
 
 Prøvene skal tas fra den tilgjengelige delen av partiet. Antall enkeltprøver fastsettes ut fra størrelsen på den delen som tas ut for prøvetaking. Ved prøvetaking av en del av et parti fôr av samme klasse eller betegnelse skal det, når det fastslås at denne delen av partiet ikke oppfyller EUs krav, antas at alt fôr i partiet er berørt, med mindre det etter en nærmere vurdering ikke foreligger dokumentasjon for at den resterende delen av partiet ikke oppfyller EUs krav.
 
+8.4.
+
 Prøvetaking fra lagre (siloer)
+
+8.4.1.
 
 Prøvetaking fra siloer som er (lett) tilgjengelige ovenfra
 
 Prøvene skal tas fra den tilgjengelige delen av partiet. Antall enkeltprøver fastsettes ut fra størrelsen på den delen som tas ut for prøvetaking. Ved prøvetaking av en del av et parti fôr av samme klasse eller betegnelse skal det, når det fastslås at denne delen av partiet ikke oppfyller EUs krav, antas at alt fôr i partiet er berørt, med mindre det etter en nærmere vurdering ikke foreligger dokumentasjon for at den resterende delen av partiet ikke oppfyller EUs krav.
 
+8.4.2.
+
 Prøvetaking fra siloer som ikke er tilgjengelige ovenfra (lukkede siloer)
+
+8.4.2.1.
 
 Siloer som ikke er tilgjengelige ovenfra (lukkede siloer), med en størrelse på > 100 tonn
 
 Det kan ikke tas prøver på en statisk måte av fôr som lagres i slike siloer. Dersom det skal tas prøver av fôr i en slik silo og det ikke er mulig å flytte partiet, skal det derfor inngås avtale med den driftsansvarlige om at han/hun skal underrette inspektøren om når siloen vil bli tømt, slik at det kan tas prøver mens fôret er i flyt.
 
+8.4.2.2.
+
 Siloer som ikke er tilgjengelige ovenfra (lukkede siloer), med en størrelse på < 100 tonn
 
 Prøvetakingsmetoden innebærer at en mengde på 50–100 kg overføres til en beholder og at prøven tas fra denne. Samleprøvens størrelse skal tilsvare hele partiet, og antall enkeltprøver skal beregnes ut fra mengden i den siloen som overføres til en beholder med sikte på prøvetaking. Ved prøvetaking av en del av et parti fôr av samme klasse eller betegnelse skal det, når det fastslås at denne delen av partiet ikke oppfyller EUs krav, antas at alt fôr i partiet er berørt, med mindre det etter en nærmere vurdering ikke foreligger dokumentasjon for at den resterende delen av partiet ikke oppfyller EUs krav.
+
+8.5.
 
 Prøvetaking av uemballert fôr i store lukkede beholdere
 
@@ -281,9 +463,13 @@ Prøver fra slike partier kan ofte ikke tas før de losses. Det er i enkelte til
 
 ### 9. Veiledning for uttak, tillaging og emballering av prøvene
 
+9.1.
+
 Generelt
 
 Prøvene må tas og tillages uten unødig opphold idet det tas hensyn til de forholdsreglene som er nødvendige for å unngå at produktet endres eller kontamineres. Instrumenter, overflater og beholdere som prøvene skal plasseres i, må være rene og tørre.
+
+9.2.
 
 Enkeltprøver
 
@@ -299,19 +485,27 @@ Ved prøvetaking av emballert fôr som består av små enheter (f.eks. < 250 g),
 
 Ved fjernsalg av prøver avhenger enkeltprøvens størrelse av enhetens størrelse og kan også inneholde mindre enn 100 g eller 100 ml i enkelte tilfeller.
 
+9.2.1.
+
 Uemballert fôr
 
 Prøvetaking kan om nødvendig foretas mens prøvemengden er i bevegelse (under lasting eller lossing).
 
+9.2.2.
+
 Emballert fôr
 
 Etter at det fastsatte antallet enheter er valgt ut til prøvetaking som angitt i punkt 5, skal en del av innholdet i hver enhet tas ut med sonde eller skuffe. Prøvetakingen kan om nødvendig foretas etter at enhetene er tømt hver for seg.
+
+9.2.3.
 
 Flytende eller halvtflytende fôr som er homogenisert eller kan homogeniseres
 
 Etter at det fastsatte antallet enheter er valgt ut til prøvetaking som angitt i punkt 5, homogeniseres innholdet om nødvendig, og det tas ut en mengde fra hver enhet.
 
 Enkeltprøvene kan eventuelt tas mens innholdet tømmes ut.
+
+9.2.4.
 
 Flytende eller halvtflytende fôr som ikke kan homogeniseres
 
@@ -321,15 +515,21 @@ Prøver kan også tas mens innholdet i beholderne tømmes ut, men de første fra
 
 I begge tilfeller må samlet uttatt volum ikke være mindre enn 10 liter.
 
+9.2.5.
+
 Fôrbriketter og saltslikkesteiner
 
 Etter at det fastsatte antallet briketter eller saltslikkesteiner er valgt ut til prøvetaking som angitt i punkt 5, kan det tas ut en prøve fra en del av hver brikett eller saltslikkestein. Dersom det er mistanke om at briketten eller saltslikkesteinen ikke er homogen, kan hele briketten eller saltslikkesteinen tas ut som prøve.
 
 For briketter eller saltslikkesteiner som ikke veier mer enn 1 kg hver, skal én enkeltprøve utgjøres av innholdet i én brikett eller én saltslikkestein.
 
+9.3.
+
 Tillaging av samleprøver
 
 Enkeltprøvene skal blandes slik at de utgjør én enkelt samleprøve.
+
+9.4.
 
 Tillaging av sluttprøver
 
@@ -337,25 +537,39 @@ Materialet i samleprøven skal blandes omhyggelig2
 
 Hver prøve skal plasseres i en egnet beholder. Alle nødvendige tiltak må treffes for å unngå at prøvens sammensetning endres eller at den kontamineres eller forfalskes under transport eller lagring.
 
+9.4.1.
+
 Jevnt fordelte stoffer
 
 Ved kontroll av bestanddeler eller stoffer som er jevnt fordelt i fôret, kan samleprøven reduseres på en representativ måte til minst 2,0 kg eller 2,0 liter (redusert prøve)3 fortrinnsvis ved anvendelse av et mekanisk eller automatisk deleapparat. Ved kontroll av forekomst av rester av pesticider i belgfrukter, korn og trenøtter skal minstestørrelsen på den reduserte prøven være 3 kg. Dersom fôrtypen gjør det umulig å anvende et deleapparat, eller dersom et deleapparat ikke er tilgjengelig, kan prøven reduseres med firedelingsmetoden.
 
 Fra samleprøven eller de reduserte prøvene tillages sluttprøvene (til kontroll-, klageadgangs- og eventuelt referanseformål) av tilnærmet samme størrelse og i samsvar med de kvantitative kravene i punkt 7.
 
+9.4.2.
+
 Ujevnt fordelte stoffer
 
-Ved kontroll av bestanddeler, herunder genmodifisert materiale eller stoffer som kan være ujevnt fordelt i fôr, skal samleprøven værefullstendig homogenisert. Fra de homogeniserte samleprøvene tillages deretter sluttprøvene (til kontroll-, klageadgangs- og eventuelt referanseformål) av tilnærmet samme størrelse og i samsvar med de kvantitative kravene i punkt 7, ellerredusert til minst 2 kg eller 2 liter4 ved anvendelse av et mekanisk eller automatisk deleapparat. Bare i tilfeller der fôrtypen gjør det umulig å anvende et deleapparat, kan prøven om nødvendig reduseres med firedelingsmetoden. Med sikte på kontroll av forekomst av genmodifisert materiale i henhold til forordning [(EU) nr. 619/2011](eu/32011r0619) må den reduserte prøven inneholde minst 35 000 frø/korn for å oppnå sluttprøvene som kreves til håndhevings-, klageadgangs- og referanseformål på minst 10 000 frø/korn (se fotnote ** i punkt 6 og fotnote * i punkt 7).
+Ved kontroll av bestanddeler, herunder genmodifisert materiale eller stoffer som kan være ujevnt fordelt i fôr, skal samleprøven værefullstendig homogenisert. Fra de homogeniserte samleprøvene tillages deretter sluttprøvene (til kontroll-, klageadgangs- og eventuelt referanseformål) av tilnærmet samme størrelse og i samsvar med de kvantitative kravene i punkt 7, ellerredusert til minst 2 kg eller 2 liter4 ved anvendelse av et mekanisk eller automatisk deleapparat. Bare i tilfeller der fôrtypen gjør det umulig å anvende et deleapparat, kan prøven om nødvendig reduseres med firedelingsmetoden. Med sikte på kontroll av forekomst av genmodifisert materiale i henhold til forordning [(EU) nr. 619/2011](eu/32011r0619) må den reduserte prøven inneholde minst 35 000 frø/korn for å oppnå sluttprøvene som kreves til håndhevings-, klageadgangs- og referanseformål på minst 10 000 frø/korn (se fotnote \*\* i punkt 6 og fotnote \* i punkt 7).
 
 Fra den reduserte prøven tillages sluttprøvene av tilnærmet samme størrelse og i samsvar med de kvantitative kravene i punkt 7.
+
+9.5.
 
 Emballering av prøver
 
 Beholderne eller pakningene skal forsegles og forsynes med etiketter på en slik måte at de ikke kan åpnes uten at forseglingen brytes. Hele etiketten må inngå i forseglingen. Alternativt kan prøven plasseres i en beholder som kan lukkes på en slik måte at den ikke kan åpnes uten at det medfører uopprettelig skade på beholderen, slik at man unngår gjenbruk av beholderen.
 
+9.6.
+
 Sending av prøver til laboratoriet
 
 Prøven skal uten unødig opphold sendes til det utpekte analyselaboratoriet sammen med de opplysningene som er nødvendige for analysen.
+
+2 Eventuelle klumper skal løses opp (om nødvendig ved at de tas ut og legges tilbake i prøven).
+
+3 Unntatt når det gjelder grovfôr/fôrvekster med lav massetetthet.
+
+4 Unntatt når det gjelder grovfôr/fôrvekster med lav massetetthet.
 
 ### 10. Registrering av prøver
 
@@ -376,16 +590,26 @@ Dersom prøven sendes direkte til det offisielle laboratoriet, skal sluttprøven
 
 Den mengden som driftsansvarlig for fôrforetak leverer til vedkommende myndighet, anses for å utgjøre en del av et parti fôr av samme klasse eller betegnelse. Dersom det fastslås at denne delen av partiet ikke oppfyller EUs krav, skal det, i samsvar med artikkel 15 i europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178)5, også når det gjelder fjernsalgsprøver, antas at alt fôr i dette partiet er berørt, med mindre det etter en nærmere vurdering (eventuelt ved en kontroll på stedet) kan konstateres at det ikke finnes belegg for at den resterende delen av partiet ikke oppfyller EUs krav.
 
+5 Europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178) av 28. januar 2002 om fastsettelse av allmenne prinsipper og krav i næringsmiddelregelverket, om opprettelse av Den europeiske myndighet for næringsmiddeltrygghet og om fastsettelse av framgangsmåter i forbindelse med næringsmiddeltrygghet (EFT L 31 av 1.2.2002, s. 1).
+
+◄**M8**
+
+►**M8**
+
 ### VEDLEGG II
 Alminnelige bestemmelser om analysemetoder for fôr
 
 ### A. Tillaging av analyseprøver
+
+###### 1. Formål
 
 Framgangsmåtene som beskrives i dette vedlegget, gjelder tillaging med sikte på analyse av prøver som er sendt til kontrollaboratoriene etter prøvetaking i samsvar med bestemmelsene i vedlegg I.
 
 Laboratorieprøvene skal tillages på en slik måte at mengdene, som er veid opp slik analysemetodene beskriver, er homogene og representative for sluttprøvene.
 
 I tillegg til framgangsmåtene som er beskrevet i dette vedlegget, skal retningslinjene for tillaging av prøver fastsatt i EN ISO 6498 følges.
+
+###### 2. Forholdsregler
 
 Framgangsmåten for tillaging av prøven avhenger av hvilke analysemetoder som skal anvendes, og hvilke bestanddeler eller stoffer som skal kontrolleres. Det er derfor svært viktig at framgangsmåten for tillaging av prøver som følges, er hensiktsmessig for den analysemetoden som anvendes, og for de bestanddelene eller stoffene som skal kontrolleres.
 
@@ -401,19 +625,35 @@ I visse tilfeller, som for bestemmelse av meldrøye, skadelige botaniske urenhet
 
 Dersom tillagingen ikke kan utføres uten at det fører til vesentlige endringer i vanninnholdet i prøven, må vanninnholdet bestemmes før og etter tilberedningen, i samsvar med metoden fastsatt i vedlegg III del A.
 
+###### 3. Framgangsmåte
+
+3.1.
+
 Generell framgangsmåte
 
 Delmengden til prøven tas fra den homogeniserte sluttprøven. Koning og firedeling anbefales ikke ettersom dette kan resultere i delmengder av prøven med høy feilmargin.
 
+3.1.1.
+
 Fôr som kan males opp direkteSluttprøven blandes og samles opp i en egnet beholder som er tørr, ren og utstyrt med lufttett lukkeanordning. Sluttprøven blandes igjen for å sikre fullstendig homogenisering umiddelbart før mengden som skal analyseres, veies (delmengden av prøven).
+
+3.1.2.
 
 Fôr som kan males opp etter tørkingMed mindre annet er angitt i analysemetodene, skal sluttprøven tørkes for å få vanninnholdet ned til et nivå på 8–12 %, i samsvar med framgangsmåten for forhåndstørking som beskrevet i punkt 4.3 om metoden for bestemmelse av vanninnhold omhandlet i vedlegg III del A. Deretter følges anvisningene i punkt 3.1.1.
 
+3.1.3.
+
 Flytende eller halvtflytende fôrSluttprøven samles opp i en egnet beholder som er tørr, ren og utstyrt med lufttett lukkeanordning. Sluttprøven blandes grundig for å sikre fullstendig homogenisering umiddelbart før mengden som skal analyseres, veies (delmengden av prøven).
+
+3.1.4.
 
 Andre typer fôrSluttprøver som ikke kan tillages etter noen av framgangsmåtene beskrevet ovenfor, skal tillages etter en annen framgangsmåte som sikrer at mengdene som veies opp for analyse (delmengdene av prøven), er homogene og representative for sluttprøvene.
 
+3.2.
+
 Særlig framgangsmåte ved undersøkelse gjennom visuell eller mikroskopisk kontroll eller i tilfeller der samleprøven er homogenisertVed undersøkelse gjennom visuell kontroll (uten bruk av mikroskop) anvendes hele samleprøven eller sluttprøven til undersøkelsen.Ved mikroskopisk undersøkelse kan laboratoriet redusere samleprøven eller redusere den reduserte prøven ytterligere. Sluttprøver til klagebehandlings- og eventuelt referanseformål tas ut etter en framgangsmåte som tilsvarer framgangsmåten som følges for sluttprøver til håndhevingsformål.Dersom hele samleprøven er homogenisert, tas sluttprøvene fra den homogeniserte samleprøven.For bestemmelse av meldrøye og skadelige botaniske urenheter må sluttprøven deles inn i to like store delprøver på ca. 500 gram. Den ene delprøven undersøkes. Dersom resultatet av delprøvene er lik eller under 50 % (analytisk terskel) av øvre grenseverdi, oppfyller prøven kravene i henhold til øvre grenseverdi. Dersom resultatet er over 50 % av øvre grenseverdi, må en annen delprøve undersøkes, og gjennomsnittet av resultatet for de to delprøvene brukes for å kontrollere oppfyllelse av kravene i henhold til øvre grenseverdi.
+
+###### 4. Oppbevaring av prøvene
 
 Prøvene må oppbevares ved en temperatur som ikke fører til endringer i sammensetningen av prøvene. Prøver som skal brukes til analyse av vitaminer eller stoffer som er særlig følsomme for lys, skal oppbevares under forhold som gjør at prøven ikke påvirkes negativt av lys.
 
@@ -425,9 +665,15 @@ Prøvene må oppbevares ved en temperatur som ikke fører til endringer i sammen
 
 ### C. Gjennomføring av analysemetodene og angivelse av resultatene
 
+###### 1. Ekstraksjon
+
 Flere metoder fastsetter en særskilt framgangsmåte for ekstraksjon. Som hovedregel kan andre framgangsmåter for ekstraksjon enn de som det vises til i metoden, anvendes, forutsatt at det er dokumentert at de framgangsmåtene som anvendes, har tilsvarende ekstraksjonseffektivitet for den analyserte matrisen som den som omtales i metoden.
 
+###### 2. Rensing
+
 Flere metoder fastsetter en særskilt framgangsmåte for rensing. Som hovedregel kan andre framgangsmåter for rensing enn de som det vises til i metoden, anvendes, forutsatt at det er dokumentert at de framgangsmåtene som anvendes, gir tilsvarende analyseresultater for den analyserte matrisen som den som omtales i metoden.
+
+###### 3. Antall bestemmelser
 
 Når det gjelder analyse av uønskede stoffer, der resultatene av første bestemmelse er signifikant (> 50 %) lavere enn den spesifikasjonen som skal kontrolleres, er ingen ytterligere bestemmelse nødvendig, forutsatt at hensiktsmessige kvalitetsprosedyrer er anvendt. I andre tilfeller er to analyser (en annen bestemmelse) nødvendig for å utelukke muligheten for intern krysskontaminering eller utilsiktet forveksling av prøver. Gjennomsnittet av de to bestemmelsene brukes for videre vurdering.
 
@@ -437,11 +683,17 @@ Når det gjelder kontroll av det angitte innholdet av et stoff eller en bestandd
 
 I noen tilfeller er dette akseptable variasjonsområdet fastsatt i lovgivningen, som i forordning [(EF) nr. 767/2009](eu/32009r0767) og europaparlaments- og rådsforordning [(EU) 2019/4](eu/32019r0004)6.
 
+6 Europaparlaments- og rådsforordning [(EU) 2019/4](eu/32019r0004) av 11. desember 2018 om tilvirkning, omsetning og bruk av medisinfôr, endring av europaparlaments- og rådsforordning [(EF) nr. 183/2005](eu/32005r0183) og oppheving av rådsdirektiv [90/167/EØF](eu/31990l0167) (EUT L 4 av 7.1.2019, s. 1).
+
+###### 4. Rapportering av anvendt analysemetode
+
 I analyserapporten skal det nevnes hvilken analysemetode som er anvendt.
+
+###### 5. Rapportering av analyseresultater
 
 Analyseresultatene skal uttrykkes på den måten som er fastsatt i analysemetoden, med et hensiktsmessig antall signifikante tall, og skal om nødvendig være korrigert for vanninnholdet i sluttprøven før tillaging.
 
-De fleste nivåer fastsatt i regelverket (f.eks. øvre grenseverdi, nedre grenseverdi) i EUs regelverk for fôr er fastsatt for fôr med et vanninnhold på 12 %. For å vurdere analyseresultatet målt i prøven i forhold til nivået fastsatt i regelverket, må derfor analyseresultatet i disse tilfellene først divideres med tørrstoffinnholdet i prøven (i %) multiplisert med 88, som angitt i følgende formel: $$ R_{\text{12 %}} = \frac {88 \cdot R_{ana}} {100 - Mc} $$der
+De fleste nivåer fastsatt i regelverket (f.eks. øvre grenseverdi, nedre grenseverdi) i EUs regelverk for fôr er fastsatt for fôr med et vanninnhold på 12 %. For å vurdere analyseresultatet målt i prøven i forhold til nivået fastsatt i regelverket, må derfor analyseresultatet i disse tilfellene først divideres med tørrstoffinnholdet i prøven (i %) multiplisert med 88, som angitt i følgende formel: $$ R_{\\text{12 %}} = \\frac {88 \\cdot R_{ana}} {100 - Mc} $$der
 Mc: vanninnholdet i prøven (i %). 100 – Mc utgjør derfor tørrstoffinnholdet i prøven (i %).
 Rana: analyseresultater målt i prøven.
 R12 %: resultat for et fôr med et vanninnhold på 12 %; vurderes i forhold til nivået fastsatt i regelverket.
@@ -451,6 +703,8 @@ Dersom analyseresultatet korrigeres for vanninnholdet, skal den tilsvarende mål
 
 Ved bestemmelse av meldrøye eller skadelige botaniske urenheter ved visuell/mikroskopisk undersøkelse er det ikke nødvendig å korrigere vanninnholdet.
 
+###### 6. Analytisk måleusikkerhet og gjenfinningsprosent ved analyse av uønskede stoffer
+
 Når det gjelder uønskede stoffer i henhold til direktiv [2002/32/EF](eu/32002l0032), skal et produkt beregnet på fôr anses for ikke å være i samsvar med den fastsatte øvre grenseverdien dersom analyseresultatet, som et gjennomsnitt av to uavhengige bestemmelser, for fôr med et vanninnhold på 12 %, anses å overskride den øvre grenseverdien, idet det tas hensyn til den utvidede analytiske måleusikkerheten, ved bruk av en dekningsfaktor på 2 som gir en konfidensgrad på ca. 95 %, og korreksjonen for gjenfinning. Dette betyr at den analyserte konsentrasjonen korrigert for gjenfinning og utvidet analytisk måleusikkerhet brukes til å vurdere samsvar. Denne framgangsmåten kan anvendes bare i de tilfeller der analysemetoden gjør det mulig å anslå utvidet analytisk måleusikkerheten og korreksjonen for gjenfinning (dette er f.eks. ikke påkrevd ved visuell/mikroskopisk analyse).
 
 Dersom analyseresultatet av klageadgangsprøven overskrider øvre grenseverdi (uten å ta hensyn til den utvidede analytiske måleusikkerheten), bekrefter dette den manglende overensstemmelsen som er fastslått med kontrollprøven, i fravær av egne nasjonale regler om dette.
@@ -459,16 +713,28 @@ Analyseresultatet skal rapporteres på følgende måte (i den grad den anvendte 
 
 Dersom analyseresultatet er vesentlig lavere (> 50 %) enn den spesifikasjonen som skal kontrolleres, og forutsatt at hensiktsmessige kvalitetsprosedyrer er anvendt og analysen bare har som formål å kontrollere samsvar med lovbestemmelser, kan imidlertid rapportering av gjenfinningsprosent og utvidet analytisk måleusikkerhet utelates (f.eks. i tilfeller der det ikke er noen spesifikasjoner eller noe lovbestemt nivå), med mindre måleusikkerhetet er nødvendig for fortolkning.
 
+7 Konfidensintervallet på 95 % kan oppnås ved at en annen faktor, som t-faktor, benyttes.
+
+###### 7. Analytisk måleusikkerhet og gjenfinningsprosent ved analyse av innholdet av fôrtilsetningsstoffer
+
 For å kontrollere at nedre og øvre grenseverdi i fôrtilsetningsstoffer overholdes, skal det anses at fôrtilsetningsstoffet ikke overholder den fastsatte nedre og øvre grenseverdien dersom analyseresultatet, som et gjennomsnitt av to uavhengige bestemmelser, for fôr med et vanninnhold på 12 %, anses åoverskride øvre grenseverdi, idet det tas hensyn til utvidet analytisk måleusikkerhet og korreksjon for gjenfinning. Dette betyr at den analyserte konsentrasjonen (dvs. gjennomsnitt av to bestemmelser), korrigert for gjenfinning og etter at utvidet analytisk måleusikkerhet er trukket fra, brukes til å vurdere samsvar.være lavere enn minsteinnholdet, idet det tas hensyn til utvidet analytisk måleusikkerhet og korreksjon for gjenfinning. Dette betyr at den analyserte konsentrasjonen (dvs. gjennomsnitt av to bestemmelser), korrigert for gjenfinning og etter at utvidet analytisk måleusikkerhet er lagt til, brukes til å vurdere samsvar.
 
 Dersom analyseresultatet av klageadgangsprøven overskrider øvre grenseverdi (uten å ta hensyn til den utvidede analytiske måleusikkerheten), bekrefter dette den manglende overensstemmelsen som er fastslått med kontrollprøven, i fravær av egne nasjonale regler om dette.
 
 Analyseresultatet skal rapporteres på følgende måte (i den grad den anvendte analysemetoden gjør det mulig å anslå utvidet analytisk måleusikkerhet):Korrigert for gjenfinning, dersom det er hensiktsmessig og relevant, og dersom det er korrigert, skal dette være angitt. Gjenfinningsgraden skal oppgis med mindre egenkorreksjon for skjevhet er en del av framgangsmåten, der skjevhet er forskjellen mellom den målte verdien og referansekonsentrasjonen. Korreksjon for gjenfinning er ikke nødvendig når gjenfinningsgraden er på mellom 90 og 110 %.Som «x ± U», der x er analyseresultatet (gjennomsnitt av to bestemmelser) og U den utvidede analytiske måleusikkerheten, ved bruk av en dekningsfaktor på 28 som gir en konfidensgrad på ca. 95 %.
 
+8 Konfidensintervallet på 95 % kan oppnås ved at en annen faktor, som t-faktor, benyttes.
+
+◄**M8**
+
+►**M8**
+
 ### VEDLEGG III
 Analysemetoder for kontroll av sammensetningen i fôrmidler og fôrblandinger
 
 ### A. Bestemmelse av vanninnhold
+
+###### 1. Formål og virkeområde
 
 Denne metoden gjør det mulig å bestemme vanninnholdet i fôrvarer. Dersom fôrvarer inneholder flyktige stoffer, som organiske syrer, vil også et vesentlig antall flyktige stoffer bestemmes sammen med vanninnholdet.
 
@@ -476,37 +742,73 @@ Metoden er ikke beregnet på analyse av melkeprodukter som brukes som fôrmidler
 
 Bestemmelse av vanninnhold i oljefrø skal bestemmes ved hjelp av metoden fastsatt i EN ISO 665 – Bestemmelse av fuktighet og innhold av flyktige stoffer, idet det forutsettes at soyabønner må males før vanninnholdet bestemmes.
 
+###### 2. Prinsipp
+
 Prøven tørkes under angitte betingelser som varierer etter fôrvarens art. Vekttapet bestemmes ved veiing. Det er nødvendig å foreta en forhåndstørking av fôrvarer i fast form med et høyt vanninnhold.
+
+###### 3. Utstyr
+
+3.1.
 
 Knuser av et materiale som ikke absorberer fuktighet, som er lett å gjøre ren og som muliggjør hurtig og jevn knusing uten merkbar varmeutvikling, og som så langt som mulig hindrer kontakt med luften utenfor og oppfyller kravene i 4.1.1 og 4.1.2 (f.eks. hammermøller eller vannavkjølte mikroknusere, demonterbare kjeglemøller, saktegående knusere eller tannhjulsknusere).
 
+3.2.
+
 Analysevekt med en nøyaktighet på 1 mg.
+
+3.3.
 
 Tørre beholdere av korrosjonsbestandig metall eller glass med lufttette lokk. Nytteflaten skal kunne tillate en spredning av prøven på ca. 0,3 g/cm 9.
 
+3.4.
+
 Elektrisk oppvarmet isotermisk tørkeskap (±2 °C), godt ventilert og utstyrt med hurtigvirkende temperaturregulering 10.
+
+3.5.
 
 Justerbart, elektrisk oppvarmet vakuumtørkeskap som er utstyrt med oljepumpe og enten en mekanisme som bringer inn tørket varmluft, eller et tørkemiddel (f.eks. kalsiumoksid).
 
+3.6.
+
 Eksikkator med en tykk, perforert plate av porselen eller metall, som inneholder et effektivt tørkemiddel.
 
+9 For mer informasjon om beregningen henvises det til EN ISO 6498 – Fôrvarer – Retningslinjer for tillaging av prøve.
+
+10 For tørking av korn, mel, gryn og grovt mel må tørkeskapet ha en slik varmekapasitet at når det er forhåndsinnstilt på 131 °C, kan det igjen oppnå denne temperaturen på mindre enn 45 minutter etter at det maksimale antall prøver er plassert inne i skapet for å tørkes samtidig. Ventilasjonen må være slik at når det største antall prøver av vanlig hvete som det skal romme, har vært tørket i to timer, skal resultatet avvike fra det som oppnås etter fire timers tørking med mindre enn 0,15 %.
+
+###### 4. Framgangsmåte
+
+Merk: Arbeidstrinnene som beskrives i dette avsnittet, må utføres umiddelbart etter at pakningene med prøver er åpnet. Analysen skal foretas minst to ganger.
+
+4.1.
+
 Behandling
+
+4.1.1.
 
 Andre typer fôr enn de som er nevnt i 4.1.2 og 4.1.3
 
 Minst 50 g av prøven knuses om nødvendig eller deles opp på en slik måte at variasjoner i vanninnholdet unngås (se punkt 6).
 
+4.1.2.
+
 Korn og gryn
 
 Minst 50 g av prøven males slik at minst 50 % av partiklene passerer en sikt med maskevidde på 0,5 mm og ikke etterlater seg mer enn 10 % rester i en sikt med runde hull på 1 mm.
+
+4.1.3.
 
 Fôrvarer i flytende form eller pastaform og fôrvarer som hovedsakelig består av oljer og fett
 
 Vei opp ca. 25 g av prøven med en nøyaktighet på 10 mg og tilsett en passende mengde vannfri sand veid opp med en nøyaktighet på 10 mg, og bland til det oppnås et homogent produkt.
 
+4.2.
+
 Tørking
 
 Tørk en beholder (punkt 3.3) med lokk i tørkeskap innstilt på 103 °C i 30 min. ± 1 min. Ta den ut av tørkeskapet og la den avkjøles til omgivelsestemperatur i eksikkatoren (punkt 3.6).
+
+4.2.1.
 
 Andre typer fôrvarer enn de som er nevnt i punkt 4.2.2 og 4.2.3.
 
@@ -514,15 +816,21 @@ Tarer beholderen med lokk med en nøyaktighet på 1 mg. Vei opp ca. 5 g av prøv
 
 Fôr som hovedsakelig består av (> 50 %) oljer og fett av animalsk og vegetabilsk opprinnelse, tørkes i tørkeskapet i ytterligere 30 minutter på 103 °C. Forskjellen mellom de to veiingene skal ikke overskride 0,1 % vanninnhold.
 
+4.2.2.
+
 Korn, mel, gryn og grovt mel
 
 Tarer beholderen med lokk med en nøyaktighet på 0,5 mg. Vei opp ca. 5 g av den knuste prøven med en nøyaktighet på 1 mg i den tarerte beholderen og spre jevnt utover. Beholderen, uten lokk, plasseres i tørkeskapet, som er oppvarmet til 130 °C. For at temperaturen i tørkeskapet ikke skal synke for mye, må beholderen settes inn så raskt som mulig. La det tørke i to timer regnet fra det tidspunkt temperaturen i tørkeskapet igjen har nådd 130 °C. Åpne tørkeskapet og sett straks lokket på beholderen igjen. Ta beholderen ut av tørkeskapet og avkjøl i 30 til 45 minutter i eksikkatoren (punkt 3.6) før den veies med en nøyaktighet på 1 mg.
+
+4.2.3.
 
 Fôrblandinger som inneholder mer enn 4 % sukrose eller laktose: fôrmidler som johannesbrød, hydrolyserte kornprodukter, maltspirer, tørkede fôrbetesnitter, fiskelimvann og pressvæsker fra sukker.
 
 Tarer beholderen med lokk med en nøyaktighet på 0,5 mg. Vei opp ca. 5 g av prøven med en nøyaktighet på 1 mg i den tarerte beholderen og spre jevnt utover. Beholderen, uten lokk, plasseres i vakuumtørkeskapet (punkt 3.5), som er oppvarmet til mellom 80 °C og 85 °C. For at temperaturen i tørkeskapet ikke skal synke for mye, må beholderen settes inn så raskt som mulig.
 
 Bring trykket opp til 100 torr og tørk prøven i fire timer ved dette trykket, enten i en strøm av tørr varmluft eller ved bruk av et tørkemiddel (ca. 300 g for 20 prøver). I det siste tilfellet frakobles vakuumpumpen når det angitte trykk er oppnådd. Tørketiden regnes fra det tidspunktet temperaturen i tørkeskapet igjen har nådd 80 °C til 85 °C. Trykket bringes forsiktig tilbake til atmosfærisk trykk. Åpne tørkeskapet og sett straks lokket på beholderen. Ta beholderen ut av tørkeskapet og avkjøl den i 30 til 45 minutter i eksikkatoren (punkt 3.6) før den veies med en nøyaktighet på 1 mg. Tørk prøven i ytterligere 30 minutter i vakuumtørkeskapet ved 80 °C til 85 °C og vei på nytt. Forskjellen mellom de to veiingene skal ikke overskride 0,1 % vanninnhold.
+
+4.3.
 
 Foreløpig (delvis) tørking
 
@@ -532,36 +840,66 @@ Delvis tørking kan utføres ved hjelp av et tørkeskap med tvungen luftsirkulas
 
 Det anbefales derfor å følge en framgangsmåte i to trinn for bestemmelse av tørrstoff. Først bestemmes innholdet av delvis tørrstoff (hvis det er mindre enn 85 % tørrstoff), deretter bestemmes det gjenværende tørrstoffinnholdet på en malt analyseprøve og det delvise tørrstoffet multipliseres med det gjenværende tørrstoffet for å bestemme det samlede tørrstoffinnholdet.
 
+###### 5. Beregning av resultater
+
 Vanninnholdet (X), som en prosentandel av prøven, beregnes ved bruk av følgende formel:
 
-Tørking uten forhåndstørking $$X=\left(\frac{m-m_{0}}{m}\right)\cdot {100}$$derm = prøvens opprinnelige vekt i g,m0 = den tørkede prøvens vekt i g.
+5.1.
+
+Tørking uten forhåndstørking $$X=\\left(\\frac{m-m_{0}}{m}\\right)\\cdot {100}$$derm = prøvens opprinnelige vekt i g,m0 = den tørkede prøvens vekt i g.
+
+5.2.
 
 Tørking med forhåndstørking11
 
-$$X_{p} = \left\lbrack \frac{\left( m_{2}\ –\ m_{0} \right)\ \cdot \ m_{1}}{m_{2}} + m\ –\ m_{1} \right\rbrack\ \cdot \frac{100}{m} = 100\ \cdot \ \left( 1\ –\frac{m_{1}\ \cdot \ m_{0}}{m\ \cdot \ m_{2}} \right)$$
+$$X_{p} = \\left\\lbrack \\frac{\\left( m_{2}\\ –\\ m_{0} \\right)\\ \\cdot \\ m_{1}}{m_{2}} + m\\ –\\ m_{1} \\right\\rbrack\\ \\cdot \\frac{100}{m} = 100\\ \\cdot \\ \\left( 1\\ –\\frac{m_{1}\\ \\cdot \\ m_{0}}{m\\ \\cdot \\ m_{2}} \\right)$$
 derm = prøvens opprinnelige vekt i g,m1 = prøvens vekt etter forhåndstørking i g,m2 = prøvens vekt etter knusing eller oppmaling i g,m0 = den tørkede prøvens vekt i g.
+
+5.3.
 
 Repeterbarhet
 
 Forskjellen mellom resultatene av to parallelle bestemmelser som utføres på samme prøve, skal ikke overskride 0,2 % av absolutt verdi av vanninnhold, unntatt for vått fôr til kjæledyr og tyggeben til hund, der forskjellen ikke skal overskride 0,5 % av absolutt verdi av vanninnhold.
 
+11 For mer informasjon om beregningen henvises det til EN ISO 6498 – Fôrvarer – Retningslinjer for tillaging av prøve.
+
+###### 6. Observasjon
+
 Dersom det viser seg nødvendig med knusing og dette fører til en endring av vanninnholdet, må resultatene av analysen av fôrvarens bestanddeler korrigeres på grunnlag av vanninnholdet i prøvens opprinnelige tilstand.
 
 ### B. Kvantitativ bestemmelse av vanninnhold i animalsk og vegetabilsk fett og olje
 
+###### 1. Formål og virkeområde
+
 Denne metoden gjør det mulig å bestemme vanninnholdet og innholdet av flyktige stoffer i animalsk og vegetabilsk fett og olje.
+
+###### 2. Prinsipp
 
 Prøven tørkes til en konstant vekt (vekttapet mellom to påfølgende veiinger må være mindre enn eller lik 1 mg) ved 103 °C. Vekttapet bestemmes ved veiing.
 
+###### 3. Utstyr
+
+3.1.
+
 Flatbunnet fat i et korrosjonsbestandig materiale, 8–9 cm i diameter og ca. 3 cm høyt.
+
+3.2.
 
 Termometer med forsterket kule og ekspansjonsrør i øverste ende, gradert fra ca. 80 °C til minst 110 °C, og ca. 10 cm langt.
 
+3.3.
+
 Sandbad eller elektrisk varmeplate.
+
+3.4.
 
 Eksikkator som inneholder et effektivt tørkemiddel.
 
+3.5.
+
 Analysevekt.
+
+###### 4. Framgangsmåte
 
 Vei opp ca. 20 g av den homogeniserte prøven med en nøyaktighet på 1 mg i det tørre, tarerte fatet (punkt 3.1) som inneholder termometeret (punkt 3.2). Varm opp sandbadet eller varmeplaten (punkt 3.3) under konstant omrøring med termometeret, slik at temperaturen når 90 °C innen ca. sju minutter.Senk temperaturen og følg med på hvor hyppig boblene stiger opp fra bunnen av fatet. Temperaturen må ikke overskride 105 °C. Fortsett å røre om fra bunnen av fatet til bobledannelsen opphører.
 
@@ -569,15 +907,25 @@ For å sikre at vanninnholdet fjernes fullstendig, gjentas oppvarmingen til 103 
 
 Merk: Dersom prøvens vekt øker etter gjentatte oppvarminger, indikerer dette at fettet oksideres. I så tilfelle beregnes resultatet på grunnlag av veiingen som ble foretatt umiddelbart før vekten begynte å øke.
 
-Vanninnholdet (X), som en prosentandel av prøven, beregnes ved bruk av følgende formel: $$X = {(m_1 - m_2)} \cdot \frac{100}{m}$$derm = analyseprøvens vekt i g:m1 = fatets vekt (med innhold) før oppvarming, i g,m2 = fatets vekt (med innhold) etter oppvarming, i g,
+###### 5. Beregning av resultater
+
+Vanninnholdet (X), som en prosentandel av prøven, beregnes ved bruk av følgende formel: $$X = {(m_1 - m_2)} \\cdot \\frac{100}{m}$$derm = analyseprøvens vekt i g:m1 = fatets vekt (med innhold) før oppvarming, i g,m2 = fatets vekt (med innhold) etter oppvarming, i g,
 
 Resultater lavere enn 0,05 % skal registreres som «lavere enn 0,05 %».
+
+*Repeterbarhet*
 
 Forskjellen i vanninnhold mellom resultatene av to parallelle bestemmelser som utføres på samme prøve, skal ikke overskride 0,1 % i absolutt verdi.
 
 ### C. Bestemmelse av nitrogeninnhold og beregning av råproteininnhold
 
+###### 1. Formål og virkeområde
+
 Denne metoden gjør det mulig å bestemme innholdet av råprotein i fôrvarer på grunnlag av innholdet av nitrogen i samsvar med Kjeldahl-metoden.12
+
+12 Nitrogeninnholdet kan bestemmes i alle fôr, men omregningsfaktoren på 6,25 for beregning av råproteininnholdet gjelder kanskje ikke for fôrmidler som består av insekter (lavere omregningsfaktor) og visse proteiner fra kjæledyrfôr og blodplasma (høyere omregningsfaktor).
+
+###### 2. Prinsipp
 
 Prøven oppsluttes med svovelsyre i nærvær av en katalysator. Syreløsningen gjøres basisk med en løsning av natriumhydroksid.
 
@@ -585,39 +933,77 @@ Ammoniakken fjernes ved destillering og samles opp i en angitt mengde svovelsyre
 
 Alternativt kan den frigjorte ammoniakken destilleres i et overskudd av borsyreløsning, etterfulgt av titrering med saltsyre- eller svovelsyreløsning.
 
+###### 3. Reagenser
+
+3.1.
+
 Kaliumsulfat.
+
+3.2.
 
 Katalysator: kobber(II)oksid CuO eller kobber(II)sulfat-pentahydrat CuSO4 5H2O.
 
+3.3.
+
 Granulert sink.
+
+3.4.
 
 Svovelsyre, ρ20 = 1,84 g/ml.
 
+3.5.
+
 Svovelsyre, standard volumetrisk løsning, c(H2SO4) = 0,25 mol/l.
+
+3.6.
 
 Svovelsyre, standard volumetrisk løsning, c(H2SO4) = 0,10 mol/l.
 
+3.7.
+
 Svovelsyre, standard volumetrisk løsning, c(H2SO4) = 0,05 mol/l.
+
+3.8.
 
 Indikator for metylrødt: 300 mg metylrødt oppløses i 100 ml etanol, σ = 95–96 % (v/v).
 
+3.9.
+
 Løsning av natriumhydroksid (teknisk kvalitet kan brukes) β = 40 g/100 ml (m/v: 40 %).
+
+3.10.
 
 Natriumhydroksid, standard volumetrisk løsning c(NaOH) = 0,25 mol/l.
 
+3.11.
+
 Natriumhydroksid, standard volumetrisk løsning c(NaOH) = 0,10 mol/l.
+
+3.12.
 
 Granulert pimpstein, vasket i saltsyre og forasket.
 
+3.13.
+
 Acetanilid (smeltepunkt = 114 °C, N-innhold = 10,36 %).
+
+3.14.
 
 Sukrose (nitrogenfri).
 
+3.15.
+
 Borsyre (H3BO3).
+
+3.16.
 
 Løsning med indikator for metylrødt: 100 mg metylrødt oppløses i 100 ml etanol eller metanol.
 
+3.17.
+
 Løsning med bromkresolgrønt: 100 mg bromkresolgrønt oppløses i 100 ml etanol eller metanol.
+
+3.18.
 
 Borsyreløsning (10 g/l til 40 g/l avhengig av utstyret som brukes).
 
@@ -627,11 +1013,19 @@ pH-verdien til borsyreløsningen kan variere fra prøve til prøve avhengig av v
 
 Merk: Tilsetting av ca. 3–4 ml NaOH (punkt 3.11) i 1 liter 10 g/l borsyre gir vanligvis gode justeringer. Oppbevar løsningen i romtemperatur og beskytt den mot lys og ammoniakkdampkilder under oppbevaringen.
 
+3.19.
+
 Saltsyre, standard volumetrisk løsning c(HCl) = 0,10 mol/l.
 
 Merk: Andre konsentrasjoner av volumetriske løsninger (punkt 3.5, 3.6, 3.7, 3.10, 3.11 og 3.19) kan brukes dersom det korrigeres for dette i beregningene. Konsentrasjonene skal alltid uttrykkes med fire desimaler.
 
+###### 4. Utstyr
+
 Apparater som er egnet til oppslutning, destillering og titrering etter Kjeldahl-metoden.
+
+###### 5. Framgangsmåte
+
+5.1.
 
 Oppslutning
 
@@ -641,15 +1035,21 @@ Varm opp kolben forsiktig i begynnelsen og roter den av og til om nødvendig til
 
 Når løsningen er blitt klar og lysegrønn, kokes den videre i ytterligere to timer før den settes bort til avkjøling.
 
+5.2.
+
 Destillasjon
 
 Tilsett forsiktig tilstrekkelig med vann for å sikre at sulfatene oppløses fullstendig. Avkjøl løsningen, og tilsett om nødvendig noen stykker granulert sink (punkt 3.3). Fortsett med punkt 5.2.1 eller 5.2.2.
+
+5.2.1.
 
 Destillering til svovelsyre
 
 Avhengig av det forventede nitrogeninnholdet helles nøyaktig 25 ml svovelsyre (punkt 3.5) eller (punkt 3.7) opp i destillasjonsapparatets oppsamlingskolbe, og det tilsettes et par dråper indikator for metylrødt (punkt 3.8).
 
 Oppslutningskolben forbindes med destillasjonsapparatets kjøleapparat, og kjøleapparatets ende dyppes minst 1 cm ned i væsken i oppsamlingskolben (se merknad punkt 8.3). Hell langsomt 100 ml av løsningen av natriumhydroksid (punkt 3.9) ned i oppslutningskolben uten tap av ammoniakk (se merknad punkt 8.1). Varm opp kolben til ammoniakken er fullstendig destillert.
+
+5.2.2.
 
 Destillering til borsyre
 
@@ -659,13 +1059,19 @@ Plasser en oppsamlingskolbe som inneholder 25–30 ml av borsyreløsningen (punk
 
 Merk: I en halvautomatisk destillasjonsenhet skjer tilsettingen av overskytende natriumhydroksid og dampdestillasjon automatisk.
 
+5.3.
+
 Titrering
 
 Fortsett med punkt 5.3.1 eller 5.3.2.
 
+5.3.1.
+
 Svovelsyre
 
 Overskuddet av svovelsyre titreres i oppsamlingskolben med løsningen av natriumhydroksid (punkt 3.10 eller 3.11), avhengig av konsentrasjonen av den anvendte svovelsyren, til endepunktet nås.
+
+5.3.2.
 
 Borsyre
 
@@ -685,70 +1091,128 @@ I dette tilfellet brukes en automatisk titrator med et pH-meter. pH-meteret skal
 
 Titreringens pH-endepunkt nås ved pH 4,6, som er det dypeste punktet i titreringskurven (vendepunkt).
 
+5.4.
+
 Blindprøve
 
 For å bekrefte at reagensene er nitrogenfrie, foretas en blindprøve (oppslutning, destillering og titrering) ved å bruke 1 g sukrose (punkt 3.14) i stedet for prøven.
 
+###### 6. Beregning av resultater
+
 Beregningene utføres som beskrevet i punkt 6.1 eller 6.2.
+
+6.1.
 
 Beregning ved titrering som beskrevet i punkt 5.3.1
 
-Innholdet av råprotein, uttrykt i vektprosent, beregnes ved hjelp av følgende formel: $$\frac{(V_0 - V_1) \cdot c \cdot 0{,}014 \cdot 100 \cdot 6{,}25}{\text{m}}$$
+Innholdet av råprotein, uttrykt i vektprosent, beregnes ved hjelp av følgende formel: $$\\frac{(V_0 - V_1) \\cdot c \\cdot 0{,}014 \\cdot 100 \\cdot 6{,}25}{\\text{m}}$$
 derV0 = volum (ml) av NaOH (punkt 3.10 eller 3.11) brukt i blindprøvenV1 = volum (ml) av NaOH (punkt 3.10 eller 3.11) brukt ved titrering av prøvenc = konsentrasjonen (mol/l) av natriumhydroksid (punkt 3.10 eller 3.11)m = prøvens vekt i g
+
+6.2.
 
 Beregning ved titrering som beskrevet i punkt 5.3.2
 
+6.2.1.
+
 Titrering med saltsyre
 
-Innholdet av råprotein, uttrykt i vektprosent, beregnes ved hjelp av følgende formel: $$ \frac{(V_1 - V_0) \cdot c \cdot 1{,}4 \cdot 6{,}25}{\text {m}} $$
+Innholdet av råprotein, uttrykt i vektprosent, beregnes ved hjelp av følgende formel: $$ \\frac{(V_1 - V_0) \\cdot c \\cdot 1{,}4 \\cdot 6{,}25}{\\text {m}} $$
 derm = prøvemengdens vekt i gc = konsentrasjonen (mol/l) av standard volumetrisk løsning av saltsyre (punkt 3.19)V0 = volum (ml) av saltsyre brukt til blindprøvenV1 = volum (ml) av saltsyre brukt til prøvemengden.
+
+6.2.2.
 
 Titrering med svovelsyre
 
-Innholdet av råprotein, uttrykt i vektprosent, beregnes ved hjelp av følgende formel: $$ \frac {(V_1 - V_0) \cdot c \cdot 2{,}8 \cdot 6{,}25}{\text m} $$
+Innholdet av råprotein, uttrykt i vektprosent, beregnes ved hjelp av følgende formel: $$ \\frac {(V_1 - V_0) \\cdot c \\cdot 2{,}8 \\cdot 6{,}25}{\\text m} $$
 derm = prøvemengdens vekt i gc = konsentrasjonen (mol/l) av standard volumetrisk løsning avsvovelsyre (punkt 3.6)V0 = volum (ml) av svovelsyre (punkt 3.6) brukt til blindprøvenV1 = volum (ml) av svovelsyre (punkt 3.6) brukt til prøvemengden.
+
+###### 7. Verifisering av metoden
+
+7.1.
 
 Repeterbarhet
 
 Forskjellen mellom resultatene av to parallelle bestemmelser som utføres på samme prøve, må ikke overskride0,4 % i absolutt verdi for et innhold av råprotein på mindre enn 20 %,2,0 % av det høyeste resultatet for et innhold av råprotein på 20–40 %,0,8 % i absolutt verdi for et innhold av råprotein på mer enn 40 %,
 
+7.2.
+
 Reproduserbarhet
 
 Forskjellen mellom resultatene av to parallelle bestemmelser som utføres på samme prøve i ulike laboratorier, må ikke overskride1,8 % i absolutt verdi for et innhold av råprotein på mindre enn 20 %,9,0 % av det høyeste resultatet for et innhold av råprotein på 20–40 %,3,6 % i absolutt verdi for et innhold av råprotein på mer enn 40 %,
+
+7.3.
 
 Nøyaktighet
 
 Utfør analysen (oppslutning, destillering og titrering) på en passende mengde acetanilid (punkt 3.13) (f.eks. 0,2 til 0,3 g) i nærvær av 1 g sukrose (punkt 3.14). 1 g acetanilid forbruker 14,80 ml svovelsyre (punkt 3.5). Gjenfinningen må være på minst 99 %.
 
+###### 8. Merknader
+
+8.1.
+
 Apparatet kan være manuelt, halvautomatisk eller automatisk. Dersom apparatet krever omhelling mellom oppslutning og destillering, må omhellingen utføres uten tap. Dersom kolben på destilleringsapparatet ikke er utstyrt med dråpetrakt, tilsettes natriumhydroksid umiddelbart før kolben forbindes med kjøleapparatet, ved at væsken helles langsomt nedover langs kolbens vegg.
+
+8.2.
 
 Dersom oppslutningsproduktet størkner, gjentas bestemmelsen ved å bruke en større mengde svovelsyre (punkt 3.4) enn angitt i punkt 5.1.
 
+8.3.
+
 For produkter med lavt nitrogeninnhold kan mengden svovelsyre (punkt 3.7) som skal helles over i oppsamlingskolben, om nødvendig reduseres til 10 eller 15 ml, og kolben kan fylles opp med vann til 25 ml.
+
+8.4.
 
 Ved rutineanalyse kan alternative analysemetoder brukes til å bestemme innholdet av råprotein, men Kjeldahl-metoden beskrevet i denne del C er referansemetode. Ekvivalensen mellom resultatene oppnådd med den alternative metoden (f.eks. DUMAS) og resultatene oppnådd med referansemetoden skal demonstreres for hver enkelt matrise. Da resultatene oppnådd med en alternativ metode, selv etter at ekvivalensen er verifisert, kan avvike noe fra resultatene oppnådd med referansemetoden, må analysemetoden som er brukt til å bestemme innholdet av råprotein, nevnes i analyserapporten.
 
 ### D. Bestemmelse av urea
 
+###### 1. Formål og virkeområde
+
 Denne metoden gjør det mulig å bestemme innholdet av urea brukt som fôrtilsetningsstoff i fôr til drøvtyggere.
+
+###### 2. Prinsipp
 
 Prøven suspenderes i vann med et klaringsmiddel. Suspensjonen filtreres. Bestem innholdet av urea i filtratet etter tilsetting av 4-dimetylaminobenzaldehyd (4-DMAB) ved å måle den optiske tettheten ved en bølgelengde på 420 nm.
 
+###### 3. Reagenser
+
+3.1.
+
 Løsning av 4-dimetylaminobenzaldehyd: Løs opp 1,6 g 4-DMAB i 100 ml 96 % etanol og tilsett 10 ml saltsyre (ρ201,19 g/ml). Denne reagensen kan oppbevares i høyst to uker.
+
+3.2.
 
 Carrez I-løsning: Løs opp 21,9 g sinkacetat Zn(CH3COO)2 2H2O og 3 g iseddik i vann. Fyll opp med vann til 100 ml.
 
+3.3.
+
 Carrez II-løsning: Løs opp 10,6 g kaliumferrocyanid, K4 Fe (CN)6 3H2O i vann. Fyll opp med vann til 100 ml.
+
+3.4.
 
 Aktivt karbon som ikke absorberer urea (må kontrolleres).
 
+3.5.
+
 0,1 % (w/v) urealøsning.
+
+###### 4. Utstyr
+
+4.1.
 
 Blandeapparat (mekanisk risteapparat): ca. 35–40 o/min
 
+4.2.
+
 Reagensglass: 160 × 16 mm med propp av slipt glass.
 
+4.3.
+
 Spektrofotometer.
+
+###### 5. Framgangsmåte
+
+5.1.
 
 Analysering av prøven
 
@@ -756,21 +1220,33 @@ Vei opp 2 g av prøven med en nøyaktighet på 1 mg og overfør til en 500 ml m�
 
 Ta av 5 ml av det klare, fargeløse filtratet og ha det i reagensglass med propper av slipt glass, tilsett 5 ml 4-DMAB-løsning (punkt 3.1) og bland. Sett reagensglassene i vannbad 20 °C (± 4 °C). Etter 15 minutter måles den optiske tettheten til prøveløsningen med spektrofotometeret ved 420 nm og sammenlignes med blindprøveløsningene av reagensene.
 
+5.2.
+
 Kalibreringskurve
 
 Ta av volumer på 1, 2, 4, 5 og 10 ml urealøsning (punkt 3.5), hell dem i 100 ml målekolber og fyll opp til merket med vann. Ta av 5 ml fra hver løsning, tilsett 5 ml 4-DMAB-løsning (punkt 3.1) i hver av dem, homogeniser og mål den optiske tettheten som vist over, og sammenlign med en kontrolløsning som inneholder 5 ml 4-DMAB og 5 ml vann, men ikke urea. Tegn opp kalibreringskurven.
+
+###### 6. Beregning av resultater
 
 Bestem mengden av urea i prøven ut fra kalibreringsprøven.
 
 Resultatet uttrykkes i mg urea per kg prøve.
 
+###### 7. Vurdering av metoden
+
+7.1.
+
 Repeterbarhet
 
 Forskjellen mellom resultatene av to bestemmelser som utføres på samme prøve i samme laboratorium og av samme driftsansvarlig, må ikke overskrideved 420 nm:50 % av det høyeste resultatet for et innhold av urea fra 3 000 mg/kg til under 5 000 mg/kg,25 % av det høyeste resultatet for et innhold av urea fra 5 000 mg/kg til under 7 000 mg/kg,20 % av det høyeste resultatet for et innhold av urea fra på 7 000 mg/kg eller mer.ved 435 nm:40 % av det høyeste resultatet for et innhold av urea fra 3 000 mg/kg til under 5 000 mg/kg,25 % av det høyeste resultatet for et innhold av urea fra 5 000 mg/kg til under 9 000 mg/kg,5 % av det høyeste resultatet for et innhold av urea fra på 9 000 mg/kg eller mer.
 
+7.2.
+
 Reproduserbarhet
 
 Forskjellen mellom resultatene av to parallelle bestemmelser som utføres på samme prøve i ulike laboratorier og/eller av ulike driftsansvarlige, må ikke overskrideved 420 nm:3 000 mg/kg i absolutt verdi for et innhold av urea fra 3 000 mg/kg til under 12 000 mg/kg,4 500 mg/kg i absolutt verdi for et innhold av urea på 12 000 mg/kg eller over.ved 435 nm:50 % av det høyeste resultatet for et innhold av urea fra 3 000 mg/kg til under 8 000 mg/kg,25 % av det høyeste resultatet for et innhold av urea fra på 8 000 mg/kg eller mer.
+
+###### 8. Resultater av en undersøkelse foretatt ved flere laboratorier
 
 Det ble organisert en sammenlignende undersøkelse mellom laboratorier i EU der 18 laboratorier deltok. Fem positive prøver av fôrblanding for drøvtyggere (i tabell 1 og 2 referert til som MAT) ble analysert (en analyse) ved blindbestemmelse med dobbeltprøver, mens én blindprøve av fôrblanding for drøvtyggere ble analysert én gang.
 
@@ -778,20 +1254,49 @@ Det ble gjort beregninger for grenser for repeterbarhet (r) og reproduserbarhet 
 
 De beregnede verdiene for metodens yteevne (repeterbarhet, reproduserbarhet) er angitt i tabeller nedenfor. I alle testede prøver, herunder blindprøvene, ble det ikke funnet falske positiver eller falske negativer.
 
+*Tabell 1*
+
 Metodens ytelsesegenskaper for urea målt ved λ = 420 nm i alle materialer
 
-*MAT 2**MAT 5**MAT 3**MAT 4**MAT 6**Sau**Storfe**Sau**Sau**Storfe*Målmassefraksjon (mg kg-1)3 0005 0007 0019 03611 000Gjennomsnittlig massefraksjoner (mg kg-1)4 2416 9937 8309 96212 071Standardavvik for reproduserbarhet, sR (mg kg-1)1 1411 3039859941 711Standardavvik for repeterbarhet, sr (mg kg-1)723601549712737Relativt standardavvik for reproduserbarhet RSDR (%)2719131014Relativt standardavvik for repeterbarhet RSDr (%)179776Reproduserbarhetsgrense*, R*
-[R = 2,8 × sR]3 1953 6492 7592 7844 790Repeterbarhetsgrense*, r*
-[r = 2,8 × sr]2 0241 6841 5361 9942 064
+|  | *MAT 2* | *MAT 5* | *MAT 3* | *MAT 4* | *MAT 6* |
+| --- | --- | --- | --- | --- | --- |
+|  | *Sau* | *Storfe* | *Sau* | *Sau* | *Storfe* |
+| Målmassefraksjon (mg kg-1) | 3 000 | 5 000 | 7 001 | 9 036 | 11 000 |
+| Gjennomsnittlig massefraksjoner (mg kg-1) | 4 241 | 6 993 | 7 830 | 9 962 | 12 071 |
+| Standardavvik for reproduserbarhet, sR (mg kg-1) | 1 141 | 1 303 | 985 | 994 | 1 711 |
+| Standardavvik for repeterbarhet, sr (mg kg-1) | 723 | 601 | 549 | 712 | 737 |
+| Relativt standardavvik for reproduserbarhet RSDR (%) | 27 | 19 | 13 | 10 | 14 |
+| Relativt standardavvik for repeterbarhet RSDr (%) | 17 | 9 | 7 | 7 | 6 |
+| Reproduserbarhetsgrense*, R*<br>[R = 2,8 × sR] | 3 195 | 3 649 | 2 759 | 2 784 | 4 790 |
+| Repeterbarhetsgrense*, r*<br>[r = 2,8 × sr] | 2 024 | 1 684 | 1 536 | 1 994 | 2 064 |
 
-Metodens ytelsesegenskaper for urea målt ved λ = 435 nm i alle materialer*MAT 2**MAT 5**MAT 3**MAT 4**MAT 6**Sau**Storfe**Sau**Sau**Storfe*Målmassefraksjon (mg kg-1)3 0005 0007 0019 03611 000Gjennomsnittlig massefraksjoner (mg kg-1)4 1016 4677 89010 06211 642Standardavvik for reproduserbarhet, sR (mg kg-1)7061 1946757451 378Standardavvik for repeterbarhet, sr (mg kg-1)570628613196167Relativt standardavvik for
-reproduserbarhet RSDr (%)17189712Relativt standardavvik for repeterbarhet RSDr (%)1410821Reproduserbarhetsgrense*, R*
-[R = 2,8 × sR]19773344188920873859Repeterbarhetsgrense*, r*
-[r = 2,8 × sr]159617591715549467
+*Tabell 2*
+
+Metodens ytelsesegenskaper for urea målt ved λ = 435 nm i alle materialer
+
+|  | *MAT 2* | *MAT 5* | *MAT 3* | *MAT 4* | *MAT 6* |
+| --- | --- | --- | --- | --- | --- |
+|  | *Sau* | *Storfe* | *Sau* | *Sau* | *Storfe* |
+| Målmassefraksjon (mg kg-1) | 3 000 | 5 000 | 7 001 | 9 036 | 11 000 |
+| Gjennomsnittlig massefraksjoner (mg kg-1) | 4 101 | 6 467 | 7 890 | 10 062 | 11 642 |
+| Standardavvik for reproduserbarhet, sR (mg kg-1) | 706 | 1 194 | 675 | 745 | 1 378 |
+| Standardavvik for repeterbarhet, sr (mg kg-1) | 570 | 628 | 613 | 196 | 167 |
+| Relativt standardavvik for<br>reproduserbarhet RSDr (%) | 17 | 18 | 9 | 7 | 12 |
+| Relativt standardavvik for repeterbarhet RSDr (%) | 14 | 10 | 8 | 2 | 1 |
+| Reproduserbarhetsgrense*, R*<br>[R = 2,8 × sR] | 1977 | 3344 | 1889 | 2087 | 3859 |
+| Repeterbarhetsgrense*, r*<br>[r = 2,8 × sr] | 1596 | 1759 | 1715 | 549 | 467 |
+
+###### 9. Merknader
+
+9.1.
 
 Dersom innholdet av urea er over 3 %, reduseres prøven til 1 g, eller den opprinnelige prøven fortynnes slik at det ikke er mer enn 50 mg urea i 500 ml.
 
+9.2.
+
 Dersom innholdet av urea er lavt, kan prøven økes så lenge filtratet holder seg klart og fargeløst.
+
+9.3.
 
 Resultatene ovenfor fra undersøkelse foretatt ved flere laboratorier indikerer ingen vesentlig forskjell i presisjon mellom urea målt ved 420 nm eller ved 435 nm.
 
@@ -799,13 +1304,25 @@ Resultatene ovenfor fra undersøkelse foretatt ved flere laboratorier indikerer 
 
 Analysemetodene som skal brukes til bestemmelse av aminosyrer (med unntak av tryptofan), erEN ISO 13903 Fôrvarer – Bestemmelse av aminosyreinnhold,EN ISO 17180 Fôrvarer – Bestemmelse av lysin, metionin og treonin i kommersielle aminosyreprodukter og premikser13,analysemetoden som beskrevet i punkt 1 til 10 nedenfor.
 
+13 Analysemetoden som er fastsatt i EN 17180, er referert til som en alternativ metode som skal brukes til offentlig kontroll for bestemmelse av aminosyrer i fôr som inneholder mer enn 10 % aminosyrer
+
+###### 1. Formål og virkeområde
+
 Denne metoden gjør det mulig å bestemme frie (syntetiske og naturlige) og totale (peptidbundne og frie) aminosyrer i fôrmidler, fôrblandinger og premikser som inneholder mindre enn 10 %14 av hver aminosyre, ved bruk av en aminosyreanalysator. Metoden kan brukes til følgende aminosyrer: cyst(e)in, metionin, lysin, treonin, alanin, arginin, asparaginsyre, glutaminsyre, glysin, histidin, isoleucin, leucin, fenylalanin, prolin, serin, tyrosin og valin.
 
 Metoden skiller ikke mellom aminosyrenes ulike salter og kan ikke differensiere mellom D- og L-former av aminosyrer. Den skal ikke brukes til bestemmelse av tryptofan- eller hydroksy-analoger av aminosyrer.
 
+14 Denne metoden er ikke validert gjennom en undersøkelse foretatt ved flere laboratorier for premikser som inneholder mer enn 10 % fôrtilsetningsstoffer. Den kan imidlertid også brukes på disse matrisene med passende mindre endringer, forutsatt at metoden deretter valideres internt. For ytterligere opplysninger, se https://ec.europa.eu/jrc/en/eurl/feed-additives/authorisation.
+
+###### 2. Prinsipp
+
+2.1.
+
 Frie aminosyrer
 
 Frie aminosyrer ekstraheres med fortynnet saltsyre. Nitrogenholdige makromolekyler som ekstraheres samtidig, utfelles med sulfosalisylsyre og fjernes ved filtrering. Den filtrerte løsningen justeres til pH 2,20. Aminosyrene skilles ved ionebytterkromatografi og bestemmes ved reaksjon med ninhydrin gjennom fotometrisk påvisning ved 570 nm.
+
+2.2.
 
 Totale aminosyrer
 
@@ -813,67 +1330,121 @@ Metoden som velges, er avhengig av aminosyrene som skal undersøkes. Cyst(e)in o
 
 Oksidasjon skjer ved 0 °C med en fenolholdig permaursyre. Overskytende oksidasjonsreagens nedbrytes med natriumdisulfitt. Den oksiderte eller uoksiderte prøven hydrolyseres med saltsyre (punkt 3.20) i 23 timer. Hydrolysatet justeres til pH 2,20. Aminosyrene skilles ved ionebytterkromatografi og bestemmes ved reaksjon med ninhydrin gjennom fotometrisk påvisning ved 570 nm (440 nm for prolin).
 
+###### 3. Reagenser
+
 Dobbeltdestillert vann eller vann av tilsvarende kvalitet (konduktivitet < 10 μS) må benyttes.
+
+3.1.
 
 Hydrogenperoksid, w (w/w) = 30 %.
 
+3.2.
+
 Maursyre, w (w/w) = 98–100 %
+
+3.3.
 
 Fenol.
 
+3.4.
+
 Natriumdisulfitt.
+
+3.5.
 
 Natriumhydroksid.
 
+3.6.
+
 5-sulfosalisylsyre-dihydrat.
+
+3.7.
 
 Saltsyre, tetthet ca. 1,18 g/ml.
 
+3.8.
+
 Trinatriumsitrat-dihydrat.
+
+3.9.
 
 2,2'-tiodietanol (tiodiglykol).
 
+3.10.
+
 Natriumklorid.
+
+3.11.
 
 Ninhydrin.
 
+3.12.
+
 Petroleumseter, kokeområde 40–60 °C.
+
+3.13.
 
 Norleucin eller andre forbindelser som er egnet til bruk som intern standard.
 
+3.14.
+
 Nitrogengass (< 10 ppm oksygen).
+
+3.15.
 
 1-oktanol.
 
+3.16.
+
 Aminosyrer.
+
+3.16.1.
 
 Standardstoffer for aminosyrene som er nevnt i punkt 1 (Formål og virkeområde). Rene forbindelser som ikke inneholder krystallvann. Tørkes under vakuum over P2O5 eller H2SO4 i én uke før bruk.
 
+3.16.2.
+
 Cysteinsyre.
 
+3.16.3.
+
 Metioninsulfon.
+
+3.17.
 
 Natriumhydroksidløsning, c = 7,5 mol/l:
 
 300 g NaOH (punkt 3.5) oppløses i vann og fortynnes til 1 liter.
 
+3.18.
+
 Natriumhydroksidløsning, c = 1 mol/l:
 
 40 g NaOH (punkt 3.5) oppløses i vann og fortynnes til 1 liter.
+
+3.19.
 
 Fenolholdig maursyreløsning:
 
 889 g maursyre (punkt 3.2) blandes med 111 g vann og tilsettes 4,73 g fenol (punkt 3.3).
 
+3.20.
+
 Hydrolyseblanding, c = 6 mol HCl/l som inneholder 1 g fenol/l:
 
 Tilsett 1 g fenol (punkt 3.3) til 492 ml HCl (punkt 3.7) og fyll opp med vann til 1 liter.
 
+3.21.
+
 Ekstraksjonsløsning, c = 0,1 mol HCl/l som inneholder 2 % tiodiglykol: 8,2 ml HCl (punkt 3.7) fortynnes med ca. 900 ml vann. Tilsett 20 ml tiodiglykol (punkt 3.9) og fyll opp med vann til 1 liter (punkt 3.7 og 3.9 må ikke blandes direkte).
+
+3.22.
 
 5-sulfosalisylsyreløsning, ß = 6 %:
 
 Oppløs 60 g 5-sulfosalisylsyre (punkt 3.6) i vann og fyll på med vann til 1 liter.
+
+3.23.
 
 Oksidasjonsblanding (permaursyre-fenol):
 
@@ -881,15 +1452,25 @@ Bland 0,5 ml hydrogenperoksid (punkt 3.1) med 4,5 ml fenolholdig maursyreløsnin
 
 Advarsel: Unngå kontakt med huden og bruk vernetøy.
 
+3.24.
+
 Sitratbufferløsning, c = 0,2 mol Na+/l, pH 2,20:
 
 Løs opp 19,61 g natriumsitrat (punkt 3.8), 5 ml tiodiglykol (punkt 3.9), 1 g fenol (punkt 3.3) og 16,50 ml HCl (punkt 3.7) i ca. 800 ml vann. Juster pH-verdien til 2,20. Fyll opp med vann til 1 liter.
 
+3.25.
+
 Elueringsbuffere tillaget i samsvar med kravene fastsatt for analysatoren (punkt 4.9).
+
+3.26.
 
 Ninhydrinreagens tillaget i samsvar med kravene fastsatt for analysatoren (punkt 4.9).
 
+3.27.
+
 Standardløsninger av aminosyrer. Løsningene skal oppbevares ved < 5 °C.
+
+3.27.1.
 
 Standardstamløsning av aminosyrer (punkt 3.16.1),
 
@@ -897,13 +1478,19 @@ c = 2,5 μmol/ml av hver aminosyre i saltsyre.
 
 Fås i handelen.
 
+3.27.2.
+
 Standardstamløsning av cysteinsyre og metioninsulfon, c = 1,25 μmol/ml.
 
 Løs opp 0,2115 g cysteinsyre (punkt 3.16.2) og 0,2265 g metioninsulfon (punkt 3.16.3) i sitratbufferløsning (punkt 3.24) i en 1 l målekolbe og fyll opp til merket med sitratbufferløsning. Løsningen kan oppbevares ved < 5 °C i høyst ett år. Denne løsningen benyttes ikke dersom standardstamløsningen (punkt 3.27.1) inneholder cysteinsyre og metioninsulfon.
 
+3.27.3.
+
 Standardstamløsning av intern standard, f.eks. norleucin, c = 20 μmol/ml.
 
 Løs opp 0,6560 g norleucin (punkt 3.13) i sitratbufferløsning (punkt 3.24) i en målekolbe og fyll opp med sitratbufferløsning til 250 ml. Løsningen kan oppbevares ved < 5 °C i høyst seks måneder.
+
+3.27.4.
 
 Kalibreringsløsning av standardaminosyrer til bruk med hydrolysater, c = 5 nmol/50 μl cysteinsyre og metioninsulfon og c = 10 nmol/50 μl av de andre aminosyrene. Løs opp 2,2 g natriumklorid (punkt 3.10) i et 100 ml begerglass med 30 ml sitratbufferløsning (punkt 3.24). Tilsett 4,00 ml standardstamløsning av aminosyrer (punkt 3.27.1), 4,00 ml standardstamløsning av cysteinsyre og metioninsulfon (punkt 3.27.2) og 0,50 ml standardstamløsning av eventuell intern standard (punkt 3.27.3). Juster pH-verdien til 2,20 med natriumhydroksid (punkt 3.18).
 
@@ -913,25 +1500,47 @@ Løsningen kan oppbevares ved < 5 °C i høyst tre måneder.
 
 Se også merknad 9.1.
 
+3.27.5.
+
 Kalibreringsløsning av standardaminosyrer til bruk med hydrolysater framstilt i henhold til punkt 5.3.3.1 og til bruk med ekstrakter (punkt 5.2). Kalibreringsløsningen klargjøres i samsvar med punkt 3.27.4, men det tilsettes ikke natriumklorid.
 
 Løsningen kan oppbevares ved < 5 °C i høyst tre måneder.
 
+###### 4. Utstyr
+
+4.1.
+
 100 eller 250 ml rundbunnet kolbe med tilbakeløpskjøler.
+
+4.2.
 
 100 ml borosilikatglassflaske med skrulokk med gummi-/teflonpakning (f.eks. Duran, Schott) til bruk i tørkeskap.
 
+4.3.
+
 Tørkeskap med tvungen ventilasjon og temperaturregulator med en nøyaktighet på minst ± 2 °C.
+
+4.4.
 
 pH-meter (avlesning med tre desimaler).
 
+4.5.
+
 Membranfilter (0,22 μm).
+
+4.6.
 
 Sentrifuge.
 
+4.7.
+
 Vakuumrotasjonsfordamper.
 
+4.8.
+
 Mekanisk risteapparat eller magnetrører.
+
+4.9.
 
 Aminosyreanalysator eller HPLC-utstyr med ionebytterkolonne, utstyr til ninhydrin-postkolonne-derivatisering og fotometrisk detektor.
 
@@ -939,9 +1548,15 @@ Fyll kolonnen med sulfonert polystyrenharpiks som kan skille aminosyrene fra hve
 
 Med enkelte aminosyreanalysatorer kan det benyttes hydrolysemetoder der hydrolysatet har en natriumkonsentrasjon på c = 0,8 mol/l og inneholder restmengden av maursyre fra oksidasjonstrinnet. Andre analysatorer gir ikke tilfredsstillende separasjon av visse aminosyrer dersom hydrolysatet inneholder overskytende maursyre og/eller høye konsentrasjoner av natriumioner. I dette tilfellet reduseres syrevolumet ved inndamping til ca. 5 ml etter hydrolysen og før pH-justeringen. Inndampingen foretas under vakuum ved høyst 40 °C.
 
+###### 5. Framgangsmåte
+
+5.1.
+
 Tilberedning av prøven
 
 Mal opp prøven til den kan passere gjennom en sikt med maskevidde på 0,5 mm. Prøver med høyt vanninnhold må enten lufttørkes ved en temperatur på høyst 50 °C eller frysetørkes før de males. Prøver med høyt fettinnhold må ekstraheres med petroleumseter (punkt 3.12) før oppmalingen.
+
+5.2.
 
 Bestemmelse av frie aminosyrer
 
@@ -955,7 +1570,11 @@ Fortsett til kromatografi som beskrevet i punkt 5.4.
 
 Dersom ekstraktene ikke undersøkes samme dag, må de oppbevares ved < 5 °C.
 
+5.3.
+
 Bestemmelse av totale aminosyrer
+
+5.3.1.
 
 Oksidasjon
 
@@ -967,7 +1586,11 @@ Sett kolben/flasken i isbad og kjøl ned til 0 °C. Tilsett 5 ml oksidasjonsblan
 
 Fortsett til punkt 5.3.2,1.
 
+5.3.2.
+
 Hydrolyse
+
+5.3.2.1.
 
 Hydrolyse av oksiderte prøver
 
@@ -975,15 +1598,21 @@ Tilsett 25 ml hydrolyseblanding (punkt 3.20) til den oksiderte prøven (framstil
 
 Fortsett med punkt 5.3.2.3 eller 5.3.2.4 avhengig av hydrolysemetoden som benyttes.
 
+5.3.2.2.
+
 Hydrolyse av uoksiderte prøver
 
 Vei opp 0,1 til 1 g av den tillagde prøven (punkt 5.1) med en nøyaktighet på 0,2 mg i en 100 ml eller en 250 ml rundbunnet kolbe (punkt 4.1) eller en 100 ml flaske med skrulokk (punkt 4.2). Den veide prøveporsjonen må ha et nitrogeninnhold på ca. 10 mg. Tilsett forsiktig 25 ml hydrolyseblanding (punkt 3.20) og bland med prøven. Fortsett med enten punkt 5.3.2.3 eller 5.3.2.4.
+
+5.3.2.3.
 
 Åpen hydrolyse
 
 Blandingen i flasken (tillaget i samsvar med punkt 5.3.2.1 eller 5.3.2.2) tilsettes tre glasskuler og kokes kontinuerlig med tilbakeløpskjøler i 23 timer. Etter at hydrolysen er avsluttet, vaskes tilbakeløpskjøleren med 5 ml sitratbufferløsning (punkt 3.24). Kolben tas bort og kjøles i isbad.
 
 Fortsett med punkt 5.3.3.
+
+5.3.2.4.
 
 Lukket hydrolyse
 
@@ -993,9 +1622,13 @@ Avhengig av metoden for justering av pH-verdien (punkt 5.3.3) overføres flasken
 
 Fortsett med punkt 5.3.3.
 
+5.3.3.
+
 Justering av pH
 
 Avhengig av aminosyreanalysatorens (punkt 4.9) natriumtoleranse foretas justering av pH-verdien som beskrevet i punkt 5.3.3.1 eller 5.3.3.2.
+
+5.3.3.1.
 
 For kromatografiske systemer (punkt 4.9) som krever lav natriumkonsentrasjon.
 
@@ -1009,11 +1642,15 @@ Reduser volumet til 5–10 ml ved hjelp av rotasjonsfordamperen (punkt 4.7) unde
 
 Juster pH-verdien til 2,20 med natriumhydroksidløsning (punkt 3.18) og fortsett med punkt 5.3.4.
 
+5.3.3.2.
+
 For alle andre aminosyreanalysatorer (punkt 4.9)
 
 Hydrolysatene tillaget etter punkt 5.3.2.3 eller 5.3.2.4 nøytraliseres delvis ved forsiktig å tilsette 17 ml natriumhydroksidløsning (punkt 3.17) under omrøring, samtidig som temperaturen holdes under 40 °C.
 
 Juster pH-verdien til 2,20 med natriumhydroksidløsningen i punkt 3.17 og deretter med natriumhydroksidløsningen i punkt 3.18 ved romtemperatur. Fortsett til punkt 5.3.4.
+
+5.3.4.
 
 Prøveløsning for kromatografi
 
@@ -1024,6 +1661,8 @@ Dersom intern standard ikke allerede er brukt, tilsettes 2,00 ml intern standard
 Fortsett til kromatografi (punkt 5.4).
 
 Dersom prøveløsningene ikke undersøkes samme dag, må de oppbevares ved < 5 °C.
+
+5.4.
 
 Kromatografi
 
@@ -1041,74 +1680,81 @@ Ved separasjon av treonin og serin skal forholdet mellom bunn og topp for den la
 
 Systemet må sikre at lysin skilles fra «lysin-artefakter» og ornitin.
 
+###### 6. Beregning av resultater
+
 Arealet av toppene i prøveløsningene og standardløsningen måles for hver enkelt aminosyre, og mengden (X) beregnes i g aminosyre per kg prøve:
 
-$$ X = \frac {A \cdot c \cdot M \cdot V} {B \cdot m \cdot 1000} $$
+$$ X = \\frac {A \\cdot c \\cdot M \\cdot V} {B \\cdot m \\cdot 1000} $$
 
 Dersom det brukes en intern standard, multipliseres med: D/CA = toppareal for hydrolysat eller ekstraktB = toppareal for standardkalibreringsløsningC = toppareal for intern standard i hydrolysat eller ekstraktD = toppareal for intern standard, standardkalibreringsløsningM = molvekt for de aminosyrene som bestemmesc = standardløsningens konsentrasjon i μmol/mlm = prøvens vekt i g (korrigert til opprinnelig vekt dersom produktet er tørket eller avfettet)V = ml totalhydrolysat (punkt 5.3.4) eller ml beregnet totalt fortynningsvolum av ekstrakt (punkt 6.1)Både cystin og cystein bestemmes som cysteinsyre i hydrolysater av den oksiderte prøven, men beregnes som cystin (C6H12N2O4S2, M 240,30 g/mol) ved bruk av M 120,15 g/mol (= 0,5 x 240,30 g/mol).Metionin bestemmes som metioninsulfon i hydrolysater av den oksiderte prøven, men beregnes som metionin ved bruk av M av metionin: 149,21 g/mol.Tilsatt fri metionin bestemmes etter ekstraksjon som metionin, mens samme M benyttes til beregningen.
 
-Total fortynningsvolum av ekstrakter (F) for bestemmelse av frie aminosyrer (punkt 5.2) beregnes som følger: $$ F = \frac {100 \text { ml} \cdot (10 \text { ml} + 5 \text { ml})}{10 \text { ml}} \cdot \frac {V}{10} $$= volum av endelig ekstrakt.
+6.1.
+
+Total fortynningsvolum av ekstrakter (F) for bestemmelse av frie aminosyrer (punkt 5.2) beregnes som følger: $$ F = \\frac {100 \\text { ml} \\cdot (10 \\text { ml} + 5 \\text { ml})}{10 \\text { ml}} \\cdot \\frac {V}{10} $$= volum av endelig ekstrakt.
+
+###### 7. Vurdering av metoden
 
 Metoden er blitt utprøvd ved en sammenlignende undersøkelse på internasjonalt plan i 1990 av fire forskjellige fôrvarer (svinefôrblanding, broilerfôrblanding, proteinkonsentrat, premiks).
 
 Merk: Metoden er utprøvd i en annen internasjonal undersøkelse foretatt ved flere laboratorier i 2003 ved blindbestemmelse med dobbeltprøver av sluttfôr til broilere, startfôr til broilere samt prøver av mais, fiskemel og fjørfemel. Nærmere opplysninger finnes i EN ISO 13903.
 
-Resultatene av sammenligningsundersøkelsen fra 1990, etter eliminering av store enkeltavvik, av middel- og standardavvik er oppført i tabellen nedenfor:Middelverdi i g/kg*Referansematerialer**Aminosyre**Treonin**Cyst(e)in**Metionin**Lysin*Svinefôrblanding6,94
-n = 153,01
-n = 173,27
-n = 179,55
-n = 13Broilerfôrblanding9,31
-n = 163,92
-n = 185,08
-n = 1813,93
-n = 16Proteinkonsentrat22,32
-n = 165,06
-n = 1712,01
-n = 1747,74
-n = 15Premiks58,42
-n = 16–90,21
-n = 1698,03
-n = 16
+Resultatene av sammenligningsundersøkelsen fra 1990, etter eliminering av store enkeltavvik, av middel- og standardavvik er oppført i tabellen nedenfor:
+
+Middelverdi i g/kg
+
+| *Referansematerialer* | *Aminosyre* |  |  |  |
+| --- | --- | --- | --- | --- |
+| *Treonin* | *Cyst(e)in* | *Metionin* | *Lysin* |  |
+| Svinefôrblanding | 6,94<br>n = 15 | 3,01<br>n = 17 | 3,27<br>n = 17 | 9,55<br>n = 13 |
+| Broilerfôrblanding | 9,31<br>n = 16 | 3,92<br>n = 18 | 5,08<br>n = 18 | 13,93<br>n = 16 |
+| Proteinkonsentrat | 22,32<br>n = 16 | 5,06<br>n = 17 | 12,01<br>n = 17 | 47,74<br>n = 15 |
+| Premiks | 58,42<br>n = 16 | – | 90,21<br>n = 16 | 98,03<br>n = 16 |
+
+n = antall deltakende laboratorier.
+
+7.1.
 
 Repeterbarhet
 
-Repeterbarheten, uttrykt som «standardavvik i laboratorier» av sammenlignende undersøkelsen i forrige tabell er oppført i tabellen nedenfor:Variasjonskoeffisient (%) for repeterbarhet (CVr)*Referansematerialer**Aminosyre**Treonin**Cyst(e)in**Metionin**Lysin*Svinefôrblanding1,9
-n = 153,3
-n = 173,4
-n = 172,8
-n = 13Broilerfôrblanding2,1
-n = 162,8
-n = 183,1
-n = 182,1
-n = 16Proteinkonsentrat2,7
-n = 162,6
-n = 172,2
-n = 172,4
-n = 15Premiks2,2
-n = 16–2,4
-n = 162,1
-n = 16
+Repeterbarheten, uttrykt som «standardavvik i laboratorier» av sammenlignende undersøkelsen i forrige tabell er oppført i tabellen nedenfor:
+
+Variasjonskoeffisient (%) for repeterbarhet (CVr)
+
+| *Referansematerialer* | *Aminosyre* |  |  |  |
+| --- | --- | --- | --- | --- |
+| *Treonin* | *Cyst(e)in* | *Metionin* | *Lysin* |  |
+| Svinefôrblanding | 1,9<br>n = 15 | 3,3<br>n = 17 | 3,4<br>n = 17 | 2,8<br>n = 13 |
+| Broilerfôrblanding | 2,1<br>n = 16 | 2,8<br>n = 18 | 3,1<br>n = 18 | 2,1<br>n = 16 |
+| Proteinkonsentrat | 2,7<br>n = 16 | 2,6<br>n = 17 | 2,2<br>n = 17 | 2,4<br>n = 15 |
+| Premiks | 2,2<br>n = 16 | – | 2,4<br>n = 16 | 2,1<br>n = 16 |
+
+n = antall deltakende laboratorier.
+
+7.2.
 
 Reproduserbarhet
 
-Resultatene av standardavvik mellom laboratorier ved ovennevnte sammenlignende undersøkelse er oppført i tabellene nedenfor:Variasjonskoeffisient (%) for reproduserbarhet (CVR)*Referansematerialer**Aminosyre**Treonin**Cyst(e)in**Metionin**Lysin*Svinefôrblanding4,1
-n = 159,9
-n = 177,0
-n = 173,2
-n = 13Broilerfôrblanding5,2
-n = 168,8
-n = 1810,9
-n = 185,4
-n = 16Proteinkonsentrat3,8
-n = 1612,3
-n = 1713,0
-n = 173,0
-n = 15Premikstur4,3
-n=16______6,9
-n=166,7
-n=16
+Resultatene av standardavvik mellom laboratorier ved ovennevnte sammenlignende undersøkelse er oppført i tabellene nedenfor:
+
+Variasjonskoeffisient (%) for reproduserbarhet (CVR)
+
+| *Referansematerialer* | *Aminosyre* |  |  |  |
+| --- | --- | --- | --- | --- |
+| *Treonin* | *Cyst(e)in* | *Metionin* | *Lysin* |  |
+| Svinefôrblanding | 4,1<br>n = 15 | 9,9<br>n = 17 | 7,0<br>n = 17 | 3,2<br>n = 13 |
+| Broilerfôrblanding | 5,2<br>n = 16 | 8,8<br>n = 18 | 10,9<br>n = 18 | 5,4<br>n = 16 |
+| Proteinkonsentrat | 3,8<br>n = 16 | 12,3<br>n = 17 | 13,0<br>n = 17 | 3,0<br>n = 15 |
+| Premikstur | 4,3<br>n=16 | ______ | 6,9<br>n=16 | 6,7<br>n=16 |
+
+n = antall deltakende laboratorier.
+
+###### 8. Bruk av referansemateriale
 
 Det skal kontrolleres at metoden brukes korrekt ved å foreta gjentatte målinger med sertifiserte referansematerialer, når slike finnes. Det anbefales at sertifisert aminosyre-kalibreringsløsning brukes til kalibrering.
+
+###### 9. Merknader
+
+9.1.
 
 På grunn av forskjellene mellom aminosyreanalysatorer skal de endelige konsentrasjonene av kalibreringsløsningene av standardaminosyrene (se punkt 3.27.4 og 3.27.5) og av hydrolysatet (se punkt 5.3.4) betraktes som veiledende.
 
@@ -1116,15 +1762,25 @@ Apparatets lineære responsområde skal kontrolleres for alle aminosyrer.
 
 Standardløsningen fortynnes med sitratbufferløsning for å oppnå topparealer på midten av området.
 
+9.2.
+
 Dersom det benyttes utstyr for høyoppløselig væskekromatografi til å analysere hydrolysatene, skal prøveforholdene optimeres i samsvar med produsentens anbefalinger.
+
+9.3.
 
 Dersom metoden anvendes på fôrblandinger som inneholder mer enn 1 % klorid (konsentrat, mineralfôr, tilskuddsfôr), kan det forekomme undervurdering av metionin, og det må foretas en særlig behandling.
 
+###### 10. Ytelseskriterier
+
 Sammenstilling av resultatene (unntatt for tyrosin) som kommer fra de to undersøkelse foretatt ved flere laboratorier (fra 1990 rapportert i punkt 7 over og fra 2005 rapportert i EN/ISO 13903), gir følgende kriterier for repeterbarhet og reproduserbarhet. Verdiene som er avledet fra disse to sammenlignende undersøkelser mellom laboratorier, kan muligens ikke brukes i andre konsentrasjonsområder og matriser enn de som er oppgitt.
+
+10.1.
 
 Repeterbarhet
 
 Forskjellen mellom resultatene av to bestemmelser som utføres på samme prøve i samme laboratorium og av samme driftsansvarlig, må ikke overskride6 % av det høyeste resultatet for totale aminosyrer for glysin, alanin, lysin, prolin, glutaminsyre, isoleucin og histidin,8 % av det høyeste resultatet for totale aminosyrer for treonin, fenylalanin, metionin, asparaginsyre og leucin,10 % av det høyeste resultatet for totale aminosyrer for arginin og valin,12 % av det høyeste resultatet for total serinaminosyre,15 % av det høyeste resultatet for total cyst(e)in-aminosyre.
+
+10.2.
 
 Reproduserbarhet
 
@@ -1134,7 +1790,11 @@ Forskjellen mellom resultatene av to parallelle bestemmelser som utføres på sa
 
 Analysemetodene som skal brukes til bestemmelse av tryptofan, erEN ISO 13904 Fôrvarer – Bestemmelse av tryptofaninnhold,analysemetoden som beskrevet i punkt 1 til 9 nedenfor.
 
+###### 1. Formål og virkeområde
+
 Dette er en metode for bestemmelse av totalinnholdet av tryptofan og innholdet av fritt tryptofan i fôrvarer. Det skilles ikke mellom D-formen og L-formen.
+
+###### 2. Prinsipp
 
 For bestemmelse av totalinnholdet av tryptofan hydrolyseres prøven i et basisk miljø med en mettet bariumhydroksidløsning og holdes oppvarmet ved 110 °C i 20 timer. Etter hydrolysen tilsettes intern standard.
 
@@ -1142,51 +1802,87 @@ For bestemmelse av fritt tryptofan ekstraheres prøven i et svakt surt miljø ve
 
 Tryptofanet og den interne standarden i hydrolysatet eller ekstraktet bestemmes ved HPLC med fluorescensdetektor.
 
+###### 3. Reagenser
+
+3.1.
+
 Dobbeltdestillert vann eller vann av tilsvarende kvalitet (konduktivitet < 10 μS/cm).
+
+3.2.
 
 Standard: tryptofan (renhet/innhold ≥ 99 %) tørket i vakuum over fosforpentoksid.
 
+3.3.
+
 Intern standard: α-metyltryptofan (renhet/innhold ≥ 99 %) tørket i vakuum over fosforpentoksid.
+
+3.4.
 
 Bariumhydroksidoktahydrat (unngå å utsette Ba(OH)2.8 H2O for større mengder luft, ettersom det da kan dannes BaCO3 som kan forstyrre bestemmelsen) (se merknad punkt 9.3).
 
+3.5.
+
 Natriumhydroksid.
+
+3.6.
 
 Ortofosforsyre, w (w/w) = 85 %.
 
+3.7.
+
 Saltsyre, ρ20 1,19 g/ml.
+
+3.8.
 
 Metanol, HPLC-kvalitet.
 
+3.9.
+
 Petroleumseter, kokeområde 40–60 °C.
+
+3.10.
 
 Natriumhydroksidløsning, c = 1 mol/l:
 
 Løs opp 40,0 g NaOH (punkt 3.5) i vann og fyll opp med vann (punkt 3.1) til 1 liter.
 
+3.11.
+
 Saltsyre, c = 6 mol/l:
 
 Fortynn 492 ml saltsyre (punkt 3.7) med vann til 1 liter.
+
+3.12.
 
 Saltsyre, c = 1 mol/l:
 
 Fortynn 82 ml saltsyre (punkt 3.7) med vann til 1 liter.
 
+3.13.
+
 Saltsyre, c = 0,1 mol/l:
 
 Fortynn 8,2 ml saltsyre (punkt 3.7) med vann til 1 liter.
+
+3.14.
 
 Ortofosforsyre, c = 0,5 mol/l:
 
 Fortynn 34 ml ortofosforsyre (punkt 3.6) med vann (punkt 3.1) til 1 liter.
 
+3.15.
+
 Konsentrert tryptofanløsning (punkt 3.2), c = 2,50 μmol/ml:
 
 Løs opp 0,2553 g tryptofan (punkt 3.2) i saltsyre (punkt 3.13) i en 500 ml målekolbe og fyll opp med saltsyre (punkt 3.13) til merket. Løsningen kan lagres ved –18 °C i høyst fire uker.
 
+3.16.
+
 Konsentrert intern standardløsning, c = 2,50 μmol/ml:
 
 Løs opp 0,2728 g α-methyltryptofan (punkt 3.3) i saltsyre (punkt 3.13) i en 500 ml målekolbe og fyll opp med saltsyre (punkt 3.13) til merket. Løsningen kan lagres ved –18 °C i høyst fire uker.
+
+3.17.
 
 Standardkalibreringsløsning av tryptofan og intern standard:
 
@@ -1196,35 +1892,69 @@ Denne løsningen skal tillages like før bruk.
 
 Løsningen beskyttes mot direkte sollys under tillaging.
 
+3.18.
+
 Eddiksyre.
+
+3.19.
 
 1,1,1-triklor-2-metyl-2-propanol.
 
+3.20.
+
 Etanolamin w (w/w) > 98 %.
+
+3.21.
 
 Løsning av 1 g 1,1,1-triklor-2-metyl-2-propanol (punkt 3.19) i 100 ml metanol (punkt 3.8).
 
+3.22.
+
 Mobil fase for HPLC: 3,00 g eddiksyre (punkt 3.18) + 900 ml vann (punkt 3.1) + 50,0 ml løsning (punkt 3.21) av 1,1,1-triklor-2-metyl-2-propanol (punkt 3.19) i metanol (punkt3.8) (1 g/100 ml). Juster pH-verdien til 5,00 med etanolamin (punkt 3.20). Fyll opp med vann (punkt 3.1) til 1 000 ml.
+
+###### 4. Utstyr
+
+4.1.
 
 HPLC-utstyr med spektrofluorimetrisk detektor.
 
+4.2.
+
 Væskekromatografikolonne, 125 mm × 4 mm, C18, 3 µm kolonnepakning eller tilsvarende.
+
+4.3.
 
 pH-meter.
 
+4.4.
+
 Polypropylenkolbe, 125 ml, med vid hals og skrukork.
+
+4.5.
 
 Membranfilter, 0,45 μm.
 
+4.6.
+
 Autoklav, 110 (± 2) °C, 1,4 (± 0,1) bar.
+
+4.7.
 
 Mekanisk risteapparat eller magnetrører.
 
+4.8.
+
 Vortex blandeapparat.
+
+###### 5. Framgangsmåte
+
+5.1.
 
 Tillaging av prøver
 
 Mal opp prøven til den kan passere gjennom en sikt med maskevidde på 0,5 mm. Prøver med høyt vanninnhold må enten lufttørkes ved en temperatur på høyst 50 °C eller frysetørkes før de males. Prøver med høyt fettinnhold må ekstraheres med petroleumseter (punkt 3.9) før oppmalingen.
+
+5.2.
 
 Bestemmelse av fritt tryptofan (ekstrakt)
 
@@ -1233,6 +1963,8 @@ Vei opp en passende mengde (1–5 g) av den tillagde prøven (punkt 5.1) med en 
 Filtrer noen ml av løsningen gjennom et 0,45 µm membranfilter (punkt 4.5) og injiser så inn på HPLC-kolonnen. Fortsett til kromatografi som beskrevet i punkt 5.4.
 
 Standardløsning og ekstrakter må beskyttes mot direkte sollys. Dersom ekstraktene ikke kan analyseres samme dag, kan de oppbevares ved 5 °C i høyst tre døgn.
+
+5.3.
 
 Bestemmelse av totalinnhold av tryptofan (hydrolysat)
 
@@ -1246,46 +1978,104 @@ Filtrer noen ml av løsningen gjennom et 0,45 µm membranfilter (punkt 4.5) og i
 
 Standardløsning og hydrolysater må beskyttes mot direkte sollys. Dersom hydrolysatene ikke kan analyseres samme dag, kan de oppbevares ved 5 °C i høyst tre døgn.
 
+5.4.
+
 HPLC-bestemmelse
 
 Følgende betingelser for isokratisk eluering er veiledende. Det kan benyttes andre betingelser forutsatt at de fører til tilsvarende resultater (se også merknader punkt 9.1 og 9.2):Væskekromatografikolonne (punkt 4.2): 125 mm × 4 mm, C18, 3 μm kolonnepakning eller tilsvarende.Kolonnetemperatur: romtemperaturMobil fase (punkt 3.22): 3,00 g eddiksyre (punkt 3.18) + 900 ml vann (punkt 3.1) + 50,0 ml løsning (punkt 3.21) av 1,1,1-triklor-2-metyl-2-propanol (punkt 3.19) i metanol (punkt3.8) (1 g/100 ml). Juster pH-verdien til 5,00 med etanolamin (punkt 3.20). Fyll opp med vann (punkt 3.1) til 1 000 ml.Gjennomstrømningshastighet: 1 ml/minTotal gjennomløpstid: ca. 34 minDetektorbølgelengde: eksitasjon: 280 nm, emisjon: 356 nmInjeksjonsvolum: 20 μl
 
-Mengden tryptofan (X), uttrykt som g per 100 g prøve, beregnes. $$ X = \frac {A \cdot B \cdot V_1 \cdot c \cdot V_2 \cdot M}{C \cdot D \cdot V_3 \cdot \text{10 000} \cdot m}$$A = toppareal for intern standard, standardkalibreringsløsning (punkt 3.17)B = toppareal for tryptofan, ekstrakt (punkt 5.2) eller hydrolysat (punkt 5.3)V1 = volum i ml (2 ml) av konsentrert tryptofanløsning (punkt 3.15), tilsatt kalibreringsløsningen (punkt 3.17)c = konsentrasjon i µmol/ml (= 2,50) av konsentrert tryptofanløsning (punkt 3.15), tilsatt kalibreringsløsningen (punkt 3.17)V2 = volum i ml av konsentrert intern standardløsning (punkt 3.16), tilsatt ekstraktet (punkt 5.2) (= 5,00 ml) eller hydrolysatet (punkt 5.3) (= 2,00 ml)C = toppareal for intern standard, ekstrakt (punkt 5.2) eller hydrolysat (punkt 5.3)D = toppareal for tryptofan, standardkalibreringsløsning (punkt 3.17)V3 = volum i ml (= 2,00 ml) av konsentrert intern standardløsning (punkt 3.16), tilsatt standardkalibreringsløsningen (punkt 3.17)m = prøvens vekt i g (korrigert til opprinnelig vekt dersom produktet er tørket og/eller avfettet)M = molvekt for tryptofan (= 204,23 g/mol).
+###### 6. Beregning av resultater
+
+Mengden tryptofan (X), uttrykt som g per 100 g prøve, beregnes. $$ X = \\frac {A \\cdot B \\cdot V_1 \\cdot c \\cdot V_2 \\cdot M}{C \\cdot D \\cdot V_3 \\cdot \\text{10 000} \\cdot m}$$A = toppareal for intern standard, standardkalibreringsløsning (punkt 3.17)B = toppareal for tryptofan, ekstrakt (punkt 5.2) eller hydrolysat (punkt 5.3)V1 = volum i ml (2 ml) av konsentrert tryptofanløsning (punkt 3.15), tilsatt kalibreringsløsningen (punkt 3.17)c = konsentrasjon i µmol/ml (= 2,50) av konsentrert tryptofanløsning (punkt 3.15), tilsatt kalibreringsløsningen (punkt 3.17)V2 = volum i ml av konsentrert intern standardløsning (punkt 3.16), tilsatt ekstraktet (punkt 5.2) (= 5,00 ml) eller hydrolysatet (punkt 5.3) (= 2,00 ml)C = toppareal for intern standard, ekstrakt (punkt 5.2) eller hydrolysat (punkt 5.3)D = toppareal for tryptofan, standardkalibreringsløsning (punkt 3.17)V3 = volum i ml (= 2,00 ml) av konsentrert intern standardløsning (punkt 3.16), tilsatt standardkalibreringsløsningen (punkt 3.17)m = prøvens vekt i g (korrigert til opprinnelig vekt dersom produktet er tørket og/eller avfettet)M = molvekt for tryptofan (= 204,23 g/mol).
+
+###### 7. Repeterbarhet
 
 Forskjellen mellom resultatene av to parallelle bestemmelser som utføres på samme prøve, må ikke overskride 10 % av det høyeste resultatet.
 
-Det er gjennomført en undersøkelse foretatt ved flere laboratorier i EU (fjerde sammenlignende undersøkelse) der tre prøver ble analysert av opptil tolv laboratorier for å sertifisere hydrolysemetoden. Hver prøve ble analysert fem ganger. Resultatene er oppført i tabellen nedenfor:*Prøve 1*
-*Svinefôr**Prøve 2*
-*Svinefôr tilsatt L-tryptofan**Prøve 3*
-*Fôrkonsentrat til svin*V121212n
-Gjennomsnitt [g/kg]50
-2,4255
-3,4050
-4,22sr [g/kg]0,050,050,08r [g/kg]0,140,140,22CVr [%]1,91,61,9SR [g/kg]0,150,200,09R [g/kg]0,420,560,25CVR [%]6,36,02,2L = antall laboratorier som har levert inn resultatern = antall enkeltverdier etter eliminering av store enkeltavvik (Cochran, Dixon outlier-test)sr = standardavvik for repeterbarhetSR = standardavvik for reproduserbarhetr = repeterbarhetR = reproduserbarhetCVr = variasjonskoeffisient for repeterbarhet, %CVR = variasjonskoeffisient for reproduserbarhet, %
+###### 8. Resultater av en undersøkelse foretatt ved flere laboratorier
 
-Det er også gjennomført en undersøkelse foretatt ved flere laboratorier i EU (tredje sammenlignende undersøkelse) der to prøver ble analysert av opptil tretten laboratorier for å sertifisere metoden for ekstraksjon av fritt tryptofan. Hver prøve ble analysert fem ganger. Resultatene er oppført i tabellen nedenfor:*Prøve 4*
-*Blanding av soya og hvete**Prøve 5*
-*Blanding av soya og hvete (= prøve 4) tilsatt tryptofan (0,457g/kg)*V1212n
-Gjennomsnitt [g/kg]55
-0,39160
-0,931sr [g/kg]0,0050,012r [g/kg]0,0140,034CVr [%]1,341,34SR [g/kg]0,0180,048R [g/kg]0,0500,134CVR [%]4,715,11L = antall laboratorier som har levert inn resultatern = antall enkeltverdier etter eliminering av store enkeltavvik (Cochran, Dixon outlier-test)sr = standardavvik for repeterbarhetSR = standardavvik for reproduserbarhetr = repeterbarhetR = reproduserbarhetCVr = variasjonskoeffisient for repeterbarhet, %CVR = variasjonskoeffisient for reproduserbarhet, %
+Det er gjennomført en undersøkelse foretatt ved flere laboratorier i EU (fjerde sammenlignende undersøkelse) der tre prøver ble analysert av opptil tolv laboratorier for å sertifisere hydrolysemetoden. Hver prøve ble analysert fem ganger. Resultatene er oppført i tabellen nedenfor:
 
-Det er gjennomført enda en sammenlignende undersøkelse i EU der fire prøver ble analysert av opptil syv laboratorier for å sertifisere hydrolysemetoden for tryptofan. Resultatene er vist i nedenstående tabell. Hver prøve ble analysert fem ganger.*Prøve 1*
-*Blandet grisefôr (CRM 117)**Prøve 2*
-*Fiskemel med lavt fettinnhold*
-*(CRM 118)**Prøve 3*
-*Soyamel*
-*(CRM 119)**Prøve 4*
-*Skummetmelkpulver*
-*(CRM 120)*V7777n25303030Gjennomsnitt [g/kg]2,0648,8016,8825,236sr [g/kg]0,0210,1010,0890,040r [g/kg]0,0590,2830,2490,112CVr [%]1,041,151,300,76SR [g/kg]0,0310,4130,2830,221R [g/kg]0,0871,1560,7920,619CVR [%]1,484,694,114,22L = antall laboratorier som har levert inn resultatern = antall enkeltverdier etter eliminering av store enkeltavvik (Cochran, Dixon outlier-test)sr = standardavvik for repeterbarhetSR = standardavvik for reproduserbarhetr = repeterbarhetR = reproduserbarhetCVr = variasjonskoeffisient for repeterbarhet, %CVR = variasjonskoeffisient for reproduserbarhet, %
+|  | *Prøve 1*<br>*Svinefôr* | *Prøve 2*<br>*Svinefôr tilsatt L-tryptofan* | *Prøve 3*<br>*Fôrkonsentrat til svin* |
+| --- | --- | --- | --- |
+| V | 12 | 12 | 12 |
+| n<br>Gjennomsnitt [g/kg] | 50<br>2,42 | 55<br>3,40 | 50<br>4,22 |
+| sr [g/kg] | 0,05 | 0,05 | 0,08 |
+| r [g/kg] | 0,14 | 0,14 | 0,22 |
+| CVr [%] | 1,9 | 1,6 | 1,9 |
+| SR [g/kg] | 0,15 | 0,20 | 0,09 |
+| R [g/kg] | 0,42 | 0,56 | 0,25 |
+| CVR [%] | 6,3 | 6,0 | 2,2 |
+
+- L = antall laboratorier som har levert inn resultater
+- n = antall enkeltverdier etter eliminering av store enkeltavvik (Cochran, Dixon outlier-test)
+- sr = standardavvik for repeterbarhet
+- SR = standardavvik for reproduserbarhet
+- r = repeterbarhet
+- R = reproduserbarhet
+- CVr = variasjonskoeffisient for repeterbarhet, %
+- CVR = variasjonskoeffisient for reproduserbarhet, %
+
+Det er også gjennomført en undersøkelse foretatt ved flere laboratorier i EU (tredje sammenlignende undersøkelse) der to prøver ble analysert av opptil tretten laboratorier for å sertifisere metoden for ekstraksjon av fritt tryptofan. Hver prøve ble analysert fem ganger. Resultatene er oppført i tabellen nedenfor:
+
+|  | *Prøve 4*<br>*Blanding av soya og hvete* | *Prøve 5*<br>*Blanding av soya og hvete (= prøve 4) tilsatt tryptofan (0,457g/kg)* |
+| --- | --- | --- |
+| V | 12 | 12 |
+| n<br>Gjennomsnitt [g/kg] | 55<br>0,391 | 60<br>0,931 |
+| sr [g/kg] | 0,005 | 0,012 |
+| r [g/kg] | 0,014 | 0,034 |
+| CVr [%] | 1,34 | 1,34 |
+| SR [g/kg] | 0,018 | 0,048 |
+| R [g/kg] | 0,050 | 0,134 |
+| CVR [%] | 4,71 | 5,11 |
+
+- L = antall laboratorier som har levert inn resultater
+- n = antall enkeltverdier etter eliminering av store enkeltavvik (Cochran, Dixon outlier-test)
+- sr = standardavvik for repeterbarhet
+- SR = standardavvik for reproduserbarhet
+- r = repeterbarhet
+- R = reproduserbarhet
+- CVr = variasjonskoeffisient for repeterbarhet, %
+- CVR = variasjonskoeffisient for reproduserbarhet, %
+
+Det er gjennomført enda en sammenlignende undersøkelse i EU der fire prøver ble analysert av opptil syv laboratorier for å sertifisere hydrolysemetoden for tryptofan. Resultatene er vist i nedenstående tabell. Hver prøve ble analysert fem ganger.
+
+|  | *Prøve 1*<br>*Blandet grisefôr (CRM 117)* | *Prøve 2*<br>*Fiskemel med lavt fettinnhold*<br>*(CRM 118)* | *Prøve 3*<br>*Soyamel*<br>*(CRM 119)* | *Prøve 4*<br>*Skummetmelkpulver*<br>*(CRM 120)* |
+| --- | --- | --- | --- | --- |
+| V | 7 | 7 | 7 | 7 |
+| n | 25 | 30 | 30 | 30 |
+| Gjennomsnitt [g/kg] | 2,064 | 8,801 | 6,882 | 5,236 |
+| sr [g/kg] | 0,021 | 0,101 | 0,089 | 0,040 |
+| r [g/kg] | 0,059 | 0,283 | 0,249 | 0,112 |
+| CVr [%] | 1,04 | 1,15 | 1,30 | 0,76 |
+| SR [g/kg] | 0,031 | 0,413 | 0,283 | 0,221 |
+| R [g/kg] | 0,087 | 1,156 | 0,792 | 0,619 |
+| CVR [%] | 1,48 | 4,69 | 4,11 | 4,22 |
+
+- L = antall laboratorier som har levert inn resultater
+- n = antall enkeltverdier etter eliminering av store enkeltavvik (Cochran, Dixon outlier-test)
+- sr = standardavvik for repeterbarhet
+- SR = standardavvik for reproduserbarhet
+- r = repeterbarhet
+- R = reproduserbarhet
+- CVr = variasjonskoeffisient for repeterbarhet, %
+- CVR = variasjonskoeffisient for reproduserbarhet, %
+
+###### 9. Merknader
+
+9.1.
 
 For å oppnå bedre separasjon mellom tryptofan og α-metyltryptofan, kan følgende særlige kromatografiske betingelser prøves:
 
 Isokratisk eluering etterfulgt av gradientrensing av kolonnen:Væskekromatografikolonne: 125 mm × 4 mm, C18, 5 μm kolonnepakning eller tilsvarende.Kolonnetemperatur: 32 °CMobil fase: A: 0,01 mol/l KH2PO4/metanol, 95+ 5 (V+V)B: MetanolGradientprogram:0 min 100 % A 0 % B15 min 100 % A 0 % B17 min 60 % A 40 % B19 min 60 % A 40 % B21 min 100 % A 0 % B33 min 100 % A 0 % BGjennomstrømningshastighet: 1,2 ml/minTotal gjennomløpstid: ca. 33 min
 
+9.2.
+
 Kromatografien vil variere alt etter hvilken type HPLC og kolonnepakning som benyttes. Systemet som velges, må være i stand til å gi basislinjeseparasjon mellom tryptofan og intern standard. Det er dessuten viktig at nedbrytingsprodukter skilles fullstendig fra tryptofan og intern standard. Det skal kjøres hydrolysater uten intern standard for å kontrollere at det ikke ligger urenheter på basislinjen under den interne standarden. Det er viktig at gjennomløpstiden er lang nok til at alle nedbrytingsprodukter elueres, ellers kan sene elueringstopper virke forstyrrende inn på etterfølgende kromatografi.
 
 Det kromatografiske systemet skal gi lineær respons i arbeidsområdet. Responsen skal måles med konstant (dvs. normal) konsentrasjon av intern standard og varierende konsentrasjoner av tryptofan. Det er viktig at topphøyden både for tryptofan og for intern standard ligger innenfor HPLC-/fluorescenssystemets lineære område. Dersom topphøyden(e) for tryptofan og/eller intern standard er for lav(e) eller for høy(e), må analysen gjøres på nytt med en annen prøvestørrelse og/eller et annet sluttvolum.
+
+9.3.
 
 Bariumhydroksid
 
@@ -1293,41 +2083,79 @@ Bariumhydroksid blir med tiden vanskeligere å løse opp. Dette betyr at løsnin
 
 ### G. Bestemmelse av råolje og -fett
 
+###### 1. Formål og virkeområde
+
 Denne metoden anvendes for å bestemme innholdet av råoljer og -fett i fôrvarer.
 
 Bruken av de to framgangsmåtene som beskrives nedenfor, er avhengig av typen og sammensetningen av fôrvarene og av grunnen til at analysen gjennomføres.
 
 For bestemmelse av råoljer og -fett i oljeholdige frø og oljeholdig frukt samt i fôr der innholdet av råolje/-fett er høyere enn 15 %, bør ekstraksjonen utføres ved metode A og reekstraksjon ved metode B (punkt 5.3).
 
+1.1.*Metode A – Råoljer og -fett som kan ekstraheres direkte*
+
 Denne metoden kan anvendes på fôrmidler av vegetabilsk opprinnelse, unntatt de som kommer inn under virkeområdet for metode B.
+
+1.2.*Metode B – Totalt innhold av råolje og -fett*
 
 Denne metoden kan anvendes på fôrmidler av animalsk opprinnelse og på alle fôrblandinger. Den skal anvendes på alle materialer som råoljer og -fett ikke kan ekstraheres direkte fra uten forutgående hydrolyse (f.eks. gluten, gjær, potetproteiner og produkter som gjennomgår prosesser som ekstrudering, flakframstilling og oppvarming).
 
+1.3.*Tolking av resultatene*
+
 I alle tilfeller der det oppnås høyere resultat ved bruk av metode B enn ved metode A, skal resultatet som oppnås ved metode B, aksepteres som den sanne verdi.
+
+###### 2. Prinsipp
+
+2.1.*Metode A*
 
 Ekstraher prøven med petroleumseter. Destiller av løsemiddelet og tørk og vei restmengden.
 
+2.2.*Metode B*
+
 Behandle prøven under oppvarming med saltsyre. Avkjøl og filtrer blandingen. Vask og tørk restmengden, som deretter bestemmes som beskrevet i metode A.
+
+###### 3. Reagenser
+
+3.1.
 
 Petroleumseter, kokeområde: 40 til 60 °C. Bromverdien må være mindre enn 1, og restmengden etter inndamping mindre enn 2 mg/100 ml.
 
+3.2.
+
 Vannfritt natriumsulfat.
+
+3.3.
 
 Saltsyre, c = 3 mol/l.
 
+3.4.
+
 Filtreringshjelpemiddel, f.eks. kiselgur, Hyflo-supercel.
+
+###### 4. Utstyr
+
+4.1.
 
 Ekstraksjonsapparat. Dersom det er utstyrt med hevert (Soxhlet-apparat), må tilbakestrømningen stilles inn slik at det skjer ca. 10 tømminger per time. Dersom apparatet ikke er utstyrt med hevert, skal tilbakestrømningen være ca. 10 ml per minutt.
 
+4.2.
+
 Ekstraksjonshylser som er fri for stoffer som kan oppløses i petroleumseter, og som har en porøsitet i samsvar med kravene i 4.1.
 
+4.3.
+
 Tørkeovn, enten et vakuumtørkeskap innstilt på 75 ± 3 °C eller et tørkeskap med atmosfærisk trykk innstilt på 100 ± 3 °C.
+
+###### 5. Framgangsmåte
+
+5.1.*Metode A (se punkt 8.1)*
 
 Vei opp 5 g av prøven med en nøyaktighet på 1 mg, overfør til en ekstraksjonshylse (punkt 4.2) og dekk til med en fettfri bomullspropp.
 
 Plasser hylsen i et ekstraksjonsapparat (punkt 4.1) og ekstraher i seks timer med petroleumseter (punkt 3.1). Petroleumseterekstraktet oppsamles i en tørr, tarert kolbe som inneholder fragmenter av pimpstein15.
 
 Destiller fra løsemiddelet. Restmengden tørkes deretter i halvannen time i tørkeovnen (punkt 4.3). La avkjøle i eksikkator og vei. La tørke en gang til i 30 minutter for å sikre at vekten av fettet forblir konstant (vekttapet fra den ene veiingen til den annen må være mindre enn eller lik 1 mg).
+
+5.2.*Metode B*
 
 Vei opp 2,5 g av prøven med en nøyaktighet på 1 mg (se punkt 8.2), hell over i et 400 ml begerglass eller en 300 ml erlenmeyerkolbe og tilsett 100 ml saltsyre (punkt 3.3) og noen fragmenter av pimpstein.
 
@@ -1339,15 +2167,27 @@ Det doble filterpapiret med restmengden legges på et urglass og tørkes i halva
 
 Det doble filterpapiret med den tørre restmengden plasseres i en ekstraksjonshylse (punkt 4.2) og dekkes med en fettfri bomullspropp. Plasser hylsen i et ekstraksjonsapparat (punkt 4.1) og fortsett prosessen som angitt i punkt 5.1 annet og tredje ledd.
 
+5.3.
+
 Metode A og reekstraksjon ved metode B
 
 For bestemmelse av råoljer og -fett i oljeholdige frø og oljeholdig frukt samt i fôr der innholdet av råolje/-fett er høyere enn 15 %, bør ekstraksjonen utføres ved metode A og reekstraksjon ved metode B.
 
 Dette betyr at etter ekstraksjon med petroleumseter (metode A), ekstraheres restmengden eller en del av restmengden på nytt med saltsyre (metode B). Råolje- og fettinnholdet er summen av resultatet av metode A og B.
 
+15 Dersom fettet senere skal undersøkes kvalitativt, erstattes pimpsteinfragmentene med glasskuler.
+
+###### 6. Angivelse av resultat
+
 Resultatet av veiingen av restmengden uttrykkes som en prosentdel av prøven.
 
+###### 7. Repeterbarhet
+
 Forskjellen mellom resultatene av to parallelle bestemmelser utført på samme prøve av samme analytiker skal ikke overskride:0,2 % i absolutt verdi for et innhold av råolje og -fett på under 5 %,4,0 % av det høyeste resultatet for et innhold på 5–10 %,0,4 % i absolutt verdi for et innhold over 10 %.
+
+###### 8. Merknader
+
+8.1.
 
 For produkter med et høyt innhold av olje og fett som er vanskelige å knuse eller som er uegnet til uttak av en homogen redusert prøve, benyttes følgende framgangsmåte:
 
@@ -1355,52 +2195,98 @@ Vei opp 20 g av prøven med en nøyaktighet på 1 mg og bland med minst 10 g van
 
 Fjern løsemiddelet fra ekstraksjonsresten som er igjen i ekstraksjonshylsen og knus restmengden til en finhet på 1 mm. Legg produktet tilbake til ekstraksjonshylsen (uten å tilsette natriumsulfat), og fortsett deretter prosessen som angitt i punkt 5.1 annet og tredje ledd.
 
-Innholdet av råolje og -fett beregnes som en prosentandel av prøven ved bruk av følgende formel: $$(10 m_{1} + m_{2}) \cdot 5 $$
+Innholdet av råolje og -fett beregnes som en prosentandel av prøven ved bruk av følgende formel: $$(10 m_{1} + m_{2}) \\cdot 5 $$
 derm1 = restmengdens vekt i gram etter første ekstraksjon (delmengden av ekstraktet),m2 = restmengdens vekt i gram etter annen ekstraksjon.
+
+8.2.
 
 For noen produkter (f.eks. med lavt innhold av olje og fett) kan prøvemengden økes.
 
+8.3.
+
 Fôr med høyt vanninnhold til kjæledyr kan måtte blandes med vannfritt natriumsulfat før hydrolyse og ekstraksjon som ved metode B.
 
+8.4.
+
 I punkt 5.2 kan varmt vann være mer effektivt enn kaldt vann til vasking av restmengden etter filtreringen.
+
+8.5.
 
 For visse fôrvarer kan det være nødvendig å forlenge tørketiden til over halvannen time. Overdreven tørking skal unngås fordi dette kan føre til lave resultater. Mikrobølgeovn kan også benyttes.
 
 ### H. Bestemmelse av innhold av trevler
 
+###### 1. Formål og virkeområde
+
 Denne metoden gjør det mulig å bestemme en fôrvares innhold av fettfrie organiske stoffer som er uløselige i sure og basiske miljøer, og som vanligvis betegnes som trevler.
 
 Metoden kan ikke brukes for lignocellulose og vegetabilsk karbon (for fine partikler).
 
+###### 2. Prinsipp
+
 Prøven, om nødvendig avfettet, behandles med kokende løsninger av svovelsyre og deretter kaliumhydroksid i bestemte konsentrasjoner. Restmengden skilles ved filtrering på et sintret glassfilter, vaskes, tørkes, veies og foraskes ved 475 til 500 °C. Vekttapet ved foraskningen svarer til prøvens innhold av trevler.
+
+###### 3. Reagenser
+
+3.1.
 
 Svovelsyre, c = 0,13 mol/l.
 
+3.2.
+
 Antiskummiddel (f.eks. n-oktanol).
+
+3.3.
 
 Filtreringshjelpemiddel (Celite 545 eller tilsvarende), oppvarmet til 500 °C i fire timer (punkt 8.6).
 
+3.4.
+
 Aceton.
+
+3.5.
 
 Petroleumseter kokeområde 40 til 60 °C.
 
+3.6.
+
 Saltsyre, c = 0,5 mol/l.
+
+3.7.
 
 Kaliumhydroksidløsning, c = 0,23 mol/l.
 
+###### 4. Utstyr
+
+4.1.
+
 Oppvarmingsenhet for oppslutning med løsninger av svovelsyre eller kaliumhydroksid, utstyrt med en støtte for filterdigelen (punkt 4.2), et rør med ventil mot vakuum og avløp, og eventuelt med trykkluft. Oppvarmingsenheten forhåndsoppvarmes hver dag før bruk med kokende vann i fem minutter.
+
+4.2.
 
 Glassfilterdigel med filterplate av sintret glass med en porøsitet på 40–90 µm. Før første gangs bruk må digelen varmes opp til 500 °C i noen minutter og deretter avkjøles (punkt 8.6).
 
+4.3.
+
 Sylinder på minst 270 ml med tilbakeløpskjøler, egnet til koking.
+
+4.4.
 
 Tørkeovn med termostat.
 
+4.5.
+
 Muffelovn med termostat.
+
+4.6.
 
 Ekstraksjonsenhet med støtte for filterdigelen (punkt 4.2) og et utslippsrør med ventil mot vakuum og avløp.
 
+4.7.
+
 Sammenføyningsringer for montering av oppvarmingsenheten (punkt 4.1), digelen (punkt 4.2) og sylinderen (punkt 4.3) og tilkopling av den kalde ekstraksjonsenheten (punkt 4.6) og digelen.
+
+###### 5. Framgangsmåte
 
 Vei opp 1 g av den tillagde prøven med en nøyaktighet på 1 mg, plasser den i digelen (punkt 4.2) (se merknad punkt 9.1, 9.2 og 9.3) og tilsett 1 g filtreringshjelpemiddel (punkt 3.3).
 
@@ -1420,25 +2306,47 @@ Etter hver oppvarming avkjøles digelen først i ovnen og deretter i eksikkatore
 
 Foreta en blindprøve uten prøven. Vekttapet ved foraskning må ikke overskride 4 mg.
 
-Prøvens prosentinnhold av trevler er gitt ved formelen: $$ X = \frac {(m_0 - m_1) \cdot 100}{m} $$derm = prøvens vekt i g;m0 = vekttap (i g) ved foraskning under bestemmelsen;m1 = vekttap (i g) ved foraskning under blindprøven.
+###### 6. Beregning av resultater
+
+Prøvens prosentinnhold av trevler er gitt ved formelen: $$ X = \\frac {(m_0 - m_1) \\cdot 100}{m} $$derm = prøvens vekt i g;m0 = vekttap (i g) ved foraskning under bestemmelsen;m1 = vekttap (i g) ved foraskning under blindprøven.
+
+###### 7. Repeterbarhet
 
 Forskjellen mellom resultatene av to parallelle bestemmelser som utføres på samme prøve, skal ikke overskride:0,6 % i absolutt verdi for innhold av trevler på under 10 %,6 % av det høyeste resultatet for innhold av trevler på 10 % eller mer.
 
+###### 8. Reproduserbarhet
+
 Forskjellen mellom resultatene av to parallelle bestemmelser som utføres på samme prøve i ulike laboratorier, må ikke overskride1,0 % i absolutt verdi for innhold av trevler på under 10 %,10 % av det høyeste resultatet for innhold av trevler på 10 % eller mer.
+
+###### 9. Merknader
+
+9.1.
 
 Fôrvarer med et råfettinnhold på over 10 % må avfettes med petroleumseter (punkt 3.5) før analysen. Filterdigelen (punkt 4.2) med innhold koples til den kalde ekstraksjonsenheten (punkt 4.6), og restmengden vaskes under vakuum med 30 ml petroleumseter tre ganger. Påse at restmengden er tørr. Kople digelen med innhold til oppvarmingsenheten (punkt 4.1). Fortsett deretter som angitt i punkt 5.
 
+9.2.
+
 Fôrvarer som inneholder fett som ikke kan ekstraheres direkte med petroleumseter (punkt 3.5), skal avfettes som angitt i punkt 8.1 og avfettes på nytt etter koking med syre. Etter koking med syre og påfølgende vasking koples digelen med innhold til den kalde ekstraksjonsenheten (punkt 4.6) og vaskes tre ganger med 30 ml aceton og deretter tre ganger med 30 ml petroleumseter. Filtrer under vakuum til den er tørr og fortsett analysen som beskrevet i punkt 5, fra behandlingen med kaliumhydroksid.
+
+9.3.
 
 Dersom fôrvaren inneholder over 5 % karbonater, uttrykt som kalsiumkarbonat, koples digelen (punkt 4.2) med den veide prøven til oppvarmingsenheten (punkt 4.1). Vask prøven med 30 ml saltsyre (punkt 3.6) tre ganger. La prøven stå i ca. ett minutt etter hver tilsetting før filtrering. Vask én gang med 30 ml vann og fortsett deretter som beskrevet i punkt 5.
 
+9.4.
+
 Dersom det brukes et apparat i form av et stativ (flere digler festet til samme oppvarmingsenhet), må det ikke foretas to bestemmelser på samme prøve i samme serie.
 
+9.5.
+
 Dersom det er vanskelig å filtrere syreløsningene og de basiske løsningene etter koking, må det brukes trykkluft gjennom oppvarmingsenhetens utslippsrør. Fortsett deretter filtreringen.
+
+9.6.
 
 For å forlenge glassfilterdiglenes levetid skal temperaturen ved foraskning ikke overskride 500 °C. Sørg for å unngå temperatursjokk under oppvarming og avkjøling.
 
 ### I. Bestemmelse av sukker
+
+###### 1. Formål og virkeområde
 
 Denne metoden gjør det mulig å bestemme mengden av reduserende sukker og totalt sukkerinnhold etter invertering, uttrykt som glukose, eller der det passer, som sukrose, omregnet med faktoren 0,95. Metoden gjelder for fôrblandinger. Særskilte metoder er fastsatt for andre fôrvarer. Laktosen kan eventuelt måles atskilt, og det skal tas hensyn til dette ved beregning av resultatene.
 
@@ -1446,21 +2354,41 @@ Denne metoden skal brukes til å fastsette sukkerinnholdet til bruk ved beregnin
 
 Dersom sukkerinnholdet skal bestemmes for andre formål, kan andre analysemetoder benyttes.
 
+###### 2. Prinsipp
+
 Sukkeret ekstraheres i fortynnet etanol, og løsningen klares med Carrez I- og II-løsninger. Etter at etanolen er fjernet, bestemmes mengden før og etter invertering etter Luff-Schoorl-metoden.
+
+###### 3. Reagenser
+
+3.1.
 
 Etanolløsning 40 % (v/v) tetthet: 0,948 g/ml ved 20 °C, nøytralisert til fenolftalein.
 
+3.2.
+
 Carrez I-løsning: Løs opp 21,9 g sinkacetat Zn(CH3COO)2 2H2O og 3 g iseddik i vann. Fyll opp med vann til 100 ml.
+
+3.3.
 
 Carrez II-løsning: Løs opp 10,6 g kaliumferrocyanid, K4 Fe (CN)6 3H2O i vann. Fyll opp med vann til 100 ml.
 
+3.4.
+
 0,1 % løsning (w/v) av heliantin (metyloransje).
+
+3.5.
 
 Saltsyre 4 mol/liter
 
+3.6.
+
 Saltsyre 0,1 mol/liter
 
+3.7.
+
 Natriumhydroksidløsning 0,1 mol/liter.
+
+3.8.
 
 Luff-Schoorl-reagens:
 
@@ -1468,37 +2396,67 @@ Hell sitronsyreløsningen (punkt 3.8.2) i natriumkarbonatløsningen (punkt 3.8.3
 
 Kontroller konsentrasjonen av reagensen som har oppstått (Cu 0,05 mol/liter; Na2 CO3 1 mol/liter). Se punkt 5.4 siste ledd. Løsningens pH skal være ca. 9,4.
 
+3.8.1.
+
 Koppersulfatløsning: Løs opp 25 g koppersulfat Cu SO4 5H2O, fritt for jern, i 100 ml vann.
+
+3.8.2.
 
 Sitronsyreløsning: Løs opp 50 g sitronsyre C6H8O7·H2O, i 50 ml vann.
 
+3.8.3.
+
 Natriumkarbonatløsning: Løs opp 143,8 g vannfritt natriumkarbonat i ca. 300 ml varmt vann. La det avkjøles.
+
+3.9.
 
 Løsning av natriumtiosulfat 0,1 mol/liter.
 
+3.10.
+
 Stivelsesløsning: En blanding av 5 g oppløselig stivelse i 30 ml vann tilsettes i 1 liter kokende vann. Kok i tre minutter, avkjøl, og tilsett om nødvendig 10 mg kvikksølvjodid som konserveringsmiddel.
+
+3.11.
 
 Svovelsyre 3 mol/liter.
 
+3.12.
+
 Kaliumjodidløsning, 30 % (w/v).
+
+3.13.
 
 Granulert pimpstein kokt i saltsyre, vasket i vann og tørket.
 
+3.14.
+
 3-metylbutan-1-ol.
 
+###### 4. Utstyr
+
 Blandeapparat (mekanisk risteapparat): ca. 35–40 o/min.
+
+###### 5. Framgangsmåte
+
+5.1.
 
 Ekstraksjon av prøven
 
 Vei opp 2,5 g av prøven med en nøyaktighet på 1 mg og plasser i en 250 ml målekolbe. Tilsett 200 ml etanol (punkt 3.1) og bland i én time i risteapparatet. Tilsett 5 ml Carrez I-løsning (punkt 3.2) og rør i ca. 30 sekunder. Tilsett 5 ml Carrez II-løsning (punkt 3.3), og rør i ett minutt. Fyll opp til merket med etanol (punkt 3.1), homogeniser og filtrer. Ta av 200 ml av filtratet og damp inn til omtrent halve volumet for å fjerne mesteparten av etanolen. Overfør inndampingsresten kvantitativt til en 200 ml målekolbe ved hjelp av varmt vann, avkjøl, fyll på vann opp til merket, homogeniser og filtrer om nødvendig. Denne løsningen brukes til å bestemme mengden av reduserende sukker, og etter invertering, mengden av totalsukker.
 
+5.2.
+
 Bestemmelse av reduserende sukker
 
 Bruk en pipette til å ta av en mengde løsning som ikke overskrider 25 ml, og som inneholder under 60 mg reduserende sukker uttrykt som glukose. Om nødvendig fylles det opp med destillert vann til 25 ml, og innholdet av reduserende sukker bestemmes etter Luff-Schoorl-metoden. Resultatet uttrykkes som prosentandel glukose i prøven.
 
+5.3.
+
 Bestemmelse av totalsukker etter invertering
 
 Bruk en pipette til å ta ut 50 ml av løsningen, og overfør mengden til en 100 ml målekolbe. Tilsett noen få dråper heliantin (punkt 3.4) og deretter saltsyre (punkt 3.5), forsiktig og under stadig omrøring, til væsken blir tydelig rød. Tilsett 15 ml saltsyre (punkt 3.6), sett kolben i vannbad som koker kraftig, og hold den der i 30 minutter. Avkjøl raskt til ca. 20 °C og tilsett 15 ml natriumhydroksidløsning (punkt 3.7). Fyll opp med vann til 100 ml og homogeniser. Ta av en mengde som ikke overskrider 25 ml, og som inneholder under 60 mg reduserende sukker, uttrykt som glukose. Om nødvendig fylles det opp med destillert vann til 25 ml, og innholdet av reduserende sukker bestemmes etter Luff-Schoorl-metoden. Resultatet uttrykkes som prosentandel glukose, eller eventuelt sukrose, ved å multiplisere med faktoren 0,95.
+
+5.4.
 
 Titrering etter Luff-Schoorl-metoden
 
@@ -1508,25 +2466,47 @@ Tilsett 10 ml kaliumjodidløsning (punkt 3.12) og deretter straks (forsiktig, p�
 
 Utfør den samme titreringen på en nøyaktig oppmålt blanding av 25 ml Luff-Schoorl-reagens (punkt 3.8) og 25 ml vann etter at det er tilsatt 10 ml kaliumjodid (punkt 3.12) og 25 ml svovelsyre (punkt 3.11) uten at det koker.
 
+###### 6. Beregning av resultater
+
 Beregn ved hjelp av tabellen nedenfor mengden av glukose i mg som tilsvarer forskjellen mellom resultatene av de to titreringene, uttrykt i ml natriumtiosulfat 0,1 mol/liter. Resultatet uttrykkes som en prosentandel av prøven.
+
+###### 7. Særskilte framgangsmåter
+
+7.1.
 
 Av fôrvarer med høyt innhold av melasse, og av andre fôrvarer som er lite homogene, veies det opp 20 g som overføres til en 1 liter målekolbe sammen med 500 ml vann. Bland i én time i risteapparatet. Klar ved å bruke Carrez løsning I- (punkt 3.2) og II-reagensene (punkt 3.3) slik det er beskrevet i punkt 5.1, men denne gangen brukes det fire ganger større mengder av hver reagens. Fyll opp til merket med 80 % etanol (v/v).
 
 Homogeniser og filtrer. Fjern etanolen slik det er beskrevet i punkt 5.1. Dersom det ikke finnes dekstrinert stivelse, fylles det på destillert vann opp til merket.
 
+7.2.
+
 Av melasse og fôrmidler som har høyt innhold av sukker og er nesten fri for stivelse (johannesbrød, tørkede fôrbetesnitter osv.), veies det opp 5 g som overføres til en 250 ml målekolbe. Tilsett 200 ml destillert vann og bland i risteapparatet i én time eller mer om nødvendig. Klar ved å bruke Carrez løsning I- (punkt 3.2) og II-reagensene (punkt 3.3) slik det er beskrevet i punkt 5.1. Fyll opp til merket med kaldt vann, homogeniser og filtrer. For å bestemme mengden av totalsukker benyttes framgangsmåten som er beskrevet i punkt 5.3.
+
+###### 8. Merknader
+
+8.1.
 
 For å hindre skumdannelse er det tilrådelig å tilsette (uavhengig av volumet) ca. 1 ml 3-metyl-1-butanol (punkt 3.14) før koking med Luff-Schoorl-reagensen.
 
+8.2.
+
 Forskjellen mellom innholdet av totalsukker etter invertering, uttrykt som glukose, og innholdet av reduserende sukker, uttrykt som glukose, gir, multiplisert med 0,95, innholdet av sukrose i prosent.
+
+8.3.
 
 For å bestemme innholdet av reduserende sukker, med unntak for laktose, kan to metoder anvendes:
 
+8.3.1.
+
 For en omtrentlig beregning multipliseres laktoseinnholdet som er funnet ved en separat analysemetode, med 0,675, og resultatet trekkes fra innholdet av reduserende sukker.
+
+8.3.2.
 
 For en nøyaktig beregning av reduserende sukker, unntatt laktose, må den samme prøven brukes i de to endelige bestemmelsene. Én av analysene utføres på den delen av løsningen som ble oppnådd under punkt 5.1, den andre på den delen av løsningen som ble oppnådd ved bestemmelsen av laktose etter metoden fastlagt for det formålet (etter fermentering av de andre typene sukker og klaring).
 
 I begge tilfeller bestemmes mengden av sukker som finnes, etter Luff-Schoorl-metoden og beregnes i mg glukose. Én av verdiene trekkes fra den andre, og forskjellen uttrykkes som en prosentandel av prøven.
+
+*Eksempel*
 
 De to volumene som er tatt ut, tilsvarer en prøve på 250 mg for hver bestemmelse.
 
@@ -1534,41 +2514,106 @@ I det første tilfellet forbrukes 17 ml av natriumtiosulfatløsning 0,1 mol/lite
 
 Forskjellen utgjør 16,6 mg glukose.
 
-Innholdet av reduserende sukker (unntatt laktose), beregnet som glukose, er derfor: $$ \frac {4 \cdot 16{,}6}{10}=6{,}64 \% $$
+Innholdet av reduserende sukker (unntatt laktose), beregnet som glukose, er derfor: $$ \\frac {4 \\cdot 16{,}6}{10}=6{,}64 \\% $$
+
+*Tabell over verdiene for 25 ml Luff-Schoorls reagens*
+
+**ml Na2 S2 O3, 1 mol/l, oppvarming i to minutter, koking i ti minutter**
+
+| *Na2 S2 O3*<br>*0,1 mol/l* | *Glukose, fruktose, invertsukker*<br>*C6H12O6* |  | *Laktose*<br>*C12H22O11* |  | *Na2 S2 O3*<br>*0,1 mol/l* |
+| --- | --- | --- | --- | --- | --- |
+| *ml* | *mg* | *differanse* | *mg* | *differanse* | *ml* |
+| 1 | 2,4 | 2,4 | 3,6 | 3,7 | 1 |
+| 2 | 4,8 | 2,4 | 7,3 | 3,7 | 2 |
+| 3 | 7,2 | 2,5 | 11,0 | 3,7 | 3 |
+| 4 | 9,7 | 2,5 | 14,7 | 3,7 | 4 |
+| 5 | 12,2 | 2,5 | 18,4 | 3,7 | 5 |
+| 6 | 14,7 | 2,5 | 22,1 | 3,7 | 6 |
+| 7 | 17,2 | 2,6 | 25,8 | 3,7 | 7 |
+| 8 | 19,8 | 2,6 | 29,5 | 3,7 | 8 |
+| 9 | 22,4 | 2,6 | 33,2 | 3,8 | 9 |
+| 10 | 25,0 | 2,6 | 37,0 | 3,8 | 10 |
+| 11 | 27,6 | 2,7 | 40,8 | 3,8 | 11 |
+| 12 | 30,3 | 2,7 | 44,6 | 3,8 | 12 |
+| 13 | 33,0 | 2,7 | 48,4 | 3,8 | 13 |
+| 14 | 35,7 | 2,8 | 52,2 | 3,8 | 14 |
+| 15 | 38,5 | 2,8 | 56,0 | 3,9 | 15 |
+| 16 | 41,3 | 2,9 | 59,9 | 3,9 | 16 |
+| 17 | 44,2 | 2,9 | 63,8 | 3,9 | 17 |
+| 18 | 47,1 | 2,9 | 67,7 | 4,0 | 18 |
+| 19 | 50,0 | 3,0 | 71,7 | 4,0 | 19 |
+| 20 | 53,0 | 3,0 | 75,7 | 4,1 | 20 |
+| 21 | 56,0 | 3,1 | 79,8 | 4,1 | 21 |
+| 22 | 59,1 | 3,1 | 83,9 | 4,1 | 22 |
+| 23 | 62,2 |  | 88,0 |  | 23 |
 
 ### J. Bestemmelse av laktose
 
+###### 1. Formål og virkeområde
+
 Denne metoden gjør det mulig å bestemme innholdet av laktose i fôrvarer som inneholder mer enn 0,5 % laktose.
+
+###### 2. Prinsipp
 
 Løs opp sukkeret i vann. Løsningen fermenteres med gjæren Saccharomyces cerevisiae, som ikke angriper laktosen. Etter klaring og filtrering skal laktoseinnholdet i filtratet bestemmes etter Luff-Schoorl-metoden.
 
+###### 3. Reagenser
+
+3.1.
+
 Suspensjon av Saccharomyces cerevisiae: Suspender 25 g fersk gjær i 100 vann. Suspensjonen er holdbar i høyst én uke i kjøleskap.
+
+3.2.
 
 Carrez I-løsning: Løs opp 21,9 g sinkacetat Zn(CH3COO)2 2H2O og 3 g iseddik i vann. Fyll opp med vann til 100 ml.
 
+3.3.
+
 Carrez II-løsning: Løs opp 10,6 g kaliumferrocyanid, K4 Fe (CN)6 3H2O i vann. Fyll opp med vann til 100 ml.
+
+3.4.
 
 Luff-Schoorl-reagens:
 
 Hell sitronsyreløsningen (punkt 3.4.2) i natriumkarbonatløsningen (punkt 3.4.3) under forsiktig omrøring. Tilsett koppersulfatløsningen (punkt 3.4.1) og fyll opp med vann til 1 liter. La det stå over natten og filtrer. Kontroller konsentrasjonen av reagensen som har oppstått (Cu 0,05 mol/l; Na2 CO3 1 mol/l). Løsningens pH skal være ca. 9,4.
 
+3.4.1.
+
 Koppersulfatløsning: Løs opp 25 g koppersulfat Cu SO4 5H2O, fritt for jern, i 100 ml vann.
+
+3.4.2.
 
 Sitronsyreløsning: Løs opp 50 g sitronsyre C6H8O7·H2O, i 50 ml vann.
 
+3.4.3.
+
 Natriumkarbonatløsning: Løs opp 143,8 g vannfritt natriumkarbonat i ca. 300 ml varmt vann. La det avkjøles.
+
+3.5.
 
 Granulert pimpstein kokt i saltsyre, vasket i vann og tørket.
 
+3.6.
+
 Kaliumjodidløsning, 30 % (w/v).
+
+3.7.
 
 Svovelsyre 3 mol/liter.
 
+3.8.
+
 Natriumtiosulfatløsning 0,1 mol.
+
+3.9.
 
 Stivelsesløsning: En blanding av 5 g oppløselig stivelse i 30 ml vann tilsettes i 1 liter kokende vann. Kok i tre minutter, avkjøl, og tilsett om nødvendig 10 mg kvikksølvjodid som konserveringsmiddel.
 
+###### 4. Utstyr
+
 Vannbad med termostat innstilt på 38–40 °C.
+
+###### 5. Framgangsmåte
 
 Vei opp 1 g av prøven med en nøyaktighet på 1 mg, og ha denne prøveporsjonen over i en 100 ml målekolbe. Tilsett 25–30 ml vann. Sett kolben i kokende vann i 30 minutter og avkjøl den deretter til ca. 35 °C. Tilsett 5 ml av gjærsuspensjonen (punkt 3.1) og homogeniser. La kolben stå i to timer i vannbad ved en temperatur på 38–40 °C. Avkjøles deretter til ca. 20 °C.
 
@@ -1580,12 +2625,16 @@ Tilsett 10 ml kaliumjodidløsning (punkt 3.6) og deretter straks (forsiktig, på
 
 Utfør den samme titreringen på en nøyaktig oppmålt blanding av 25 ml Luff-Schoorl-reagens (punkt 3.4) og 25 ml vann etter at det er tilsatt 10 ml kaliumjodid (punkt 3.6) og 25 ml svovelsyre (punkt 3.7) uten at det koker.
 
+###### 6. Beregning av resultater
+
 Beregn ved hjelp av tabellen nedenfor mengden av laktose i mg, som tilsvarer forskjellen mellom resultatene av de to titreringene, uttrykt i ml natriumtiosulfat 0,1 mol.
 
 Resultatet for vannfri laktose uttrykkes som en prosentdel av prøven.
 
+###### 7. Observasjon
+
 1. For produkter som inneholder mer enn 40 % gjæringsdyktig sukker, brukes mer enn 5 ml av gjærsuspensjonen (punkt 3.1).
-2. I «laktoseredusert» fôr (f.eks. kattemelk) omdannes laktose til fruktose, som ikke er fullstendig fermentert innen to timer, noe som resulterer i høyere eller falske positive resultater (fordi restmengder av fruktose forblir i ekstraktet).*Tabell over verdiene for 25 ml Luff-Schoorls reagens***ml Na2 S2 O3, 1 mol/l, oppvarming i to minutter, koking i ti minutter***Na2 S2 O3*
+2. I «laktoseredusert» fôr (f.eks. kattemelk) omdannes laktose til fruktose, som ikke er fullstendig fermentert innen to timer, noe som resulterer i høyere eller falske positive resultater (fordi restmengder av fruktose forblir i ekstraktet).*Tabell over verdiene for 25 ml Luff-Schoorls reagens***ml Na2 S2 O3, 1 mol/l, oppvarming i to minutter, koking i ti minutter** *Na2 S2 O3*
 *0,1 mol/l**Glukose, fruktose, invertsukker*
 *C6H12O6**Laktose*
 *C12H22O11**Na2 S2 O3*
@@ -1594,11 +2643,15 @@ Resultatet for vannfri laktose uttrykkes som en prosentdel av prøven.
 ### K. Bestemmelse av stivelse
 Polarimetrisk metode
 
+###### 1. Formål og virkeområde
+
 Denne metoden gjør det mulig å bestemme innholdet av stivelse og nedbrytningsprodukter av stivelse med høy molekylvekt i fôrvarer i forbindelse med samsvarskontroll med fastsatt energiinnhold (bestemmelsene i vedlegg VII) og forordning [(EF) nr. 767/2009](eu/32009r0767).
 
 Denne metoden skal brukes til å fastsette stivelsesinnholdet til bruk ved beregning av energiverdien i fôret.
 
 Dersom stivelsesinnholdet skal bestemmes for andre formål, kan andre analysemetoder benyttes.
+
+###### 2. Prinsipp
 
 Metoden omfatter to bestemmelser. I den første bestemmelsen behandles den oppvarmede prøven med fortynnet saltsyre. Etter klaring og filtrering måles løsningens optiske dreining ved polarimetri.
 
@@ -1606,27 +2659,51 @@ I den andre bestemmelsen ekstraheres prøven med 40 % etanol. Etter at filtrate
 
 Forskjellen mellom de to målte verdiene, multiplisert med en kjent faktor, gir prøvens innhold av stivelse.
 
+###### 3. Reagenser
+
+3.1.
+
 Saltsyreløsning 25 % (w/w), tetthet: 1 126 g/ml.
+
+3.2.
 
 Saltsyreløsning 1,13 % (w/v).
 
 Konsentrasjonen må kontrolleres ved titrering med en natriumhydroksidløsning 0,1 mol sammen med 0,1 % (w/v) metylrødt i etanol 94 % (v/v). Til nøytralisering av 10 ml trengs 30,94 ml NaOH 0,1 mol.
 
+3.3.
+
 Carrez I-løsning: Løs opp 21,9 g sinkacetat Zn (CH3COO)2 2H2O og 3 g iseddik i vann. Fyll opp med vann til 100 ml.
+
+3.4.
 
 Carrez II-løsning: Løs opp 10,6 g kaliumferrocyanid, K4 Fe(CN)6 3H2O i vann.
 
 Fyll opp med vann til 100 ml.
 
+3.5.
+
 Etanolløsning 40 % (v/v) tetthet: 0,948 g/ml ved 20 °C.
+
+###### 4. Utstyr
+
+4.1.
 
 250 ml erlenmeyerkolbe, med standard skjøtestykke av slipt glass og tilbakeløpskjøler.
 
+4.2.
+
 Polarimeter eller sakkarimeter.
+
+###### 5. Framgangsmåte
+
+5.1.
 
 Tilberedning av prøven
 
 Prøven skal knuses så fint at hele prøven kan passere gjennom en sikt med runde hull med diameter 0,5 mm.
+
+5.2.
 
 Bestemmelse av den totale optiske dreiningen (P eller S) (se merknad punkt 7.1)
 
@@ -1636,6 +2713,8 @@ Tilsett 5 ml Carrez I-løsning (punkt 3.3) og rist i ca. 30 sekunder. Tilsett de
 
 Løsningens optiske dreining måles med polarimeter eller sakkarimeter i et rør på 200 mm.
 
+5.3.
+
 Bestemmelse av den optiske dreining (P' eller S') av stoffer som er løselige i 40 % etanol
 
 Vei opp 5 g av prøven med en nøyaktighet på 1 mg i en 100 ml målekolbe og tilsett ca. 80 ml etanol (punkt 3.5) (se merknad punkt 7.2). Sett kolben til side i én time ved romtemperatur. I dette tidsrommet ristes kolben kraftig seks ganger, slik at prøven blir grundig blandet med etanolen. Fyll opp med etanol til merket (punkt 3.5), bland og filtrer.
@@ -1644,81 +2723,163 @@ Pipetter 50 ml av filtratet (tilsvarer 2,5 g av prøven) over i en 250 ml erlenm
 
 Klar ved tilsetting av Carrez I- og II-løsningene (henholdsvis punkt 3.3 og punkt 3.4), fyll opp til merket med vann, bland og filtrer, og mål den optiske dreiningen som beskrevet i punkt 5.2 annet og tredje ledd.
 
+###### 6. Beregning av resultater
+
 Stivelsesinnholdet i % beregnes som følger:
 
-Polarimetriske målinger $$ \text {Starch content (%)} = \frac {2000 \cdot P - P'} {[\alpha]_D^{20°}}$$P = total optisk dreining i buegraderP' = optisk dreining i buegrader for de stoffer som er løselige i 40 % etanol (V/V)$${[\alpha]_D^{20°}}$$ = den rene stivelses spesifikke optiske dreining. De konvensjonelt aksepterte tallverdier for denne faktoren er følgende:+ 185,9°: risstivelse+ 185,7°: potetstivelse+ 184,6°: maisstivelse+ 182,7°: hvetestivelse+ 181,5°: byggstivelse+ 181,3°: havrestivelse+ 184,0°: andre stivelsesarter og stivelsesblandinger i fôrblandinger.
+6.1.
+
+Polarimetriske målinger $$ \\text {Starch content (%)} = \\frac {2000 \\cdot P - P'} {[\\alpha]_D^{20°}}$$P = total optisk dreining i buegraderP' = optisk dreining i buegrader for de stoffer som er løselige i 40 % etanol (V/V)$${[\\alpha]_D^{20°}}$$ = den rene stivelses spesifikke optiske dreining. De konvensjonelt aksepterte tallverdier for denne faktoren er følgende:+ 185,9°: risstivelse+ 185,7°: potetstivelse+ 184,6°: maisstivelse+ 182,7°: hvetestivelse+ 181,5°: byggstivelse+ 181,3°: havrestivelse+ 184,0°: andre stivelsesarter og stivelsesblandinger i fôrblandinger.
+
+6.2.
 
 Måling med sakkarimeter
 
-$$ \text {Starch content (%)} = \frac {2000}{[\alpha]_D^{20°}} \cdot \frac {(2N \cdot 0{,}665) \cdot (S - S')}{100} - \frac {26{,}6N \cdot (S - S')}{[\alpha]_D^{20°}}$$S = total optisk dreining i sakkarimetergraderS' = optisk dreining i sakkarimetergrader for de stoffer som er oppløselige i 40 % etanol (v/v)N = vekt av sukrose i gram, som i 100 ml vann gir en optisk dreining på 100 sakkarimetergrader ved måling med et 200 mm rør16,29 g for franske sakkarimetre26,00 g for tyske sakkarimetre20,00 g for blandede sakkarimetre$${[\alpha]_D^{20°}}$$ = den rene stivelses spesifikke optiske dreining (se punkt 6.1).
+$$ \\text {Starch content (%)} = \\frac {2000}{[\\alpha]_D^{20°}} \\cdot \\frac {(2N \\cdot 0{,}665) \\cdot (S - S')}{100} - \\frac {26{,}6N \\cdot (S - S')}{[\\alpha]_D^{20°}}$$S = total optisk dreining i sakkarimetergraderS' = optisk dreining i sakkarimetergrader for de stoffer som er oppløselige i 40 % etanol (v/v)N = vekt av sukrose i gram, som i 100 ml vann gir en optisk dreining på 100 sakkarimetergrader ved måling med et 200 mm rør16,29 g for franske sakkarimetre26,00 g for tyske sakkarimetre20,00 g for blandede sakkarimetre$${[\\alpha]_D^{20°}}$$ = den rene stivelses spesifikke optiske dreining (se punkt 6.1).
+
+6.3.
 
 Repeterbarhet
 
 Forskjellen mellom resultatene av to parallelle bestemmelser som foretas på samme prøve, skal ved stivelsesinnhold på mindre enn 40 % ikke overskride 0,4 i absolutt verdi, og ved innhold på 40 % og høyere ikke overskride 1 % i relativ verdi.
 
+###### 7. Merknader
+
+7.1.
+
 Dersom prøven inneholder mer enn 6 % karbonater, beregnet som kalsiumkarbonat, må disse ødelegges ved bruk av en nøyaktig påkrevd mengde fortynnet svovelsyre før den totale optiske dreiningen bestemmes.
 
+7.2.
+
 Ved produkter med høyt innhold av laktose, f.eks. mysepulver eller skummet melkepulver, anvendes følgende framgangsmåte etter tilsetting av 80 ml etanol (punkt 3.5). Målekolben påsettes en tilbakeløpskjøler og plasseres i et vannbad på 50 °C i 30 minutter. Etter avkjøling fortsettes analysen som beskrevet i punkt 5.3.
+
+7.3.
 
 Når fôrmidlene nedenfor forekommer i betydelige mengder i fôrvarer, er de kjent for å forårsake interferens når stivelsesinnholdet bestemmes i henhold til den polarimetriske metoden, noe som kan føre til feilaktige resultater.(sukker)beteprodukter som (sukker)betepulp, (sukker)betemelasse, (sukker)betepulp tilsatt melasse, (sukker) betevinasse, (bete)sukker,sitrusfruktmasse,linfrø, linfrøekspeller, linfrøekstrakt,rapsfrø, rapsfrøekspeller, rapsfrøekstrakt, rapsfrøskall,solsikkefrø, solsikkefrøekstrakt, solsikkefrøekstrakt, delvis avskallet, ekstrakt,kopraekspeller, kopraekstrakt,potetpulp,tørrgjær,produkter med høyt innhold av inulin (f.eks. snitter og mel av jordskokk),fettgrever,soyabønneprodukter.
 
 I disse tilfellene kan analysemetoden fastsatt i kommisjonsforordning [(EF) nr. 121/2008](eu/32008r0121)16 anvendes. Denne metoden kan også brukes for fôr som inneholder mindre enn 1 % stivelse.
 
+16 Kommisjonsforordning [(EF) nr. 121/2008](eu/32008r0121) av 11. februar 2008 om fastsettelse av analysemetode for bestemmelse av stivelsesinnhold i tilberedninger av en type som brukes i dyrefôr (KN-kode 2309) (EUT L 37 av 12.2.2008, s. 3).
+
 ### L. Bestemmelse av råaske
+
+###### 1. Formål og virkeområde
 
 Denne metoden gjør det mulig å bestemme innholdet av råaske i fôrvarer.
 
+###### 2. Prinsipp
+
 Prøven foraskes ved 550 °C, og restmengden veies.
+
+###### 3. Reagenser
 
 20 % løsning (w/v) av ammoniumnitrat.
 
+###### 4. Utstyr
+
+4.1.
+
 Varmeplate.
+
+4.2.
 
 Elektrisk muffelovn med termostat.
 
+4.3.
+
 Digler til foraskning, laget av silisiumoksid, porselen eller platina, enten rektangulære (60 x 40 x 25 mm) eller runde (diameter: 60–75 mm, høyde: 20–40 mm).
+
+###### 5. Framgangsmåte
 
 Vei opp ca. 5 g av prøven (2,5 g for produkter som har en tendens til å svelle), med en nøyaktighet på 1 mg, i en digel til foraskning som først er varmet opp til 550 °C, avkjølt og tarert. Sett digelen på en varmeplate og varm opp gradvis til stoffet karboniseres. Foraskes som beskrevet i punkt 5.1 eller 5.2.
 
+5.1.
+
 Sett digelen i den kalibrerte muffelovnen, som er innstilt på 550 °C. Hold denne temperaturen til det framkommer hvit, lys grå eller rødlig aske, som ser ut til å være fri for karbonholdige partikler. Sett digelen i en eksikkator, la den avkjøles og vei den med det samme.
 
+5.2.
+
 Sett digelen i den kalibrerte muffelovnen, som er innstilt på 550 °C. Foraskes i tre timer. Sett digelen i en eksikkator, la den avkjøles og vei den med det samme. Forask på nytt i 30 minutter for å sikre at vekten av asken forblir konstant (vekttap mellom to påfølgende veiinger må være mindre eller lik 1 mg).
+
+###### 6. Beregning av resultater
 
 Regn ut restmengdens vekt ved å trekke fra taraen.
 
 Resultatet uttrykkes som en prosentandel av prøven.
 
+###### 7. Merknader
+
+7.1.
+
 Asken av stoffer som er vanskelige å foraske, må utsettes for en innledende foraskning i minst tre timer, avkjøles og deretter tilsettes noen få dråper 20 % ammoniumnitratløsning eller vann (forsiktig, for å unngå spredning av asken eller at det dannes klumper). Fortsett kalsineringen etter tørking i tørkeskapet. Gjenta arbeidstrinnet så mange ganger som nødvendig til foraskningen er fullstendig.
 
+7.2.
+
 Når det gjelder stoffer som er motstandsdyktige overfor behandlingen beskrevet i punkt 7.1, benyttes følgende framgangsmåte: Etter foraskning i tre timer plasseres asken i varmt vann og filtreres deretter gjennom et lite, askefritt filter. Forask filteret og dets innhold i den opprinnelige digelen. Ha filtratet i den avkjølte digelen, damp inn til det er tørt, forask og vei.
+
+7.3.
 
 Når det gjelder olje eller fett: Vei opp nøyaktig en prøve på 25 g i en digel av passende størrelse. Karboniser ved å antenne stoffet med en strimmel av askefritt filterpapir. Etter forbrenningen fuktes prøven med en så liten mengde vann som mulig. Tørk og forask som beskrevet under punkt 5.
 
 ### M. Bestemmelse av aske som er uoppløselig i saltsyre
 
+###### 1. Formål og virkeområde
+
 Denne metoden gjør det mulig å bestemme innholdet i fôrvarer av mineralske stoffer som er uoppløselige i saltsyre. Det er to metoder som kan benyttes, avhengig av prøvens art.
+
+1.1.
 
 Metode A: anvendes på organiske fôrmidler og på de fleste typer fôrblandinger.
 
+1.2.
+
 Metode B: anvendes på mineralske sammensetninger og blandinger og på fôrblandinger som har et innhold av stoffer som er uoppløselige i saltsyre, som er større enn 1 %, bestemt etter metode A.
+
+###### 2. Prinsipp
+
+2.1.
 
 Metode A: prøven foraskes, asken kokes i saltsyre, og den uoppløselige restmengden filtreres og veies.
 
+2.2.
+
 Metode B: prøven behandles med saltsyre. Løsningen filtreres, restmengden foraskes, og den asken som oppstår, behandles i henhold til metode A.
+
+###### 3. Reagenser
+
+3.1.
 
 Saltsyre 3 mol/liter
 
+3.2.
+
 Trikloreddiksyreløsning 20 % (w/v).
+
+3.3.
 
 Trikloreddiksyreløsning 1 % (w/v).
 
+###### 4. Utstyr
+
+4.1.
+
 Varmeplate.
+
+4.2.
 
 Elektrisk muffelovn med termostat.
 
+4.3.
+
 Digler til foraskning, laget av silisiumoksid, porselen eller platina, enten rektangulære (60 x 40 x 25 mm) eller runde (diameter: 60–75 mm, høyde: 20–40 mm).
 
+4.4.
+
 Askefrie filtre
+
+###### 5. Framgangsmåte
+
+5.1.
 
 Metode A
 
@@ -1726,11 +2887,17 @@ Forask prøven ved å bruke metoden som er beskrevet for bestemmelse av råaske.
 
 Ha asken i 250–400 ml begerglass med 75 ml saltsyre (punkt 3.1). Bring væsken langsomt i kok, og la den koke forsiktig i 15 minutter. Filtrer den varme løsningen gjennom et askefritt filterpapir og vask restmengden med varmt vann til den sure reaksjonen forsvinner. Tørk filteret som inneholder restmengden, og forask det i en tarert digel ved en temperatur på minst 550 °C og høyst 700 °C. Avkjøl i eksikkator og vei.
 
+5.2.
+
 Metode B
 
 Vei opp 5 g av prøven med en nøyaktighet på 1 mg i et 250–400 ml begerglass. Tilsett 25 ml vann og deretter 25 ml saltsyre (punkt 3.1), bland og vent til brusingen opphører. Tilsett ytterligere 50 ml saltsyre (punkt 3.1). Vent til en eventuell gassutvikling stopper, plasser deretter begerglasset i kokende vannbad i 30 minutter eller mer om nødvendig for å hydrolysere fullstendig eventuell stivelse som finnes. Filtrer den varme blandingen gjennom et askefritt filter og vask filteret i 50 ml varmt vann (se merknad punkt 7). Ha filteret som inneholder restmengden, i en digel for foraskning, tørk og forask ved en temperatur på minst 550 °C og høyst 700 °C. Ha asken i 250–400 ml begerglass med 75 ml saltsyre (punkt 3.1), og fortsett som beskrevet i punkt 5.1 annet ledd.
 
+###### 6. Beregning av resultater
+
 Regn ut restmengdens vekt ved å trekke fra taraen. Resultatet uttrykkes som en prosentandel av prøven.
+
+###### 7. Observasjon
 
 Dersom det viser seg å være vanskelig å filtrere, begynn analysen på nytt, men erstatt 50 ml av saltsyren (punkt 3.1) med 50 ml 20 % trikloreddiksyre (w/v) (punkt 3.2) og vask filteret i en varm løsning av 1 % trikloreddiksyre (punkt 3.3).
 
@@ -1738,59 +2905,113 @@ Dersom det viser seg å være vanskelig å filtrere, begynn analysen på nytt, m
 
 Totalfosfor skal bestemmes vedanalysemetoden fastsatt i EN 15510 Fôrvarer: Prøvetakings- og analysemetoder – Bestemmelse av kalsium, natrium, fosfor, magnesium, kalium, jern, sink, kobber, mangan, kobolt, molybden og bly ved hjelp av ICP-AES, elleranalysemetoden fastsatt i EN 15621 Fôrvarer: Prøvetakings- og analysemetoder – Bestemmelse av kalsium, natrium, fosfor, magnesium, kalium, svovel, jern, sink, kobber, mangan og kobolt etter trykkoppslutning ved ICP-AES, ellerden fotometriske metoden, som beskrevet nedenfor.
 
+###### Fotometrisk metode
+
+###### 1. Formål og virkeområde
+
 Denne metoden gjør det mulig å bestemme innholdet av totalfosfor i fôrvarer. Den er særlig egnet for analyse av produkter med et lavt innhold av fosfor. I visse tilfeller (for produkter med høyt innhold av fosfor) kan en gravimetrisk metode brukes.
+
+###### 2. Prinsipp
 
 Prøven gjøres mineralsk, enten ved tørr forbrenning (organiske fôrvarer) eller ved syreoppslutning (mineralske stoffer og flytende fôrvarer), og oppløses i syre. Løsningen behandles med molybdovanadat-reagensen. Den optiske tettheten til den gule løsningen som dannes, måles i et spektrofotometer ved 430 nm.
 
+###### 3. Reagenser
+
+3.1.
+
 Kalsiumkarbonat,
+
+3.2.
 
 Saltsyre, ρ20 = 1,10 g/ml (ca. 6 mol).
 
+3.3.
+
 Salpetersyre, ρ20 = 1,045 g/ml.
+
+3.4.
 
 Salpetersyre, ρ20 = 1,38–1,42 g/ml.
 
+3.5.
+
 Svovelsyre, ρ20 = 1,84 g/ml.
+
+3.6.
 
 Molybdovanadat-reagens: Bland 200 ml ammoniumheptamolybdatløsning (punkt 3.6.1), 200 ml ammoniummonovanadatløsning (punkt 3.6.2) og 134 ml salpetersyre (punkt 3.4) i en 1 liter målekolbe. Fyll opp til merket med vann.
 
+3.6.1.
+
 Ammoniumheptamolybdatløsning: Løs opp 100 g ammoniumheptamolybdat (NH4) 6Mo7O24·4H2O i varmt vann. Tilsett 10 ml ammoniakk (tetthet 0,91 g/ml) og fyll opp med vann til 1 liter.
+
+3.6.2.
 
 Ammoniummonovanadatløsning: Løs opp 2,35 gram ammoniummonovanadat NH4VO3 i 400 ml varmt vann. Tilsett 20 ml fortynnet salpetersyre (7 ml HNO3 (punkt 3.4) + 13 ml(H2O) langsomt under konstant omrøring, og fyll opp med vann til 1 liter.
 
+3.7.
+
 Standardløsning av 1 mg fosfor per ml: Løs opp 4,387 g kaliumdihydrogenfosfat KH2PO4 i vann. Fyll opp med vann til 1 liter.
+
+###### 4. Utstyr
+
+4.1.
 
 Digler til foraskning av silisiumoksid, porselen eller platina.
 
+4.2.
+
 Elektrisk muffelovn med termostat innstilt på 550 °C.
+
+4.3.
 
 Kjeldahl-kolbe på 250 ml.
 
+4.4.
+
 Målekolber og presisjonspipetter.
+
+4.5.
 
 Spektrofotometer.
 
+4.6.
+
 Reagensglass, ca. 16 mm diameter med propper gradert til en diameter på 14,5 mm; volum 25–30 ml.
+
+###### 5. Framgangsmåte
+
+5.1.
 
 Tillaging av løsningen
 
 Alt etter prøvens art lages det til en løsning som beskrevet i punkt 5.1.1 eller 5.1.2.
 
+5.1.1.
+
 Vanlig framgangsmåte
 
 Vei opp 1 g eller mer av prøven med en nøyaktighet på 1 mg. Overfør prøven til en Kjeldahl-kolbe, tilsett 20 ml svovelsyre (punkt 3.5) og rist kolben for å gjennomfukte stoffet med syre og for å unngå at det setter seg fast på innsiden av kolben. Varm deretter opp blandingen til kokepunktet og hold den der i ti minutter. Avkjøl litt, tilsett deretter 2 ml salpetersyre (punkt 3.4). Dette varmes forsiktig opp og avkjøles litt før det tilsettes litt mer salpetersyre (punkt 3.4) og gis et oppkok. Denne prosessen gjentas inntil det er oppnådd en fargeløs løsning. Avkjøl løsningen, tilsett litt vann, og overfør deretter væsken til en 500 ml målekolbe. Skyll Kjeldahl-kolben med varmt vann. Etter avkjøling fylles kolben opp med vann til merket, homogeniseres og filtreres.
+
+5.1.2.
 
 Framgangsmåte for prøver som inneholder organiske stoffer og som ikke inneholder kalsium- og magnesiumdihydrogenfosfater
 
 Vei opp ca. 2,5 g av prøven med en nøyaktighet på 1 mg i en digel til foraskning og bland grundig med 1 g kalsiumkarbonat (punkt 3.1). Forask blandingen i muffelovnen ved 550 °C inntil det oppnås hvit eller grå aske (litt kull gjør ingen skade). Overfør asken til et 250 ml begerglass. Tilsett 20 ml vann og saltsyre (punkt 3.2) inntil brusingen opphører. Tilsett ytterligere 10 ml saltsyre (punkt 3.2). Sett begerglasset i et sandbad og damp inn innholdet til tørrstoff slik at silisiumoksidet blir uløselig. Restmengden løses opp i 10 ml salpetersyre (punkt 3.3), og løsningen kokes i sandbadet eller på varmeplaten i fem minutter, uten at den dampes helt inn. Væsken overføres til en 500 ml målekolbe, og begerglasset skylles flere ganger med varmt vann. Etter avkjøling fylles kolben opp med vann til merket, homogeniseres og filtreres.
 
+5.2.
+
 Fargeutvikling og måling av optisk tetthet
 
 En delmengde av filtratet som er oppnådd ved punkt 5.1.1 eller 5.1.2, fortynnes for å oppnå en fosforkonsentrasjon på høyst 40 μg/ml. Overfør 10 ml av denne løsningen til et reagensglass (punkt 4.6) og tilsett 10 ml av molybdovanadat-reagensen (punkt 3.6). Homogeniser og sett til side i minst ti minutter ved 20 °C. Den optiske tettheten måles i et spektrofotometer ved 430 nm mot en løsning som oppnås ved å tilsette 10 ml av molybdovanadat-reagensen (punkt 3.6) til 10 ml vann.
 
+5.3.
+
 Kalibreringskurve
 
 Av standardløsningen (punkt 3.7) lages det til løsninger på henholdsvis 5, 10, 20, 30 og 40 μg fosfor per ml. Til 10 ml av hver av disse løsningene tilsettes 10 ml av molybdovanadat-reagensen (punkt 3.6). Homogeniser og sett til side i minst ti minutter ved 20 °C. Den optiske tettheten måles som angitt i punkt 5.2. Kalibreringskurven trekkes opp ved å avtegne verdiene for den optiske tettheten mot de tilsvarende mengdene med fosfor. For konsentrasjoner mellom 0 og 40 μg/ml vil kurven være en rett linje.
+
+###### 6. Beregning av resultater
 
 Mengden fosfor i prøven bestemmes ved å bruke kalibreringskurven.
 
@@ -1802,29 +3023,59 @@ Forskjellen mellom resultatene av to parallelle bestemmelser som utføres på sa
 
 ### O. Bestemmelse av klor fra klorider
 
+###### 1. Formål og virkeområde
+
 Denne metoden gjør det mulig å bestemme innholdet av klor i klorider som er oppløselige i vann, vanligvis uttrykt som natriumklorid. Den kan anvendes på alle typer fôrvarer.
+
+###### 2. Prinsipp
 
 Kloridene løses opp i vann. Dersom produktet inneholder organisk materiale, må det klares. Løsningen syrnes litt med salpetersyre, og kloridene utfelles i form av sølvklorid ved hjelp av en sølvnitratløsning. Overskuddet av sølvnitrat titreres med en løsning av ammoniumtiocyanat, etter Volhard-metoden.
 
+###### 3. Reagenser
+
+3.1.
+
 Ammoniumtiocyanatløsning, 0,1 mol.
+
+3.2.
 
 Sølvnitratløsning, 0,1 mol.
 
+3.3.
+
 Mettet løsning av ammoniumjernsulfat (NH4)Fe(SO4)2.
+
+3.4.
 
 Salpetersyre, tetthet: 1,38 g/ml.
 
+3.5.
+
 Dietyleter.
+
+3.6.
 
 Aceton.
 
+3.7.
+
 Carrez I-løsning: Løs opp 21,9 g sinkacetat Zn (CH3COO)2 2H2O og 3 g iseddik i vann. Fyll opp med vann til 100 ml.
+
+3.8.
 
 Carrez II-løsning: Løs opp 10,6 g kaliumferrocyanid, K4Fe(CN)6 3H2O i vann. Fyll opp med vann til 100 ml.
 
+3.9.
+
 Aktivt karbon, kloridfritt og ikke-kloridabsorberende.
 
+###### 4. Utstyr
+
 Blandeapparat (mekanisk risteapparat): ca. 35–40 o/min.
+
+###### 5. Framgangsmåte
+
+5.1.
 
 Tillaging av løsningen
 
@@ -1832,45 +3083,83 @@ Alt etter prøvens art tillages det en løsning som beskrevet i punkt 5.1.1, 5.1
 
 Samtidig utføres det en blindprøve utenom analyseprøven.
 
+5.1.1.
+
 Prøver uten organisk materiale
 
 Vei opp en prøve på høyst 10 g med en nøyaktighet på 1 mg som ikke inneholder mer enn 3 g klor i form av klorider, og overfør sammen med 400 ml vann til en 500 ml målekolbe ved rundt 20 °C. Bland i tretti minutter i risteapparatet, fyll opp til merket, homogeniser og filtrer.
+
+5.1.2.
 
 Prøver som inneholder organisk materiale, med unntak av produktene som er oppført i punkt 5.1.3.
 
 Vei opp ca. 5 g av prøven med en nøyaktighet på 1 mg og overfør sammen med 1 g aktivt karbon i en 500 ml målekolbe. Tilsett 400 ml vann på ca. 20 °C og 5 ml Carrez I-løsning (punkt 3.7). Bland i ca. 30 sekunder og tilsett deretter 5 ml Carrez II-løsning (punkt 3.8). Bland i 30 minutter i risteapparatet, fyll opp til merket, homogeniser og filtrer.
 
+5.1.3.
+
 Kokte fôrvarer, fôrkaker og mel av linfrø, produkter med høyt innhold av linfrømel og andre produkter med høyt innhold av planteslim eller kolloidale stoffer (f.eks. dekstrinert stivelse)
 
 Løsningen tillages som beskrevet i punkt 5.1.2, men filtreres ikke. Sedimenter (sentrifuger om nødvendig), fjern 100 ml av supernatanten og overfør mengden til en 200 ml målekolbe. Bland med aceton (punkt 3.6) og fyll opp til merket med dette løsemiddelet, homogeniser og filtrer.
+
+5.2.
 
 Titrering
 
 Bruk en pipette til å overføre 25–100 ml av filtratet (etter antatt klorinnhold) som er oppnådd som beskrevet i punkt 5.1.1, 5.1.2 eller 5.1.3 til en erlenmeyerkolbe. Delmengden må ikke inneholde mer enn 150 mg klor (Cl). Fortynn om nødvendig til minst 50 ml med vann, tilsett 5 ml salpetersyre (punkt 3.4), 20 ml mettet ammoniumjernsulfatløsning (punkt 3.3) og to dråper ammoniumtiocyanatløsning (punkt 3.1) som overføres med en byrette fylt opp til nullmerket. Det brukes deretter en byrette til å overføre sølvnitratløsningen (punkt 3.2) på en slik måte at det oppnås et overskudd på 5 ml. Tilsett 5 ml dietyleter (punkt 3.5) og rist kraftig slik at bunnfallet koagulerer. Titrer overskuddet av sølvnitrat med ammoniumtiocyanatløsningen (punkt 3.1) til den rødbrune fargen har holdt seg i ett minutt.
 
-Mengden av klor (X), uttrykt som % natriumklorid, regnes ut ved å bruke følgende formel: $$ X = \frac {5{,}845 \cdot (V_1 - V_2)}{m} $$derV1 = ml tilsatt sølvnitratløsning 0,1 mol/lV2 = ml ammoniumtiocyanatløsning 0,1 mol/l som brukes til titreringM = prøvens vekt i gram i delmengden.
+###### 6. Beregning av resultater
+
+Mengden av klor (X), uttrykt som % natriumklorid, regnes ut ved å bruke følgende formel: $$ X = \\frac {5{,}845 \\cdot (V_1 - V_2)}{m} $$derV1 = ml tilsatt sølvnitratløsning 0,1 mol/lV2 = ml ammoniumtiocyanatløsning 0,1 mol/l som brukes til titreringM = prøvens vekt i gram i delmengden.
 
 Dersom blindprøven viser et forbruk av sølvnitratløsning 0,1 mol/l, må denne verdien trekkes fra volumet (V1 – V2).
 
+###### 7. Merknader
+
+7.1.
+
 Titreringen kan utføres også ved potensiometri eller amperometri.
+
+7.2.
 
 For produkter med svært høyt innhold av olje og fett, utføres det først en avfetting med dietyleter eller petroleumseter.
 
+7.3.
+
 Når det gjelder fiskemel, kan titreringen utføres etter Mohr-metoden.
+
+►**M8**
+
+►**M9**
 
 ### P. Bestemmelse av karbonater
 
+###### 1. Formål og virkeområde
+
 Denne metoden gjør det mulig å bestemme innholdet av karbonater, som vanligvis uttrykkes som kalsiumkarbonat, i fôrva-rer, med unntak av fôrvarer som inneholder jernkarbonat.
+
+###### 2. Prinsipp
 
 Karbonatene spaltes med saltsyre. Karbondioksidet som frigjøres, samles opp i et måleglass og volumet av det sammenlig-nes med det som frigjøres under de samme forhold av en kjent mengde kalsiumkarbonat
 
+###### 3. Reagenser
+
+3.1.
+
 Saltsyre, tetthet 1,10 g/ml.
+
+3.2.
 
 Rent kalsiumkarbonat.
 
+3.3.
+
 Svovelsyre, ca. 0,05 mol/l, farget med metylrødt.
 
+###### 4. Utstyr
+
 Scheibler-Dietrich-apparat (se diagram i tillegget) eller tilsvarende apparat (kalsimeter).
+
+###### 5. Framgangsmåte
 
 Vei opp, avhengig av karbonatinnholdet i prøven, en prøveporsjon som vist nedenfor:0,5 g for produkter som inneholder 50–100 % karbonater, uttrykt som kalsiumkarbonat,1 g for produkter som inneholder 40–50 % karbonater, uttrykt som kalsiumkarbonat,2–3 g for andre produkter.
 
@@ -1880,16 +3169,34 @@ Alle bestemmelser skal utføres under de samme forholdene for å unngå korriger
 
 Framgangsmåten for bruk av Scheibler-Dietrich-apparatet er nærmere beskrevet i tillegget.
 
-Innholdet av karbonater, uttrykt som rent kalsiumkarbonat, beregnes ut fra følgende formel: $$ X = \frac{V \times 100}{V_1 \times 2m} $$derX = % (w/w) av karbonater i prøven, uttrykt som kalsiumkarbonatV = ml CO2 som frigjøres av prøveporsjonen.V1 = ml CO2 som frigjøres av 0,5 g CaCO3.m = prøveporsjonens vekt i g.
+###### 6. Beregning
+
+Innholdet av karbonater, uttrykt som rent kalsiumkarbonat, beregnes ut fra følgende formel: $$ X = \\frac{V \\times 100}{V_1 \\times 2m} $$derX = % (w/w) av karbonater i prøven, uttrykt som kalsiumkarbonatV = ml CO2 som frigjøres av prøveporsjonen.V1 = ml CO2 som frigjøres av 0,5 g CaCO3.m = prøveporsjonens vekt i g.
+
+###### 7. Merknader
+
+7.1.
 
 Dersom Scheibler-Dietrich-apparatet brukes, og prøven veier mer enn 2 g, helles først 15 ml destillert vann i kolben (nr. 4 i diagrammet i tillegget nedenfor), og innholdet blandes før testen påbegynnes ved tilsetning av saltsyre (punkt 3.1 over). Bruk samme mengde destillert vann for kontrollprøven.
 
+7.2.
+
 Dersom apparatet som brukes, har et annet volum enn Scheibler-Dietrich-apparatet, må porsjonene som tas fra prøven og fra kontrollstoffet, og beregningen, justeres tilsvarende.
+
+###### Tillegg
+
+Detaljert framgangsmåte for bruk av Scheibler-Dietrich-apparatet
 
 - Plasser prøveporsjonen i spesialkolben (nr. 4 i diagrammet) på apparatet, som er utstyrt med et lite rør av bruddsikkert materiale, og som inneholder 10 ml saltsyre (punkt 3.1), og forbind kolben med apparatet. Drei treveisventilen (nr. 5 i diagrammet) slik at det graderte røret (nr. 1 i diagrammet) har forbindelse med utsiden. Ved å bruke det bevegelige røret (nr. 2 i diagrammet) som er fylt med farget svovelsyre (punkt 3.3 over) og forbundet med måleglasset (nr. 1 i diagrammet), bringes væskenivået opp til merket. Drei treveisventilen (nr. 5 i diagrammet) slik at rørene (nr. 1 og 3 i diagrammet) kommer i forbindelse med hverandre, og kontroller at nivået står på null.
 - Hell saltsyren (punkt 3.1 over) langsomt over prøveporsjonen, mens spesialkolben (nr. 4 i diagrammet) skråstilles. Sørg for at trykket utlignes ved å senke det mobile røret (nr. 2 i diagrammet). Rist spesialkolben (nr. 4 i diagrammet) til frigjøringen av karbondioksid har stoppet helt.
 - Gjenopprett trykket ved å bringe væsken tilbake til samme nivå i rørene (nr. 1 og 2 i diagrammet). Etter noen minutter, når gassvolumet er blitt konstant, foretas avlesning.
 - Utfør en kontrollprøve under samme forhold på 0,5 g kalsiumkarbonat (punkt 3.2 over).
+
+Scheibler-dietrich-apparat for bestemmelse av CO2
+
+(målt i mm).
+
+◄**M9**
 
 ### VEDLEGG IV
 Analysemetoder for kontroll av nivået av godkjente tilsetningsstoffer i fôrvarer
@@ -1898,89 +3205,173 @@ Analysemetoder for kontroll av nivået av godkjente tilsetningsstoffer i fôrvar
 
 Vitamin A skal bestemmes ved:analysemetoden fastsatt i EN 17547 Fôrvarer: Prøvetakings- og analysemetoder – Bestemmelse av innhold av vitamin A, E og D17 – Metode ved bruk av fastfaseekstraksjon (SPE)-rensing og høyoppløselig væskekromatografi (HPLC), ellerved reversertfase høyoppløselig væskekromatografi (RP-HPLC) med UV- eller fluorescensdetektor, som beskrevet nedenfor i punkt 1 til 9.
 
+###### 1. Formål og virkeområde
+
 Denne metoden gjør det mulig å bestemme innholdet av vitamin A (retinol) i fôrvarer. Vitamin A omfatter all-trans-retinylalkohol og dets cisisomerer som bestemmes ved hjelp av denne metoden. Innholdet av vitamin A uttrykkes i internasjonale enheter (IE) per kg. Én IE tilsvarer aktiviteten av 0,300 µg all-trans-vitamin A-alkohol, 0,344 µg all-trans-vitamin A-acetat eller 0,550 µg all-trans-vitamin A-palmitat.
 
 Kvantifiseringsgrensen for vitamin A er 2 000 IE/kg.
 
+17 Analysemetoden som er fastsatt i EN 17547, er referert til som en alternativ metode som skal brukes til offentlig kontroll for bestemmelse av vitamin A og E i stedet for metoden som er beskrevet for bestemmelse av vitamin A i del A i dette vedlegget og for vitamin E i del B i dette vedlegget.
+
+###### 2. Prinsipp
+
 Prøven hydrolyseres med kaliumhydroksid oppløst i etanol, og vitamin A ekstraheres over til petroleumseter. Løsemiddelet fjernes ved inndamping, og restmengden oppløses i metanol og fortynnes om nødvendig til ønsket konsentrasjon. Innholdet av vitamin A bestemmes ved reversertfase høyoppløselig væskekromatografi (RP-HPLC) med UV- eller fluo-rescensdetektor. De kromatografiske parametrene velges slik at all-trans-vitamin A-alkohol ikke skilles fra sine cis-isomerer.
+
+###### 3. Reagenser
+
+3.1.
 
 Etanol, σ = 96 %.
 
+3.2.
+
 Petroleumseter, kokeområde 40 °C–60 °C.
+
+3.3.
 
 Metanol.
 
+3.4.
+
 Kaliumhydroksidløsning, c = 50 g/100 ml.
+
+3.5.
 
 Natriumaskorbatløsning, c = 10 g/100 ml (se merknader punkt 7.7).
 
+3.6.
+
 Natriumsulfid, Na2S × x H2O (x = 7–9)
+
+3.6.1.
 
 Natriumsulfi dløsning, c = 0,5 mol/l i glyserol, ß = 120 g/l (for x = 9) (se merknader punkt 7.8)
 
+3.7.
+
 Fenolftaleinløsning, c = 2 g/100 ml i etanol (punkt 3.1).
+
+3.8.
 
 2-propanol.
 
+3.9.
+
 Mobil fase for HPLC: blanding av metanol (punkt 3.3) og vann, f.eks. 980 + 20 (v + v). Nøyaktig forhold bestemmes av den anvendte kolonnes egenskaper.
+
+3.10.
 
 Nitrogen, oksygenfritt.
 
+3.11.
+
 All-trans-vitamin A-acetat, ekstra ren, med garantert aktivitet, f.eks. 2,80 × 106 IE/g
+
+3.11.1.
 
 Stamløsning av all-trans-vitamin A-acetat: Vei opp 50 mg vitamin A-acetat (punkt 3.11) med en nøyaktighet på 0,1 mg i en 100 ml målekolbe. Løs opp i 2-propanol (punkt 3.8), og fyll opp til merket med samme løsemiddel. Den nominelle konsentrasjonen av vitamin A i denne løsningen er 1 400 IE per ml. Nøyaktig innhold skal bestemmes i samsvar med punkt 5.6.3,1.
 
+3.12.
+
 All-trans-vitamin A-palmitat, ekstra ren, med garantert aktivitet, f.eks. 1,80 × 106 IE/g
+
+3.12.1.
 
 Stamløsning av all-trans-vitamin A-palmitat: Vei opp 80 mg vitamin A-palmitat (punkt 3.12) med en nøyaktighet på 0,1 mg i en 100 ml målekolbe. Løs opp i 2-propanol (punkt 3.8), og fyll opp til merket med samme løsemiddel. Den nominelle konsentrasjonen av vitamin A i denne løsningen er 1 400 IE per ml. Nøyaktig innhold skal bestemmes i samsvar med punkt 5.6.3,2.
 
+3.13.
+
 2,6-di-tert-butyl-4-metylfenol (BHT) (se merknader punkt 7.5).
+
+###### 4. Utstyr
+
+4.1.
 
 Vakuumrotasjonsfordamper.
 
+4.2.
+
 Brunt glass.
+
+4.2.1.
 
 Flatbunnede kolber eller erlenmeyerkolber, 500 ml, med hals av slipt glass.
 
+4.2.2.
+
 Smalhalsede målekolber med propp av slipt glass, 10, 25, 100 og 500 ml.
+
+4.2.3.
 
 Skilletrakter, koniske, 1 000 ml, med propp av slipt glass.
 
+4.2.4.
+
 Pæreformede kolber, 250 ml, med hals av slipt glass.
+
+4.3.
 
 Allihn-kjøleapparat, kappelengde 300 mm, med skjøtestykke av slipt glass og kopling til gasstilførselsrør.
 
+4.4.
+
 Foldefilter til faseskille, diameter 185 mm (f.eks. Schleicher & Schuell 597 HY 1/2).
+
+4.5.
 
 HPLC-utstyr med injeksjonssystem.
 
+4.5.1.
+
 Væskekromatografikolonne, 250 mm × 4 mm, C18, 5 eller 10 µm kolonnepakning eller tilsvarende (ytelseskriterium: bare én topp for alle retinolisomerer under HPLC-betingelsene)
+
+4.5.2.
 
 UV- eller fluorescensdetektor, med variabel bølgelengdeinnstilling.
 
+4.6.
+
 Spektrofotometer med 10 mm kvartsceller.
+
+4.7.
 
 Vannbad med magnetrører.
 
+4.8.
+
 Ekstraksjonsapparat (se figur 1) bestående av:
+
+4.8.1.
 
 Glassylinder på 1 liter, med hals og propp av slipt glass.
 
+4.8.2.
+
 Innsats av slipt glass med et siderør og et justerbart rør gjennom midten. Det justerbare røret skal ha en U-formet nedre del og spiss tut i motsatt ende, slik at det øverste væskelaget i sylinderen kan helles over i en skilletrakt.
 
+###### 5. Framgangsmåte
+
 Merk: Vitamin A er følsomt for lys (UV) og oksidasjon. Alt arbeid skal utføres avskjermet fra lys (bruk glassvarer av brunt glass eller som er innpakket i aluminiumsfolie) og oksygen (spyl med nitrogen). Under ekstraksjonen skal luften over væsken erstattes med nitrogen (unngå overtrykk ved å lette på proppen av og til).
+
+5.1.
 
 Tilberedning av prøven
 
 Mal prøven til den kan passere gjennom en sikt med 1 mm maskevidde, men pass på å unngå varmeutvikling. For å unngå tap av vitamin A skal prøven males umiddelbart før den veies og forsåpes. Ikke mal prøven(e) dersom partikkelstørrelsesfordelingen er tilstrekkelig (f.eks. forblandinger og tilsetningsstoffer til fôr).
 
+5.2.
+
 Forsåpning
 
 Avhengig av vitamin A-innholdet veies, med en nøyaktighet på 1 mg, 2–25 g av prøven opp i en 500 ml flatbunnet kolbe eller erlenmeyerkolbe (punkt 4.2.1). Ved lave konsentrasjoner kan prøvens vekt økes, slik at det er nok partikler i prøve-mengden. Tilsett etter tur, samtidig som kolben roteres, 130 ml etanol (punkt 3.1), ca. 100 mg BHT (punkt 3.13), 2 ml natriumaskorbatløsning (punkt 3.5) og 2 ml natriumsulfidløsning (punkt 3.6). Fest et kjøleapparat (punkt 4.3) på kolben og plasser kolben i et vannbad med magnetrører (punkt 4.7). Varm opp til kokepunktet og la koke med tilbakestrømning i fem minutter. Tilsett deretter 25 ml kaliumhydroksidløsning (punkt 3.4) gjennom kjøleapparatet (punkt 4.3) og kok med tilbakestrømning i nye 25 minutter under omrøring og langsom gjennomstrømning av nitrogen. Skyll kjøleapparatet med ca. 20 ml vann, og kjøl innholdet i kolben ned til romtemperatur.
 
+5.3.
+
 Ekstraksjon
 
 Forsåpningsløsningen overføres kvantitativt ved sedimentering til en 1000 ml skilletrakt (punkt 4.2.3) eller til ekstraksjonsapparatet (punkt 4.8) ved skylling med totalt 250 ml vann. Deretter skylles forsåpningskolben, først med 25 ml etanol (punkt 3.1) og deretter med 100 ml petroleumseter (punkt 3.2), før løsemiddelblandingen overføres til skilletrakten eller ekstraksjonsapparatet. Forholdet mellom vann og etanol i den samlede væskemengden skal være ca. 2:1. Rist kraftig i to minutter, og la deretter stå i to minutter.
+
+5.3.1.
 
 Ekstraksjon med skilletrakt (punkt 4.2.3)
 
@@ -1988,15 +3379,21 @@ Når væsken er skilt i to lag (se merknad punkt 7.3), overføres petroleumseter
 
 Vask de samlede ekstraktene to ganger ved å tilsette porsjoner på 100 ml vann og deretter forsiktig rotere skilletrakten (for å unngå emulsjonsdannelse). Rist deretter skilletrakten gjentatte ganger (fire ganger burde holde) med porsjoner på 100 ml vann helt til vannet ikke farges ved tilsetting av fenolftaleinløsning (punkt 3.7). Det vaskede ekstraktet filtreres over i en 500 ml målekolbe (punkt 4.2.2) gjennom et tørt foldefilter til faseskille (punkt 4.4), slik at eventuelt suspendert vann fjernes. Skyll skilletrakten og filteret med 50 ml petroleumseter (punkt 3.2), fyll opp til merket med petroleumseter (punkt 3.2) og bland godt
 
+5.3.2.
+
 Ekstraksjon med ekstraksjonsapparat (punkt 4.8)
 
 Når væsken er skilt i to lag (se merknad punkt 7.3), erstattes proppen i glassylinderen (punkt 4.8.1) med innsatsen av slipt glass (punkt 4.8.2), og den nederste, U-formede delen av det justerbare røret plasseres like over skilleflaten mellom de to lagene. Det øvre laget av petroleumseter overføres til en 1 000 ml skilletrakt (punkt 4.2.3) ved innføring av nitrogen gjennom siderøret. Tilsett deretter 100 ml petroleumseter (punkt 3.2) til glassylinderen, sett i proppen og rist godt. Når væsken er skilt i to lag, overføres det øvre laget til skilletrakten som beskrevet tidligere. Gjenta ekstraksjonen med ytterligere 100 ml petroleumseter (punkt 3.2), deretter to ganger med 50 ml porsjoner av petroleumseter (punkt 3.2), og overfør petroleumseterlagene til skilletrakten.
 
 Vask de samlede petroleumseterekstraktene som beskrevet i punkt 5.3.1, og fortsett som beskrevet i nevnte punkt.
 
+5.4.
+
 Tillaging av prøveløsningen for HPLC
 
 Pipetter en delmengde av petroleumseterløsningen (fra punkt 5.3.1 eller 5.3.2) over i en 250 ml pæreformet kolbe (punkt 4.2.4). La løsemiddelet inndampe i rotasjonsfordamperen (punkt 4.1) med redusert trykk med en vannbadstemperatur på høyst 40 °C til det er nesten tørt. Gjenopprett atmosfærisk trykk ved å slippe inn nitrogen (punkt 3.10), og fjern kolben fra rotasjonsfordamperen. Fjern det resterende løsemiddelet med en nitrogenstrøm (punkt 3.10) og løs umiddelbart opp restmengden i et kjent volum (10–100 ml) metanol (punkt 3.3) (konsentrasjonen av vitamin A skal ligge i området 5–30 IE/ml).
+
+5.5.
 
 HPLC-bestemmelse
 
@@ -2006,10 +3403,20 @@ Injiser inn en delmengde (f.eks. 20 µl) av metanolløsningen fra punkt 5.4 og e
 
 HPLC-betingelser
 
-Følgende betingelser er veiledende. Det kan benyttes andre betingelser forutsatt at de fører til tilsvarende resultater.Væskekromatografikolonne
-(punkt 4.5.1):250 mm × 4 mm, C18, 5 eller 10 μm kolonnepakning eller tilsvarende.Mobil fase (punkt 3.9):Blanding av metanol (punkt 3.3) og vann, f.eks. 980 + 20 (v + v).Gjennomstrømningshastighet:1–2 ml/minDetektor (punkt 4.5.2):UV-detektor (325nm) eller fluorescensdetektor (eksitasjon: 325 nm/emisjon: 475 nm).
+Følgende betingelser er veiledende. Det kan benyttes andre betingelser forutsatt at de fører til tilsvarende resultater.
+
+|  |  |
+| --- | --- |
+| Væskekromatografikolonne<br>(punkt 4.5.1): | 250 mm × 4 mm, C18, 5 eller 10 μm kolonnepakning eller tilsvarende. |
+| Mobil fase (punkt 3.9): | Blanding av metanol (punkt 3.3) og vann, f.eks. 980 + 20 (v + v). |
+| Gjennomstrømningshastighet: | 1–2 ml/min |
+| Detektor (punkt 4.5.2): | UV-detektor (325nm) eller fluorescensdetektor (eksitasjon: 325 nm/emisjon: 475 nm). |
+
+5.6.
 
 Kalibrering
+
+5.6.1.
 
 Tillaging av standardarbeidsløsninger
 
@@ -2017,149 +3424,290 @@ Pipetter 20 ml av stamløsningen av vitamin A-acetat (punkt 3.11.1) eller vitami
 
 Pipetter 2,0 ml av denne standardarbeidsløsningen over i en 20 ml målekolbe, fyll opp til merket med metanol (punkt 3.3) og bland. Den nominelle konsentrasjonen av vitamin A i denne fortynnede arbeidsløsningen er 56 IE per ml.
 
+5.6.2.
+
 Tillaging av kalibreringsløsninger og kalibreringskurve
 
 Overfør 1,0, 2,0, 5,0 og 10,0 ml av den fortynnede standardarbeidsløsningen til en rekke 20 ml målekolber, fyll opp til merket med metanol (punkt 3.3) og bland. Den nominelle konsentrasjonen av vitamin A i disse løsningene er 2,8, 5,6, 14,0 og 28,0 IE per ml.
 
 Injiser 20 μl av hver kalibreringsløsning flere ganger og bestem gjennomsnittlige topphøyder (-arealer). Bruk de gjennomsnittlige topphøydene (-arealene) til å trekke opp en kalibreringskurve med hensyn til resultatene av UV-kontrollen (punkt 5.6.3.3).
 
+5.6.3.
+
 UV-standardisering av standardløsningene
+
+5.6.3.1.
 
 Stamløsning av vitamin A-acetat
 
 Pipetter 2,0 ml av stamløsningen av vitamin A-acetat (punkt 3.11.1) over i en 50 ml målekolbe (punkt 4.2.2) og fyll opp til merket med 2-propanol (punkt 3.8). Den nominelle konsentrasjonen av vitamin A i denne løsningen er 56 IE per ml. Pipetter 3,0 ml av denne fortynnede vitamin A-acetatløsningen over i en 25 ml målekolbe og fyll opp til merket med 2-propanol (punkt 3.8). Den nominelle konsentrasjonen av vitamin A i denne løsningen er 6,72 IE per ml. Mål UV-spektrumet for løsningen mot 2-propanol (punkt 3.8) i spektrofotometeret (punkt 4.6) mellom 300 og 400 nm. Ekstinksjonsmaksimum skal ligge mellom 325 og 327 nm.
 
-Beregning av vitamin A-innholdet: $$\text {IU vitamin A} / \text {ml} = E_{326} \cdot 19{,}0$$$$\left( E_{1 \text {cm}}^{1\%} \: \text {for vitamin A acetate} = 1530 \: \text {at} \: 326 \: \text {nm in} \: 2 - \right)$$
+Beregning av vitamin A-innholdet: $$\\text {IU vitamin A} / \\text {ml} = E_{326} \\cdot 19{,}0$$$$\\left( E_{1 \\text {cm}}^{1\\%} \\: \\text {for vitamin A acetate} = 1530 \\: \\text {at} \\: 326 \\: \\text {nm in} \\: 2 - \\right)$$
+
+5.6.3.2.
 
 Stamløsning av vitamin A-palmitat
 
 Pipetter 2,0 ml av stamløsningen av vitamin A-palmitat (punkt 3.12.1) over i en 50 ml målekolbe (punkt 4.2.2) og fyll opp til merket med 2-propanol (punkt 3.8). Den nominelle konsentrasjonen av vitamin A i denne løsningen er 56 IE per ml. Pipetter 3,0 ml av denne fortynnede vitamin A-palmitatløsningen over i en 25 ml målekolbe og fyll opp til merket med 2-propanol (punkt 3.8). Den nominelle konsentrasjonen av vitamin A i denne løsningen er 6,72 IE per ml. Mål UV-spektrumet for løsningen mot 2-propanol (punkt 3.8) i spektrofotometeret (punkt 4.6) mellom 300 og 400 nm. Ekstinksjonsmaksimum skal ligge mellom 325 og 327 nm.
 
-Beregning av vitamin A-innholdet: $$\text {IU vitamin A} / \text {ml} = E_{326} \cdot 19,0$$$$\left( E_{1 \text {cm}}^{1\%} \: \text {for vitamin A palmitate} = 957 \: \text {at} \: 326 \: \text {nm in} \: 2 - \right)$$
+Beregning av vitamin A-innholdet: $$\\text {IU vitamin A} / \\text {ml} = E_{326} \\cdot 19,0$$$$\\left( E_{1 \\text {cm}}^{1\\%} \\: \\text {for vitamin A palmitate} = 957 \\: \\text {at} \\: 326 \\: \\text {nm in} \\: 2 - \\right)$$
+
+5.6.3.3.
 
 Standardarbeidsløsning av vitamin A
 
 Pipetter 3,0 ml av den ufortynnede standardarbeidsløsningen av vitamin A, tillaget som beskrevet i punkt 5.6.1, over i en 50 ml målekolbe (punkt 4.2.2) og fyll opp til merket med 2-propanol (punkt 3.8). Pipetter 5,0 ml av denne løsningen over i en 25 ml målekolbe og fyll opp til merket med 2-propanol (punkt 3.8). Den nominelle konsentrasjonen av vitamin A i denne løsningen er 6,72 IE per ml. Mål UV-spektrumet for løsningen mot 2-propanol (punkt 3.8) i spektrofotometeret (punkt 4.6) mellom 300 og 400 nm. Ekstinksjonsmaksimum skal ligge mellom 325 og 327 nm.
 
-Beregning av vitamin A-innholdet: $$ \text{IU vitamin A/ml} = E_{325} \cdot 18{,}3 $$$$ \left(E_{1\,\text{cm}}^{1\,\%}\ \text{for vitamin A alcohol} = 1\,821 \quad \text{at}\: 325\ \text{nm in } 2 \right) $$
+Beregning av vitamin A-innholdet: $$ \\text{IU vitamin A/ml} = E_{325} \\cdot 18{,}3 $$$$ \\left(E_{1\\,\\text{cm}}^{1\\,\\%}\\ \\text{for vitamin A alcohol} = 1\\,821 \\quad \\text{at}\\: 325\\ \\text{nm in } 2 \\right) $$
+
+###### 6. Beregning av resultater
 
 Bruk gjennomsnittshøyden (-arealet) for vitamin A-toppene fra prøveløsningen til å bestemme prøveløsningens konsentrasjon i IE/ml ved hjelp av kalibreringskurven (punkt 5.6.2).
 
-Innholdet av vitamin A w (IE/kg) i prøven beregnes ved hjelp av følgende formel: $$ w = \frac{500 \cdot c \cdot V_2 \cdot 1\,000}{V_1 \cdot m} \left[\mathrm{IU/kg}\right] $$derc = prøveløsningens (punkt 5.4) vitamin A-konsentrasjonen i IE/mlV1 = prøveløsningens (punkt 5.4) volum i mlV2 = volum av delmengde tatt i punkt 5.4 i mlM = prøvemengdens vekt i g.
+Innholdet av vitamin A w (IE/kg) i prøven beregnes ved hjelp av følgende formel: $$ w = \\frac{500 \\cdot c \\cdot V_2 \\cdot 1\\,000}{V_1 \\cdot m} \\left[\\mathrm{IU/kg}\\right] $$derc = prøveløsningens (punkt 5.4) vitamin A-konsentrasjonen i IE/mlV1 = prøveløsningens (punkt 5.4) volum i mlV2 = volum av delmengde tatt i punkt 5.4 i mlM = prøvemengdens vekt i g.
+
+###### 7. Merknader
+
+7.1.
 
 For prøver med lav konsentrasjon av vitamin A kan det være nyttig å slå sammen petroleumseterekstraktene fra to forsåpningsomganger (veid mengde: 25 g) til én prøveløsning for HPLC-bestemmelse.
 
+7.2.
+
 Prøven som skal analyseres, skal ikke inneholde mer enn 2 g fett.
+
+7.3.
 
 Dersom faseskille ikke finner sted, tilsettes ca. 10 ml etanol (punkt 3.1) for å bryte emulsjonen.
 
+7.4.
+
 For torskelevertran og andre rene fettstoffer økes forsåpningstiden til 45–60 minutter.
+
+7.5.
 
 Hydrokinon kan brukes i stedet for BHT.
 
+7.6.
+
 Ved bruk av en normalfasekolonne er det mulig å skille retinolisomerer. Men i disse tilfellene skal topphøydene (-arealene) for alle cis- og transisomerer summeres for beregning.
+
+7.7.
 
 I stedet for natriumaskorbatløsning er det mulig å bruke ca. 150 mg askorbinsyre.
 
+7.8.
+
 I stedet for natriumsulfidløsning er det mulig å bruke ca. 50 mg EDTA.
+
+7.9.
 
 Ved analyse av vitamin A i melkeerstatningsfôr, vær særlig oppmerksom vedforsåpning (punkt 5.2): på grunn av mengden av fett prøven inneholder, kan det være nødvendig å øke mengden kaliumhydroksidløsning (punkt 3.4),ekstraksjon (punkt 5.3): på grunn av tilstedeværelsen av emulsjoner kan det være nødvendig å justere forholdet på 2:1 mellom vann og etanol.
 
 For å kontrollere om den anvendte analysemetoden gir pålitelige resultater for denne bestemte matriksen (melkeerstatningsfôr) skal det gjennomføres en gjenfinningsprøve på en ekstra prøvemengde. Dersom gjenfinningsprosenten er under 80 %, skal analyseresultatet korrigeres for gjenfinning.
 
+###### 8. Repeterbarhet
+
 Forskjellen mellom resultatene fra to parallelle bestemmelser som utføres på samme prøve, må ikke overskride 15 % av det høyeste resultatet.
 
-*Premiks**Fôrvarer iblandet premiks**Mineralkonsentrat**Proteinfôr**Smågrisfôr*V1312131213n4845474649Gjennomsnitt [IE/kg]17,02 × 1061,21 × 106537 100151 80018 070sr [IE/kg]0,51 × 1060 039 × 10622 08012 280682r [IE/kg]1,43 × 1060 109 × 10661 82434 3841 910CVr [%]3,03,54,18,13,8sR [IE/kg]1,36 × 1060 069 × 10646 30023 0603 614R [IE/kg]3,81 × 1060 193 × 106129 64064 56810 119CVR (%)8,06,28,61520L: antall laboratoriern: antall enkeltverdiersr: standardavvik for repeterbarhetsR: standardavvik for reproduserbarhetr: repeterbarhetR: reproduserbarhetCVr: variasjonskoeffisient for repeterbarhetCVR: variasjonskoeffisient for reproduserbarhet
+###### 9. Resultater av en undersøkelse foretatt ved flere laboratorier18
+
+|  | *Premiks* | *Fôrvarer iblandet premiks* | *Mineralkonsentrat* | *Proteinfôr* | *Smågrisfôr* |
+| --- | --- | --- | --- | --- | --- |
+| V | 13 | 12 | 13 | 12 | 13 |
+| n | 48 | 45 | 47 | 46 | 49 |
+| Gjennomsnitt [IE/kg] | 17,02 × 106 | 1,21 × 106 | 537 100 | 151 800 | 18 070 |
+| sr [IE/kg] | 0,51 × 106 | 0 039 × 106 | 22 080 | 12 280 | 682 |
+| r [IE/kg] | 1,43 × 106 | 0 109 × 106 | 61 824 | 34 384 | 1 910 |
+| CVr [%] | 3,0 | 3,5 | 4,1 | 8,1 | 3,8 |
+| sR [IE/kg] | 1,36 × 106 | 0 069 × 106 | 46 300 | 23 060 | 3 614 |
+| R [IE/kg] | 3,81 × 106 | 0 193 × 106 | 129 640 | 64 568 | 10 119 |
+| CVR (%) | 8,0 | 6,2 | 8,6 | 15 | 20 |
+
+- L: antall laboratorier
+- n: antall enkeltverdier
+- sr: standardavvik for repeterbarhet
+- sR: standardavvik for reproduserbarhet
+- r: repeterbarhet
+- R: reproduserbarhet
+- CVr: variasjonskoeffisient for repeterbarhet
+- CVR: variasjonskoeffisient for reproduserbarhet
+
+*Figur 1*
 
 Ekstraksjonsapparat (punkt 4.8)
 
 Tekst til figur 1: Skjematisk framstilling av ekstraksjonsapparat s ved:
 
+18 Utført av arbeidsgruppen for fôrvarer ved Verband Deutscher Landwirtschaftlicher Untersuchungs- und Forschungsanstalten (VDLUFA).
+
 ### B. Bestemmelse av vitamin E
 
 Vitamin E skal bestemmes ved:analysemetoden fastsatt i EN 17547 Fôrvarer: Prøvetakings- og analysemetoder – Bestemmelse av innhold av vitamin A, E og D19 – Metode ved bruk av fastfaseekstraksjon (SPE)-rensing og høyoppløselig væskekromatografi (HPLC), ellerved reversertfase høyoppløselig væskekromatografi (RP-HPLC) med UV- eller fluorescensdetektor, som beskrevet nedenfor i punkt 1 til 9.
+
+19 Analysemetoden som er fastsatt i EN 17547, er referert til som en alternativ metode som skal brukes til offentlig kontroll for bestemmelse av vitamin A og E i stedet for metoden som er beskrevet for bestemmelse av vitamin A i del A i dette vedlegget og for vitamin E i del B i dette vedlegget.
+
+###### 1. Formål og virkeområde
 
 Denne metoden gjør det mulig å bestemme innholdet av vitamin E i fôrvarer. Innholdet av vitamin E uttrykkes i mg DL-α-tokoferolacetat per kg. 1 mg DL-α-tokoferolacetat tilsvarer 0,91 mg DL-α-tokoferol (vitamin E).
 
 Kvantifiseringsgrensen for vitamin E er 2 mg vitamin E/kg. Denne kvantifiseringsgrensen kan bare oppnås ved bruk av fluorescensdetektor. Ved bruk av UV-detektor er kvantifiseringsgrensen 10 mg/kg.
 
+###### 2. Prinsipp
+
 Prøven hydrolyseres med kaliumhydroksid oppløst i etanol, og vitamin E ekstraheres over til petroleumseter. Løsemiddelet fjernes ved inndamping, og restmengden oppløses i metanol og fortynnes om nødvendig til ønsket konsentrasjon. Innholdet av vitamin E bestemmes ved reversertfase høyoppløselig væskekromatografi (RP-HPLC) med UV- eller fluorescensdetektor.
+
+###### 3. Reagenser
+
+3.1.
 
 Etanol, σ = 96 %.
 
+3.2.
+
 Petroleumseter, kokeområde 40 °C–60 °C.
+
+3.3.
 
 Metanol.
 
+3.4.
+
 Kaliumhydroksidløsning, c = 50 g/100 ml.
+
+3.5.
 
 Natriumaskorbatløsning, c = 10 g/100 ml (se merknader punkt 7.7).
 
+3.6.
+
 Natriumsulfid, Na2S · x H2O (x = 7–9)
+
+3.6.1.
 
 Natriumsulfidløsning, c = 0,5 mol/l i glyserol, ß = 120 g/l (for x = 9) (se merknader punkt 7.8)
 
+3.7.
+
 Fenolftaleinløsning, c = 2 g/100 ml i etanol (punkt 3.1).
+
+3.8.
 
 Mobil fase for HPLC: blanding av metanol (punkt 3.3) og vann, f.eks. 980 + 20 (v + v). Nøyaktig forhold bestemmes av den anvendte kolonnes egenskaper.
 
+3.9.
+
 Nitrogen, oksygenfritt.
+
+3.10.
 
 DL-α-tokoferolacetat, ekstra rent, med garantert aktivitet
 
+3.10.1.
+
 Stamløsning av DL-α-tokoferolacetat: Vei opp 100 mg DL-α-tokoferolacetat (punkt 3.10) med en nøyaktighet på 0,1 mg i en 100 ml målekolbe. Løs opp i etanol (punkt 3.1), og fyll opp til merket med samme løsemiddel. 1 ml av denne løsningen inneholder 1 mg DL-α-tokoferolacetat (UV-kontroll, se punkt 5.6.1.3, stabilisering, se merknader punkt 7.4).
+
+3.11.
 
 DL-α-tokoferol, ekstra ren, med garantert aktivitet
 
+3.11.1.
+
 Stamløsning av DL-α-tokoferol: Vei opp 100 mg DL-α-tokoferol (punkt 3.11) med en nøyaktighet på 0,1 mg i en 100 ml målekolbe. Løs opp i etanol (punkt 3.1), og fyll opp til merket med samme løsemiddel. 1 ml av denne løsningen inneholder 1 mg DL-α-tokoferol (UV-kontroll, se punkt 5.6.2.3, stabilisering, se merknader punkt 7.4).
+
+3.12.
 
 2,6-di-tert-butyl-4-metylfenol (BHT) (se merknader punkt 7.5).
 
+###### 4. Utstyr
+
+4.1.
+
 Rotasjonsfordamper.
+
+4.2.
 
 Brunt glass.
 
+4.2.1.
+
 Flatbunnede kolber eller erlenmeyerkolber, 500 ml, med hals av slipt glass.
+
+4.2.2.
 
 Smalhalsede målekolber med propp av slipt glass, 10, 25, 100 og 500 ml.
 
+4.2.3.
+
 Skilletrakter, koniske, 1 000 ml, med propp av slipt glass.
+
+4.2.4.
 
 Pæreformede kolber, 250 ml, med hals av slipt glass.
 
+4.3.
+
 Allihn-kjøleapparat, kappelengde 300 mm, med skjøtestykke av slipt glass og kopling til gasstilførselsrør.
+
+4.4.
 
 Foldefilter til faseskille, diameter 185 mm (f.eks. Schleicher & Schuell 597 HY 1/2).
 
+4.5.
+
 HPLC-utstyr med injeksjonssystem
+
+4.5.1.
 
 Væskekromatografikolonne, 250 mm × 4 mm, C18, 5 eller 10 µm kolonnepakning eller tilsvarende.
 
+4.5.2.
+
 UV- eller fluorescensdetektor, med variabel bølgelengdeinnstilling.
+
+4.6.
 
 Spektrofotometer med 10 mm kvartsceller.
 
+4.7.
+
 Vannbad med magnetrører.
+
+4.8.
 
 Ekstraksjonsapparat (se figur 2) bestående av:
 
+4.8.1.
+
 Glassylinder på 1 liter, med hals og propp av slipt glass.
+
+4.8.2.
 
 Innsats av slipt glass med et siderør og et justerbart rør gjennom midten. Det justerbare røret skal ha en U-formet nedre del og spiss tut i motsatt ende, slik at det øverste væskelaget i sylinderen kan helles over i en skilletrakt.
 
+###### 5. Framgangsmåte
+
 Merk: Vitamin E er følsomt for lys (UV) og oksidasjon. Alt arbeid skal utføres avskjermet fra lys (bruk glassvarer av brunt glass eller som er innpakket i aluminiumsfolie) og oksygen (spyl med nitrogen). Under ekstraksjonen skal luften over væsken erstattes med nitrogen (unngå overtrykk ved å lette på proppen av og til).
+
+5.1.
 
 Tilberedning av prøven
 
 Mal prøven til den kan passere gjennom en sikt med 1 mm maskevidde, men pass på å unngå varmeutvikling. For å unngå tap av vitamin E skal prøven males umiddelbart før den veies og forsåpes.
 
+5.2.
+
 Forsåpning
 
 Avhengig av vitamin E-innholdet veies, med en nøyaktighet på 0,01 g, 2–25 g av prøven opp i en 500 ml flatbunnet kolbe eller erlenmeyerkolbe (punkt 4.2.1). Tilsett etter tur, samtidig som kolben roteres, 130 ml etanol (punkt 3.1), ca. 100 mg BHT (punkt 3.12), 2 ml natriumaskorbatløsning (punkt 3.5) og 2 ml natriumsulfidløsning (punkt 3.6). Fest kjøleapparatet (punkt 4.3) på kolben og plasser kolben i et vannbad med magnetrører (punkt 4.7). Varm opp til kokepunktet og la koke med tilbakestrømning i fem minutter. Tilsett deretter 25 ml kaliumhydroksidløsning (punkt 3.4) gjennom kjøleapparatet (punkt 4.3) og kok med tilbakestrømning i nye 25 minutter under omrøring og langsom gjennomstrømning av nitrogen. Skyll kjøleapparatet med ca. 20 ml vann, og kjøl innholdet i kolben ned til romtemperatur.
 
+5.3.
+
 Ekstraksjon
 
 Forsåpningsløsningen overføres kvantitativt ved sedimentering til en 1 000 ml skilletrakt (punkt 4.2.3) eller til ekstraksjonsapparatet (punkt 4.8) ved skylling med totalt 250 ml vann. Deretter skylles forsåpningskolben, først med 25 ml etanol (punkt 3.1) og deretter med 100 ml petroleumseter (punkt 3.2), før løsemiddelblandingen overføres til skilletrakten eller ekstraksjonsapparatet. Forholdet mellom vann og etanol i den samlede væskemengden skal være ca. 2:1. Rist kraftig i to minutter, og la deretter stå i to minutter.
+
+5.3.1.
 
 Ekstraksjon med skilletrakt (punkt 4.2.3)
 
@@ -2167,15 +3715,21 @@ Når væsken er skilt i to lag (se merknad punkt 7.3), overføres petroleumseter
 
 Vask de samlede ekstraktene to ganger ved å tilsette porsjoner på 100 ml vann og deretter forsiktig rotere skilletrakten (for å unngå emulsjonsdannelse). Rist deretter skilletrakten gjentatte ganger (fire ganger burde holde) med porsjoner på 100 ml vann helt til vannet ikke farges ved tilsetting av fenolftaleinløsning (punkt 3.7). Det vaskede ekstraktet filtreres over i en 500 ml målekolbe (punkt 4.2.2) gjennom et tørt foldefilter til faseskille (punkt 4.4), slik at eventuelt suspendert vann fjernes. Skyll skilletrakten og filteret med 50 ml petroleumseter (punkt 3.2), fyll opp til merket med petroleumseter (punkt 3.2) og bland godt.
 
+5.3.2.
+
 Ekstraksjon med ekstraksjonsapparat (punkt 4.8)
 
 Når væsken er skilt i to lag (se merknad punkt 7.3), erstattes proppen i glassylinderen (punkt 4.8.1) med innsatsen av slipt glass (punkt 4.8.2), og den nederste, U-formede delen av det justerbare røret plasseres like over skilleflaten mellom de to lagene. Det øvre laget av petroleumseter overføres til en 1 000 ml skilletrakt (punkt 4.2.3) ved innføring av nitrogen gjennom siderøret. Tilsett deretter 100 ml petroleumseter (punkt 3.2) til glassylinderen, sett i proppen og rist godt. Når væsken er skilt i to lag, overføres det øvre laget til skilletrakten som beskrevet tidligere. Gjenta ekstraksjonen med ytterligere 100 ml petroleumseter (punkt 3.2), deretter to ganger med 50 ml porsjoner av petroleumseter (punkt 3.2), og overfør petroleumseterlagene til skilletrakten.
 
 Vask de samlede petroleumseterekstraktene som beskrevet i punkt 5.3.1, og fortsett som beskrevet der.
 
+5.4.
+
 Tillaging av prøveløsningen for HPLC
 
 Pipetter en delmengde av petroleumseterløsningen (fra punkt 5.3.1 eller 5.3.2) over i en 250 ml pæreformet kolbe (punkt 4.2.4). La løsemiddelet inndampe i rotasjonsfordamperen (punkt 4.1) med redusert trykk med en vannbadstemperatur på høyst 40 °C til det er nesten tørt. Gjenopprett atmosfærisk trykk ved å slippe inn nitrogen (punkt 3.9), og fjern kolben fra rotasjonsfordamperen. Fjern det resterende løsemiddelet med en nitrogenstrøm (punkt 3.9), og løs umiddelbart opp restmengden i et kjent volum (10–100 ml) metanol (punkt 3.3) (konsentrasjonen av DL-α-tokoferol skal ligge i området 5–30 µg/ml).
+
+5.5.
 
 HPLC-bestemmelse
 
@@ -2185,15 +3739,30 @@ Injiser inn en delmengde (f.eks. 20 µl) av metanolløsningen fra punkt 5.4 og e
 
 HPLC-betingelser
 
-Følgende betingelser er veiledende. Det kan benyttes andre betingelser forutsatt at de fører til tilsvarende resultater.Væskekromatografikolonne (punkt 4.5.1):250 mm × 4 mm, C18, 5 eller 10 μm kolonnepakning eller tilsvarende.Mobil fase (punkt 3.8):Blanding av metanol (punkt 3.3) og vann, f.eks. 980 + 20 (v + v).Gjennomstrømningshastighet:1–2 ml/minDetektor (punkt 4.5.2)Fluorescensdetektor (eksitasjon: 295 nm/emisjon: 330 nm) eller en UV-detektor (292 nm).
+Følgende betingelser er veiledende. Det kan benyttes andre betingelser forutsatt at de fører til tilsvarende resultater.
+
+|  |  |
+| --- | --- |
+| Væskekromatografikolonne (punkt 4.5.1): | 250 mm × 4 mm, C18, 5 eller 10 μm kolonnepakning eller tilsvarende. |
+| Mobil fase (punkt 3.8): | Blanding av metanol (punkt 3.3) og vann, f.eks. 980 + 20 (v + v). |
+| Gjennomstrømningshastighet: | 1–2 ml/min |
+| Detektor (punkt 4.5.2) | Fluorescensdetektor (eksitasjon: 295 nm/emisjon: 330 nm) eller en UV-detektor (292 nm). |
+
+5.6.
 
 Kalibrering (DL-α-tokoferolacetat eller DL-α-tokoferol)
 
+5.6.1.
+
 Standardløsning av DL-α-tokoferolacetat
+
+5.6.1.1.
 
 Tillaging av standardarbeidsløsning
 
 Pipetter 25 ml av stamløsningen av DL-α-tokoferolacetat (punkt 3.10.1) over til en 500 ml flatbunnet kolbe eller erlenmeyerkolbe (punkt 4.2.1) og hydrolyser som beskrevet i punkt 5.2. Ekstraher deretter med petroleumseter (punkt 3.2) som beskrevet i punkt 5.3 og spe ut til 500 ml med petroleumseter. La 25 ml av ekstraktet inndampe i rotasjonsfordamperen (se punkt 5.4) til prøven er nesten tørr, fjern resten av løsningen med en nitrogenstrøm (punkt 3.9) og løs restmengden opp på nytt i 25,0 ml metanol (punkt 3.3). Den nominelle konsentrasjonen av µg DL-α-tokoferol i denne løsningen er 45,5 per ml, som tilsvarer 50 µg DL-α-tokoferolacetat per ml. Standardarbeidsløsningen skal tillages like før bruk.
+
+5.6.1.2.
 
 Tillaging av kalibreringsløsninger og kalibreringskurve
 
@@ -2201,19 +3770,27 @@ Overfør 1,0, 2,0, 4,0 og 10,0 ml av standardarbeidsløsningen til en rekke 20 m
 
 Injiser 20 μl av hver kalibreringsløsning flere ganger og bestem gjennomsnittlige topphøyder (-arealer). Bruk de gjennomsnittlige topphøydene (-arealene) til å trekke opp en kalibreringskurve.
 
+5.6.1.3.
+
 UV-standardisering av stamløsningen av DL-α-tokoferolacetat (punkt 3.10.1)
 
 Fortynn 5,0 ml av stamløsningen av DL-α-tokoferolacetat (punkt 3.10.1) til 25,0 ml med etanol, og mål løsningens UV-spektrum mot etanol (punkt 3.1) i spektrofotometeret (punkt 4.6) mellom 250 og 320 nm.
 
-Absorpsjonsmaksimum skal ligge ved 284 nm: $$ E_{1\,cm}^{1\,\%} = 43{,}6 \, \text{at 284 nm in ethanol} $$
+Absorpsjonsmaksimum skal ligge ved 284 nm: $$ E_{1\\,cm}^{1\\,\\%} = 43{,}6 \\, \\text{at 284 nm in ethanol} $$
 
 Ved denne fortynningen skal ekstinksjonsverdien ligge mellom 0,84 og 0,88.
 
+5.6.2.
+
 Standardløsning av DL-α-tokoferol
+
+5.6.2.1.
 
 Tillaging av standardarbeidsløsning
 
 Pipetter 2 ml av stamløsningen av DL-α-tokoferol (punkt 3.11.1) over til en 50 ml målekolbe. Løs opp prøven i metanol (punkt 3.3) og fyll opp til merket med metanol. Den nominelle konsentrasjonen av µg DL-α-tokoferol i denne løsningen er 40 per ml, som tilsvarer 44 µg DL-α-tokoferolacetat per ml. Standardarbeidsløsningen skal tillages like før bruk.
+
+5.6.2.2.
 
 Tillaging av kalibreringsløsninger og kalibreringskurve
 
@@ -2221,45 +3798,105 @@ Overfør 1,0, 2,0, 4,0 og 10,0 ml av standardarbeidsløsningen til en rekke 20 m
 
 Injiser 20 μl av hver kalibreringsløsning flere ganger og bestem gjennomsnittlige topphøyder (-arealer). Bruk de gjennomsnittlige topphøydene (-arealene) til å trekke opp en kalibreringskurve.
 
+5.6.2.3.
+
 UV-standardisering av stamløsningen av DL-α-tokoferol (punkt 3.11.1)
 
-Fortynn 2,0 ml av stamløsningen av DL-α-tokoferol (punkt 3.11.1) til 25,0 ml med etanol, og mål løsningens UV-spektrum mot etanol (punkt 3.1) i spektrofotometeret (punkt 4.6) mellom 250 og 320 nm. Absorpsjonsmaksimum skal ligge ved 292 nm: $$ E_{1\,cm}^{1\,\%} = 75{,}8 \, \text{at 292 nm in ethanol} $$
+Fortynn 2,0 ml av stamløsningen av DL-α-tokoferol (punkt 3.11.1) til 25,0 ml med etanol, og mål løsningens UV-spektrum mot etanol (punkt 3.1) i spektrofotometeret (punkt 4.6) mellom 250 og 320 nm. Absorpsjonsmaksimum skal ligge ved 292 nm: $$ E_{1\\,cm}^{1\\,\\%} = 75{,}8 \\, \\text{at 292 nm in ethanol} $$
 
 Ved denne fortynningen skal ekstinksjonsverdien ligge på 0,6.
 
+###### 6. Beregning av resultater
+
 Bruk gjennomsnittshøyden (-arealet) for vitamin E-toppene fra prøveløsningen til å bestemme prøveløsningens konsentrasjon i µg/ml (beregnet som DL-α-tokoferolacetat) ved hjelp av kalibreringskurven (punkt 5.6.1.2 eller 5.6.2.2).
 
-Innholdet av vitamin E w (mg/kg) i prøven beregnes ved hjelp av følgende formel: $$ w = \frac{500 \cdot c \cdot V_2}{V_1 \cdot m} \left[mg/kg\right] $$derc = konsentrasjonen av vitamin E (som DL-α-tokoferolacetat) i prøveløsningen (punkt 5.4) i μg/mlV1 = prøveløsningens (punkt 5.4) volum i mlV2 = volum av delmengde tatt (punkt 5.4) i mlm = prøvemengdens vekt i g
+Innholdet av vitamin E w (mg/kg) i prøven beregnes ved hjelp av følgende formel: $$ w = \\frac{500 \\cdot c \\cdot V_2}{V_1 \\cdot m} \\left[mg/kg\\right] $$derc = konsentrasjonen av vitamin E (som DL-α-tokoferolacetat) i prøveløsningen (punkt 5.4) i μg/mlV1 = prøveløsningens (punkt 5.4) volum i mlV2 = volum av delmengde tatt (punkt 5.4) i mlm = prøvemengdens vekt i g
+
+###### 7. Merknader
+
+7.1.
 
 For prøver med lav konsentrasjon av vitamin E kan det være nyttig å slå sammen petroleumseterekstraktene fra to forsåpningsomganger (veid mengde: 25 g) til én prøveløsning for HPLC-bestemmelse.
 
+7.2.
+
 Prøven som skal analyseres, skal ikke inneholde mer enn 2 g fett.
+
+7.3.
 
 Dersom faseskille ikke finner sted, tilsettes ca. 10 ml etanol (punkt 3.1) for å bryte emulsjonen.
 
+7.4.
+
 Etter spektrofotometrisk måling av løsningen av DL-α-tokoferolacetat eller DL-α-tokoferol i samsvar med henholdsvis punkt 5.6.1.3 eller 5.6.2.3, tilsettes ca. 10 mg BHT (punkt 3.12) til løsningen (punkt 3.10.1 eller 3.10.2). Denne løsningen oppbevares i kjøleskap (i høyst fire uker).
+
+7.5.
 
 Hydrokinon kan brukes i stedet for BHT.
 
+7.6.
+
 Ved bruk av en normalfasekolonne er det mulig å skille α-, β-, γ- og δ-tokoferol.
+
+7.7.
 
 I stedet for natriumaskorbatløsning er det mulig å bruke ca. 150 mg askorbinsyre.
 
+7.8.
+
 I stedet for natriumsulfidløsning er det mulig å bruke ca. 50 mg EDTA.
+
+7.9.
 
 Vitamin E-acetat hydrolyserer svært raskt under basiske forhold og er derfor svært følsomt for oksidasjon, særlig ved tilstedeværelse av mikronæringsstoffer som jern og kobber. Bestemmelse av vitamin E i premikser ved nivåer over 5 000 mg/kg, kan føre til nedbryting av vitamin E. For å bekrefte resultatene anbefales det derfor å benytte en HPLC-metode som omfatter enzymatisk oppslutning av vitamin E uten basisk forsåpningstrinn.
 
+###### 8. Repeterbarhet
+
 Forskjellen mellom resultatene fra to parallelle bestemmelser som utføres på samme prøve, må ikke overskride 15 % av det høyeste resultatet.
 
-*Premiks**Fôrvarer iblandet premiks**Mineralkonsentrat**Proteinfôr**Smågrisfôr*V1212121212n4848484848gjennomsnitt [mg/kg]17 3801 18792631561,3sr [mg/kg]38445,325,213,02,3r [mg/kg]1 075126,870,636,46,4CVr [%]2,23,82,74,13,8sR [mg/kg]83065,055,518,97,8R [mg/kg]2 324182,0155,452,921,8CVr [%]4,85,56,06,012,7L: antall laboratoriern: antall enkeltverdiersr: standardavvik for repeterbarhetsR: standardavvik for reproduserbarhetr: repeterbarhetR: reproduserbarhetCVr: variasjonskoeffisient for repeterbarhetCVR: variasjonskoeffisient for reproduserbarhet
+###### 9. Resultater av en undersøkelse foretatt ved flere laboratorier20
+
+|  | *Premiks* | *Fôrvarer iblandet premiks* | *Mineralkonsentrat* | *Proteinfôr* | *Smågrisfôr* |
+| --- | --- | --- | --- | --- | --- |
+| V | 12 | 12 | 12 | 12 | 12 |
+| n | 48 | 48 | 48 | 48 | 48 |
+| gjennomsnitt [mg/kg] | 17 380 | 1 187 | 926 | 315 | 61,3 |
+| sr [mg/kg] | 384 | 45,3 | 25,2 | 13,0 | 2,3 |
+| r [mg/kg] | 1 075 | 126,8 | 70,6 | 36,4 | 6,4 |
+| CVr [%] | 2,2 | 3,8 | 2,7 | 4,1 | 3,8 |
+| sR [mg/kg] | 830 | 65,0 | 55,5 | 18,9 | 7,8 |
+| R [mg/kg] | 2 324 | 182,0 | 155,4 | 52,9 | 21,8 |
+| CVr [%] | 4,8 | 5,5 | 6,0 | 6,0 | 12,7 |
+
+- L: antall laboratorier
+- n: antall enkeltverdier
+- sr: standardavvik for repeterbarhet
+- sR: standardavvik for reproduserbarhet
+- r: repeterbarhet
+- R: reproduserbarhet
+- CVr: variasjonskoeffisient for repeterbarhet
+- CVR: variasjonskoeffisient for reproduserbarhet
+
+*Figur 2*
+Ekstraksjonsapparat (punkt 4.8)
+
+20 Utført av arbeidsgruppen for fôrvarer ved Verband Deutscher Landwirtschaftlicher Untersuchungs- und Forschungsanstalten (VDLUFA).
 
 ### C. Bestemmelse av mikronæringsstoffene jern, kobber, mangan og sink
 
 Jern-, kobber-, mangan- og sinkinnhold skal bestemmes ved:analysemetoden fastsatt i EN 15510 Fôrvarer: Prøvetakings- og analysemetoder – Bestemmelse av kalsium, natrium, fosfor, magnesium, kalium, jern, sink, kobber, mangan, kobolt, molybden og bly ved hjelp av ICP-AES, elleranalysemetoden fastsatt i EN 15621 Fôrvarer: Prøvetakings- og analysemetoder – Bestemmelse av kalsium, natrium, fosfor, magnesium, kalium, svovel, jern, sink, kobber, mangan og kobolt etter trykkoppslutning ved ICP-AES, elleranalysemetoden fastsatt i EN 17053 Fôrvarer: Prøvetakings- og analysemetoder – Bestemmelse av sporelementer, tungmetaller og andre elementer i fôr ved ICP-MS (multimetode), elleranalysemetoden fastsatt i EN ISO 6869 Fôrvarer: Bestemmelse av innholdet av kalsium, kobber, jern, magnesium, mangan, kalium, natrium og sink. Metode som bruker atomabsorpsjonsspektrometri, ellermetoden med flammeatomabsorpsjonsspektrometri (FAAS), som beskrevet nedenfor i punkt 1 til 8.
 
+###### 1. Formål og virkeområde
+
 Dette er en metode for bestemmelse av mikronæringsstoffene jern, kobber, mangan og sink i fôrvarer21. Kvantifiseringsgrensene er:jern (Fe): 20 mg/kgkobber (Cu): 10 mg/kgmangan (Mn): 20 mg/kgsink (Zn): 20 mg/kg.
 
+21 Denne metoden er validert gjennom en undersøkelse foretatt ved flere laboratorier for ulike fôrmatriser. For ytterligere opplysninger, se https://ec.europa.eu/jrc/en/eurl/feed-additives/authorisation.
+
+###### 2. Prinsipp
+
 Løs opp prøven i saltsyre etter at eventuelt organisk materiale er destruert. Jern, kobber, mangan og sink bestemmes ved hjelp av atomabsorpsjonspektrometri etter passende fortynning.
+
+###### 3. Reagenser
 
 Innledning
 
@@ -2269,45 +3906,91 @@ Reagensene må minst ha analysekvalitet. Fravær av mineralet som skal bestemmes
 
 I stedet for standardløsningene beskrevet nedenfor, kan kommersielle standardløsninger brukes, forutsatt at de har garanti og er kontrollert før bruk.
 
+3.1.
+
 Saltsyre (d: 1,19 g/ml.)
+
+3.2.
 
 Saltsyre, (6 mol).
 
+3.3.
+
 Saltsyre, (0,5 mol).
+
+3.4.
 
 38–40 % flussyre (v/v) med et jerninnhold (Fe) på mindre enn 1 mg/log med en inndampingsrest på mindre enn 10 mg (som sulfat)/liter.
 
+3.5.
+
 Svovelsyre. (d: 1,84 g/ml.)
+
+3.6.
 
 Hydrogenperoksid. (ca. 100 volumenheter oksygen (30 % etter vekt)).
 
+3.7.
+
 Standardjernløsning (1 000 μg Fe/ml) tillaget på følgende måte eller tilsvarende løsning som fås i handelen: Løs opp 1 g jerntråd i 200 ml 6 mol saltsyre (punkt 3.2), tilsett 16 ml hydrogenperoksid (punkt 3.6) og fyll opp med vann til 1 liter.
+
+3.7.1.
 
 Standardarbeidsløsning av jern (100 μg Fe/ml) tillaget ved fortynning av én del standardløsning (punkt 3.7) med ni deler vann.
 
+3.8.
+
 Standardkobberløsning (1 000 μg Cu/ml) tillaget på følgende måte eller tilsvarende løsning som fås i handelen:Løs opp 1 g kobber i pulverform i 25 ml 6 mol saltsyre (punkt 3.2.), tilsett 5 ml hydrogenperoksid (punkt 3.6) og fyll opp med vann til 1 liter.
+
+3.8.1.
 
 Standardarbeidsløsning av kobber (10 μg Cu/ml) tillaget ved fortynning av én del standardløsning (punkt 3.8) med ni deler vann, og deretter fortynning av én del av resultatet med ni deler vann.
 
+3.9.
+
 Standardmanganløsning (1 000 μg Mn/ml) tillaget på følgende måte eller tilsvarende løsning som fås i handelen:Løs opp 1 g mangan i pulverform i 25 ml 6 mol saltsyre (punkt 3.2.), og fyll opp med vann til 1 liter.
+
+3.9.1.
 
 Standardarbeidsløsning av mangan (10 μg Mn/ml) tillaget ved fortynning av én del standardløsning (punkt 3.9) med ni deler vann, og deretter fortynning av én del av resultatet med ni deler vann.
 
+3.10.
+
 Standardsinkløsning (1 000 μg Zn/ml) tillaget på følgende måte eller tilsvarende løsning som fås i handelen:Løs opp 1 g sink i bånd- eller bladform i 25 ml 6 mol saltsyre (punkt 3.2), og fyll opp med vann til 1 liter.
+
+3.10.1.
 
 Standardarbeidsløsning av sink (10 μg Zn/ml) tillaget ved fortynning av én del standardløsning (punkt 3.10) med ni deler vann, og deretter fortynning av én del av resultatet med ni deler vann.
 
+3.11.
+
 Lantankloridløsning: Løs opp 12 g lantanoksid i 150 ml vann (3.2), tilsett 100 ml 6 mol saltsyre (punkt 3.2) og fyll opp med vann til 1 liter.
+
+###### 4. Utstyr
+
+4.1.
 
 Muffelovn med temperaturregulering og fortrinnsvis temperaturmåler.
 
+4.2.
+
 Glasstøy skal være av motstandsdyktig borsilikat, og det anbefales at utstyret bare brukes til bestemmelse av mikronæringsstoffer.
+
+4.3.
 
 Atomabsorpsjonsspektrofotometer som oppfyller metodens krav med hensyn til følsomhet og nøyaktighet i det området som kreves.
 
+###### 5. Framgangsmåte22
+
+5.1.
+
 Prøver som inneholder organisk materiale
 
+5.1.1.
+
 Foraskning og tillaging av løsningen som skal analyseres23
+
+5.1.1.1.
 
 Plasser 5 til 10 g av prøven med en nøyaktighet på 0,2 mg i en kvarts- eller platinadigel (se merknad b)), tørk i et tørkeskap ved 105 °C og sett digelen inn i kald muffelovn (punkt 4.1). Lukk ovnen (se merknad c)) og øk temperaturen gradvis til 450–475 °C i løpet av ca. 90 minutter. Hold denne temperaturen i 4–16 timer (f.eks. over natten) for å fjerne karbonholdig materiale, og åpne deretter ovnen for avkjøling (se merknad d).
 
@@ -2319,20 +4002,65 @@ Innholdet kokes langsomt opp og holdes på kokepunktet inntil det ikke ser ut ti
 
 Filtrer gjennom askefritt filterpapir til et 250 ml måleglass. Vask begerglass og filter med 5 ml varm 6 mol saltsyre (punkt 3.2) og to ganger med kokende vann. Fyll måleglasset opp til merket med vann (HCl-konsentrasjon ca. 0,5 mol).
 
+5.1.1.2.
+
 Dersom restmengden i filteret er svart (karbon), settes blandingen tilbake i ovnen, og det foraskes på nytt ved 450–475 °C. Denne foraskningen, som krever bare noen få timer (3–5 timer), er fullført når asken er hvit eller nesten hvit. Løs opp restmengden i ca. 2 ml saltsyre (punkt 3.1), inndamp til tørr tilstand og tilsett 5 ml 6 mol saltsyre (punkt 3.2). Varm opp, filtrer løsningen ned i måleglasset og fyll opp til merket med vann (HCl-konsentrasjon ca. 0,5 mol).
+
+*Merknader:*
 
 1. Ved bestemmelse av mikronæringsstoffer er det viktig å være klar over risikoen for forurensning, særlig med sink, kobber og jern. Derfor skal utstyr som brukes ved tillaging av prøvene, være fri for disse metallene.For å redusere den generelle risikoen for kontaminering bør arbeidet foregå i en støvfri atmosfære med fullstendig rent utstyr og grundig vasket glasstøy. Bestemmelsen av sink er særlig følsom for mange typer kontaminering, f.eks. fra glass, reagenser, støv osv.
 2. Vekten av prøven som skal foraskes, skal beregnes ut fra det omtrentlige forventede innholdet av mikronæringsstoffer i fôrvaren i forhold til følsomheten til det spektrofotometeret som brukes. For visse typer fôrvarer med lavt innhold av mikronæringsstoffer kan det være nødvendig å starte med en prøve på 10–20 g og begrense den endelige løsningen til bare 100 ml.
 3. Foraskning skal foretas i lukket ovn uten injeksjon av luft eller oksygen.
 4. Temperaturen som angis av pyrometeret, må ikke overskride 475 °C.
 
+5.1.2.
+
 Spektrofotometrisk bestemmelse
+
+5.1.2.1.
 
 Tillaging av kalibreringsløsninger
 
 For hvert av sporstoffene som skal bestemmes, skal det tillages en rekke kalibreringsløsninger ut fra standardarbeidsløsningene beskrevet i punkt 3.7.1, 3.8.1, 3.9.1 og 3.10.1. Hver kalibreringsløsning skal ha en HCl-konsentrasjon på ca. 0,5 mol og (for jern, mangan og sink) en lantankloridkonsentrasjon tilsvarende 0,1 % La (w/v).
 
-De valgte konsentrasjonene for mikronæringsstoffet må ligge innenfor følsomhetsområdet for spektrofotometeret som brukes. Tabellene nedenfor viser eksempler på sammensetninger av typiske utvalg kalibreringsløsninger. Avhengig av spektrofotometerets type og følsomhet kan det imidlertid bli nødvendig å velge andre konsentrasjoner.*Jern*μg Fe/ml00,512345ml av standardarbeidsløsning (punkt 3.7.1) (1 ml = 100 μg Fe)00,512345ml HCl (punkt 3.2)7777777+ 10 ml lantankloridløsning (punkt 3.11) og fyll opp med vann til 100 ml. *Kobber*μg Cu/ml00,10,20,40,60,81,0ml av standardarbeidsløsning (punkt 3.8.1) (1 ml = 10 μg Cu)01246810ml HCl (punkt 3.2)8888888 *Mangan*μg Mn/ml00,10,20,40,60,81,0ml av standardarbeidsløsning (punkt 3.9.1) (1 ml = 10 μg Mn)01246810ml HCl (punkt 3.2)7777777+ 10 ml lantankloridløsning (punkt 3.11) og fyll opp med vann til 100 ml. *Sink*μg Zn/ml00,050,10,20,40,60,8ml av standardarbeidsløsning (punkt 3.10.1) (1 ml = 10 μg Zn)00,512468ml HCl (punkt 3.2)7777777+ 10 ml lantankloridløsning (punkt 3.11) og fyll opp med vann til 100 ml.
+De valgte konsentrasjonene for mikronæringsstoffet må ligge innenfor følsomhetsområdet for spektrofotometeret som brukes. Tabellene nedenfor viser eksempler på sammensetninger av typiske utvalg kalibreringsløsninger. Avhengig av spektrofotometerets type og følsomhet kan det imidlertid bli nødvendig å velge andre konsentrasjoner.
+
+*Jern*
+
+|  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| μg Fe/ml | 0 | 0,5 | 1 | 2 | 3 | 4 | 5 |
+| ml av standardarbeidsløsning (punkt 3.7.1) (1 ml = 100 μg Fe) | 0 | 0,5 | 1 | 2 | 3 | 4 | 5 |
+| ml HCl (punkt 3.2) | 7 | 7 | 7 | 7 | 7 | 7 | 7 |
+| + 10 ml lantankloridløsning (punkt 3.11) og fyll opp med vann til 100 ml. |  |  |  |  |  |  |  |
+
+*Kobber*
+
+|  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| μg Cu/ml | 0 | 0,1 | 0,2 | 0,4 | 0,6 | 0,8 | 1,0 |
+| ml av standardarbeidsløsning (punkt 3.8.1) (1 ml = 10 μg Cu) | 0 | 1 | 2 | 4 | 6 | 8 | 10 |
+| ml HCl (punkt 3.2) | 8 | 8 | 8 | 8 | 8 | 8 | 8 |
+
+*Mangan*
+
+|  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| μg Mn/ml | 0 | 0,1 | 0,2 | 0,4 | 0,6 | 0,8 | 1,0 |
+| ml av standardarbeidsløsning (punkt 3.9.1) (1 ml = 10 μg Mn) | 0 | 1 | 2 | 4 | 6 | 8 | 10 |
+| ml HCl (punkt 3.2) | 7 | 7 | 7 | 7 | 7 | 7 | 7 |
+| + 10 ml lantankloridløsning (punkt 3.11) og fyll opp med vann til 100 ml. |  |  |  |  |  |  |  |
+
+*Sink*
+
+|  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| μg Zn/ml | 0 | 0,05 | 0,1 | 0,2 | 0,4 | 0,6 | 0,8 |
+| ml av standardarbeidsløsning (punkt 3.10.1) (1 ml = 10 μg Zn) | 0 | 0,5 | 1 | 2 | 4 | 6 | 8 |
+| ml HCl (punkt 3.2) | 7 | 7 | 7 | 7 | 7 | 7 | 7 |
+| + 10 ml lantankloridløsning (punkt 3.11) og fyll opp med vann til 100 ml. |  |  |  |  |  |  |  |
+
+5.1.2.2.
 
 Tillaging av prøveløsning til analyse
 
@@ -2340,9 +4068,13 @@ For bestemmelse av kobber kan den løsningen som er tillaget etter punkt 5.1.1 v
 
 For bestemmelse av jern, mangan og sink pipetteres en delmengde av løsningen tillaget etter punkt 5.1.1 over i et 100 ml måleglass, som tilsettes 10 ml lantankloridløsning (punkt 3.11) og deretter fylles det opp til merket med 0,5 mol saltsyre (punkt 3.3) (se også punkt 8 «Merknad»).
 
+5.1.2.3.
+
 Blindprøve
 
 Blindprøven skal inneholde alle de foreskrevne trinnene i framgangsmåten, bortsett fra at prøvematerialet er utelatt. Kalibreringsløsning «0» må ikke brukes som blindløsning.
+
+5.1.2.4.
 
 Måling av atomabsorpsjon
 
@@ -2350,111 +4082,209 @@ Atomabsorpsjonen for kalibreringsløsningene og den løsningen som skal analyser
 
 Hver måling gjentas fire ganger.
 
+5.2.
+
 Mineralfôr
 
 Dersom prøven ikke inneholder organisk materiale, er det ikke nødvendig å foraske på forhånd. Følg framgangsmåten i punkt 5.1.1.1, start fra avsnitt 2. Inndamping med flussyre kan utelates.
 
+22 Andre metoder for oppslutning kan benyttes forutsatt at de har vist seg å gi tilsvarende resultater (som f.eks. oppslutning med mikrobølgetrykk).
+
+23 Grønnfôr (friskt eller tørket) inneholder ofte store mengder vegetabilsk silisium, som kan binde mikronæringsstoffer, og som derfor må fjernes. For prøver av slike fôrvarer skal derfor følgende endrede framgangsmåte brukes: Utfør arbeidstrinnene i 5.1.1.1 så langt som til filtreringen. Vask filterpapiret som inneholder den uløselige restmengden to ganger med kokende vann og legg det i en kvarts- eller platinadigel. Forask i muffelovnen (punkt 4.1) ved en temperatur lavere enn 550 °C inntil alt karbonholdig materiale er fullstendig forsvunnet. Avkjøl, tilsett noen dråper vann og deretter 10–15 ml flussyre (punkt 3.4) og inndamp til tørr tilstand ved ca. 150 °C. Dersom det fremdeles er silisiumoksid i restmengden, løses denne på nytt i noen få ml flussyre (punkt 3.4) og inndampes til tørr tilstand. Tilsett fem dråper svovelsyre (punkt 3.5) og varm opp til det ikke lenger avgis hvit damp. Etter tilsetting av 5 ml 6 mol/l saltsyre (punkt 3.2) og ca. 30 ml vann varmes løsningen opp. Deretter filtreres den ned i et 250 ml måleglass, som så fylles opp til merket med vann (HCl-konsentrasjon ca. 0,5 mol/l). Fortsett deretter bestemmelsen fra punkt 5.1.2.
+
+###### 6. Beregning av resultater
+
 Konsentrasjonen av mikronæringsstoffet i løsningen som skal analyseres, beregnes ved hjelp av kalibreringskurven, og resultatet uttrykkes i mg mikronæringsstoff per kg prøve (ppm).
 
+###### 7. Repeterbarhet
+
 Forskjellen mellom resultatene av to parallelle bestemmelser utført på samme prøve av samme analytiker skal ikke over-skride:5 mg/kg i absolutt verdi for et innhold av mikronæringsstoffer inntil 50 mg/kg,10 % av de høyeste resultatene for et innhold av mikronæringsstoffer over 50 og inntil 100 mg/kg,10 mg/kg i absolutt verdi for et innhold av mikronæringsstoffer over 100 og inntil 200 mg/kg,5 % av de høyeste resultatene for et innhold av mikronæringsstoffer på over 200 mg/kg.
+
+###### 8. Observasjon
 
 Tilstedeværelse av store mengder fosfater kan interferere med bestemmelsen av jern, mangan og sink. Dette skal korrigeres ved å tilsette en lantankloridløsning (punkt 3.11). Dersom vektforholdet i prøven er Ca + Mg/P > 2, kan tilsetting av lantankloridløsning (punkt 3.11) sløyfes i analyseløsningen og kalibreringsløsningene.
 
 ### D. Bestemmelse av halofuginon
 
+**DL-trans-7-bromo-6-kloro-3-[3-(3-hydroksy-2-piperidyl)acetonyl]-4-(3H)-kinazolinon-hydrobromid**
+
 Halofuginoninnhold skal bestemmes ved:analysemetoden fastsatt i EN 17299 Fôrvarer: Prøvetakings- og analysemetoder – Screening og bestemmelse av godkjente koksidiostatika i fôrblandinger på tilsetningsstoffs- og 1 % og 3 % kryssforurensningsnivå, av ikke-registrerte koksidiostatika og ett antibiotikum i konsentrasjoner mindre enn tilsetningsstoffer, med høyoppløselig væskekromatografi kombinert med tandemmassespektrometrideteksjon (LC-MS/MS), ellerved reversertfase høyoppløselig væskekromatografi (HPLC) med UV-detektor, som beskrevet nedenfor i punkt 1 til 8.
+
+###### 1. Formål og virkeområde
 
 Denne metoden gjør det mulig å bestemme innholdet av halofuginon i fôrvarer. Kvantifiseringsgrensen er 1 mg/kg.
 
+###### 2. Prinsipp
+
 Etter behandling med varmt vann ekstraheres halofuginon som fri base i etylacetat og skilles deretter ut som hydroklorid i en vandig syreløsning. Ekstraktet renses ved ionebytterkromatografi. Innholdet av halofuginon bestemmes ved reversert-fase høyoppløselig væskekromatografi (HPLC) ved bruk av en UV-detektor.
+
+###### 3. Reagenser
+
+3.1.
 
 Acetonitril, HPLC-kvalitet.
 
+3.2.
+
 Amberlite XAD-2 harpiks.
+
+3.3.
 
 Ammoniumacetat.
 
+3.4.
+
 Etylacetat.
+
+3.5.
 
 Eddiksyre (iseddik).
 
+3.6.
+
 Halofuginonstandard (DL-trans-7-bromo-6-kloro-3-[3-(3-hydroksy-2-piperidyl)acetonyl]-4-(3H)-kinazolinon-hydrobromid, E 764)
+
+3.6.1.
 
 Halofuginon-standardstamløsning, 100 μg/ml
 
 Vei opp 50 mg halofuginon (punkt 3.6) med en nøyaktighet på 0,1 mg i en 500 ml målekolbe, løs opp i en ammonium-acetatbufferløsning (punkt 3.18), fyll opp til merket med bufferløsning og bland. Denne løsningen er stabil i tre uker ved 5 °C dersom den oppbevares mørkt.
 
+3.6.2.
+
 Kalibreringsløsninger
 
 Overfør 1,0, 2,0, 3,0, 4,0 og 6,0 ml av standardstamløsningen (punkt 3.6.1) til en rekke 100 ml målekolber. Fyll opp til merket med mobil fase (punkt 3.21) og bland. Disse løsningene har konsentrasjoner av halofuginon på henholdsvis 1,0, 2,0, 3,0, 4,0 og 6,0 μg/ml. Løsningene skal tillages like før bruk.
 
+3.7.
+
 Saltsyre (ρ20 ca. 1,16 g/ml).
+
+3.8.
 
 Metanol.
 
+3.9.
+
 Sølvnitrat.
+
+3.10.
 
 Natriumaskorbat.
 
+3.11.
+
 Natriumkarbonat.
+
+3.12.
 
 Natriumklorid.
 
+3.13.
+
 EDTA (etylendiamintetraacetat, dinatrium).
+
+3.14.
 
 Vann, HPLC-kvalitet.
 
+3.15.
+
 Natriumkarbonatløsning, c = 10 g/100 ml.
+
+3.16.
 
 Natriumkloridmettet natriumkarbonatløsning, c = 5 g/100 ml
 
 Løs opp 50 g natriumkarbonat (punkt 3.11) i vann, fortynn til 1 liter og tilsett natriumklorid (punkt 3.12) til løsningen er mettet.
 
+3.17.
+
 Saltsyre, ca. 0,1 mol/l.
 
 Fortynn 10 ml saltsyre (punkt 3.7) med vann til 1 liter.
+
+3.18.
 
 Ammoniumacetatbufferløsning, ca. 0,25 mol/l.
 
 Løs opp 19,3 g ammoniumacetat (punkt 3.3) og 30 ml eddiksyre (punkt 3.5) i vann (punkt 3.14) og fortynn til 1 liter.
 
+3.19.
+
 Tillaging av Amberlite XAD-2 harpiks
 
 En passende mengde Amberlite (punkt 3.2) vaskes med vann til alle kloridioner er fjernet. Dette kan påvises med en sølvnitratprøve (punkt 3.20) som utføres på vannfasen som fjernes. Deretter vaskes harpiksen med 50 ml metanol (punkt 3.8), metanolen kastes og harpiksen oppbevares under fersk metanol.
+
+3.20.
 
 Sølvnitratløsning, ca. 0,1 mol/l.
 
 Løs opp 0,17 g sølvnitrat (punkt 3.9) i 10 ml vann.
 
+3.21.
+
 HPLC mobil fase
 
 Bland 500 ml acetonitril (punkt 3.1) med 300 ml ammoniumacetatbufferløsning (punkt 3.18) og 1 200 ml vann (punkt 3.14). Juster PH-verdien til 4,3 ved hjelp av eddiksyre (punkt 3.5). Filtrer løsningen gjennom et 0,22 μm filter (punkt 4.8) og avgass den (f.eks. ved ultralydbehandling i 10 minutter). Løsningen er stabil i én måned dersom den oppbevares mørkt i en lukket beholder.
 
+###### 4. Utstyr
+
+4.1.
+
 Ultralydbad.
+
+4.2.
 
 Rotasjonsfordamper.
 
+4.3.
+
 Sentrifuge.
+
+4.4.
 
 HPLC-utstyr med UV-detektor med variabel bølgelengde eller diodearraydetektor.
 
+4.4.1.
+
 Væskekromatografikolonne, 300 mm × 4 mm, C18, 10 µm kolonnepakning eller tilsvarende.
+
+4.5.
 
 Glasskolonne (300 mm x 10 mm), utstyrt med et sintret glassfilter og stoppekran.
 
+4.6.
+
 Glassfiberfiltre, diameter 150 mm.
+
+4.7.
 
 Membranfiltre, 0,45 μm.
 
+4.8.
+
 Membranfiltre, 0,22 μm.
+
+###### 5. Framgangsmåte
+
+Merk: Halofuginon er som fri base ustabil i basiske løsninger og etylacetatløsninger, og skal ikke være løst i etylacetat i mer enn 30 minutter.
+
+5.1.
 
 Generelt
 
+5.1.1.
+
 En blindprøve skal analyseres for å kontrollere at det verken er halofuginon eller interfererende stoffer til stede.
+
+5.1.2.
 
 En gjenfinningsprøve skal utføres ved å analysere en blindprøve av fôr som er tilsatt en mengde halofuginon som tilsvarer mengden som finnes i prøven. For å øke konsentrasjonen til 3 mg/kg tilsettes 300 μl av standardstamløsningen (punkt 3.6.1) til 10 g blindprøve. Bland og vent i 10 minutter før ekstraksjonen (punkt 5.2) innledes.
 
 Merk: Til denne metoden skal blindprøven være av tilsvarende type som prøven, og ved analyse skal halofuginon ikke påvises i blindprøven.
+
+5.2.
 
 Ekstraksjon
 
@@ -2464,17 +4294,27 @@ Ekstraher den organiske fasen i ett minutt med 50 ml saltsyre (punkt 3.17). Hell
 
 Overfør vannfasen kvantitativt til en 250 ml rundbunnet kolbe og fjern den organiske fasen. Inndamp all resterende etylacetat fra syreløsningen ved bruk av en rotasjonsfordamper (punkt 4.2). Temperaturen på vannbadet må ikke overskride 40 °C. Under et vakuum på ca. 25 mbar vil all resterende etylacetat bli fjernet i løpet av 5 minutter ved 38 °C.
 
+5.3.
+
 Rensing
+
+5.3.1.
 
 Tillaging av Amberlite-kolonnen
 
 En XAD-2 kolonne tillages for hvert prøveekstrakt. Overfør 10 g tillaget Amberlite (punkt 3.19) til en glasskolonne (punkt 4.5) med metanol (punkt 3.8). Sett en liten glassullpropp på toppen av harpiksen i kolonnen. Hell metanolen ut av kolonnen og vask harpiksen med 100 ml vann. Stans hellingen når væsken når toppen av harpiksen. La kolonnen stå i 10 minutter for å stabilisere seg før bruk. Kolonnen må aldri bli tørr.
 
+5.3.2.
+
 Rensing av prøven
 
 Overfør ekstraktet (punkt 5.2) kvantitativt til toppen av den tillagde Amberlite-kolonnen (punkt 5.3.1), eluer og kast eluatet. Elueringshastigheten bør ikke overskride 20 ml/minutt. Skyll den rundbunnede kolben med 20 ml saltsyre (punkt 3.17) og bruk denne løsningen til å rense harpikskolonnen. Den resterende syreløsningen fjernes ved at luft blåses gjennom den. Fjern skyllevæsken. Tilsett 100 ml metanol (punkt 3.8) til kolonnen og la 5–10 ml eluere. Eluatet samles opp i en 250 ml rundbunnet kolbe. La den resterende metanolen stå i 10 minutter for å stabilisere seg med harpiksen og fortsett elueringen ved en hastighet som ikke overskrider 20 ml/minutt. Eluatet samles opp i den samme rundbunnede kolben. Metanolen inndampes med rotasjonsfordamperen (punkt 4.2), temperaturen på vannbadet skal ikke overskride 40 °C. Overfør restmengden kvantitativt til en 10 ml målekolbe ved bruk av mobil fase (punkt 3.21). Fyll opp til merket med mobil fase og bland. En delmengde filtreres gjennom et membranfilter (punkt 4.7). Denne løsningen forbeholdes HPLC-bestemmelsen (punkt 5.4).
 
+5.4.
+
 HPLC-bestemmelse
+
+5.4.1.
 
 Parametrer
 
@@ -2492,21 +4332,33 @@ Injeksjonsvolum: 40–100 μl.
 
 Kontroller stabiliteten til det kromatografiske systemet ved å injisere kalibreringsløsningen (punkt 3.6.2) som inneholder 3,0 μg/ml, flere ganger, til det oppnås konstante topphøyder (eller -arealer) og retensjonstider.
 
+5.4.2.
+
 Kalibreringskurve
 
 Injiser hver kalibreringsløsning (punkt 3.6.2) flere ganger og mål topphøydene (-arealene) for hver konsentrasjon. Trekk opp en kalibreringskurve ved bruk av de gjennomsnittlige topphøydene eller -arealene for kalibreringsløsningene som ordinater og de tilsvarende konsentrasjonene i μg/ml som abscisser.
+
+5.4.3.
 
 Prøveløsning
 
 Injiser prøveekstraktet (punkt 5.3.2) flere ganger ved bruk av samme mengde som for kalibreringsløsningene, og bestem den gjennomsnittlige topphøyden (-arealet) av halofuginontoppene.
 
+###### 6. Beregning av resultater
+
 Bruk gjennomsnittshøyden (-arealet) for halofuginontoppene fra prøveløsningen til å bestemme prøveløsningens konsentrasjon i μg/ml ved hjelp av kalibreringskurven (punkt 5.4.2).
 
-Innholdet av halofuginon w (mg/kg) i prøven beregnes etter følgende formel: $$ w = \frac{c \cdot 10}{m} $$derc: prøveløsningens halofuginonkonsentrasjon i μg/ml,m: prøvemengdens vekt i g.
+Innholdet av halofuginon w (mg/kg) i prøven beregnes etter følgende formel: $$ w = \\frac{c \\cdot 10}{m} $$derc: prøveløsningens halofuginonkonsentrasjon i μg/ml,m: prøvemengdens vekt i g.
+
+###### 7. Validering av resultatene
+
+7.1.
 
 Identitet
 
 Identiteten til analytten kan bekreftes ved kromatografi med tilsetting av kjent mengde standardstoff eller ved bruk av en diodearraydetektor, som gjør det mulig å sammenligne spektrene til prøveekstraktet og kalibreringsløsningen (punkt 3.6.2) som inneholder 6,0 µg/ml halofuginon.
+
+7.1.1.
 
 Kromatografi med tilsetting av kjent mengde standardstoff
 
@@ -2514,22 +4366,46 @@ Konsentrasjonen i et prøveekstrakt økes ved tilsetting av en passende mengde k
 
 Bare høyden av halofuginontoppen skal øke etter at det er tatt hensyn til både den tilsatte mengden og fortynningen av ekstraktet. Toppbredden skal ved den halve høyden være innenfor ± 10 % av den opprinnelige bredden.
 
+7.1.2.
+
 Diodearraydeteksjon
 
 Resultatene vurderes etter følgende kriterier:Bølgelengden for maksimal absorpsjon for prøven og standardens spektre, målt ved toppens spiss på kromatogrammet, må være den samme innenfor en margin beregnet ut fra detektorsystemets oppløsningsevne. For diodearraydeteksjon er den vanligvis innenfor ±2 nm.Mellom 250 og 400 nm må prøven og standardens spektre, målt ved toppens spiss på kromatogrammet, ikke være forskjellige med hensyn til de delene av spekteret som ligger mellom 10 og 100 % av den relative absorbansen. Dette kriteriet er oppfylt når de samme maksima er til stede og avviket mellom spektrene ikke på noe observert punkt overskrider 15 % av standardanalyttens absorbans.Mellom 250 og 400 nm må spektrene til den voksende kurven, spissen og den avtagende kurven til prøveekstraktets topp ikke være forskjellige fra hverandre med hensyn til de delene av spekteret som ligger mellom 10 og 100 % av den relative absorbansen. Dette kriteriet er oppfylt når de samme maksima er til stede og avviket mellom spektrene ikke på noe observert punkt overskrider 15 % av spekterets absorbans i spissen.
 
 Dersom ett av disse kriteriene ikke er oppfylt, er forekomsten av analytten ikke bekreftet.
 
+7.2.
+
 Repeterbarhet
 
 Forskjellen mellom resultatene fra to parallelle bestemmelser som utføres på samme prøve, må ikke overskride 10 % for robenidininnhold over 15 mg/kg.
+
+7.3.
 
 Gjenfinning
 
 For en blindprøve med økt konsentrasjon skal gjenfinningen være minst 85 %.
 
-I en undersøkelse foretatt ved flere laboratorier24 ble tre prøver analysert av åtte laboratorier.Resultater*Prøve A (blindprøve)*
-*Ved mottak**Prøve B (mel)**Prøve C (pelleter)**Ved mottak**Etter to måneder**Ved mottak**Etter to måneder*Gjennomsnitt [mg/kg]ND2,802,422,892,45SR [mg/kg]–0,450,430,400,42CVR [%]–16181417Gjenf. [%]86748875ND = ikke påvistSR = standardavvik for reproduserbarhetCVR = variasjonskoeffisient for reproduserbarhet, %Gjenf. = gjenfinning (%).
+###### 8. Resultater av en undersøkelse foretatt ved flere laboratorier
+
+I en undersøkelse foretatt ved flere laboratorier24 ble tre prøver analysert av åtte laboratorier.
+
+Resultater
+
+|  | *Prøve A (blindprøve)*<br>*Ved mottak* | *Prøve B (mel)* |  | *Prøve C (pelleter)* |  |
+| --- | --- | --- | --- | --- | --- |
+|  |  | *Ved mottak* | *Etter to måneder* | *Ved mottak* | *Etter to måneder* |
+| Gjennomsnitt [mg/kg] | ND | 2,80 | 2,42 | 2,89 | 2,45 |
+| SR [mg/kg] | – | 0,45 | 0,43 | 0,40 | 0,42 |
+| CVR [%] | – | 16 | 18 | 14 | 17 |
+| Gjenf. [%] |  | 86 | 74 | 88 | 75 |
+
+- ND = ikke påvist
+- SR = standardavvik for reproduserbarhet
+- CVR = variasjonskoeffisient for reproduserbarhet, %
+- Gjenf. = gjenfinning (%).
+
+24 The Analyst nr. 108, 1983, s. 1252–1256.
 
 ### E. Bestemmelse av robenidin
 
@@ -2537,33 +4413,55 @@ I en undersøkelse foretatt ved flere laboratorier24 ble tre prøver analysert a
 
 Robenidininnhold skal bestemmes vedanalysemetoden fastsatt i EN 17299 Fôrvarer: Prøvetakings- og analysemetoder – Screening og bestemmelse av godkjente koksidiostatika i fôrblandinger på tilsetningsstoffs- og 1 % og 3 % kryssforurensningsnivå, av ikke-registrerte koksidiostatika og ett antibiotikum i konsentrasjoner mindre enn tilsetningsstoffer, med høyoppløselig væskekromatografi kombinert med tandemmassespektrometrideteksjon (LC-MS/MS), ellerved reversertfase høyoppløselig væskekromatografi (HPLC) med UV-detektor, som beskrevet nedenfor i punkt 1 til 8.
 
+###### 1. Formål og virkeområde
+
 Denne metoden gjør det mulig å bestemme innholdet av robenidin i fôrvarer. Kvantifiseringsgrensen er 5 mg/kg.
+
+###### 2. Prinsipp
 
 Prøven ekstraheres med sur metanol. Ekstraktet tørkes, og en delmengde renses på en aluminiumoksidkolonne. Robenidin elueres fra kolonnen med konsentrert metanol og økes til passende volum med mobil fase. Innholdet av robenidin bestemmes ved reversertfase høyoppløselig væskekromatografi (HPLC) ved bruk av en UV-detektor.
 
+###### 3. Reagenser
+
+3.1.
+
 Metanol.
+
+3.2.
 
 Sur metanol
 
 Overfør 4,0 ml saltsyre (ρ20 = 1,18 g/ml) til en 500 ml målekolbe, fyll opp til merket med metanol (punkt 3.1) og bland. Løsningen skal tillages like før bruk.
 
+3.3.
+
 Acetonitril, HPLC-kvalitet.
+
+3.4.
 
 Molekylgitter.
 
 Kuler av type 3A 8–12 mesh (1,6–2,5 mm kuler, krystallinsk aluminiumsilikat, porediameter 0,3 mm).
 
+3.5.
+
 Aluminiumoksid, sur, aktivitetsgrad I for kolonnekromatografi
 
 Overfør 100 g aluminiumoksid til en egnet beholder og tilsett 2,0 ml vann. Sett propp i beholderen og rist ca. 20 minutter. Oppbevar væsken i en godt lukket beholder.
+
+3.6.
 
 Kaliumdihydrogenfosfatløsning, c = 0,025 mol/l
 
 Løs opp 3,40 g kaliumdihydrogenfosfat i vann (HPLC-kvalitet) i en 1 000 ml målekolbe, fyll opp til merket og bland.
 
+3.7.
+
 Dinatriumhydrogenfosfatløsning, c = 0,025 mol/l
 
 Løs opp 3,55 g vannfri (eller 4,45 g dihydrat eller 8,95 dodekahydrat) dinatriumhydrogenfosfat i vann (HPLC-kvalitet) i en 1 liter målekolbe, fyll opp til merket og bland.
+
+3.8.
 
 HPLC mobil fase
 
@@ -2571,67 +4469,115 @@ Bland følgende reagenser:650 ml acetonitril (punkt 3.3)250 ml vann, (HPLC-kvali
 
 Filtrer løsningen gjennom et 0,22 μm filter (punkt 4.6) og avgass den (f.eks. ved ultralydbehandling i 10 minutter).
 
+3.9.
+
 Standardstoff
 
 Ren robenidin: 1,3-bis[(4-klorbenzyliden)amino]guanidinhydroklorid.
+
+3.9.1.
 
 Robenidin-standardstamløsning 300 μg/ml
 
 Vei opp 30 mg robenidin standard (punkt 3.9) med en nøyaktighet på 0,1 mg. Løs opp stoffet i sur metanol (punkt 3.2) i en 100 ml målekolbe, fyll opp til merket med samme løsning og bland. Pakk kolben inn i aluminiumsfolie og oppbevar den mørkt.
 
+3.9.2.
+
 Robenidin-standardmellomløsning: 12 μg/ml
 
 Overfør 10,0 ml av standardstamløsningen (punkt 3.9.1.) til en 250 ml målekolbe, fyll opp til merket med mobil fase (punkt 3.8) og bland. Pakk kolben inn i aluminiumsfolie og oppbevar den mørkt.
+
+3.9.3.
 
 Kalibreringsløsninger
 
 Overfør 5,0, 10,0, 15,0, 20,0 og 25,0 ml av standardstamløsningen (punkt 3.9.2) til en rekke 50 ml målekolber. Fyll opp til merket med mobil fase (punkt 3.8) og bland. Disse løsningene har konsentrasjoner av robenidin på henholdsvis 1,2, 2,4, 3,6, 4,8 og 6,0 μg/ml. Løsningene skal tillages like før bruk.
 
+3.10.
+
 Vann, HPLC-kvalitet.
+
+###### 4. Utstyr
+
+4.1.
 
 Glasskolonne
 
 Laget av brunt glass, utstyrt med stoppekran og med et innhold på ca. 150 ml, innvendig diameter 10–15 mm, lengde 250 mm.
 
+4.2.
+
 Mekanisk risteapparat eller magnetrører.
+
+4.3.
 
 Rotasjonsfordamper.
 
+4.4.
+
 HPLC-utstyr med UV-detektor med variabel bølgelengde eller diodearraydetektor som virker innenfor området 250–400 nm.
+
+4.4.1.
 
 Væskekromatografikolonne: 300 mm × 4 mm, C18, 10 μm kolonnepakning eller tilsvarende.
 
+4.5.
+
 Glassfiberfilterpapir (Whatman GF/A eller tilsvarende).
+
+4.6.
 
 Membranfiltre, 0,22 μm.
 
+4.7.
+
 Membranfiltre, 0,45 μm.
+
+###### 5. Framgangsmåte
 
 Merk: Robenidin er lysfølsomt. Det skal brukes brunt glass ved alle arbeidstrinn.
 
+5.1.
+
 Generelt
 
+5.1.1.
+
 En blindprøve skal analyseres for å kontrollere at det verken er robenidin eller interfererende stoffer til stede.
+
+5.1.2.
 
 En gjenfinningsprøve skal utføres ved å analysere blindprøven (punkt 5.1.1) som er tilsatt en mengde robenidin som tilsvarer mengden som finnes i prøven. For å øke konsentrasjonen til 60 mg/kg overføres 3,0 ml av standardstamløsningen (punkt 3.9.1) til en 250 ml erlenmeyerkolbe. La løsningen dampe inn til ca. 0,5 ml i en strøm av nitrogen. Tilsett 15 g av blindprøven, bland og vent i 10 minutter før ekstraksjonen (punkt 5.2) innledes.
 
 Merk: Til denne metoden skal blindprøven være av tilsvarende type som prøven, og ved analyse skal det ikke påvises robenidin i blindprøven.
 
+5.2.
+
 Ekstraksjon
 
 Vei opp ca. 15 g av den tillagde prøven med en nøyaktighet på 0,01 g. Overfør dette til en 250 ml erlenmeyerkolbe, tilsett 100,0 ml sur metanol (punkt 3.2), sett propp i kolben og rist i én time på risteapparatet (punkt 4.2). Filtrer løsningen gjennom et glassfiberfilter (punkt 4.5) og samle opp hele filtratet i en 150 ml erlenmeyerkolbe. Tilsett 7,5 g molekylgitter (punkt 3.4), sett propp i kolben og rist i fem minutter. Filtrer umiddelbart løsningen gjennom et glassfiberfilter. Oppbevar denne løsningen til rensingen (punkt 5.3).
 
+5.3.
+
 Rensing
+
+5.3.1.
 
 Tillaging av aluminiumoksidkolonnen
 
 Sett en liten glassullpropp i den nederste enden av en glasskolonne (punkt 4.1) og dytt den helt ned med en glasstav. Vei opp og overfør 11,0 g av det tillagde aluminiumoksidet (punkt 3.5) og overfør mengden til kolonnen. Eksponering for luft må minskes under dette arbeidstrinnet. Bank lett på kolonnens nederste ende for å få aluminiumoksidet til å sette seg.
 
+5.3.2.
+
 Rensing av prøven
 
 Pipetter 5,0 ml av prøveekstraktet som er tillaget i samsvar med punkt 5.2 til kolonnen. Hold pipettens spiss nær kolonneveggen og la løsningen absorberes av aluminiumoksidet. Eluer robenidin fra kolonnen med 100 ml metanol (punkt 3.1) med en gjennomstrømningshastighet på 2–3 ml/minutt, og samle opp eluatet i en 250 ml rundbunnet kolbe. La metanolløsningen inndampe til tørrhet under redusert trykk ved 40 °C ved hjelp av en rotasjonsfordamper (punkt 4.3). Løs opp restmengden i 3–4 ml mobil fase (punkt 3.8) og overfør den kvantitativt til en 10 ml målekolbe. Skyll kolben gjentatte ganger med 1–2 ml mobil fase, som så overføres til målekolben. Fyll opp til merket med samme løsemiddel og bland. Filtrer en delmengde gjennom et 0,45 μm membranfilter (punkt 4.7). Denne løsningen forbeholdes HPLC-bestemmelsen (punkt 5.4).
 
+5.4.
+
 HPLC-bestemmelse
+
+5.4.1.
 
 Parametrer
 
@@ -2649,21 +4595,33 @@ Injeksjonsvolum: 20–50 μl.
 
 Kontroller stabiliteten til det kromatografiske systemet ved å injisere kalibreringsløsningen (punkt 3.9.3) som inneholder 3,6 μg/ml, flere ganger, til det oppnås konstante topphøyder og retensjonstider.
 
+5.4.2.
+
 Kalibreringskurve
 
 Injiser hver kalibreringsløsning (punkt 3.9.3) flere ganger og mål topphøydene (-arealene) for hver konsentrasjon. Trekk opp en kalibreringskurve ved bruk av de gjennomsnittlige topphøydene eller -arealene for kalibreringsløsningene som ordinater og de tilsvarende konsentrasjonene i μg/ml som abscisser.
+
+5.4.3.
 
 Prøveløsning
 
 Injiser prøveekstraktet (punkt 5.3.2) flere ganger ved bruk av samme mengde som for kalibreringsløsningene, og bestem den gjennomsnittlige topphøyden (-arealet) av robenidintoppene.
 
+###### 6. Beregning av resultater
+
 Bruk gjennomsnittshøyden (-arealet) for robenidintoppene fra prøveløsningen til å bestemme prøveløsningens konsentrasjon i μg/ml ved hjelp av kalibreringskurven (punkt 5.4.2).
 
-Innholdet av robenidin w (mg/kg) i prøven beregnes etter følgende formel: $$ w = \frac{c \cdot 200}{m} $$derc = prøveløsningens robenidinkonsentrasjon i μg/ml,m = prøvemengdens vekt i g.
+Innholdet av robenidin w (mg/kg) i prøven beregnes etter følgende formel: $$ w = \\frac{c \\cdot 200}{m} $$derc = prøveløsningens robenidinkonsentrasjon i μg/ml,m = prøvemengdens vekt i g.
+
+###### 7. Validering av resultatene
+
+7.1.
 
 Identitet
 
 Identiteten til analytten kan bekreftes ved kromatografi med tilsetting av kjent mengde standardstoff eller ved bruk av en diodearraydetektor som gjør det mulig å sammenligne spektrene til prøveekstraktet og kalibreringsløsningen (punkt 3.9.3) som inneholder 6 µg/ml halofuginon.
+
+7.1.1.
 
 Kromatografi med tilsetting av kjent mengde standardstoff
 
@@ -2671,21 +4629,44 @@ Konsentrasjonen i et prøveekstrakt økes ved tilsetting av en passende mengde k
 
 Bare høyden av robenidintoppen skal øke etter at det er tatt hensyn til både den tilsatte mengden og fortynningen av ekstraktet. Toppbredden skal ved den halve høyden være innenfor ± 10 % av den opprinnelige bredden.
 
+7.1.2.
+
 Diodearraydeteksjon
 
 Resultatene vurderes etter følgende kriterier:Bølgelengden for maksimal absorpsjon for prøven og standardens spektre, målt ved toppens spiss på kromatogrammet, må være den samme innenfor en margin beregnet ut fra detektorsystemets oppløsningsevne. For diodearraydeteksjon er den vanligvis innenfor ± 2 nm.Mellom 250 og 400 nm må prøven og standardens spektre, målt ved toppens spiss på kromatogrammet, ikke være forskjellige med hensyn til de delene av spekteret som ligger mellom 10 og 100 % av den relative absorbansen. Dette kriteriet er oppfylt når de samme maksima er til stede og avviket mellom spektrene ikke på noe observert punkt overskrider 15 % av standardanalyttens absorbans.Mellom 250 og 400 nm må spektrene til den voksende kurven, spissen og den avtagende kurven til prøveekstraktets topp ikke være forskjellige fra hverandre med hensyn til de delene av spekteret som ligger mellom 10 og 100 % av den relative absorbansen. Dette kriteriet er oppfylt når de samme maksima er til stede og avviket mellom spektrene ikke på noe observert punkt overskrider 15 % av spekterets absorbans i spissen.
 
 Dersom ett av disse kriteriene ikke er oppfylt, er forekomsten av analytten ikke bekreftet.
 
+7.2.
+
 Repeterbarhet
 
 Forskjellen mellom resultatene fra to parallelle bestemmelser som utføres på samme prøve, må ikke overskride 10 % for robenidininnhold over 15 mg/kg.
+
+7.3.
 
 Gjenfinning
 
 For en blindprøve med økt konsentrasjon skal gjenfinningen være minst 85 %.
 
-I en undersøkelse foretatt ved flere laboratorier i Unionen ble fire prøver av fjørfe- og kaninfôr i form av mel eller pelleter analysert av tolv laboratorier. Hver prøve ble analysert to ganger. Resultatene er oppført i tabellen nedenfor:*Fjørfe**Kanin**Mel**Pelleter**Mel**Pelleter*Gjennomsnitt [mg/kg]27,0027,9943,640,1sr [mg/kg]1,461,261,441,66CVr [%]5,44,53,34,1SR [mg/kg]4,363,364,613,91CVR [%]16,112,010,69,7Gjenfinning [%]90,093,387,280,2sr = standardavvik for repeterbarhetCVr = variasjonskoeffisient for repeterbarhet, %SR = standardavvik for reproduserbarhetCVR = variasjonskoeffisient for reproduserbarhet, %
+###### 8. Resultater av en undersøkelse foretatt ved flere laboratorier
+
+I en undersøkelse foretatt ved flere laboratorier i Unionen ble fire prøver av fjørfe- og kaninfôr i form av mel eller pelleter analysert av tolv laboratorier. Hver prøve ble analysert to ganger. Resultatene er oppført i tabellen nedenfor:
+
+|  | *Fjørfe* |  |  | *Kanin* |
+| --- | --- | --- | --- | --- |
+|  | *Mel* | *Pelleter* | *Mel* | *Pelleter* |
+| Gjennomsnitt [mg/kg] | 27,00 | 27,99 | 43,6 | 40,1 |
+| sr [mg/kg] | 1,46 | 1,26 | 1,44 | 1,66 |
+| CVr [%] | 5,4 | 4,5 | 3,3 | 4,1 |
+| SR [mg/kg] | 4,36 | 3,36 | 4,61 | 3,91 |
+| CVR [%] | 16,1 | 12,0 | 10,6 | 9,7 |
+| Gjenfinning [%] | 90,0 | 93,3 | 87,2 | 80,2 |
+
+- sr = standardavvik for repeterbarhet
+- CVr = variasjonskoeffisient for repeterbarhet, %
+- SR = standardavvik for reproduserbarhet
+- CVR = variasjonskoeffisient for reproduserbarhet, %
 
 ### F. Bestemmelse av diclazuril
 
@@ -2693,65 +4674,113 @@ I en undersøkelse foretatt ved flere laboratorier i Unionen ble fire prøver av
 
 Diclazurilinnhold skal bestemmes ved:analysemetoden fastsatt i EN 17299 Fôrvarer: Prøvetakings- og analysemetoder – Screening og bestemmelse av godkjente koksidiostatika i fôrblandinger på tilsetningsstoffs- og 1 % og 3 % kryssforurensningsnivå, av ikke-registrerte koksidiostatika og ett antibiotikum i konsentrasjoner mindre enn tilsetningsstoffer, med høyoppløselig væskekromatografi kombinert med tandemmassespektrometrideteksjon (LC-MS/MS), ellerved ternær gradient reversertfase høyoppløselig væskekromatografi (HPLC) ved bruk av UV-detektor, som beskrevet nedenfor i punkt 1 til 9.
 
+###### 1. Formål og virkeområde
+
 Denne metoden gjør det mulig å bestemme innholdet av diclazuril i fôrblandinger og premikser25. Deteksjonsgrensen er 0,1 mg/kg, kvantifiseringsgrensen er 0,5 mg/kg. Lavere kvantifiseringsgrense kan oppnås, men dette skal valideres av brukeren.
+
+25 Metoden kan også brukes til bestemmelse av diclazuril i fôrmidler.
+
+###### 2. Prinsipp
 
 Etter tilsetting av en intern standard fortynnes prøven med sur metanol. For fôrvarer renses en delmengde av ekstraktet på en fastfase C18-ekstraksjonskolonne. Diclazuril elueres fra kolonnen med en blanding av sur metanol og vann. Etter inndamping oppløses restmengden i DMF/vann. For premikser inndampes ekstraktet, og restmengden oppløses i DMF/vann. Innholdet av diclazuril bestemmes ved ternær gradient reversertfase høyoppløselig væskekromatografi (HPLC) ved bruk av en UV-detektor.
 
+###### 3. Reagenser
+
+3.1.
+
 Vann, HPLC-kvalitet.
+
+3.2.
 
 Ammoniumacetat.
 
+3.3.
+
 Tetrbutylammoniumhydrogensulfat (TBHS).
+
+3.4.
 
 Acetonitril, HPLC-kvalitet.
 
+3.5.
+
 Metanol, HPLC-kvalitet.
+
+3.6.
 
 N, N-dimetylformamid (DMF).
 
+3.7.
+
 Saltsyre, ρ20 = 1,19 g/ml.
 
+3.8.
+
 Standard: diclazuril: (+)-4-klorfenyl-[2,6-diklor-4-(2,3,4,5-tetrahydro-3,5-diokso-1,2,4-triazin-2-yl)fenyl]acetonitril med garantert renhet
+
+3.8.1.
 
 Diclazuril-standardstamløsning, 500 μg/ml
 
 Vei opp 25 mg diclazurilstandard (punkt 3.8) med en nøyaktighet på 0,1 mg i en 50 ml målekolbe. Løs opp i DMF (punkt 3.6), fyll opp til merket med DMF (punkt 3.6) og bland. Pakk kolben inn i aluminiumsfolie, eller bruk en brun flaske, og oppbevar i kjøleskap. Ved en temperatur på 4 °C eller lavere er løsningen stabil i en måned26.
 
+3.8.2.
+
 Diclazuril-standardløsning, 50 μg/ml
 
 Overfør 5,00 ml av standardstamløsningen (punkt 3.8.1.) til en 50 ml målekolbe, fyll opp til merket med DMF (punkt 3.6) og bland. Pakk kolben inn i aluminiumsfolie, eller bruk en brun flaske, og oppbevar i kjøleskap. Ved en temperatur på 4 °C eller lavere er løsningen stabil i en måned.
 
+3.9.
+
 Intern standard: 2,6 diklor-α-(4-klorfenyl)-4-(4,5-dihydro-3,5-diokso-1,2,4-triazin-2(3H)-yl)α-metylbenzen-acetonitril (metyldiclazuril)
+
+3.9.1.
 
 Intern standardstamløsning, 500 μg/ml
 
 Vei opp 25 mg intern standard (punkt 3.9) med en nøyaktighet på 0,1 mg i en 50 ml målekolbe. Løs opp i DMF (punkt 3.6), fyll opp til merket med DMF (punkt 3.6) og bland. Pakk kolben inn i aluminiumsfolie, eller bruk en brun flaske, og oppbevar i kjøleskap. Ved en temperatur på 4 °C eller lavere er løsningen stabil i en måned.
 
+3.9.2.
+
 Intern standardløsning, 50 μg/ml
 
 Overfør 5,00 ml av intern standardstamløsningen (punkt 3.9.1.) til en 50 ml målekolbe, fyll opp til merket med DMF (punkt 3.6) og bland. Pakk kolben inn i aluminiumsfolie, eller bruk en brun flaske, og oppbevar i kjøleskap. Ved en temperatur på 4 °C eller lavere er løsningen stabil i en måned.
+
+3.9.3.
 
 Intern standardløsning for premikser, p/1 000 mg/ml (p = nominelt innhold av diclazuril i premiksen i mg/kg)
 
 Vei opp p/10 mg intern standard med en nøyaktighet på 0,1 mg i en 100 ml målekolbe. Løs opp i DMF (punkt 3.6) i et ultralydbad (punkt 4.7), fyll opp til merket med DMF og bland. Pakk kolben inn i aluminiumsfolie, eller bruk en brun flaske, og oppbevar i kjøleskap. Ved en temperatur på 4 °C eller lavere er løsningen stabil i en måned.
 
+3.10.
+
 Kalibreringsløsninger
+
+3.10.1.
 
 Kalibreringsløsning, 1 μg/ml (diclazuril)
 
 Til en 50 ml målekolbe pipetteres 1,00 ml av diclazuril-standardløsningen (punkt 3.8.2) og 2,00 ml av den interne standardløsningen (punkt 3.9.2). Tilsett 17 ml DMF (punkt 3.6), fyll opp til merket med vann (punkt 3.1) og bland. Denne løsningen skal tillages like før bruk.
 
+3.10.2.
+
 Kalibreringsløsning, 2 μg/ml (diclazuril)
 
 Til en 50 ml målekolbe pipetteres 2,00 ml av diclazuril-standardløsningen (punkt 3.8.2) og 2,00 ml av den interne standardløsningen (punkt 3.9.2). Tilsett 16 ml DMF (punkt 3.6), fyll opp til merket med vann (punkt 3.1) og bland. Denne løsningen skal tillages like før bruk.
+
+3.10.3.
 
 Kalibreringsløsning, 3 μg/ml (diclazuril)
 
 Til en 50 ml målekolbe pipetteres 3,00 ml av diclazuril-standardløsningen (punkt 3.8.2) og 2,00 ml av den interne standardløsningen (punkt 3.9.2). Tilsett 15 ml DMF (punkt 3.6), fyll opp til merket med vann (punkt 3.1) og bland. Denne løsningen skal tillages like før bruk.
 
+3.10.4.
+
 Kalibreringsløsning, 4 μg/ml (diclazuril)
 
 Til en 50 ml målekolbe pipetteres 4,00 ml av diclazuril-standardløsningen (punkt 3.8.2) og 2,00 ml av den interne standardløsningen (punkt 3.9.2). Tilsett 14 ml DMF (punkt 3.6), fyll opp til merket med vann (punkt 3.1) og bland. Denne løsningen skal tillages like før bruk.
+
+3.10.5.
 
 Kalibreringsløsning, 5 μg/ml (diclazuril)
 
@@ -2759,45 +4788,85 @@ Til en 50 ml målekolbe pipetteres 5,00 ml av diclazuril-standardløsningen (pun
 
 Merk: Kalibreringsløsningene (punkt 3.10.1, 3.10.2, 3.10.3, 3.10.4 og 3.10.5) dekker diclazuril-konsentrasjonen i fôret fra 0,5 til 2,5 mg/kg ved bruk av gjeldende protokoll.
 
+3.11.
+
 Fastfase C18-ekstraksjonskolonne, f.eks. Mega Bond Elut, størrelse: 20 cm3, sorpsjonmiddelets vekt: 5 000 mg (forhåndskondisjonering i henhold til leverandørens retningslinjer).
+
+3.12.
 
 Ekstraksjonsmiddel: sur metanol
 
 5,0 ml saltsyre (punkt 3.7) pipetteres i 1 000 ml metanol (punkt 3.5), og blandes.
 
+3.13.
+
 HPLC mobil fase
+
+3.13.1.
 
 Framkallervæske A: ammoniumacetat – tetrabutylammoniumhydrogensulfat-løsning
 
 5 g ammoniumacetat (punkt 3.2) og 3,4 g TBHS (punkt 3.3) oppløses i 1 000 ml vann (punkt 3.1), og blandes.
 
+3.13.2.
+
 Framkallervæske B: acetonitril (punkt 3.4)
+
+3.13.3.
 
 Framkallervæske C: metanol (punkt 3.5).
 
+###### 4. Utstyr
+
+4.1.
+
 Mekanisk risteapparat
+
+4.2.
 
 Utstyr til ternær gradient HPLC:
 
+4.2.1.
+
 Væskekromatografikolonne, Hypersil ODS, 3 μm kolonnepakning, 100 mm x 4,6 mm eller tilsvarende.
+
+4.2.2.
 
 UV-detektor med variabel bølgelengde eller diodearraydetektor.
 
+4.3.
+
 Rotasjonsfordamper.
+
+4.4.
 
 Membranfilter (f.eks. kjemisk resistent nylon), 0,45 μm.
 
+4.5.
+
 Engangssprøyte, 5 ml.
+
+4.6.
 
 Vakuummanifold
 
+4.7.
+
 Ultralydbad.
 
+###### 5. Framgangsmåte
+
+5.1.
+
 Generelt
+
+5.1.1.
 
 Blindprøve
 
 Det skal analyseres en blindprøve for å kontrollere at det verken er diclazuril eller forstyrrende stoffer til stede. Blindprøven skal være av tilsvarende type som selve prøven, og det skal ikke påvises diclazuril eller forstyrrende stoffer.
+
+5.1.2.
 
 Gjenfinningsprøve
 
@@ -2805,17 +4874,27 @@ En gjenfinningsprøve skal utføres ved å analysere blindprøven etter at den e
 
 Dersom det ikke finnes en blindprøve av tilsvarende type som selve prøven (se punkt 5.1.1), kan det alternativt utføres en gjenfinningsprøve ved tilsetning av standard. I slike tilfeller tilsettes prøven som skal analyseres, like mye diclazuril som allerede er til stede i prøven. Denne prøven analyseres sammen med prøven uten økt konsentrasjon, og gjenfinningsprosenten kan beregnes ved subtraksjon.
 
+5.2.
+
 Ekstraksjon
+
+5.2.1.
 
 Fôrblandinger
 
 Vei opp ca. 50 g av prøven med en nøyaktighet på 0,01 g. Overfør til en 500 ml erlenmeyerkolbe, tilsett 1,00 ml intern standardløsning (punkt 3.9.2), 200 ml ekstraksjonsmiddel (punkt 3.12) og sett proppen i kolben. Rist blandingen på risteapparatet (punkt 4.1) natten over. La blandingen stå i 10 minutter. Overfør en delmengde på 20 ml av supernatanten til en egnet glassbeholder og fortynn med 20 ml vann (punkt 3.1). Overfør denne løsningen til en ekstraksjonskolonne (punkt 3.11) og led den gjennom ved hjelp av vakuum (punkt 4.6). Vask kolonnen med 25 ml av en blanding av ekstraksjonsmiddel (punkt 3.12) og vann (punkt 3.1), 65 + 35 (V + V). Kast de oppsamlede fraksjonene, og eluer forbindelsene med 25 ml av en blanding av ekstraksjonsmiddel (punkt 3.12) og vann, 80 + 20 (V + V). Inndamp denne fraksjonen til den akkurat når tørrhet ved hjelp av rotasjonsfordamperen (punkt 4.3) ved 60 °C. Løs opp restmengden i 1,0 ml DMF (punkt 3.6), tilsett 1,5 ml vann (punkt 3.1) og bland. Filtrer gjennom et membranfilter (punkt 4.4) montert på en engangssprøyte (punkt 4.5). Fortsett med HPLC-bestemmelse (punkt 5.3).
 
+5.2.2.
+
 Premikser
 
 Vei opp ca. 1 g av prøven med en nøyaktighet på 0 001 g. Overfør til en 500 ml erlenmeyerkolbe, tilsett 1,00 ml intern standardløsning (punkt 3.9.3), 200 ml ekstraksjonsmiddel (punkt 3.12) og sett proppen i kolben. Rist blandingen på risteapparatet (punkt 4.1) natten over. La blandingen stå i 10 minutter. Overfør en delmengde på 10 000/p ml (p = nominelt innhold av diclazuril i premiksen i mg/kg) av supernatanten til en rundbunnet kolbe av passende størrelse. Damp inn til den akkurat når tørrhet, under redusert trykk ved hjelp av rotasjonsfordamperen (punkt 4.3) ved 60 °C. Løs opp restmengden i 10,0 ml DMF (punkt 3.6), tilsett 15,0 ml vann (punkt 3.1) og bland. Fortsett med HPLC-bestemmelse (punkt 5.3).
 
+5.3.
+
 HPLC-bestemmelse
+
+5.3.1.
 
 Parametrer
 
@@ -2823,27 +4902,45 @@ Følgende betingelser er veiledende. Det kan benyttes andre betingelser forutsat
 
 Kontroller stabiliteten til det kromatografiske systemet ved å injisere kalibreringsløsningen (punkt 3.10.2) som inneholder 2 μg/ml diclazuril og intern standard, flere ganger, til det oppnås konstante topphøyder og retensjonstider.
 
+5.3.2.
+
 Kromatografisk analyse av kalibreringsløsninger
 
 Injiser 20 μl av kalibreringsløsningene (punkt 3.10.1, 3.10.2, 3.10.3, 3.10.4 og 3.10.5) to ganger hver, identifiser og integrer toppene for diclazuril og intern standard. Kalibreringskurven tegnes basert på forholdet mellom gjennomsnittlig topphøyde eller -areal for diclazuril og gjennomsnittlig topphøyde eller -areal for intern standard i forhold til diclazuril-konsentrasjonen i kalibreringsløsningene (μg/ml).
+
+5.3.3.
 
 Kromatografisk analyse av prøveløsninger
 
 Injiser 20 μl av prøveløsningen (punkt 5.2.1 eller 5.2.2) to ganger og bestem gjennomsnittlig topphøyde eller -areal for diclazuril og intern standard.
 
+26 Lengre stabilitet (opptil 1 år) kan være mulig, men dette må bekreftes av det enkelte laboratorium.
+
+###### 6. Beregning av resultater
+
+6.1.
+
 Fôrblandinger
 
-Innholdet av diclazuril w (mg/kg) i prøven beregnes etter følgende formel: $$ w = \frac{\frac{\text{Height}{(d,s)} }{\text{Height}{(i,s)}}- b}{a} \cdot \frac{10V}{m} \ \text{eller} \ w = \frac{\frac{\text{Area}{(d,s)} }{\text{Area}{(i,s)}}- b}{a} \cdot \frac{10V}{m} $$
+Innholdet av diclazuril w (mg/kg) i prøven beregnes etter følgende formel: $$ w = \\frac{\\frac{\\text{Height}{(d,s)} }{\\text{Height}{(i,s)}}- b}{a} \\cdot \\frac{10V}{m} \\ \\text{eller} \\ w = \\frac{\\frac{\\text{Area}{(d,s)} }{\\text{Area}{(i,s)}}- b}{a} \\cdot \\frac{10V}{m} $$
 derHøyde(d,s) er topphøyden for diclazuril i prøveløsningen (punkt 5.2.1),Areal(d,s) er topparealet for diclazuril i prøveløsningen (punkt 5.2.1),Høyde(d,s) er topphøyden for intern standard i prøveløsningen (punkt 5.2.1),Areal(d,s) er topparealet for intern standard i prøveløsningen (punkt 5.2.1),b er skjæringspunktet for kalibreringskurven som er tegnet inn fra kalibreringsløsningene (punkt 3.10.1, 3.10.2, 3.10.3, 3.10.4 og 3.10.5) i henhold til punkt 5.3.2,a er helningen for kalibreringskurven som er tegnet inn fra kalibreringsløsningene (punkt 3.10.1, 3.10.2, 3.10.3, 3.10.4 og 3.10.5) i henhold til punkt 5.3.2,m er prøvemengdens masse i gram,V er prøveekstraktets sluttvolum i milliliter etter gjenoppløsning i henhold til punkt 5.2.1 (dvs. 2,5 ml).
+
+6.2.
 
 Premikser
 
-Innholdet av diclazuril w (mg/kg) i prøven beregnes etter følgende formel: $$ w = \frac{\frac{\text{Height}{(d,s)} }{\text{Height}{(i,s)}}- b}{a} \cdot \frac{0{,}02V}{m} \cdot p \ \text{eller} \ w = \frac{\frac{\text{Area}{(d,s)} }{\text{Area}{(i,s)}}- b}{a} \cdot \frac{0{,}02V}{m} \cdot p $$
+Innholdet av diclazuril w (mg/kg) i prøven beregnes etter følgende formel: $$ w = \\frac{\\frac{\\text{Height}{(d,s)} }{\\text{Height}{(i,s)}}- b}{a} \\cdot \\frac{0{,}02V}{m} \\cdot p \\ \\text{eller} \\ w = \\frac{\\frac{\\text{Area}{(d,s)} }{\\text{Area}{(i,s)}}- b}{a} \\cdot \\frac{0{,}02V}{m} \\cdot p $$
 DerHøyde(d,s) er topphøyden for diclazuril i prøveløsningen (punkt 5.2.2),Areal(d,s) er topparealet for diclazuril i prøveløsningen (punkt 5.2.2),Høyde(d,s) er topphøyden for intern standard i prøveløsningen (punkt 5.2.2),Areal(d,s) er topparealet for intern standard i prøveløsningen (punkt 5.2.2),b er skjæringspunktet for kalibreringskurven som er tegnet inn fra kalibreringsløsningene (punkt 3.10.1, 3.10.2, 3.10.3, 3.10.4 og 3.10.5) i henhold til punkt 5.3.2,a er helningen for kalibreringskurven som er tegnet inn fra kalibreringsløsningene (punkt 3.10.1, 3.10.2, 3.10.3, 3.10.4 og 3.10.5) i henhold til punkt 5.3.2,m er prøvemengdens masse i gram,V er prøveekstraktets sluttvolum i milliliter etter gjenoppløsning i henhold til punkt 5.2.2 (dvs. 25 ml),p er nominelt innhold av diclazuril i mg/kg i premiksen.
+
+###### 7. Validering av resultatene
+
+7.1.
 
 Identitet
 
 Identiteten til analytten kan bekreftes ved kromatografi med tilsetting av kjent mengde standardstoff eller ved bruk av en diodearraydetektor som gjør det mulig å sammenligne spektrene til prøveekstraktet (punkt 5.2.1 eller 5.2.2) og kalibreringsløsningen (punkt 3.10).
+
+7.1.1.
 
 Kromatografi med tilsetting av kjent mengde standardstoff
 
@@ -2851,28 +4948,55 @@ Konsentrasjonen i et prøveekstrakt (punkt 5.2.1 eller 5.2.2) økes ved tilsetti
 
 Det er bare høyden av diclazuriltoppen og intern standard-toppen som skal økes, etter at det er tatt hensyn både til mengden som er tilsatt, og til fortynningen av ekstraktet. Bredden av toppen, i halv høyde, skal være innenfor ± 10 % av den opprinnelige bredden av diclazuriltoppen eller intern standard-toppen av prøveekstraktet uten økt konsentrasjon.
 
+7.1.2.
+
 Diodearraydeteksjon
 
 Resultatene vurderes etter følgende kriterier:Bølgelengden for maksimal absorpsjon for prøven og standardens spektre, målt ved toppens spiss på kromatogrammet, må være den samme innenfor en margin beregnet ut fra detektorsystemets oppløsningsevne. For diodearraydeteksjon er den vanligvis innenfor ±2 nm.Mellom 230 og 320 nm må prøven og standardens spektre, målt ved toppens spiss på kromatogrammet, ikke være forskjellige med hensyn til de delene av spekteret som ligger mellom 10 og 100 % av den relative absorbansen. Dette kriteriet er oppfylt når de samme maksima er til stede og avviket mellom spektrene ikke på noe observert punkt overskrider 15 % av standardanalyttens absorbans.Mellom 230 og 320 nm må spektrene til den voksende kurven, spissen og den avtagende kurven til prøveekstraktets topp ikke være forskjellige fra hverandre med hensyn til de delene av spekteret som ligger mellom 10 og 100 % av den relative absorbansen. Dette kriteriet er oppfylt når de samme maksima er til stede og avviket mellom spektrene ikke på noe observert punkt overskrider 15 % av spekterets absorpsjon i spissen.
 
 Dersom ett av disse kriteriene ikke er oppfylt, er forekomsten av analytten ikke bekreftet.
 
+7.2.
+
 Repeterbarhet
 
 Forskjellen mellom resultatene av to uavhengige målinger som utføres på to delutvalg, må ikke overskride30 % av det høyeste resultatet for et innhold av diclazuril på mellom 0,5 og 2,5 mg/kg,0,75 mg/kg for et innhold av diclazuril på mellom 2,5 og 5 mg/kg,15 % av det høyeste resultatet for et innhold av diclazuril på over 5 mg/kg.
+
+7.3.
 
 Gjenfinning
 
 For en (blind)prøve med økt konsentrasjon skal gjenfinningen være minst 80 %.
 
+###### 8. Resultater av en undersøkelse foretatt ved flere laboratorier
+
 Det ble gjennomført to undersøkelser foretatt ved flere laboratorier. I den første, utført av en annen gruppe laboratorier i 1994, var de analyserte prøvene to premikser (O 100, A 100) og tre prøver av tilskuddsfôr til fjørfe (L1, Z1, K1). Den ene premiksen var blandet med en organisk matriks (O 100) og den andre med en uorganisk matriks (A 100). Det teoretiske innholdet er 100 mg diclazuril per kg. Laboratoriene ble bedt om å analysere hver av prøvene én eller to ganger. (Nærmere opplysninger om denne første undersøkelsen finnes i Journal of AOAC International, bind 77, nr. 6, 1994, s. 1359–1361).
 
-I den andre undersøkelsen ble tre fôrblandinger til fjørfe, som inneholdt diclazuril i konsentrasjoner på 0,9 mg/kg (MAT 1), 1,5 mg/kg (MAT 2) og blindfôr (MAT 3), analysert. Nærmere opplysninger om denne andre undersøkelsen finnes i JRC Technical report (2016) og Journal of AOAC International, bind 102, nr. 2, 2019, s. 646–652. Resultatene av de to undersøkelse foretatt ved flere laboratorier er oppført i tabellen nedenfor.*Prøve 1A*
-*100**Prøve 2O*
-*100**Prøve 3 L1**Prøve 4 Z1**Prøve 5 K1**Prøve 6*
-*MAT 1**Prøve 7*
-*MAT 2**Prøve 8*
-*MAT 3*V11111111610910n1918191912201810Gjennomsnitt (mg/kg)100,8103,50,891,150,891,01,5< LOQSr (mg/kg)5,887,640,150,020,030,110,07–CVr (%)5,837,3817,321,923,3411,24,5–SR (mg/kg)7,597,640,170,110,120,180,21–CVR (%)7,537,3818,619,6713,6518,114,3–Nominelt innhold (mg/kg)1001001,01,01,00,91,5–Referanse*Første undersøkelse fra 1994Første undersøkelse fra 1994Første undersøkelse fra 1994Første undersøkelse fra 1994Første undersøkelse fra 1994Andre undersøkelse fra 2015Andre undersøkelse fra 2015Andre undersøkelse fra 2015L = antall laboratoriern = antall enkeltverdierSr = standardavvik for repeterbarhetCVr = variasjonskoeffisient for repeterbarhetSR = standardavvik for reproduserbarhetCVR = variasjonskoeffisient for reproduserbarhetLOQ = Kvantifiseringsgrense.
+I den andre undersøkelsen ble tre fôrblandinger til fjørfe, som inneholdt diclazuril i konsentrasjoner på 0,9 mg/kg (MAT 1), 1,5 mg/kg (MAT 2) og blindfôr (MAT 3), analysert. Nærmere opplysninger om denne andre undersøkelsen finnes i JRC Technical report (2016) og Journal of AOAC International, bind 102, nr. 2, 2019, s. 646–652. Resultatene av de to undersøkelse foretatt ved flere laboratorier er oppført i tabellen nedenfor.
+
+|  | *Prøve 1A*<br>*100* | *Prøve 2O*<br>*100* | *Prøve 3 L1* | *Prøve 4 Z1* | *Prøve 5 K1* | *Prøve 6*<br>*MAT 1* | *Prøve 7*<br>*MAT 2* | *Prøve 8*<br>*MAT 3* |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| V | 11 | 11 | 11 | 11 | 6 | 10 | 9 | 10 |
+| n | 19 | 18 | 19 | 19 | 12 | 20 | 18 | 10 |
+| Gjennomsnitt (mg/kg) | 100,8 | 103,5 | 0,89 | 1,15 | 0,89 | 1,0 | 1,5 | < LOQ |
+| Sr (mg/kg) | 5,88 | 7,64 | 0,15 | 0,02 | 0,03 | 0,11 | 0,07 | – |
+| CVr (%) | 5,83 | 7,38 | 17,32 | 1,92 | 3,34 | 11,2 | 4,5 | – |
+| SR (mg/kg) | 7,59 | 7,64 | 0,17 | 0,11 | 0,12 | 0,18 | 0,21 | – |
+| CVR (%) | 7,53 | 7,38 | 18,61 | 9,67 | 13,65 | 18,1 | 14,3 | – |
+| Nominelt innhold (mg/kg) | 100 | 100 | 1,0 | 1,0 | 1,0 | 0,9 | 1,5 | – |
+| Referanse\* | Første undersøkelse fra 1994 | Første undersøkelse fra 1994 | Første undersøkelse fra 1994 | Første undersøkelse fra 1994 | Første undersøkelse fra 1994 | Andre undersøkelse fra 2015 | Andre undersøkelse fra 2015 | Andre undersøkelse fra 2015 |
+
+- L = antall laboratorier
+- n = antall enkeltverdier
+- Sr = standardavvik for repeterbarhet
+- CVr = variasjonskoeffisient for repeterbarhet
+- SR = standardavvik for reproduserbarhet
+- CVR = variasjonskoeffisient for reproduserbarhet
+- LOQ = Kvantifiseringsgrense.
+
+\* Første undersøkelse fra 1994: Journal of AOAC International, bind 77, nr. 6, 1994, s. 1359–1361, andre undersøkelse fra 2015: JRC Technical report «Re-validation of a method for the determination of diclazuril by collaborative study» (2016).
+
+###### 9. Generelle kommentarer
 
 Diclazuril-responsen skal tidligere være påvist å være lineær i de konsentrasjonsområder som måles.
 
@@ -2884,67 +5008,121 @@ Natriumsalt av en monokarboksylsyrepolyeter som dannes av Streptomyces lasaliens
 
 Natriumlasalocidinnhold skal bestemmes vedanalysemetoden fastsatt i EN 17299 Fôrvarer: Prøvetakings- og analysemetoder – Screening og bestemmelse av godkjente koksidiostatika i fôrblandinger på tilsetningsstoffs- og 1 % og 3 % kryssforurensningsnivå, av ikke-registrerte koksidiostatika og ett antibiotikum i konsentrasjoner mindre enn tilsetningsstoffer, med høyoppløselig væskekromatografi kombinert med tandemmassespektrometrideteksjon (LC-MS/MS), ellerved reversertfase høyoppløselig væskekromatografi (HPLC) med spektrofotofluorimetrisk (fluorescens) detektor, som beskrevet nedenfor i punkt 1 til 8.
 
+###### 1. Formål og virkeområde
+
 Denne metoden gjør det mulig å bestemme innholdet av lasalocidnatrium i fôrvarer. Deteksjonsgrensen er 5 mg/kg, kvantifiseringsgrensen er 10 mg/kg.
+
+###### 2. Prinsipp
 
 Lasalocidnatrium ekstraheres fra prøven i sur metanol og bestemmes ved reversertfase høyoppløselig væskekromatografi (HPLC) ved bruk av en spektrofluorimetrisk (fluorescens) detektor.
 
+###### 3. Reagenser
+
+3.1.
+
 Kaliumdihydrogenfosfat (KH2PO4).
 
+3.2.
+
 Ortofosforsyre, w (w/w) = 85 %.
+
+3.3.
 
 Ortofosforsyreløsning, c = 20 %
 
 Fortynn 23,5 ml ortofosforsyre (punkt 3.2) med vann til 100 ml.
 
+3.4.
+
 6-metyl-2-heptylamin (1,5-dimetylheksylamin), w (w/w) = 99 %.
+
+3.5.
 
 Metanol, HPLC-kvalitet.
 
+3.6.
+
 Saltsyre, tetthet = 1,19 g/ml.
+
+3.7.
 
 Fosfatbufret saltløsning, c = 0,01 mol/l
 
 Løs opp 1,36 g KH2PO4 (punkt 3.1) i 500 ml vann (punkt 3.11) og tilsett 3,5 ml ortofosforsyre (punkt 3.2) og 10,0 ml 6-metyl-2-heptylamin (punkt 3.4). Juster pH-verdien til 4,0 med ortofosforsyreløsning (punkt 3.3) og fortynn til 1 000 ml med vann (punkt 3.11).
 
+3.8.
+
 Sur metanol
 
 Overfør 5,0 ml saltsyre (punkt 3.6) til en 1 000 ml målekolbe, fyll opp til merket med metanol (punkt 3.5) og bland. Denne løsningen skal tillages like før bruk.
+
+3.9.
 
 HPLC mobil fase, fosfatbuffer-metanolløsning (5 + 95) (V + V)
 
 Bland 5 ml fosfatbufret saltløsning (punkt 3.7) med 95 ml metanol (punkt 3.5).
 
+3.10.
+
 Lasalocidnatriumstandard med garantert renhet, C34H53O8 Na (natriumsalt av en monokarboksylsyrepolyeter som dannes av Streptomyces lasaliensis), E763.
+
+3.10.1.
 
 Lasalocidnatrium-standardstamløsning, 500 μg/ml
 
 Vei opp 50 mg lasalocidnatrium (punkt 3.10) med en nøyaktighet på 0,1 mg i en 100 ml målekolbe, løs opp i sur metanol (punkt 3.8), fyll opp til merket med samme løsemiddel og bland. Løsningen skal tillages like før bruk.
 
+3.10.2.
+
 Lasalocidnatrium-standardmellomløsning, 50 μg/ml
 
 Overfør 10 ml av standardstamløsningen (punkt 3.10.1) til en 100 ml målekolbe med pipette, fyll opp til merket med sur metanol (punkt 3.8) og bland. Denne løsningen skal tillages like før bruk.
+
+3.10.3.
 
 Kalibreringsløsninger
 
 Overfør 1,0, 2,0, 4,0, 5,0 og 10,0 ml av standardstamløsningen (punkt 3.10.2) til en rekke 50 ml målekolber. Fyll opp til merket med sur metanol (punkt 3.8) og bland. Disse løsningene svarer til henholdsvis 1,0, 2,0, 4,0, 5,0 og 10,0 μg lasalocidnatrium per ml. Disse løsningene må tillages like før bruk.
 
+3.11.
+
 Vann, HPLC-kvalitet.
+
+###### 4. Utstyr
+
+4.1.
 
 Ultralydbad (eller vannbad med risteinnretning) med termostat.
 
+4.2.
+
 Membranfiltre, 0,45 μm.
+
+4.3.
 
 HPLC-utstyr med injeksjonssystem, egnet til injeksjonsmengder på 20 μl.
 
+4.3.1.
+
 Væskekromatografikolonne, 125 mm × 4 mm, reversertfase C18, 5 µm kolonnepakning eller tilsvarende.
+
+4.3.2.
 
 Spektrofluorimeter med variabel innstilling av eksitasjons- og emisjonsbølgelengden.
 
+###### 5. Framgangsmåte
+
+5.1.
+
 Generelt
+
+5.1.1.
 
 Blindprøve
 
 For gjennomføring av gjenfinningsprøven (punkt 5.1.2) skal en blindprøve analyseres for å kontrollere at det verken er lasalocidnatrium eller interfererende stoffer til stede. Blindprøven skal være av tilsvarende type som selve prøven, og det skal ikke påvises lasalocidnatrium eller interfererende stoffer.
+
+5.1.2.
 
 Gjenfinningsprøve
 
@@ -2952,132 +5130,242 @@ En gjenfinningsprøve skal utføres ved å analysere blindprøven etter at den e
 
 Dersom det ikke finnes en blindprøve av tilsvarende type som selve prøven (se punkt 5.1.1), kan det alternativt utføres en gjenfinningsprøve ved tilsetning av standard. I slike tilfeller tilsettes prøven som skal analyseres, like mye lasalocidnatrium som allerede er til stede i prøven. Denne prøven analyseres sammen med prøven uten økt konsentrasjon, og gjenfinningen kan beregnes ved subtraksjon.
 
+5.2.
+
 Ekstraksjon
+
+5.2.1.
 
 Fôr
 
 Vei opp 5–10 g av prøven med en nøyaktighet på 0,01 g og overfør til en 250 ml erlenmeyerkolbe med propp. Tilsett 100,0 ml sur metanol (punkt 3.8) med pipette. Sett proppen løst i og roter kolben slik at prøven spres. Sett kolben i ultralydbad (punkt 4.1) ved ca. 40 °C i 20 minutter, ta den deretter opp av ultralydbadet og avkjøl til romtemperatur. La kolben stå i ca. én time til prøven har bunnfelt seg, filtrer deretter en delmengde gjennom et membranfilter på 0,45 μm (punkt 4.2) ned i en egnet beholder. Fortsett med HPLC-bestemmelse (punkt 5.3).
 
+5.2.2.
+
 Premikser
 
 Vei opp 2 g av den umalte prøven med en nøyaktighet på 0,001 g og overfør til en 250 ml målekolbe. Tilsett 100,0 ml sur metanol (punkt 3.8) og roter kolben slik at prøven spres. Sett kolben og innholdet i ultralydbad (punkt 4.1) ved ca. 40 °C i 20 minutter, ta den deretter opp av ultralydbadet og avkjøl til romtemperatur. Fortynn prøven opp til merket med sur metanol (punkt 3.8) og bland grundig. La kolben stå i ca. én time til prøven har bunnfelt seg, filtrer deretter en delmengde gjennom et membranfilter på 0,45 μm (punkt 4.2). En passende mengde av det klare filtratet fortynnes med sur metanol (punkt 3.8), slik at resultatet blir en endelig prøveløsning som inneholder ca. 4 μg/ml lasalocidnatrium. Fortsett med HPLC-bestemmelse (punkt 5.3).
 
+5.3.
+
 HPLC-bestemmelse
+
+5.3.1.
 
 Parametrer
 
-Følgende betingelser er veiledende, andre betingelser kan brukes forutsatt at de gir de samme resultater.Væskekromatografikolonne (punkt 4.3.1):125 mm × 4 mm, reversertfase C18, 5 μm kolonnepakning eller tilsvarendeMobil fase (punkt 3.9):Blanding av fosfatbufret saltløsning (punkt 3.7) og metanol (punkt 3.5), 5 + 95 (V + V)Gjennomstrømningshastighet:1,2 ml/minDetektorbølgelengder:Eksitasjon: 310 nmEmisjon: 419 nmInjeksjonsvolum:20 μl
+Følgende betingelser er veiledende, andre betingelser kan brukes forutsatt at de gir de samme resultater.
+
+|  |  |
+| --- | --- |
+| Væskekromatografikolonne (punkt 4.3.1): | 125 mm × 4 mm, reversertfase C18, 5 μm kolonnepakning eller tilsvarende |
+| Mobil fase (punkt 3.9): | Blanding av fosfatbufret saltløsning (punkt 3.7) og metanol (punkt 3.5), 5 + 95 (V + V) |
+| Gjennomstrømningshastighet: | 1,2 ml/min |
+| Detektorbølgelengder: | Eksitasjon: 310 nm |
+|  | Emisjon: 419 nm |
+| Injeksjonsvolum: | 20 μl |
 
 Kontroller stabiliteten til det kromatografiske systemet ved å injisere kalibreringsløsningen (punkt 3.10.3) som inneholder 4,0 μg/ml, flere ganger, til det oppnås konstante topphøyder (eller -arealer) og retensjonstider.
+
+5.3.2.
 
 Kalibreringskurve
 
 Injiser hver kalibreringsløsning (punkt 3.10.3) flere ganger og bestem gjennomsnittet av topphøydene (-arealene) for hver konsentrasjon. Trekk opp en kalibreringskurve ved å benytte gjennomsnittet av topphøydene (-arealene) av kalibreringsløsningene som ordinater og de tilsvarende konsentrasjonene i μg/ml som abscisser.
 
+5.3.3.
+
 Prøveløsning
 
 Injiser prøveekstraktene fra punkt 5.2.1 eller 5.2.2 flere ganger ved bruk av samme volum som for kalibreringsløsningene, og bestem gjennomsnittet av topphøyden (-arealet) av lasalocidnatrium-toppene.
 
+###### 6. Beregning av resultater
+
 Konsentrasjonen av lasalocidnatrium i μg/ml bestemmes ut fra den gjennomsnittlige topphøyden (-arealet) som er oppnådd ved injeksjon av prøveløsningen (punkt 5.3.3) med henvisning til kalibreringskurven.
+
+6.1.
 
 Fôr
 
-Innholdet av lasalocidnatrium w (mg/kg) i prøven beregnes etter følgende formel: $$ w = \frac{c \cdot V_1}{m} \left[ {mg}/{kg} \right] $$
+Innholdet av lasalocidnatrium w (mg/kg) i prøven beregnes etter følgende formel: $$ w = \\frac{c \\cdot V_1}{m} \\left[ {mg}/{kg} \\right] $$
 derc = konsentrasjonen av lasalocidnatrium i prøveløsningen (punkt 5.2.1) i μg/mlV1 = prøveekstraktets volum i henhold til punkt 5.2.1 i ml (dvs. 100)m = prøvemengdens vekt i g
+
+6.2.
 
 Premikser
 
-Innholdet av lasalocidnatrium w (mg/kg) i prøven beregnes etter følgende formel: $$ w = \frac{c \cdot V_{2.} \cdot f}{m} \left[ {mg}/{kg} \right] $$
+Innholdet av lasalocidnatrium w (mg/kg) i prøven beregnes etter følgende formel: $$ w = \\frac{c \\cdot V_{2.} \\cdot f}{m} \\left[ {mg}/{kg} \\right] $$
 derc = konsentrasjonen av lasalocidnatrium i prøveløsningen (punkt 5.2.2) i μg/mlV2 = prøveekstraktets volum i henhold til punkt 5.2.2 i ml (dvs. 250)f = fortynningsfaktor i henhold til punkt 5.2.2m = prøvemengdens vekt i g
+
+###### 7. Validering av resultatene
+
+7.1.
 
 Identitet
 
 Metoder basert på spektrofluorimetri er mindre utsatt for interferens enn metoder der det brukes en UV-detektor. Identiteten til analytten kan bekreftes ved kromatografi med tilsetting av kjent mengde standardstoff.
 
+7.1.1.
+
 Kromatografi med tilsetting av kjent mengde standardstoff
 
 Konsentrasjonen i et prøveekstrakt (punkt 5.2.1 eller 5.2.2) økes ved tilsetting av en passende mengde kalibreringsløsning (punkt 3.10.3). Mengden av lasalocidnatrium som tilsettes, bør være lik mengden av lasalocidnatrium som er funnet i prøveekstraktet. Det er bare høyden av lasalocidnatrium-toppen som skal økes, etter at det er tatt hensyn både til mengden som er tilsatt, og til fortynningen av ekstraktet. Bredden av toppen, i halv høyde, skal være innenfor ± 10 % av den opprinnelige bredden av toppen av prøveekstraktet uten økt konsentrasjon.
+
+7.2.
 
 Repeterbarhet
 
 Forskjellen mellom resultatene av to parallelle bestemmelser som utføres på samme prøve, må ikke overskride15 % av det høyeste resultatet for et innhold av lasalocidnatrium på mellom 30 og 100 mg/kg,15 mg/kg for et innhold av lasalocidnatrium på mellom 100 og 200 mg/kg,7,5 % av det høyeste resultatet for et innhold av lasalocidnatrium på over 200 mg/kg.
 
+7.3.
+
 Gjenfinning
 
 Gjenfinningen for en (blind)prøve av fôrvarer med økt konsentrasjon skal være på minst 80 %. Gjenfinningen for en prøve av premikser med økt konsentrasjon skal være på minst 90 %.
 
-I en undersøkelse foretatt ved flere laboratorier* ble to prøver av premikser (prøve 1 og 2) og fem prøver av fôrvarer (prøve 3–7) analysert av tolv laboratorier. Hver prøve ble analysert to ganger. Resultatene er oppført i tabellen nedenfor:*Prøve 1*
-*Kylling-premiks**Prøve 2*
-*Kalkun-premiks**Prøve 3*
-*Kalkun-pelleter**Prøve 4*
-*Kylling-pelleter**Prøve 5*
-*Kalkunfôr**Prøve 6*
-*Fjørfefôr A**Prøve 7*
-*Fjørfefôr B*V12121212121212n23232323232323Gjennomsnitt [mg/kg]5 05016 20076,578,492,948,332,6sr [mg/kg]1074081,712,232,271,931,75CVr [%]2,122,522,242,842,444,005,37sR [mg/kg]2868833,857,325,293,473,49CVR [%]5,665,455,039,345,697,1810,70Nominelt innhold [mg/kg]5 000**16 000**80**105**120**50+35+L = antall laboratoriern = antall enkeltresultatersr = standardavvik for repeterbarhetsR= standardavvik for reproduserbarhetCVr= variasjonskoeffisient for repeterbarhet, %CVR = variasjonskoeffisient for reproduserbarhet, %
+###### 8. Resultater av en undersøkelse foretatt ved flere laboratorier
+
+I en undersøkelse foretatt ved flere laboratorier\* ble to prøver av premikser (prøve 1 og 2) og fem prøver av fôrvarer (prøve 3–7) analysert av tolv laboratorier. Hver prøve ble analysert to ganger. Resultatene er oppført i tabellen nedenfor:
+
+|  | *Prøve 1*<br>*Kylling-premiks* | *Prøve 2*<br>*Kalkun-premiks* | *Prøve 3*<br>*Kalkun-pelleter* | *Prøve 4*<br>*Kylling-pelleter* | *Prøve 5*<br>*Kalkunfôr* | *Prøve 6*<br>*Fjørfefôr A* | *Prøve 7*<br>*Fjørfefôr B* |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| V | 12 | 12 | 12 | 12 | 12 | 12 | 12 |
+| n | 23 | 23 | 23 | 23 | 23 | 23 | 23 |
+| Gjennomsnitt [mg/kg] | 5 050 | 16 200 | 76,5 | 78,4 | 92,9 | 48,3 | 32,6 |
+| sr [mg/kg] | 107 | 408 | 1,71 | 2,23 | 2,27 | 1,93 | 1,75 |
+| CVr [%] | 2,12 | 2,52 | 2,24 | 2,84 | 2,44 | 4,00 | 5,37 |
+| sR [mg/kg] | 286 | 883 | 3,85 | 7,32 | 5,29 | 3,47 | 3,49 |
+| CVR [%] | 5,66 | 5,45 | 5,03 | 9,34 | 5,69 | 7,18 | 10,70 |
+| Nominelt innhold [mg/kg] | 5 000\*\* | 16 000\*\* | 80\*\* | 105\*\* | 120\*\* | 50+ | 35+ |
+
+- L = antall laboratorier
+- n = antall enkeltresultater
+- sr = standardavvik for repeterbarhet
+- sR= standardavvik for reproduserbarhet
+- CVr= variasjonskoeffisient for repeterbarhet, %
+- CVR = variasjonskoeffisient for reproduserbarhet, %
+
+\* Analyst, 1995, 120, s. 2175–2180.
+
+\*\* Innhold angitt av produsenten.
+
+\+ Fôrvare tillaget i laboratoriet.
 
 ### H. Bestemmelse av amproliumhydroklorid
 
 1-[(4-amino-2-propyl-5-pyrimidinyl)metyl]-2-metylpyridiniumkloridmonohydroklorid
 
+###### 1. Formål og virkeområde
+
 Denne metoden gjør det mulig å bestemme innholdet av amprolium i fôrvarer. Deteksjonsgrensen er 1 mg/kg, kvantifiseringsgrensen er 5 mg/kg.
+
+###### 2. Prinsipp
 
 Prøven ekstraheres med en blanding av metanol og vann. Etter fortynning med den mobile fasen og membranfiltrering bestemmes innholdet av amprolium ved kationebytter-høyoppløselig væskekromatografi (HPLC) ved bruk av en UV-detektor.
 
+###### 3. Reagenser
+
+3.1.
+
 Metanol.
+
+3.2.
 
 Acetonitril, HPLC-kvalitet.
 
+3.3.
+
 Vann, HPLC-kvalitet.
+
+3.4.
 
 Natriumdihydrogenfosfatløsning, c = 0,1 mol/l
 
 Løs opp 13,80 g natriumdihydrogenfosfatmonohydrat i vann (punkt 3.3) i en 1 000 ml målekolbe, fyll opp til merket med vann (punkt 3.3) og bland.
 
+3.5.
+
 Natriumperkloratløsning, c = 1,6 mol/l
 
 Løs opp 224,74 g natriumperkloratmonohydrat i vann (punkt 3.3) i en 1 000 ml målekolbe, fyll opp til merket med vann (punkt 3.3) og bland.
+
+3.6.
 
 HPLC mobil fase (se merknad punkt 9.1).
 
 Blanding av acetonitril (punkt 3.2), natriumdihydrogenfosfatløsning (punkt 3.4) og natriumperkloratløsning (punkt 3.5), 450 + 450 + 100 (v+v +v). Filtrer løsningen gjennom et 0,22 μm membranfilter (punkt 4.3) før bruk, og avgass den (f.eks. i et ultralydbad (punkt 4.4) i minst 15 minutter).
 
+3.7.
+
 Standard: ren amprolium 1-[(4-amino-2-propyl-5-pyrimidinyl)metyl]-2-metylpyridiniumklorid, E 750 (se punkt 9.2).
+
+3.7.1.
 
 Amprolium-standardstamløsning, 500 μg/ml
 
 Vei opp 50 mg amprolium (punkt 3.7) med en nøyaktighet på 0,1 mg i en 100 ml målekolbe, løs opp i 80 ml metanol (punkt 3.1) og plasser kolben i et ultralydbad (punkt 4.4) i 10 minutter. Varm løsningen opp til romtemperatur etter ultralydbehandlingen, fyll opp til merket med vann og bland. Ved en temperatur på ≤ 4 °C er løsningen stabil i én måned.
 
+3.7.2.
+
 Amprolium-standardmellomløsning, 50 μg/ml
 
 Overfør 5,0 ml av standardstamløsningen (punkt 3.7.1.) til en 50 ml målekolbe med pipette, fyll opp til merket med ekstraksjonsmiddel (punkt 3.8) og bland. Ved en temperatur på ≤ 4 °C er løsningen stabil i én måned.
+
+3.7.3.
 
 Kalibreringsløsninger
 
 Overfør henholdsvis 0,5, 1,0 og 2,0 ml av standardmellomløsningen (punkt 3.7.2) til en rekke 50 ml målekolber. Fyll opp til merket med mobil fase (punkt 3.6) og bland. Disse løsningene svarer til henholdsvis 0,5, 1,0 og 2,0 μg amprolium per ml. Disse løsningene må tillages like før bruk.
 
+3.8.
+
 Ekstraksjonsmiddel
 
 Blanding av metanol (punkt 3.1) og vann 2 + 1 (v + v).
 
+###### 4. Utstyr
+
+4.1.
+
 HPLC-utstyr med injeksjonssystem, egnet til injeksjonsmengder på 100 μl.
+
+4.1.1.
 
 Væskekromatografikolonne 125 mm × 4 mm, kationebytter Nucleosil 10 SA, 5 eller 10 µm kolonnepakning eller tilsvarende.
 
+4.1.2.
+
 UV-detektor med variabel bølgelengde eller diodearraydetektor.
+
+4.2.
 
 Membranfilter, PTFE-materiale, 0,45 μm.
 
+4.3.
+
 Membranfilter, 0,22 μm.
+
+4.4.
 
 Ultralydbad.
 
+4.5.
+
 Mekanisk risteapparat eller magnetrører.
 
+###### 5. Framgangsmåte
+
+5.1.
+
 Generelt
+
+5.1.1.
 
 Blindprøve
 
 For gjennomføring av gjenfinningsprøven (punkt 5.1.2) skal en blindprøve analyseres for å kontrollere at det verken er amprolium eller interfererende stoffer til stede. Blindprøven skal være av tilsvarende type som selve prøven, og amprolium eller interfererende stoffer må ikke påvises.
+
+5.1.2.
 
 Gjenfinningsprøve
 
@@ -3085,39 +5373,69 @@ En gjenfinningsprøve skal utføres ved å analysere blindprøven etter at den e
 
 Dersom det ikke finnes en blindprøve av tilsvarende type som selve prøven (se punkt 5.1.1), kan det alternativt utføres en gjenfinningsprøve ved tilsetning av standard. I slike tilfeller tilsettes prøven som skal analyseres, like mye amprolium som allerede er til stede i prøven. Denne prøven analyseres sammen med prøven uten økt konsentrasjon, og gjenfinningen kan beregnes ved subtraksjon.
 
+5.2.
+
 Ekstraksjon
+
+5.2.1.
 
 Premikser (innhold på < 1 % amprolium) og fôrvarer
 
 Vei opp 5–40 g av prøven med en nøyaktighet på 0,01 g, avhengig av amproliuminnholdet, og overfør til en 500 ml erlenmeyerkolbe. Tilsett 200 ml ekstraksjonsmiddel (punkt 3.8). Sett kolben i ultralydbad (punkt 4.4) i 15 minutter. Fjern kolben fra ultralydbadet og rist i én time på risteapparatet eller rør på magnetrøreren (punkt 4.5). Fortynn en delmengde av ekstraktet med mobil fase (punkt 3.6) til et amproliuminnhold på 0,5–2 μg/ml og bland (se merknad punkt 9.3). Filtrer 5–10 ml av denne fortynnede løsningen gjennom et membranfilter (punkt 4.2). Fortsett med HPLC-bestemmelse (punkt 5.3).
 
+5.2.2.
+
 Premikser (innhold på ≥ 1 % amprolium)
 
 Vei opp 1–4 g av premiksen med en nøyaktighet på 0 001 g, avhengig av amproliuminnholdet, og overfør til en 500 ml erlenmeyerkolbe. Tilsett 200 ml ekstraksjonsmiddel (punkt 3.8). Sett kolben i ultralydbad (punkt 4.4) i 15 minutter. Fjern kolben fra ultralydbadet og rist i én time på risteapparatet eller rør på magnetrøreren (punkt 4.5). Fortynn en delmengde av ekstraktet med mobil fase (punkt 3.6) til et amproliuminnhold på 0,5–2 μg/ml og bland. Filtrer 5–10 ml av denne fortynnede løsningen gjennom et membranfilter (punkt 4.2). Fortsett med HPLC-bestemmelse (punkt 5.3).
 
+5.3.
+
 HPLC-bestemmelse
+
+5.3.1.
 
 Parametrer
 
-Følgende betingelser er veiledende, andre betingelser kan brukes forutsatt at de gir samme resultater.Væskekromatografikolonne (punkt 4.1.1):125 mm × 4 mm, kationebytter Nucleosil 10 SA, 5 eller 10 µm kolonnepakning eller tilsvarendeMobil fase (punkt 3.6):Blanding av acetonitril (punkt 3.2), natriumdihydrogenfosfatløsning (punkt 3.4) og natriumperkloratløsning (punkt 3.5), 450 + 450 + 100 (v+v +v).Gjennomstrømningshastighet:0,7–1 ml/minDetektorbølgelengde:264 nmInjeksjonsvolum:100 μl
+Følgende betingelser er veiledende, andre betingelser kan brukes forutsatt at de gir samme resultater.
+
+|  |  |
+| --- | --- |
+| Væskekromatografikolonne (punkt 4.1.1): | 125 mm × 4 mm, kationebytter Nucleosil 10 SA, 5 eller 10 µm kolonnepakning eller tilsvarende |
+| Mobil fase (punkt 3.6): | Blanding av acetonitril (punkt 3.2), natriumdihydrogenfosfatløsning (punkt 3.4) og natriumperkloratløsning (punkt 3.5), 450 + 450 + 100 (v+v +v). |
+| Gjennomstrømningshastighet: | 0,7–1 ml/min |
+| Detektorbølgelengde: | 264 nm |
+| Injeksjonsvolum: | 100 μl |
 
 Kontroller stabiliteten til det kromatografiske systemet ved å injisere kalibreringsløsningen (punkt 3.7.3) som inneholder 1,0 μg/ml, flere ganger, til det oppnås konstante topphøyder og retensjonstider.
+
+5.3.2.
 
 Kalibreringskurve
 
 Injiser hver kalibreringsløsning (punkt 3.7.3) flere ganger og bestem gjennomsnittet av topphøydene (-arealene) for hver konsentrasjon. Trekk opp en kalibreringskurve ved bruk av de gjennomsnittlige topphøydene eller -arealene for kalibreringsløsningene som ordinater og de tilsvarende konsentrasjonene i μg/ml som abscisser.
 
+5.3.3.
+
 Prøveløsning
 
 Injiser prøveekstraktet (punkt 5.2) flere ganger ved bruk av samme mengde som for kalibreringsløsningene og bestem den gjennomsnittlige topphøyden (-arealet) av amproliumtoppene.
 
+###### 6. Beregning av resultater
+
 Bruk gjennomsnittshøyden (-arealet) for amproliumtoppene fra prøveløsningen til å bestemme prøveløsningens konsentrasjon i μg/ml ved hjelp av kalibreringskurven (punkt 5.3.2).
 
-Innholdet av amprolium w (mg/kg) i prøven beregnes ved hjelp av følgende formel: $$ w = \frac{V \cdot c \cdot f}{m} \left[ {mg}/{kg} \right] $$derV = ekstraksjonsmiddelets (punkt 3.8) volum i ml i henhold til punkt 5.2 (dvs. 200 ml),c = konsentrasjonen av amprolium i prøveekstraktet (punkt 5.2) i μg/ml,f = fortynningsfaktor i henhold til punkt 5.2m = prøvemengdens vekt i g
+Innholdet av amprolium w (mg/kg) i prøven beregnes ved hjelp av følgende formel: $$ w = \\frac{V \\cdot c \\cdot f}{m} \\left[ {mg}/{kg} \\right] $$derV = ekstraksjonsmiddelets (punkt 3.8) volum i ml i henhold til punkt 5.2 (dvs. 200 ml),c = konsentrasjonen av amprolium i prøveekstraktet (punkt 5.2) i μg/ml,f = fortynningsfaktor i henhold til punkt 5.2m = prøvemengdens vekt i g
+
+###### 7. Validering av resultatene
+
+7.1.
 
 Identitet
 
 Identiteten til analytten kan bekreftes ved kromatografi med tilsetting av kjent mengde standardstoff eller ved bruk av en diodearraydetektor som gjør det mulig å sammenligne spektrene til prøveekstraktet (punkt 5.2) og kalibreringsløsningen (punkt 3.7.3) som inneholder 2,0 μg/ml.
+
+7.1.1.
 
 Kromatografi med tilsetting av kjent mengde standardstoff
 
@@ -3125,26 +5443,59 @@ Konsentrasjonen i et prøveekstrakt (punkt 5.2) økes ved tilsetting av en passe
 
 Bare høyden av amproliumtoppen skal øke samtidig som det tas hensyn til både den tilsatte mengden og fortynningen av ekstraktet. Bredden av toppen, i halv høyde, skal være innenfor ± 10 % av den opprinnelige bredden av amproliumtoppen av prøveekstraktet uten økt konsentrasjon.
 
+7.1.2.
+
 Diodearraydeteksjon
 
 Resultatene vurderes etter følgende kriterier:Bølgelengden for maksimal absorpsjon for prøven og standardens spektre, målt ved toppens spiss på kromatogrammet, må være den samme innenfor en margin beregnet ut fra detektorsystemets oppløsningsevne. For diodearraydeteksjon er den vanligvis innenfor ±2 nm.Mellom 210 og 320 nm må prøven og standardens spektre, målt ved toppens spiss på kromatogrammet, ikke være forskjellige med hensyn til de delene av spekteret som ligger mellom 10 og 100 % av den relative absorbansen. Dette kriteriet er oppfylt når de samme maksima er til stede og avviket mellom spektrene ikke på noe observert punkt overskrider 15 % av standardanalyttens absorbans.Mellom 210 og 320 nm må spektrene til den voksende kurven, spissen og den avtagende kurven til prøveekstraktets topp ikke være forskjellige fra hverandre med hensyn til de delene av spekteret som ligger mellom 10 og 100 % av den relative absorbansen. Dette kriteriet er oppfylt når de samme maksima er til stede og avviket mellom spektrene ikke på noe observert punkt overskrider 15 % av spekterets absorpsjon i spissen.
 
 Dersom ett av disse kriteriene ikke er oppfylt, er forekomsten av analytten ikke bekreftet.
 
+7.2.
+
 Repeterbarhet
 
 Forskjellen mellom resultatene av to parallelle bestemmelser som utføres på samme prøve, må ikke overskride15 % av det høyeste resultatet for et innhold av amprolium på mellom 25 og 500 mg/kg,75 mg/kg for et innhold av amprolium på mellom 500 og 1 000 mg/kg,7,5 % av det høyeste resultatet for et innhold av amprolium på over 1 000 mg/kg.
+
+7.3.
 
 Gjenfinning
 
 For en (blind)prøve med økt konsentrasjon skal gjenfinningen være minst 90 %.
 
-I en undersøkelse foretatt ved flere laboratorier ble tre prøver av fjørfefôr (prøve 1–3), én prøve av mineralfôr (prøve 4) og én prøve av premiks (prøve 5) analysert. Resultatene er oppført i tabellen nedenfor:*Prøve 1
-(blindprøve)**Prøve 2**Prøve 3**Prøve 4**Prøve 5*V1414141415n5656565660gjennomsnitt [mg/kg]–45,51885 12925 140sr [mg/kg]–2,263,57178550CVr [%]–4,951,903,462,20sR [mg/kg]–2,9511,8266760CVR [%]–6,476,275,193,00nominelt innhold [mg/kg]–502005 00025 000L: antall laboratoriern: antall enkeltverdiersr: standardavvik for repeterbarhetCVr: variasjonskoeffisient for repeterbarhetsR: standardavvik for reproduserbarhetCVR: variasjonskoeffisient for reproduserbarhet.
+###### 8. Resultater av en undersøkelse foretatt ved flere laboratorier
+
+I en undersøkelse foretatt ved flere laboratorier ble tre prøver av fjørfefôr (prøve 1–3), én prøve av mineralfôr (prøve 4) og én prøve av premiks (prøve 5) analysert. Resultatene er oppført i tabellen nedenfor:
+
+|  | *Prøve 1<br>(blindprøve)* | *Prøve 2* | *Prøve 3* | *Prøve 4* | *Prøve 5* |
+| --- | --- | --- | --- | --- | --- |
+| V | 14 | 14 | 14 | 14 | 15 |
+| n | 56 | 56 | 56 | 56 | 60 |
+| gjennomsnitt [mg/kg] | – | 45,5 | 188 | 5 129 | 25 140 |
+| sr [mg/kg] | – | 2,26 | 3,57 | 178 | 550 |
+| CVr [%] | – | 4,95 | 1,90 | 3,46 | 2,20 |
+| sR [mg/kg] | – | 2,95 | 11,8 | 266 | 760 |
+| CVR [%] | – | 6,47 | 6,27 | 5,19 | 3,00 |
+| nominelt innhold [mg/kg] | – | 50 | 200 | 5 000 | 25 000 |
+
+- L: antall laboratorier
+- n: antall enkeltverdier
+- sr: standardavvik for repeterbarhet
+- CVr: variasjonskoeffisient for repeterbarhet
+- sR: standardavvik for reproduserbarhet
+- CVR: variasjonskoeffisient for reproduserbarhet.
+
+###### 9. Merknader
+
+9.1.
 
 Dersom prøven inneholder tiamin, ligger tiamintoppen i kromatogrammet like før amproliumtoppen. Når denne metoden følges, må amprolium og tiamin skilles. Dersom amprolium og tiamin ikke skilles med kolonnen (punkt 4.1.1) som brukes i denne metoden, erstattes inntil 50 % av acetonitrildelen av den mobile fasen (punkt 3.6) med metanol.
 
+9.2.
+
 Ifølge British Pharmacopeia viser spekteret for en amproliumløsning (c = 0,02 mol/l) i saltsyre (c = 0,1 mol/l) maksima ved 246 nm og 262 nm. Absorbansen skal være 0,84 ved 246 nm og 0,80 ved 262 nm.
+
+9.3.
 
 Ekstraktet må alltid fortynnes med mobil fase, for ellers kan retensjonstiden for amproliumtoppen forskyves betydelig på grunn av endringer i ionestyrken.
 
@@ -3176,19 +5527,57 @@ Semduramycininnhold skal bestemmes ved:analysemetoden fastsatt i EN 17299 Fôrva
 
 For anvendelsen av artikkel 34 nr. 2 bokstav a) i forordning [(EU) 2017/625](eu/32017r0625) er følgende EN-standarder relevante:EN ISO 30024 Fôrvarer – Bestemmelse av fytaseaktivitetEN 17050 Fôrvarer – metoder for prøvetaking og analyse – Bestemmelse av jod i fôrvarer ved ICP-MSEN 17550 Fôrvarer: Bestemmelse av karotenoider i dyrefôrblandinger og forblandinger ved hjelp av høyoppløselig væskekromatografi – UV-påvisning (HPLC-UV)EN 15784 Fôrvarer: Prøvetakings- og analysemetoder – Påvisning og telling av *Bacillus* spp.EN 15785 Fôrvarer: Prøvetakings- og analysemetoder – Isolering og telling av *Bifidobacterium* spp.EN 15786 Fôrvarer: Prøvetakings- og analysemetoder – Påvisning og telling av *Pediococcus* spp.EN 15787 Fôrvarer: Prøvetakings- og analysemetoder – Påvisning og telling av *Lactobacillus* spp. brukt som fôrtilsetningsstoffEN 15788 Fôrvarer: Prøvetakings- og analysemetoder – Påvisning og telling av *Enterococcus* (E. faecium) spp. brukt som fôrtilsetningsstoffEN 15789 Fôrvarer: Prøvetakings- og analysemetoder – Påvisning og telling av *Saccharomyces cerevisiae* brukt som fôrtilsetningsstoffEN 15510 Fôrvarer: Prøvetakings- og analysemetoder – Bestemmelse av kalsium, natrium, fosfor, magnesium, kalium, jern, sink, kobber, mangan, kobolt, molybden og bly ved hjelp av ICP-AES (for analyse av fôrtilsetningsstoffene kobolt og molybden)EN 15621 Fôrvarer: Prøvetakings- og analysemetoder – Bestemmelse av kalsium, natrium, fosfor, magnesium, kalium, svovel, jern, sink, kobber, mangan og kobolt etter trykkoppslutning ved ICP-AES (for analyse av fôrtilsetningsstoffet kobolt)EN 16159 Fôrvarer – Bestemmelse av selen ved hjelp av atomabsorpsjonsspektrometri ved hydridgenerering (HGAAS) etter oppslutning ved mikrobølger (oppslutning med 65 % salpetersyre og 30 % hydrogenperoksid) (for analyse av fôrtilsetningsstoffet selen)EN 17053: Fôrvarer: Prøvetakings- og analysemetoder – Bestemmelse av sporelementer, tungmetaller og andre elementer i fôr ved ICP-MS (multimetode) (for analyse av fôrtilsetningsstoffene kobolt, molybden og selen).
 
+◄**M8**
+
+►**M8**
+
 ### VEDLEGG V
 Analysemetoder for kontroll av uønskede stoffer i fôrvarer
 
 ### A. Bestemmelse av innholdet av dioksiner (PCDD/PCDF) og PCB
 
+###### Kapittel I
+
+Prøvetakingsmetoder og tolking av analyseresultater
+
+###### 1. Virkeområde og definisjoner
+
 Prøver beregnet på offentlig kontroll av innholdet av polyklorerte dibenzo-p-dioksiner (PCDD), polyklorerte dibenzofuraner (PCDF), dioksinlignende polyklorerte bifenyler (PCB)27 og ikke-dioksinlignende PCB i fôrvarer skal tas i samsvar med bestemmelsene i vedlegg I.
 
 De kvantitative kravene i forbindelse med kontroll av stoffer eller produkter som er jevnt fordelt i fôrvarene, som fastsatt i punkt 5.1 i vedlegg I, får anvendelse. Samleprøver som oppnås på denne måten, skal anses som representative for de partiene eller delpartiene de er tatt fra. På grunnlag av det innholdet som påvises i laboratorieprøvene, skal det fastslås om grenseverdiene fastsatt i direktiv [2002/32/EF](eu/32002l0032) er overholdt.
 
-I denne delen får definisjonene fastsatt i vedlegg I til Kommisjonens gjennomføringsforordning [(EU) 2021/808](eu/32021r0808)28 anvendelse.*Forbindelse**TEF-verdi**Forbindelse**TEF-verdi*Dibenzo-p-dioksiner («PCDD») og dibenzo-p-furaner («PCDF»)«Dioksinlignende» PCB
-Non-orto PCB + mono-orto PCB2,3,7,8-TCDD11,2,3,7,8-PeCDD1Non-orto PCB1,2,3,4,7,8-HxCDD0,1PCB 770,00011,2,3,6,7,8-HxCDD0,1PCB 810,00031,2,3,7,8,9-HxCDD0,1PCB 1260,11,2,3,4,6,7,8-HpCDD0,01PCB 1690,03OCDD0,0003Mono-orto PCB2,3,7,8-TCDF0,1PCB 1050,000031,2,3,7,8-PeCDF0,03PCB 1140,000032,3,4,7,8-PeCDF0,3PCB 1180,000031,2,3,4,7,8-HxCDF0,1PCB 1230,000031,2,3,6,7,8-HxCDF0,1PCB 1560,000031,2,3,7,8,9-HxCDF0,1PCB 1570,000032,3,4,6,7,8-HxCDF0,1PCB 1670,000031,2,3,4,6,7,8-HpCDF0,01PCB 1890,000031,2,3,4,7,8,9-HpCDF0,01OCDF0,0003
+I denne delen får definisjonene fastsatt i vedlegg I til Kommisjonens gjennomføringsforordning [(EU) 2021/808](eu/32021r0808)28 anvendelse.
+
+| *Forbindelse* | *TEF-verdi* | *Forbindelse* | *TEF-verdi* |
+| --- | --- | --- | --- |
+| Dibenzo-p-dioksiner («PCDD») og dibenzo-p-furaner («PCDF») |  | «Dioksinlignende» PCB<br>Non-orto PCB + mono-orto PCB |  |
+| 2,3,7,8-TCDD | 1 |  |  |
+| 1,2,3,7,8-PeCDD | 1 | Non-orto PCB |  |
+| 1,2,3,4,7,8-HxCDD | 0,1 | PCB 77 | 0,0001 |
+| 1,2,3,6,7,8-HxCDD | 0,1 | PCB 81 | 0,0003 |
+| 1,2,3,7,8,9-HxCDD | 0,1 | PCB 126 | 0,1 |
+| 1,2,3,4,6,7,8-HpCDD | 0,01 | PCB 169 | 0,03 |
+| OCDD | 0,0003 | Mono-orto PCB |  |
+| 2,3,7,8-TCDF | 0,1 | PCB 105 | 0,00003 |
+| 1,2,3,7,8-PeCDF | 0,03 | PCB 114 | 0,00003 |
+| 2,3,4,7,8-PeCDF | 0,3 | PCB 118 | 0,00003 |
+| 1,2,3,4,7,8-HxCDF | 0,1 | PCB 123 | 0,00003 |
+| 1,2,3,6,7,8-HxCDF | 0,1 | PCB 156 | 0,00003 |
+| 1,2,3,7,8,9-HxCDF | 0,1 | PCB 157 | 0,00003 |
+| 2,3,4,6,7,8-HxCDF | 0,1 | PCB 167 | 0,00003 |
+| 1,2,3,4,6,7,8-HpCDF | 0,01 | PCB 189 | 0,00003 |
+| 1,2,3,4,7,8,9-HpCDF | 0,01 |  |  |
+| OCDF | 0,0003 |  |  |
 
 I tillegg til disse definisjonene menes i denne delen med«screeningmetoder» metoder for utvelging av prøver der innholdet av PCDD/PCDF og dioksinlignende PCB overskrider grenseverdiene eller tiltaksgrensene. De skal sikre en kostnadseffektiv og høy analysekapasitet, noe som vil øke muligheten til å oppdage nye hendelser som innebærer høy eksponering og helsefare for forbrukerne. Screeningmetodene skal være basert på bioanalytiske metoder eller GC-MS-metoder. Prøveresultater som er høyere enn den terskelverdien som brukes til å kontrollere at grenseverdien er overholdt, skal kontrolleres ved en fullstendig ny analysering av den opprinnelige prøven med en bekreftelsesmetode,«bekreftelsesmetoder» metoder som gir fullstendige eller utfyllende opplysninger slik at PCDD/PCDF og dioksinlignende PCB på en entydig måte kan identifiseres og mengdebestemmes ved grenseverdien eller eventuelt ved tiltaksgrensen. I disse metodene benyttes gasskromatografi/massespektrometri med høy oppløsning (GC-HRMS) eller gasskromatografi/tandemmassespektrometri (GC-MS/MS).
+
+27 Tabell over toksisitetsekvivalensfaktorer (TEF) for PCDD, PCDF og dioksinlignende PCB: WHO-TEF til vurdering av risikoen for mennesker på grunnlag av konklusjonene fra Verdens helseorganisasjons ekspertmøte i Genève i juni 2005 om et internasjonalt program for kjemikaliesikkerhet (IPCS) (Martin van den Berg et al., The 2005 World Health Organization Re-evaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-like Compounds. Toxicological Sciences 93(2), 223–241 (2006)).
+
+28 Kommisjonens gjennomføringsforordning [(EU) 2021/808](eu/32021r0808) av 22. mars 2021 om analysemetoders ytelse for restmengder av farmakologisk virksomme stoffer som brukes i dyr bestemt til næringsmiddelproduksjon og om tolking av resultater, samt om metodene som skal brukes til prøvetaking, og om oppheving av vedtak [2002/657/EF](eu/32002d0657) og [98/179/EF](eu/31998d0179) (EUT L 180 av 21.5.2021, s. 84).
+
+###### 2. Partiets eller delpartiets samsvar med grenseverdien
+
+2.1.
 
 Ikke-dioksinlignende PCB
 
@@ -3197,6 +5586,8 @@ Partiet eller delpartiet er i samsvar med grenseverdien dersom analyseresultatet
 Den utvidede måleusikkerheten beregnes ved bruk av en dekningsfaktor på 2 som gir et konfidensnivå på ca. 95 %. Et parti eller et delparti oppfyller ikke kravene dersom gjennomsnittet av de målte verdiene, minus den utvidede usikkerheten for gjennomsnittsverdien, er høyere enn den fastsatte grenseverdien.
 
 De reglene som er nevnt i ovenstående ledd i dette nummer, gjelder for resultatet av analyserte prøver beregnet på offentlig kontroll. Når det gjelder analyser for uttalelse fra en annen sakkyndig eller referanseformål, gjelder nasjonale regler.
+
+2.2.
 
 PCDD/PCDF og dioksinlignende PCB
 
@@ -3212,11 +5603,35 @@ Summen av den beregnede utvidede usikkerheten for de separate analyseresultatene
 
 De reglene som er nevnt i ovenstående ledd i dette nummer, gjelder for resultatet av analyserte prøver beregnet på offentlig kontroll. Når det gjelder analyser for klageadgangs- eller referanseformål, gjelder nasjonale regler.
 
+29 Prinsippene beskrevet i «Guidance Document on Measurement Uncertainty for Laboratories performing PCDD/F and PCB Analysis using Isotope Dilution Mass Spectrometry» (https://food.ec.europa.eu/system/files/2017-05/animal-feed-guidance_docu ment_pcdd-f_pcb_en.pdf) skal følges når dette er relevant.
+
+30 Begrepet «øvre konsentrasjon» innebærer at bidraget fra hver forbindelse som ikke er mengdebestemt, settes lik kvantifiseringsgrensen. Begrepet «nedre konsentrasjon» innebærer at bidraget fra hver forbindelse som ikke er mengdebestemt, settes lik null. Begrepet «mellomkonsentrasjon» innebærer at bidraget fra hver forbindelse som ikke er mengdebestemt, settes lik halvparten av kvantifiseringsgrensen.
+
+31 Dobbeltanalyse: En separat analyse av de relevante analyttene ved hjelp av en delmengde nummer to av den samme homogeniserte prøven. Generelt gjelder kravet om dobbeltanalyse som fastsatt i vedlegg II, kapittel C, punkt 3. For metoder der det brukes en 13C-merket intern standard for de relevante analyttene, er dobbeltanalyse imidlertid bare nødvendig dersom resultatet av den første bestemmelsen ikke samsvarer. Prøvene må analyseres to ganger for å utelukke muligheten for intern krysskontaminering eller utilsiktet forveksling av prøver. Dersom analysen utføres i forbindelse med en forurensningshendelse, kan bekreftelse ved en analyse nummer to sløyfes dersom de prøvene som er tatt ut til analyse, kan spores til forurensningen, og det konstaterte innholdet er betydelig over grenseverdien.
+
+32 Begrepet «øvre konsentrasjon» innebærer at bidraget til toksisitetsekvivalenten (TEQ) fra hver forbindelse som ikke er mengdebestemt, settes lik kvantifiseringsgrensen. Begrepet «nedre konsentrasjon» innebærer at bidraget til TEQ fra hver forbindelse som ikke er mengdebestemt, settes lik null. Begrepet «mellomkonsentrasjon» innebærer at bidraget til TEQ fra hver forbindelse som ikke er mengdebestemt, settes lik halvparten av verdien for kvantifiseringsgrensen.
+
+33 Generelt gjelder kravet om dobbeltanalyse som fastsatt i vedlegg II, kapittel C, punkt 3. For bekreftelsesmetoder der det brukes en 13C-merket intern standard for de relevante analyttene, er dobbeltanalyse imidlertid bare nødvendig dersom resultatet av den første bestemmelsen ikke samsvarer. Prøvene må analyseres to ganger for å utelukke muligheten for intern krysskontaminering eller utilsiktet forveksling av prøver. Dersom analysen utføres i forbindelse med en forurensningshendelse, kan bekreftelse ved en analyse nummer to sløyfes dersom de prøvene som er tatt ut til analyse, kan spores til forurensningen, og det konstaterte innholdet er betydelig over grenseverdien.
+
+###### 3. Resultater som overskrider tiltaksgrensene fastsatt i vedlegg II til direktiv [2002/32/EF](eu/32002l0032)
+
 Tiltaksgrenser er et verktøy for utvelging av prøver når det er nødvendig å identifisere en forurensningskilde og treffe tiltak for å redusere eller fjerne den. Hensiktsmessige terskelverdier for utvelging av disse prøvene skal fastsettes ved hjelp av screeningmetoder. Dersom betydelig arbeid er nødvendig for å identifisere en forurensningskilde og redusere eller fjerne den, er det hensiktsmessig å bekrefte overskridelsen av tiltaksgrensen gjennom en dobbeltanalyse med en bekreftelsesmetode og ved å ta hensyn til den utvidede måleusikkerheten34.
+
+34 Samme forklaring og krav om dobbeltanalyse for kontroll av tiltaksgrenser som for grenseverdier i fotnote nr. 5.
+
+###### Kapittel II
+
+Tillaging av prøver og krav til analysemetoder som brukes ved offentlig kontroll av innholdet av dioksiner (PCDD/PCDF) og dioksinlignende PCB i fôrvarer
+
+###### 1. Anvendelsesområde
 
 Kravene fastsatt i dette kapittel gjelder når fôrvarer analyseres med henblikk på offentlig kontroll av innholdet av 2,3,7,8-substituert PCDD/PCDF og dioksinlignende PCB, og for tillaging av prøver samt analysekrav med henblikk på andre reguleringsformål, herunder kontroller som foretas av driftsansvarlige for fôrforetak for å sikre samsvar med bestemmelsene i europaparlaments- og rådsforordning [(EF) nr. 183/2005](eu/32005r0183)35.
 
 Overvåking av innholdet av PCDD/PCDF og dioksinlignende PCB i fôrvarer kan utføres ved hjelp av to forskjellige typer analysemetoder:ScreeningmetoderMålet med screeningmetoder er å velge ut prøver der innholdet av PCDD/PCDF og dioksinlignende PCB overskrider grenseverdiene eller tiltaksgrensene. Screeningmetodene skal sikre en kostnadseffektiv og høy analysekapasitet, noe som vil øke muligheten til å oppdage nye hendelser som innebærer høy eksponering og helsefare for forbrukerne. Bruken av disse metodene skal ta sikte på å unngå falskt negative resultater. Screeningmetoder kan omfatte bioanalytiske metoder og GC-MS-metoder.Med screeningmetoder sammenlignes analyseresultatet med en terskelverdi, noe som gir et ja/nei-svar på om grenseverdien eller tiltaksgrensen kan være overskredet. Konsentrasjonen av PCDD/PCDF og summen av PCDD/PCDF og dioksinlignende PCB i prøver som mistenkes for ikke å overholde grenseverdien, skal bestemmes eller bekreftes ved hjelp av en bekreftelsesmetode.I tillegg kan screeningmetoder gi en indikasjon på innholdet av PCDD/PCDF og dioksinlignende PCB i prøven. Ved bruk av bioanalytiske screeningmetoder uttrykkes resultatet som bioanalytiske ekvivalenter (BEQ), mens det ved bruk av fysikalsk-kjemiske GC-MS-metoder uttrykkes som toksisitetsekvivalenter (TEQ). Resultatene, i form av tallverdier, som oppnås ved bruk av screeningmetoder, er egnet til å påvise overholdelse eller mistenkt manglende overholdelse eller overskridelse av tiltaksgrensene, og gir en indikasjon på de aktuelle verdiene dersom prøvene må følges opp med bekreftelsesmetoder. De er ikke egnet til å vurdere bakgrunnsnivåer, beregne inntak, følge utviklingstrekk over tid eller til å foreta en ny vurdering av tiltaks- og grenseverdiene.BekreftelsesmetoderBekreftelsesmetoder gjør det mulig entydig å identifisere og mengdebestemme PCDD/PCDF og dioksinlignende PCB i en prøve og innhente fullstendige opplysninger om innholdet av enkeltforbindelser. Disse metodene gjør det derfor mulig å kontrollere grenseverdiene og tiltaksgrensene og å bekrefte resultatene av screeningmetodene. Resultatene kan dessuten brukes til andre formål, f.eks. til å bestemme lave bakgrunnsnivåer ved overvåking av fôrvarer, følge utviklingstrekk over tid, vurdere eksponering og bygge opp en database for eventuelt å kunne vurdere tiltaksgrenser og grenseverdier på nytt. De er også viktige for å fastslå forbindelsesmønstre for å påvise kilden til en eventuell forurensning. Slike metoder omfatter bruk av GC-HRMS. GC-MS/MS kan også brukes til å bekrefte om grenseverdien er overholdt eller ikke.
+
+35 Europaparlaments- og rådsforordning [(EF) nr. 183/2005](eu/32005r0183) av 12. januar 2005 om fastsettelse av krav til fôrvarehygiene (EUT L 35 av 8.2.2005, s. 1).
+
+###### 2. Bakgrunn
 
 Ved beregning av TEQ-konsentrasjoner skal konsentrasjonen av de enkelte stoffene i en gitt prøve multipliseres med sin respektive toksisitetsekvivalensfaktor (TEF) (se fotnote nr. 1 i kapittel I), og deretter summeres for å gi den samlede konsentrasjonen av dioksinlignende forbindelser uttrykt som TEQ.
 
@@ -3228,79 +5643,164 @@ Bioanalytiske screeningmetoder gir ikke resultater på forbindelsesnivå, men gi
 
 Screening- og bekreftelsesmetoder skal bare brukes til kontroll av en bestemt matrise dersom metodene er tilstrekkelig følsomme til å påvise nivåer ved tiltaksgrensen eller grenseverdien på en pålitelig måte.
 
+36 Bioanalytiske metoder er ikke spesielt utformet for forbindelsene i TEF-systemet. I prøveekstraktet kan det også finnes andre strukturelt beslektede AhR-aktive forbindelser som kan bidra til samlet respons. Bioanalytiske resultater kan derfor ikke være et estimat, men snarere en indikasjon på TEQ-nivået i prøven.
+
+###### 3. Krav til kvalitetssikring
+
+3.1.
+
 Det skal treffes tiltak for å unngå krysskontaminering på alle trinn i prøvetakings- og analyseprosessen.
+
+3.2.
 
 Prøvene skal oppbevares og transporteres i beholdere av glass, aluminium, polypropylen eller polyetylen som er egnet for oppbevaring uten at innholdet av PCDD/PCDF og dioksinlignende PCB i prøvene påvirkes. Spor av papirstøv skal fjernes fra prøvebeholderen.
 
+3.3.
+
 Oppbevaring og transport skal foregå på en slik måte at fôrvareprøven bevares i uendret stand.
+
+3.4.
 
 Om nødvendig skal hver laboratorieprøve finmales og blandes grundig ved hjelp av en metode som sikrer fullstendig homogenisering (f.eks. så finmalt at prøven kan siktes i en sikt med en maskevidde på 1 mm). Prøvene skal tørkes før de males dersom vanninnholdet er for høyt.
 
+3.5.
+
 Reagenser, glassvarer og annet utstyr skal kontrolleres med tanke på mulig påvirkning av de TEQ- eller BEQ-baserte resultatene.
+
+3.6.
 
 Det skal utføres en blindanalyse ved at hele analyseprosessen gjennomføres, men uten prøven.
 
+3.7.
+
 For bioanalytiske metoder skal det kontrolleres at alle glassvarer og løsemidler som brukes i analysene, ikke inneholder forbindelser som kan interferere med påvisningen av målforbindelser i måleområdet. Glassvarer skal skylles med løsemidler og/eller varmes opp til en temperatur som er tilstrekkelig høy til å fjerne spor av PCDD/PCDF, dioksinlignende forbindelser og interfererende forbindelser fra overflatene.
+
+3.8.
 
 Den prøvemengden som brukes til ekstraksjon, skal være stor nok til å oppfylle kravene om et tilstrekkelig lavt måleområde, herunder grenseverdi- eller tiltaksgrensekonsentrasjonene.
 
+3.9.
+
 De enkelte framgangsmåtene for tillaging av prøver som brukes for de aktuelle produktene, skal være i samsvar med internasjonalt anerkjente retningslinjer, dvs. EN ISO 6498.
+
+###### 4. Krav til laboratorier
+
+4.1.
 
 I samsvar med bestemmelsene i forordning [(EU) 2017/625](eu/32017r0625) skal laboratoriene være akkreditert av et godkjent organ som oppfyller kravene i ISO/IEC Guide 58, for å sikre at de anvender metoder for kvalitetssikring av sine analyser. Laboratoriene skal være akkreditert i henhold til standarden EN ISO/IEC 17025. Prinsippene som beskrevet i de tekniske retningslinjene for vurdering av måleusikkerhet og kvantifiseringsgrenser for PCDD/PCDF- og PCB-analyse skal følges37.
 
+4.2.
+
 Laboratoriets egnethet skal dokumenteres ved løpende deltakelse i undersøkelser som foretas ved flere laboratorier, for å bestemme PCDD/PCDF og dioksinlignende PCB i relevante fôrmatriser og konsentrasjonsområder.
 
+4.3.
+
 Laboratorier som bruker screeningmetoder til rutinekontroll av prøver, skal ha et tett samarbeid med laboratorier som bruker bekreftelsesmetoden, både for kvalitetskontroll og for å bekrefte analyseresultatet for mistenkte prøver.
+
+37 «Guidance Document on Measurement Uncertainty for Laboratories performing PCDD/F and PCB Analysis using Isotope Dilution Mass Spectrometry» (https://food.ec.europa.eu/system/files/2017-05/animal-feed-guidance_document_pcdd-f_pcb_en.pdf) og «Guidance Document on the Estimation of LOD and LOQ for Measurements in the Field of Contaminants in Feed and Food» (https://food.ec.europa.eu/system/files/2016-10/cs_contaminants_sampling_analysis-report_2004_en.pdf).
+
+###### 5. Grunnleggende krav til analysemetoder for dioksiner (PCDD/PCDF) og dioksinlignende PCB
+
+5.1.
 
 Lavt måleområde og lave kvantifiseringsgrenser
 
 Noen PCDD-/PCDF-forbindelser er ekstremt giftige, og de påviselige mengdene skal derfor ligge i øvre femtogramområde (10–15 g). For de fleste PCB-forbindelsene er det tilstrekkelig med en kvantifiseringsgrense i nanogram-området (10–9 g). Ved måling av de mer giftige dioksinlignende PCB-forbindelsene (særlig non-orto-substituerte forbindelser) skal nedre del av måleområdet nå de lave pikogram-nivåene (10–12 g). For alle andre PCB-forbindelser er det tilstrekkelig med en kvantifiseringsgrense i nanogram-området (10–9 g).
 
+5.2.
+
 Høy selektivitet (spesifisitet)
+
+5.2.1.
 
 Det må kunne skilles mellom PCDD/PCDF og dioksinlignende PCB og en rekke andre potensielt interfererende forbindelser som ekstraheres samtidig, og som forekommer i konsentrasjoner som kan være flere ganger høyere enn de relevante analyttenes.
 
 For GC/MS-metoder må det kunne skilles mellom ulike forbindelser, f.eks. mellom giftige (som de sytten 2,3,7,8-substituerte PCDD-ene og PCDF-ene og de tolv dioksinlignende PCB-ene) og andre forbindelser.
 
+5.2.2.
+
 Bioanalytiske metoder skal kunne påvise målforbindelser som summen av PCDD/PCDF og/eller dioksinlignende PCB. Ved rensing av prøven skal målet være å fjerne forbindelser som forårsaker falskt positive resultater, eller forbindelser som kan svekke responsen og dermed forårsake falskt negative resultater.
+
+5.3.
 
 Høy nøyaktighet (riktighet og presisjon, gjenfinningsgrad ved biologisk prøving)
 
+5.3.1.
+
 For GC-MS-metoder skal bestemmelsen gi et gyldig anslag over den faktiske konsentrasjonen i en prøve. Høy nøyaktighet er nødvendig for å unngå at et resultat av en analyse avvises fordi det TEQ-nivået som er bestemt, ikke er tilstrekkelig pålitelig. Nøyaktighet uttrykkes som riktighet (differansen mellom den målte gjennomsnittsverdien for en analytt i et sertifisert materiale og dens sertifiserte verdi, uttrykt i prosent av denne verdien) og presisjon (RSDR, det vil si relativt standardavvik beregnet ut fra resultater oppnådd under reproduserbarhetsforhold).
+
+5.3.2.
 
 For bioanalytiske metoder skal gjenfinningsgraden ved biologisk prøving bestemmes. Med gjenfinningsgrad ved biologisk prøving menes BEQ-nivået beregnet ut fra TCDD- eller PCB 126-kalibreringskurven, korrigert for blindprøven, og deretter delt på TEQ-nivået bestemt med bekreftelsesmetoden. Formålet er å korrigere for faktorer som tap av PCDD/PCDF og dioksinlignende forbindelser i ekstraksjons- og rensefasene, samtidig ekstraherte forbindelser som øker eller svekker responsen (agonistisk og antagonistisk virkning), kvaliteten på kurvetilpasningen eller forskjeller mellom verdiene for toksisitetsekvivalensfaktor (TEF) og relativ potens (REP). Gjenfinningsgraden ved biologisk prøving beregnes ut fra egnede referanseprøver med representative forbindelsesmønstre nær det aktuelle nivået.
 
+5.4.
+
 Validering i grenseverdiområdet og alminnelige kvalitetskontrolltiltak
+
+5.4.1.
 
 Laboratoriene skal dokumentere en metodes ytelse i grenseverdiområdet, f.eks. 0,5, 1 og 2 ganger grenseverdien, med en akseptabel variasjonskoeffisient for gjentatte analyser under validering og rutineanalysering.
 
+5.4.2.
+
 Som interne kvalitetskontrolltiltak skal det foretas jevnlige blindprøvekontroller og tilsetningsforsøk eller analyser av kontrollprøver (om mulig helst med sertifisert referansemateriale). Kvalitetskontrolldiagrammer for blindprøvekontroller, tilsetningsforsøk eller analysering av kontrollprøver skal utarbeides og kontrolleres for å sikre at analyseytelsen oppfyller kravene.
+
+5.5.
 
 Kvantifiseringsgrense
 
+5.5.1.
+
 For bioanalytiske screeningmetoder er det ikke påkrevd å fastsette en kvantifiseringsgrense (LOQ), men det skal dokumenteres at metoden kan skille mellom blindprøve- og terskelverdien. Når et BEQ-nivå bestemmes, skal det fastsettes et rapporteringsnivå for å håndtere prøver som viser en respons under dette nivået. Det skal dokumenteres at rapporterings-nivået er forskjellig fra metodens blindprøver med en faktor på minst tre med en respons under måleområdet. Det skal derfor beregnes ut fra prøver som har et innhold av målforbindelser nær det påkrevde minstenivået, og ikke ut fra et signal-/støyforhold eller en blindprøve.
+
+5.5.2.
 
 For bekreftelsesmetoder skal LOQ være på ca. én femdel av grenseverdien.
 
+5.6.
+
 Analysekriterier
 
-For å sikre pålitelige resultater av bekreftelses- eller screeningmetoder skal følgende kriterier være oppfylt i grenseverdi-området for henholdsvis TEQ- og BEQ-verdien, bestemt enten som samlet TEQ eller samlet BEQ (summen av PCDD/PCDF og dioksinlignende PCB) eller separat for PCDD/PCDF og dioksinlignende PCB:*Screening med bioanalytiske eller fysikalsk-kjemiske metoder*BekreftelsesmetoderAndel falskt negative prøver*< 5 %Riktighet– 20 % til + 20 %Repeterbarhet (RSDr)< 20 %Intermediær presisjon (RSDR)< 25 %< 15 %
+For å sikre pålitelige resultater av bekreftelses- eller screeningmetoder skal følgende kriterier være oppfylt i grenseverdi-området for henholdsvis TEQ- og BEQ-verdien, bestemt enten som samlet TEQ eller samlet BEQ (summen av PCDD/PCDF og dioksinlignende PCB) eller separat for PCDD/PCDF og dioksinlignende PCB:
+
+|  | *Screening med bioanalytiske eller fysikalsk-kjemiske metoder* | Bekreftelsesmetoder |
+| --- | --- | --- |
+| Andel falskt negative prøver\* | < 5 % |  |
+| Riktighet |  | – 20 % til + 20 % |
+| Repeterbarhet (RSDr) | < 20 % |  |
+| Intermediær presisjon (RSDR) | < 25 % | < 15 % |
+
+\* Med hensyn til grenseverdiene.
+
+5.7.
 
 Særlige krav til screeningmetoder
 
+5.7.1.
+
 Både GC-MS-metoder og bioanalytiske metoder kan brukes til screening. Ved bruk av GC-MS-metoder gjelder kravene fastsatt i punkt 6. For cellebaserte bioanalytiske metoder er det fastsatt særlige krav i punkt 7.
+
+5.7.2.
 
 Laboratorier som bruker screeningmetoder til rutinekontroll av prøver, skal ha et tett samarbeid med laboratorier som bruker bekreftelsesmetoden.
 
+5.7.3.
+
 Screeningmetodens ytelse skal kontrolleres i forbindelse med rutineanalyser ved hjelp av analysekvalitetskontroll og løpende metodevalidering. Det skal foreligge et løpende program for kontroll av negative resultater.
+
+5.7.4.
 
 Kontroll av mulig hemming av cellerespons og cytotoksisitet:
 
 Ved rutinemessig screening skal 20 % av prøveekstraktene måles med og uten tilsetning av 2,3,7,8-TCDD ved grense-verdien eller tiltaksgrensen for å kontrollere om responsen kan være hemmet av interfererende stoffer i prøveekstraktet. Den målte konsentrasjonen i prøven med tilsetning skal sammenlignes med summen av konsentrasjonen i ekstraktet uten tilsetning og tilsetningskonsentrasjonen. Dersom den målte konsentrasjonen er mer enn 25 % lavere enn den beregnede konsentrasjonen (summen), tyder dette på at signalet kan være hemmet, og den aktuelle prøven skal da gjennomgå en bekreftende analyse med GC-HRMS. Resultatene skal kontrolleres ved hjelp av kvalitetskontrolldiagrammer.
 
+5.7.5.
+
 Kvalitetskontroll av negative prøver:
 
 Om lag 2–10 % av de negative prøvene, avhengig av prøvematrise og laboratoriets erfaringsnivå, skal bekreftes med GC-HRMS.
+
+5.7.6.
 
 Bestemmelse av andelen falskt negative prøver på grunnlag av kvalitetskontrolldata:
 
@@ -3308,35 +5808,63 @@ Andelen falskt negative resultater fra screening av prøver som ligger under og 
 
 Selv om formålet med screeningprøver fortrinnsvis er å oppdage prøver som overskrider tiltaksgrensen, er det grenseverdien som er kriteriet for å bestemme andelen falskt negative prøver, idet det tas hensyn til bekreftelsesmetodens utvidede måleusikkerhet.
 
+5.7.7.
+
 Potensielt positive prøver fra screeningen skal alltid kontrolleres gjennom en fullstendig, ny analyse av den opprinnelige prøven ved bruk av en bekreftelsesmetode. Disse prøvene kan også brukes til å vurdere andelen falskt positive prøver. For screeningmetoder skal andelen falskt positive prøver være den andelen av resultatene som bekreftes som negative ved hjelp av en bekreftende analyse, selv om prøven i en tidligere screening er erklært som potensielt positiv. Vurderingen av fordelene med screeningmetoden skal baseres på en sammenligning av falskt positive prøver og det samlede antallet prøver som er undersøkt. Andelen skal være tilstrekkelig lav til at det lønner seg å bruke en screeningmetode.
+
+5.7.8.
 
 Bioanalytiske metoder skal under valideringsforhold gi en gyldig indikasjon på TEQ-nivået, beregnet og uttrykt i BEQ.
 
 Også for bioanalytiske metoder som gjennomføres under repeterbarhetsforhold, vil intern RSDr normalt være lavere enn under reproduserbarhetsforhold (RSDR).
 
+###### 6. Særlige krav til GC-MS-metoder som skal overholdes i forbindelse med screening eller bekreftelse
+
+6.1.
+
 Akseptabel differanse mellom WHO-TEQ-resultater med hensyn til øvre og nedre konsentrasjon
 
 Differansen mellom øvre og nedre konsentrasjon skal ikke overskride 20 % ved bekreftelse av overskridelsen av grenseverdi eller ved behov for tiltaksgrenser.
 
+6.2.
+
 Kontroll av gjenfinning
+
+6.2.1.
 
 For å validere analysemetoden må det tilsettes 13C-merkede 2,3,7,8-klorsubstituerte interne PCDD-/PCDF-standarder og 13C-merkede interne dioksinlignende PCB-standarder helt i begynnelsen av analysemetoden, f.eks. før ekstraksjon. Det skal tilsettes minst én forbindelse for hver av de tetra- til okta-klorerte homologe gruppene av PCDD/PCDF og minst én forbindelse for hver av de homologe gruppene for dioksinlignende PCB (alternativt minst én forbindelse for hver valgte massespektrometriske ioneregistreringsfunksjon som brukes til kontroll av PCDD/PCDF og dioksinlignende PCB). Når det gjelder bekreftelsesmetoder, skal alle de sytten 13C-merkede 2,3,7,8-substituerte interne PCDD-/PCDF-standardene og alle de tolv 13C-merkede interne dioksinlignende PCB-standardene brukes.
 
+6.2.2.
+
 Ved hjelp av relevante kalibreringsløsninger skal dessuten relative responsfaktorer bestemmes for forbindelser som ikke tilsettes en 13C-merket analog.
+
+6.2.3.
 
 For fôrvarer av vegetabilsk og animalsk opprinnelse som inneholder mindre enn 10 % fett, skal interne standarder tilset-tes før ekstraksjon. For fôrvarer av animalsk opprinnelse som inneholder mer enn 10 % fett, skal de interne standardene tilsettes enten før eller etter ekstraksjonen av fett. Det skal foretas en hensiktsmessig validering av ekstraksjonseffektiviteten avhengig av i hvilken fase de interne standardene tilsettes.
 
+6.2.4.
+
 Før analysering med GC-MS skal det tilsettes én eller to gjenfinningsstandarder (surrogatstandarder).
+
+6.2.5.
 
 Gjenfinningen må kontrolleres. For bekreftelsesmetoder skal gjenfinningen av de enkelte interne standardene ligge i området 60–120 %. For enkeltforbindelser, særlig visse hepta- og okta-klorerte dibenzo-p-dioksiner og dibenzofuraner, skal lavere eller høyere gjenfinning aksepteres, forutsatt at deres bidrag til TEQ-verdien ikke utgjør mer enn 10 % av den samlede TEQ-verdien (basert på summen av PCDD/PCDF og dioksinlignende PCB). Ved bruk av GC-MS-screeningmetoder skal gjenfinningen ligge i området 30–140 %.
 
+6.3.
+
 Fjerning av forstyrrende stofferPCDD/PCDF skal separeres fra forstyrrende klorerte forbindelser som ikke-dioksinlignende PCB og klorerte difenyletere ved hjelp av egnede kromatografiteknikker (fortrinnsvis med florisil-, aluminiumoksid- og/eller karbonkolonne).Gasskromatografisk separasjon av isomerer skal være < 25 % fra topp til topp mellom 1,2,3,4,7,8-HxCDF og 1,2,3,6,7,8-HxCDF.
+
+6.4.
 
 Kalibrering med standardkurve
 
 Kalibreringskurveområdet skal dekke det relevante grenseverdi- eller tiltaksgrenseområdet.
 
+6.5.
+
 Særlige krav til bekreftelsesmetoderFor GC-HRMS:Ved HRMS skal oppløsningen normalt være høyere enn eller lik 10 000 for hele masseområdet ved 10 % av topp-høydene.Ytterligere kriterier for identifisering og bekreftelse beskrevet i internasjonalt anerkjente standarder, for eksempel i standarden EN 16215:2012 (Fôrvarer – Bestemmelse av dioksiner og dioksinliknende PCB ved GC/HRMS og av indikator-PCB ved GC/HRMS) og/eller i EPA-metode 1613 og 1668 som revidert, skal oppfylles.For GC-MS/MS:Kontroll av minst to bestemte morioner, hvert med ett bestemt tilsvarende datterion fra overgangen, for alle merkede og umerkede analytter innenfor analysens virkeområde.Høyeste tillatte toleranse for relativ ioneintensitet på ± 15 % for utvalgte datterioner fra overgangen sammenlignet med beregnede eller målte verdier (gjennomsnittet av kalibreringsstandarder) ved identiske MS/MS-forhold, særlig kollisjonsenergi og kollisjonsgasstrykk, for hver overgang av en analytt.Oppløsningen for hver kvadrupol skal minst være lik eller bedre enn enhetsmasseoppløsningen (enhetsmasseoppløsning: tilstrekkelig oppløsning til å skille to topper i en masseenhet) for å gjøre mulig interferens med de relevante analyttene så liten som mulig.Ytterligere kriterier beskrevet i internasjonalt anerkjente standarder, for eksempel i standarden EN 16215:2012 (Fôrvarer – Bestemmelse av dioksiner og dioksinliknende PCB ved GC/HRMS og av indikator-PCB ved GC/HRMS) og/eller i EPA-metode 1613 og 1668 som revidert, skal oppfylles, unntatt plikten til å bruke GC-HRMS.
+
+###### 7. Særlige krav til bioanalytiske metoder
 
 Bioanalytiske metoder er metoder basert på bruk av biologiske prinsipper som cellebaserte analyser, reseptoranalyser eller immunologiske analyser. I dette nummer fastsettes alminnelige krav til bioanalytiske metoder.
 
@@ -3344,21 +5872,35 @@ I en screeningmetode klassifiseres i prinsippet en prøve som negativ eller mist
 
 Dersom et veiledende nivå uttrykkes i BEQ, skal prøveresultatene være i måleområdet og være høyere enn rapporteringsgrensen (se punkt 7.1.1 og 7.1.6).
 
+7.1.
+
 Vurdering av analyseresponsen
+
+7.1.1.
 
 Generelle kravNår konsentrasjonene beregnes ut fra en TCDD-kalibreringskurve, vil verdiene i øvre del av kurven vise stor variasjon (høy variasjonskoeffisient). Måleområdet er området der variasjonskoeffisienten er lavere enn 15 %. Den nedre delen av måleområdet (rapporteringsgrensen) settes høyere enn metodens blindprøver med en faktor på minst 3. Den øvre delen av måleområdet er normalt representert ved en EC70-verdi (70 % av høyeste effektive konsentrasjon), men er lavere dersom variasjonskoeffisienten er høyere enn 15 % i dette området. Måleområdet skal fastsettes under valideringen. Terskelverdiene (se punkt 7.3) skal ligge godt innenfor måleområdet.Standardløsninger og prøveekstrakter skal analyseres tre ganger eller minst to ganger. Ved bruk av en dobbeltanalyse skal en standardløsning eller et kontrollekstrakt som er analysert i 4–6 brønner fordelt over platen, gi en respons eller en konsentrasjon (bare mulig i måleområdet) basert på en variasjonskoeffisient på < 15 %
 
+7.1.2.
+
 Kalibrering
 
+7.1.2.1.
+
 Kalibrering med standardkurveInnholdet i prøver skal beregnes ved å sammenligne analyseresponsen med en kalibreringskurve for TCDD (eller PCB 126 eller en standardblanding av PCDD/PCDF / dioksinlignende PCB) for å beregne BEQ-nivået i ekstraktet og deretter i prøven.Kalibreringskurvene skal inneholde 8–12 konsentrasjoner (minst som dobbeltanalyser) med nok konsentrasjoner i den nedre delen av kurven (måleområdet). Det skal legges særlig vekt på kvaliteten på kurvetilpasningen i måleområdet. Når tilpasningsgraden ved ikke-lineær regresjon skal bedømmes, har R2-verdien liten eller ingen betydning. En bedre tilpasning oppnås ved å redusere differansen mellom beregnede og observerte nivåer i kurvens måleområde, f.eks. ved å redusere residualkvadratsummen til et minimum.Beregnet innhold i prøveekstraktet korrigeres deretter for det BEQ-nivået som er beregnet for en matrise- eller løsemiddelblindprøve (for å ta hensyn til urenheter fra løsemidler og kjemikalier som er brukt), og for gjenfinningsgraden (beregnet ut fra BEQ-nivået i egnede referanseprøver med representative forbindelsesmønstre nær grenseverdien eller tiltaksgrensen). Når det korrigeres for gjenfinning, skal gjenfinningsgraden være innenfor påkrevd område (se punkt 7.1.4). Referanseprøver som brukes til å korrigere for gjenfinning, skal oppfylle kravene angitt i punkt 7.2.
+
+7.1.2.2.
 
 Kalibrering med referanseprøver
 
 En kalibreringskurve framstilt av minst fire referanseprøver (se punkt 7.2.4): en matriseblindprøve pluss tre referanseprøver på 0,5, 1 og 2 ganger grenseverdien eller tiltaksgrensen kan brukes, noe som fjerner behovet for å korrigere for blindprøve og gjenfinning dersom referanseprøvenes matrise svarer til de ukjente prøvenes matrise. I slike tilfeller kan analyseresponsen som tilsvarer 2/3 av grenseverdien (se punkt 7.3), beregnes direkte fra disse prøvene og brukes som terskelverdi. For kontroll av prøver som overskrider tiltaksgrensene, er en egnet prosentandel av disse tiltaksgrensene en egnet terskelverdi.
 
+7.1.3.
+
 Separat bestemmelse av PCDD/PCDF og dioksinlignende PCB
 
 Ekstraktene kan deles opp i fraksjoner som inneholder PCDD/PCDF og dioksinlignende PCB, slik at TEQ-nivået (uttrykt i BEQ) for PCDD/PCDF og dioksinlignende PCB kan angis hver for seg. Det skal fortrinnsvis brukes en PBC 126-standardkalibreringskurve til å vurdere resultatene for fraksjonen som inneholder dioksinlignende PCB.
+
+7.1.4.
 
 Gjenfinningsgrad ved biologisk prøving
 
@@ -3368,23 +5910,39 @@ Avhengig av analysetype og hvilke TEF-verdier38 som er brukt, kan forskjellene m
 
 Dersom det utføres en separat bestemmelse av PCDD/PCDF og dioksinlignende PCB, skal gjenfinningsgraden ved biologisk prøving derfor være 20–60 % for dioksinlignende PCB og 50–130 % for PCDD/PCDF (områdene gjelder for TCDD-kalibreringskurven). Bidraget fra dioksinlignende PCB til summen av PCDD/PCDF og dioksinlignende PCB kan variere mellom ulike matriser og prøver. Disse variasjonene gjenspeiles i gjenfinningsgraden ved biologisk prøving, som skal være i området 30–130 % for summen av PCDD/PCDF og dioksinlignende PCB. Dersom TEF-verdiene for PCDD/PCDF og dioksinlignende PCB i EUs regelverk endres vesentlig, må disse områdene revideres.
 
+7.1.5.
+
 Kontroll av gjenfinning etter rensing
 
 Tap av forbindelser under rensing skal kontrolleres under validering. En blindprøve tilsatt en blanding av ulike forbindelser skal gjennomgå rensing (minst n = 3), og gjenfinning og variabilitet skal kontrolleres med en bekreftelsesmetode. Gjenfinningen skal være i området 60–120 %, særlig for forbindelser som bidrar med mer enn 10 % til TEQ-nivået i de ulike blandingene.
+
+7.1.6.
 
 Rapporteringsgrense
 
 Ved rapportering av BEQ-nivåer skal det fastsettes en rapporteringsgrense ut fra relevante matriseprøver med typiske forbindelsesmønstre, men ikke ut fra standardenes kalibreringskurve, ettersom presisjonen er lav i den nedre delen av kurven. Det skal tas hensyn til virkningene av ekstraksjon og rensing. Rapporteringsgrensen skal settes høyere enn metodens blindprøver, med en faktor på minst 3.
 
+7.2.
+
 Bruk av referanseprøver
+
+7.2.1.
 
 Referanseprøvene skal representere prøvematrise, forbindelsesmønstre og konsentrasjonsområder for PCDD/PCDF og dioksinlignende PCB nær grenseverdien eller tiltaksgrensen.
 
+7.2.2.
+
 En matriseblindprøve eller dersom dette ikke er mulig, en metodeblindprøve og en referanseprøve ved grenseverdien eller tiltaksgrensen skal inngå i hver analyseserie. Prøvene skal ekstraheres og analyseres samtidig under identiske forhold. For å sikre at analysen er egnet skal referanseprøven vise en klart høyere respons enn blindprøven. Disse prøvene kan brukes til å korrigere for blindprøver og gjenfinning.
+
+7.2.3.
 
 Referanseprøver som er valgt ut til å korrigere for gjenfinning, skal være representative for alle analyseprøver, slik at forbindelsesmønstre ikke kan føre til at nivåene undervurderes.
 
+7.2.4.
+
 Det kan brukes ekstra referanseprøver med en konsentrasjon på eksempelvis 0,5 og 2 ganger grenseverdien eller tiltaksgrensen for å påvise analysens effektivitet innenfor det området som er relevant for kontrollen av grenseverdien eller tiltaksgrensen. Kombinert kan disse prøvene brukes til å beregne BEQ-nivået i analyseprøvene (se punkt 7.1.2.2).
+
+7.3.
 
 Bestemmelse av terskelverdier
 
@@ -3394,9 +5952,15 @@ Det skal fastsettes terskelverdier for å kunne avgjøre om en prøve overholder
 
 Terskelverdien (i BEQ) kan beregnes på en av måtene beskrevet i punkt 7.3.1, 7.3.2 og 7.3.3 (se figur 1).
 
-Bruk av det nedre båndet i prediksjonsintervallet på 95 % ved beslutningsgrensen for bekreftelsesmetoden $$ \text{Cut-off value} = \text{BEQ}_{DL} - s_{y,x} \cdot t_{\alpha, f = m - 2} \sqrt{ \frac{1}{n} + \frac{1}{m} + \frac{(x_i - \bar{x})^2}{Q_{xx}} } $$derBEQDL BEQ som tilsvarer beslutningsgrensen for bekreftelsesmetoden, som er grenseverdien idet det tas hensyn til den utvidede måleusikkerhetensy,x standard restavvikt α,f = m-2 Student-faktor (α = 5 %, f = frihetsgrader, ensidige)m samlet antall kalibreringspunkter (indeks j)n antall prøver per konsentrasjon (repetisjoner)xi prøvekonsentrasjon (i TEQ) for kalibreringspunkt i, fastsatt med en bekreftelsesmetode gjennomsnitt av konsentrasjonene (i TEQ) for alle kalibreringsprøvene $$ Q_{xx} = \sum_{j=1}^{m} (x_1 - \bar{x})^2 $$ kvadratsumparameter, i = indeks for kalibreringspunkt i.
+7.3.1.
 
-Beregning ut fra bioanalytiske resultater (korrigert for blindprøve og gjenfinning) av flere analyser av prøver (n ≥ 6) forurenset ved bekreftelsesmetodens beslutningsgrense, som nedre endepunkt for fordelingen av data ved tilsvarende gjennomsnittsverdi for BEQ: $$ \text{Cut-off value} = \text{BEQ}_{DL} - 1{,}64 \cdot \text{SD}_R $$derSDR standardavvik for resultat fra biologisk prøving ved BEQDL, målt ved interne reproduserbarhetsforhold.
+Bruk av det nedre båndet i prediksjonsintervallet på 95 % ved beslutningsgrensen for bekreftelsesmetoden $$ \\text{Cut-off value} = \\text{BEQ}_{DL} - s_{y,x} \\cdot t_{\\alpha, f = m - 2} \\sqrt{ \\frac{1}{n} + \\frac{1}{m} + \\frac{(x_i - \\bar{x})^2}{Q_{xx}} } $$derBEQDL BEQ som tilsvarer beslutningsgrensen for bekreftelsesmetoden, som er grenseverdien idet det tas hensyn til den utvidede måleusikkerhetensy,x standard restavvikt α,f = m-2 Student-faktor (α = 5 %, f = frihetsgrader, ensidige)m samlet antall kalibreringspunkter (indeks j)n antall prøver per konsentrasjon (repetisjoner)xi prøvekonsentrasjon (i TEQ) for kalibreringspunkt i, fastsatt med en bekreftelsesmetode gjennomsnitt av konsentrasjonene (i TEQ) for alle kalibreringsprøvene $$ Q_{xx} = \\sum_{j=1}^{m} (x_1 - \\bar{x})^2 $$ kvadratsumparameter, i = indeks for kalibreringspunkt i.
+
+7.3.2.
+
+Beregning ut fra bioanalytiske resultater (korrigert for blindprøve og gjenfinning) av flere analyser av prøver (n ≥ 6) forurenset ved bekreftelsesmetodens beslutningsgrense, som nedre endepunkt for fordelingen av data ved tilsvarende gjennomsnittsverdi for BEQ: $$ \\text{Cut-off value} = \\text{BEQ}_{DL} - 1{,}64 \\cdot \\text{SD}_R $$derSDR standardavvik for resultat fra biologisk prøving ved BEQDL, målt ved interne reproduserbarhetsforhold.
+
+7.3.3.
 
 Beregning som gjennomsnittsverdi av bioanalytiske resultater (i BEQ, korrigert for blindprøve og gjenfinning) fra flere analyser av prøver (n ≥ 6) forurenset i konsentrasjoner på 2/3 av grenseverdien eller tiltaksgrensen, basert på den observasjonen at dette nivået vil ligge nær den terskelverdien som er bestemt i henhold til punkt 7.3.1 eller 7.3.2.
 
@@ -3412,85 +5976,175 @@ Ved BEQ-beslutningsgrensen på y-aksen, og beslutningsgrensen på x-aksen er det
 
 *Figur 1*
 
+7.3.4.
+
 Begrensninger for terskelverdier:
 
 BEQ-baserte terskelverdier beregnet ut fra RSDR som ble bestemt under valideringen ved hjelp av et begrenset antall prøver med ulike matrise-/forbindelsesmønstre, kan være høyere enn de TEQ-baserte grenseverdiene eller tiltaksgrensene, ettersom det oppnås høyere presisjon enn det som er mulig å oppnå i rutineanalyser, når et ukjent spektrum av mulige forbindelsesmønstre må kontrolleres. I slike tilfeller skal terskelverdier beregnes ut fra en RSDR på 25 % eller helst på 2/3 av grenseverdien eller tiltaksgrensen.
 
+7.4.
+
 Ytelsesegenskaper
+
+7.4.1.
 
 Ettersom det ikke kan brukes interne standarder i bioanalytiske metoder, skal disse metodenes repeterbarhet analyseres for å innhente opplysninger om standardavviket innenfor og mellom de enkelte analysseseriene. Repeterbarheten skal være under 20 %, og intern reproduserbarhet skal være under 25 %. Dette skal baseres på beregnet innhold uttrykt i BEQ, etter korreksjon for blindprøve og gjenfinning.
 
+7.4.2.
+
 Som en del av valideringsprosessen skal analysen vise at metoden kan skille mellom en blindprøve og et nivå ved terskelverdien, slik at prøver over den aktuelle terskelverdien kan identifiseres (se punkt 7.1.2).
+
+7.4.3.
 
 Målforbindelser, mulig interferens og høyeste tolererte blindprøvenivåer skal fastsettes.
 
+7.4.4.
+
 Standardavviket i responsen eller konsentrasjonen beregnet ut fra responsen (bare mulig i måleområdet) ved en tredobbel bestemmelse av et prøveekstrakt skal ikke overskride 15 %.
+
+7.4.5.
 
 De ukorrigerte resultatene av referanseprøvene, uttrykt i BEQ (blindprøve og ved grenseverdien eller tiltaksgrensen), skal brukes til å vurdere den bioanalytiske metodens ytelse i et konstant tidsrom.
 
+7.4.6.
+
 Kvalitetskontrolldiagrammer for metodens blindprøver og for hver type referanseprøve skal utarbeides og kontrolleres for å sikre at analyseytelsen oppfyller kravene, særlig for metodens blindprøver med hensyn til den nødvendige minstedifferansen til nedre del av måleområdet og for referanseprøvene med hensyn til intern reproduserbarhet. Metodens blindprøver skal kontrolleres på en måte som gjør at man unngår falskt negative resultater når de trekkes fra.
+
+7.4.7.
 
 Resultatene av mistenkte prøver som er oppnådd med bekreftelsesmetodene og 2–10 % av de negative prøvene (minst 20 prøver per matrise) skal samles inn og brukes til å vurdere screeningmetodens ytelse og forholdet mellom BEQ og TEQ. Disse opplysningene kan brukes ved ny vurdering av de terskelverdiene som gjelder for rutineprøver for de validerte matrisene.
 
+7.4.8.
+
 At en metode har god ytelse, kan også dokumenteres ved deltakelse i ringprøving. Resultatene av prøver analysert ved ringprøving som dekker et konsentrasjonsområde på opptil f.eks. to ganger grenseverdien, kan tas med i vurderingen av andelen falskt negative prøver dersom et laboratorium kan dokumentere god ytelse. Prøvene skal dekke de vanligste forbindelsesmønstrene og representere ulike kilder.
+
+7.4.9.
 
 I forbindelse med hendelser kan terskelverdiene vurderes på nytt for å gjenspeile de særskilte matrise- og forbindelsesmønstrene i den aktuelle hendelsen.
 
+38 Gjeldende krav er basert på TEF-verdiene offentliggjort i M. Van den Berg et al., Toxicol Sci 93 (2), 223–241 (2006).
+
+###### 8. Rapportering av resultater
+
+8.1.
+
 Bekreftelsesmetoder
+
+8.1.1.
 
 Analyseresultatene skal omfatte innholdet av de enkelte PCDD-/PCDF- og dioksinlignende PCB-forbindelsene, og TEQ-verdiene skal angis som nedre og øvre konsentrasjoner og mellomkonsentrasjoner, slik at resultatrapporten inneholder flest mulig opplysninger, og slik at resultatene kan tolkes i henhold til bestemte krav.
 
+8.1.2.
+
 Rapporten skal angi hvilken metode som er brukt til ekstraksjon av PCDD/PCDF og dioksinlignende PCB.
 
+8.1.3.
+
 Gjenfinningsgraden for de enkelte interne standardene skal angis dersom den ligger utenfor området angitt i punkt 6.2.5, dersom grenseverdien er overskredet (i så fall gjenfinningen for én av de to dobbeltanalysene), og i andre tilfeller på anmodning.
+
+8.1.4.
 
 Ettersom det skal tas hensyn til den utvidede måleusikkerheten når det avgjøres om en prøve oppfyller kravene, skal denne parameteren angis. Analyseresultatene skal derfor rapporteres som x ± U, der x er analyseresultatet og U er den utvidede måleusikkerheten ved bruk av en dekningsfaktor på 2, noe som gir et konfidensnivå på ca. 95 %. Dersom PCDD/PCDF og dioksinlignende PCB bestemmes hver for seg, skal summen av den beregnede utvidede usikkerheten for de separate analyseresultatene for PCDD/PCDF og dioksinlignende PCB brukes for summen av PCDD/PCDF og dioksinlignende PCB.
 
+8.1.5.
+
 Resultatene skal angis i samme enheter og med minst samme antall signifikante sifre som grenseverdiene fastsatt i direktiv [2002/32/EF](eu/32002l0032).
+
+8.2.
 
 Bioanalytiske screeningmetoder
 
+8.2.1.
+
 Resultatet av screeningen skal angis som «negativ» eller «mistenkt positiv» («mistenkt»).
+
+8.2.2.
 
 I tillegg kan et veiledende resultat for PCDD/PCDF og/eller dioksinlignende PCB uttrykt i BEQ (ikke TEQ) angis.
 
+8.2.3.
+
 Prøver med en respons under rapporteringsgrensen skal angis som «under rapporteringsgrensen». Prøver med en respons over måleområdet skal rapporteres som «over måleområdet», og innholdet som tilsvarer den øvre delen av måleområdet, skal angis i BEQ.
 
+8.2.4.
+
 For hver type prøvematrise skal rapporten inneholde opplysninger om den grenseverdien eller tiltaksgrensen vurderingen er bygget på.
+
+8.2.5.
 
 Rapporten skal inneholde opplysninger om hvilken analyse som er benyttet, de grunnleggende analyseprinsippene og kalibreringstypen.
 
+8.2.6.
+
 Rapporten skal angi hvilken metode som er brukt til ekstraksjon av PCDD/PCDF og dioksinlignende PCB.
 
+8.2.7.
+
 Ved prøver som mistenkes for å være positive, må rapporten inneholde en merknad om tiltak som skal treffes. Konsentrasjonen av PCDD/PCDF og summen av PCDD/PCDF og dioksinlignende PCB i prøver med forhøyet innhold skal bestemmes/bekreftes med en bekreftelsesmetode.
+
+8.2.8.
 
 Positive resultater skal rapporteres bare på grunnlag av en bekreftende analyse.
 
+8.3.
+
 Fysikalsk-kjemiske screeningmetoder
+
+8.3.1.
 
 Resultatet av screeningen skal angis som «negativ» eller «mistenkt positiv» («mistenkt»).
 
+8.3.2.
+
 For hver type prøvematrise skal rapporten inneholde opplysninger om den grenseverdien eller tiltaksgrensen vurderingen er bygget på.
+
+8.3.3.
 
 I tillegg kan verdier for de enkelte PCDD-/PCDF- og/eller dioksinlignende PCB-forbindelsene samt TEQ-verdier angitt som nedre konsentrasjoner, øvre konsentrasjoner og mellomkonsentrasjoner angis. Resultatene skal angis i samme enheter og med minst samme antall signifikante sifre som grenseverdiene fastsatt i direktiv [2002/32/EF](eu/32002l0032).
 
+8.3.4.
+
 Gjenfinningsgraden for de enkelte interne standardene skal angis dersom den ligger utenfor området angitt i punkt 6.2.5, dersom grenseverdien er overskredet (i så fall gjenfinningen for én av de to dobbeltanalysene), og i andre tilfeller på anmodning.
+
+8.3.5.
 
 Rapporten skal angi hvilken GC-MS-metode som er brukt.
 
+8.3.6.
+
 Rapporten skal angi hvilken metode som er brukt til ekstraksjon av PCDD/PCDF og dioksinlignende PCB.
+
+8.3.7.
 
 Ved prøver som mistenkes for å være positive, må rapporten inneholde en merknad om tiltak som skal treffes. Konsentrasjonen av PCDD/PCDF og summen av PCDD/PCDF og dioksinlignende PCB i prøver med forhøyet innhold skal bestemmes/bekreftes med en bekreftelsesmetode.
 
+8.3.8.
+
 Avgjørelsen av om det foreligger en positiv prøve kan bare tas etter en bekreftende analyse.
+
+###### Kapittel III
+
+Tillaging av prøver og krav til analysemetoder for offentlig kontroll av innholdet av ikke-dioksinlignende PCB i fôrvarer
+
+###### 1. Anvendelsesområde
 
 Kravene fastsatt i dette kapittel gjelder når fôrvarer analyseres med henblikk på offentlig kontroll av innholdet av ikke-dioksinlignende PCB, og for tillaging av prøver samt analysekrav med henblikk på andre reguleringsformål, herunder kontroller som foretas av driftsansvarlige for fôrforetak for å sikre samsvar med bestemmelsene i forordning [(EF) nr. 183/2005](eu/32005r0183).
 
+###### 2. Påvisningsmetoder som kan anvendes
+
 Gasskromatografi/elektroninnfangingsdetektor (GC/ECD), GC/LRMS, GC/MS-MS, GC/HRMS eller lignende metoder.
+
+###### 3. Identifikasjon og bekreftelse av relevante analytter
+
+3.1.
 
 Relativ retensjonstid i forhold til interne standarder eller referansestandarder (akseptabelt avvik på ± 0,25 %).
 
+3.2.
+
 Gasskromatografisk separasjon av ikke-dioksinlignende PCB fra interfererende stoffer, særlig PCB som elueres samtidig, særlig når innholdet i prøvene ligger innenfor de lovfestede grenseverdiene og det skal bekreftes at prøven ikke oppfyller kravene39.
+
+3.3.
 
 Krav til GC-MS-metoder
 
@@ -3500,39 +6154,89 @@ Høyeste tillatte toleranse for isotopforhold for utvalgte massefragmenter:
 
 Relativt avvik i isotopforhold for utvalgte massefragmenter fra teoretisk isotopforhold eller kalibreringsstandard for mål-ionet (det hyppigst forekommende av de målte ionene) og bekreftelsesion(er): ± 15 %.
 
+3.4.
+
 Krav til GC-ECD-metoder
 
 Resultater som overskrider grenseverdien, skal bekreftes med to GC-kolonner med stasjonære faser med ulik polaritet.
 
+39 Forbindelser som ofte elueres samtidig, er f.eks. PCB 28/31, PCB 52/69 og PCB 138/163/164. Når det gjelder GC-MS, skal det tas hensyn til eventuell interferens fra fragmenter av høyklorerte forbindelser.
+
+###### 4. Dokumentasjon av metodens ytelse
+
 Metodens ytelse skal valideres innenfor grenseverdiområdet (0,5 til 2 ganger grenseverdien) med en godkjent variasjons-koeffisient for gjentatte analyser (se krav til intermediær presisjon i punkt 9).
+
+###### 5. Kvantifiseringsgrense
 
 Summen av kvantifiseringsgrensene40 av ikke-dioksinlignende PCB skal ikke være større enn én tredel av grenseverdien41.
 
+40 Når det er relevant, skal prinsippene beskrevet i «Guidance Document on the Estimation of LOD and LOQ for Measurements in the Field of Contaminants in Feed and Food» (https://data.europa.eu/doi/10.2787/8931) følges.
+
+41 Det anbefales på det sterkeste at bidraget fra reagensblindprøven er så lite som mulig sammenlignet med innholdet av et forurensende stoff i en prøve. Det er laboratoriets ansvar å kontrollere hvordan innholdet i blindprøvene varierer, særlig når blindprøveinnholdet trekkes fra.
+
+###### 6. Kvalitetskontroll
+
 Regelmessige blindprøvekontroller, analysering av prøver med tilsetning, kvalitetskontrollprøver, deltakelse i undersøkelser av relevante matriser som foretas ved flere laboratorier.
 
+###### 7. Kontroll av gjenfinning
+
+7.1.
+
 Bruk av egnede interne standarder med fysikalsk-kjemiske egenskaper som kan sammenlignes med de relevante analyttenes.
+
+7.2.
 
 Tilsetning av interne standarder:
 
 Tilsetning til produkter (før ekstraksjon og rensing).
 
+7.3.
+
 Krav til metoder der alle seks isotopmerkede ikke-dioksinlignende PCB-forbindelser brukes:Resultatene skal korrigeres for gjenfinning av interne standarder.Gjenfinning av isotopmerkede interne standarder skal være på mellom 60 og 120 %Lavere eller høyere gjenfinning for enkeltforbindelser med et bidrag til summen av ikke-dioksinlignende PCB på under 10 % kan godtas.
+
+7.4.
 
 Krav til metoder der ikke alle seks isotopmerkede interne standarder eller andre interne standarder brukes:Gjenfinningen av interne standarder skal kontrolleres for hver prøve.Gjenfinning av interne standarder skal være på mellom 60 og 120 %.Resultatene skal korrigeres for gjenfinning av interne standarder.
 
+7.5.
+
 Gjenfinning av umerkede forbindelser skal kontrolleres ved hjelp av prøver med tilsetning eller kvalitetskontrollprøver med konsentrasjoner i grenseverdiområdet. Gjenfinning for disse forbindelsene skal anses som akseptabel dersom den er i området 60–120 %.
+
+###### 8. Krav til laboratorier
 
 I samsvar med bestemmelsene i forordning [(EU) 2017/625](eu/32017r0625) skal laboratoriene være akkreditert av et godkjent organ som oppfyller kravene i ISO/IEC Guide 58, for å sikre at de anvender metoder for kvalitetssikring av sine analyser. Laboratoriene skal være akkreditert i henhold til standarden EN ISO/IEC 17025. Dessuten skal prinsippene som beskrevet i de tekniske retningslinjene for vurdering av måleusikkerhet og kvantifiseringsgrenser for PCB-analyse, følges42.
 
-*Massespektrometrisk isotopfortynning***Andre teknikker*Riktighet– 20 til + 20 %– 30 til + 30 %Intermediær presisjon (RSD %)≤ 15 %≤ 20 %Differanse mellom øvre og nedre konsentrasjon (beregnet)≤ 20 %≤ 20 %
+42 Europaparlaments- og rådsforordning [(EF) nr. 183/2005](eu/32005r0183) av 12. januar 2005 om fastsettelse av krav til fôrvarehygiene (EUT L 35 av 8.2.2005, s. 1).
+
+###### 9. Ytelsesegenskaper: Kriterier for summen av ikke-dioksinlignende PCB ved grenseverdien
+
+|  | *Massespektrometrisk isotopfortynning*\* | *Andre teknikker* |
+| --- | --- | --- |
+| Riktighet | – 20 til + 20 % | – 30 til + 30 % |
+| Intermediær presisjon (RSD %) | ≤ 15 % | ≤ 20 % |
+| Differanse mellom øvre og nedre konsentrasjon (beregnet) | ≤ 20 % | ≤ 20 % |
+
+\* Alle seks 13C-merkede analoger skal brukes som interne standarder.
+
+###### 10. Rapportering av resultater
+
+10.1.
 
 Analyseresultatene skal omfatte innholdet av de enkelte ikke-dioksinlignende PCB-forbindelsene og summen av disse PCB-forbindelsene, rapportert som nedre og øvre konsentrasjoner og mellomkonsentrasjoner, slik at resultatrapporten inneholder flest mulig opplysninger, og slik at resultatene kan tolkes i henhold til bestemte krav.
 
+10.2.
+
 I rapporten skal det også angis hvilken metode som er brukt til ekstraksjon av PCB.
+
+10.3.
 
 Gjenfinningsgraden for de enkelte interne standardene skal angis dersom den ligger utenfor området angitt i nr. 7, dersom grenseverdien er overskredet, og i andre tilfeller på anmodning.
 
+10.4.
+
 Ettersom det skal tas hensyn til den utvidede måleusikkerheten når det avgjøres om en prøve oppfyller kravene, skal nevnte parameter også angis. Analyseresultatene skal derfor rapporteres som x ± U, der x er analyseresultatet og U er den utvidede måleusikkerheten ved bruk av en dekningsfaktor på 2, noe som gir et konfidensnivå på ca. 95 %.
+
+10.5.
 
 Resultatene skal angis i samme enheter og med minst samme antall signifikante sifre som grenseverdiene fastsatt i direktiv [2002/32/EF](eu/32002l0032).
 
@@ -3540,8 +6244,12 @@ Resultatene skal angis i samme enheter og med minst samme antall signifikante si
 
 For anvendelsen av artikkel 34 nr. 2 bokstav a) i forordning [(EU) 2017/625](eu/32017r0625) er følgende EN-standarder relevante:EN 17194: Fôrvarer: Prøvetakings- og analysemetoder – Bestemmelse av deoksynivalenol, aflatoksin B1, fumonisin B1 og B2, T-2 og HT-2-toksiner, zearalenon og ochratoksin A i fôrmidler og fôrblandinger ved LC-MS/MSEN 17270: Fôrvarer: Prøvetakings- og analysemetoder – Bestemmelse av teobromin i fôrmidler og fôrblandinger, inkludert kakaoavledede ingredienser, ved væskekromatografiEN 17504 Fôrvarer: Prøvetakings- og analysemetoder – Bestemmelse av gossypol i bomullsfrø og fôr ved LC-MS/MSEN 17362 Fôrvarer: Prøvetakings- og analysemetoder – Bestemmelse av pentaklorfenol (PCP) i fôrmidler og fôrblandinger ved LCMS/MSEN 16279: Fôrvarer – Bestemmelse av fluorinnhold etter saltsyrebehandling ved ionesensitiv elektrodemetode (ISE)EN 17053: Fôrvarer: Prøvetakings- og analysemetoder – Bestemmelse av sporelementer, tungmetaller og andre elementer i fôr ved ICP-MS (multimetode)EN 15550 Fôrvarer – Prøvetakings- og analysemetoder – Bestemmelse av kadmium og bly ved hjelp av atomabsorpsjons-spektrometri med grafittovn (GFAAS) etter trykkoppslutningEN 16206 Fôrvarer – Bestemmelse av arsen ved hjelp av atomabsorpsjonsspektrometri ved hydridgenerering (HGAAS) etter oppslutning ved mikrobølgetrykk (oppslutning med 65 % salpetersyre og 30 % hydrogenperoksid)EN 16277 Fôrvarer – Bestemmelse av kvikksølv ved hjelp av atomabsorpsjonsspektrometri med kald damp (CVAAS) etter oppslutning ved mikrobølgetrykk (ekstraksjon med 65 % salpetersyre og 30 % hydrogenperoksid)EN 16278 Fôrvarer – Bestemmelse av uorganisk arsen ved hjelp av atomabsorpsjonsspektrometri ved hydridgenerering (HGAAS) etter mikrobølgeekstraksjon og separasjon ved fastfaseekstraksjon (SPE)EN 17374 Fôrvarer: Prøvetakings- og analysemetoder – Bestemmelse av uorganisk arsen i fôrvarer ved anionbytter HPLC-ICP-MS.
 
+◄**M8**
+
 ### ►**M2** VEDLEGG VI.
 Analysemetoder for bestemmelse av bestanddeler av animalsk opprinnelse for offentlig kontroll av fôr ◄**M2**
+
+►**M7**
 
 ### 1. Formål og virkeområde
 
@@ -3551,11 +6259,29 @@ Disse to metodene gjør det mulig å påvise forekomsten av bestanddeler av anim
 
 PCR-metoden gjør det mulig å identifisere hvilken taksonomigruppe bestanddelene av animalsk opprinnelse som forekommer i premikser, fôrmidler og fôrblandinger, tilhører.
 
-Disse metodene skal benyttes for å kontrollere anvendelsen av forbudene fastsatt i artikkel 7 nr. 1 i europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999)*, i vedlegg IV til den nevnte forordningen og i artikkel 11 nr. 1 i europaparlaments- og rådsforordning [(EF) nr. 1069/2009](eu/32009r1069)**.
+Disse metodene skal benyttes for å kontrollere anvendelsen av forbudene fastsatt i artikkel 7 nr. 1 i europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999)\*, i vedlegg IV til den nevnte forordningen og i artikkel 11 nr. 1 i europaparlaments- og rådsforordning [(EF) nr. 1069/2009](eu/32009r1069)\*\*.
 
-Avhengig av hvilken type fôr som skal testes, kan disse metodene benyttes innenfor en enkelt protokoll, enten alene eller kombinert med hverandre, i samsvar med de standardiserte framgangsmåtene fastsatt av EU-referanselaboratoriet for animalske proteiner i fôrvarer (EURL-AP) og offentliggjort på laboratoriets nettsted***.
+Avhengig av hvilken type fôr som skal testes, kan disse metodene benyttes innenfor en enkelt protokoll, enten alene eller kombinert med hverandre, i samsvar med de standardiserte framgangsmåtene fastsatt av EU-referanselaboratoriet for animalske proteiner i fôrvarer (EURL-AP) og offentliggjort på laboratoriets nettsted\*\*\*.
+
+\* Europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999) av 22. mai 2001 om fastsettelse av regler for å forebygge, bekjempe og utrydde visse typer overførbar spongiform encefalopati (EFT L 147 av 31.5.2001, s. 1).
+
+\*\* Europaparlaments- og rådsforordning [(EF) nr. 1069/2009](eu/32009r1069) av 21. oktober 2009 om fastsettelse av hygieneregler for animalske biprodukter og avledede produkter som ikke er beregnet på konsum, og om oppheving av forordning [(EF) nr. 1774/2002](eu/32002r1774) (forordningen om animalske biprodukter) (EUT L 300 av 14.11.2009, s. 1).
+
+\*\*\* https://www.eurl.craw.eu/legal-sources-and-sops/method-of-reference-and-sops/
+
+◄**M7**
+
+►**M2**
 
 ### 2. Metoder
+
+◄**M2**
+
+►**M7**
+
+2.1.*Lysmikroskopi*
+
+2.1.1.*Prinsipp*
 
 Bestanddelene av animalsk opprinnelse som kan forekomme i premikser, fôrmidler og fôrblandinger som skal analyseres, identifiseres på grunnlag av typiske kjennetegn som kan identifiseres med mikroskop, som muskelfibrer og andre kjøttpartikler, brusk, bein, horn, hår, bust, hudfragmenter fra virvelløse dyr, trakealstrukturer fra insekter, blodprodukter, melkefettkuler, laktosekrystaller, fjær, eggeskall, fiskebein og fiskeskjell.
 
@@ -3563,24 +6289,42 @@ Undersøkelse i mikroskop skal utføres etter at prøvene er tillaget ved sedime
 
 Prøvene skal gjennomgå følgende sedimenteringstrinn:For påvisning av andre bestanddeler av animalsk opprinnelse enn virvelløse landdyr: én sedimentering med tetrakloretylen (TCE) som beskrevet i nr. 2.1.3.4.3.For påvisning av bestanddeler av virvelløse landdyr, et trinn med dobbel sedimentering med petroleumseter/tetrakloretylen (PE/TCE) som beskrevet i nr. 2.1.3.4.4.
 
+2.1.2.*Reagenser og utstyr*
+
+2.1.2.1.*Reagenser*
+
+2.1.2.1.1.*Konsentreringsmiddel*
+
 - Tetrakloretylen (spesifikk vekt 1,62)
 - Petroleumseter (PE), kokepunkt 40–60 °C (spesifikk vekt 0,65)
 
+2.1.2.1.2.*Fargingsreagens*
+
 - Alizarin rød-løsning (spe ut 2,5 ml 1M saltsyre med 100 ml vann og tilsett 200 mg alizarin rød til denne løsningen)
+
+2.1.2.1.3.*Monteringsmedium*
 
 - Lut (NaOH 2,5 % w/v eller KOH 2,5 % w/v).
 - Glyserol (ufortynnet, viskositet: 1 490 cP) eller et monteringsmedium med tilsvarende egenskaper for tillaging av ikke-permanente objektglass.
 - Norland ® Optical Adhesive 65 (viskositet: 1 200 cP) eller harpiks med tilsvarende egenskaper for tillaging av permanente objektglass.
+
+2.1.2.1.4.*Monteringsmedier med fargingsegenskaper*
 
 - Lugols løsning (løs opp 2 g kaliumjodid i 100 ml vann og tilsett 1 g jod under hyppig risting).
 - Cystinreagens (2 g blyacetat, 10 g NaOH/100 ml vann).
 - Fehlings væske (klargjort før bruk med like deler (1/1) av to stamløsninger A og B: løsning A (løs opp 6,9 g kobber(II)sulfatpentahydrat i 100 ml vann), løsning B (løs opp 34,6 g kaliumnatriumtartrattetrahydrat og 12 g NaOH i 100 ml vann).
 - Tetrametylbenzidin/hydrogenperoksid (løs opp 1 g 3,3',5,5' tetrametylbenzidin (TMB) i 100 ml iseddik og 150 ml vann. Bland fire deler av denne TMB-løsningen med én del 3 % hydrogenperoksid før bruk).
 
+2.1.2.1.5.*Skyllemidler*
+
 - Etanol ≥ 96 % (teknisk kvalitet).
 - Aceton (teknisk kvalitet).
 
+2.1.2.1.6.*Blekemiddel*
+
 - Natriumhypoklorittløsning som fås kjøpt i handelen (9–14 % aktivt klor).
+
+2.1.2.2.*Utstyr*
 
 - Analysevekt med en nøyaktighet på 0,001 g.
 - Malingsutstyr: kniv eller rotormølle. Ved bruk av rotormølle er sikter på ≤ 0,5 mm forbudt.
@@ -3596,33 +6340,61 @@ Prøvene skal gjennomgå følgende sedimenteringstrinn:For påvisning av andre b
 - Sentrifuge.
 - Filterpapir: kvalitativt cellulosefilter (porestørrelse 4–11 μm).
 
+2.1.3.*Prøvetaking og tillaging av prøver*
+
+2.1.3.1.*Prøvetaking*
+
 Det skal brukes et representativt utvalg prøver tatt i samsvar vedlegg I.
+
+2.1.3.1.1.*Tørking av prøve*
 
 Prøver med et vanninnhold på > 14 % skal tørkes før håndtering i samsvar med vedlegg III.
 
+2.1.3.1.2.*Forhåndssikting av prøver*
+
 For å samle inn informasjon om mulig miljøforurensning av fôret anbefales det å sikte fôrpelleter og kjerner på forhånd med en maskevidde 1 mm og deretter lage til, analysere og rapportere om de to fraksjonene hver for seg, da de må anses som to ulike prøver.
 
+2.1.3.2.*Forholdsregler*
+
 For å unngå krysskontaminering på laboratoriet skal alt utstyr som skal brukes flere ganger, rengjøres grundig før bruk. Skilletrakten skal tas fra hverandre før rengjøring. Skilletraktens deler og glassartikler skal forvaskes for hånd og deretter vaskes i oppvaskmaskin. Sikter skal rengjøres med en børste med stiv, syntetisk bust. Det anbefales å rengjøre sikten en ekstra gang med aceton og trykkluft dersom den er brukt til fettholdig materiale som f.eks. fiskemel.
+
+2.1.3.3.*Tillaging av prøver som består av fett eller olje*
 
 Følgende protokoll skal følges for tillagingen av prøver som består av fett:Dersom fettet er i fast form, skal det varmes opp i en ovn til det er flytende.40 ml fett eller olje fra bunnen av prøven overføres med pipette til et sentrifugerør.Prøven skal sentrifugeres i 10 minutter ved 4 000 omdreininger per minutt.Dersom fettet er i fast form etter sentrifugering, skal det varmes opp i en ovn til det er flytende.Sentrifugeringen skal gjentas i 5 minutter ved 4 000 omdreininger per minutt.Halvparten av de dekanterte urenhetene overføres med en liten skje eller en spatel til et objektglass for undersøkelse. Glyserol anbefales som monteringsmedium.De gjenværende urenhetene skal brukes til tillaging av bunnfallet som beskrevet i nr. 2.1.3.3 første strekpunkt.
 
 Den samme protokollen, med unntak av første og fjerde strekpunkt, skal anvendes ved tillaging av prøver som består av olje.
 
+2.1.3.4.*Tillaging av andre prøver enn fett eller olje*
+
+2.1.3.4.1.
+
 Delprøvetaking og maling: Minst 50 g av prøven skal brukes som delprøver for analyser og deretter males opp.
+
+2.1.3.4.2.
 
 Tillaging av råmateriale: En porsjon på minst 5 g av den malte delprøven skal tillages. Den skal siktes (maskevidde 0,25 mm) og de to fraksjonene skal undersøkes.
 
+2.1.3.4.3.
+
 En enkelt sedimentering med TCE for påvisning av andre bestanddeler av animalsk opprinnelse enn virvelløse landdyr.Ekstraksjon og tillaging av sedimentet:En porsjon på 10 g (med en nøyaktighet på 0,01 g) av den malte delprøven overføres til skilletrakten eller begerglasset med konisk bunn for bunnfelling og 50 ml TCE tilsettes. Dersom det dreier seg om fiskemel eller andre rene animalske produkter, mineralingredienser eller premikser som gir mer enn 10 % bunnfall, skal høyst 3 gram overføres til trakten. Blandingen ristes kraftig i minst 30 sekunder, og innsiden av trakten skylles forsiktig med 50 ml TCE for å fjerne eventuelle partikler som har festet seg. Den nye blandingen skal stå i minst 5 minutter før bunnfallet skilles ut ved at stoppekranen åpnes.Dersom det brukes et begerglass med konisk bunn for bunnfelling, skal blandingen rystes kraftig i minst 15 sekunder, og eventuelle partikler som har festet seg på innsidene i glassbegeret, skal skylles forsiktig av med minst 10 ml ren TCE. Blandingen skal stå i 3 minutter før den røres i på nytt i 15 sekunder, og eventuelle partikler som har festet seg på innsiden av glassbegeret, skal skylles forsiktig av med minst 10 ml ren tetrakloretylen. Den nye blandingen skal stå i minst 5 minutter før den flytende fraksjonen fjernes og kastes ved omhyggelig dekantering, slik at ingenting av bunnfallet går tapt.Bunnfallet samles opp på et filterpapir plassert i en trakt for å skille ut resterende TCE og samtidig unngå fettavleiring i bunnfallet. Bunnfallet skal tørkes. Det anbefales deretter å veie bunnfallet (med en nøyaktighet på 0,001 g) for å kontrollere sedimenteringen. Til slutt siktes bunnfallet med en maskevidde på 0,25 mm og begge fraksjonene undersøkes, med mindre sikting anses som unødvendig.Ekstraksjon og tillaging av det flytende materialet:Etter at bunnfallet er framstilt med metoden beskrevet over, bør det finnes to faser i skilletrakten: en flytende som består av TCE, og en fast som består av flytende materiale. Denne faste fasen er det flytende materialet, som framstilles ved at stoppekranen åpnes og all TCE-en helles ut av trakten. Skilletrakten snus på hodet, og det flytende materialet overføres til en stor petriskål og lufttørkes i et avtrekksskap. Den skal siktes (maskevidde 0,25 mm) og de to fraksjonene skal undersøkes.Bruk av fargereagens:For å gjøre det lettere å identifisere bestanddelene av animalsk opprinnelse kan fargereagens brukes under tillaging av prøven i samsvar med retningslinjene utstedt av EURL-AP og offentliggjort på laboratoriets nettsted.Dersom alizarin rød brukes for å farge bunnfallet, skal følgende protokoll anvendes:Det tørkede bunnfallet overføres til et reagensglass og skylles to ganger med omtrent 5 ml etanol (blandes begge gangene med et Vortex blandeapparat i 30 sekunder, la løsemiddelet stå i omtrent halvannet minutt før det helles ut).Bunnfallet blekes ved å tilsette minst 1 ml natriumhypoklorittløsning. La reaksjonen fortsette i 10 minutter. Reagensglasset fylles med vann, bunnfallet skal stå i 2–3 minutter, og vann og svevende partikler helles forsiktig ut.Bunnfallet skal skylles to ganger til med omtrent 10 ml vann (blandes begge gangene med et Vortex blandeapparat i 30 sekunder, la stå og hell ut vannet).Tilsett 2–10 dråper alizarin rød og bland løsningen med et Vortex blandeapparat. La reaksjonen pågå i 30 sekunder. Det fargede bunnfallet skylles først to ganger med omtrent 5 ml etanol og så én gang med aceton (blandes begge gangene med et Vortex blandeapparat i 30 sekunder, løsningen skal stå i omtrent 1 minutt og deretter helles ut).Det fargede bunnfallet tørkes.
+
+2.1.3.4.4.
 
 Dobbel sedimentering med PE/TCE for påvisning av bestanddeler av virvelløse landdyr.
 
 Alle trinn skal utføres i en skilletrakt av glass med konisk bunn på 250 ml som beskrevet i nr. 2.1.2.2 fjerde strekpunkt.En porsjon på 10 g (med en nøyaktighet på 0,01 g) av den malte delprøven overføres til skilletrakten og gjennomgår først en enkelt sedimentering med TCE som beskrevet i nr. 2.1.3.4.3, herunder oppsamling av bunnfallet på et filterpapir plassert i en trakt. Dette bunnfallet kan brukes slik som det som er framstilt i henhold til nr. 2.1.3.4.3.Den lille mengden TCE som helles ut sammen med bunnfallet, overføres til en målesylinder. Ved å åpne stoppekranen i skilletrakten må målesylinderen fylles ytterligere til det oppnås 30 ml TCE. Når denne mengden er oppnådd, skal stoppekranen stenges.Denne oppsamlede mengden TCE erstattes ved å tilføye 30 ml petroleumseter med kokepunkt 40–60 °C i skilletrakten. Innholdet i skilletrakten blandes grundig for å oppnå en blanding med 30 % PE og 70 % TCE (med en tetthet på ca. 1,26 g/cm3-3). La materialet hvile i 10 minutter. To nye fraksjoner vil utskilles: et andre bunnfall og et endelig flytende materiale (< 1,26 g.cm-3). Det andre bunnfallet samles opp i en petriskål (eller på et filterpapir plassert i en trakt) ved å åpne stoppekranen til bare litt løsningsmiddelblanding og det endelige flytende materialet er igjen i skilletrakten. Den gjenværende væsken og det endelige flytende materialet samles opp hver for seg på et filterpapir plassert i en trakt. Veggen i skilletrakten skal skylles med en skvett PE for å samle alt materialet fra det endelige flytende materialet. Det endelige flytende materialet skal få tørke. Til slutt siktes bunnfallet med en maskevidde på 0,25 mm og begge fraksjonene undersøkes for påvisning av bestanddeler av virvelløse landdyr, med mindre sikting anes som unødvendig.
+
+2.1.4.*Mikroskopundersøkelse*
+
+2.1.4.1.*Tillaging av objektglass*
 
 Objektglass skal tillages med bunnfallet og enten det flytende materialet eller råmaterialet, avhengig av hva laboranten velger. Når det er hensiktsmessig, bare for påvisning av bestanddeler av virvelløse landdyr, skal objektglass også tillages av det endelige flytende materialet som er oppnådd som beskrevet i nr. 2.1.3.4.4. Begge fraksjonene (den fine og den grove) skal tillages. Analyseprøver fra fraksjonene som fordeles på objektglassene, skal være representative for hele fraksjonen.
 
 For å sikre at en komplett undersøkelsesprotokoll som fastsatt i 2.1.4.2 kan gjennomføres, skal det tillages et tilstrekkelig antall objektglass.
 
 Objektglassene skal monteres med egnet monteringsmedium i samsvar med de standardiserte framgangsmåtene fastsatt av EURL-AP og offentliggjort på laboratoriets nettsted. Objektglassene skal være dekket av dekkglass.
+
+*2.1.4.2.**Beslutningstre for påvisning av animalske partikler i fôrblandinger, fôrmidler og premikser*
 
 De tillagede objektglassene skal undersøkes i samsvar med beslutningstrærne i diagram 1 og 2.
 
@@ -3632,11 +6404,19 @@ Det minste antallet objektglass som skal undersøkes på hvert trinn i beslutnin
 
 For å gjøre det enklere å identifisere partikkeltype og -opprinnelse kan laboranten bruke hjelpemidler, for eksempel systemer for beslutningsstøtte, bildesamlinger og referanseprøver.
 
+*Diagram 1*
+
 Beslutningstre etter en enkelt sedimentering med TCE for påvisning av andre animalske partikler enn fra virvelløse landdyr i fôrblandinger, fôrmidler og premikser for den første bestemmelsen
+
+*Diagram 2*
 
 Beslutningstre etter en enkelt sedimentering med TCE for påvisning av andre animalske partikler enn fra virvelløse landdyr i fôrblandinger, fôrmidler og premikser for den andre bestemmelsen
 
+*Diagram 3*
+
 Beslutningstre etter dobbel sedimentering med PE/TCE for påvisning av bestanddeler av virvelløse landdyr i fôrblandinger, fôrmidler og premikser
+
+2.1.4.3.*Antall bestemmelser*
 
 Bestemmelsene skal utføres med ulike delprøver på 50 g hver.
 
@@ -3648,13 +6428,19 @@ Dersom det påvises mer enn 5 partikler fra virvelløse landdyr etter den først
 
 I alle andre tilfeller, også når laboratoriet ikke har mottatt angivelse av innholdet, skal det utføres en andre bestemmelse med en ny delprøve. Dersom summen av påviste animalske partikler av en bestemt type overstiger 10 etter den andre bestemmelsen utført i samsvar med beslutningstreet i diagram 2, eller diagram 3 når det er relevant, skal resultatet av analysen rapporteres per dyretype i tråd med ordlyden i nr. 2.1.5.3. Ellers rapporteres resultatet av analysen per dyretype i tråd med ordlyden i nr. 2.1.5.2.
 
+2.1.5.*Angivelse av resultater*
+
 Når resultatene rapporteres, skal laboratoriet oppgi hvilken type materiale som er analysert (bunnfall, flytende materiale, endelig flytende materiale eller råmateriale). Ved rapporteringen skal det gå tydelig fram hvor mange bestemmelser som er utført, og om fraksjonene ikke ble siktet før tillagingen av objektglass i samsvar med nr. 2.1.3.4.3 første strekpunkt tredje ledd eller nr. 2.1.3.4.4 tredje strekpunkt.
 
 Laboratorierapporten skal minst inneholde opplysninger om forekomsten av bestanddeler fra landvirveldyr og fra fisk.
 
 De ulike tilfellene skal rapporteres på følgende måte:
 
+2.1.5.1.
+
 Ingen animalske partikler av en bestemt type påvist:«Ut fra det som var mulig å påvise under et lysmikroskop, inneholdt den innsendte prøven ikke partikler fra landvirveldyr.»«Ut fra det som var mulig å påvise under et lysmikroskop, inneholdt den innsendte prøven ikke partikler fra fisk.»«Ut fra det som var mulig å påvise under et lysmikroskop, inneholdt den innsendte prøven ikke partikler fra virvelløse landdyr.»
+
+2.1.5.2.
 
 Påvisning av 1–5 animalske partikler av en bestemt type når bare én bestemmelse er utført, eller 1–10 partikler av en bestemt type ved to bestemmelser (antallet påviste partikler er under den beslutningsgrensen som er fastsatt i den standardiserte framgangsmåten til EU-referanselaboratoriet for animalske proteiner i fôrvarer (EURL-AP) og offentliggjort på laboratoriets nettsted):
 
@@ -3664,6 +6450,8 @@ Dersom to bestemmelser er utført:«Ut fra det som var mulig å påvise ved de t
 
 Dessuten:Dersom prøven er siktet på forhånd, skal laboratorierapporten angi hvilken fraksjon (siktet fraksjon, pelletert fraksjon eller kjerner) de animalske partiklene ble påvist i, ettersom påvisning av animalske partikler utelukkende i den siktede fraksjonen kan være et tegn på forurensning fra omgivelsene.Dersom det bare påvises animalske partikler som verken kan kategoriseres som landvirveldyr eller fisk (f.eks. muskelfibrer), skal rapporten angi at det bare ble påvist slike animalske partikler, og at det ikke kan utelukkes at de stammer fra landvirveldyr.
 
+2.1.5.3.
+
 Påvisning av mer enn 5 animalske partikler av en bestemt type når bare én bestemmelse er utført, eller påvisning av mer enn 10 partikler av en bestemt type ved to bestemmelser:
 
 Dersom bare én bestemmelse er utført:«Ut fra det som var mulig å påvise under et lysmikroskop, inneholdt den innsendte prøven mer enn 5 partikler fra landvirveldyr. Partiklene ble identifisert som ... [bein, brusk, muskelvev, hår, horn, annet (angi det som er relevant)].»«Ut fra det som var mulig å påvise under et lysmikroskop, inneholdt den innsendte prøven mer enn 5 partikler fra fisk. Partiklene ble identifisert som ... [fiskebein, fiskeskjell, brusk, muskelvev, otolitter, gjeller, annet (angi det som er relevant)].»«Ut fra det som var mulig å påvise under et lysmikroskop, inneholdt den innsendte prøven mer enn 5 partikler fra virvelløse landdyr. Partiklene ble identifisert som ... [neglefragmenter, munndeler, muskelvev, trakealstrukturer, annet (angi det som er relevant)].»
@@ -3672,17 +6460,67 @@ Dersom to bestemmelser er utført:«Ut fra det som var mulig å påvise ved de t
 
 Dessuten:Dersom prøven er siktet på forhånd, skal laboratorierapporten angi hvilken fraksjon (siktet fraksjon, pelletert fraksjon eller kjerner) de animalske partiklene ble påvist i, ettersom påvisning av animalske partikler utelukkende i den siktede fraksjonen kan være et tegn på forurensning fra omgivelsene.Dersom det bare påvises animalske partikler som verken kan kategoriseres som landvirveldyr eller fisk (f.eks. muskelfibrer), skal rapporten angi at det bare ble påvist slike animalske partikler, og at det ikke kan utelukkes at de stammer fra landvirveldyr.
 
+◄**M7**
+
+►**M2**
+
+2.2.*PCR*
+
+2.2.1.*Prinsipp*
+
 Deoksyribonukleinsyre-fragment (DNA-fragment) av animalsk opprinnelse som kan forekomme i fôrmidler og fôrblandinger påvises ved en genetisk amplifikasjonsteknikk ved PCR som er rettet mot artsspesifikke DNA-sekvenser.
 
 PCR-metoden krever at det først foretas en DNA-ekstraksjon. Deretter amplifiseres DNA-ekstraktet for å påvise de dyreartene som prøven omfattet.
 
+2.2.2.*Reagenser og utstyr*
+
+2.2.2.1.*Reagenser*
+
+2.2.2.1.1.*Reagenser for DNA-ekstraksjon*
+
 Bare reagenser som er godkjent av EURL-AP og offentliggjort på laboratoriets nettsted, skal brukes.
+
+2.2.2.1.2.*Reagenser for genetisk amplifisering*
+
+2.2.2.1.2.1.*Primere og sonder*
 
 Det skal bare brukes primere og sonder med oligonukleotidsekvenser som er godkjent av EURL-AP ( ).
 
+2.2.2.1.2.2.*Master Mix*
+
 Bare Master Mix-løsninger som ikke inneholder reagenser som kan føre til feil resultat på grunn av forekomst av animalsk DNA, skal brukes ( ).
 
+2.2.2.1.2.3.*Dekontamineringsreagenser*
+
+2.2.2.1.2.3.1.*Saltsyreløsning (0,1 N)*
+
+2.2.2.1.2.3.2.*Blekemiddel (løsning av natriumhypokloritt med 0,15 % aktivt klor)*
+
+2.2.2.1.2.3.3.*Ikke-etsende reagenser for dekontaminering av kostbare enheter som analysevekter (f.eks. DNA EraseTM fra MP Biomedicals)*
+
+2.2.2.2.*Utstyr*
+
+2.2.2.2.1.*Analysevekt med en nøyaktighet på 0,001 g*
+
+2.2.2.2.2.*Malingsutstyr*
+
+2.2.2.2.3.*Termosykler for sanntids PCR*
+
+2.2.2.2.4.*Mikrosentrifuge for mikrosentrifugerør*
+
+2.2.2.2.5.*Sett med mikropipetter som gjør det mulig å overføre fra 1 μl opptil 1000 μl med pipette*
+
+2.2.2.2.6.*Molekylærbiologisk standardutstyr i plast: mikrosentrifugerør, pipettespisser med filter til mikropipetter og plater som passer til termosykleren.*
+
+2.2.2.2.7.*Frysere til lagring av prøver og reagenser*
+
+2.2.3.*Prøvetaking og tillaging av prøver*
+
+2.2.3.1.*Prøvetaking*
+
 Et representativt utvalg prøver, tatt i samsvar med bestemmelsene fastsatt i vedlegg I, skal anvendes.
+
+2.2.3.2.*Tillaging av prøven*
 
 Tillaging av laboratorieprøvene fram til DNA-ekstraksjon skal oppfylle kravene fastsatt i vedlegg II. Minst 50 g av prøven skal brukes som delprøver for analyser og deretter males opp.
 
@@ -3690,13 +6528,19 @@ Tillaging av prøven skal skje i et annet rom enn det som brukes til DNA-ekstrak
 
 Det skal tillages to analyseprøver på minst 100 mg hver.
 
+2.2.4.*DNA-ekstraksjon*
+
 DNA-ekstraksjonen skal gjennomføres på hver tillagede analyseprøve i samsvar med de standardiserte framgangsmåtene (SOP) som er fastsatt av EURL-AP og offentliggjort på laboratoriets nettsted.
 
 Som beskrevet i ISO 24276 skal det utføres to ekstraksjonskontroller for hver ekstraksjonsserie:en blindprøve for ekstraksjon,en positiv kontroll for DNA-ekstraksjon.
 
+2.2.5.*Genetisk amplifisering*
+
 Genetisk amplifisering skal gjennomføres ved hjelp av metodene som er godkjent for hver art som må identifiseres. Disse metodene er nedfelt i de standardiserte framgangsmåtene som er fastsatt av EURL-AP og offentliggjort på laboratoriets nettsted. Hvert DNA-ekstrakt skal analyseres ved minst to ulike konsentrasjoner for å vurdere hemming.
 
 Som beskrevet i ISO 24276 skal det utføres to amplifiseringskontroller for hver målart:en positiv kontroll for mål-DNA skal brukes for hver plate eller serie av PCR-undersøkelse,en reagenskontroll for amplifiseringen (også kalt NTC for «no template control») skal brukes for hver plate eller serie av PCR-undersøkelser.
+
+2.2.6.*Tolking og framlegging av resultater*
 
 Når resultatene rapporteres, skal laboratoriet minst oppgi vekten på de analyseprøvene som er brukt, hvilke ekstraksjonsteknikker som er brukt, antall bestemmelser som er gjennomført og metodens påvisningsgrense.
 
@@ -3706,25 +6550,41 @@ Dersom resultatene fra de to analyseprøvene ikke stemmer overens, skal minst de
 
 Den endelige framleggingen av resultatene skal bygge på integrering og tolking av resultatene fra de to analyseprøvene i samsvar med de standardiserte framgangsmåtene som er fastsatt av EURL-AP og offentliggjort på laboratoriets nettsted.
 
+2.2.6.1.*Negative resultater*
+
 Et negativt resultat skal rapporteres som følger:
 
 Det ble ikke påvist DNA fra X i den innsendte prøven (der X er dyreart eller gruppen av dyrearter som er målet for forsøket).
+
+2.2.6.2.*Positive resultater*
 
 Et positivt resultat skal rapporteres som følger:
 
 Det ble påvist DNA fra X i den innsendte prøven (der X er dyreart eller gruppen av dyrearter som er målet for forsøket).
 
+◄**M2**
+
 ### VEDLEGG VII
 
+**►M8**
+
 ### Metode for å beregne energiverdien i fjørfefôr
+
+###### 1. Beregningsmetode og angivelse av energiinnhold
 
 Energiinnholdet i fôrblandinger for fjørfe skal beregnes etter følgende formel ut fra visse analytiske bestanddelers prosentvise andel av fôrvaren. Verdien skal angis i megajoule (MJ) omsettelig energi (OE), korrigert for nitrogen, per kg fôrblanding:
 
 MJ/kg OE = 0,1551 x % råprotein + 0,3431 x % råfett + 0,1669 x % stivelse + 0,1301 x % totalsukker (uttrykt som sukrose).
 
+###### 2. Toleranse for angitte verdier
+
 Dersom det ved den offentlige kontrollen fastslås et avvik (økning eller reduksjon i fôrvarens energiverdi) mellom kontrollresultatet og den angitte energiverdien, skal det benyttes en toleranse på 0,4 MJ/kg av OE.
 
+###### 3. Angivelse av resultatene
+
 Resultatet som oppnås ved anvendelsen av ovennevnte formel, skal angis med en nøyaktighet på én desimal.
+
+###### 4. Prøvetakings- og analysemetoder
 
 Prøvetaking av fôrblandinger og bestemmelse av innholdet av analytiske bestanddeler angitt i beregningsmetoden, skal foretas etter henholdsvis prøvetakings- og analysemetodene for offentlig kontroll av fôrvarer fastsatt av Unionen.
 
@@ -3734,41 +6594,214 @@ Følgende metoder får anvendelse:Ved bestemmelse av råfettinnhold: framgangsm�
 
 Energiverdien i fôrmidler og fôrblandinger til katter og hunder skal beregnes i samsvar med EN 16967 Fôrvarer: Prøvetakings- og analysemetoder – Beregning av omsettelig energi i fôrmidler og fôrblandinger (fôr til kjæledyr) for katter og hunder, inkludert diettfôr.
 
+◄**M8**
+
 ### VEDLEGG IX
 Sammenligningstabell omhandlet i artikkel 6
 
 ### 1. Direktiv [71/250/EØF](eu/31971l0250*)
 
+| *Direktiv [71/250/EØF](eu/31971l0250*)* | *Denne forordning* |
+| --- | --- |
+| Artikkel 1 første ledd | Artikkel 3 |
+| Artikkel 1 annet ledd | Artikkel 2 |
+| Artikkel 2 | – |
+| Artikkel 3 | – |
+| Vedlegg del 1 | Vedlegg II |
+| Vedlegg del 2 | – |
+| Vedlegg del 3 | – |
+| Vedlegg del 4 | Vedlegg III del O |
+| Vedlegg del 5 | Vedlegg III del M |
+| Vedlegg del 6 | Vedlegg III del N |
+| Vedlegg del 7 | Vedlegg III del Q |
+| Vedlegg del 9 | Vedlegg III del K |
+| Vedlegg del 10 | – |
+| Vedlegg del 11 | – |
+| Vedlegg del 12 | Vedlegg III del J |
+| Vedlegg del 14 | Vedlegg III del D |
+| Vedlegg del 16 | – |
+
 ### 2. Direktiv [71/393/EØF](eu/31971l0393)
+
+| *Direktiv [71/393/EØF](eu/31971l0393)* | *Denne forordning* |
+| --- | --- |
+| Artikkel 1 | Artikkel 3 |
+| Artikkel 2 | – |
+| Artikkel 3 | – |
+| Vedlegg del I | Vedlegg III del A |
+| Vedlegg del II | Vedlegg III del E |
+| Vedlegg del III | Vedlegg III del P |
+| Vedlegg del IV | Vedlegg III del H |
 
 ### 3. Direktiv [72/199/EØF](eu/31972l0199*)
 
+| *Direktiv [72/199/EØF](eu/31972l0199*)* | *Denne forordning* |
+| --- | --- |
+| Artikkel 1 | Artikkel 3 |
+| Artikkel 2 | – |
+| Artikkel 3 | – |
+| Artikkel 4 | – |
+| Vedlegg I del 1 | Vedlegg III del L |
+| Vedlegg I del 2 | Vedlegg III del C |
+| Vedlegg I del 3 | – |
+| Vedlegg I del 4 | – |
+| Vedlegg I del 5 | Vedlegg V del A |
+| Vedlegg II | – |
+
 ### 4. Direktiv [73/46/EØF](eu/31973l0046)
+
+| *Direktiv [73/46/EØF](eu/31973l0046)* | *Denne forordning* |
+| --- | --- |
+| Artikkel 1 | Artikkel 3 |
+| Artikkel 3 | – |
+| Artikkel 4 | – |
+| Vedlegg I del 1 | Vedlegg III del B |
+| Vedlegg I del 2 | – |
+| Vedlegg I del 3 | Vedlegg III del I |
 
 ### 5. Direktiv [76/371/EØF](eu/31976l0371)
 
+| *Direktiv [76/371/EØF](eu/31976l0371)* | *Denne forordning* |
+| --- | --- |
+| Artikkel 1 | Artikkel 1 |
+| Artikkel 2 | – |
+| Artikkel 3 | – |
+| Vedlegg | Vedlegg I |
+
 ### 6. Direktiv [76/372/EØF](eu/31976l0372)
+
+| *Direktiv [76/372/EØF](eu/31976l0372)* | *Denne forordning* |
+| --- | --- |
+| Artikkel 1 | – |
+| Artikkel 2 | – |
+| Artikkel 3 | – |
+| Vedlegg | – |
 
 ### 7. Direktiv [78/633/EØF](eu/31978l0633)
 
+| *Direktiv [78/633/EØF](eu/31978l0633)* | *Denne forordning* |
+| --- | --- |
+| Artikkel 1 | Artikkel 3 |
+| Artikkel 2 | – |
+| Artikkel 3 | – |
+| Vedlegg del 1 | – |
+| Vedlegg del 2 | – |
+| Vedlegg del 3 | Vedlegg IV del C |
+
 ### 8. Direktiv [81/715/EØF](eu/31981l0715)
+
+| *Direktiv [81/715/EØF](eu/31981l0715)* | *Denne forordning* |
+| --- | --- |
+| Artikkel 1 | – |
+| Artikkel 2 | – |
+| Artikkel 3 | – |
+| Vedlegg | – |
 
 ### 9. Direktiv [84/425/EØF](eu/31984l0425)
 
+| *Direktiv [84/425/EØF](eu/31984l0425)* | *Denne forordning* |
+| --- | --- |
+| Artikkel 1 | – |
+| Artikkel 2 | – |
+| Artikkel 3 | – |
+| Vedlegg | – |
+
 ### 10. Direktiv [86/174/EØF](eu/31986l0174)
+
+| *Direktiv [86/174/EØF](eu/31986l0174)* | *Denne forordning* |
+| --- | --- |
+| Artikkel 1 | Artikkel 4 |
+| Artikkel 2 | – |
+| Artikkel 3 | – |
+| Vedlegg | Vedlegg VII |
 
 ### 11. Direktiv [93/70/EØF](eu/31993l0070)
 
+| *Direktiv [93/70/EØF](eu/31993l0070)* | *Denne forordning* |
+| --- | --- |
+| Artikkel 1 | Artikkel 3 |
+| Artikkel 2 | – |
+| Artikkel 3 | – |
+| Vedlegg | Vedlegg IV del D |
+
 ### 12. Direktiv [93/117/EF](eu/31993l0117)
+
+| *Direktiv [93/117/EF](eu/31993l0117)* | *Denne forordning* |
+| --- | --- |
+| Artikkel 1 | Artikkel 3 og 5 |
+| Artikkel 2 | – |
+| Artikkel 3 | – |
+| Vedlegg del 1 | Vedlegg IV del E |
+| Vedlegg del 2 | Vedlegg VIII del A |
 
 ### 13. Direktiv [98/64/EF](eu/31998l0064*)
 
+| *Direktiv [98/64/EF](eu/31998l0064*)* | *Denne forordning* |
+| --- | --- |
+| Artikkel 1 | Artikkel 3 og 5 |
+| Artikkel 2 | – |
+| Artikkel 3 | – |
+| Artikkel 4 | – |
+| Vedlegg del A | Vedlegg III del F |
+| Vedlegg del C | Vedlegg VIII del B |
+
 ### 14. Direktiv [1999/27/EF](eu/31999l0027)
+
+| *Direktiv [1999/27/EF](eu/31999l0027)* | *Denne forordning* |
+| --- | --- |
+| Artikkel 1 | Artikkel 3 og 5 |
+| Artikkel 2 | – |
+| Artikkel 3 | – |
+| Artikkel 4 | – |
+| Artikkel 5 | – |
+| Artikkel 6 | – |
+| Artikkel 7 | – |
+| Vedlegg del A | Vedlegg VIII del C |
+| Vedlegg del B | Vedlegg IV del F |
+| Vedlegg del C | Vedlegg VIII del D |
 
 ### 15. Direktiv [1999/76/EF](eu/31999l0076)
 
+| *Direktiv [1999/76/EF](eu/31999l0076)* | *Denne forordning* |
+| --- | --- |
+| Artikkel 1 | Artikkel 3 |
+| Artikkel 2 | – |
+| Artikkel 3 | – |
+| Artikkel 4 | – |
+| Vedlegg | Vedlegg IV del G |
+
 ### 16. Direktiv [2000/45/EF](eu/32000l0045)
+
+| *Direktiv [2000/45/EF](eu/32000l0045)* | *Denne forordning* |
+| --- | --- |
+| Artikkel 1 | Artikkel 3 |
+| Artikkel 2 | – |
+| Artikkel 3 | – |
+| Artikkel 4 | – |
+| Vedlegg del A | Vedlegg IV del A |
+| Vedlegg del B | Vedlegg IV del B |
+| Vedlegg del C | Vedlegg III del G |
 
 ### 17. Direktiv [2002/70/EF](eu/32002l0070)
 
+| *Direktiv [2002/70/EF](eu/32002l0070)* | *Denne forordning* |
+| --- | --- |
+| Artikkel 1 | Artikkel 1 |
+| Artikkel 2 | Artikkel 2 og 3 |
+| Artikkel 3 | – |
+| Artikkel 4 | – |
+| Artikkel 5 | – |
+| Vedlegg I | Vedlegg I og V del B(I) |
+| Vedlegg II | Vedlegg II og V del B(II) |
+
 ### 18. Direktiv [2003/126/EF](eu/32003l0126)
+
+| *Direktiv [2003/126/EF](eu/32003l0126)* | *Denne forordning* |
+| --- | --- |
+| Artikkel 1 | Artikkel 3 |
+| Artikkel 2 | – |
+| Artikkel 3 | – |
+| Artikkel 4 | – |
+| Artikkel 5 | – |
+| Artikkel 6 | – |
+| Vedlegg | Vedlegg VI |

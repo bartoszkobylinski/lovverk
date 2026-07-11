@@ -15,7 +15,7 @@ xml_hash: "82bbf60c588d304f917176cf5b7ad45e476e83a32c67b8296aa5a684a714c1d4"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-10T17:52:49.841668+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -437,13 +437,17 @@ Verdiene er angitt på et kart som presenterer de signifikante bølgehøydene, s
 
 Kystområdene skal anses å ha signifikante bølgehøyder på mindre enn 1,5 m med mindre annet er angitt på kartet.
 
-(Kart 1)(Kart er utelatt.)1
+(Kart 1)
+
+(Kart er utelatt.)1
 
 Merknad:
 
 Bølgehøydene oppgitt på dette kartet er de signifikante bølgehøydene (Hs) som ikke overskrides med en sannsynlighet på mer enn 10%, og som skal brukes for å bestemme vannhøyden.
 
-(Kart 2)(Kart er utelatt.)1
+(Kart 2)
+
+(Kart er utelatt.)1
 
 Merknad:
 

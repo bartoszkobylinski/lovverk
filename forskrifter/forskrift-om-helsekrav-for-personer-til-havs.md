@@ -15,7 +15,7 @@ xml_hash: "2a7739f6b648682b3ff9fa1344347ac30cf50789291174f96f1b7c6ce3aafceb"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-10T17:52:49.841668+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -98,9 +98,13 @@ Helsedirektoratets vedtak om forhåndsgodkjenning av kurs kan påklages til Nasj
 
 ### § 9. Utdypende kompetansekrav for dykkerlege
 
-*Førstegangs godkjenning*For å bli godkjent som dykkerlege må vedkommende foruten å være godkjent petroleumslege også dokumentere kjennskap til de spesielle forhold og krav som gjelder ved arbeid under forhøyet omgivende trykk. Helsedirektoratet gir nærmere bestemmelser om dette kompetansekravet.
+*Førstegangs godkjenning*
 
-*Vedlikeholdskrav*Gjennomført obligatorisk oppdateringskurs og bestått eksamen.
+For å bli godkjent som dykkerlege må vedkommende foruten å være godkjent petroleumslege også dokumentere kjennskap til de spesielle forhold og krav som gjelder ved arbeid under forhøyet omgivende trykk. Helsedirektoratet gir nærmere bestemmelser om dette kompetansekravet.
+
+*Vedlikeholdskrav*
+
+Gjennomført obligatorisk oppdateringskurs og bestått eksamen.
 
 Helsedirektoratets vedtak om forhåndsgodkjenning av kurs kan påklages til Nasjonalt klageorgan for helsetjenesten.
 

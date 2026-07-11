@@ -17,7 +17,7 @@ xml_hash: "afed05b5293634bf7b9fbfc4a5e6f0109424129991a1210949639d39be9fdf9d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-02T07:28:16.500138+00:00"
+retrieved_at: "2026-07-10T17:52:49.841668+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -114,7 +114,9 @@ under henvisning til traktaten om Den europeiske unions virkemåte,
 
 under henvisning til europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*) av 15. mars 2017 om offentlig kontroll og annen offentlig virksomhet som gjennomføres for å sikre anvendelsen av næringsmiddel- og fôrvareregelverket samt regler for dyrs helse og velferd, plantehelse og plantevernmidler, om endring av europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999), (EF) [nr. 396/2005](eu/32005r0396), (EF) [nr. 1069/2009](eu/32009r1069), (EF) [nr. 1107/2009](eu/32009r1107), (EU) [nr. 1151/2012](eu/32012r1151*), (EU) [nr. 652/2014](eu/32014r0652), (EU) [2016/429](eu/32016r0429*) og (EU) [2016/2031](eu/32016r2031), rådsforordning [(EF) nr. 1/2005](eu/32005r0001*) og (EF) [nr. 1099/2009](eu/32009r1099) samt rådsdirektiv [98/58/EF](eu/31998l0058), [1999/74/EF](eu/31999l0074), [2007/43/EF](eu/32007l0043), [2008/119/EF](eu/32008l0119) og [2008/120/EF](eu/32008*0120) og om oppheving av europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854*) og (EF) [nr. 882/2004](eu/32004r0882*), rådsdirektiv [89/608/EØF](eu/31989l0608), [89/662/EØF](eu/31989l0662*), [90/425/EØF](eu/31990l0425), [91/496/EØF](eu/31991l0496*), [96/23/EF](eu/31996l0023), [96/93/EF](eu/31996*0093) og [97/78/EF](eu/31997l0078) og rådsvedtak [92/438/EØF](eu/31992d0438) (forordningen om offentlig kontroll)1, særlig artikkel 34 nr. 6 bokstav a), artikkel 47 nr. 2 bokstav b), artikkel 54 nr. 4 bokstav a) og b) og artikkel 90 bokstav c),
 
-under henvisning til europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178) av 28. januar 2002 om fastsettelse av allmenne prinsipper og krav i næringsmiddelregelverket, om opprettelse av Den europeiske myndighet for næringsmiddeltrygghet og om fastsettelse av framgangsmåter i forbindelse med næringsmiddeltrygghet2, særlig artikkel 53 nr. 1 bokstav b), ogut fra følgende betraktninger:
+under henvisning til europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178) av 28. januar 2002 om fastsettelse av allmenne prinsipper og krav i næringsmiddelregelverket, om opprettelse av Den europeiske myndighet for næringsmiddeltrygghet og om fastsettelse av framgangsmåter i forbindelse med næringsmiddeltrygghet2, særlig artikkel 53 nr. 1 bokstav b), og
+
+ut fra følgende betraktninger:
 
 1. I forordning [(EU) 2017/625](eu/32017r0625*) integreres i én enkelt rettslig ramme reglene for offentlig kontroll av dyr og varer som innføres til Unionen, for å verifisere overholdelsen av Unionens regelverk for den landbruksbaserte næringsmiddelkjeden. For dette formål opphever og erstatter den europaparlaments- og rådsforordning [(EF) nr. 882/2004](eu/32004r0882*)3 og andre unionsrettsakter som regulerer offentlig kontroll på særlige områder.
 2. I henhold til forordning [(EU) 2017/625](eu/32017r0625*) er det visse kategorier av dyr og varer fra visse tredjestater som alltid skal framvises på grensekontrollstasjonene, slik at offentlig kontroll kan gjennomføres før innførsel til Unionen. I tillegg fastsetter artikkel 47 nr. 1 bokstav d) og e) i forordning [(EU) 2017/625](eu/32017r0625*) at varer som omfattes av tiltak som krever henholdsvis midlertidig strengere offentlig kontroll eller beskyttelsestiltak, bør omfattes av offentlig kontroll på grensekontrollstasjonene ved innførsel til Unionen.

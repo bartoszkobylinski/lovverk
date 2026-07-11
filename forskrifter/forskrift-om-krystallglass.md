@@ -15,7 +15,7 @@ xml_hash: "1b2f1ed8e75fb244c21882a8a412f082a21beedfacc5a55810236b3c62cfc9e6"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-10T17:52:49.841668+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -114,7 +114,18 @@ Filtrer gjennom et finfilterpapir og vask med kaldt vann. Kalsiner bunnfallet ve
 
 Damp inn filtratet fra utskilling av BaSO4 slik at mengden reduseres til 200 ml. Nøytraliser med ammoniak med tilstedeværelse av metylrød og tilsett 20 ml N/10 svovelsyre. Juster pH-verdien til 2 (pH-meter) ved å tilsette av enten N/10 svovelsyre eller N/10 natriumhydroksid, alt etter tilfellet, og fell ut sinksulfid kaldt ved å sende en strøm av hydrogensulfid gjennom løsningen. La bunnfallet stå i fire timer, og samle det deretter på et finfilterpapir. Vask med kaldt vann mettet med hydrogensulfid. Løs bunnfallet på filteret ved å helle gjennom det 25 ml av en varm løsning av 10% saltsyre. Vask filteret med kokende vann til det er blitt en mengde på ca. 150 ml. Nøytraliser med ammoniak under tilstedeværelse av lakkmuspapir, tilsett deretter 1-2 g urotropin i fast form for å fiksere pH-verdien ca. 5. Tilsett noen dråper av en nytillaget vannrik oppløsning av 0,5% xylenoloransje og titrer med en N/10 Complexon III til fargen skifter fra lyserød til sitrongul.
 
-1.3.*Bestemmelse av K2 O*ved utfelling og veiing av kaliumtetrafenylboratFremgangsmåte:2 g glass knuses og siktes, ogoppløses deretter i:2 ml konsentrert HNO315 ml HCO425 ml HF
+1.3.*Bestemmelse av K2 O*
+
+ved utfelling og veiing av kaliumtetrafenylborat
+
+|  |  |
+| --- | --- |
+| Fremgangsmåte: | 2 g glass knuses og siktes, og |
+|  | oppløses deretter i: |
+|  | 2 ml konsentrert HNO3 |
+|  | 15 ml HCO4 |
+|  | 25 ml HF |
+
 i platinaskål i vannbad og deretter i sandbad. Når det er avgitt tett damp av perklorsyre (damp inn til tørt) løses blandingen i 20 ml varmt vann og 2-3 ml konsentrert HCL.
 
 Ha det over i en 200 ml målekolbe og fyll opp med destillert vann til volumet er nådd.

@@ -17,7 +17,7 @@ xml_hash: "9f4a27f9d159788190de26d46669d70df12fdcb446dd277e0c27526b6f56e680"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-10T17:52:49.841668+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -62,9 +62,17 @@ Nedenfor gjengis til informasjon EØS-avtalen vedlegg I kapittel I del 1.2 nr. 1
 
 CVED-sertifikatet nevnt under vedlegg III finnes i pdf-filen nedenfor.
 
-►**B** Kommisjonsforordning [(EF) nr. 136/2004](eu/32004r0136) av 22. januar 2004som endret ved:
+►**B** Kommisjonsforordning [(EF) nr. 136/2004](eu/32004r0136) av 22. januar 2004
 
-► **M3** Forordning [(EU) nr. 519/2013](eu/32013r0519) av 21. februar 2013► **M4** Kommisjonens gjennomføringsforordning [(EU) nr. 359/2014](eu/32014r0359) av 9. april 2014► **M5** Kommisjonens gjennomføringsforordning [(EU) nr. 494/2014](eu/32014r0494) av 13. mai 2014► **M7** Kommisjonens gjennomføringsforordning [(EU) 2019/2130](eu/32019r2130) av 25. november 2019
+som endret ved:
+
+► **M3** Forordning [(EU) nr. 519/2013](eu/32013r0519) av 21. februar 2013
+
+► **M4** Kommisjonens gjennomføringsforordning [(EU) nr. 359/2014](eu/32014r0359) av 9. april 2014
+
+► **M5** Kommisjonens gjennomføringsforordning [(EU) nr. 494/2014](eu/32014r0494) av 13. mai 2014
+
+► **M7** Kommisjonens gjennomføringsforordning [(EU) 2019/2130](eu/32019r2130) av 25. november 2019
 
 ### Kommisjonsforordning [(EF) nr. 136/2004](eu/32004r0136)
 av 22. januar 2004

@@ -58,9 +58,35 @@ Denne forskriften trer i kraft fra den blir kunngjort i Norsk Lovtidend. Samtidi
 
 Nedenfor gjengis til informasjon norsk oversettelse av europaparlaments- og rådsforordning [(EU) nr. 2017/625](eu/32017r0625*). Med de endringer som følger av EØS-avtalen. Dette er grunnrettsakten. Grunnrettsakten er endret ved forordning [(EU) 2019/478](eu/32019r0478) og forordning [(EU) 2019/2127](eu/32019r2127). Alle endringer av grunnrettsakten samt de endringer og tillegg som følger av EØS-tilpasningen av grunnrettsakten i samsvar med vedlegg I er innarbeidet nedenfor
 
+►**B** EUROPAPARLAMENTS- OG RÅDSFORORDNING [(EU) nr. 2017/625](eu/32017r0625*)
+
+som endret ved:
+
+►**M1** Forordning [(EU) 2019/478](eu/32019r0478) av 14. januar 2019
+
+►**M2** Forordning [(EF) 2019/2127](eu/32019r2127) av 10. oktober 2019
+
+►**M3** Forordning [(EU) 2021/1756](eu/32021r1756) av 6. oktober 2021
+
 ### EUROPAPARLAMENTS- OG RÅDSFORORDNING [(EU) 2017/625](eu/32017r0625*)
 av 15. mars 2017
 om offentlig kontroll og annen offentlig virksomhet som gjennomføres for å sikre anvendelsen av næringsmiddel- og fôrvareregelverket samt regler for dyrs helse og velferd, plantehelse og plantevernmidler, om endring av europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999), (EF) [nr. 396/2005](eu/32005r0396), (EF) [nr. 1069/2009](eu/32009r1069), (EF) [nr. 1107/2009](eu/32009r1107), (EU) [nr. 1151/2012](eu/32012r1151*), (EU) [nr. 652/2014](eu/32014r0652), (EU) [2016/429](eu/32016r0429*) og (EU) [2016/2031](eu/32016r2031), rådsforordning [(EF) nr. 1/2005](eu/32005r0001*) og (EF) [nr. 1099/2009](eu/32009r1099) samt rådsdirektiv [98/58/EF](eu/31998l0058), [1999/74/EF](eu/31999l0074), [2007/43/EF](eu/32007l0043), [2008/119/EF](eu/32008l0119) og [2008/120/EF](eu/32008*0120) og om oppheving av europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854*) og (EF) [nr. 882/2004](eu/32004r0882*), rådsdirektiv [89/608/EØF](eu/31989l0608), [89/662/EØF](eu/31989l0662*), [90/425/EØF](eu/31990l0425), [91/496/EØF](eu/31991l0496*), [96/23/EF](eu/31996l0023), [96/93/EF](eu/31996*0093) og [97/78/EF](eu/31997l0078) og rådsbeslutning [92/438/EØF](eu/31992d0438) (forordningen om offentlig kontroll)
+
+EUROPAPARLAMENTET OG RÅDET FOR DEN EUROPEISKE UNION HAR
+
+under henvisning til traktaten om Den europeiske unions virkemåte, særlig artikkel 43 nr. 2, artikkel 114 og artikkel 168 nr. 4 bokstav b),
+
+under henvisning til forslag fra Europakommisjonen,
+
+etter oversending av utkast til regelverksakt til de nasjonale parlamentene,
+
+under henvisning til uttalelse fra Den europeiske økonomiske og sosiale komité1,
+
+under henvisning til uttalelse fra Regionkomiteen2,
+
+etter den ordinære regelverksprosedyren3 og
+
+ut fra følgende betraktninger:
 
 1. I henhold til traktaten om Den europeiske unions virkemåte (TEUV) skal det ved fastsettelsen og gjennomføringen av alle deler av Unionens politikk og virksomhet sikres et høyt vernenivå for menneskers og dyrs helse og miljøet. Dette målet bør blant annet nås gjennom tiltak på veterinær- og plantehelseområdet, som har vern av menneskers helse som sitt ytterste mål.
 2. Traktaten fastsetter også at Unionen skal bidra til å oppnå et høyt nivå for forbrukervern ved de tiltakene den treffer i forbindelse med gjennomføringen av det indre marked.
@@ -162,32 +188,128 @@ om offentlig kontroll og annen offentlig virksomhet som gjennomføres for å sik
 98. For å sikre ensartede vilkår for gjennomføringen av denne forordning bør Kommisjonen gis gjennomføringsmyndighet med hensyn til regler og praktiske ordninger for revisjoner, formatet på sertifikater og andre dokumenter, opprettelse av databaserte systemer for informasjonsstyring, samarbeid mellom de driftsansvarlige og vedkommende myndigheter og mellom vedkommende myndigheter, tollmyndigheter og andre myndigheter, metodene for prøvetaking og laboratorieanalyser, -undersøkelser og -diagnostisering samt validering og tolking, sporbarhet, utarbeiding av lister over dyr eller varer som omfattes av kontrollen, samt en liste over stater eller regioner som kan eksportere visse dyr og varer til Unionen, forhåndsmelding om forsendelser, utveksling av opplysninger, grensekontrollstasjoner, isolasjon og karantene, godkjenning av kontroll som gjennomføres av tredjestater før eksport, tiltak for å begrense en risiko eller stanse en omfattende alvorlig manglende overholdelse med hensyn til visse dyr eller varer med opprinnelse i en tredjestat eller en region i en tredjestat, anerkjennelse av tredjestater eller regioner som gir garantier som er likeverdige med dem som brukes i Unionen, og oppheving av denne anerkjennelsen, opplæring og programmer for utveksling av personale mellom medlemsstatene, og for beredskapsplanene for næringsmidler og fôr jf. den generelle planen for krisehåndtering nevnt i artikkel 55 nr. 1 i forordning [(EF) nr. 178/2002](eu/32002r0178). Denne myndigheten bør utøves i samsvar med europaparlaments- og rådsforordning [(EU) nr. 182/2011](eu/32011r0182)45.
 99. Ettersom målet for denne forordning, som er å sikre en harmonisert tilnærming til offentlig kontroll og annen offentlig virksomhet som gjennomføres for å sikre anvendelsen av Unionens regelverk for den landbruksbaserte næringsmiddelkjeden, ikke kan nås i tilstrekkelig grad av medlemsstatene og derfor på grunn av sin virkning, kompleksitet og grensekryssende og internasjonale karakter bedre kan nås på unionsplan, kan Unionen treffe tiltak i samsvar med nærhetsprinsippet som fastsatt i artikkel 5 i traktaten om Den europeiske union. I samsvar med forholdsmessighetsprinsippet fastsatt i nevnte artikkel går denne forordning ikke lenger enn det som er nødvendig for å nå dette målet.
 
+1 EUT C 67 av 6.3.2014, s. 166.
+
+2 EUT C 114 av 15.4.2014, s. 96.
+
+3 Europaparlamentets holdning av 15. april 2014 (ennå ikke offentliggjort i EUT) og Rådets holdning ved første behandling av 19. desember 2016 (ennå ikke offentliggjort i EUT). Europaparlamentets holdning av 15. mars 2017 (ennå ikke offentliggjort i EUT).
+
+4 Europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178) av 28. januar 2002 om fastsettelse av allmenne prinsipper og krav i næringsmiddelregelverket, om opprettelse av Den europeiske myndighet for næringsmiddeltrygghet og om fastsettelse av framgangsmåter i forbindelse med næringsmiddeltrygghet (EFT L 31 av 1.2.2002, s. 1).
+
+5 Europaparlaments- og rådsdirektiv [2001/18/EF](eu/32001l0018) av 12. mars 2001 om utsetting i miljøet av genmodifiserte organismer og om oppheving av rådsdirektiv [90/220/EØF](eu/31990l0220*) (EFT L 106 av 17.4.2001, s. 1).
+
+6 Europaparlaments- og rådsforordning [(EF) nr. 1829/2003](eu/32003r1829) av 22. september 2003 om genmodifiserte næringsmidler og fôr (EUT L 268 av 18.10.2003, s. 1).
+
+7 Europaparlaments- og rådsforordning [(EF) nr. 882/2004](eu/32004r0882*) av 29. april 2004 om offentlig kontroll for å sikre at fôrvare- og næringsmiddelregelverket samt bestemmelsene om dyrs helse og velferd overholdes (EUT L 165 av 30.4.2004, s. 1).
+
+8 Europaparlaments- og rådsforordning [(EF) nr. 1069/2009](eu/32009r1069) av 21. oktober 2009 om fastsettelse av hygieneregler for animalske biprodukter og avledede produkter som ikke er beregnet på konsum, og om oppheving av forordning [(EF) nr. 1774/2002](eu/32002r1774*) (forordningen om animalske biprodukter) (EUT L 300 av 14.11.2009, s. 1).
+
+9 Rådsdirektiv [2000/29/EF](eu/32000l0029*) av 8. mai 2000 om beskyttelsestiltak mot innføring til Fellesskapet av organismer som er skadelige for planter eller planteprodukter og spredning av dem i Fellesskapet (EFT L 169 av 10.7.2000, s. 1).
+
+10 Rådsdirektiv [96/23/EF](eu/31996l0023) av 29. april 1996 om kontrolltiltak som skal iverksettes med hensyn til visse stoffer og deres restmengder i levende dyr og animalske produkter, og om oppheving av direktiv [85/358/EØF](eu/31985l0358) og [86/469/EØF](eu/31986l0469*) samt vedtak [89/187/EØF](eu/31989d0187) og [91/664/EØF](eu/31991d0664) (EFT L 125 av 23.5.1996, s. 10).
+
+11 Europaparlaments- og rådsdirektiv [2009/128/EF](eu/32009l0128*) av 21. oktober 2009 om fastsettelse av en ramme for fellesskapstiltak for å oppnå bærekraftig bruk av pesticider (EUT L 309 av 24.11.2009, s. 71).
+
+12 Europaparlaments- og rådsforordning [(EU) nr. 1308/2013](eu/32013r1308*) av 17. desember 2013 om opprettelse av en felles markedsordning for landbruksvarer og om oppheving av rådsforordning [(EØF) nr. 922/72](eu/31972r0922), (EØF) [nr. 234/79](eu/31979r0234), (EF) [nr. 1037/2001](eu/32001r1037) og (EF) [nr. 1234/2007](eu/32007r1234) (EUT L 347 av 20.12.2013, s. 671).
+
+13 Europaparlaments- og rådsforordning [(EU) nr. 1306/2013](eu/32013r1306*) av 17. desember 2013 om finansiering, forvaltning og overvåking av den felles landbrukspolitikk og om oppheving av rådsforordning [(EØF) nr. 352/78](eu/31978r0352), (EF) [nr. 165/94](eu/31994r0165), (EF) [nr. 2799/98](eu/31998r2799), (EF) [nr. 814/2000](eu/32000r0814), (EF) [nr. 1290/2005](eu/32005r1290*) og (EF) [nr. 485/2008](eu/32008r0485) (EUT L 347 av 20.12.2013, s. 549).
+
+14 Europaparlaments- og rådsdirektiv [95/46/EF](eu/31995l0046) av 24. oktober 1995 om vern av fysiske personer i forbindelse med behandling av personopplysninger og om fri utveksling av slike opplysninger (EFT L 281 av 23.11.1995, s. 31).
+
+15 Europaparlaments- og rådsdirektiv (EU) [2015/1535](eu/32015l1535) av 9. september 2015 om en informasjonsprosedyre for tekniske forskrifter og regler for informasjonssamfunnstjenester (EUT L 241 av 17.9.2015, s. 1).
+
+16 Europaparlaments- og rådsforordning [(EF) nr. 765/2008](eu/32008r0765) av 9. juli 2008 om fastsettelse av kravene til akkreditering og markedstilsyn for markedsføring av produkter, og om oppheving av forordning [(EØF) nr. 339/93](eu/31993r0339*) (EUT L 218 av 13.8.2008, s. 30).
+
+17 Rådsdirektiv [97/78/EF](eu/31997l0078) av 18. desember 1997 om fastsettelse av prinsippene for organisering av veterinærkontrollene av produkter som innføres til Fellesskapet fra tredjestater (EFT L 24 av 30.1.1998, s. 9).
+
+18 Rådsdirektiv [91/496/EØF](eu/31991l0496*) av 15. juli 1991 om fastsettelse av prinsippene for organisering av veterinærkontrollene av dyr som innføres til Fellesskapet fra tredjestater, og om endring av direktiv [89/662/EØF](eu/31989l0662*), [90/425/EØF](eu/31990l0425) og [90/675/EØF](eu/31990l0675) (EFT L 268 av 24.9.1991, s. 56).
+
+19 Kommisjonsforordning [(EF) nr. 669/2009](eu/32009r0669) av 24. juli 2009 om gjennomføring av europaparlaments- og rådsforordning [(EF) nr. 882/2004](eu/32004r0882*) med hensyn til strengere offentlig kontroll ved import av visse fôrvarer og næringsmidler av ikke-animalsk opprinnelse, og om endring av vedtak [2006/504/EF](eu/32006d0504) (EUT L 194 av 25.7.2009, s. 11).
+
+20 Europaparlaments- og rådsforordning [(EF) nr. 1831/2003](eu/32003r1831) av 22. september 2003 om tilsetningsstoffer i fôrvarer (EUT L 268 av 18.10.2003, s. 29).
+
+21 Kommisjonsvedtak [2003/24/EF](eu/32003d0024) av 30. desember 2002 om utvikling av et integrert datasystem for veterinærmyndighetene (EFT L 8 av 14.1.2003, s. 44).
+
+22 Kommisjonsvedtak [2004/292/EF](eu/32004d0292) av 30. mars 2004 om innføring av TRACES-systemet og om endring av vedtak [92/486/EØF](eu/31992d0486) (EUT L 94 av 31.3.2004, s. 63).
+
+23 Rådsdirektiv [90/425/EØF](eu/31990l0425) av 26. juni 1990 om veterinærkontroll og avlskontroll ved handel med visse levende dyr og produkter innenfor Fellesskapet med sikte på gjennomføring av det indre marked (EFT L 224 av 18.8.1990, s. 29).
+
+24 Europaparlaments- og rådsforordning [(EU) 2016/429](eu/32016r0429*) av 9. mars 2016 om smittsomme dyresykdommer og om endring og oppheving av visse rettsakter på dyrehelseområdet («dyrehelseregelverket») (EUT L 84 av 31.3.2016, s. 1).
+
+25 Europaparlaments- og rådsforordning [(EU) 2016/2031](eu/32016r2031) av 26. oktober 2016 om vernetiltak mot planteskadegjørere, om endring av europaparlaments- og rådsforordning [(EU) nr. 228/2013](eu/32013r0228), (EU) [nr. 652/2014](eu/32014r0652) og (EU) [nr. 1143/2014](eu/32014r1143) og om oppheving av rådsdirektiv [69/464/EØF](eu/31969l0464), [74/647/EØF](eu/31974*0647), [93/85/EØF](eu/31993*0085), [98/57/EF](eu/31998*0057), [2000/29/EF](eu/32000*0029), [2006/91/EF](eu/32006d0091) og [2007/33/EF](eu/32007*0033) (EUT L 317 av 23.11.2016, s. 4).
+
+26 Europaparlaments- og rådsdirektiv [1999/93/EF](eu/31999l0093) av 13. desember 1999 om en fellesskapsramme for elektroniske signaturer (EFT L 13 av 19.1.2000, s. 12).
+
+27 Europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854*) av 29. april 2004 om fastsettelse av særlige regler for gjennomføringen av offentlig kontroll av produkter av animalsk opprinnelse beregnet på konsum (EUT L 139 av 30.4.2004, s. 206).
+
+28 Rådsdirektiv [89/608/EØF](eu/31989l0608) av 21. november 1989 om gjensidig bistand mellom medlemsstatenes forvaltningsmyndigheter og om samarbeid mellom dem og Kommisjonen for å sikre riktig anvendelse av veterinær- og avlsbestemmelsene (EFT L 351 av 2.12.1989, s. 34).
+
+29 Rådsdirektiv [89/662/EØF](eu/31989l0662*) av 11. desember 1989 om veterinærkontroll ved handel innenfor Fellesskapet med sikte på gjennomføring av det indre marked (EFT L 395 av 30.12.1989, s. 13).
+
+30 Rådsdirektiv [96/93/EF](eu/31996l0093) av 17. desember 1996 om utstedelse av sertifikater for dyr og animalske produkter (EFT L 13 av 16.1.1997, s. 28).
+
+31 Rådsvedtak [92/438/EØF](eu/31992d0438) av 13. juli 1992 om omlegging til edb–baserte veterinærrutiner ved import (SHIFT-prosjektet), om endring av direktiv [90/675/EØF](eu/31990l0675), [91/496/EØF](eu/31991l0496*), [91/628/EØF](eu/31991l0628) og vedtak [90/424/EØF](eu/31990d0424*) og om oppheving av vedtak [88/192/EØF](eu/31988d0192) (EFT L 243 av 25.8.1992, s. 27).
+
+32 Europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999) av 22. mai 2001 om fastsettelse av regler for å forebygge, bekjempe og utrydde visse typer overførbar spongiform encefalopati (EFT L 147 av 31.5.2001, s. 1).
+
+33 Rådsforordning [(EF) nr. 1/2005](eu/32005r0001*) av 22. desember 2004 om vern av dyr under transport og tilknyttet virksomhet, og om endring av direktiv [64/432/EØF](eu/31964l0432*) og [93/119/EF](eu/31993l0119) og forordning [(EF) nr. 1255/97](eu/31997r1255) (EUT L 3 av 5.1.2005, s. 1).
+
+34 Europaparlaments- og rådsforordning [(EF) nr. 396/2005](eu/32005r0396) av 23. februar 2005 om grenseverdier for rester av pesticider i eller på næringsmidler og fôrvarer av vegetabilsk og animalsk opprinnelse, og om endring av rådsdirektiv [91/414/EØF](eu/31991l0414*) (EUT L 70 av 16.3.2005, s. 1).
+
+35 Rådsforordning [(EF) nr. 1099/2009](eu/32009r1099) av 24. september 2009 om vern av dyr på tidspunktet for avliving (EUT L 303 av 18.11.2009, s. 1).
+
+36 Europaparlaments- og rådsforordning [(EF) nr. 1107/2009](eu/32009r1107) av 21. oktober 2009 om omsetning av plantevernmidler og om oppheving av rådsdirektiv [79/117/EØF](eu/31979l0117) og [91/414/EØF](eu/31991l0414*) (EUT L 309 av 24.11.2009, s. 1).
+
+37 Europaparlaments- og rådsforordning [(EU) nr. 1151/2012](eu/32012r1151*) av 21. november 2012 om kvalitetsordninger for landbruksvarer og næringsmidler (EUT L 343 av 14.12.2012, s. 1).
+
+38 Rådsdirektiv [98/58/EF](eu/31998l0058) av 20. juli 1998 om vern av dyr som holdes for landbruksformål (EFT L 221 av 8.8.1998, s. 23).
+
+39 Rådsdirektiv [1999/74/EF](eu/31999l0074) av 19. juli 1999 om fastsettelse av minstestandarder for vern av verpehøner (EFT L 203 av 3.8.1999, s. 53).
+
+40 Rådsdirektiv [2007/43/EF](eu/32007l0043) av 28. juni 2007 om fastsettelse av minsteregler for vern av slaktekyllinger (EUT L 182 av 12.7.2007, s. 19).
+
+41 Rådsdirektiv [2008/119/EF](eu/32008l0119) av 18. desember 2008 om fastsettelse av minstestandarder for vern av kalver (EUT L 10 av 15.1.2009, s. 7).
+
+42 Rådsdirektiv [2008/120/EF](eu/32008l0120) av 18. desember 2008 om fastsettelse av minstestandarder for vern av svin (EUT L 47 av 18.2.2009, s. 5).
+
+43 Europaparlaments- og rådsforordning [(EU) nr. 652/2014](eu/32014r0652) av 15. mai 2014 om bestemmelser for forvaltningen av utgifter i forbindelse med næringsmiddelkjeden og dyrs helse og velferd og i forbindelse med plantehelse og planteformeringsmateriale, om endring av rådsdirektiv [98/56/EF](eu/31998l0056), [2000/29/EF](eu/32000*0029) og [2008/90/EF](eu/32008*0090), europaparlaments- og rådsforordning [(EF) nr. 178/2002](eu/32002r0178), (EF) [nr. 882/2004](eu/32004r0882*) og (EF) [nr. 396/2005](eu/32005r0396), europaparlaments- og rådsdirektiv [2009/128/EF](eu/32009l0128*) og europaparlaments- og rådsforordning [(EF) nr. 1107/2009](eu/32009r1107) og om oppheving av rådsbeslutning [66/399/EØF](eu/31966d0399), [76/894/EØF](eu/31976*0894) og [2009/470/EF](eu/32009r0470) (EUT L 189 av 27.6.2014, s. 1).
+
+44 EUT L 123 av 12.5.2016, s. 1.
+
+45 Europaparlaments- og rådsforordning [(EU) nr. 182/2011](eu/32011r0182) av 16. februar 2011 om fastsettelse av allmenne regler og prinsipper for medlemsstatenes kontroll med Kommisjonens utøvelse av sin gjennomføringsmyndighet (EUT L 55 av 28.2.2011, s. 13).
+
+VEDTATT DENNE FORORDNING:
+
 ### AVDELING I
 FORMÅL, VIRKEOMRÅDE OG DEFINISJONER
 
 ### Artikkel 1. Formål og virkeområde
 
-1. Denne forordning fastsetter regler foroffentlig kontroll og annen offentlig virksomhet som gjennomføres av vedkommende myndigheter i medlemsstatene,finansiering av offentlig kontroll,administrativ bistand og samarbeid mellom medlemsstatene med sikte på riktig anvendelse av reglene nevnt i nr. 2,Kommisjonens gjennomføring av kontroll i medlemsstatene og tredjestater,vedtakelse av vilkår som skal oppfylles med hensyn til dyr og varer som innføres til Unionen fra en tredjestat,opprettelse av et databasert informasjonssystem til styring av informasjon og data i forbindelse med offentlig kontroll.
+1\. Denne forordning fastsetter regler foroffentlig kontroll og annen offentlig virksomhet som gjennomføres av vedkommende myndigheter i medlemsstatene,finansiering av offentlig kontroll,administrativ bistand og samarbeid mellom medlemsstatene med sikte på riktig anvendelse av reglene nevnt i nr. 2,Kommisjonens gjennomføring av kontroll i medlemsstatene og tredjestater,vedtakelse av vilkår som skal oppfylles med hensyn til dyr og varer som innføres til Unionen fra en tredjestat,opprettelse av et databasert informasjonssystem til styring av informasjon og data i forbindelse med offentlig kontroll.
 
-2. Denne forordning gjelder for offentlig kontroll som gjennomføres for å verifisere overholdelsen av regler, uansett om de er fastsatt på unionsplan eller av medlemsstatene, med hensyn til anvendelse av Unionens regelverk på følgende områder:Næringsmidler og næringsmiddeltrygghet, -integritet og -sunnhet i alle ledd i produksjon, foredling og distribusjon av næringsmidler, herunder regler som skal sikre god forretningsskikk innen handel og verne forbrukernes interesser og opplysning, samt framstilling og bruk av materialer og gjenstander beregnet på å komme i kontakt med næringsmidler.Utsetting i miljøet av genmodifiserte organismer (GMO) beregnet på næringsmiddel- og fôrproduksjon.Fôr og fôrtrygghet i alle ledd i produksjon, foredling og distribusjon av fôr samt bruk av fôr, herunder regler som skal sikre god forretningsskikk innen handel og verne forbrukernes helse, interesser og opplysning.Krav til dyrehelse.Forebygging og begrensning av risiko for menneskers og dyrs helse som følge av animalske biprodukter og avledede produkter.Krav til dyrevelferd.Vernetiltak mot planteskadegjørere.Krav til omsetning og bruk av plantevernmidler og bærekraftig bruk av pesticider, med unntak av utstyr for spredning av pesticider.Økologisk produksjon og merking av økologiske produkter.Bruk og merking av beskyttede opprinnelsesbetegnelser, beskyttede geografiske betegnelser og garanterte tradisjonelle spesialiteter.
+2\. Denne forordning gjelder for offentlig kontroll som gjennomføres for å verifisere overholdelsen av regler, uansett om de er fastsatt på unionsplan eller av medlemsstatene, med hensyn til anvendelse av Unionens regelverk på følgende områder:Næringsmidler og næringsmiddeltrygghet, -integritet og -sunnhet i alle ledd i produksjon, foredling og distribusjon av næringsmidler, herunder regler som skal sikre god forretningsskikk innen handel og verne forbrukernes interesser og opplysning, samt framstilling og bruk av materialer og gjenstander beregnet på å komme i kontakt med næringsmidler.Utsetting i miljøet av genmodifiserte organismer (GMO) beregnet på næringsmiddel- og fôrproduksjon.Fôr og fôrtrygghet i alle ledd i produksjon, foredling og distribusjon av fôr samt bruk av fôr, herunder regler som skal sikre god forretningsskikk innen handel og verne forbrukernes helse, interesser og opplysning.Krav til dyrehelse.Forebygging og begrensning av risiko for menneskers og dyrs helse som følge av animalske biprodukter og avledede produkter.Krav til dyrevelferd.Vernetiltak mot planteskadegjørere.Krav til omsetning og bruk av plantevernmidler og bærekraftig bruk av pesticider, med unntak av utstyr for spredning av pesticider.Økologisk produksjon og merking av økologiske produkter.Bruk og merking av beskyttede opprinnelsesbetegnelser, beskyttede geografiske betegnelser og garanterte tradisjonelle spesialiteter.
 
-3. Denne forordning gjelder også for offentlig kontroll som gjennomføres for å verifisere overholdelsen av kravene fastsatt i reglene nevnt i nr. 2, når disse kravene gjelder for dyr og varer som innføres til Unionen eller skal eksporteres fra Unionen.
+3\. Denne forordning gjelder også for offentlig kontroll som gjennomføres for å verifisere overholdelsen av kravene fastsatt i reglene nevnt i nr. 2, når disse kravene gjelder for dyr og varer som innføres til Unionen eller skal eksporteres fra Unionen.
 
-4. Denne forordning gjelder ikke for offentlig kontroll som skal verifisere overholdelsen avforordning [(EU) nr. 1308/2013](eu/32013r1308*); denne forordning gjelder imidlertid for kontroll i henhold til artikkel 89 i forordning [(EU) nr. 1306/2013](eu/32013r1306*), når denne kontrollen avdekker mulig bedrageri eller villedende praksis med hensyn til markedsføringsstandardene nevnt i artikkel 73–91 i forordning [(EU) nr. 1308/2013](eu/32013r1308*),europaparlaments- og rådsdirektiv [2010/63/EU](eu/32010l0063)46,
+4\. Denne forordning gjelder ikke for offentlig kontroll som skal verifisere overholdelsen avforordning [(EU) nr. 1308/2013](eu/32013r1308*); denne forordning gjelder imidlertid for kontroll i henhold til artikkel 89 i forordning [(EU) nr. 1306/2013](eu/32013r1306*), når denne kontrollen avdekker mulig bedrageri eller villedende praksis med hensyn til markedsføringsstandardene nevnt i artikkel 73–91 i forordning [(EU) nr. 1308/2013](eu/32013r1308*),europaparlaments- og rådsdirektiv [2010/63/EU](eu/32010l0063)46,
 ►**M3**Europaparlaments- og rådsforordning [(EU) 2019/6](eu/32019r0006)47; denne forordningen får imidlertid anvendelse på offentlig kontroll som skal verifisere overholdelsen av artikkel 118 nr. 1 i nevnte forordning.
 ◄**M3**
 
-5. Artikkel 4, 5, 6 og 8, artikkel 12 nr. 2 og 3, artikkel 15, artikkel 18–27, 31–34, 37–42 og artikkel 78, artikkel 86–108, artikkel 112 bokstav b), artikkel 130 og artikkel 131–141 gjelder også for annen offentlig virksomhet som vedkommende myndigheter gjennomfører i samsvar med denne forordning eller med reglene nevnt i nr. 2 i denne artikkel.
+5\. Artikkel 4, 5, 6 og 8, artikkel 12 nr. 2 og 3, artikkel 15, artikkel 18–27, 31–34, 37–42 og artikkel 78, artikkel 86–108, artikkel 112 bokstav b), artikkel 130 og artikkel 131–141 gjelder også for annen offentlig virksomhet som vedkommende myndigheter gjennomfører i samsvar med denne forordning eller med reglene nevnt i nr. 2 i denne artikkel.
+
+46 Europaparlaments- og rådsdirektiv [2010/63/EU](eu/32010l0063) av 22. september 2010 om vern av dyr som brukes til vitenskapelige formål (EUT L 276 av 20.10.2010, s. 33).►**M3**47 Europaparlaments- og rådsforordning [(EU) 2019/6](eu/32019r0006) av 11. desember 2018 om legemidler til dyr og om oppheving av direktiv [2001/82/EF](eu/32001l0082) (EUT L 4 av 7.1.2019, s. 43).◄**M3**
 
 ### Artikkel 2. Offentlig kontroll og annen offentlig virksomhet
 
-1. I denne forordning menes med «offentlig kontroll» den virksomhet som gjennomføres av vedkommende myndigheter, eller av organer med delegerte oppgaver eller fysiske personer som har fått delegert visse offentlige kontrolloppgaver i samsvar med denne forordning, for å verifisere atde driftsansvarlige overholder denne forordning og reglene nevnt i artikkel 1 nr. 2, ogat dyr eller varer oppfyller kravene fastsatt i reglene nevnt i artikkel 1 nr. 2, herunder for utstedelse av et offisielt sertifikat eller en offisiell attestasjon.
+1\. I denne forordning menes med «offentlig kontroll» den virksomhet som gjennomføres av vedkommende myndigheter, eller av organer med delegerte oppgaver eller fysiske personer som har fått delegert visse offentlige kontrolloppgaver i samsvar med denne forordning, for å verifisere atde driftsansvarlige overholder denne forordning og reglene nevnt i artikkel 1 nr. 2, ogat dyr eller varer oppfyller kravene fastsatt i reglene nevnt i artikkel 1 nr. 2, herunder for utstedelse av et offisielt sertifikat eller en offisiell attestasjon.
 
-2. I denne forordning menes med «annen offentlig virksomhet» annen virksomhet enn offentlig kontroll som gjennomføres av vedkommende myndigheter, eller av organer med delegerte oppgaver eller av fysiske personer som har fått delegert en viss annen offentlig virksomhet i samsvar med denne forordning og med reglene nevnt i artikkel 1 nr. 2, herunder virksomhet rettet mot å stadfeste forekomsten av dyresykdommer eller planteskadegjørere, forebygge eller begrense spredningen av slike dyresykdommer eller planteskadegjørere, utrydde slike dyresykdommer eller planteskadegjørere, tildele tillatelser eller godkjenninger og utstede offisielle sertifikater eller offisielle attestasjoner.
+2\. I denne forordning menes med «annen offentlig virksomhet» annen virksomhet enn offentlig kontroll som gjennomføres av vedkommende myndigheter, eller av organer med delegerte oppgaver eller av fysiske personer som har fått delegert en viss annen offentlig virksomhet i samsvar med denne forordning og med reglene nevnt i artikkel 1 nr. 2, herunder virksomhet rettet mot å stadfeste forekomsten av dyresykdommer eller planteskadegjørere, forebygge eller begrense spredningen av slike dyresykdommer eller planteskadegjørere, utrydde slike dyresykdommer eller planteskadegjørere, tildele tillatelser eller godkjenninger og utstede offisielle sertifikater eller offisielle attestasjoner.
 
 ### Artikkel 3. Definisjoner
 
 I denne forordning menes med«næringsmiddelregelverk» næringsmiddelregelverket som definert i artikkel 3 nr. 1 i forordning [(EF) nr. 178/2002](eu/32002r0178),«fôrvareregelverk» de lovene og forskriftene som gjelder fôr generelt og fôrtrygghet spesielt, på unionsplan eller nasjonalt plan i alle ledd i produksjon, foredling og distribusjon eller bruk av fôr,«vedkommende myndigheter»de sentrale myndighetene i en medlemsstat som har ansvar for å organisere offentlig kontroll og all annen offentlig virksomhet i samsvar med denne forordning eller med reglene nevnt i artikkel 1 nr. 2,enhver annen myndighet som er gitt dette ansvaret,når det er hensiktsmessig, tilsvarende myndigheter i en tredjestat,«kontrollmyndighet for økologisk produksjon» en offentlig forvaltningsorganisasjon for økologisk produksjon og merking av økologiske produkter i en medlemsstat, som vedkommende myndigheter har overdratt hele eller deler av sin kompetanse til i forbindelse med gjennomføringen av forordning [(EF) nr. 834/2007](eu/32007r0834)48, herunder eventuelt en tilsvarende myndighet i en tredjestat eller en tilsvarende myndighet som driver virksomhet i en tredjestat,«organ med delegerte oppgaver» en atskilt juridisk person som vedkommende myndigheter har delegert visse offentlige kontrolloppgaver eller visse oppgaver knyttet til annen offentlig virksomhet til,«prosedyrer for verifisering av kontroll» de ordningene som innføres og de tiltakene som treffes av vedkommende myndigheter for å sikre at offentlig kontroll og annen offentlig virksomhet er ensartet og effektiv,«kontrollordning» en ordning som omfatter vedkommende myndigheter og de ressursene, strukturene, systemene og framgangsmåtene som er innført i en medlemsstat for å sikre at offentlig kontroll gjennomføres i samsvar med denne forordning og med reglene nevnt i artikkel 18–27,«kontrollplan» en beskrivelse utarbeidet av vedkommende myndigheter med opplysninger om oppbygningen og organiseringen av den offentlige kontrollordningen og om hvordan ordningen fungerer, samt en detaljert plan for den offentlige kontrollen som i et gitt tidsrom skal gjennomføres på hvert av områdene som omfattes av reglene nevnt i artikkel 1 nr. 2,«dyr» dyr som definert i artikkel 4 nr. 1 i forordning [(EU) 2016/429](eu/32016r0429*),«dyresykdom» sykdom som definert i artikkel 4 nr. 16 i forordning [(EU) 2016/429](eu/32016r0429*),«varer» alt som omfattes av én eller flere av reglene nevnt i artikkel 1 nr. 2, unntatt dyr,«næringsmidler» næringsmidler som definert i artikkel 2 i forordning [(EF) nr. 178/2002](eu/32002r0178),«fôr» fôr som definert i artikkel 3 nr. 4 i forordning [(EF) nr. 178/2002](eu/32002r0178),«animalske biprodukter» animalske biprodukter som definert i artikkel 3 nr. 1 i forordning [(EF) nr. 1069/2009](eu/32009r1069),«avledede produkter» avledede produkter som definert i artikkel 3 nr. 2 i forordning [(EF) nr. 1069/2009](eu/32009r1069),«planter» planter som definert i artikkel 2 nr. 1 i forordning [(EU) 2016/2031](eu/32016r2031),«planteskadegjører» skadegjører som definert i artikkel 1 nr. 1 i forordning [(EU) 2016/2031](eu/32016r2031),«plantevernmidler» plantevernmidler som nevnt i artikkel 2 nr. 1 i forordning [(EF) nr. 1107/2009](eu/32009r1107),«produkter av animalsk opprinnelse» produkter av animalsk opprinnelse som definert i nr. 8.1 i vedlegg I til europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853*)49,«formeringsmateriale» formeringsmateriale som definert i artikkel 4 nr. 28 i forordning [(EU) 2016/429](eu/32016r0429*),«planteprodukter» planteprodukter som definert i artikkel 2 nr. 2 i forordning [(EU) 2016/2031](eu/32016r2031),«andre gjenstander» andre gjenstander som definert i artikkel 2 nr. 5 i forordning [(EU) 2016/2031](eu/32016r2031),«fare» enhver agens eller tilstand som kan ha en skadevirkning på menneskers eller dyrs helse, på plantehelsen, dyrevelferden eller miljøet,«risiko» en funksjon av sannsynligheten for en skadevirkning på menneskers eller dyrs helse, på plantehelsen, dyrevelferden eller miljøet og alvorlighetsgraden av denne virkningen som følge av en fare,«offentlig attestering» framgangsmåten som vedkommende myndigheter bruker til å bekrefte at ett eller flere av kravene fastsatt i reglene nevnt i artikkel 1 nr. 2 er overholdt,«sertifikatutsteder»enhver tjenestemann hos vedkommende myndigheter som har fått fullmakt fra disse myndighetene til å underskrive offisielle sertifikater, ellerenhver annen fysisk person som vedkommende myndigheter har gitt fullmakt til å underskrive offisielle sertifikater i samsvar med reglene nevnt i artikkel 1 nr. 2,«offisielt sertifikat» et papirdokument eller et elektronisk dokument som er underskrevet av sertifikatutstederen, og som bekrefter at ett eller flere av kravene fastsatt i reglene nevnt i artikkel 1 nr. 2 er oppfylt,«offisiell attestasjon» enhver etikett, ethvert merke eller enhver annen form for attestasjon som er utstedt av driftsansvarlige under vedkommende myndigheters tilsyn, gjennom særskilt offentlig kontroll, eller av de vedkommende myndighetene selv, og som bekrefter at ett eller flere av kravene fastsatt i denne forordning eller i reglene nevnt i artikkel 1 nr. 2 er oppfylt,«driftsansvarlig» enhver fysisk eller juridisk person som omfattes av én eller flere av forpliktelsene fastsatt i reglene nevnt i artikkel 1 nr. 2,«revisjon» en systematisk og uavhengig undersøkelse for å fastslå om virksomhet og tilknyttede resultater av slik virksomhet er i samsvar med planlagte tiltak, og om disse tiltakene er gjennomført på en effektiv måte og er egnet til å nå målene,«rangering» en klassifisering av driftsansvarlige på grunnlag av en vurdering av hvordan de oppfyller rangeringskriteriene,«offentlig veterinær» en veterinær som gjennom ansettelse eller på annen måte er utpekt av en vedkommende myndighet, og som er tilstrekkelig kvalifisert til å gjennomføre offentlig kontroll og annen offentlig virksomhet i samsvar med denne forordning og de relevante reglene nevnt i artikkel 1 nr. 2,«offentlig plantehelsekontrollør» en fysisk person som gjennom ansettelse eller på annen måte er utpekt av en vedkommende myndighet, og som har fått egnet opplæring til å gjennomføre offentlig kontroll og annen offentlig virksomhet i samsvar med denne forordning og de relevante reglene nevnt i artikkel 1 nr. 2 bokstav g),«spesifisert risikomateriale» spesifisert risikomateriale som definert i artikkel 3 nr. 1 bokstav g) i forordning [(EF) nr. 999/2001](eu/32001r0999),«lang reise» en lang reise som definert i artikkel 2 bokstav m) i forordning [(EF) nr. 1/2005](eu/32005r0001*),«utstyr for spredning av pesticider» utstyr for spredning av pesticider som definert i artikkel 3 nr. 4 i direktiv [2009/128/EF](eu/32009l0128*),«forsendelse» et antall dyr eller en mengde varer som omfattes av samme offisielle sertifikat, offisielle attestasjon eller et annet dokument, som fraktes med samme transportmiddel og kommer fra samme territorium eller tredjestat og, med unntak av varer underlagt reglene nevnt i artikkel 1 nr. 2 bokstav g), er av samme type, klasse eller betegnelse,«grensekontrollstasjon» et sted med tilhørende anlegg som en medlemsstat har utpekt til å gjennomføre den offentlige kontrollen fastsatt i artikkel 47 nr. 1,«utførselssted» en grensekontrollstasjon eller et annet sted som en medlemsstat har utpekt og der dyr som faller inn under virkeområdet for forordning [(EF) nr. 1/2005](eu/32005r0001*), forlater Unionens tollområde,«som innføres til Unionen» eller «innførsel til Unionen» enhver handling som innebærer at dyr og varer innføres til ett av de territoriene som er oppført i vedlegg I til denne forordning, fra steder utenfor disse territoriene, unntatt i forbindelse med reglene nevnt i artikkel 1 nr. 2 bokstav g) der nevnte uttrykk betyr å bringe varer inn på «Unionens territorium» som definert i artikkel 1 nr. 3 i forordning [(EU) 2016/2031](eu/32016r2031),«dokumentkontroll» en undersøkelse av de offisielle sertifikatene, de offisielle attestasjonene og andre dokumenter, herunder dokumenter av handelsmessig art, som skal ledsage forsendelsen i henhold til reglene nevnt i artikkel 1 nr. 2, artikkel 56 nr. 1 eller gjennomføringsrettsakter vedtatt i samsvar med artikkel 77 nr. 3, artikkel 126 nr. 3, artikkel 128 nr. 1 og artikkel 129 nr. 1,«identitetskontroll» en visuell kontroll for å verifisere at innholdet i og merkingen av en forsendelse, herunder merker på dyr, forseglinger og transportmidler, tilsvarer opplysningene i offisielle sertifikater, offisielle attestasjoner og andre dokumenter som ledsager forsendelsen,«fysisk kontroll» en kontroll av dyr eller varer og, alt etter hva som er relevant, kontroll av emballasje, transportmiddel, merking og temperatur, prøvetaking med sikte på analyse, undersøkelse eller diagnostisering og all annen kontroll som er nødvendig for å verifisere overholdelsen av reglene nevnt i artikkel 1 nr. 2,«transitt» forflytning fra en tredjestat til en annen tredjestat under tollmyndighetenes tilsyn gjennom ett av territoriene oppført på listen i vedlegg I, eller fra ett av territoriene oppført på listen i vedlegg I til et annet territorium oppført i vedlegg I etter passering gjennom territoriet til en tredjestat, unntatt i forbindelse med reglene nevnt i artikkel 1 nr. 2 bokstav g), der det menes ett av følgende:forflytning fra en tredjestat til en annen tredjestat som definert i artikkel 1 nr. 3 første ledd i forordning [(EU) 2016/2031](eu/32016r2031), under tollmyndighetenes tilsyn gjennom «Unionens territorium» som definert i artikkel 1 nr. 3 i nevnte forordning, ellerforflytning fra «Unionens territorium» til en annen del av «Unionens territorium» som definert i artikkel 1 nr. 3 annet ledd i forordning [(EU) 2016/2031](eu/32016r2031), gjennom en tredjestats territorium som definert i artikkel 1 nr. 3 første ledd i nevnte forordning,«tollmyndighetenes tilsyn» tollmyndighetenes tilsyn som definert i artikkel 5 nr. 27 i europaparlaments- og rådsforordning [(EU) nr. 952/2013](eu/32013r0952*)50,«tollmyndighetenes kontroll» tollmyndighetenes kontroll som definert i artikkel 5 nr. 3 i forordning [(EU) nr. 952/2013](eu/32013r0952*),«holde tilbake» framgangsmåten som vedkommende myndigheter bruker for å sikre at dyr og varer som omfattes av offentlig kontroll, ikke flyttes eller endres ulovlig før det er truffet en beslutning om deres bestemmelsessted; den omfatter lagring hos driftsansvarlige i samsvar med instrukser fra og under tilsyn av vedkommende myndigheter,«loggbok» dokumentet omhandlet i nr. 1–5 i vedlegg II til forordning [(EF) nr. 1/2005](eu/32005r0001*),«offentlig kontrolltekniker» en representant for vedkommende myndigheter som har fått opplæring i samsvar med kravene fastsatt i artikkel 18, og som er ansatt for å utføre visse offentlige kontrolloppgaver eller visse oppgaver knyttet til annen offentlig virksomhet,«kjøtt og spiselig slakteavfall» med henblikk på artikkel 49 nr. 2 bokstav a) i denne forordning, produktene oppført i underkapittel 0201–0208 i kapittel 2 i avsnitt I i del II i vedlegg I til rådsforordning [(EØF) nr. 2658/87](eu/31987r2658*)51,«stempelmerke» et merke som påføres etter at den offentlige kontrollen nevnt i artikkel 18 nr. 2 bokstav a) og c) er gjennomført, og som bekrefter at kjøttet er egnet til konsum.
+
+48 Rådsforordning [(EF) nr. 834/2007](eu/32007r0834) av 28. juni 2007 om økologisk produksjon og merking av økologiske produkter og om oppheving av forordning [(EØF) nr. 2092/91](eu/31991r2092) (EUT L 189 av 20.7.2007, s. 1).49 Europaparlaments- og rådsforordning [(EF) nr. 853/2004](eu/32004r0853*) av 29. april 2004 om fastsettelse av særlige hygieneregler for næringsmidler av animalsk opprinnelse (EUT L 139 av 30.4.2004, s. 55).50 Europaparlaments- og rådsforordning [(EU) nr. 952/2013](eu/32013r0952*) av 9. oktober 2013 om fastsettelse av Unionens tollkodeks (EUT L 269 av 10.10.2013, s. 1).51 Rådsforordning [(EØF) nr. 2658/87](eu/31987r2658*) av 23. juli 1987 om toll- og statistikknomenklaturen og om den felles tolltariff (EFT L 256 av 7.9.1987, s. 1).
 
 ### Avdeling II
 OFFENTLIG KONTROLL OG ANNEN OFFENTLIG VIRKSOMHET I MEDLEMSSTATENE
@@ -195,478 +317,770 @@ OFFENTLIG KONTROLL OG ANNEN OFFENTLIG VIRKSOMHET I MEDLEMSSTATENE
 ### KAPITTEL I
 Vedkommende myndigheter
 
-1. For hvert av områdene som omfattes av reglene nevnt i artikkel 1 nr. 2, skal medlemsstatene utpeke den eller de vedkommende myndigheter som skal gis ansvaret for å organisere eller gjennomføre offentlig kontroll og annen offentlig virksomhet.
+###### Artikkel 4
 
-2. Dersom en medlemsstat gir ansvaret for å organisere eller gjennomføre offentlig kontroll og annen offentlig virksomhet for ett og samme område til mer enn én vedkommende myndighet på nasjonalt, regionalt eller lokalt plan, eller dersom vedkommende myndigheter som er utpekt i samsvar med nr. 1, i kraft av utpekingen har tillatelse til å overføre særlige ansvarsområder med hensyn til offentlig kontroll eller annen offentlig virksomhet til andre offentlige myndigheter, skal medlemsstatensikre hensiktsmessig og effektiv samordning mellom alle berørte myndigheter samt ensartet og effektiv offentlig kontroll eller annen offentlig virksomhet på hele sitt territorium, ogutpeke en sentral myndighet, i samsvar med medlemsstatenes forfatningsregler, med ansvar for å samordne samarbeidet og kontakten med Kommisjonen og med andre medlemsstater i forbindelse med offentlig kontroll og annen offentlig virksomhet som gjennomføres på hvert av områdene som omfattes av reglene nevnt i artikkel 1 nr. 2.
+Utpeking av vedkommende myndigheter
 
-3. Vedkommende myndigheter med ansvar for å verifisere overholdelsen av reglene nevnt i artikkel 1 nr. 2 bokstav i) kan gi visse ansvarsområder i forbindelse med offentlig kontroll og annen offentlig virksomhet til én eller flere kontrollmyndigheter for økologisk produksjon. I slike tilfeller skal de tildele et kodenummer til hver enkelt av dem.
+1\. For hvert av områdene som omfattes av reglene nevnt i artikkel 1 nr. 2, skal medlemsstatene utpeke den eller de vedkommende myndigheter som skal gis ansvaret for å organisere eller gjennomføre offentlig kontroll og annen offentlig virksomhet.
 
-4. Medlemsstatene skal sikre at Kommisjonen underrettes om kontaktopplysninger og om eventuelle endringer med hensyn tilde vedkommende myndighetene som er utpekt i samsvar med nr. 1,den sentrale myndigheten som er utpekt i samsvar med nr. 2 bokstav b),kontrollmyndighetene for økologisk produksjon nevnt i nr. 3,de organene med delegerte oppgaver som er nevnt i artikkel 28 nr. 1.Medlemsstatene skal også gjøre de opplysningene som er nevnt i første ledd, tilgjengelige for offentligheten, herunder på internett.
+2\. Dersom en medlemsstat gir ansvaret for å organisere eller gjennomføre offentlig kontroll og annen offentlig virksomhet for ett og samme område til mer enn én vedkommende myndighet på nasjonalt, regionalt eller lokalt plan, eller dersom vedkommende myndigheter som er utpekt i samsvar med nr. 1, i kraft av utpekingen har tillatelse til å overføre særlige ansvarsområder med hensyn til offentlig kontroll eller annen offentlig virksomhet til andre offentlige myndigheter, skal medlemsstatensikre hensiktsmessig og effektiv samordning mellom alle berørte myndigheter samt ensartet og effektiv offentlig kontroll eller annen offentlig virksomhet på hele sitt territorium, ogutpeke en sentral myndighet, i samsvar med medlemsstatenes forfatningsregler, med ansvar for å samordne samarbeidet og kontakten med Kommisjonen og med andre medlemsstater i forbindelse med offentlig kontroll og annen offentlig virksomhet som gjennomføres på hvert av områdene som omfattes av reglene nevnt i artikkel 1 nr. 2.
 
-1. Vedkommende myndigheter og kontrollmyndigheter for økologisk produksjon skalha innført framgangsmåter og/eller ordninger som sikrer at offentlig kontroll og annen offentlig virksomhet er effektiv og hensiktsmessig,ha innført framgangsmåter og/eller ordninger som sikrer at offentlig kontroll og annen offentlig virksomhet er upartisk, av god kvalitet og ensartet på alle plan,ha innført framgangsmåter og/eller ordninger som sikrer at personalet som gjennomfører offentlig kontroll og annen offentlig virksomhet, ikke har interessekonflikter,ha eller ha tilgang til tilstrekkelig laboratoriekapasitet til å gjøre analyser, undersøkelser og stille diagnoser,ha eller ha tilgang til tilstrekkelig med personale som har de kvalifikasjonene og den erfaringen som kreves for at offentlig kontroll og annen offentlig virksomhet kan gjennomføres hensiktsmessig og effektivt,ha anlegg og utstyr som er egnet og forsvarlig vedlikeholdt, slik at personalet kan gjennomføre offentlig kontroll og annen offentlig virksomhet hensiktsmessig og effektivt,ha rettslig myndighet til å gjennomføre offentlig kontroll og annen offentlig virksomhet og treffe de tiltakene som er fastsatt i denne forordning og i reglene nevnt i artikkel 1 nr. 2,ha rettslige prosedyrer som sikrer at personalet har tilgang til driftsansvarliges anlegg og dokumenter slik at de kan utføre oppgavene sine på riktig måte,ha beredskapsplaner og være forberedt på å iverksette slike planer dersom det oppstår en nødssituasjon, eventuelt i samsvar med reglene nevnt i artikkel 1 nr. 2.
+3\. Vedkommende myndigheter med ansvar for å verifisere overholdelsen av reglene nevnt i artikkel 1 nr. 2 bokstav i) kan gi visse ansvarsområder i forbindelse med offentlig kontroll og annen offentlig virksomhet til én eller flere kontrollmyndigheter for økologisk produksjon. I slike tilfeller skal de tildele et kodenummer til hver enkelt av dem.
 
-2. Utpekingen av en offentlig veterinær skal være skriftlig og angi den offentlige kontrollen og annen offentlig virksomhet og tilknyttede oppgaver som utpekingen gjelder. Krav som pålegges personalet hos vedkommende myndigheter i henhold til denne forordning, herunder kravet om fravær av interessekonflikter, gjelder for alle offentlige veterinærer.
+4\. Medlemsstatene skal sikre at Kommisjonen underrettes om kontaktopplysninger og om eventuelle endringer med hensyn tilde vedkommende myndighetene som er utpekt i samsvar med nr. 1,den sentrale myndigheten som er utpekt i samsvar med nr. 2 bokstav b),kontrollmyndighetene for økologisk produksjon nevnt i nr. 3,de organene med delegerte oppgaver som er nevnt i artikkel 28 nr. 1.Medlemsstatene skal også gjøre de opplysningene som er nevnt i første ledd, tilgjengelige for offentligheten, herunder på internett.
 
-3. Utpekingen av en offentlig plantehelsekontrollør skal være skriftlig og angi den offentlige kontrollen og annen offentlig virksomhet og tilknyttede oppgaver som utpekingen gjelder. Krav som pålegges personalet hos vedkommende myndigheter i henhold til denne forordning, herunder kravet om fravær av interessekonflikter, gjelder for alle offentlige plantehelsekontrollører.
+###### Artikkel 5
 
-4. Personale som gjennomfører offentlig kontroll og annen offentlig virksomhet, skalfå hensiktsmessig opplæring innenfor kompetanseområdet sitt, slik at de er i stand til å utføre oppgavene sine på en kompetent måte og gjennomføre offentlig kontroll og annen offentlig virksomhet på en sammenhengende måte,holde seg oppdatert innenfor kompetanseområdene sine og få regelmessig tilleggsopplæring etter behov, ogfå opplæring i de emnene som er fastsatt i kapittel I i vedlegg II, og i hvilke forpliktelser de vedkommende myndighetene har som følge av denne forordning, alt etter hva som er relevant.Vedkommende myndigheter, kontrollmyndigheter for økologisk produksjon og organer med delegerte oppgaver skal utarbeide og gjennomføre opplæringsprogrammer for å sikre at personale som gjennomfører offentlig kontroll og annen offentlig virksomhet, får opplæringen nevnt i bokstav a), b) og c).
+Alminnelige forpliktelser for vedkommende myndigheter og kontrollmyndigheter for økologisk produksjon
 
-5. Dersom det innenfor en vedkommende myndighet finnes mer enn én enhet som har kompetanse til å gjennomføre offentlig kontroll eller annen offentlig virksomhet, skal det sikres en effektiv og hensiktsmessig samordning og et effektivt og hensiktsmessig samarbeid mellom de forskjellige enhetene.
+1\. Vedkommende myndigheter og kontrollmyndigheter for økologisk produksjon skalha innført framgangsmåter og/eller ordninger som sikrer at offentlig kontroll og annen offentlig virksomhet er effektiv og hensiktsmessig,ha innført framgangsmåter og/eller ordninger som sikrer at offentlig kontroll og annen offentlig virksomhet er upartisk, av god kvalitet og ensartet på alle plan,ha innført framgangsmåter og/eller ordninger som sikrer at personalet som gjennomfører offentlig kontroll og annen offentlig virksomhet, ikke har interessekonflikter,ha eller ha tilgang til tilstrekkelig laboratoriekapasitet til å gjøre analyser, undersøkelser og stille diagnoser,ha eller ha tilgang til tilstrekkelig med personale som har de kvalifikasjonene og den erfaringen som kreves for at offentlig kontroll og annen offentlig virksomhet kan gjennomføres hensiktsmessig og effektivt,ha anlegg og utstyr som er egnet og forsvarlig vedlikeholdt, slik at personalet kan gjennomføre offentlig kontroll og annen offentlig virksomhet hensiktsmessig og effektivt,ha rettslig myndighet til å gjennomføre offentlig kontroll og annen offentlig virksomhet og treffe de tiltakene som er fastsatt i denne forordning og i reglene nevnt i artikkel 1 nr. 2,ha rettslige prosedyrer som sikrer at personalet har tilgang til driftsansvarliges anlegg og dokumenter slik at de kan utføre oppgavene sine på riktig måte,ha beredskapsplaner og være forberedt på å iverksette slike planer dersom det oppstår en nødssituasjon, eventuelt i samsvar med reglene nevnt i artikkel 1 nr. 2.
 
-1. For å sikre at de overholder denne forordning, skal de vedkommende myndighetene foreta interne revisjoner eller la seg underlegge revisjon, og de skal treffe egnede tiltak i lys av resultatene av disse revisjonene.
+2\. Utpekingen av en offentlig veterinær skal være skriftlig og angi den offentlige kontrollen og annen offentlig virksomhet og tilknyttede oppgaver som utpekingen gjelder. Krav som pålegges personalet hos vedkommende myndigheter i henhold til denne forordning, herunder kravet om fravær av interessekonflikter, gjelder for alle offentlige veterinærer.
 
-2. Revisjonene nevnt i nr. 1 skal være underlagt uavhengig gransking og gjennomføres på en åpen måte.
+3\. Utpekingen av en offentlig plantehelsekontrollør skal være skriftlig og angi den offentlige kontrollen og annen offentlig virksomhet og tilknyttede oppgaver som utpekingen gjelder. Krav som pålegges personalet hos vedkommende myndigheter i henhold til denne forordning, herunder kravet om fravær av interessekonflikter, gjelder for alle offentlige plantehelsekontrollører.
+
+4\. Personale som gjennomfører offentlig kontroll og annen offentlig virksomhet, skalfå hensiktsmessig opplæring innenfor kompetanseområdet sitt, slik at de er i stand til å utføre oppgavene sine på en kompetent måte og gjennomføre offentlig kontroll og annen offentlig virksomhet på en sammenhengende måte,holde seg oppdatert innenfor kompetanseområdene sine og få regelmessig tilleggsopplæring etter behov, ogfå opplæring i de emnene som er fastsatt i kapittel I i vedlegg II, og i hvilke forpliktelser de vedkommende myndighetene har som følge av denne forordning, alt etter hva som er relevant.Vedkommende myndigheter, kontrollmyndigheter for økologisk produksjon og organer med delegerte oppgaver skal utarbeide og gjennomføre opplæringsprogrammer for å sikre at personale som gjennomfører offentlig kontroll og annen offentlig virksomhet, får opplæringen nevnt i bokstav a), b) og c).
+
+5\. Dersom det innenfor en vedkommende myndighet finnes mer enn én enhet som har kompetanse til å gjennomføre offentlig kontroll eller annen offentlig virksomhet, skal det sikres en effektiv og hensiktsmessig samordning og et effektivt og hensiktsmessig samarbeid mellom de forskjellige enhetene.
+
+###### Artikkel 6
+
+Revisjon av vedkommende myndigheter
+
+1\. For å sikre at de overholder denne forordning, skal de vedkommende myndighetene foreta interne revisjoner eller la seg underlegge revisjon, og de skal treffe egnede tiltak i lys av resultatene av disse revisjonene.
+
+2\. Revisjonene nevnt i nr. 1 skal være underlagt uavhengig gransking og gjennomføres på en åpen måte.
+
+###### Artikkel 7
+
+Klageadgang
 
 Fysiske eller juridiske personer som de vedkommende myndighetene treffer beslutninger om i samsvar med artikkel 55, artikkel 66 nr. 3 og 6, artikkel 67, artikkel 137 nr. 3 bokstav b) og artikkel 138 nr. 1 og 2, skal ha rett til å klage i samsvar med nasjonal rett.
 
 Retten til å klage skal ikke berøre de vedkommende myndighetenes forpliktelse til straks å gripe inn for å fjerne eller begrense risikoer for menneskers eller dyrs helse, for plantehelsen, dyrevelferden eller, når det gjelder genmodifiserte organismer og plantevernmidler, for miljøet, i samsvar med denne forordning og reglene nevnt i artikkel 1 nr. 2.
 
-1. Med forbehold for nr. 3 skal de vedkommende myndighetene sikre at opplysninger som de innhenter når de utfører oppgavene sine i forbindelse med offentlig kontroll og annen offentlig virksomhet, ikke offentliggjøres for tredjeparter når opplysningene er av en slik art at de omfattes av taushetsplikt i henhold til nasjonal rett eller Unionens regelverk.For dette formålet skal medlemsstatene sikre at det fastsettes en hensiktsmessig taushetsplikt for personale og andre personer som arbeider med offentlig kontroll og annen offentlig virksomhet.
+###### Artikkel 8
 
-2. Nr. 1 gjelder også for kontrollmyndigheter for økologisk produksjon, organer med delegerte oppgaver og fysiske personer som har fått delegert visse offentlige kontrolloppgaver, samt for offentlige laboratorier.
+Vedkommende myndigheters taushetsplikt
 
-3. Med mindre offentliggjøring av opplysninger som omfattes av taushetsplikten nevnt i nr. 1, kan begrunnes med tvingende allmenne hensyn, og uten at det berører tilfeller der Unionens regelverk eller nasjonal rett krever offentliggjøring, skal slike opplysninger omfatte opplysninger hvis offentliggjøring ville undergraveformålet med inspeksjoner, undersøkelser eller revisjoner,vernet av forretningsinteressene til en driftsansvarlig eller en annen fysisk eller juridisk person, ellervernet av rettergang og juridisk rådgivning.
+1\. Med forbehold for nr. 3 skal de vedkommende myndighetene sikre at opplysninger som de innhenter når de utfører oppgavene sine i forbindelse med offentlig kontroll og annen offentlig virksomhet, ikke offentliggjøres for tredjeparter når opplysningene er av en slik art at de omfattes av taushetsplikt i henhold til nasjonal rett eller Unionens regelverk.For dette formålet skal medlemsstatene sikre at det fastsettes en hensiktsmessig taushetsplikt for personale og andre personer som arbeider med offentlig kontroll og annen offentlig virksomhet.
 
-4. Når de vedkommende myndighetene skal avgjøre om offentliggjøring av opplysninger som omfattes av taushetsplikten nevnt i nr. 1, kan begrunnes med tvingende allmenne hensyn, skal de ta hensyn til blant annet mulige risikoer for menneskers eller dyrs helse, for plantehelsen eller for miljøet, samt arten, omfanget og graden av slike risikoer.
+2\. Nr. 1 gjelder også for kontrollmyndigheter for økologisk produksjon, organer med delegerte oppgaver og fysiske personer som har fått delegert visse offentlige kontrolloppgaver, samt for offentlige laboratorier.
 
-5. Taushetsplikten fastsatt i denne artikkel skal ikke hindre de vedkommende myndighetene i å offentliggjøre eller på annen måte gjøre tilgjengelig for offentligheten opplysninger om resultatene av offentlig kontroll av enkeltstående driftsansvarlige, forutsatt at, og uten at dette berører tilfeller der Unionens regelverk eller nasjonal rett krever offentliggjøring, følgende vilkår er oppfylt:Den berørte driftsansvarlige gis mulighet til å uttale seg om de opplysningene som den vedkommende myndigheten har til hensikt å offentliggjøre eller på annen måte gjøre tilgjengelig for offentligheten, før de blir offentliggjort eller frigitt, samtidig som det tas hensyn til hvor mye saken haster.Opplysningene som offentliggjøres eller på annen måte gjøres tilgjengelig for offentligheten, tar hensyn til eventuelle merknader fra den berørte driftsansvarlige eller offentliggjøres eller frigis sammen med slike merknader.
+3\. Med mindre offentliggjøring av opplysninger som omfattes av taushetsplikten nevnt i nr. 1, kan begrunnes med tvingende allmenne hensyn, og uten at det berører tilfeller der Unionens regelverk eller nasjonal rett krever offentliggjøring, skal slike opplysninger omfatte opplysninger hvis offentliggjøring ville undergraveformålet med inspeksjoner, undersøkelser eller revisjoner,vernet av forretningsinteressene til en driftsansvarlig eller en annen fysisk eller juridisk person, ellervernet av rettergang og juridisk rådgivning.
+
+4\. Når de vedkommende myndighetene skal avgjøre om offentliggjøring av opplysninger som omfattes av taushetsplikten nevnt i nr. 1, kan begrunnes med tvingende allmenne hensyn, skal de ta hensyn til blant annet mulige risikoer for menneskers eller dyrs helse, for plantehelsen eller for miljøet, samt arten, omfanget og graden av slike risikoer.
+
+5\. Taushetsplikten fastsatt i denne artikkel skal ikke hindre de vedkommende myndighetene i å offentliggjøre eller på annen måte gjøre tilgjengelig for offentligheten opplysninger om resultatene av offentlig kontroll av enkeltstående driftsansvarlige, forutsatt at, og uten at dette berører tilfeller der Unionens regelverk eller nasjonal rett krever offentliggjøring, følgende vilkår er oppfylt:Den berørte driftsansvarlige gis mulighet til å uttale seg om de opplysningene som den vedkommende myndigheten har til hensikt å offentliggjøre eller på annen måte gjøre tilgjengelig for offentligheten, før de blir offentliggjort eller frigitt, samtidig som det tas hensyn til hvor mye saken haster.Opplysningene som offentliggjøres eller på annen måte gjøres tilgjengelig for offentligheten, tar hensyn til eventuelle merknader fra den berørte driftsansvarlige eller offentliggjøres eller frigis sammen med slike merknader.
 
 ### KAPITTEL II
 Offentlig kontroll
 
-1. De vedkommende myndighetene skal regelmessig gjennomføre offentlig kontroll av alle driftsansvarlige på grunnlag av en risikovurdering og med passende hyppighet, samtidig som det tas hensyn til følgende:Påviste risikoer forbundet meddyr og varer,virksomhet under den driftsansvarliges kontroll,beliggenheten til den driftsansvarliges virksomhet eller drift,bruken av produkter, prosesser, materialer eller stoffer som kan påvirke næringsmiddeltryggheten, næringsmidlers integritet og sunnhet, fôrtryggheten, dyrehelsen, dyrevelferden og plantehelsen, eller som, når det gjelder genmodifiserte organismer og plantevernmidler, også kan ha en negativ innvirkning på miljøet.Opplysninger om sannsynligheten for at forbrukere kan bli villedet, særlig med hensyn til næringsmidlers art, identitet, egenskaper, sammensetning, mengde, holdbarhet, opprinnelsesstat eller opphavssted og framstillings- eller produksjonsmåte.Resultatene av tidligere offentlig kontroll av driftsansvarlige og deres overholdelse av reglene nevnt i artikkel 1 nr. 2.Påliteligheten og resultatene av egne kontroller som er gjennomført av de driftsansvarlige, eller av en tredjepart på deres anmodning, herunder private kvalitetssikringsordninger dersom det er relevant, med henblikk på å stadfeste at reglene nevnt i artikkel 1 nr. 2 er overholdt.Opplysninger som kan tyde på manglende overholdelse av reglene nevnt i artikkel 1 nr. 2.
+###### Avsnitt I
 
-2. De vedkommende myndighetene skal gjennomføre offentlig kontroll regelmessig og med passende hyppighet på grunnlag av en risikovurdering, for å avdekke mulige tilsiktede overtredelser av reglene nevnt i artikkel 1 nr. 2 som følge av bedrageri eller villedende praksis, samtidig som de tar hensyn til opplysninger om slike overtredelser som er delt gjennom ordningene for administrativ bistand som er fastsatt i artikkel 102–108, og til eventuelle andre opplysninger som peker på muligheten for slike overtredelser.
+Generelle krav
 
-3. Offentlig kontroll som gjennomføres før visse dyr og varer bringes i omsetning eller forflyttes, med sikte på utstedelse av de offisielle sertifikatene eller offisielle attestasjonene som kreves etter reglene nevnt i artikkel 1 nr. 2, skal som et vilkår for at dyrene eller varene skal kunne bringes i omsetning eller forflyttes, gjennomføres i samsvar med følgende:Reglene nevnt i artikkel 1 nr. 2.De relevante delegerte rettsaktene og gjennomføringsrettsaktene vedtatt av Kommisjonen i samsvar med artikkel 18–27.
+###### Artikkel 9
 
-4. Offentlig kontroll skal gjennomføres uten forhåndsvarsel, unntatt dersom et forhåndsvarsel er nødvendig for at den offentlige kontrollen skal kunne gjennomføres, og det er behørig begrunnet. Når det gjelder offentlig kontroll på anmodning fra den driftsansvarlige, kan den vedkommende myndigheten avgjøre om den offentlige kontrollen skal gjennomføres med eller uten forhåndsvarsel. Offentlig kontroll med forhåndsvarsel skal ikke være til hinder for offentlig kontroll uten forhåndsvarsel.
+Alminnelige regler for offentlig kontroll
 
-5. Offentlig kontroll skal i størst mulig grad gjennomføres med minst mulig administrativ byrde og driftsforstyrrelser for de driftsansvarlige, men uten at det virker negativt inn på kontrollens effektivitet.
+1\. De vedkommende myndighetene skal regelmessig gjennomføre offentlig kontroll av alle driftsansvarlige på grunnlag av en risikovurdering og med passende hyppighet, samtidig som det tas hensyn til følgende:Påviste risikoer forbundet meddyr og varer,virksomhet under den driftsansvarliges kontroll,beliggenheten til den driftsansvarliges virksomhet eller drift,bruken av produkter, prosesser, materialer eller stoffer som kan påvirke næringsmiddeltryggheten, næringsmidlers integritet og sunnhet, fôrtryggheten, dyrehelsen, dyrevelferden og plantehelsen, eller som, når det gjelder genmodifiserte organismer og plantevernmidler, også kan ha en negativ innvirkning på miljøet.Opplysninger om sannsynligheten for at forbrukere kan bli villedet, særlig med hensyn til næringsmidlers art, identitet, egenskaper, sammensetning, mengde, holdbarhet, opprinnelsesstat eller opphavssted og framstillings- eller produksjonsmåte.Resultatene av tidligere offentlig kontroll av driftsansvarlige og deres overholdelse av reglene nevnt i artikkel 1 nr. 2.Påliteligheten og resultatene av egne kontroller som er gjennomført av de driftsansvarlige, eller av en tredjepart på deres anmodning, herunder private kvalitetssikringsordninger dersom det er relevant, med henblikk på å stadfeste at reglene nevnt i artikkel 1 nr. 2 er overholdt.Opplysninger som kan tyde på manglende overholdelse av reglene nevnt i artikkel 1 nr. 2.
 
-6. De vedkommende myndighetene skal gjennomføre offentlig kontroll på samme måte, samtidig som det tas hensyn til behovet for å tilpasse kontrollen til særlige situasjoner, uansett om de berørte dyrene og vareneer tilgjengelige på unionsmarkedet, enten de har sin opprinnelse i medlemsstaten der den offentlige kontrollen gjennomføres, eller i en annen medlemsstat,skal eksporteres fra Unionen ellerinnføres til Unionen.
+2\. De vedkommende myndighetene skal gjennomføre offentlig kontroll regelmessig og med passende hyppighet på grunnlag av en risikovurdering, for å avdekke mulige tilsiktede overtredelser av reglene nevnt i artikkel 1 nr. 2 som følge av bedrageri eller villedende praksis, samtidig som de tar hensyn til opplysninger om slike overtredelser som er delt gjennom ordningene for administrativ bistand som er fastsatt i artikkel 102–108, og til eventuelle andre opplysninger som peker på muligheten for slike overtredelser.
 
-7. Bestemmelsesmedlemsstatene kan i den grad det er absolutt nødvendig for organiseringen av den offentlige kontrollen, kreve at driftsansvarlige som mottar dyr eller varer fra en annen medlemsstat, melder fra om at slike dyr eller varer ankommer.
+3\. Offentlig kontroll som gjennomføres før visse dyr og varer bringes i omsetning eller forflyttes, med sikte på utstedelse av de offisielle sertifikatene eller offisielle attestasjonene som kreves etter reglene nevnt i artikkel 1 nr. 2, skal som et vilkår for at dyrene eller varene skal kunne bringes i omsetning eller forflyttes, gjennomføres i samsvar med følgende:Reglene nevnt i artikkel 1 nr. 2.De relevante delegerte rettsaktene og gjennomføringsrettsaktene vedtatt av Kommisjonen i samsvar med artikkel 18–27.
 
-1. I den grad det er nødvendig for å sikre at reglene nevnt i artikkel 1 nr. 2 overholdes, skal de vedkommende myndighetene gjennomføre offentlig kontroll av følgende:Dyr og varer i alle ledd i produksjon, foredling, distribusjon og bruk.Stoffer, materialer eller andre gjenstander som kan påvirke dyrs helse og dyrs og varers egenskaper og deres samsvar med gjeldende krav, i alle ledd i produksjon, foredling, distribusjon og bruk.Driftsansvarlige med hensyn til virksomhet, herunder dyrehold, utstyr, transportmidler, lokaler og andre steder under deres kontroll i tillegg til omgivelsene deres, og av tilhørende dokumentasjon.
+4\. Offentlig kontroll skal gjennomføres uten forhåndsvarsel, unntatt dersom et forhåndsvarsel er nødvendig for at den offentlige kontrollen skal kunne gjennomføres, og det er behørig begrunnet. Når det gjelder offentlig kontroll på anmodning fra den driftsansvarlige, kan den vedkommende myndigheten avgjøre om den offentlige kontrollen skal gjennomføres med eller uten forhåndsvarsel. Offentlig kontroll med forhåndsvarsel skal ikke være til hinder for offentlig kontroll uten forhåndsvarsel.
 
-2. Uten at det berører reglene for eksisterende lister eller registre opprettet på grunnlag av reglene nevnt i artikkel 1 nr. 2, skal de vedkommende myndighetene utarbeide og ajourføre en liste over driftsansvarlige. Dersom det allerede finnes en slik liste eller et slikt register for andre formål, kan den listen eller det registeret også brukes for denne forordnings formål.
+5\. Offentlig kontroll skal i størst mulig grad gjennomføres med minst mulig administrativ byrde og driftsforstyrrelser for de driftsansvarlige, men uten at det virker negativt inn på kontrollens effektivitet.
 
-3. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 144 for å endre denne forordning med hensyn til fastsettelse av kategoriene av driftsansvarlige som skal unntas fra listen over driftsansvarlige nevnt i nr. 2 i denne artikkel, dersom oppføring på en slik liste vil utgjøre en uforholdsmessig stor administrativ byrde for dem i forhold til risikoen knyttet til virksomheten deres.
+6\. De vedkommende myndighetene skal gjennomføre offentlig kontroll på samme måte, samtidig som det tas hensyn til behovet for å tilpasse kontrollen til særlige situasjoner, uansett om de berørte dyrene og vareneer tilgjengelige på unionsmarkedet, enten de har sin opprinnelse i medlemsstaten der den offentlige kontrollen gjennomføres, eller i en annen medlemsstat,skal eksporteres fra Unionen ellerinnføres til Unionen.
 
-1. Vedkommende myndigheter skal gjennomføre offentlig kontroll med en høy grad av åpenhet og skal minst én gang i året, blant annet gjennom offentliggjøring på internett, gjøre relevante opplysninger om organiseringen og gjennomføringen av den offentlige kontrollen tilgjengelige for offentligheten.De skal også sikre regelmessig og rettidig offentliggjøring av opplysninger om følgende:Typen, antallet og resultatet av offentlig kontroll.Typen av og antallet påviste tilfeller av manglende overholdelse.Typen av og antallet tilfeller der tiltak er truffet av de vedkommende myndighetene i samsvar med artikkel 138.Typen av og antallet tilfeller der sanksjonene nevnt i artikkel 139 er ilagt.Opplysningene nevnt i annet ledd bokstav a)–d) i dette nummer kan, dersom det er relevant, gis i forbindelse med offentliggjøringen av årsrapporten nevnt i artikkel 113 nr. 1.
+7\. Bestemmelsesmedlemsstatene kan i den grad det er absolutt nødvendig for organiseringen av den offentlige kontrollen, kreve at driftsansvarlige som mottar dyr eller varer fra en annen medlemsstat, melder fra om at slike dyr eller varer ankommer.
 
-2. De vedkommende myndighetene skal fastsette framgangsmåter for å sikre at eventuelle unøyaktigheter i opplysningene som gjøres tilgjengelige for offentligheten, blir behørig korrigert.
+###### Artikkel 10
 
-3. De vedkommende myndighetene kan offentliggjøre eller på annen måte gjøre tilgjengelig for offentligheten opplysninger om rangeringen av enkeltstående driftsansvarlige på grunnlag av resultatet av én eller flere offentlige kontroller, forutsatt at følgende vilkår er oppfylt:Rangeringskriteriene er objektive, gjennomsiktige og offentlig tilgjengelige.Det er innført egnede ordninger for å sikre at rangeringsprosessen er rettferdig, ensartet og åpen.
+Driftsansvarlige, prosesser og virksomhet som er underlagt offentlig kontroll
 
-1. De vedkommende myndighetene skal gjennomføre offentlig kontroll i samsvar med dokumenterte prosedyrer.Disse prosedyrene skal omfatte de emneområdene som er fastsatt i kapittel II i vedlegg II, og inneholde instrukser til personalet som gjennomfører offentlig kontroll.
+1\. I den grad det er nødvendig for å sikre at reglene nevnt i artikkel 1 nr. 2 overholdes, skal de vedkommende myndighetene gjennomføre offentlig kontroll av følgende:Dyr og varer i alle ledd i produksjon, foredling, distribusjon og bruk.Stoffer, materialer eller andre gjenstander som kan påvirke dyrs helse og dyrs og varers egenskaper og deres samsvar med gjeldende krav, i alle ledd i produksjon, foredling, distribusjon og bruk.Driftsansvarlige med hensyn til virksomhet, herunder dyrehold, utstyr, transportmidler, lokaler og andre steder under deres kontroll i tillegg til omgivelsene deres, og av tilhørende dokumentasjon.
 
-2. De vedkommende myndighetene skal ha innført prosedyrer for verifisering av kontroll.
+2\. Uten at det berører reglene for eksisterende lister eller registre opprettet på grunnlag av reglene nevnt i artikkel 1 nr. 2, skal de vedkommende myndighetene utarbeide og ajourføre en liste over driftsansvarlige. Dersom det allerede finnes en slik liste eller et slikt register for andre formål, kan den listen eller det registeret også brukes for denne forordnings formål.
 
-3. De vedkommende myndighetene skaltreffe korrigerende tiltak i alle tilfeller der prosedyrene fastsatt i nr. 2 gjør det mulig å identifisere mangler, ogved behov ajourføre de dokumenterte prosedyrene fastsatt i nr. 1.
+3\. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 144 for å endre denne forordning med hensyn til fastsettelse av kategoriene av driftsansvarlige som skal unntas fra listen over driftsansvarlige nevnt i nr. 2 i denne artikkel, dersom oppføring på en slik liste vil utgjøre en uforholdsmessig stor administrativ byrde for dem i forhold til risikoen knyttet til virksomheten deres.
 
-4. Nr. 1, 2 og 3 gjelder også for organer med delegerte oppgaver og kontrollmyndigheter for økologisk produksjon.
+###### Artikkel 11
 
-1. De vedkommende myndighetene skal utarbeide skriftlig dokumentasjon om all offentlig kontroll som de foretar. Dokumentasjonen kan være på papir eller i elektronisk form.Dokumentasjonen skal inneholdeen beskrivelse av formålet med den offentlige kontrollen,kontrollmetodene som brukes,resultatet av den offentlige kontrollen ogdersom det er relevant, tiltak som de vedkommende myndighetene krever at den berørte driftsansvarlige treffer som følge av den offentlige kontrollen.
+Åpenhet i den offentlige kontrollen
 
-2. Med mindre det av hensyn til rettslige undersøkelser eller vernet av rettergangen kreves noe annet, skal driftsansvarlige som har vært gjenstand for offentlig kontroll, på anmodning få et eksemplar av dokumentasjonen fastsatt i nr. 1, unntatt når det er utstedt et offisielt sertifikat eller en offisiell attestasjon. Den driftsansvarlige skal umiddelbart informeres skriftlig av de vedkommende myndighetene om ethvert tilfelle av manglende overholdelse som blir avdekket ved den offentlige kontrollen.
+1\. Vedkommende myndigheter skal gjennomføre offentlig kontroll med en høy grad av åpenhet og skal minst én gang i året, blant annet gjennom offentliggjøring på internett, gjøre relevante opplysninger om organiseringen og gjennomføringen av den offentlige kontrollen tilgjengelige for offentligheten.De skal også sikre regelmessig og rettidig offentliggjøring av opplysninger om følgende:Typen, antallet og resultatet av offentlig kontroll.Typen av og antallet påviste tilfeller av manglende overholdelse.Typen av og antallet tilfeller der tiltak er truffet av de vedkommende myndighetene i samsvar med artikkel 138.Typen av og antallet tilfeller der sanksjonene nevnt i artikkel 139 er ilagt.Opplysningene nevnt i annet ledd bokstav a)–d) i dette nummer kan, dersom det er relevant, gis i forbindelse med offentliggjøringen av årsrapporten nevnt i artikkel 113 nr. 1.
 
-3. Dersom den offentlige kontrollen krever at personale eller representanter for de vedkommende myndighetene er kontinuerlig eller regelmessig tilstede i den driftsansvarliges lokaler, skal dokumentasjonen fastsatt i nr. 1 utarbeides så hyppig at de vedkommende myndighetene og den driftsansvarlige kan bliregelmessig informert om overholdelsesnivået ogumiddelbart informert om ethvert tilfelle av manglende overholdelse som blir avdekket ved den offentlige kontrollen.
+2\. De vedkommende myndighetene skal fastsette framgangsmåter for å sikre at eventuelle unøyaktigheter i opplysningene som gjøres tilgjengelige for offentligheten, blir behørig korrigert.
 
-4. Nr. 1, 2 og 3 gjelder også for organer med delegerte oppgaver, kontrollmyndigheter for økologisk produksjon og fysiske personer som har fått delegert visse offentlige kontrolloppgaver.
+3\. De vedkommende myndighetene kan offentliggjøre eller på annen måte gjøre tilgjengelig for offentligheten opplysninger om rangeringen av enkeltstående driftsansvarlige på grunnlag av resultatet av én eller flere offentlige kontroller, forutsatt at følgende vilkår er oppfylt:Rangeringskriteriene er objektive, gjennomsiktige og offentlig tilgjengelige.Det er innført egnede ordninger for å sikre at rangeringsprosessen er rettferdig, ensartet og åpen.
+
+###### Artikkel 12
+
+Dokumenterte kontrollprosedyrer
+
+1\. De vedkommende myndighetene skal gjennomføre offentlig kontroll i samsvar med dokumenterte prosedyrer.Disse prosedyrene skal omfatte de emneområdene som er fastsatt i kapittel II i vedlegg II, og inneholde instrukser til personalet som gjennomfører offentlig kontroll.
+
+2\. De vedkommende myndighetene skal ha innført prosedyrer for verifisering av kontroll.
+
+3\. De vedkommende myndighetene skaltreffe korrigerende tiltak i alle tilfeller der prosedyrene fastsatt i nr. 2 gjør det mulig å identifisere mangler, ogved behov ajourføre de dokumenterte prosedyrene fastsatt i nr. 1.
+
+4\. Nr. 1, 2 og 3 gjelder også for organer med delegerte oppgaver og kontrollmyndigheter for økologisk produksjon.
+
+###### Artikkel 13
+
+Skriftlig dokumentasjon om offentlig kontroll
+
+1\. De vedkommende myndighetene skal utarbeide skriftlig dokumentasjon om all offentlig kontroll som de foretar. Dokumentasjonen kan være på papir eller i elektronisk form.Dokumentasjonen skal inneholdeen beskrivelse av formålet med den offentlige kontrollen,kontrollmetodene som brukes,resultatet av den offentlige kontrollen ogdersom det er relevant, tiltak som de vedkommende myndighetene krever at den berørte driftsansvarlige treffer som følge av den offentlige kontrollen.
+
+2\. Med mindre det av hensyn til rettslige undersøkelser eller vernet av rettergangen kreves noe annet, skal driftsansvarlige som har vært gjenstand for offentlig kontroll, på anmodning få et eksemplar av dokumentasjonen fastsatt i nr. 1, unntatt når det er utstedt et offisielt sertifikat eller en offisiell attestasjon. Den driftsansvarlige skal umiddelbart informeres skriftlig av de vedkommende myndighetene om ethvert tilfelle av manglende overholdelse som blir avdekket ved den offentlige kontrollen.
+
+3\. Dersom den offentlige kontrollen krever at personale eller representanter for de vedkommende myndighetene er kontinuerlig eller regelmessig tilstede i den driftsansvarliges lokaler, skal dokumentasjonen fastsatt i nr. 1 utarbeides så hyppig at de vedkommende myndighetene og den driftsansvarlige kan bliregelmessig informert om overholdelsesnivået ogumiddelbart informert om ethvert tilfelle av manglende overholdelse som blir avdekket ved den offentlige kontrollen.
+
+4\. Nr. 1, 2 og 3 gjelder også for organer med delegerte oppgaver, kontrollmyndigheter for økologisk produksjon og fysiske personer som har fått delegert visse offentlige kontrolloppgaver.
+
+###### Artikkel 14
+
+Metoder og teknikker for offentlig kontroll
 
 Metodene og teknikkene for offentlig kontroll skal omfatte følgende, alt etter hva som er relevant:En undersøkelse av de kontrollene som driftsansvarlige har innført, og resultatene av dem.En inspeksjon avutstyr, transportmidler, lokaler og andre steder under deres kontroll og av omgivelsene deres.dyr og varer, herunder halvfabrikater, råstoffer, ingredienser, tekniske hjelpestoffer og andre produkter som brukes til tillaging og produksjon av varer, eller til fôring eller behandling av dyr,produkter og metoder for rengjøring og vedlikehold,sporbarhet, merking, presentasjon, reklame og relevant emballasjemateriale, herunder materialer beregnet på å komme i kontakt med næringsmidler.Kontroll av de hygieniske forholdene i den driftsansvarliges lokaler.En vurdering av framgangsmåtene for god framstillingspraksis, god hygienepraksis, god landbrukspraksis og av framgangsmåter som bygger på prinsippene om fareanalyse og kritiske styringspunkter (HACCP).En undersøkelse av dokumenter, sporbarhetsopplysninger og annen dokumentasjon som kan være relevante for vurderingen av overholdelsen av reglene nevnt i artikkel 1 nr. 2, herunder, dersom det er relevant, dokumenter som ledsager næringsmidler, fôr og alle stoffer eller materialer som bringes inn i eller føres ut av en virksomhet.Intervjuer med driftsansvarlige og personalet deres.Verifisering av målinger utført av driftsansvarlige og andre resultater av prøvinger.Prøvetaking, analyse, diagnostisering og prøvinger.Revisjon av driftsansvarlige.Annen virksomhet som kreves for å avdekke tilfeller av manglende overholdelse.
 
-1. I den utstrekning det er nødvendig for å gjennomføre offentlig kontroll eller annen offentlig virksomhet, skal driftsansvarlige, når vedkommende myndigheter krever det, gi de vedkommende myndighetenes personale tilgang tilutstyr, transportmidler, lokaler og andre steder under deres kontroll og omgivelsene rundt,de databaserte informasjonsstyringssystemene sine,dyr og varer under deres kontroll,dokumentene sine og eventuelle andre relevante opplysninger.
+###### Artikkel 15
 
-2. I forbindelse med offentlig kontroll og annen offentlig virksomhet skal driftsansvarlige bistå og samarbeide med personalet hos de vedkommende myndighetene og kontrollmyndighetene for økologisk produksjon når de utfører oppgavene sine.
+Driftsansvarliges forpliktelser
 
-3. Den driftsansvarlige som har ansvar for en forsendelse som innføres til Unionen, skal i tillegg til forpliktelsene fastsatt i nr. 1 og 2 umiddelbart gjøre tilgjengelig alle opplysninger om dyrene og varene på papir eller i elektronisk form.
+1\. I den utstrekning det er nødvendig for å gjennomføre offentlig kontroll eller annen offentlig virksomhet, skal driftsansvarlige, når vedkommende myndigheter krever det, gi de vedkommende myndighetenes personale tilgang tilutstyr, transportmidler, lokaler og andre steder under deres kontroll og omgivelsene rundt,de databaserte informasjonsstyringssystemene sine,dyr og varer under deres kontroll,dokumentene sine og eventuelle andre relevante opplysninger.
 
-4. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette regler for samarbeidet og utvekslingen av opplysninger mellom driftsansvarlige og vedkommende myndigheter med hensyn til ankomst og avlessing av dyrene og varene nevnt i artikkel 47 nr. 1, dersom det er nødvendig for å sikre fullstendig identifisering og effektiv gjennomføring av offentlig kontroll av slike dyr og varer. Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
+2\. I forbindelse med offentlig kontroll og annen offentlig virksomhet skal driftsansvarlige bistå og samarbeide med personalet hos de vedkommende myndighetene og kontrollmyndighetene for økologisk produksjon når de utfører oppgavene sine.
 
-5. Med henblikk på artikkel 10 nr. 2 og med forbehold for artikkel 10 nr. 3 skal driftsansvarlige framlegge for de vedkommende myndighetene minst følgende ajourførte opplysninger:Navn og juridisk form.De spesifikke formene for virksomhet de utøver, herunder virksomhet som utøves ved hjelp av fjernkommunikasjonsmidler, og steder som er under deres kontroll.
+3\. Den driftsansvarlige som har ansvar for en forsendelse som innføres til Unionen, skal i tillegg til forpliktelsene fastsatt i nr. 1 og 2 umiddelbart gjøre tilgjengelig alle opplysninger om dyrene og varene på papir eller i elektronisk form.
 
-6. De driftsansvarliges forpliktelser som er fastsatt i denne artikkel, gjelder også i tilfeller der offentlig kontroll og annen offentlig virksomhet gjennomføres av offentlige veterinærer, offentlige plantehelsekontrollører, organer med delegerte oppgaver, kontrollmyndigheter og fysiske personer som har fått delegert visse offentlige kontrolloppgaver eller visse oppgaver knyttet til annen offentlig virksomhet.
+4\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette regler for samarbeidet og utvekslingen av opplysninger mellom driftsansvarlige og vedkommende myndigheter med hensyn til ankomst og avlessing av dyrene og varene nevnt i artikkel 47 nr. 1, dersom det er nødvendig for å sikre fullstendig identifisering og effektiv gjennomføring av offentlig kontroll av slike dyr og varer. Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
 
-1. På de områdene som omfattes av reglene fastsatt i dette avsnittet, skal disse reglene gjelde i tillegg til de øvrige reglene fastsatt i denne forordning.
+5\. Med henblikk på artikkel 10 nr. 2 og med forbehold for artikkel 10 nr. 3 skal driftsansvarlige framlegge for de vedkommende myndighetene minst følgende ajourførte opplysninger:Navn og juridisk form.De spesifikke formene for virksomhet de utøver, herunder virksomhet som utøves ved hjelp av fjernkommunikasjonsmidler, og steder som er under deres kontroll.
 
-2. Når Kommisjonen vedtar delegerte rettsakter og gjennomføringsrettsakter i henhold til dette avsnittet, skal den ta hensyn til følgende:De erfaringene som er gjort av vedkommende myndigheter og driftsansvarlige for næringsmiddel- og fôrforetak i forbindelse med bruken av framgangsmåtene nevnt i artikkel 5 i europaparlaments- og rådsforordning [(EF) nr. 852/2004](eu/32004r0852*)52 og artikkel 6 i europaparlaments- og rådsforordning [(EF) nr. 183/2005](eu/32005r0183)53.Den vitenskapelige og teknologiske utviklingen.Forbrukernes forventninger når det gjelder næringsmidlenes sammensetning og endringer i forbruksmønstrene for næringsmidler.De risikoene for menneskers og dyrs helse og plantehelse som er knyttet til dyr og varer.Opplysninger om mulige tilsiktede overtredelser som følge av bedrageri eller villedende praksis.
+6\. De driftsansvarliges forpliktelser som er fastsatt i denne artikkel, gjelder også i tilfeller der offentlig kontroll og annen offentlig virksomhet gjennomføres av offentlige veterinærer, offentlige plantehelsekontrollører, organer med delegerte oppgaver, kontrollmyndigheter og fysiske personer som har fått delegert visse offentlige kontrolloppgaver eller visse oppgaver knyttet til annen offentlig virksomhet.
 
-3. Når Kommisjonen vedtar delegerte rettsakter og gjennomføringsrettsakter i henhold til dette avsnittet, og i den utstrekning dette ikke hindrer oppnåelsen av de målene som reglene nevnt i artikkel 1 nr. 2 etterstreber, skal Kommisjonen også ta hensyn til følgende:Behovet for å gjøre anvendelsen av de delegerte rettsaktene og gjennomføringsrettsaktene lettere, samtidig som det tas hensyn til små foretaks art og størrelse.Behovet for å gjøre det mulig å fortsatt bruke tradisjonelle metoder i alle ledd i produksjon, foredling eller distribusjon av næringsmidler samt i produksjon av tradisjonelle næringsmidler.Behovene til driftsansvarlige med beliggenhet i regioner med særlige geografiske begrensninger.
+###### Avsnitt II
+
+Tilleggskrav til offentlig kontroll og annen offentlig virksomhet på visse områder
+
+###### Artikkel 16
+
+Tilleggskrav
+
+1\. På de områdene som omfattes av reglene fastsatt i dette avsnittet, skal disse reglene gjelde i tillegg til de øvrige reglene fastsatt i denne forordning.
+
+2\. Når Kommisjonen vedtar delegerte rettsakter og gjennomføringsrettsakter i henhold til dette avsnittet, skal den ta hensyn til følgende:De erfaringene som er gjort av vedkommende myndigheter og driftsansvarlige for næringsmiddel- og fôrforetak i forbindelse med bruken av framgangsmåtene nevnt i artikkel 5 i europaparlaments- og rådsforordning [(EF) nr. 852/2004](eu/32004r0852*)52 og artikkel 6 i europaparlaments- og rådsforordning [(EF) nr. 183/2005](eu/32005r0183)53.Den vitenskapelige og teknologiske utviklingen.Forbrukernes forventninger når det gjelder næringsmidlenes sammensetning og endringer i forbruksmønstrene for næringsmidler.De risikoene for menneskers og dyrs helse og plantehelse som er knyttet til dyr og varer.Opplysninger om mulige tilsiktede overtredelser som følge av bedrageri eller villedende praksis.
+
+3\. Når Kommisjonen vedtar delegerte rettsakter og gjennomføringsrettsakter i henhold til dette avsnittet, og i den utstrekning dette ikke hindrer oppnåelsen av de målene som reglene nevnt i artikkel 1 nr. 2 etterstreber, skal Kommisjonen også ta hensyn til følgende:Behovet for å gjøre anvendelsen av de delegerte rettsaktene og gjennomføringsrettsaktene lettere, samtidig som det tas hensyn til små foretaks art og størrelse.Behovet for å gjøre det mulig å fortsatt bruke tradisjonelle metoder i alle ledd i produksjon, foredling eller distribusjon av næringsmidler samt i produksjon av tradisjonelle næringsmidler.Behovene til driftsansvarlige med beliggenhet i regioner med særlige geografiske begrensninger.
+
+52 Europaparlaments- og rådsforordning [(EF) nr. 852/2004](eu/32004r0852*) av 29. april 2004 om næringsmiddelhygiene (EUT L 139 av 30.4.2004, s. 1).53 Europaparlaments- og rådsforordning [(EF) nr. 183/2005](eu/32005r0183) av 12. januar 2005 om fastsettelse av krav til fôrhygiene (EUT L 35 av 8.2.2005, s. 1).
+
+###### Artikkel 17
+
+Særlige definisjoner
 
 I artikkel 18 menes med«under den offentlige veterinærens ansvar» at den offentlige veterinæren gir en offentlig kontrolltekniker i oppdrag å utføre en oppgave,«under den offentlige veterinærens tilsyn» at en oppgave utføres av en offentlig kontrolltekniker under den offentlige veterinærens ansvar, og at den offentlige veterinæren er til stede i lokalene den tiden det tar å utføre oppgaven,«kontroll ante mortem» verifiseringen, før slakting, av kravene til menneskers og dyrs helse og dyrevelferd, herunder den kliniske undersøkelsen av hvert enkelt dyr dersom det er relevant, og verifiseringen av de opplysningene om næringsmiddelkjeden som er nevnt i avsnitt III i vedlegg II til forordning [(EF) nr. 853/2004](eu/32004r0853*),«kontroll post mortem» verifiseringen på slakteriet eller i viltbehandlingsanlegget av overholdelsen av kravene med hensyn tilskrotter som definert i nr. 1.9 i vedlegg I til forordning [(EF) nr. 853/2004](eu/32004r0853*), og slakteavfall som definert i nr. 1.11 i nevnte vedlegg, for å avgjøre om kjøttet er egnet til konsum,sikker fjerning av spesifisert risikomateriale ogdyrehelse og dyrevelferd.
 
-1. Offentlig kontroll som gjennomføres for å verifisere overholdelsen av reglene nevnt i artikkel 1 nr. 2 i denne forordning i forbindelse med produkter av animalsk opprinnelse beregnet på konsum, skal omfatte verifisering av overholdelsen av kravene fastsatt i forordning [(EF) nr. 852/2004](eu/32004r0852*), (EF) [nr. 853/2004](eu/32004r0853*), (EF) [nr. 1069/2009](eu/32009r1069) og (EF) [nr. 1099/2009](eu/32009r1099), alt etter hva som er relevant.
+###### Artikkel 18
 
-2. Den offentlige kontrollen nevnt i nr. 1 som gjennomføres i forbindelse med produksjon av kjøtt, skal omfatte følgende:Kontroll ante mortem gjennomført på slakteriet av en offentlig veterinær som, med hensyn til forhåndsutvelging av dyr, kan bistås av offentlige kontrollteknikere som har fått opplæring for dette formålet.Som unntak fra bokstav a), når det gjelder fjørfe og haredyr, kontroll ante mortem gjennomført av en offentlig veterinær, under den offentlige veterinærens tilsyn eller, dersom det foreligger tilstrekkelige garantier, under den offentlige veterinærens ansvar.Kontroll post mortem gjennomført av en offentlig veterinær, under den offentlige veterinærens tilsyn eller, dersom det foreligger tilstrekkelige garantier, under den offentlige veterinærens ansvar.Annen offentlig kontroll gjennomført på slakterier, nedskjæringsanlegg og viltbehandlingsanlegg av en offentlig veterinær, under den offentlige veterinærens tilsyn eller, dersom det foreligger tilstrekkelige garantier, under den offentlige veterinærens ansvar, for å verifisere overholdelsen av kravene med hensyn tilhygiene i kjøttproduksjon,forekomst av restmengder av veterinærpreparater og forurensende stoffer i produkter av animalsk opprinnelse beregnet på konsum,revisjoner av god hygienepraksis og framgangsmåter basert på HACCP-prinsippene,laboratorieundersøkelser for å påvise forekomst av zoonotiske smittestoffer og dyresykdommer og for å verifisere samsvar med det mikrobiologiske kriteriet fastsatt i artikkel 2 bokstav b) i kommisjonsforordning [(EF) nr. 2073/2005](eu/32005r2073*)54,håndtering og sluttbehandling av animalske biprodukter og spesifisert risikomateriale,dyrehelse og dyrevelferd.
+Særlige regler for offentlig kontroll og for tiltak som treffes av vedkommende myndigheter i forbindelse med produksjon av produkter av animalsk opprinnelse beregnet på konsum
 
-3. Den vedkommende myndigheten kan på grunnlag av en risikoanalyse tillate at slakteripersonalet bistår ved utførelsen av oppgaver i forbindelse med den offentlige kontrollen nevnt i nr. 2, i anlegg hvor fjørfe eller haredyr slaktes, eller at de i anlegg hvor andre dyrearter slaktes, utfører særlige prøvetakinger og undersøkelser knyttet til slik kontroll, forutsatt at personaletopptrer uavhengig av produksjonspersonalet på slakteriet,har fått hensiktsmessig opplæring i å utføre disse oppgavene, ogutfører disse oppgavene i nærvær av og etter instrukser fra den offentlige veterinæren eller den offentlige kontrollteknikeren.
+1\. Offentlig kontroll som gjennomføres for å verifisere overholdelsen av reglene nevnt i artikkel 1 nr. 2 i denne forordning i forbindelse med produkter av animalsk opprinnelse beregnet på konsum, skal omfatte verifisering av overholdelsen av kravene fastsatt i forordning [(EF) nr. 852/2004](eu/32004r0852*), (EF) [nr. 853/2004](eu/32004r0853*), (EF) [nr. 1069/2009](eu/32009r1069) og (EF) [nr. 1099/2009](eu/32009r1099), alt etter hva som er relevant.
 
-4. Dersom den offentlige kontrollen nevnt i nr. 2 bokstav a) og c) ikke har påvist noen mangler som kan gjøre kjøttet uegnet til konsum, skal stempelmerket påføres på tamme hov- og klovdyr, oppdrettsvilt av pattedyr (unntatt haredyr) og viltlevende storvilt, av den offentlige veterinæren, under den offentlige veterinærens tilsyn, under den offentlige veterinærens ansvar eller, i samsvar med vilkårene fastsatt i nr. 3, av slakteriets personale.
+2\. Den offentlige kontrollen nevnt i nr. 1 som gjennomføres i forbindelse med produksjon av kjøtt, skal omfatte følgende:Kontroll ante mortem gjennomført på slakteriet av en offentlig veterinær som, med hensyn til forhåndsutvelging av dyr, kan bistås av offentlige kontrollteknikere som har fått opplæring for dette formålet.Som unntak fra bokstav a), når det gjelder fjørfe og haredyr, kontroll ante mortem gjennomført av en offentlig veterinær, under den offentlige veterinærens tilsyn eller, dersom det foreligger tilstrekkelige garantier, under den offentlige veterinærens ansvar.Kontroll post mortem gjennomført av en offentlig veterinær, under den offentlige veterinærens tilsyn eller, dersom det foreligger tilstrekkelige garantier, under den offentlige veterinærens ansvar.Annen offentlig kontroll gjennomført på slakterier, nedskjæringsanlegg og viltbehandlingsanlegg av en offentlig veterinær, under den offentlige veterinærens tilsyn eller, dersom det foreligger tilstrekkelige garantier, under den offentlige veterinærens ansvar, for å verifisere overholdelsen av kravene med hensyn tilhygiene i kjøttproduksjon,forekomst av restmengder av veterinærpreparater og forurensende stoffer i produkter av animalsk opprinnelse beregnet på konsum,revisjoner av god hygienepraksis og framgangsmåter basert på HACCP-prinsippene,laboratorieundersøkelser for å påvise forekomst av zoonotiske smittestoffer og dyresykdommer og for å verifisere samsvar med det mikrobiologiske kriteriet fastsatt i artikkel 2 bokstav b) i kommisjonsforordning [(EF) nr. 2073/2005](eu/32005r2073*)54,håndtering og sluttbehandling av animalske biprodukter og spesifisert risikomateriale,dyrehelse og dyrevelferd.
 
-5. Den offentlige veterinæren skal fortsatt være ansvarlig for beslutningene som treffes etter en offentlig kontroll i henhold til nr. 2 og 4, selv om en offentlig kontrolltekniker er tildelt oppdraget med å utføre oppgaven.
+3\. Den vedkommende myndigheten kan på grunnlag av en risikoanalyse tillate at slakteripersonalet bistår ved utførelsen av oppgaver i forbindelse med den offentlige kontrollen nevnt i nr. 2, i anlegg hvor fjørfe eller haredyr slaktes, eller at de i anlegg hvor andre dyrearter slaktes, utfører særlige prøvetakinger og undersøkelser knyttet til slik kontroll, forutsatt at personaletopptrer uavhengig av produksjonspersonalet på slakteriet,har fått hensiktsmessig opplæring i å utføre disse oppgavene, ogutfører disse oppgavene i nærvær av og etter instrukser fra den offentlige veterinæren eller den offentlige kontrollteknikeren.
 
-6. Når den offentlige kontrollen nevnt i nr. 1 gjennomføres i forbindelse med levende muslinger, pigghuder, sekkedyr og sjøsnegler, skal de vedkommende myndighetene klassifisere produksjons- og gjenutleggingsområdene.
+4\. Dersom den offentlige kontrollen nevnt i nr. 2 bokstav a) og c) ikke har påvist noen mangler som kan gjøre kjøttet uegnet til konsum, skal stempelmerket påføres på tamme hov- og klovdyr, oppdrettsvilt av pattedyr (unntatt haredyr) og viltlevende storvilt, av den offentlige veterinæren, under den offentlige veterinærens tilsyn, under den offentlige veterinærens ansvar eller, i samsvar med vilkårene fastsatt i nr. 3, av slakteriets personale.
 
-7. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 144 for å utfylle denne forordning med hensyn til særlige regler for gjennomføring av den offentlige kontrollen nevnt i nr. 2–6 i denne artikkel omkriterier og vilkår for å bestemme, som unntak fra nr. 2 bokstav a), når kontrollen ante mortem i visse slakterier kan gjennomføres under en offentlig veterinærs tilsyn eller ansvar, forutsatt at unntakene ikke påvirker oppnåelsen av målene i denne forordning,kriterier og vilkår for å bestemme, for fjørfe og haredyr, når tilstrekkelige garantier er oppfylt til at offentlig kontroll kan gjennomføres under en offentlig veterinærs ansvar med hensyn til kontrollen ante mortem nevnt i nr. 2 bokstav b),kriterier og vilkår for å bestemme, som unntak fra nr. 2 bokstav a), når kontrollen ante mortem kan gjennomføres utenfor slakteriet ved nødslakting,kriterier og vilkår for å bestemme, som unntak fra nr. 2 bokstav a) og b), når kontrollen ante mortem kan gjennomføres på opprinnelsesenheten,kriterier og vilkår for å bestemme når tilstrekkelige garantier er oppfylt til at offentlig kontroll kan gjennomføres under en offentlig veterinærs ansvar med hensyn til kontrollen post mortem og revisjonen nevnt i nr. 2 bokstav c) og d),kriterier og vilkår for å bestemme, som unntak fra nr. 2 bokstav c), når den offentlige veterinæren skal gjennomføre kontrollen post mortem ved nødslakting,
+5\. Den offentlige veterinæren skal fortsatt være ansvarlig for beslutningene som treffes etter en offentlig kontroll i henhold til nr. 2 og 4, selv om en offentlig kontrolltekniker er tildelt oppdraget med å utføre oppgaven.
+
+►**M3**
+
+6\. Når den offentlige kontrollen nevnt i nr. 1 gjennomføres i forbindelse med levende muslinger, pigghuder, sekkedyr og sjøsnegler, skal de vedkommende myndighetene klassifisere produksjons- og gjenutleggingsområdene.
+
+◄**M3**
+
+7\. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 144 for å utfylle denne forordning med hensyn til særlige regler for gjennomføring av den offentlige kontrollen nevnt i nr. 2–6 i denne artikkel omkriterier og vilkår for å bestemme, som unntak fra nr. 2 bokstav a), når kontrollen ante mortem i visse slakterier kan gjennomføres under en offentlig veterinærs tilsyn eller ansvar, forutsatt at unntakene ikke påvirker oppnåelsen av målene i denne forordning,kriterier og vilkår for å bestemme, for fjørfe og haredyr, når tilstrekkelige garantier er oppfylt til at offentlig kontroll kan gjennomføres under en offentlig veterinærs ansvar med hensyn til kontrollen ante mortem nevnt i nr. 2 bokstav b),kriterier og vilkår for å bestemme, som unntak fra nr. 2 bokstav a), når kontrollen ante mortem kan gjennomføres utenfor slakteriet ved nødslakting,kriterier og vilkår for å bestemme, som unntak fra nr. 2 bokstav a) og b), når kontrollen ante mortem kan gjennomføres på opprinnelsesenheten,kriterier og vilkår for å bestemme når tilstrekkelige garantier er oppfylt til at offentlig kontroll kan gjennomføres under en offentlig veterinærs ansvar med hensyn til kontrollen post mortem og revisjonen nevnt i nr. 2 bokstav c) og d),kriterier og vilkår for å bestemme, som unntak fra nr. 2 bokstav c), når den offentlige veterinæren skal gjennomføre kontrollen post mortem ved nødslakting,
 ►**M3**kriterier og vilkår for å bestemme, som unntak fra nr. 6, når produksjons- og gjenutleggingsområder ikke skal klassifiseres for:kamskjell ogpigghuder og sjøsnegler som ikke er næringsfiltrerende,◄**M3**særlige unntak med hensyn til *Rangifer tarandus*, *Lagopus* og *Lagopus mutus*, for å muliggjøre fortsatt bruk av veletablert lokal og tradisjonell sedvane og praksis, forutsatt at unntakene ikke påvirker oppnåelsen av målene i denne forordning,kriterier og vilkår for å bestemme, som unntak fra nr. 2 bokstav d), når den offentlige kontrollen i nedskjæringsanlegg kan gjennomføres av personale som de vedkommende myndighetene har utpekt til dette, og som har fått egnet opplæring,spesifikke minstekrav til personalet hos de vedkommende myndighetene og til offentlige veterinærer og offentlige kontrollteknikere for å sikre at de utfører oppgavene sine i henhold til denne artikkel på en tilfredsstillende måte, herunder spesifikke minstekrav til opplæring,relevante minstekrav til opplæring for slakteripersonale som bistår ved utførelsen av oppgaver i forbindelse med offentlig kontroll og annen offentlig virksomhet i samsvar med nr. 3.
 
-8. Kommisjonen skal ved hjelp av gjennomføringsrettsakter fastsette regler for ensartede praktiske ordninger for gjennomføringen av den offentlige kontrollen nevnt i denne artikkel med hensyn til følgende:Særlige krav til gjennomføringen av offentlig kontroll og den samme minstehyppigheten for slik offentlig kontroll, samtidig som det tas hensyn til de særlige farene og risikoene som finnes i forbindelse med alle produkter av animalsk opprinnelse og de forskjellige prosessene de gjennomgår, der et minstenivå for offentlig kontroll er nødvendig for å håndtere kjente allmenne farer og risikoer som kan være forbundet med produkter av animalsk opprinnelse.
+8\. Kommisjonen skal ved hjelp av gjennomføringsrettsakter fastsette regler for ensartede praktiske ordninger for gjennomføringen av den offentlige kontrollen nevnt i denne artikkel med hensyn til følgende:Særlige krav til gjennomføringen av offentlig kontroll og den samme minstehyppigheten for slik offentlig kontroll, samtidig som det tas hensyn til de særlige farene og risikoene som finnes i forbindelse med alle produkter av animalsk opprinnelse og de forskjellige prosessene de gjennomgår, der et minstenivå for offentlig kontroll er nødvendig for å håndtere kjente allmenne farer og risikoer som kan være forbundet med produkter av animalsk opprinnelse.
 ►**M3**Vilkårene for klassifisering og overvåking av klassifiserte produksjons- og gjenutleggingsområder for levende muslinger, pigghuder, sekkedyr og sjøsnegler.
 ◄**M3**Tilfeller der de vedkommende myndighetene i forbindelse med spesifikke tilfeller av manglende overholdelse skal treffe ett eller flere av tiltakene nevnt i artikkel 137 nr. 2 og artikkel 138 nr. 2.De praktiske ordningene for kontrollene ante mortem og post mortem nevnt i nr. 2 bokstav a), b) og c), herunder de ensartede kravene som er nødvendige for å sikre oppfyllelse av tilstrekkelige garantier når den offentlige kontrollen gjennomføres under den offentlige veterinærens ansvar.De tekniske kravene til stempelmerket og de praktiske ordningene for påføringen av det.Særlige krav til gjennomføring av offentlig kontroll og samme minstehyppighet for slik offentlig kontroll av rå melk, melkeprodukter og fiskerivarer, der et minstenivå for offentlig kontroll er nødvendig for å håndtere kjente allmenne farer og risikoer som kan være forbundet med slike produkter.Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
 
-9. Samtidig som medlemsstatene oppfyller målene i denne forordning, særlig når det gjelder kravene til næringsmiddeltrygghet, kan de vedta nasjonale tiltak for å gjennomføre forsøksprosjekter som er begrenset i tid og omfang, med sikte på å vurdere alternative praktiske ordninger for gjennomføringen av offentlig kontroll av kjøttproduksjon. Disse nasjonale tiltakene skal meldes etter framgangsmåten fastsatt i artikkel 5 og 6 i direktiv (EU) [2015/1535](eu/32015l1535). Resultatet av den vurderingen som foretas i forsøksprosjektene, skal meddeles Kommisjonen så snart det foreligger.
+9\. Samtidig som medlemsstatene oppfyller målene i denne forordning, særlig når det gjelder kravene til næringsmiddeltrygghet, kan de vedta nasjonale tiltak for å gjennomføre forsøksprosjekter som er begrenset i tid og omfang, med sikte på å vurdere alternative praktiske ordninger for gjennomføringen av offentlig kontroll av kjøttproduksjon. Disse nasjonale tiltakene skal meldes etter framgangsmåten fastsatt i artikkel 5 og 6 i direktiv (EU) [2015/1535](eu/32015l1535). Resultatet av den vurderingen som foretas i forsøksprosjektene, skal meddeles Kommisjonen så snart det foreligger.
 
-10. I henhold til artikkel 30 skal det være tillatt å delegere visse offentlige kontrolloppgaver nevnt i denne artikkel til én eller flere fysiske personer.
+10\. I henhold til artikkel 30 skal det være tillatt å delegere visse offentlige kontrolloppgaver nevnt i denne artikkel til én eller flere fysiske personer.
 
-1. Offentlig kontroll for å verifisere overholdelsen av reglene nevnt i artikkel 1 nr. 2 bokstav a) og c) skal omfatte offentlig kontroll som skal gjennomføres i et hvilket som helst ledd i produksjon, foredling og distribusjon, av relevante stoffer, herunder stoffer som skal brukes i materialer som kommer i kontakt med næringsmidler, forurensende stoffer og ikke-godkjente, forbudte eller uønskede stoffer som ved bruk eller forekomst i avlinger eller dyr, eller ved bruk i produksjon eller foredling av næringsmidler eller fôr, kan etterlate seg rester i næringsmidler eller fôr.
+54 Kommisjonsforordning [(EF) nr. 2073/2005](eu/32005r2073*) av 15. november 2005 om mikrobiologiske kriterier for næringsmidler (EUT L 338 av 22.12.2005, s. 1).
 
-2. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 144 for å utfylle denne forordning ved å fastsette regler for gjennomføringen av den offentlige kontrollen nevnt i nr. 1 i denne artikkel og for tiltak som skal treffes av de vedkommende myndighetene etter slik offentlig kontroll. Disse delegerte rettsaktene skal fastsette regler forsærlige krav til gjennomføringen av offentlig kontroll, herunder, dersom det er relevant, omfanget av prøver og i hvilket ledd i produksjonen, foredlingen og distribusjonen prøvene skal tas etter de metodene for prøvetaking og laboratorieanalyser som er fastsatt i samsvar med artikkel 34 nr. 6 bokstav a) og b), samtidig som det tas hensyn til de særlige farene og risikoene knyttet til stoffene nevnt i nr. 1 i denne artikkel,tilfeller der de vedkommende myndighetene i forbindelse med manglende overholdelse eller mistanke om manglende overholdelse skal treffe ett eller flere av tiltakene nevnt i artikkel 137 nr. 2 og artikkel 138 nr. 2,tilfeller der de vedkommende myndighetene i forbindelse med manglende overholdelse eller mistanke om manglende overholdelse i forbindelse med dyr og varer fra tredjestater, skal treffe ett eller flere av tiltakene nevnt i artikkel 65–72.
+###### Artikkel 19
 
-3. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette regler for ensartede praktiske ordninger for gjennomføringen av den offentlige kontrollen nevnt i nr. 1, og for tiltak som skal treffes av de vedkommende myndighetene etter slik offentlig kontroll, med hensyn tilsamme minstehyppighet for slik offentlig kontroll, samtidig som det tas hensyn til farene og risikoene knyttet til stoffene nevnt i nr. 1,særlige tilleggsordninger og særlig tilleggsinnhold utover det som er fastsatt i artikkel 110, med henblikk på utarbeidingen av de relevante delene av den flerårige nasjonale kontrollplanen (MANCP) fastsatt i artikkel 109 nr. 1,særlige praktiske ordninger for å ta i bruk ordningene for administrativ bistand fastsatt i artikkel 102–108.Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
+Særlige regler for offentlig kontroll og for tiltak som skal treffes av vedkommende myndigheter i forbindelse med restmengder av relevante stoffer i næringsmidler og fôr
 
-4. I henhold til artikkel 30 skal det være tillatt å delegere visse offentlige kontrolloppgaver nevnt i denne artikkel til én eller flere fysiske personer.
+1\. Offentlig kontroll for å verifisere overholdelsen av reglene nevnt i artikkel 1 nr. 2 bokstav a) og c) skal omfatte offentlig kontroll som skal gjennomføres i et hvilket som helst ledd i produksjon, foredling og distribusjon, av relevante stoffer, herunder stoffer som skal brukes i materialer som kommer i kontakt med næringsmidler, forurensende stoffer og ikke-godkjente, forbudte eller uønskede stoffer som ved bruk eller forekomst i avlinger eller dyr, eller ved bruk i produksjon eller foredling av næringsmidler eller fôr, kan etterlate seg rester i næringsmidler eller fôr.
 
-1. Offentlig kontroll for å verifisere overholdelsen av reglene nevnt i artikkel 1 nr. 2 bokstav a), c), d) og e) skal omfatte offentlig kontroll som skal gjennomføres i et hvilket som helst ledd i produksjon, foredling og distribusjon, av dyr, produkter av animalsk opprinnelse, formeringsmateriale, animalske biprodukter og avledede produkter.
+2\. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 144 for å utfylle denne forordning ved å fastsette regler for gjennomføringen av den offentlige kontrollen nevnt i nr. 1 i denne artikkel og for tiltak som skal treffes av de vedkommende myndighetene etter slik offentlig kontroll. Disse delegerte rettsaktene skal fastsette regler forsærlige krav til gjennomføringen av offentlig kontroll, herunder, dersom det er relevant, omfanget av prøver og i hvilket ledd i produksjonen, foredlingen og distribusjonen prøvene skal tas etter de metodene for prøvetaking og laboratorieanalyser som er fastsatt i samsvar med artikkel 34 nr. 6 bokstav a) og b), samtidig som det tas hensyn til de særlige farene og risikoene knyttet til stoffene nevnt i nr. 1 i denne artikkel,tilfeller der de vedkommende myndighetene i forbindelse med manglende overholdelse eller mistanke om manglende overholdelse skal treffe ett eller flere av tiltakene nevnt i artikkel 137 nr. 2 og artikkel 138 nr. 2,tilfeller der de vedkommende myndighetene i forbindelse med manglende overholdelse eller mistanke om manglende overholdelse i forbindelse med dyr og varer fra tredjestater, skal treffe ett eller flere av tiltakene nevnt i artikkel 65–72.
 
-2. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 144 for å utfylle denne forordning ved å fastsette regler for gjennomføringen av offentlig kontroll av dyr, produkter av animalsk opprinnelse, formeringsmateriale, animalske biprodukter og avledede produkter for å verifisere overholdelsen av unionsreglene nevnt i artikkel 1 nr. 2 bokstav d) og e), og for tiltak som treffes av vedkommende myndigheter etter offentlig kontroll. Disse delegerte rettsaktene skal fastsette regler forsærlige krav til gjennomføringen av offentlig kontroll av dyr, produkter av animalsk opprinnelse og formeringsmateriale for å håndtere anerkjente farer og risikoer for menneskers og dyrs helse ved hjelp av offentlig kontroll som gjennomføres for å verifisere overholdelsen av de tiltakene for sykdomsforebygging og -bekjempelse som er fastsatt i samsvar med reglene nevnt i artikkel 1 nr. 2 bokstav d),særlige krav til gjennomføringen av offentlig kontroll av animalske biprodukter og avledede produkter for å håndtere særlige farer og risikoer for menneskers og dyrs helse ved hjelp av offentlig kontroll som gjennomføres for å verifisere overholdelsen av reglene nevnt i artikkel 1 nr. 2 bokstav e),tilfeller der de vedkommende myndighetene i forbindelse med manglende overholdelse eller mistanke om manglende overholdelse skal treffe ett eller flere av tiltakene nevnt i artikkel 137 nr. 2 og artikkel 138 nr. 2.
+3\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette regler for ensartede praktiske ordninger for gjennomføringen av den offentlige kontrollen nevnt i nr. 1, og for tiltak som skal treffes av de vedkommende myndighetene etter slik offentlig kontroll, med hensyn tilsamme minstehyppighet for slik offentlig kontroll, samtidig som det tas hensyn til farene og risikoene knyttet til stoffene nevnt i nr. 1,særlige tilleggsordninger og særlig tilleggsinnhold utover det som er fastsatt i artikkel 110, med henblikk på utarbeidingen av de relevante delene av den flerårige nasjonale kontrollplanen (MANCP) fastsatt i artikkel 109 nr. 1,særlige praktiske ordninger for å ta i bruk ordningene for administrativ bistand fastsatt i artikkel 102–108.Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
 
-3. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette regler for ensartede praktiske ordninger for gjennomføringen av den offentlige kontrollen nevnt i nr. 1 med hensyn tilsamme minstehyppighet for slik offentlig kontroll av dyr, produkter av animalsk opprinnelse og formeringsmateriale, der et minstenivå for offentlig kontroll er nødvendig for å håndtere kjente allmenne farer og risikoer for menneskers og dyrs helse ved hjelp av offentlig kontroll som gjennomføres for å verifisere overholdelsen av de tiltakene for sykdomsforebygging og -bekjempelse som er fastsatt i samsvar med reglene nevnt i artikkel 1 nr. 2 bokstav d), ogsamme minstehyppighet for slik offentlig kontroll av animalske biprodukter og avledede produkter, der et minstenivå for offentlig kontroll er nødvendig for å håndtere særlige farer og risikoer for menneskers og dyrs helse ved hjelp av offentlig kontroll som gjennomføres for å verifisere overholdelsen av reglene nevnt i artikkel 1 nr. 2 bokstav e).Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
+4\. I henhold til artikkel 30 skal det være tillatt å delegere visse offentlige kontrolloppgaver nevnt i denne artikkel til én eller flere fysiske personer.
 
-4. I henhold til artikkel 30 skal det være tillatt å delegere visse offentlige kontrolloppgaver nevnt i denne artikkel til én eller flere fysiske personer.
+###### Artikkel 20
 
-1. Offentlig kontroll for å verifisere overholdelsen av reglene nevnt i artikkel 1 nr. 2 bokstav f) skal gjennomføres i alle relevante ledd i produksjon, foredling og distribusjon i hele den landbruksbaserte næringsmiddelkjeden.
+Særlige regler for offentlig kontroll og for tiltak som treffes av vedkommende myndigheter i forbindelse med dyr, produkter av animalsk opprinnelse, formeringsmateriale, animalske biprodukter og avledede produkter
 
-2. Offentlig kontroll for å verifisere overholdelsen av reglene som fastsetter krav til dyrevelferd for dyr ved transport, særlig av forordning [(EF) nr. 1/2005](eu/32005r0001*), skal omfatte følgende:Ved lange reiser mellom medlemsstatene og til og fra tredjestater, offentlig kontroll før lasting for å kontrollere dyrenes skikkethet til transport.Ved lange reiser mellom medlemsstatene og til og fra tredjestater, for tamme hestedyr bortsett fra registrerte hestedyr, og tamdyr av storfe, sau, geit og svin, og før disse reisene:offentlig kontroll av loggbøker for å verifisere at loggboken er realistisk og viser samsvar med forordning [(EF) nr. 1/2005](eu/32005r0001*), ogoffentlig kontroll for å verifisere at transportøren angitt i loggboken har gyldig transportørgodkjenning, godkjenningsbevis for transportmiddelet for lange reiser og kompetansebevis for sjåfører og ledsagere.På grensekontrollstasjoner i henhold til artikkel 59 nr. 1 og på utførselssteder:offentlig kontroll av dyrenes skikkethet til transport og av transportmiddelet for å verifisere overholdelsen av kapittel II i vedlegg I til forordning [(EF) nr. 1/2005](eu/32005r0001*) og, dersom det er relevant, kapittel VI i nevnte vedlegg,offentlig kontroll for å verifisere at transportørene overholder gjeldende internasjonale avtaler og har gyldige transportørgodkjenninger og kompetansebevis for sjåfører og ledsagere, ogoffentlig kontroll for å verifisere om tamme hestedyr og tamdyr av storfe, sau, geit og svin er blitt transportert eller skal transporteres på lange reiser.
+1\. Offentlig kontroll for å verifisere overholdelsen av reglene nevnt i artikkel 1 nr. 2 bokstav a), c), d) og e) skal omfatte offentlig kontroll som skal gjennomføres i et hvilket som helst ledd i produksjon, foredling og distribusjon, av dyr, produkter av animalsk opprinnelse, formeringsmateriale, animalske biprodukter og avledede produkter.
 
-3. Under gjennomføringen av offentlig kontroll og annen offentlig virksomhet skal de vedkommende myndighetene treffe nødvendige tiltak for å hindre eller begrense enhver forsinkelse mellom lasting av dyrene og avgangen deres og under transporten.De vedkommende myndighetene skal ikke holde tilbake dyr under transport med mindre det er strengt nødvendig av hensyn til dyrevelferd eller dyrs eller menneskers helse. Dersom dyrene holdes tilbake under transport i mer enn to timer, skal de vedkommende myndighetene sikre at det legges hensiktsmessig til rette for stell av dyrene, og for at de om nødvendig fôres, gis vann, lesses av og oppstalles.
+2\. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 144 for å utfylle denne forordning ved å fastsette regler for gjennomføringen av offentlig kontroll av dyr, produkter av animalsk opprinnelse, formeringsmateriale, animalske biprodukter og avledede produkter for å verifisere overholdelsen av unionsreglene nevnt i artikkel 1 nr. 2 bokstav d) og e), og for tiltak som treffes av vedkommende myndigheter etter offentlig kontroll. Disse delegerte rettsaktene skal fastsette regler forsærlige krav til gjennomføringen av offentlig kontroll av dyr, produkter av animalsk opprinnelse og formeringsmateriale for å håndtere anerkjente farer og risikoer for menneskers og dyrs helse ved hjelp av offentlig kontroll som gjennomføres for å verifisere overholdelsen av de tiltakene for sykdomsforebygging og -bekjempelse som er fastsatt i samsvar med reglene nevnt i artikkel 1 nr. 2 bokstav d),særlige krav til gjennomføringen av offentlig kontroll av animalske biprodukter og avledede produkter for å håndtere særlige farer og risikoer for menneskers og dyrs helse ved hjelp av offentlig kontroll som gjennomføres for å verifisere overholdelsen av reglene nevnt i artikkel 1 nr. 2 bokstav e),tilfeller der de vedkommende myndighetene i forbindelse med manglende overholdelse eller mistanke om manglende overholdelse skal treffe ett eller flere av tiltakene nevnt i artikkel 137 nr. 2 og artikkel 138 nr. 2.
 
-4. Dersom manglende overholdelse fastslås etter den offentlige kontrollen nevnt i nr. 2 bokstav b), og organisatoren ikke utbedrer dette ved hjelp av nødvendige endringer i transporten før den lange reisen, skal de vedkommende myndighetene legge ned forbud mot den lange reisen.
+3\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette regler for ensartede praktiske ordninger for gjennomføringen av den offentlige kontrollen nevnt i nr. 1 med hensyn tilsamme minstehyppighet for slik offentlig kontroll av dyr, produkter av animalsk opprinnelse og formeringsmateriale, der et minstenivå for offentlig kontroll er nødvendig for å håndtere kjente allmenne farer og risikoer for menneskers og dyrs helse ved hjelp av offentlig kontroll som gjennomføres for å verifisere overholdelsen av de tiltakene for sykdomsforebygging og -bekjempelse som er fastsatt i samsvar med reglene nevnt i artikkel 1 nr. 2 bokstav d), ogsamme minstehyppighet for slik offentlig kontroll av animalske biprodukter og avledede produkter, der et minstenivå for offentlig kontroll er nødvendig for å håndtere særlige farer og risikoer for menneskers og dyrs helse ved hjelp av offentlig kontroll som gjennomføres for å verifisere overholdelsen av reglene nevnt i artikkel 1 nr. 2 bokstav e).Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
 
-5. Dersom de vedkommende myndighetene etter den offentlige kontrollen nevnt i nr. 2 bokstav c) fastslår at dyrene ikke er skikket til å fullføre turen, skal de gi ordre om at dyrene lesses av og får vann, fôr og hvile inntil de er skikket til å fortsette reisen.
+4\. I henhold til artikkel 30 skal det være tillatt å delegere visse offentlige kontrolloppgaver nevnt i denne artikkel til én eller flere fysiske personer.
 
-6. Melding om manglende overholdelse av reglene nevnt i nr. 1 i denne artikkel med henblikk på artikkel 105 og 106 skal gistil medlemsstatene som har gitt godkjenning til transportøren,ved påvist manglende overholdelse av reglene som gjelder for transportmiddelet, til medlemsstaten som har innvilget godkjenningsbeviset for transportmiddelet,ved påvist manglende overholdelse av reglene som gjelder for sjåfører, til medlemsstaten som har utstedt sjåførens kompetansebevis.
+###### Artikkel 21
 
-7. I henhold til artikkel 30 skal det være tillatt å delegere visse offentlige kontrolloppgaver nevnt i denne artikkel til én eller flere fysiske personer.
+Særlige regler for offentlig kontroll og for tiltak som skal treffes av vedkommende myndigheter i forbindelse med krav til dyrevelferd
 
-8. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 144 for å utfylle denne forordning ved å fastsette regler for gjennomføringen av offentlig kontroll for å verifisere overholdelsen av unionsreglene nevnt i artikkel 1 nr. 2 bokstav f). Disse delegerte rettsaktene skal ta hensyn til risikoene for dyrevelferden i forbindelse med landbruksvirksomhet og transport samt slakting og avliving av dyr, og fastsette regler for følgende:Særlige krav til gjennomføringen av slik offentlig kontroll for å håndtere risikoen forbundet med forskjellige dyrearter og transportmidler, og behovet for å hindre praksis som ikke overholder reglene, og for å begrense lidelse hos dyr.Tilfeller der de vedkommende myndighetene i forbindelse med spesifikke tilfeller av manglende overholdelse skal treffe ett eller flere av tiltakene nevnt i artikkel 137 nr. 2 og artikkel 138 nr. 2.Verifisering av at kravene til dyrevelferd på grensekontrollstasjoner og utførselssteder og minstekravene for slike utførselssteder er oppfylt.Særlige kriterier og vilkår for å ta i bruk ordningene for administrativ bistand fastsatt i artikkel 102–108.I hvilke tilfeller og på hvilke vilkår offentlig kontroll for å verifisere overholdelsen av kravene til dyrevelferd kan omfatte bruk av særlige indikatorer for dyrevelferd basert på målbare ytelseskriterier, og utforming av slike indikatorer på grunnlag av vitenskapelig og teknisk dokumentasjon.
+1\. Offentlig kontroll for å verifisere overholdelsen av reglene nevnt i artikkel 1 nr. 2 bokstav f) skal gjennomføres i alle relevante ledd i produksjon, foredling og distribusjon i hele den landbruksbaserte næringsmiddelkjeden.
 
-9. Kommisjonen skal ved hjelp av gjennomføringsrettsakter fastsette regler for ensartede praktiske ordninger for offentlig kontroll som gjennomføres for å verifisere overholdelsen av unionsreglene nevnt i artikkel 1 nr. 2 bokstav f) om fastsettelse av krav til dyrevelferd, og for tiltak truffet av de vedkommende myndighetene etter slik offentlig kontroll, med hensyn tilsamme minstehyppighet for slik offentlig kontroll der et minstenivå for offentlig kontroll er nødvendig for å håndtere risikoen forbundet med forskjellige dyrearter og transportmidler, og behovet for å hindre praksis som ikke overholder reglene, og for å begrense lidelse hos dyr, ogde praktiske ordningene for utarbeiding av skriftlig dokumentasjon om gjennomført offentlig kontroll og hvor lenge slik dokumentasjon skal oppbevares.Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
+2\. Offentlig kontroll for å verifisere overholdelsen av reglene som fastsetter krav til dyrevelferd for dyr ved transport, særlig av forordning [(EF) nr. 1/2005](eu/32005r0001*), skal omfatte følgende:Ved lange reiser mellom medlemsstatene og til og fra tredjestater, offentlig kontroll før lasting for å kontrollere dyrenes skikkethet til transport.Ved lange reiser mellom medlemsstatene og til og fra tredjestater, for tamme hestedyr bortsett fra registrerte hestedyr, og tamdyr av storfe, sau, geit og svin, og før disse reisene:offentlig kontroll av loggbøker for å verifisere at loggboken er realistisk og viser samsvar med forordning [(EF) nr. 1/2005](eu/32005r0001*), ogoffentlig kontroll for å verifisere at transportøren angitt i loggboken har gyldig transportørgodkjenning, godkjenningsbevis for transportmiddelet for lange reiser og kompetansebevis for sjåfører og ledsagere.På grensekontrollstasjoner i henhold til artikkel 59 nr. 1 og på utførselssteder:offentlig kontroll av dyrenes skikkethet til transport og av transportmiddelet for å verifisere overholdelsen av kapittel II i vedlegg I til forordning [(EF) nr. 1/2005](eu/32005r0001*) og, dersom det er relevant, kapittel VI i nevnte vedlegg,offentlig kontroll for å verifisere at transportørene overholder gjeldende internasjonale avtaler og har gyldige transportørgodkjenninger og kompetansebevis for sjåfører og ledsagere, ogoffentlig kontroll for å verifisere om tamme hestedyr og tamdyr av storfe, sau, geit og svin er blitt transportert eller skal transporteres på lange reiser.
 
-1. Offentlig kontroll for å verifisere overholdelsen av reglene nevnt i artikkel 1 nr. 2 bokstav g) skal omfatte offentlig kontroll av skadegjørere, planter, planteprodukter og andre gjenstander samt av profesjonelle driftsansvarlige og andre personer som omfattes av disse reglene.
+3\. Under gjennomføringen av offentlig kontroll og annen offentlig virksomhet skal de vedkommende myndighetene treffe nødvendige tiltak for å hindre eller begrense enhver forsinkelse mellom lasting av dyrene og avgangen deres og under transporten.De vedkommende myndighetene skal ikke holde tilbake dyr under transport med mindre det er strengt nødvendig av hensyn til dyrevelferd eller dyrs eller menneskers helse. Dersom dyrene holdes tilbake under transport i mer enn to timer, skal de vedkommende myndighetene sikre at det legges hensiktsmessig til rette for stell av dyrene, og for at de om nødvendig fôres, gis vann, lesses av og oppstalles.
 
-2. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 144 for å utfylle denne forordning ved å fastsette regler for gjennomføringen av offentlig kontroll av planter, planteprodukter og andre gjenstander for å verifisere overholdelsen av unionsreglene nevnt i artikkel 1 nr. 2 bokstav g) som gjelder for slike varer, og for tiltak som treffes av de vedkommende myndighetene etter gjennomføringen av slik offentlig kontroll. Disse delegerte rettsaktene skal fastsette regler forsærlige krav til gjennomføringen av slik offentlig kontroll av innførsel til og forflytning i Unionen av bestemte planter, planteprodukter og andre gjenstander som omfattes av reglene nevnt i artikkel 1 nr. 2 bokstav g), for å håndtere anerkjente farer og risikoer for plantehelse som er forbundet med spesifikke planter, planteprodukter og andre gjenstander av en bestemt opprinnelse eller et bestemt opphav, ogtilfeller der de vedkommende myndighetene i forbindelse med spesifikke tilfeller av manglende overholdelse skal treffe ett eller flere av tiltakene nevnt i artikkel 137 nr. 2 og artikkel 138 nr. 2.
+4\. Dersom manglende overholdelse fastslås etter den offentlige kontrollen nevnt i nr. 2 bokstav b), og organisatoren ikke utbedrer dette ved hjelp av nødvendige endringer i transporten før den lange reisen, skal de vedkommende myndighetene legge ned forbud mot den lange reisen.
 
-3. Kommisjonen skal ved hjelp av gjennomføringsrettsakter fastsette regler for ensartede praktiske ordninger for gjennomføringen av offentlig kontroll av planter, planteprodukter og andre gjenstander for å verifisere overholdelsen av unionsreglene nevnt i artikkel 1 nr. 2 bokstav g) som gjelder for disse varene, og for tiltak som treffes av de vedkommende myndighetene etter gjennomføringen av slik offentlig kontroll, med hensyn til følgende:Samme minstehyppighet for slik offentlig kontroll, der et minstenivå for offentlig kontroll er nødvendig for å håndtere kjente allmenne farer og risikoer for plantehelsen i forbindelse med spesifikke planter, planteprodukter og andre gjenstander av en bestemt opprinnelse eller et bestemt opphav.Samme hyppighet for de vedkommende myndighetenes offentlige kontroll av driftsansvarlige som har tillatelse til å utstede plantepass i samsvar med artikkel 84 nr. 1 i forordning [(EU) 2016/2031](eu/32016r2031), samtidig som det tas hensyn til hvorvidt de driftsansvarlige har innført en risikohåndteringsplan for skadegjørere jf. artikkel 91 i nevnte forordning, for de plantene, planteproduktene og andre gjenstandene som de produserer.Samme hyppighet for de vedkommende myndighetenes offentlige kontroll av driftsansvarlige som har tillatelse til å påføre merket nevnt i artikkel 96 nr. 1 i forordning [(EU) 2016/2031](eu/32016r2031), eller til å utstede den offisielle attestasjonen nevnt i artikkel 99 nr. 2 bokstav a) i nevnte forordning.Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
+5\. Dersom de vedkommende myndighetene etter den offentlige kontrollen nevnt i nr. 2 bokstav c) fastslår at dyrene ikke er skikket til å fullføre turen, skal de gi ordre om at dyrene lesses av og får vann, fôr og hvile inntil de er skikket til å fortsette reisen.
 
-4. I henhold til artikkel 30 skal det være tillatt å delegere visse offentlige kontrolloppgaver nevnt i denne artikkel til én eller flere fysiske personer.
+6\. Melding om manglende overholdelse av reglene nevnt i nr. 1 i denne artikkel med henblikk på artikkel 105 og 106 skal gistil medlemsstatene som har gitt godkjenning til transportøren,ved påvist manglende overholdelse av reglene som gjelder for transportmiddelet, til medlemsstaten som har innvilget godkjenningsbeviset for transportmiddelet,ved påvist manglende overholdelse av reglene som gjelder for sjåfører, til medlemsstaten som har utstedt sjåførens kompetansebevis.
 
-1. Offentlig kontroll for å verifisere overholdelsen av reglene nevnt i artikkel 1 nr. 2 bokstav a), b) og c) skal omfatte offentlig kontroll av genmodifiserte organismer beregnet på næringsmiddel- og fôrproduksjon og av genmodifiserte næringsmidler og genmodifisert fôr, som gjennomføres i alle relevante ledd i produksjon, foredling og distribusjon i den landbruksbaserte næringsmiddelkjeden.
+7\. I henhold til artikkel 30 skal det være tillatt å delegere visse offentlige kontrolloppgaver nevnt i denne artikkel til én eller flere fysiske personer.
 
-2. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 144 for å utfylle denne forordning ved å fastsette regler for gjennomføringen av den offentlige kontrollen nevnt i nr. 1 i denne artikkel og for tiltak som skal treffes av de vedkommende myndighetene etter slik offentlig kontroll. Disse delegerte rettsaktene skal ta hensyn til behovet for å sikre et minstenivå for offentlig kontroll for å forhindre enhver praksis som er i strid med reglene nevnt i artikkel 1 nr. 2 bokstav b), og skal fastsette følgende:Særlige krav til gjennomføringen av offentlig kontroll for å håndtere kjente allmenne farer og risikoer med hensyn tilforekomst i den landbruksbaserte næringsmiddelkjeden av genmodifiserte organismer beregnet på næringsmiddel- og fôrproduksjon og av genmodifiserte næringsmidler og genmodifisert fôr som ikke er tillatt i henhold til direktiv [2001/18/EF](eu/32001l0018) eller forordning [(EF) nr. 1829/2003](eu/32003r1829),dyrking av genmodifiserte organismer beregnet på næringsmiddel- og fôrproduksjon og riktig bruk av overvåkingsplanen nevnt i artikkel 13 nr. 2 bokstav e) i direktiv [2001/18/EF](eu/32001l0018) samt i artikkel 5 nr. 5 bokstav b) og i artikkel 17 nr. 5 bokstav b) i forordning [(EF) nr. 1829/2003](eu/32003r1829).Tilfeller der de vedkommende myndighetene i forbindelse med spesifikke tilfeller av manglende overholdelse skal treffe ett eller flere av tiltakene nevnt i artikkel 137 nr. 2 og artikkel 138 nr. 2.
+8\. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 144 for å utfylle denne forordning ved å fastsette regler for gjennomføringen av offentlig kontroll for å verifisere overholdelsen av unionsreglene nevnt i artikkel 1 nr. 2 bokstav f). Disse delegerte rettsaktene skal ta hensyn til risikoene for dyrevelferden i forbindelse med landbruksvirksomhet og transport samt slakting og avliving av dyr, og fastsette regler for følgende:Særlige krav til gjennomføringen av slik offentlig kontroll for å håndtere risikoen forbundet med forskjellige dyrearter og transportmidler, og behovet for å hindre praksis som ikke overholder reglene, og for å begrense lidelse hos dyr.Tilfeller der de vedkommende myndighetene i forbindelse med spesifikke tilfeller av manglende overholdelse skal treffe ett eller flere av tiltakene nevnt i artikkel 137 nr. 2 og artikkel 138 nr. 2.Verifisering av at kravene til dyrevelferd på grensekontrollstasjoner og utførselssteder og minstekravene for slike utførselssteder er oppfylt.Særlige kriterier og vilkår for å ta i bruk ordningene for administrativ bistand fastsatt i artikkel 102–108.I hvilke tilfeller og på hvilke vilkår offentlig kontroll for å verifisere overholdelsen av kravene til dyrevelferd kan omfatte bruk av særlige indikatorer for dyrevelferd basert på målbare ytelseskriterier, og utforming av slike indikatorer på grunnlag av vitenskapelig og teknisk dokumentasjon.
 
-3. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette regler for ensartede praktiske ordninger for gjennomføringen av den offentlige kontrollen nevnt i nr. 1, samtidig som det tas hensyn til behovet for å sikre et minstenivå for offentlig kontroll for å forhindre enhver praksis som er i strid med reglene for samme minstehyppighet for slik offentlig kontroll, der et minstenivå for offentlig kontroll er nødvendig for å håndtere kjente allmenne farer og risikoer med hensyn tilforekomst i den landbruksbaserte næringsmiddelkjeden av genmodifiserte organismer beregnet på næringsmiddel- og fôrproduksjon og av genmodifiserte næringsmidler og genmodifisert fôr som ikke er tillatt i henhold til direktiv [2001/18/EF](eu/32001l0018) eller forordning [(EF) nr. 1829/2003](eu/32003r1829),dyrking av genmodifiserte organismer med henblikk på næringsmiddel- og fôrproduksjon og riktig bruk av overvåkingsplanen nevnt i artikkel 13 nr. 2 bokstav e) i direktiv [2001/18/EF](eu/32001l0018) samt i artikkel 5 nr. 5 bokstav b) og i artikkel 17 nr. 5 bokstav b) i forordning [(EF) nr. 1829/2003](eu/32003r1829).Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
+9\. Kommisjonen skal ved hjelp av gjennomføringsrettsakter fastsette regler for ensartede praktiske ordninger for offentlig kontroll som gjennomføres for å verifisere overholdelsen av unionsreglene nevnt i artikkel 1 nr. 2 bokstav f) om fastsettelse av krav til dyrevelferd, og for tiltak truffet av de vedkommende myndighetene etter slik offentlig kontroll, med hensyn tilsamme minstehyppighet for slik offentlig kontroll der et minstenivå for offentlig kontroll er nødvendig for å håndtere risikoen forbundet med forskjellige dyrearter og transportmidler, og behovet for å hindre praksis som ikke overholder reglene, og for å begrense lidelse hos dyr, ogde praktiske ordningene for utarbeiding av skriftlig dokumentasjon om gjennomført offentlig kontroll og hvor lenge slik dokumentasjon skal oppbevares.Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
 
-4. I henhold til artikkel 30 skal det være tillatt å delegere visse offentlige kontrolloppgaver nevnt i denne artikkel til én eller flere fysiske personer.
+###### Artikkel 22
 
-1. Offentlig kontroll for å verifisere overholdelsen av reglene nevnt i artikkel 1 nr. 2 bokstav h) i denne forordning skal omfatte offentlig kontroll av aktive stoffer, beskyttende midler, synergister, formuleringsstoffer og hjelpestoffer som nevnt i artikkel 2 nr. 2 og 3 i forordning [(EF) nr. 1107/2009](eu/32009r1107).
+Særlige regler for offentlig kontroll og for tiltak som treffes av vedkommende myndigheter i forbindelse med plantehelse
 
-2. Med henblikk på å fastsette hyppigheten av den risikobaserte offentlige kontrollen nevnt i nr. 1 skal vedkommende myndigheter også ta hensyn til følgende:Resultater av relevant overvåking, herunder overvåking av rester av pesticider, som gjennomføres i henhold til artikkel 32 nr. 2 i forordning [(EF) nr. 396/2005](eu/32005r0396) og artikkel 8 i europaparlaments- og rådsdirektiv [2000/60/EF](eu/32000l0060)55.Opplysninger om ikke tillatte plantevernmidler, herunder ulovlig handel med plantevernmidler, og resultater av relevant kontroll gjennomført av myndighetene nevnt i artikkel 8 europaparlaments- og rådsforordning [(EU) nr. 649/2012](eu/32012r0649)56.Opplysninger om forgiftning forbundet med plantevernmidler, herunder tilgjengelige opplysninger i samsvar med artikkel 56 i forordning [(EF) nr. 1107/2009](eu/32009r1107), og opplysninger om reaksjoner ved helsemessige nødssituasjoner som gjøres tilgjengelig av organene nevnt i artikkel 45 nr. 1 i europaparlaments- og rådsforordning [(EF) nr. 1272/2008](eu/32008r1272*)57.
+1\. Offentlig kontroll for å verifisere overholdelsen av reglene nevnt i artikkel 1 nr. 2 bokstav g) skal omfatte offentlig kontroll av skadegjørere, planter, planteprodukter og andre gjenstander samt av profesjonelle driftsansvarlige og andre personer som omfattes av disse reglene.
 
-3. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 144 for å utfylle denne forordning ved å fastsette regler for gjennomføringen av den offentlige kontrollen nevnt i nr. 1 i denne artikkel. Disse delegerte rettsaktene skal fastsette regler forsærlige krav til gjennomføringen av slik offentlig kontroll for å håndtere kjente allmenne farer og risikoer som kan oppstå i forbindelse med framstilling, omsetning, innførsel til Unionen, merking, emballering, transport, lagring og bruk av plantevernmidler, for å sikre trygg og bærekraftig bruk av slike midler, og for å bekjempe ulovlig handel med dem, ogtilfeller der de vedkommende myndighetene i forbindelse med spesifikke tilfeller av manglende overholdelse skal treffe ett eller flere av tiltakene nevnt i artikkel 137 nr. 2 og artikkel 138 nr. 2.
+2\. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 144 for å utfylle denne forordning ved å fastsette regler for gjennomføringen av offentlig kontroll av planter, planteprodukter og andre gjenstander for å verifisere overholdelsen av unionsreglene nevnt i artikkel 1 nr. 2 bokstav g) som gjelder for slike varer, og for tiltak som treffes av de vedkommende myndighetene etter gjennomføringen av slik offentlig kontroll. Disse delegerte rettsaktene skal fastsette regler forsærlige krav til gjennomføringen av slik offentlig kontroll av innførsel til og forflytning i Unionen av bestemte planter, planteprodukter og andre gjenstander som omfattes av reglene nevnt i artikkel 1 nr. 2 bokstav g), for å håndtere anerkjente farer og risikoer for plantehelse som er forbundet med spesifikke planter, planteprodukter og andre gjenstander av en bestemt opprinnelse eller et bestemt opphav, ogtilfeller der de vedkommende myndighetene i forbindelse med spesifikke tilfeller av manglende overholdelse skal treffe ett eller flere av tiltakene nevnt i artikkel 137 nr. 2 og artikkel 138 nr. 2.
 
-4. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette nærmere regler for ensartede praktiske ordninger for gjennomføringen av den offentlige kontrollen av produktene nevnt i nr. 1 med hensyn til følgende:Samme minstehyppighet for slik offentlig kontroll, der et minstenivå for offentlig kontroll er nødvendig for å håndtere kjente allmenne farer og risikoer som kan oppstå i forbindelse med framstilling, omsetning, innførsel til Unionen, merking, emballering, transport, lagring og bruk av plantevernmidler, for å sikre trygg og bærekraftig bruk av slike midler, og for å bekjempe ulovlig handel med dem.Innsamling av opplysninger om samt overvåking og rapportering av tilfeller der det er mistanke om forgiftning forårsaket av plantevernmidler.Innsamling av opplysninger om samt overvåking og rapportering av ikke tillatte plantevernmidler, herunder ulovlig handel med plantevernmidler.Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
+3\. Kommisjonen skal ved hjelp av gjennomføringsrettsakter fastsette regler for ensartede praktiske ordninger for gjennomføringen av offentlig kontroll av planter, planteprodukter og andre gjenstander for å verifisere overholdelsen av unionsreglene nevnt i artikkel 1 nr. 2 bokstav g) som gjelder for disse varene, og for tiltak som treffes av de vedkommende myndighetene etter gjennomføringen av slik offentlig kontroll, med hensyn til følgende:Samme minstehyppighet for slik offentlig kontroll, der et minstenivå for offentlig kontroll er nødvendig for å håndtere kjente allmenne farer og risikoer for plantehelsen i forbindelse med spesifikke planter, planteprodukter og andre gjenstander av en bestemt opprinnelse eller et bestemt opphav.Samme hyppighet for de vedkommende myndighetenes offentlige kontroll av driftsansvarlige som har tillatelse til å utstede plantepass i samsvar med artikkel 84 nr. 1 i forordning [(EU) 2016/2031](eu/32016r2031), samtidig som det tas hensyn til hvorvidt de driftsansvarlige har innført en risikohåndteringsplan for skadegjørere jf. artikkel 91 i nevnte forordning, for de plantene, planteproduktene og andre gjenstandene som de produserer.Samme hyppighet for de vedkommende myndighetenes offentlige kontroll av driftsansvarlige som har tillatelse til å påføre merket nevnt i artikkel 96 nr. 1 i forordning [(EU) 2016/2031](eu/32016r2031), eller til å utstede den offisielle attestasjonen nevnt i artikkel 99 nr. 2 bokstav a) i nevnte forordning.Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
 
-5. I henhold til artikkel 30 skal det være tillatt å delegere visse offentlige kontrolloppgaver nevnt i denne artikkel til én eller flere fysiske personer.
+4\. I henhold til artikkel 30 skal det være tillatt å delegere visse offentlige kontrolloppgaver nevnt i denne artikkel til én eller flere fysiske personer.
+
+###### Artikkel 23
+
+Særlige regler for offentlig kontroll og for tiltak som treffes av vedkommende myndigheter i forbindelse med genmodifiserte organismer beregnet på næringsmiddel- og fôrproduksjon og genmodifiserte næringsmidler og genmodifisert fôr
+
+1\. Offentlig kontroll for å verifisere overholdelsen av reglene nevnt i artikkel 1 nr. 2 bokstav a), b) og c) skal omfatte offentlig kontroll av genmodifiserte organismer beregnet på næringsmiddel- og fôrproduksjon og av genmodifiserte næringsmidler og genmodifisert fôr, som gjennomføres i alle relevante ledd i produksjon, foredling og distribusjon i den landbruksbaserte næringsmiddelkjeden.
+
+2\. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 144 for å utfylle denne forordning ved å fastsette regler for gjennomføringen av den offentlige kontrollen nevnt i nr. 1 i denne artikkel og for tiltak som skal treffes av de vedkommende myndighetene etter slik offentlig kontroll. Disse delegerte rettsaktene skal ta hensyn til behovet for å sikre et minstenivå for offentlig kontroll for å forhindre enhver praksis som er i strid med reglene nevnt i artikkel 1 nr. 2 bokstav b), og skal fastsette følgende:Særlige krav til gjennomføringen av offentlig kontroll for å håndtere kjente allmenne farer og risikoer med hensyn tilforekomst i den landbruksbaserte næringsmiddelkjeden av genmodifiserte organismer beregnet på næringsmiddel- og fôrproduksjon og av genmodifiserte næringsmidler og genmodifisert fôr som ikke er tillatt i henhold til direktiv [2001/18/EF](eu/32001l0018) eller forordning [(EF) nr. 1829/2003](eu/32003r1829),dyrking av genmodifiserte organismer beregnet på næringsmiddel- og fôrproduksjon og riktig bruk av overvåkingsplanen nevnt i artikkel 13 nr. 2 bokstav e) i direktiv [2001/18/EF](eu/32001l0018) samt i artikkel 5 nr. 5 bokstav b) og i artikkel 17 nr. 5 bokstav b) i forordning [(EF) nr. 1829/2003](eu/32003r1829).Tilfeller der de vedkommende myndighetene i forbindelse med spesifikke tilfeller av manglende overholdelse skal treffe ett eller flere av tiltakene nevnt i artikkel 137 nr. 2 og artikkel 138 nr. 2.
+
+3\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette regler for ensartede praktiske ordninger for gjennomføringen av den offentlige kontrollen nevnt i nr. 1, samtidig som det tas hensyn til behovet for å sikre et minstenivå for offentlig kontroll for å forhindre enhver praksis som er i strid med reglene for samme minstehyppighet for slik offentlig kontroll, der et minstenivå for offentlig kontroll er nødvendig for å håndtere kjente allmenne farer og risikoer med hensyn tilforekomst i den landbruksbaserte næringsmiddelkjeden av genmodifiserte organismer beregnet på næringsmiddel- og fôrproduksjon og av genmodifiserte næringsmidler og genmodifisert fôr som ikke er tillatt i henhold til direktiv [2001/18/EF](eu/32001l0018) eller forordning [(EF) nr. 1829/2003](eu/32003r1829),dyrking av genmodifiserte organismer med henblikk på næringsmiddel- og fôrproduksjon og riktig bruk av overvåkingsplanen nevnt i artikkel 13 nr. 2 bokstav e) i direktiv [2001/18/EF](eu/32001l0018) samt i artikkel 5 nr. 5 bokstav b) og i artikkel 17 nr. 5 bokstav b) i forordning [(EF) nr. 1829/2003](eu/32003r1829).Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
+
+4\. I henhold til artikkel 30 skal det være tillatt å delegere visse offentlige kontrolloppgaver nevnt i denne artikkel til én eller flere fysiske personer.
+
+###### Artikkel 24
+
+Særlige regler for offentlig kontroll og for tiltak som treffes av vedkommende myndigheter i forbindelse med plantevernmidler
+
+1\. Offentlig kontroll for å verifisere overholdelsen av reglene nevnt i artikkel 1 nr. 2 bokstav h) i denne forordning skal omfatte offentlig kontroll av aktive stoffer, beskyttende midler, synergister, formuleringsstoffer og hjelpestoffer som nevnt i artikkel 2 nr. 2 og 3 i forordning [(EF) nr. 1107/2009](eu/32009r1107).
+
+2\. Med henblikk på å fastsette hyppigheten av den risikobaserte offentlige kontrollen nevnt i nr. 1 skal vedkommende myndigheter også ta hensyn til følgende:Resultater av relevant overvåking, herunder overvåking av rester av pesticider, som gjennomføres i henhold til artikkel 32 nr. 2 i forordning [(EF) nr. 396/2005](eu/32005r0396) og artikkel 8 i europaparlaments- og rådsdirektiv [2000/60/EF](eu/32000l0060)55.Opplysninger om ikke tillatte plantevernmidler, herunder ulovlig handel med plantevernmidler, og resultater av relevant kontroll gjennomført av myndighetene nevnt i artikkel 8 europaparlaments- og rådsforordning [(EU) nr. 649/2012](eu/32012r0649)56.Opplysninger om forgiftning forbundet med plantevernmidler, herunder tilgjengelige opplysninger i samsvar med artikkel 56 i forordning [(EF) nr. 1107/2009](eu/32009r1107), og opplysninger om reaksjoner ved helsemessige nødssituasjoner som gjøres tilgjengelig av organene nevnt i artikkel 45 nr. 1 i europaparlaments- og rådsforordning [(EF) nr. 1272/2008](eu/32008r1272*)57.
+
+3\. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 144 for å utfylle denne forordning ved å fastsette regler for gjennomføringen av den offentlige kontrollen nevnt i nr. 1 i denne artikkel. Disse delegerte rettsaktene skal fastsette regler forsærlige krav til gjennomføringen av slik offentlig kontroll for å håndtere kjente allmenne farer og risikoer som kan oppstå i forbindelse med framstilling, omsetning, innførsel til Unionen, merking, emballering, transport, lagring og bruk av plantevernmidler, for å sikre trygg og bærekraftig bruk av slike midler, og for å bekjempe ulovlig handel med dem, ogtilfeller der de vedkommende myndighetene i forbindelse med spesifikke tilfeller av manglende overholdelse skal treffe ett eller flere av tiltakene nevnt i artikkel 137 nr. 2 og artikkel 138 nr. 2.
+
+4\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette nærmere regler for ensartede praktiske ordninger for gjennomføringen av den offentlige kontrollen av produktene nevnt i nr. 1 med hensyn til følgende:Samme minstehyppighet for slik offentlig kontroll, der et minstenivå for offentlig kontroll er nødvendig for å håndtere kjente allmenne farer og risikoer som kan oppstå i forbindelse med framstilling, omsetning, innførsel til Unionen, merking, emballering, transport, lagring og bruk av plantevernmidler, for å sikre trygg og bærekraftig bruk av slike midler, og for å bekjempe ulovlig handel med dem.Innsamling av opplysninger om samt overvåking og rapportering av tilfeller der det er mistanke om forgiftning forårsaket av plantevernmidler.Innsamling av opplysninger om samt overvåking og rapportering av ikke tillatte plantevernmidler, herunder ulovlig handel med plantevernmidler.Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
+
+5\. I henhold til artikkel 30 skal det være tillatt å delegere visse offentlige kontrolloppgaver nevnt i denne artikkel til én eller flere fysiske personer.
+
+55 Europaparlaments- og rådsdirektiv [2000/60/EF](eu/32000l0060) av 23. oktober 2000 om fastsettelse av en ramme for fellesskapstiltak på området vannpolitikk (EFT L 327 av 22.12.2000, s. 1).56 Europaparlaments- og rådsforordning [(EU) nr. 649/2012](eu/32012r0649) av 4. juli 2012 om eksport og import av farlige kjemikalier (EUT L 201 av 27.7.2012, s. 60).57 Europaparlaments- og rådsforordning [(EF) nr. 1272/2008](eu/32008r1272*) av 16. desember 2008 om klassifisering, merking og emballering av stoffer og stoffblandinger, om endring og oppheving av direktiv [67/548/EØF](eu/31967l0548) og [1999/45/EF](eu/31999*0045), og om endring av forordning [(EF) nr. 1907/2006](eu/32006r1907*) (EUT L 353 av 31.12.2008 s. 1.)
+
+###### Artikkel 25
+
+Særlige regler for offentlig kontroll og annen offentlig virksomhet i forbindelse med økologisk produksjon og merking av økologiske produkter
 
 Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette regler for ensartede praktiske ordninger for gjennomføringen av offentlig kontroll for å verifisere overholdelsen av reglene i artikkel 1 nr. 2 bokstav i) med hensyn til følgende:Særlige krav og tilleggsinnhold utover det som er fastsatt i artikkel 110, med henblikk på utarbeidingen av de relevante delene av den flerårige nasjonale kontrollplanen fastsatt i artikkel 109 nr. 1 samt særlig tilleggsinnhold utover rapporten fastsatt i artikkel 113.Særlige ansvarsområder og oppgaver for EU-referansesentrene i tillegg til dem som er fastsatt i artikkel 98.Praktiske ordninger for å ta i bruk ordningene for administrativ bistand fastsatt i artikkel 102–108, herunder utveksling av opplysninger om tilfeller av manglende overholdelse eller sannsynligheten for manglende overholdelse, mellom vedkommende myndigheter og organer med delegerte oppgaver.Metodene for prøvetaking samt for laboratorieanalyser og laboratorieundersøkelser, unntatt eventuelle regler som gjelder fastsettelse av terskelverdier.
 
 Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
 
-1. Som unntak fra artikkel 31 nr. 3 kan vedkommende myndigheter i forbindelse med reglene nevnt i artikkel 1 nr. 2 bokstav j), dersom de har delegert beslutningene om tillatelse til å bruke et produkts registrerte navn, også delegere anvendelsen av følgende tiltak:Påbud om at visse deler av den driftsansvarliges virksomhet skal være underlagt systematisk eller hyppigere offentlig kontroll.Påbud om at den driftsansvarlige øker hyppigheten av egne kontroller.Påbud om at etiketten endres for å samsvare med produktspesifikasjonene og overholde reglene nevnt i artikkel 1 nr. 2 bokstav j).
+###### Artikkel 26
 
-2. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 144 for å utfylle denne forordning ved å fastsette regler for gjennomføringen av offentlig kontroll for å verifisere overholdelsen av reglene nevnt i artikkel 1 nr. 2 bokstav j). Disse delegerte rettsaktene skal fastsette regler forkrav, metoder og teknikker nevnt i artikkel 12 og 14 for offentlig kontroll som gjennomføres for å verifisere samsvar med produktspesifikasjoner og krav til merking,særlige metoder og teknikker nevnt i artikkel 14 for offentlig kontroll som gjennomføres med henblikk på å sikre sporbarhet av varer og dyr som faller inn under virkeområdet for reglene nevnt i artikkel 1 nr. 2 bokstav j), i alle ledd i produksjon, bearbeiding og distribusjon, og med henblikk på å gi garantier om overholdelsen av disse reglene,tilfeller der de vedkommende myndighetene i forbindelse med spesifikke tilfeller av manglende overholdelse skal treffe ett eller flere av tiltakene nevnt i artikkel 138 nr. 1 og 2.
+Særlige regler for offentlig kontroll og annen offentlig virksomhet som vedkommende myndigheter gjennomfører i forbindelse med beskyttede opprinnelsesbetegnelser, beskyttede geografiske betegnelser og garanterte tradisjonelle spesialiteter
 
-3. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette regler for ensartede praktiske ordninger for gjennomføringen av den offentlige kontrollen for å verifisere overholdelsen av reglene i artikkel 1 nr. 2 bokstav j) med hensyn til følgende:Særlige praktiske ordninger for å ta i bruk ordningene for administrativ bistand fastsatt i artikkel 102–108, herunder utveksling av opplysninger om tilfeller av manglende overholdelse eller sannsynligheten for manglende overholdelse, mellom vedkommende myndigheter og organer med delegerte oppgaver.Særlige rapporteringsplikter for organer med delegerte oppgaver.Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
+1\. Som unntak fra artikkel 31 nr. 3 kan vedkommende myndigheter i forbindelse med reglene nevnt i artikkel 1 nr. 2 bokstav j), dersom de har delegert beslutningene om tillatelse til å bruke et produkts registrerte navn, også delegere anvendelsen av følgende tiltak:Påbud om at visse deler av den driftsansvarliges virksomhet skal være underlagt systematisk eller hyppigere offentlig kontroll.Påbud om at den driftsansvarlige øker hyppigheten av egne kontroller.Påbud om at etiketten endres for å samsvare med produktspesifikasjonene og overholde reglene nevnt i artikkel 1 nr. 2 bokstav j).
 
-4. I henhold til artikkel 30 skal det være tillatt å delegere visse offentlige kontrolloppgaver nevnt i denne artikkel til én eller flere fysiske personer.
+2\. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 144 for å utfylle denne forordning ved å fastsette regler for gjennomføringen av offentlig kontroll for å verifisere overholdelsen av reglene nevnt i artikkel 1 nr. 2 bokstav j). Disse delegerte rettsaktene skal fastsette regler forkrav, metoder og teknikker nevnt i artikkel 12 og 14 for offentlig kontroll som gjennomføres for å verifisere samsvar med produktspesifikasjoner og krav til merking,særlige metoder og teknikker nevnt i artikkel 14 for offentlig kontroll som gjennomføres med henblikk på å sikre sporbarhet av varer og dyr som faller inn under virkeområdet for reglene nevnt i artikkel 1 nr. 2 bokstav j), i alle ledd i produksjon, bearbeiding og distribusjon, og med henblikk på å gi garantier om overholdelsen av disse reglene,tilfeller der de vedkommende myndighetene i forbindelse med spesifikke tilfeller av manglende overholdelse skal treffe ett eller flere av tiltakene nevnt i artikkel 138 nr. 1 og 2.
 
-1. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 144 for å utfylle denne forordning ved å fastsette regler for gjennomføringen av offentlig kontroll av visse kategorier av næringsmidler eller fôr for å verifisere overholdelsen av unionsreglene nevnt i artikkel 1 nr. 2 bokstav a)–e), og for tiltak som skal treffes av de vedkommende myndighetene etter slik offentlig kontroll. Disse delegerte rettsaktene skal omfatte nylig påviste risikoer som næringsmidler eller fôr kan utgjøre for menneskers eller dyrs helse eller, når det gjelder genmodifiserte organismer og plantevernmidler, for miljøet, eller slike risikoer som oppstår gjennom nye mønstre for produksjon eller forbruk av næringsmidler eller fôr, og som ikke kan håndteres effektivt i mangel av slike felles regler. Disse delegerte rettsaktene skal fastsette regler forensartede særlige krav til gjennomføringen av offentlig kontroll for å håndtere særlige farer og risikoer forbundet med hver kategori av næringsmidler og fôr og de forskjellige prosessene disse gjennomgår, ogtilfeller der de vedkommende myndighetene i forbindelse med spesifikke tilfeller av manglende overholdelse skal treffe ett eller flere av tiltakene nevnt i artikkel 137 nr. 2 og artikkel 138 nr. 2.
+3\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette regler for ensartede praktiske ordninger for gjennomføringen av den offentlige kontrollen for å verifisere overholdelsen av reglene i artikkel 1 nr. 2 bokstav j) med hensyn til følgende:Særlige praktiske ordninger for å ta i bruk ordningene for administrativ bistand fastsatt i artikkel 102–108, herunder utveksling av opplysninger om tilfeller av manglende overholdelse eller sannsynligheten for manglende overholdelse, mellom vedkommende myndigheter og organer med delegerte oppgaver.Særlige rapporteringsplikter for organer med delegerte oppgaver.Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
 
-2. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette regler for ensartede praktiske ordninger for offentlig kontroll av visse kategorier av næringsmidler eller fôr for å verifisere overholdelsen av reglene nevnt i artikkel 1 nr. 2 bokstav a)–e), for å håndtere nylig påviste risikoer som næringsmidler eller fôr kan utgjøre for menneskers eller dyrs helse eller, når det gjelder genmodifiserte organismer og plantevernmidler, for miljøet, eller slike risikoer som oppstår gjennom nye mønstre for produksjon eller forbruk av næringsmidler eller fôr, og som ikke kan håndteres effektivt i mangel av slike felles regler for samme minstehyppighet for slik offentlig kontroll, der et minstenivå for offentlig kontroll er nødvendig for å håndtere de særlige farene og risikoene forbundet med hver kategori av næringsmidler og fôr og de forskjellige prosessene disse gjennomgår. Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
+4\. I henhold til artikkel 30 skal det være tillatt å delegere visse offentlige kontrolloppgaver nevnt i denne artikkel til én eller flere fysiske personer.
 
-3. Når det foreligger behørig begrunnede tvingende hasteårsaker knyttet til alvorlig risiko for menneskers eller dyrs helse eller for miljøet, skal Kommisjonen vedta gjennomføringsrettsakter med umiddelbar virkning i samsvar med prosedyren nevnt i artikkel 145 nr. 3.
+###### Artikkel 27
+
+Særlige regler for offentlig kontroll og for tiltak som treffes av vedkommende myndigheter i forbindelse med nylig påviste risikoer forbundet med næringsmidler og fôr
+
+1\. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 144 for å utfylle denne forordning ved å fastsette regler for gjennomføringen av offentlig kontroll av visse kategorier av næringsmidler eller fôr for å verifisere overholdelsen av unionsreglene nevnt i artikkel 1 nr. 2 bokstav a)–e), og for tiltak som skal treffes av de vedkommende myndighetene etter slik offentlig kontroll. Disse delegerte rettsaktene skal omfatte nylig påviste risikoer som næringsmidler eller fôr kan utgjøre for menneskers eller dyrs helse eller, når det gjelder genmodifiserte organismer og plantevernmidler, for miljøet, eller slike risikoer som oppstår gjennom nye mønstre for produksjon eller forbruk av næringsmidler eller fôr, og som ikke kan håndteres effektivt i mangel av slike felles regler. Disse delegerte rettsaktene skal fastsette regler forensartede særlige krav til gjennomføringen av offentlig kontroll for å håndtere særlige farer og risikoer forbundet med hver kategori av næringsmidler og fôr og de forskjellige prosessene disse gjennomgår, ogtilfeller der de vedkommende myndighetene i forbindelse med spesifikke tilfeller av manglende overholdelse skal treffe ett eller flere av tiltakene nevnt i artikkel 137 nr. 2 og artikkel 138 nr. 2.
+
+2\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette regler for ensartede praktiske ordninger for offentlig kontroll av visse kategorier av næringsmidler eller fôr for å verifisere overholdelsen av reglene nevnt i artikkel 1 nr. 2 bokstav a)–e), for å håndtere nylig påviste risikoer som næringsmidler eller fôr kan utgjøre for menneskers eller dyrs helse eller, når det gjelder genmodifiserte organismer og plantevernmidler, for miljøet, eller slike risikoer som oppstår gjennom nye mønstre for produksjon eller forbruk av næringsmidler eller fôr, og som ikke kan håndteres effektivt i mangel av slike felles regler for samme minstehyppighet for slik offentlig kontroll, der et minstenivå for offentlig kontroll er nødvendig for å håndtere de særlige farene og risikoene forbundet med hver kategori av næringsmidler og fôr og de forskjellige prosessene disse gjennomgår. Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
+
+3\. Når det foreligger behørig begrunnede tvingende hasteårsaker knyttet til alvorlig risiko for menneskers eller dyrs helse eller for miljøet, skal Kommisjonen vedta gjennomføringsrettsakter med umiddelbar virkning i samsvar med prosedyren nevnt i artikkel 145 nr. 3.
 
 ### KAPITTEL III
 Delegering av visse av vedkommende myndigheters oppgaver
 
-1. Vedkommende myndigheter kan delegere visse offentlige kontrolloppgaver til ett eller flere organer med delegerte oppgaver eller til én eller flere fysiske personer i samsvar med vilkårene fastsatt i henholdsvis artikkel 29 og 30. Den vedkommende myndigheten skal sikre at organet med delegerte oppgaver eller den fysiske personen som har fått delegert slike oppgaver, har den nødvendige myndigheten til å utføre disse oppgavene effektivt.
+###### Artikkel 28
 
-2. Når en vedkommende myndighet eller en medlemsstat beslutter å delegere visse offentlige kontrolloppgaver som gjelder verifisering av overholdelsen av reglene nevnt i artikkel 1 nr. 2 bokstav i), til ett eller flere organer med delegerte oppgaver, skal den tildele hvert organ med delegerte oppgaver et kodenummer og utpeke relevante myndigheter som har ansvar for godkjenningen av og tilsynet med disse organene.
+Vedkommende myndigheters delegering av visse offentlige kontrolloppgaver
+
+1\. Vedkommende myndigheter kan delegere visse offentlige kontrolloppgaver til ett eller flere organer med delegerte oppgaver eller til én eller flere fysiske personer i samsvar med vilkårene fastsatt i henholdsvis artikkel 29 og 30. Den vedkommende myndigheten skal sikre at organet med delegerte oppgaver eller den fysiske personen som har fått delegert slike oppgaver, har den nødvendige myndigheten til å utføre disse oppgavene effektivt.
+
+2\. Når en vedkommende myndighet eller en medlemsstat beslutter å delegere visse offentlige kontrolloppgaver som gjelder verifisering av overholdelsen av reglene nevnt i artikkel 1 nr. 2 bokstav i), til ett eller flere organer med delegerte oppgaver, skal den tildele hvert organ med delegerte oppgaver et kodenummer og utpeke relevante myndigheter som har ansvar for godkjenningen av og tilsynet med disse organene.
+
+###### Artikkel 29
+
+Vilkår for delegering av visse offentlige kontrolloppgaver til organer med delegerte oppgaver
 
 Delegeringen av visse offentlige kontrolloppgaver til et organ med delegerte oppgaver som nevnt i artikkel 28 nr. 1 skal være skriftlig og oppfylle følgende vilkår:Delegeringen inneholder en nøyaktig beskrivelse av de offentlige kontrolloppgavene som organet med delegerte oppgaver kan utføre, og av de vilkårene som gjelder når organet utfører dem.Organet med delegerte oppgaverhar den sakkunnskapen, det utstyret og den infrastrukturen som kreves for å utføre de offentlige kontrolloppgavene som er delegert til det,har et tilstrekkelig antall medarbeidere med egnede kvalifikasjoner og erfaring,er upartisk og har ikke noen interessekonflikter, og befinner seg fremfor alt ikke i en situasjon som direkte eller indirekte kan påvirke organets yrkesmoral med hensyn til å utføre de delegerte offentlige kontrolloppgavene på en upartisk måte,arbeider og er akkreditert i samsvar med standarder som er relevante for de aktuelle delegerte oppgavene, herunder standarden EN ISO/IEC 17020 «Krav til drift av ulike typer inspeksjonsorganer»,har tilstrekkelig myndighet til å utføre de offentlige kontrolloppgavene som er delegert til det.Det er innført ordninger som sikrer en effektiv og hensiktsmessig samordning mellom de delegerende vedkommende myndighetene og organet med delegerte oppgaver.
 
+###### Artikkel 30
+
+Vilkår for delegering av visse offentlige kontrolloppgaver til fysiske personer
+
 De vedkommende myndighetene kan delegere visse offentlige kontrolloppgaver til én eller flere fysiske personer dersom reglene fastsatt i artikkel 18–27 tillater det. En slik delegering skal være skriftlig og oppfylle følgende vilkår:Delegeringen inneholder en nøyaktig beskrivelse av de offentlige kontrolloppgavene som de fysiske personene kan utføre, og av de vilkårene som gjelder når de fysiske personene utfører dem.De fysiske personenehar den sakkunnskapen, det utstyret og den infrastrukturen som kreves for å utføre de offentlige kontrolloppgavene som er delegert til dem,har egnede kvalifikasjoner og erfaring,opptrer upartisk og har ikke noen interessekonflikter når det gjelder utførelsen av de offentlige kontrolloppgavene som er delegert til dem.Det er innført ordninger som sikrer en effektiv og hensiktsmessig samordning mellom de delegerende vedkommende myndighetene og de fysiske personene.
 
-1. De vedkommende myndighetene kan delegere visse oppgaver knyttet til annen offentlig virksomhet til ett eller flere organer med delegerte oppgaver, forutsatt at følgende vilkår er oppfylt:Reglene nevnt i artikkel 1 nr. 2 forbyr ikke slik delegering.Vilkårene fastsatt i artikkel 29 er oppfylt, med unntak av dem som er fastsatt i bokstav b) iv).
+###### Artikkel 31
 
-2. De vedkommende myndighetene kan delegere visse oppgaver knyttet til annen offentlig virksomhet til én eller flere fysiske personer, forutsatt at følgende vilkår er oppfylt:Reglene nevnt i artikkel 1 nr. 2 tillater slik delegering.Vilkårene fastsatt i artikkel 30, som får tilsvarende anvendelse, er oppfylt.
+Vilkår for delegering av visse oppgaver knyttet til annen offentlig virksomhet
 
-3. De vedkommende myndighetene skal ikke delegere beslutningen om oppgavene fastsatt i artikkel 138 nr. 1 bokstav b) og artikkel 138 nr. 2 og 3, til et organ med delegerte oppgaver eller til en fysisk person.
+1\. De vedkommende myndighetene kan delegere visse oppgaver knyttet til annen offentlig virksomhet til ett eller flere organer med delegerte oppgaver, forutsatt at følgende vilkår er oppfylt:Reglene nevnt i artikkel 1 nr. 2 forbyr ikke slik delegering.Vilkårene fastsatt i artikkel 29 er oppfylt, med unntak av dem som er fastsatt i bokstav b) iv).
+
+2\. De vedkommende myndighetene kan delegere visse oppgaver knyttet til annen offentlig virksomhet til én eller flere fysiske personer, forutsatt at følgende vilkår er oppfylt:Reglene nevnt i artikkel 1 nr. 2 tillater slik delegering.Vilkårene fastsatt i artikkel 30, som får tilsvarende anvendelse, er oppfylt.
+
+3\. De vedkommende myndighetene skal ikke delegere beslutningen om oppgavene fastsatt i artikkel 138 nr. 1 bokstav b) og artikkel 138 nr. 2 og 3, til et organ med delegerte oppgaver eller til en fysisk person.
+
+###### Artikkel 32
+
+Forpliktelser for organer med delegerte oppgaver og for fysiske personer
 
 Organer med delegerte oppgaver eller fysiske personer som har fått delegert visse offentlige kontrolloppgaver i samsvar med artikkel 28 nr. 1), eller som har fått delegert visse oppgaver knyttet til annen offentlig virksomhet i samsvar med artikkel 31, skalmed jevne mellomrom og når de vedkommende myndighetene ber om det, underrette de delegerende vedkommende myndighetene om resultatet av den offentlige kontrollen og annen offentlig virksomhet som de gjennomfører,umiddelbart underrette de delegerende vedkommende myndighetene når resultatet av den offentlige kontrollen viser manglende overholdelse eller gir anledning til å tro at manglende overholdelse forekommer, med mindre særlige ordninger mellom den vedkommende myndigheten og organet med delegerte oppgaver eller den berørte fysiske personen fastsetter noe annet, oggi de vedkommende myndighetene adgang til lokalene og anleggene sine samt samarbeide med og bistå dem.
+
+###### Artikkel 33
+
+Forpliktelser for delegerende vedkommende myndigheter
 
 Vedkommende myndigheter som har delegert visse offentlige kontrolloppgaver til organer med delegerte oppgaver eller til fysiske personer i samsvar med artikkel 28 nr. 1), eller visse oppgaver knyttet til annen offentlig virksomhet til organer med delegerte oppgaver eller til fysiske personer i samsvar med artikkel 31, skalorganisere revisjoner eller inspeksjoner av slike organer eller personer etter behov og uten overlapping, samtidig som det tas hensyn til eventuell akkreditering nevnt i artikkel 29 bokstav b) iv),umiddelbart tilbakekalle delegeringen helt eller delvis dersomdet er dokumentert at et slikt organ med delegerte oppgaver eller en slik fysisk person ikke utfører de oppgavene som er delegert til dem, på en skikkelig måte,organet med delegerte oppgaver eller den fysiske personen unnlater å treffe hensiktsmessige tiltak til rett tid for å utbedre påviste mangler, elleruavhengigheten eller upartiskheten til organet med delegerte oppgaver eller til den fysiske personen har vist seg å være utilbørlig påvirket.Denne bokstav skal ikke hindre de vedkommende myndighetene i å tilbakekalle delegeringen av andre årsaker enn dem nevnt i denne forordning.
 
 ### KAPITTEL IV
 Prøvetaking, analyser, undersøkelser og diagnostisering
 
-1. De metodene som brukes ved prøvetaking og laboratorieanalyser, -undersøkelser og -diagnostisering i forbindelse med offentlig kontroll og annen offentlig virksomhet, skal overholde unionsreglene som fastsetter disse metodene, eller ytelseskriteriene for disse metodene.
+###### Artikkel 34
 
-2. Når det ikke finnes slike unionsregler som nevnt i nr. 1, skal offentlige laboratorier i forbindelse med offentlig kontroll og annen offentlig virksomhet bruke én av følgende metoder, avhengig av hva som er mest egnet for deres spesifikke behov med hensyn til analyser, undersøkelser og diagnostisering:Tilgjengelige metoder som overholder relevante internasjonalt anerkjente regler eller protokoller, herunder de som Den europeiske standardiseringsorganisasjon (CEN) har godkjent, ellerrelevante metoder som er utviklet eller anbefalt av EU-referanselaboratoriene, og validert i henhold til internasjonalt anerkjente vitenskapelige protokoller.Når det ikke finnes egnede regler eller protokoller som nevnt i bokstav a), metoder som overholder relevante regler fastsatt på nasjonalt plan eller, dersom det ikke finnes slike regler, relevante metoder som er utviklet eller anbefalt av nasjonale referanselaboratorier, og validert i henhold til internasjonalt anerkjente vitenskapelige protokoller, ellerrelevante metoder som er utviklet og validert ved flere laboratorier eller internt vet ett laboratorium, i henhold til internasjonalt anerkjente vitenskapelige protokoller.
+Metoder for prøvetaking, analyser, undersøkelser og diagnostisering
 
-3. Dersom det er et presserende behov for laboratorieanalyser, laboratorieundersøkelser eller laboratoriediagnostikk, og ingen av metodene nevnt i nr. 1 og 2 i denne artikkel foreligger, kan det relevante nasjonale referanselaboratoriet eller, dersom ingen slike nasjonale referanselaboratorier finnes, andre laboratorier som er utpekt i samsvar med artikkel 37 nr. 1, bruke andre metoder enn dem som er nevnt i nr. 1 og 2 i denne artikkel, fram til en egnet metode blir validert i henhold til internasjonalt anerkjente vitenskapelige protokoller.
+1\. De metodene som brukes ved prøvetaking og laboratorieanalyser, -undersøkelser og -diagnostisering i forbindelse med offentlig kontroll og annen offentlig virksomhet, skal overholde unionsreglene som fastsetter disse metodene, eller ytelseskriteriene for disse metodene.
 
-4. Metodene som brukes til laboratorieanalyser, skal i den grad det er mulig kjennetegnes av de relevante kriteriene oppført i vedlegg III.
+2\. Når det ikke finnes slike unionsregler som nevnt i nr. 1, skal offentlige laboratorier i forbindelse med offentlig kontroll og annen offentlig virksomhet bruke én av følgende metoder, avhengig av hva som er mest egnet for deres spesifikke behov med hensyn til analyser, undersøkelser og diagnostisering:Tilgjengelige metoder som overholder relevante internasjonalt anerkjente regler eller protokoller, herunder de som Den europeiske standardiseringsorganisasjon (CEN) har godkjent, ellerrelevante metoder som er utviklet eller anbefalt av EU-referanselaboratoriene, og validert i henhold til internasjonalt anerkjente vitenskapelige protokoller.Når det ikke finnes egnede regler eller protokoller som nevnt i bokstav a), metoder som overholder relevante regler fastsatt på nasjonalt plan eller, dersom det ikke finnes slike regler, relevante metoder som er utviklet eller anbefalt av nasjonale referanselaboratorier, og validert i henhold til internasjonalt anerkjente vitenskapelige protokoller, ellerrelevante metoder som er utviklet og validert ved flere laboratorier eller internt vet ett laboratorium, i henhold til internasjonalt anerkjente vitenskapelige protokoller.
 
-5. Prøver skal tas, håndteres og merkes på en slik måte at den rettslige, vitenskapelige og analytiske gyldigheten deres sikres.
+3\. Dersom det er et presserende behov for laboratorieanalyser, laboratorieundersøkelser eller laboratoriediagnostikk, og ingen av metodene nevnt i nr. 1 og 2 i denne artikkel foreligger, kan det relevante nasjonale referanselaboratoriet eller, dersom ingen slike nasjonale referanselaboratorier finnes, andre laboratorier som er utpekt i samsvar med artikkel 37 nr. 1, bruke andre metoder enn dem som er nevnt i nr. 1 og 2 i denne artikkel, fram til en egnet metode blir validert i henhold til internasjonalt anerkjente vitenskapelige protokoller.
 
-6. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette regler for:Metodene som brukes ved prøvetaking og ved laboratorieanalyser, -undersøkelser og -diagnostikk.Ytelseskriterier, analyse-, undersøkelses- eller diagnoseparametrer, måleusikkerhet og framgangsmåter for validering av disse metodene.Tolkingen av analyse-, undersøkelses- og diagnostikkresultater.Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
+4\. Metodene som brukes til laboratorieanalyser, skal i den grad det er mulig kjennetegnes av de relevante kriteriene oppført i vedlegg III.
 
-1. De vedkommende myndighetene skal sikre at driftsansvarlige hvis dyr eller varer blir gjenstand for prøvetaking, analyse, undersøkelse eller diagnostisering i forbindelse med offentlig kontroll, har rett til en uttalelse fra en annen sakkyndig for den driftsansvarliges regning.Retten til uttalelse fra en annen sakkyndig skal gi den driftsansvarlige rett til å be om at dokumentasjonen fra prøvetakingen, analysen, undersøkelsen eller diagnostiseringen gjennomgås av en annen anerkjent sakkyndig med egnede kvalifikasjoner.
+5\. Prøver skal tas, håndteres og merkes på en slik måte at den rettslige, vitenskapelige og analytiske gyldigheten deres sikres.
 
-2. Dersom det er relevant, hensiktsmessig og teknisk mulig, samtidig som det særlig tas hensyn til utbredelsen og forekomsten av faren hos dyr eller i varer, til prøvenes eller varenes bedervelighet og til mengden av tilgjengelig substrat, skal de vedkommende myndighetenenår prøven tas, og dersom den driftsansvarlige ber om det, sikre at det tas en mengde som er tilstrekkelig til at en annen sakkyndig kan gi en uttalelse, og til at gjennomgåelsen nevnt i nr. 3 kan gjennomføres, dersom dette skulle være nødvendig, ellerdersom det ikke er mulig å ta en tilstrekkelig mengde som nevnt i bokstav a), informere den driftsansvarlige om dette.Dette nummer gjelder ikke ved vurdering av forekomsten av karanteneskadegjørere i planter, planteprodukter eller andre gjenstander for å verifisere overholdelsen av reglene nevnt i artikkel 2 nr. 1 bokstav g).
+6\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette regler for:Metodene som brukes ved prøvetaking og ved laboratorieanalyser, -undersøkelser og -diagnostikk.Ytelseskriterier, analyse-, undersøkelses- eller diagnoseparametrer, måleusikkerhet og framgangsmåter for validering av disse metodene.Tolkingen av analyse-, undersøkelses- og diagnostikkresultater.Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
 
-3. Medlemsstatene kan beslutte at dersom det foreligger en tvist mellom vedkommende myndigheter og driftsansvarlige som skyldes uttalelsen fra en annen sakkyndig som nevnt i nr. 1, kan driftsansvarlige for egen regning be om en gjennomgåelse av dokumentasjonen fra den opprinnelige analysen, undersøkelsen eller diagnostiseringen og, dersom det er relevant, en ny analyse, undersøkelse eller diagnostisering utført av et annet offentlig laboratorium.
+###### Artikkel 35
 
-4. En søknad fra den driftsansvarlige om uttalelse fra en annen sakkyndig i henhold til nr. 1 i denne artikkel skal ikke berøre de vedkommende myndighetenes forpliktelse til straks å gripe inn for å fjerne eller begrense risikoene for menneskers eller dyrs helse, for plantehelsen eller dyrevelferden eller, når det gjelder genmodifiserte organismer og plantevernmidler, for miljøet, i samsvar med denne forordning og reglene nevnt i artikkel 1 nr. 2.
+Uttalelse fra en annen sakkyndig
 
-1. Når det gjelder dyr og varer som tilbys for salg ved hjelp av fjernkommunikasjonsmidler, kan prøver som de vedkommende myndighetene har bestilt fra driftsansvarlige uten å identifisere seg, brukes i en offentlig kontroll.
+1\. De vedkommende myndighetene skal sikre at driftsansvarlige hvis dyr eller varer blir gjenstand for prøvetaking, analyse, undersøkelse eller diagnostisering i forbindelse med offentlig kontroll, har rett til en uttalelse fra en annen sakkyndig for den driftsansvarliges regning.Retten til uttalelse fra en annen sakkyndig skal gi den driftsansvarlige rett til å be om at dokumentasjonen fra prøvetakingen, analysen, undersøkelsen eller diagnostiseringen gjennomgås av en annen anerkjent sakkyndig med egnede kvalifikasjoner.
 
-2. Når de vedkommende myndighetene er i besittelse av prøvene, skal de treffe alle tiltak for å sikre at de driftsansvarlige som de har bestilt prøvene fra i samsvar med nr. 1,er blitt informert om at det er tatt slike prøver i forbindelse med en offentlig kontroll og, dersom det er relevant, at prøvene analyseres eller undersøkes med henblikk på slik offentlig kontroll, oghar mulighet til å utøve retten til uttalelse fra en annen sakkyndig som fastsatt i artikkel 35 nr. 1, dersom prøvene omhandlet i nevnte punkt blir analysert eller undersøkt.
+2\. Dersom det er relevant, hensiktsmessig og teknisk mulig, samtidig som det særlig tas hensyn til utbredelsen og forekomsten av faren hos dyr eller i varer, til prøvenes eller varenes bedervelighet og til mengden av tilgjengelig substrat, skal de vedkommende myndighetenenår prøven tas, og dersom den driftsansvarlige ber om det, sikre at det tas en mengde som er tilstrekkelig til at en annen sakkyndig kan gi en uttalelse, og til at gjennomgåelsen nevnt i nr. 3 kan gjennomføres, dersom dette skulle være nødvendig, ellerdersom det ikke er mulig å ta en tilstrekkelig mengde som nevnt i bokstav a), informere den driftsansvarlige om dette.Dette nummer gjelder ikke ved vurdering av forekomsten av karanteneskadegjørere i planter, planteprodukter eller andre gjenstander for å verifisere overholdelsen av reglene nevnt i artikkel 2 nr. 1 bokstav g).
 
-3. Nr. 1 og 2 gjelder for organer med delegerte oppgaver og for fysiske personer som har fått delegert visse offentlige kontrolloppgaver.
+3\. Medlemsstatene kan beslutte at dersom det foreligger en tvist mellom vedkommende myndigheter og driftsansvarlige som skyldes uttalelsen fra en annen sakkyndig som nevnt i nr. 1, kan driftsansvarlige for egen regning be om en gjennomgåelse av dokumentasjonen fra den opprinnelige analysen, undersøkelsen eller diagnostiseringen og, dersom det er relevant, en ny analyse, undersøkelse eller diagnostisering utført av et annet offentlig laboratorium.
 
-1. De vedkommende myndighetene skal utpeke offentlige laboratorier til å utføre laboratorieanalyser, -undersøkelser og -diagnostisering i forbindelse med prøver som er tatt ved offentlig kontroll og annen offentlig virksomhet, i den medlemsstaten på hvis territorium disse vedkommende myndighetene er virksomme, eller i en annen medlemsstat eller i en tredjestat som er part i avtalen om Det europeiske økonomiske samarbeidsområde.
+4\. En søknad fra den driftsansvarlige om uttalelse fra en annen sakkyndig i henhold til nr. 1 i denne artikkel skal ikke berøre de vedkommende myndighetenes forpliktelse til straks å gripe inn for å fjerne eller begrense risikoene for menneskers eller dyrs helse, for plantehelsen eller dyrevelferden eller, når det gjelder genmodifiserte organismer og plantevernmidler, for miljøet, i samsvar med denne forordning og reglene nevnt i artikkel 1 nr. 2.
 
-2. De vedkommende myndighetene kan utpeke et laboratorium som befinner seg i en annen medlemsstat eller i en tredjestat som er part i avtalen om Det europeiske økonomiske samarbeidsområde, som et offentlig laboratorium, forutsatt at følgende vilkår er oppfylt:Det er innført egnede ordninger slik at de vedkommende myndighetene kan gjennomføre revisjonene og inspeksjonene nevnt i artikkel 39 nr. 1, eller delegere gjennomføringen av slike revisjoner og inspeksjoner til de vedkommende myndighetene i medlemsstaten eller i tredjestaten som er part i avtalen om Det europeiske økonomiske samarbeidsområde der laboratoriet ligger.Laboratoriet er allerede utpekt som et offentlig laboratorium av vedkommende myndigheter i den medlemsstaten på hvis territorium det befinner seg.
+###### Artikkel 36
 
-3. Utpekingen av et offentlig laboratorium skal være skriftlig og inneholde en detaljert beskrivelse av følgende:Oppgavene som laboratoriet utfører som offentlig laboratorium.Vilkårene for hvordan det utfører oppgavene nevnt i bokstav a).Ordningene som er nødvendige for å sikre effektiv og hensiktsmessig samordning og samarbeid mellom laboratoriet og de vedkommende myndighetene.
+Prøvetaking av dyr og varer som tilbys for salg ved hjelp av fjernkommunikasjonsmidler
 
-4. De vedkommende myndighetene kan utpeke til offentlig laboratorium bare et laboratorium somhar den sakkunnskapen, det utstyret og den infrastrukturen som kreves for å analysere, undersøke eller stille diagnoser i forbindelse med prøver,har et tilstrekkelig antall medarbeidere med nødvendige kvalifikasjoner, opplæring og erfaring,sikrer at oppgavene det har fått tildelt i henhold til nr. 1, utføres upartisk og uten interessekonflikter når det gjelder utøvelsen av laboratoriets oppgaver som offentlig laboratorium,i rett tid kan levere resultatene av analysen, undersøkelsen eller diagnostiseringen som er utført med hensyn til prøver tatt ved offentlig kontroll og annen offentlig virksomhet, ogarbeider i samsvar med standarden EN ISO/IEC 17025 og er akkreditert i samsvar med nevnte standard av et nasjonalt akkrediteringsorgan som utøver sin virksomhet i henhold til forordning [(EF) nr. 765/2008](eu/32008r0765).
+1\. Når det gjelder dyr og varer som tilbys for salg ved hjelp av fjernkommunikasjonsmidler, kan prøver som de vedkommende myndighetene har bestilt fra driftsansvarlige uten å identifisere seg, brukes i en offentlig kontroll.
 
-5. Akkrediteringsområdet for et offentlig laboratorium som nevnt i nr. 4 bokstav e)skal omfatte de metodene for laboratorieanalyse, -undersøkelse og -diagnostisering som laboratoriet skal bruke i forbindelse med analyser, undersøkelser eller diagnostisering, når det fungerer som et offentlig laboratorium,kan omfatte én eller flere metoder for laboratorieanalyse, -undersøkelse eller -diagnostisering eller grupper av metoder,kan defineres på en fleksibel måte, slik at akkrediteringsområdet kan omfatte endrede versjoner av metodene som det offentlig laboratoriet brukte da akkrediteringen ble gitt, eller nye metoder i tillegg til disse metodene, på grunnlag av laboratoriets egne valideringer og uten at det er behov for en særlig vurdering fra det nasjonale akkrediteringsorganet før de endrede eller nye metodene tas i bruk.
+2\. Når de vedkommende myndighetene er i besittelse av prøvene, skal de treffe alle tiltak for å sikre at de driftsansvarlige som de har bestilt prøvene fra i samsvar med nr. 1,er blitt informert om at det er tatt slike prøver i forbindelse med en offentlig kontroll og, dersom det er relevant, at prøvene analyseres eller undersøkes med henblikk på slik offentlig kontroll, oghar mulighet til å utøve retten til uttalelse fra en annen sakkyndig som fastsatt i artikkel 35 nr. 1, dersom prøvene omhandlet i nevnte punkt blir analysert eller undersøkt.
 
-6. Dersom ingen offentlige laboratorier som er utpekt i Unionen eller i en tredjestat som er part i avtalen om Det europeiske økonomiske samarbeidsområde i samsvar med nr. 1, har tilstrekkelig sakkunnskap, utstyr, infrastruktur og personale til å utføre nye eller spesielt uvanlige laboratorieanalyser, -undersøkelser eller -diagnostiseringer, kan de vedkommende myndighetene anmode et laboratorium eller et diagnosesenter som ikke oppfyller ett eller flere av kravene fastsatt i nr. 3 og 4, om å utføre disse analysene, undersøkelsene og diagnostiseringene.
+3\. Nr. 1 og 2 gjelder for organer med delegerte oppgaver og for fysiske personer som har fått delegert visse offentlige kontrolloppgaver.
 
-1. Dersom resultatene av en analyse, undersøkelse eller diagnostisering i forbindelse med prøver tatt ved offentlig kontroll eller annen offentlig virksomhet, viser en risiko for menneskers eller dyrs helse, for plantehelsen eller, når det gjelder genmodifiserte organismer og plantevernmidler, for miljøet, eller gir anledning til å tro at manglende overholdelse forekommer, skal de offentlige laboratoriene umiddelbart informere de vedkommende myndighetene som utpekte dem til denne analysen, undersøkelsen eller diagnostiseringen, og, dersom det er relevant, organene med delegerte oppgaver eller de fysiske personene som har fått delegert oppgaver. I særordninger mellom vedkommende myndigheter, organer med delegerte oppgaver eller fysiske personer som har fått delegert oppgaver, og de offentlige laboratoriene kan det imidlertid fastsettes at disse opplysningene ikke trenger å framlegges umiddelbart.
+###### Artikkel 37
 
-2. På anmodning fra EU-referanselaboratoriet eller det nasjonale referanselaboratoriet skal offentlige laboratorier delta i sammenlignende undersøkelser eller sammenlignende laboratorieprøving foretatt ved flere laboratorier i forbindelse med de analysene, undersøkelsene eller diagnostiseringene de gjennomfører som offentlig laboratorium.
+Utpeking av offentlige laboratorier
 
-3. Offentlige laboratorier skal på anmodning fra de vedkommende myndighetene gjøre tilgjengelig for offentligheten navnene på de metodene som brukes i analyser, undersøkelser eller diagnostiseringer som gjennomføres innenfor rammen av offentlig kontroll og annen offentlig virksomhet.
+1\. De vedkommende myndighetene skal utpeke offentlige laboratorier til å utføre laboratorieanalyser, -undersøkelser og -diagnostisering i forbindelse med prøver som er tatt ved offentlig kontroll og annen offentlig virksomhet, i den medlemsstaten på hvis territorium disse vedkommende myndighetene er virksomme, eller i en annen medlemsstat eller i en tredjestat som er part i avtalen om Det europeiske økonomiske samarbeidsområde.
 
-4. Offentlige laboratorier skal på anmodning fra de vedkommende myndighetene sammen med resultatene angi hvilken metode som er brukt for hver enkelt analyse, undersøkelse eller diagnostisering som er gjennomført innenfor rammen av offentlig kontroll og annen offentlig virksomhet.
+2\. De vedkommende myndighetene kan utpeke et laboratorium som befinner seg i en annen medlemsstat eller i en tredjestat som er part i avtalen om Det europeiske økonomiske samarbeidsområde, som et offentlig laboratorium, forutsatt at følgende vilkår er oppfylt:Det er innført egnede ordninger slik at de vedkommende myndighetene kan gjennomføre revisjonene og inspeksjonene nevnt i artikkel 39 nr. 1, eller delegere gjennomføringen av slike revisjoner og inspeksjoner til de vedkommende myndighetene i medlemsstaten eller i tredjestaten som er part i avtalen om Det europeiske økonomiske samarbeidsområde der laboratoriet ligger.Laboratoriet er allerede utpekt som et offentlig laboratorium av vedkommende myndigheter i den medlemsstaten på hvis territorium det befinner seg.
 
-1. De vedkommende myndighetene skal regelmessig og hver gang de mener at revisjon er påkrevd, organisere en revisjon av de offentlige laboratoriene som de har utpekt i samsvar med artikkel 37 nr. 1, med mindre de anser slik revisjon som overflødig med hensyn til akkrediteringsvurderingen nevnt i artikkel 37 nr. 4 bokstav e).
+3\. Utpekingen av et offentlig laboratorium skal være skriftlig og inneholde en detaljert beskrivelse av følgende:Oppgavene som laboratoriet utfører som offentlig laboratorium.Vilkårene for hvordan det utfører oppgavene nevnt i bokstav a).Ordningene som er nødvendige for å sikre effektiv og hensiktsmessig samordning og samarbeid mellom laboratoriet og de vedkommende myndighetene.
 
-2. De vedkommende myndighetene skal umiddelbart tilbakekalle utpekingen av et offentlig laboratorium, enten fullstendig eller for bestemte oppgaver, dersom laboratoriet unnlater å treffe egnede korrigerende tiltak i rett tid når resultatene av en revisjon i henhold til nr. 1, avdekker noe av følgende:Laboratoriet oppfyller ikke lenger vilkårene fastsatt i artikkel 37 nr. 4 og 5.Det oppfyller ikke forpliktelsene fastsatt i artikkel 38.Det oppnår dårlige resultater ved de sammenlignende undersøkelsene ved flere laboratorier som er nevnt i artikkel 38 nr. 2.
+4\. De vedkommende myndighetene kan utpeke til offentlig laboratorium bare et laboratorium somhar den sakkunnskapen, det utstyret og den infrastrukturen som kreves for å analysere, undersøke eller stille diagnoser i forbindelse med prøver,har et tilstrekkelig antall medarbeidere med nødvendige kvalifikasjoner, opplæring og erfaring,sikrer at oppgavene det har fått tildelt i henhold til nr. 1, utføres upartisk og uten interessekonflikter når det gjelder utøvelsen av laboratoriets oppgaver som offentlig laboratorium,i rett tid kan levere resultatene av analysen, undersøkelsen eller diagnostiseringen som er utført med hensyn til prøver tatt ved offentlig kontroll og annen offentlig virksomhet, ogarbeider i samsvar med standarden EN ISO/IEC 17025 og er akkreditert i samsvar med nevnte standard av et nasjonalt akkrediteringsorgan som utøver sin virksomhet i henhold til forordning [(EF) nr. 765/2008](eu/32008r0765).
 
-1. Som unntak fra artikkel 37 nr. 4 bokstav e) kan de vedkommende myndighetene utpeke følgende som offentlige laboratorier, uansett om de oppfyller vilkåret fastsatt i nevnte bokstav eller ikke:Laboratorierhvis eneste virksomhet er å påvise trikiner i kjøtt,som bare bruker metodene for påvisning av trikiner nevnt i artikkel 6 i Kommisjonens gjennomføringsforordning [(EU) 2015/1375](eu/32015r1375)58,som utfører påvisning av trikiner under tilsyn av de vedkommende myndighetene eller av et offentlig laboratorium utpekt i samsvar med artikkel 37 nr. 1 og akkreditert i samsvar med standarden EN ISO/IEC 17025 for bruk av metodene nevnt i nr. ii) i denne bokstav, ogsom deltar regelmessig og har tilfredsstillende resultater ved de sammenlignende undersøkelsene eller sammenlignende laboratorieprøvingene foretatt ved flere laboratorier som organiseres av de nasjonale referanselaboratoriene for de metodene de bruker til å påvise trikiner.Laboratorier som bare utfører analyser, undersøkelser eller diagnostiseringer innenfor rammen av annen offentlig virksomhet, forutsatt at debare bruker metodene for laboratorieanalyse, -undersøkelse og -diagnostisering nevnt i artikkel 34 nr. 1 og i artikkel 34 nr. 2 bokstav a) eller b),utfører analysene, undersøkelsene eller diagnostiseringene under tilsyn av de vedkommende myndighetene eller av de nasjonale referanselaboratoriene i forbindelse med metodene de bruker,deltar regelmessig og har tilfredsstillende resultater ved de sammenlignende undersøkelsene eller sammenlignende laboratorieprøvingene foretatt ved flere laboratorier som organiseres av de nasjonale referanselaboratoriene i forbindelse med metodene de bruker, oghar et kvalitetssikringssystem som sikrer holdbare og pålitelige resultater fra metodene som brukes til laboratorieanalyser, -undersøkelser og diagnostisering.
+5\. Akkrediteringsområdet for et offentlig laboratorium som nevnt i nr. 4 bokstav e)skal omfatte de metodene for laboratorieanalyse, -undersøkelse og -diagnostisering som laboratoriet skal bruke i forbindelse med analyser, undersøkelser eller diagnostisering, når det fungerer som et offentlig laboratorium,kan omfatte én eller flere metoder for laboratorieanalyse, -undersøkelse eller -diagnostisering eller grupper av metoder,kan defineres på en fleksibel måte, slik at akkrediteringsområdet kan omfatte endrede versjoner av metodene som det offentlig laboratoriet brukte da akkrediteringen ble gitt, eller nye metoder i tillegg til disse metodene, på grunnlag av laboratoriets egne valideringer og uten at det er behov for en særlig vurdering fra det nasjonale akkrediteringsorganet før de endrede eller nye metodene tas i bruk.
 
-2. Dersom metodene som brukes av laboratoriene nevnt i nr. 1 bokstav b) i denne artikkel, krever at resultatet av laboratorieanalysen, -undersøkelsen eller -diagnostiseringen bekreftes, skal den bekreftende analysen, undersøkelsen eller diagnostiseringen utføres av et offentlig laboratorium som oppfyller kravene fastsatt i artikkel 37 nr. 4 bokstav e).
+6\. Dersom ingen offentlige laboratorier som er utpekt i Unionen eller i en tredjestat som er part i avtalen om Det europeiske økonomiske samarbeidsområde i samsvar med nr. 1, har tilstrekkelig sakkunnskap, utstyr, infrastruktur og personale til å utføre nye eller spesielt uvanlige laboratorieanalyser, -undersøkelser eller -diagnostiseringer, kan de vedkommende myndighetene anmode et laboratorium eller et diagnosesenter som ikke oppfyller ett eller flere av kravene fastsatt i nr. 3 og 4, om å utføre disse analysene, undersøkelsene og diagnostiseringene.
 
-3. De offentlige laboratoriene som er utpekt i samsvar med nr. 1, skal ligge i de medlemsstatene på hvis territorium de vedkommende myndighetene som utpekte dem, befinner seg.
+###### Artikkel 38
+
+Forpliktelser for offentlige laboratorier
+
+1\. Dersom resultatene av en analyse, undersøkelse eller diagnostisering i forbindelse med prøver tatt ved offentlig kontroll eller annen offentlig virksomhet, viser en risiko for menneskers eller dyrs helse, for plantehelsen eller, når det gjelder genmodifiserte organismer og plantevernmidler, for miljøet, eller gir anledning til å tro at manglende overholdelse forekommer, skal de offentlige laboratoriene umiddelbart informere de vedkommende myndighetene som utpekte dem til denne analysen, undersøkelsen eller diagnostiseringen, og, dersom det er relevant, organene med delegerte oppgaver eller de fysiske personene som har fått delegert oppgaver. I særordninger mellom vedkommende myndigheter, organer med delegerte oppgaver eller fysiske personer som har fått delegert oppgaver, og de offentlige laboratoriene kan det imidlertid fastsettes at disse opplysningene ikke trenger å framlegges umiddelbart.
+
+2\. På anmodning fra EU-referanselaboratoriet eller det nasjonale referanselaboratoriet skal offentlige laboratorier delta i sammenlignende undersøkelser eller sammenlignende laboratorieprøving foretatt ved flere laboratorier i forbindelse med de analysene, undersøkelsene eller diagnostiseringene de gjennomfører som offentlig laboratorium.
+
+3\. Offentlige laboratorier skal på anmodning fra de vedkommende myndighetene gjøre tilgjengelig for offentligheten navnene på de metodene som brukes i analyser, undersøkelser eller diagnostiseringer som gjennomføres innenfor rammen av offentlig kontroll og annen offentlig virksomhet.
+
+4\. Offentlige laboratorier skal på anmodning fra de vedkommende myndighetene sammen med resultatene angi hvilken metode som er brukt for hver enkelt analyse, undersøkelse eller diagnostisering som er gjennomført innenfor rammen av offentlig kontroll og annen offentlig virksomhet.
+
+###### Artikkel 39
+
+Revisjon av offentlige laboratorier
+
+1\. De vedkommende myndighetene skal regelmessig og hver gang de mener at revisjon er påkrevd, organisere en revisjon av de offentlige laboratoriene som de har utpekt i samsvar med artikkel 37 nr. 1, med mindre de anser slik revisjon som overflødig med hensyn til akkrediteringsvurderingen nevnt i artikkel 37 nr. 4 bokstav e).
+
+2\. De vedkommende myndighetene skal umiddelbart tilbakekalle utpekingen av et offentlig laboratorium, enten fullstendig eller for bestemte oppgaver, dersom laboratoriet unnlater å treffe egnede korrigerende tiltak i rett tid når resultatene av en revisjon i henhold til nr. 1, avdekker noe av følgende:Laboratoriet oppfyller ikke lenger vilkårene fastsatt i artikkel 37 nr. 4 og 5.Det oppfyller ikke forpliktelsene fastsatt i artikkel 38.Det oppnår dårlige resultater ved de sammenlignende undersøkelsene ved flere laboratorier som er nevnt i artikkel 38 nr. 2.
+
+###### Artikkel 40
+
+Unntak fra vilkåret om obligatorisk akkreditering for visse offentlige laboratorier
+
+1\. Som unntak fra artikkel 37 nr. 4 bokstav e) kan de vedkommende myndighetene utpeke følgende som offentlige laboratorier, uansett om de oppfyller vilkåret fastsatt i nevnte bokstav eller ikke:Laboratorierhvis eneste virksomhet er å påvise trikiner i kjøtt,som bare bruker metodene for påvisning av trikiner nevnt i artikkel 6 i Kommisjonens gjennomføringsforordning [(EU) 2015/1375](eu/32015r1375)58,som utfører påvisning av trikiner under tilsyn av de vedkommende myndighetene eller av et offentlig laboratorium utpekt i samsvar med artikkel 37 nr. 1 og akkreditert i samsvar med standarden EN ISO/IEC 17025 for bruk av metodene nevnt i nr. ii) i denne bokstav, ogsom deltar regelmessig og har tilfredsstillende resultater ved de sammenlignende undersøkelsene eller sammenlignende laboratorieprøvingene foretatt ved flere laboratorier som organiseres av de nasjonale referanselaboratoriene for de metodene de bruker til å påvise trikiner.Laboratorier som bare utfører analyser, undersøkelser eller diagnostiseringer innenfor rammen av annen offentlig virksomhet, forutsatt at debare bruker metodene for laboratorieanalyse, -undersøkelse og -diagnostisering nevnt i artikkel 34 nr. 1 og i artikkel 34 nr. 2 bokstav a) eller b),utfører analysene, undersøkelsene eller diagnostiseringene under tilsyn av de vedkommende myndighetene eller av de nasjonale referanselaboratoriene i forbindelse med metodene de bruker,deltar regelmessig og har tilfredsstillende resultater ved de sammenlignende undersøkelsene eller sammenlignende laboratorieprøvingene foretatt ved flere laboratorier som organiseres av de nasjonale referanselaboratoriene i forbindelse med metodene de bruker, oghar et kvalitetssikringssystem som sikrer holdbare og pålitelige resultater fra metodene som brukes til laboratorieanalyser, -undersøkelser og diagnostisering.
+
+2\. Dersom metodene som brukes av laboratoriene nevnt i nr. 1 bokstav b) i denne artikkel, krever at resultatet av laboratorieanalysen, -undersøkelsen eller -diagnostiseringen bekreftes, skal den bekreftende analysen, undersøkelsen eller diagnostiseringen utføres av et offentlig laboratorium som oppfyller kravene fastsatt i artikkel 37 nr. 4 bokstav e).
+
+3\. De offentlige laboratoriene som er utpekt i samsvar med nr. 1, skal ligge i de medlemsstatene på hvis territorium de vedkommende myndighetene som utpekte dem, befinner seg.
+
+58 Kommisjonens gjennomføringsforordning [(EU) nr. 2015/1375](eu/32015r1375) av 10. august 2015 om fastsettelse av særlige regler for offentlig kontroll av trikiner i kjøtt (EUT L 212 av 11.8.2015, s. 7).
+
+###### Artikkel 41
+
+Myndighet til å vedta unntak fra vilkåret om obligatorisk akkreditering av alle metoder for laboratorieanalyse, -undersøkelse og -diagnostisering som brukes av offentlige laboratorier
 
 Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 144 for å utfylle denne forordning med hensyn til i hvilke tilfeller og på hvilke vilkår vedkommende myndigheter i henhold til artikkel 37 nr. 1 kan utpeke som offentlige laboratorier laboratorier som ikke oppfyller vilkårene nevnt i artikkel 37 nr. 4 bokstav e) med hensyn til alle metodene de bruker ved offentlig kontroll og annen offentlig virksomhet, forutsatt at disse laboratoriene oppfyller følgende vilkår:De driver virksomhet og er akkreditert i samsvar med standarden EN ISO/IEC 17025 for én eller flere metoder som ligner og er representative for de andre metodene de bruker.De gjør regelmessig og utstrakt bruk av metodene de er akkreditert for i henhold til bokstav a) i denne artikkel, unntatt, når det gjelder området som omfattes av reglene nevnt i artikkel 1 nr. 2 bokstav g), dersom det ikke finnes en validert metode for påvisning av de bestemte planteskadegjørerne nevnt i artikkel 34 nr. 1 og 2.
 
-1. Som unntak fra artikkel 37 nr. 5 bokstav a) kan de vedkommende myndighetene midlertidig utpeke et eksisterende offentlig laboratorium som offentlig laboratorium i samsvar med artikkel 37 nr. 1 for bruk av en metode for laboratorieanalyse, -undersøkelse eller -diagnostisering som det ikke er akkreditert for i henhold til artikkel 37 nr. 4 bokstav e),når bruken av denne metoden er et nytt krav i unionsreglene,når endringer i en metode krever en ny akkreditering eller en utvidelse av området for akkrediteringen som det offentlige laboratoriet har fått, elleri tilfeller der behovet for å bruke metoden skyldes en nødssituasjon eller en ny risiko for menneskers eller dyrs helse, for plantehelsen, dyrevelferden eller, når det gjelder genmodifiserte organismer og plantevernmidler, for miljøet.
+###### Artikkel 42
 
-2. Den midlertidige utpekingen nevnt i nr. 1 skal være underlagt følgende vilkår:Det offentlige laboratoriet er allerede akkreditert i samsvar med standarden EN ISO/IEC 17025 for bruk av en metode som ligner på den som ikke inngår i akkrediteringsområdet.Det offentlige laboratoriet har innført et kvalitetssikringssystem for å sikre holdbare og pålitelige resultater når det brukes en metode som ikke inngår i det eksisterende akkrediteringsområdet.Analysene, undersøkelsene eller diagnostiseringene utføres under tilsyn av de vedkommende myndighetene eller det nasjonale referanselaboratoriet for denne metoden.
+Midlertidige unntak fra vilkårene om obligatorisk akkreditering av offentlige laboratorier
 
-3. Den midlertidige utpekingen fastsatt i nr. 1 skal vare i høyst ett år. Den kan forlenges én gang med ytterligere ett år.
+1\. Som unntak fra artikkel 37 nr. 5 bokstav a) kan de vedkommende myndighetene midlertidig utpeke et eksisterende offentlig laboratorium som offentlig laboratorium i samsvar med artikkel 37 nr. 1 for bruk av en metode for laboratorieanalyse, -undersøkelse eller -diagnostisering som det ikke er akkreditert for i henhold til artikkel 37 nr. 4 bokstav e),når bruken av denne metoden er et nytt krav i unionsreglene,når endringer i en metode krever en ny akkreditering eller en utvidelse av området for akkrediteringen som det offentlige laboratoriet har fått, elleri tilfeller der behovet for å bruke metoden skyldes en nødssituasjon eller en ny risiko for menneskers eller dyrs helse, for plantehelsen, dyrevelferden eller, når det gjelder genmodifiserte organismer og plantevernmidler, for miljøet.
 
-4. De offentlige laboratoriene som er utpekt i samsvar med nr. 1, skal ligge i de medlemsstatene på hvis territorium de vedkommende myndighetene som utpekte dem, befinner seg.
+2\. Den midlertidige utpekingen nevnt i nr. 1 skal være underlagt følgende vilkår:Det offentlige laboratoriet er allerede akkreditert i samsvar med standarden EN ISO/IEC 17025 for bruk av en metode som ligner på den som ikke inngår i akkrediteringsområdet.Det offentlige laboratoriet har innført et kvalitetssikringssystem for å sikre holdbare og pålitelige resultater når det brukes en metode som ikke inngår i det eksisterende akkrediteringsområdet.Analysene, undersøkelsene eller diagnostiseringene utføres under tilsyn av de vedkommende myndighetene eller det nasjonale referanselaboratoriet for denne metoden.
+
+3\. Den midlertidige utpekingen fastsatt i nr. 1 skal vare i høyst ett år. Den kan forlenges én gang med ytterligere ett år.
+
+4\. De offentlige laboratoriene som er utpekt i samsvar med nr. 1, skal ligge i de medlemsstatene på hvis territorium de vedkommende myndighetene som utpekte dem, befinner seg.
 
 ### KAPITTEL V
 Offentlig kontroll av dyr og varer som innføres til Unionen
 
+###### Artikkel 43
+
+Offentlig kontroll av dyr og varer som innføres til Unionen
+
 Offentlig kontroll av dyr og varer som innføres til Unionen, skal organiseres på grunnlag av en risikovurdering. Når det gjelder dyr og varer nevnt i artikkel 47 og 48, skal slik offentlig kontroll gjennomføres i samsvar med artikkel 47–64.
 
-1. For å sikre at reglene nevnt i artikkel 1 nr. 2 overholdes, skal vedkommende myndigheter gjennomføre offentlig kontroll regelmessig, på grunnlag av en risikovurdering og med passende hyppighet, av dyr og varer som innføres til Unionen, og som ikke omfattes av artikkel 47 og 48.
+###### Avsnitt I
 
-2. I forbindelse med dyrene og varene nevnt i nr. 1 skal en passende hyppighet for den offentlige kontrollen fastsettes samtidig som det tas hensyn til følgende:Risikoene for menneskers eller dyrs helse, for plantehelsen eller dyrevelferden eller, når det gjelder genmodifiserte organismer og plantevernmidler, for miljøet, som er forbundet med ulike typer dyr og varer.Eventuelle opplysninger om sannsynligheten for at forbrukere kan bli villedet, særlig med hensyn til varenes art, identitet, egenskaper, sammensetning, mengde, holdbarhet, opprinnelsesstat eller opphavssted og framstillings- eller produksjonsmåte.Historikken med hensyn til overholdelse av kravene fastsatt i reglene nevnt i artikkel 1 nr. 2 som gjelder for de aktuelle dyrene eller varenei tredjestaten og opprinnelsesvirksomheten eller på produksjonsstedet, avhengig av hva som er relevant,hos eksportøren,hos den driftsansvarlige som er ansvarlig for forsendelsen.Kontrollene som allerede er gjennomført av de aktuelle dyrene og varene.De garantiene som de vedkommende myndighetene i opprinnelsestredjestaten har gitt med hensyn til at dyr og varer oppfyller de kravene som er fastsatt i reglene nevnt i artikkel 1 nr. 2, eller krav som anses for å være minst likeverdige.
+Andre dyr og varer enn dem som omfattes av offentlig kontroll på grensekontrollstasjoner i henhold til avsnitt II
 
-3. Den offentlige kontrollen fastsatt i nr. 1 skal gjennomføres på et egnet sted innenfor Unionens tollområde, herunderstedet for innførsel til Unionen,en grensekontrollstasjon,stedet for frigivelse for fri omsetning i Unionen,lagrene og lokalene til den driftsansvarlige som er ansvarlig for forsendelsen,bestemmelsesstedet.
+###### Artikkel 44
 
-4. Uten hensyn til nr. 1 og 3 skal de vedkommende myndighetene gjennomføre offentlig kontroll av følgende på grensekontrollstasjoner og andre steder for innførsel til Unionen når de har grunn til å tro at deres innførsel til Unionen kan utgjøre en risiko for menneskers eller dyrs helse, for plantehelsen eller dyrevelferden eller, når det gjelder genmodifiserte organismer og plantevernmidler, for miljøet:Transportmidler, herunder tomme.Emballasje, herunder paller.
+Offentlig kontroll av andre dyr og varer enn dem som omfattes av offentlig kontroll på grensekontrollstasjoner i henhold til avsnitt II
 
-5. De vedkommende myndighetene kan også gjennomføre offentlig kontroll av varer som er underlagt én av tollprosedyrene definert i artikkel 5 nr. 16 bokstav a), b) og c) i forordning [(EU) nr. 952/2013](eu/32013r0952*), og som er i midlertidig lagring som definert i artikkel 5 nr. 17 i nevnte forordning.
+1\. For å sikre at reglene nevnt i artikkel 1 nr. 2 overholdes, skal vedkommende myndigheter gjennomføre offentlig kontroll regelmessig, på grunnlag av en risikovurdering og med passende hyppighet, av dyr og varer som innføres til Unionen, og som ikke omfattes av artikkel 47 og 48.
 
-1. Når offentlig kontroll gjennomføres i samsvar med artikkel 44 nr. 1, skal denalltid omfatte dokumentkontroll, ogomfatte identitetskontroll og fysisk kontroll avhengig av risikoen for menneskers eller dyrs helse, for plantehelsen eller dyrevelferden eller, når det gjelder genmodifiserte organismer og plantevernmidler, for miljøet.
+2\. I forbindelse med dyrene og varene nevnt i nr. 1 skal en passende hyppighet for den offentlige kontrollen fastsettes samtidig som det tas hensyn til følgende:Risikoene for menneskers eller dyrs helse, for plantehelsen eller dyrevelferden eller, når det gjelder genmodifiserte organismer og plantevernmidler, for miljøet, som er forbundet med ulike typer dyr og varer.Eventuelle opplysninger om sannsynligheten for at forbrukere kan bli villedet, særlig med hensyn til varenes art, identitet, egenskaper, sammensetning, mengde, holdbarhet, opprinnelsesstat eller opphavssted og framstillings- eller produksjonsmåte.Historikken med hensyn til overholdelse av kravene fastsatt i reglene nevnt i artikkel 1 nr. 2 som gjelder for de aktuelle dyrene eller varenei tredjestaten og opprinnelsesvirksomheten eller på produksjonsstedet, avhengig av hva som er relevant,hos eksportøren,hos den driftsansvarlige som er ansvarlig for forsendelsen.Kontrollene som allerede er gjennomført av de aktuelle dyrene og varene.De garantiene som de vedkommende myndighetene i opprinnelsestredjestaten har gitt med hensyn til at dyr og varer oppfyller de kravene som er fastsatt i reglene nevnt i artikkel 1 nr. 2, eller krav som anses for å være minst likeverdige.
 
-2. De vedkommende myndighetene skal utføre de fysiske kontrollene nevnt i nr. 1 bokstav b) under egnede forhold som gjør det mulig å foreta undersøkelser på riktig måte.
+3\. Den offentlige kontrollen fastsatt i nr. 1 skal gjennomføres på et egnet sted innenfor Unionens tollområde, herunderstedet for innførsel til Unionen,en grensekontrollstasjon,stedet for frigivelse for fri omsetning i Unionen,lagrene og lokalene til den driftsansvarlige som er ansvarlig for forsendelsen,bestemmelsesstedet.
 
-3. Dersom dokumentkontrollene, identitetskontrollene eller de fysiske kontrollene nevnt i nr. 1 i denne artikkel viser at dyr og varer ikke overholder reglene nevnt i artikkel 1 nr. 2, gjelder artikkel 66 nr. 1, 3 og 5, artikkel 67, 68 og 69, artikkel 71 nr. 1 og 2, artikkel 72 nr. 1 og 2 og artikkel 137 og 138.
+4\. Uten hensyn til nr. 1 og 3 skal de vedkommende myndighetene gjennomføre offentlig kontroll av følgende på grensekontrollstasjoner og andre steder for innførsel til Unionen når de har grunn til å tro at deres innførsel til Unionen kan utgjøre en risiko for menneskers eller dyrs helse, for plantehelsen eller dyrevelferden eller, når det gjelder genmodifiserte organismer og plantevernmidler, for miljøet:Transportmidler, herunder tomme.Emballasje, herunder paller.
 
-4. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 144 for å utfylle denne forordning med hensyn til i hvilke tilfeller og på hvilke vilkår vedkommende myndigheter kan be driftsansvarlige om å melde fra om ankomsten av visse varer som innføres til Unionen.
+5\. De vedkommende myndighetene kan også gjennomføre offentlig kontroll av varer som er underlagt én av tollprosedyrene definert i artikkel 5 nr. 16 bokstav a), b) og c) i forordning [(EU) nr. 952/2013](eu/32013r0952*), og som er i midlertidig lagring som definert i artikkel 5 nr. 17 i nevnte forordning.
 
-1. Når det tas prøver av dyr og varer, skal de vedkommende myndighetene, uten at det berører artikkel 34–42,informere de berørte driftsansvarlige og, dersom det er relevant, tollmyndighetene, ogavgjøre om dyrene eller varene skal holdes tilbake i påvente av resultatene av analysen, undersøkelsen eller diagnostiseringen, eller om de kan frigis, forutsatt at sporbarheten til dyrene eller varene er sikret.
+###### Artikkel 45
 
-2. Kommisjonen skal ved hjelp av gjennomføringsrettsakterinnføre de framgangsmåtene som er nødvendige for å sikre sporbarheten til dyrene eller varene nevnt i nr. 1 bokstav b), ogangi hvilke dokumenter som skal ledsage dyrene eller varene nevnt i nr. 1 når de vedkommende myndighetene har tatt prøver.Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
+Typer av offentlig kontroll av andre dyr og varer enn dem som omfattes av offentlig kontroll på grensekontrollstasjoner i henhold til avsnitt II
 
-1. For å sikre at reglene nevnt i artikkel 1 nr. 2 overholdes, skal de vedkommende myndighetene gjennomføre offentlig kontroll på grensekontrollstasjonen for første ankomst til Unionen av hver enkelt forsendelse av følgende kategorier av dyr og varer som innføres til Unionen:Dyr.
+1\. Når offentlig kontroll gjennomføres i samsvar med artikkel 44 nr. 1, skal denalltid omfatte dokumentkontroll, ogomfatte identitetskontroll og fysisk kontroll avhengig av risikoen for menneskers eller dyrs helse, for plantehelsen eller dyrevelferden eller, når det gjelder genmodifiserte organismer og plantevernmidler, for miljøet.
+
+2\. De vedkommende myndighetene skal utføre de fysiske kontrollene nevnt i nr. 1 bokstav b) under egnede forhold som gjør det mulig å foreta undersøkelser på riktig måte.
+
+3\. Dersom dokumentkontrollene, identitetskontrollene eller de fysiske kontrollene nevnt i nr. 1 i denne artikkel viser at dyr og varer ikke overholder reglene nevnt i artikkel 1 nr. 2, gjelder artikkel 66 nr. 1, 3 og 5, artikkel 67, 68 og 69, artikkel 71 nr. 1 og 2, artikkel 72 nr. 1 og 2 og artikkel 137 og 138.
+
+4\. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 144 for å utfylle denne forordning med hensyn til i hvilke tilfeller og på hvilke vilkår vedkommende myndigheter kan be driftsansvarlige om å melde fra om ankomsten av visse varer som innføres til Unionen.
+
+###### Artikkel 46
+
+Prøver tatt av andre dyr og varer enn dem som omfattes av offentlig kontroll på grensekontrollstasjoner i henhold til avsnitt II
+
+1\. Når det tas prøver av dyr og varer, skal de vedkommende myndighetene, uten at det berører artikkel 34–42,informere de berørte driftsansvarlige og, dersom det er relevant, tollmyndighetene, ogavgjøre om dyrene eller varene skal holdes tilbake i påvente av resultatene av analysen, undersøkelsen eller diagnostiseringen, eller om de kan frigis, forutsatt at sporbarheten til dyrene eller varene er sikret.
+
+2\. Kommisjonen skal ved hjelp av gjennomføringsrettsakterinnføre de framgangsmåtene som er nødvendige for å sikre sporbarheten til dyrene eller varene nevnt i nr. 1 bokstav b), ogangi hvilke dokumenter som skal ledsage dyrene eller varene nevnt i nr. 1 når de vedkommende myndighetene har tatt prøver.Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
+
+###### Avsnitt II
+
+Offentlig kontroll av dyr og varer på grensekontrollstasjoner
+
+###### Artikkel 47
+
+Dyr og varer som omfattes av offentlig kontroll på grensekontrollstasjoner
+
+1\. For å sikre at reglene nevnt i artikkel 1 nr. 2 overholdes, skal de vedkommende myndighetene gjennomføre offentlig kontroll på grensekontrollstasjonen for første ankomst til Unionen av hver enkelt forsendelse av følgende kategorier av dyr og varer som innføres til Unionen:Dyr.
 ►**M1**Produkter av animalsk opprinnelse, formeringsmateriale og animalske biprodukter, høy og halm og næringsmidler som inneholder både produkter av vegetabilsk opprinnelse og bearbeidede produkter av animalsk opprinnelse («sammensatte produkter»).
 ◄**M1**Planter, planteprodukter og andre gjenstander oppført på listene opprettet i henhold til artikkel 72 nr. 1 og artikkel 74 nr. 1 i forordning [(EU) 2016/2031](eu/32016r2031).Varer fra visse tredjestater som Kommisjonen gjennom gjennomføringsrettsakter vedtatt i samsvar med nr. 2 bokstav b) i denne artikkel har bestemt at krever et tiltak som innebærer midlertidig strengere offentlig kontroll ved innførsel til Unionen, på grunn av en kjent eller ny risiko eller fordi det foreligger dokumentasjon på at det kan forekomme omfattende alvorlig manglende overholdelse av reglene nevnt i artikkel 1 nr. 2.
 ►**M3**Dyr og varer som omfattes av et nødtiltak i henhold til rettsakter vedtatt i samsvar med artikkel 53 i forordning (EF) nr. 178/2002, artikkel 261 i forordning [(EU) 2016/429](eu/32016r0429) eller artikkel 28 nr. 1, artikkel 30 nr. 1, artikkel 40 nr. 3, artikkel 41 nr. 3, artikkel 49 nr. 1, artikkel 53 nr. 3 og artikkel 54 nr. 3 i forordning [(EU) 2016/2031](eu/32016r2031), som krever at forsendelser av slike dyr eller varer, identifisert ved hjelp av kodene fra Den kombinerte nomenklatur, skal omfattes av offentlig kontroll ved innførsel til Unionen.
 ◄**M3**Dyr og varer som det i forbindelse med innførsel til Unionen er fastsatt vilkår eller tiltak for gjennom rettsakter vedtatt i samsvar med henholdsvis artikkel 126 eller 128, eller gjennom reglene nevnt i artikkel 1 nr. 2, som krever at overholdelsen av disse vilkårene eller tiltakene kontrolleres når dyrene eller varene innføres til Unionen.
 
-2. Kommisjonen skal ved hjelp av gjennomføringsrettsakterutarbeide lister over alle dyr og varer nevnt i nr. 1 bokstav a) og b), med angivelse av kodene fra Den kombinerte nomenklatur, ogutarbeide listen over varer som tilhører kategorien nevnt i nr. 1 bokstav d), med angivelse av kodene fra Den kombinerte nomenklatur, og ajourføre den ved behov med hensyn til risikoene omhandlet i nevnte nummer.Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
+2\. Kommisjonen skal ved hjelp av gjennomføringsrettsakterutarbeide lister over alle dyr og varer nevnt i nr. 1 bokstav a) og b), med angivelse av kodene fra Den kombinerte nomenklatur, ogutarbeide listen over varer som tilhører kategorien nevnt i nr. 1 bokstav d), med angivelse av kodene fra Den kombinerte nomenklatur, og ajourføre den ved behov med hensyn til risikoene omhandlet i nevnte nummer.Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
 
-3. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 144 for å endre denne forordning med hensyn til endringer av de kategoriene av forsendelser som er nevnt i nr. 1 i denne artikkel, til å omfatte sammensatte produkter, høy og halm samt andre produkter, men bare dersom disse produktene utgjør en nylig påvist eller betydelig økt risiko for menneskers eller dyrs helse, for plantehelsen eller, når det gjelder genmodifiserte organismer og plantevernmidler, for miljøet.
+3\. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 144 for å endre denne forordning med hensyn til endringer av de kategoriene av forsendelser som er nevnt i nr. 1 i denne artikkel, til å omfatte sammensatte produkter, høy og halm samt andre produkter, men bare dersom disse produktene utgjør en nylig påvist eller betydelig økt risiko for menneskers eller dyrs helse, for plantehelsen eller, når det gjelder genmodifiserte organismer og plantevernmidler, for miljøet.
 
-4. Med mindre noe annet angis i de rettsaktene som fastsetter tiltakene eller vilkårene nevnt i nr. 1 bokstav d), e) og f), gjelder denne artikkel også for forsendelser av de kategoriene av dyr og varer som er nevnt i nr. 1 bokstav a), b) og c), når disse er av ikke-kommersiell art.
+4\. Med mindre noe annet angis i de rettsaktene som fastsetter tiltakene eller vilkårene nevnt i nr. 1 bokstav d), e) og f), gjelder denne artikkel også for forsendelser av de kategoriene av dyr og varer som er nevnt i nr. 1 bokstav a), b) og c), når disse er av ikke-kommersiell art.
 
-5. Driftsansvarlige som er ansvarlige for forsendelsen, skal sikre at dyrene og varene i kategoriene nevnt i nr. 1 framvises for offentlig kontroll på den grensekontrollstasjonen som er omhandlet i nevnte nummer.
+5\. Driftsansvarlige som er ansvarlige for forsendelsen, skal sikre at dyrene og varene i kategoriene nevnt i nr. 1 framvises for offentlig kontroll på den grensekontrollstasjonen som er omhandlet i nevnte nummer.
+
+###### Artikkel 48
+
+Dyr og varer som er unntatt fra offentlig kontroll på grensekontrollstasjoner
 
 Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 144 for å utfylle denne forordning med hensyn til regler som fastsetter i hvilke tilfeller og på hvilke vilkår følgende kategorier av dyr og varer er unntatt fra artikkel 47, og når slike unntak er berettiget:Varer som sendes som vareprøver eller utstillingsgjenstander, og som ikke er beregnet på å bringes i omsetning.Dyr og varer beregnet på vitenskapelige formål.Varer om bord på transportmidler i internasjonal trafikk, som ikke losses, og som er beregnet på forpleining av besetning og passasjerer.Varer som inngår i passasjerenes personlige bagasje og er beregnet på eget forbruk eller bruk.Små vareforsendelser som sendes til fysiske personer og ikke er beregnet på å bringes i omsetning.Kjæledyr som definert i artikkel 4 nr. 11 i forordning [(EU) 2016/429](eu/32016r0429*).Varer som har gjennomgått særlig behandling og ikke overstiger de mengdene som skal fastsettes i disse delegerte rettsaktene.Kategorier av dyr eller varer som utgjør en lav risiko eller ingen konkret risiko, og som det derfor ikke er nødvendig å kontrollere på grensekontrollstasjoner.
 
-1. For å verifisere overholdelsen av de relevante kravene i reglene nevnt i artikkel 1 nr. 2 skal de vedkommende myndighetene gjennomføre offentlig kontroll av forsendelsene av de kategoriene av dyr og varer som er nevnt i artikkel 47 nr. 1, når forsendelsen ankommer grensekontrollstasjonen. Den offentlige kontrollen skal omfatte dokumentkontroll, identitetskontroll og fysisk kontroll.
+###### Artikkel 49
 
-2. Fysisk kontroll skalnår kontrollen gjelder dyr, med unntak av akvatiske dyr, eller kjøtt og spiselig slakteavfall, gjennomføres av en offentlig veterinær, som kan bistås av personale som har fått opplæring i veterinære spørsmål i samsvar med kravene fastsatt i henhold til nr. 5, og som er utpekt av de vedkommende myndighetene for dette formålet,når kontrollen gjelder akvatiske dyr, andre produkter av animalsk opprinnelse enn dem som er nevnt i bokstav a) i dette nummer, formeringsmateriale eller animalske biprodukter, gjennomføres av en offentlig veterinær eller av personale som har fått opplæring i samsvar med kravene fastsatt i henhold til nr. 5, og som er utpekt av de vedkommende myndighetene for dette formålet,når kontrollen gjelder planter, planteprodukter og andre gjenstander, gjennomføres av en offentlig plantehelsekontrollør.
+Offentlig kontroll på grensekontrollstasjoner
 
-3. De vedkommende myndighetene på grensekontrollstasjonene skal systematisk gjennomføre offentlig kontroll av forsendelser av dyr som transporteres og av transportmidler, for å verifisere overholdelsen av kravene til dyrevelferd fastsatt i reglene nevnt i artikkel 1 nr. 2. De vedkommende myndighetene skal innføre ordninger for å prioritere offentlig kontroll av dyr som transporteres, og for å redusere forsinkelser ved slik kontroll.
+1\. For å verifisere overholdelsen av de relevante kravene i reglene nevnt i artikkel 1 nr. 2 skal de vedkommende myndighetene gjennomføre offentlig kontroll av forsendelsene av de kategoriene av dyr og varer som er nevnt i artikkel 47 nr. 1, når forsendelsen ankommer grensekontrollstasjonen. Den offentlige kontrollen skal omfatte dokumentkontroll, identitetskontroll og fysisk kontroll.
 
-4. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette regler for de praktiske ordningene for framvisning av forsendelser av de kategoriene av dyr og varer som er nevnt i artikkel 47 nr. 1, de transportenhetene eller underenhetene som kan utgjøre en enkeltstykkforsendelse, og det høyeste antallet slike enheter eller underenheter i hver forsendelse, samtidig som det tas hensyn til behovet for å sikre rask og effektiv håndtering av forsendelsene og den offentlige kontrollen som de vedkommende myndighetene skal gjennomføre og, dersom det er relevant, internasjonale standarder. Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
+2\. Fysisk kontroll skalnår kontrollen gjelder dyr, med unntak av akvatiske dyr, eller kjøtt og spiselig slakteavfall, gjennomføres av en offentlig veterinær, som kan bistås av personale som har fått opplæring i veterinære spørsmål i samsvar med kravene fastsatt i henhold til nr. 5, og som er utpekt av de vedkommende myndighetene for dette formålet,når kontrollen gjelder akvatiske dyr, andre produkter av animalsk opprinnelse enn dem som er nevnt i bokstav a) i dette nummer, formeringsmateriale eller animalske biprodukter, gjennomføres av en offentlig veterinær eller av personale som har fått opplæring i samsvar med kravene fastsatt i henhold til nr. 5, og som er utpekt av de vedkommende myndighetene for dette formålet,når kontrollen gjelder planter, planteprodukter og andre gjenstander, gjennomføres av en offentlig plantehelsekontrollør.
 
-5. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 144 for å utfylle denne forordning med hensyn til regler om særlige krav til opplæring av det personalet som er nevnt i nr. 2 i denne artikkel, med henblikk på gjennomføringen av fysisk kontroll på grensekontrollstasjonene.
+3\. De vedkommende myndighetene på grensekontrollstasjonene skal systematisk gjennomføre offentlig kontroll av forsendelser av dyr som transporteres og av transportmidler, for å verifisere overholdelsen av kravene til dyrevelferd fastsatt i reglene nevnt i artikkel 1 nr. 2. De vedkommende myndighetene skal innføre ordninger for å prioritere offentlig kontroll av dyr som transporteres, og for å redusere forsinkelser ved slik kontroll.
 
-1. Originaleksemplaret av de offisielle sertifikatene eller dokumentene, eller de elektroniske versjonene av dem, som i henhold til reglene nevnt i artikkel 1 nr. 2 skal ledsage forsendelser av de kategoriene av dyr og varer som er nevnt i artikkel 47 nr. 1, skal framlegges for og oppbevares av de vedkommende myndighetene på grensekontrollstasjonen med mindre noe annet er fastsatt i reglene nevnt i artikkel 1 nr. 2.
+4\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette regler for de praktiske ordningene for framvisning av forsendelser av de kategoriene av dyr og varer som er nevnt i artikkel 47 nr. 1, de transportenhetene eller underenhetene som kan utgjøre en enkeltstykkforsendelse, og det høyeste antallet slike enheter eller underenheter i hver forsendelse, samtidig som det tas hensyn til behovet for å sikre rask og effektiv håndtering av forsendelsene og den offentlige kontrollen som de vedkommende myndighetene skal gjennomføre og, dersom det er relevant, internasjonale standarder. Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
 
-2. De vedkommende myndighetene på grensekontrollstasjonen skal utstede til den driftsansvarlige som er ansvarlig for forsendelsen, en attestert kopi på papir eller i elektronisk form av de offisielle sertifikatene eller dokumentene nevnt i nr. 1, eller, dersom forsendelsen er oppdelt, attesterte kopier på papir eller i elektronisk form av slike sertifikater eller dokumenter for hver del.
+5\. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 144 for å utfylle denne forordning med hensyn til regler om særlige krav til opplæring av det personalet som er nevnt i nr. 2 i denne artikkel, med henblikk på gjennomføringen av fysisk kontroll på grensekontrollstasjonene.
 
-3. Forsendelser skal ikke deles opp før det er gjennomført offentlig kontroll og det felles innførselsdokumentet om helse (CHED) nevnt i artikkel 56 er utfylt i samsvar med artikkel 56 nr. 5 og artikkel 57.
+###### Artikkel 50
 
-4. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 144 for å utfylle denne forordning med hensyn til regler som fastsetter i hvilke tilfeller og på hvilke vilkår det felles innførselsdokumentet om helse skal ledsage forsendelser av de kategoriene av dyr og varer som er nevnt i artikkel 47 nr. 1, til bestemmelsesstedet.
+Sertifikater og dokumenter som ledsager forsendelser og oppdelte forsendelser
 
-1. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 144 for å utfylle denne forordning med hensyn til regler som fastsetteri hvilke tilfeller og på hvilke vilkår de vedkommende myndighetene på en grensekontrollstasjon kan tillate videre transport av forsendelser av de kategoriene av dyr og varer som er nevnt i artikkel 47 nr. 1, til det endelige bestemmelsesstedet i påvente av resultatet av den fysiske kontrollen, dersom slik kontroll kreves,fristene og ordningene for å gjennomføre dokumentkontroll og, om nødvendig, identitetskontroll og fysisk kontroll av kategorier av dyr og varer som omfattes av den offentlige kontrollen fastsatt i artikkel 47 nr. 1, og som innføres til Unionen via sjøveien eller luftveien fra en tredjestat, når disse dyrene eller varene forflyttes fra et fartøy eller et luftfartøy og transporteres under tollmyndighetenes tilsyn til et annet fartøy eller luftfartøy i samme havn eller lufthavn med henblikk på videre transport (heretter kalt «forsendelser som omlastes»),i hvilke tilfeller og på hvilke vilkår identitetskontroll og fysisk kontroll av forsendelser som omlastes, og av dyr som ankommer luft- eller sjøveien og oppholder seg på samme transportmiddel med henblikk på videre transport, kan gjennomføres på en annen grensekontrollstasjon enn den for første ankomst til Unionen,i hvilke tilfeller og på hvilke vilkår transitt av forsendelser av de kategoriene av dyr og varer som er nevnt i artikkel 47 nr. 1, kan tillates og hvilke offentlige kontroller som skal utføres på grensekontrollstasjoner av slike forsendelser, herunder i hvilke tilfeller og på hvilke vilkår varer kan lagres i særskilt godkjente tollagre eller i frisoner,i hvilke tilfeller og på hvilke vilkår unntak fra reglene for identitetskontroll og fysisk kontroll skal gjelde for forsendelser som omlastes, og for transitt av forsendelser av de varene som er nevnt i artikkel 47 nr. 1 bokstav c).
+1\. Originaleksemplaret av de offisielle sertifikatene eller dokumentene, eller de elektroniske versjonene av dem, som i henhold til reglene nevnt i artikkel 1 nr. 2 skal ledsage forsendelser av de kategoriene av dyr og varer som er nevnt i artikkel 47 nr. 1, skal framlegges for og oppbevares av de vedkommende myndighetene på grensekontrollstasjonen med mindre noe annet er fastsatt i reglene nevnt i artikkel 1 nr. 2.
 
-2. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 144 for å utfylle denne forordning med hensyn til regler som fastsetter i hvilke tilfeller og på hvilke vilkår unntak fra reglene for dokumentkontroll skal gjelde for forsendelser som omlastes, og for transitt av forsendelser av de varene som er nevnt i artikkel 47 nr. 1 bokstav c).
+2\. De vedkommende myndighetene på grensekontrollstasjonen skal utstede til den driftsansvarlige som er ansvarlig for forsendelsen, en attestert kopi på papir eller i elektronisk form av de offisielle sertifikatene eller dokumentene nevnt i nr. 1, eller, dersom forsendelsen er oppdelt, attesterte kopier på papir eller i elektronisk form av slike sertifikater eller dokumenter for hver del.
+
+3\. Forsendelser skal ikke deles opp før det er gjennomført offentlig kontroll og det felles innførselsdokumentet om helse (CHED) nevnt i artikkel 56 er utfylt i samsvar med artikkel 56 nr. 5 og artikkel 57.
+
+4\. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 144 for å utfylle denne forordning med hensyn til regler som fastsetter i hvilke tilfeller og på hvilke vilkår det felles innførselsdokumentet om helse skal ledsage forsendelser av de kategoriene av dyr og varer som er nevnt i artikkel 47 nr. 1, til bestemmelsesstedet.
+
+###### Artikkel 51
+
+Særlige regler for offentlig kontroll på grensekontrollstasjoner
+
+1\. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 144 for å utfylle denne forordning med hensyn til regler som fastsetteri hvilke tilfeller og på hvilke vilkår de vedkommende myndighetene på en grensekontrollstasjon kan tillate videre transport av forsendelser av de kategoriene av dyr og varer som er nevnt i artikkel 47 nr. 1, til det endelige bestemmelsesstedet i påvente av resultatet av den fysiske kontrollen, dersom slik kontroll kreves,fristene og ordningene for å gjennomføre dokumentkontroll og, om nødvendig, identitetskontroll og fysisk kontroll av kategorier av dyr og varer som omfattes av den offentlige kontrollen fastsatt i artikkel 47 nr. 1, og som innføres til Unionen via sjøveien eller luftveien fra en tredjestat, når disse dyrene eller varene forflyttes fra et fartøy eller et luftfartøy og transporteres under tollmyndighetenes tilsyn til et annet fartøy eller luftfartøy i samme havn eller lufthavn med henblikk på videre transport (heretter kalt «forsendelser som omlastes»),i hvilke tilfeller og på hvilke vilkår identitetskontroll og fysisk kontroll av forsendelser som omlastes, og av dyr som ankommer luft- eller sjøveien og oppholder seg på samme transportmiddel med henblikk på videre transport, kan gjennomføres på en annen grensekontrollstasjon enn den for første ankomst til Unionen,i hvilke tilfeller og på hvilke vilkår transitt av forsendelser av de kategoriene av dyr og varer som er nevnt i artikkel 47 nr. 1, kan tillates og hvilke offentlige kontroller som skal utføres på grensekontrollstasjoner av slike forsendelser, herunder i hvilke tilfeller og på hvilke vilkår varer kan lagres i særskilt godkjente tollagre eller i frisoner,i hvilke tilfeller og på hvilke vilkår unntak fra reglene for identitetskontroll og fysisk kontroll skal gjelde for forsendelser som omlastes, og for transitt av forsendelser av de varene som er nevnt i artikkel 47 nr. 1 bokstav c).
+
+2\. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 144 for å utfylle denne forordning med hensyn til regler som fastsetter i hvilke tilfeller og på hvilke vilkår unntak fra reglene for dokumentkontroll skal gjelde for forsendelser som omlastes, og for transitt av forsendelser av de varene som er nevnt i artikkel 47 nr. 1 bokstav c).
+
+###### Artikkel 52
+
+Nærmere opplysninger om dokumentkontroll, identitetskontroll og fysisk kontroll
 
 For å sikre en ensartet gjennomføring av artikkel 49, 50 og 51 skal Kommisjonen ved hjelp av gjennomføringsrettsakter fastsette nærmere regler for handlingene som skal utføres under og etter dokumentkontrollen, identitetskontrollen og den fysiske kontrollen omhandlet i nevnte artikler, for å sikre at den offentlige kontrollen gjennomføres effektivt. Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
 
-1. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 144 for å utfylle denne forordning med hensyn til regler som fastsetter i hvilke tilfeller og på hvilke vilkåridentitetskontrollen og den fysiske kontrollen av forsendelser av de kategoriene av dyr og varer som er nevnt i artikkel 47 nr. 1, kan gjennomføres av vedkommende myndigheter på andre kontrollsteder enn grensekontrollstasjoner, forutsatt at disse kontrollstedene oppfyller kravene fastsatt i artikkel 64 nr. 3 og i gjennomføringsrettsaktene vedtatt i samsvar med artikkel 64 nr. 4,fysisk kontroll av forsendelser som har vært gjenstand for dokumentkontroll og identitetskontroll på en grensekontrollstasjon for første ankomst til Unionen, kan gjennomføres på en annen grensekontrollstasjon i en annen medlemsstat,identitetskontroll og fysisk kontroll av forsendelser som har vært gjenstand for dokumentkontroll på en grensekontrollstasjon for første ankomst til Unionen, kan gjennomføres på en annen grensekontrollstasjon i en annen medlemsstat,særlige kontrolloppgaver kan utføres av tollmyndigheter eller andre offentlige myndigheter, i den grad disse oppgavene ikke allerede hører inn under ansvarsområdet til disse myndighetene, med hensyn tilforsendelsene nevnt i artikkel 65 nr. 2,passasjerenes personlige bagasje,varer bestilt gjennom fjernsalgsavtaler, herunder per telefon eller på internett,kjæledyr som oppfyller kravene i artikkel 5 i europaparlaments- og rådsforordning [(EU) nr. 576/2013](eu/32013r0576)59,dokumentkontroll av forsendelser av planter, planteprodukter og andre gjenstander som er nevnt i artikkel 47 nr. 1, kan gjennomføres et annet sted enn ved grensekontrollstasjonen.
+###### Artikkel 53
 
-2. Artikkel 56 nr. 3 bokstav b), artikkel 57 nr. 2 bokstav a), artikkel 59 nr. 1, artikkel 60 nr. 1 bokstav a) og d) samt artikkel 62 og 63 gjelder også for kontrollstedene nevnt i nr. 1 bokstav a) i denne artikkel.
+Offentlig kontroll som ikke gjennomføres på grensekontrollstasjoner
 
-1. Alle forsendelser av de kategoriene av dyr og varer som er nevnt i artikkel 47 nr. 1, skal omfattes av dokumentkontroll.
+1\. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 144 for å utfylle denne forordning med hensyn til regler som fastsetter i hvilke tilfeller og på hvilke vilkåridentitetskontrollen og den fysiske kontrollen av forsendelser av de kategoriene av dyr og varer som er nevnt i artikkel 47 nr. 1, kan gjennomføres av vedkommende myndigheter på andre kontrollsteder enn grensekontrollstasjoner, forutsatt at disse kontrollstedene oppfyller kravene fastsatt i artikkel 64 nr. 3 og i gjennomføringsrettsaktene vedtatt i samsvar med artikkel 64 nr. 4,fysisk kontroll av forsendelser som har vært gjenstand for dokumentkontroll og identitetskontroll på en grensekontrollstasjon for første ankomst til Unionen, kan gjennomføres på en annen grensekontrollstasjon i en annen medlemsstat,identitetskontroll og fysisk kontroll av forsendelser som har vært gjenstand for dokumentkontroll på en grensekontrollstasjon for første ankomst til Unionen, kan gjennomføres på en annen grensekontrollstasjon i en annen medlemsstat,særlige kontrolloppgaver kan utføres av tollmyndigheter eller andre offentlige myndigheter, i den grad disse oppgavene ikke allerede hører inn under ansvarsområdet til disse myndighetene, med hensyn tilforsendelsene nevnt i artikkel 65 nr. 2,passasjerenes personlige bagasje,varer bestilt gjennom fjernsalgsavtaler, herunder per telefon eller på internett,kjæledyr som oppfyller kravene i artikkel 5 i europaparlaments- og rådsforordning [(EU) nr. 576/2013](eu/32013r0576)59,dokumentkontroll av forsendelser av planter, planteprodukter og andre gjenstander som er nevnt i artikkel 47 nr. 1, kan gjennomføres et annet sted enn ved grensekontrollstasjonen.
 
-2. Identitetskontroll og fysisk kontroll av forsendelser av de kategoriene av dyr og varer som er nevnt i artikkel 47 nr. 1, skal gjennomføres med en hyppighet som er basert på den risikoen hvert dyr, hver vare eller hver kategori av dyr eller varer utgjør for menneskers eller dyrs helse, for plantehelsen eller dyrevelferden eller, når det gjelder genmodifiserte organismer og plantevernmidler, for miljøet.
+2\. Artikkel 56 nr. 3 bokstav b), artikkel 57 nr. 2 bokstav a), artikkel 59 nr. 1, artikkel 60 nr. 1 bokstav a) og d) samt artikkel 62 og 63 gjelder også for kontrollstedene nevnt i nr. 1 bokstav a) i denne artikkel.
 
-3. Kommisjonen skal ved hjelp av gjennomføringsrettsakter fastsette regler for en ensartet bruk av den hyppigheten som er nevnt i nr. 2. Disse reglene skal sikre at hyppigheten er høyere enn null, og fastsettekriteriene og framgangsmåtene for å fastsette og endre hyppigheten av identitetskontrollen og den fysiske kontrollen som skal gjennomføres av forsendelser av de kategoriene av dyr og varer som er nevnt i artikkel 47 nr. 1 bokstav a), b) og c), og tilpasse dem til det risikonivået som er forbundet med disse kategoriene, samtidig som det tas hensyn tilopplysninger som Kommisjonen har innsamlet i samsvar med artikkel 125 nr. 1,resultatet av kontroll gjennomført av Kommisjonens sakkyndige i samsvar med artikkel 120 nr. 1,driftsansvarliges tidligere overholdelse av reglene nevnt i artikkel 1 nr. 2,data og opplysninger innsamlet gjennom informasjonsstyringssystemet for offentlig kontroll (IMSOC) nevnt i artikkel 131,tilgjengelige vitenskapelige vurderinger ogalle andre opplysninger om risikoen forbundet med kategoriene av dyr og varer,på hvilke vilkår medlemsstatene kan øke den hyppigheten av identitetskontroll og fysisk kontroll som er fastsatt i samsvar med bokstav a), for å ta hensyn til lokale risikofaktorer,framgangsmåtene for å sikre at den hyppigheten av identitetskontroll og fysisk kontroll som er fastsatt i samsvar med bokstav a), brukes i rett tid og på en ensartet måte.Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
+59 Europaparlaments- og rådsforordning [(EU) nr. 576/2013](eu/32013r0576) av 12. juni 2013 om ikke-kommersiell forflytning av kjæledyr og om oppheving av forordning [(EF) nr. 998/2003](eu/32003r0998) (EUT L 178 av 28.6.2013, s. 1).
 
-4. Kommisjonen skal ved hjelp av gjennomføringsrettsakter fastsette regler forhyppigheten av identitetskontroll og fysisk kontroll av de kategoriene av varer som er nevnt i artikkel 47 nr. 1 bokstav d), oghyppigheten av identitetskontroll og fysisk kontroll av de kategoriene av dyr og varer som er nevnt i artikkel 47 nr. 1 bokstav e) og f), såframt dette ikke allerede er fastsatt i rettsaktene omhandlet i nevnte nummer.Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
+###### Artikkel 54
 
-1. Etter å ha gjennomført offentlig kontroll, herunder dokumentkontroll og om nødvendig identitetskontroll og fysisk kontroll, skal de vedkommende myndighetene for hver forsendelse av de kategoriene av dyr og varer som er nevnt i artikkel 47 nr. 1, treffe en beslutning der de angir om forsendelsen er i samsvar med reglene nevnt i artikkel 1 nr. 2 og, dersom det er relevant, gjeldende tollprosedyre.
+Hyppighet av dokumentkontroll, identitetskontroll og fysisk kontroll
 
-2. Beslutninger om forsendelser skal treffes aven offentlig veterinær når beslutningen gjelder dyr, produkter av animalsk opprinnelse, formeringsmateriale eller animalske biprodukter, elleren offentlig plantehelsekontrollør når beslutningen gjelder planter, planteprodukter og andre gjenstander.
+1\. Alle forsendelser av de kategoriene av dyr og varer som er nevnt i artikkel 47 nr. 1, skal omfattes av dokumentkontroll.
 
-3. Som unntak fra nr. 2 bokstav a) kan de vedkommende myndighetene fastsette at beslutninger om forsendelser av fiskerivarer, levende muslinger, levende pigghuder, levende sekkedyr og levende sjøsnegler beregnet på konsum skal treffes av personale med egnede kvalifikasjoner som er særlig utpekt av de vedkommende myndighetene for dette formålet.
+2\. Identitetskontroll og fysisk kontroll av forsendelser av de kategoriene av dyr og varer som er nevnt i artikkel 47 nr. 1, skal gjennomføres med en hyppighet som er basert på den risikoen hvert dyr, hver vare eller hver kategori av dyr eller varer utgjør for menneskers eller dyrs helse, for plantehelsen eller dyrevelferden eller, når det gjelder genmodifiserte organismer og plantevernmidler, for miljøet.
 
-1. For hver forsendelse av de kategoriene av dyr og varer som er nevnt i artikkel 47 nr. 1, skal den driftsansvarlige som er ansvarlig for forsendelsen, fylle ut de relevante delene av det felles innførselsdokumentet om helse og angi de opplysningene som er nødvendige for øyeblikkelig og fullstendig identifikasjon av forsendelsen og dens bestemmelsessted.
+3\. Kommisjonen skal ved hjelp av gjennomføringsrettsakter fastsette regler for en ensartet bruk av den hyppigheten som er nevnt i nr. 2. Disse reglene skal sikre at hyppigheten er høyere enn null, og fastsettekriteriene og framgangsmåtene for å fastsette og endre hyppigheten av identitetskontrollen og den fysiske kontrollen som skal gjennomføres av forsendelser av de kategoriene av dyr og varer som er nevnt i artikkel 47 nr. 1 bokstav a), b) og c), og tilpasse dem til det risikonivået som er forbundet med disse kategoriene, samtidig som det tas hensyn tilopplysninger som Kommisjonen har innsamlet i samsvar med artikkel 125 nr. 1,resultatet av kontroll gjennomført av Kommisjonens sakkyndige i samsvar med artikkel 120 nr. 1,driftsansvarliges tidligere overholdelse av reglene nevnt i artikkel 1 nr. 2,data og opplysninger innsamlet gjennom informasjonsstyringssystemet for offentlig kontroll (IMSOC) nevnt i artikkel 131,tilgjengelige vitenskapelige vurderinger ogalle andre opplysninger om risikoen forbundet med kategoriene av dyr og varer,på hvilke vilkår medlemsstatene kan øke den hyppigheten av identitetskontroll og fysisk kontroll som er fastsatt i samsvar med bokstav a), for å ta hensyn til lokale risikofaktorer,framgangsmåtene for å sikre at den hyppigheten av identitetskontroll og fysisk kontroll som er fastsatt i samsvar med bokstav a), brukes i rett tid og på en ensartet måte.Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
 
-2. Når det i denne forordning henvises til det felles innførselsdokumentet om helse, henvises det også til den elektroniske versjonen av dokumentet.
+4\. Kommisjonen skal ved hjelp av gjennomføringsrettsakter fastsette regler forhyppigheten av identitetskontroll og fysisk kontroll av de kategoriene av varer som er nevnt i artikkel 47 nr. 1 bokstav d), oghyppigheten av identitetskontroll og fysisk kontroll av de kategoriene av dyr og varer som er nevnt i artikkel 47 nr. 1 bokstav e) og f), såframt dette ikke allerede er fastsatt i rettsaktene omhandlet i nevnte nummer.Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
 
-3. Det felles innførselsdokumentet om helse skal brukes avde driftsansvarlige som er ansvarlige for forsendelser av de kategoriene av dyr og varer som er nevnt i artikkel 47 nr. 1, for å gi forhåndsmelding til de vedkommende myndighetene på grensekontrollstasjonen om at disse forsendelsene ankommer, ogde vedkommende myndighetene på grensekontrollstasjonen for åregistrere resultatet av den offentlige kontrollen som er gjennomført, og eventuelle beslutninger som er truffet på grunnlag av det, herunder beslutninger om å avvise en forsendelse,oversende de opplysningene som er nevnt i punkt i), gjennom IMSOC.
+###### Artikkel 55
 
-4. De driftsansvarlige som er ansvarlige for forsendelsen, skal gi forhåndsmelding i samsvar med nr. 3 bokstav a) ved å fylle ut og sende inn den relevante delen av det felles innførselsdokumentet om helse til IMSOC for videresending til de vedkommende myndighetene på grensekontrollstasjonen, før forsendelsen fysisk ankommer Unionen.
+Beslutninger om forsendelser
 
-5. De vedkommende myndighetene på grensekontrollstasjonen skal ferdigstille det felles innførselsdokumentet om helse så snartall offentlig kontroll som kreves i henhold til artikkel 49 nr. 1, er gjennomført,resultatene av den fysiske kontrollen foreligger, dersom slik kontroll er påkrevd, ogen beslutning om forsendelsen er blitt truffet i samsvar med artikkel 55 og angitt på det felles innførselsdokumentet om helse.
+1\. Etter å ha gjennomført offentlig kontroll, herunder dokumentkontroll og om nødvendig identitetskontroll og fysisk kontroll, skal de vedkommende myndighetene for hver forsendelse av de kategoriene av dyr og varer som er nevnt i artikkel 47 nr. 1, treffe en beslutning der de angir om forsendelsen er i samsvar med reglene nevnt i artikkel 1 nr. 2 og, dersom det er relevant, gjeldende tollprosedyre.
 
-1. For at forsendelser av de kategoriene av dyr og varer som er nevnt i artikkel 47 nr. 1, skal kunne underlegges en tollprosedyre og håndteres innenfor rammen av denne, herunder at de innføres eller håndteres i tollagre eller frisoner, må den driftsansvarlige som er ansvarlig for forsendelsen, framlegge det felles innførselsdokumentet om helse for tollmyndighetene, uten at det berører unntakene nevnt i artikkel 48 og reglene nevnt i artikkel 53 og 54. På dette stadiet skal det felles innførselsdokumentet om helse være behørig utfylt i IMSOC av de vedkommende myndighetene på grensekontrollstasjonen.
+2\. Beslutninger om forsendelser skal treffes aven offentlig veterinær når beslutningen gjelder dyr, produkter av animalsk opprinnelse, formeringsmateriale eller animalske biprodukter, elleren offentlig plantehelsekontrollør når beslutningen gjelder planter, planteprodukter og andre gjenstander.
 
-2. Tollmyndighetene skalikke tillate at en forsendelse underlegges en annen tollprosedyre enn den de vedkommende myndighetene på grensekontrollstasjonen har angitt, ogbare tillate at en forsendelse frigis for fri omsetning etter framlegging av et behørig utfylt innførselsdokument om helse som bekrefter at forsendelsen er i samsvar med gjeldende regler nevnt i artikkel 1 nr. 2, uten at det berører unntakene nevnt i artikkel 48 og reglene nevnt i artikkel 53 og 54.
+3\. Som unntak fra nr. 2 bokstav a) kan de vedkommende myndighetene fastsette at beslutninger om forsendelser av fiskerivarer, levende muslinger, levende pigghuder, levende sekkedyr og levende sjøsnegler beregnet på konsum skal treffes av personale med egnede kvalifikasjoner som er særlig utpekt av de vedkommende myndighetene for dette formålet.
 
-3. Dersom en tolldeklarasjon gjelder en forsendelse av de kategoriene av dyr eller varer som er nevnt i artikkel 47 nr. 1, og det felles innførselsdokumentet om helse ikke framlegges, skal tollmyndighetene holde tilbake forsendelsen og umiddelbart underrette de vedkommende myndighetene på grensekontrollstasjonen. De vedkommende myndighetene skal treffe de tiltakene som er nødvendige i samsvar med artikkel 66 nr. 6.
+###### Artikkel 56
+
+Driftsansvarliges og vedkommende myndigheters bruk av det felles innførselsdokumentet om helse (CHED)
+
+1\. For hver forsendelse av de kategoriene av dyr og varer som er nevnt i artikkel 47 nr. 1, skal den driftsansvarlige som er ansvarlig for forsendelsen, fylle ut de relevante delene av det felles innførselsdokumentet om helse og angi de opplysningene som er nødvendige for øyeblikkelig og fullstendig identifikasjon av forsendelsen og dens bestemmelsessted.
+
+2\. Når det i denne forordning henvises til det felles innførselsdokumentet om helse, henvises det også til den elektroniske versjonen av dokumentet.
+
+3\. Det felles innførselsdokumentet om helse skal brukes avde driftsansvarlige som er ansvarlige for forsendelser av de kategoriene av dyr og varer som er nevnt i artikkel 47 nr. 1, for å gi forhåndsmelding til de vedkommende myndighetene på grensekontrollstasjonen om at disse forsendelsene ankommer, ogde vedkommende myndighetene på grensekontrollstasjonen for åregistrere resultatet av den offentlige kontrollen som er gjennomført, og eventuelle beslutninger som er truffet på grunnlag av det, herunder beslutninger om å avvise en forsendelse,oversende de opplysningene som er nevnt i punkt i), gjennom IMSOC.
+
+4\. De driftsansvarlige som er ansvarlige for forsendelsen, skal gi forhåndsmelding i samsvar med nr. 3 bokstav a) ved å fylle ut og sende inn den relevante delen av det felles innførselsdokumentet om helse til IMSOC for videresending til de vedkommende myndighetene på grensekontrollstasjonen, før forsendelsen fysisk ankommer Unionen.
+
+5\. De vedkommende myndighetene på grensekontrollstasjonen skal ferdigstille det felles innførselsdokumentet om helse så snartall offentlig kontroll som kreves i henhold til artikkel 49 nr. 1, er gjennomført,resultatene av den fysiske kontrollen foreligger, dersom slik kontroll er påkrevd, ogen beslutning om forsendelsen er blitt truffet i samsvar med artikkel 55 og angitt på det felles innførselsdokumentet om helse.
+
+###### Artikkel 57
+
+Tollmyndighetenes bruk av det felles innførselsdokumentet om helse (CHED)
+
+1\. For at forsendelser av de kategoriene av dyr og varer som er nevnt i artikkel 47 nr. 1, skal kunne underlegges en tollprosedyre og håndteres innenfor rammen av denne, herunder at de innføres eller håndteres i tollagre eller frisoner, må den driftsansvarlige som er ansvarlig for forsendelsen, framlegge det felles innførselsdokumentet om helse for tollmyndighetene, uten at det berører unntakene nevnt i artikkel 48 og reglene nevnt i artikkel 53 og 54. På dette stadiet skal det felles innførselsdokumentet om helse være behørig utfylt i IMSOC av de vedkommende myndighetene på grensekontrollstasjonen.
+
+2\. Tollmyndighetene skalikke tillate at en forsendelse underlegges en annen tollprosedyre enn den de vedkommende myndighetene på grensekontrollstasjonen har angitt, ogbare tillate at en forsendelse frigis for fri omsetning etter framlegging av et behørig utfylt innførselsdokument om helse som bekrefter at forsendelsen er i samsvar med gjeldende regler nevnt i artikkel 1 nr. 2, uten at det berører unntakene nevnt i artikkel 48 og reglene nevnt i artikkel 53 og 54.
+
+3\. Dersom en tolldeklarasjon gjelder en forsendelse av de kategoriene av dyr eller varer som er nevnt i artikkel 47 nr. 1, og det felles innførselsdokumentet om helse ikke framlegges, skal tollmyndighetene holde tilbake forsendelsen og umiddelbart underrette de vedkommende myndighetene på grensekontrollstasjonen. De vedkommende myndighetene skal treffe de tiltakene som er nødvendige i samsvar med artikkel 66 nr. 6.
+
+###### Artikkel 58
+
+Format, frister og særlige regler for bruk av det felles innførselsdokumentet om helse
 
 Kommisjonen skal ved hjelp av gjennomføringsrettsakter fastsette regler forformatet for det felles innførselsdokumentet om helse og veiledning om hvordan det skal framlegges og brukes, samtidig som det tas hensyn til relevante internasjonale standarder, ogminimumsfristen for forhåndsmelding om forsendelser fra driftsansvarlige som er ansvarlige for forsendelsen i henhold til artikkel 56 nr. 3 bokstav a), for å gjøre det mulig for de vedkommende myndighetene på grensekontrollstasjonen å gjennomføre offentlig kontroll i rett tid og på en effektiv måte.
 
 Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
 
-1. Medlemsstatene skal utpeke grensekontrollstasjoner som skal gjennomføre offentlig kontroll av én eller flere av de kategoriene av dyr og varer som er nevnt i artikkel 47 nr. 1.
+###### Artikkel 59
 
-2. Medlemsstatene skal underrette Kommisjonen før de utpeker en grensekontrollstasjon. Underretningen skal inneholde alle opplysningene som Kommisjonen trenger for å kunne verifisere at den foreslåtte grensekontrollstasjonen oppfyller minstekravene fastsatt i artikkel 64.
+Utpeking av grensekontrollstasjoner
 
-3. Senest tre måneder etter at underretningen nevnt i nr. 2 er mottatt, skal Kommisjonen informere medlemsstaten omhvorvidt utpekingen av den foreslåtte grensekontrollstasjonen avhenger av et gunstig resultat av en kontroll gjennomført av Kommisjonens sakkyndige i samsvar med artikkel 116 for å verifisere overholdelsen av minstekravene fastsatt i artikkel 64, ogdatoen for en slik kontroll, som ikke skal være senere enn seks måneder etter underretningen.
+1\. Medlemsstatene skal utpeke grensekontrollstasjoner som skal gjennomføre offentlig kontroll av én eller flere av de kategoriene av dyr og varer som er nevnt i artikkel 47 nr. 1.
 
-4. I de tilfellene der Kommisjonen i samsvar med nr. 3 har informert en medlemsstat om at det ikke er nødvendig med en kontroll, kan medlemsstaten gå videre med utpekingen.
+2\. Medlemsstatene skal underrette Kommisjonen før de utpeker en grensekontrollstasjon. Underretningen skal inneholde alle opplysningene som Kommisjonen trenger for å kunne verifisere at den foreslåtte grensekontrollstasjonen oppfyller minstekravene fastsatt i artikkel 64.
 
-5. Medlemsstaten skal utsette utpekingen av grensekontrollstasjonen inntil Kommisjonen har informert om at kontrollen hadde et gunstig resultat. Kommisjonen skal oversende resultatet av kontrollen nevnt i nr. 3 bokstav a) senest tre måneder etter datoen for kontrollen.
+3\. Senest tre måneder etter at underretningen nevnt i nr. 2 er mottatt, skal Kommisjonen informere medlemsstaten omhvorvidt utpekingen av den foreslåtte grensekontrollstasjonen avhenger av et gunstig resultat av en kontroll gjennomført av Kommisjonens sakkyndige i samsvar med artikkel 116 for å verifisere overholdelsen av minstekravene fastsatt i artikkel 64, ogdatoen for en slik kontroll, som ikke skal være senere enn seks måneder etter underretningen.
 
-1. Hver medlemsstat skal gjøre tilgjengelig på internett ajourførte lister over grensekontrollstasjoner på sitt territorium, med følgende opplysninger for hver grensekontrollstasjon:Kontaktopplysninger.Åpningstider.Nøyaktig beliggenhet og om innførselsstedet er en havn, lufthavn, jernbane eller vei.De kategoriene av dyr og varer nevnt i artikkel 47 nr. 1 som grensekontrollstasjonen er utpekt for.
+4\. I de tilfellene der Kommisjonen i samsvar med nr. 3 har informert en medlemsstat om at det ikke er nødvendig med en kontroll, kan medlemsstaten gå videre med utpekingen.
 
-2. Kommisjonen skal ved hjelp av gjennomføringsrettsakter fastsette regler for formatet, kategoriene, forkortelsene for betegnelser og andre opplysninger som skal brukes av medlemsstatene i listene over grensekontrollstasjoner. Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
+5\. Medlemsstaten skal utsette utpekingen av grensekontrollstasjonen inntil Kommisjonen har informert om at kontrollen hadde et gunstig resultat. Kommisjonen skal oversende resultatet av kontrollen nevnt i nr. 3 bokstav a) senest tre måneder etter datoen for kontrollen.
 
-1. Godkjenningen av grensekontrollstasjoner i samsvar med artikkel 6 i direktiv [97/78/EF](eu/31997l0078) og artikkel 6 i direktiv [91/496/EØF](eu/31991l0496*), utpekingen av innførselssteder i samsvar med artikkel 5 i forordning [(EF) nr. 669/2009](eu/32009r0669) og artikkel 13c nr. 4 i direktiv [2000/29/EF](eu/32000l0029*) samt utpekingen av første innførselssteder i samsvar med artikkel 5 i kommisjonsforordning [(EU) nr. 284/2011](eu/32011r0284)60 skal tilbakekalles.
+###### Artikkel 60
 
-2. De grensekontrollstasjonene, utpekte innførselsstedene, innførselsstedene og første innførselsstedene som er nevnt i nr. 1 i denne artikkel, kan utpekes på nytt som grensekontrollstasjoner av medlemsstatene i samsvar med artikkel 59 nr. 1, forutsatt at minstekravene nevnt i artikkel 64 er oppfylt.
+Liste over grensekontrollstasjoner
 
-3. Artikkel 59 nr. 2, 3 og 5 gjelder ikke for den utpekingen på nytt som er omhandlet i nr. 2 i denne artikkel.
+1\. Hver medlemsstat skal gjøre tilgjengelig på internett ajourførte lister over grensekontrollstasjoner på sitt territorium, med følgende opplysninger for hver grensekontrollstasjon:Kontaktopplysninger.Åpningstider.Nøyaktig beliggenhet og om innførselsstedet er en havn, lufthavn, jernbane eller vei.De kategoriene av dyr og varer nevnt i artikkel 47 nr. 1 som grensekontrollstasjonen er utpekt for.
 
-1. Dersom grensekontrollstasjoner ikke lenger oppfyller kravene nevnt i artikkel 64, skal medlemsstatenetilbakekalle utpekingen fastsatt i artikkel 59 nr. 1 for alle eller visse kategorier av dyr og varer som utpekingen omfattet, ogslette disse grensekontrollstasjonene fra listene nevnt i artikkel 60 nr. 1 for de kategoriene av dyr og varer som utpekingen tilbakekalles for.
+2\. Kommisjonen skal ved hjelp av gjennomføringsrettsakter fastsette regler for formatet, kategoriene, forkortelsene for betegnelser og andre opplysninger som skal brukes av medlemsstatene i listene over grensekontrollstasjoner. Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
 
-2. Medlemsstatene skal informere Kommisjonen og de andre medlemsstatene om tilbakekallingen av utpekingen av en grensekontrollstasjon som fastsatt i nr. 1 og om årsakene til tilbakekallingen.
+###### Artikkel 61
 
-3. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 144 for å utfylle denne forordning med hensyn til i hvilke tilfeller og etter hvilke framgangsmåter grensekontrollstasjoner som har fått utpekingen bare delvis tilbakekalt i samsvar med nr. 1 bokstav a) i denne artikkel, kan utpekes på nytt som unntak fra artikkel 59.
+Tilbakekalling av godkjenninger og utpeking på nytt av eksisterende grensekontrollenheter
 
-4. Denne artikkel skal ikke berøre medlemsstatenes myndighet til å beslutte å tilbakekalle utpekingen av grensekontrollstasjoner av andre årsaker enn dem som er nevnt i denne forordning.
+1\. Godkjenningen av grensekontrollstasjoner i samsvar med artikkel 6 i direktiv [97/78/EF](eu/31997l0078) og artikkel 6 i direktiv [91/496/EØF](eu/31991l0496*), utpekingen av innførselssteder i samsvar med artikkel 5 i forordning [(EF) nr. 669/2009](eu/32009r0669) og artikkel 13c nr. 4 i direktiv [2000/29/EF](eu/32000l0029*) samt utpekingen av første innførselssteder i samsvar med artikkel 5 i kommisjonsforordning [(EU) nr. 284/2011](eu/32011r0284)60 skal tilbakekalles.
 
-1. En medlemsstat skal midlertidig tilbakekalle utpekingen av en grensekontrollstasjon og gi pålegg om at virksomheten stanses for alle eller visse kategorier av dyr og varer som utpekingen omfatter, i tilfeller der denne virksomheten kan føre til risiko for menneskers eller dyrs helse, for plantehelsen eller dyrevelferden eller, når det gjelder genmodifiserte organismer og plantevernmidler, for miljøet. Ved alvorlig risiko skal den midlertidige tilbakekallingen skje med umiddelbar virkning.
+2\. De grensekontrollstasjonene, utpekte innførselsstedene, innførselsstedene og første innførselsstedene som er nevnt i nr. 1 i denne artikkel, kan utpekes på nytt som grensekontrollstasjoner av medlemsstatene i samsvar med artikkel 59 nr. 1, forutsatt at minstekravene nevnt i artikkel 64 er oppfylt.
 
-2. Medlemsstatene skal umiddelbart informere Kommisjonen og de andre medlemsstatene om enhver midlertidig tilbakekalling av utpekingen av en grensekontrollstasjon og om årsakene til den midlertidige tilbakekallingen.
+3\. Artikkel 59 nr. 2, 3 og 5 gjelder ikke for den utpekingen på nytt som er omhandlet i nr. 2 i denne artikkel.
 
-3. Medlemsstatene skal opplyse om den midlertidige tilbakekallingen av utpekingen av en grensekontrollstasjon på listene nevnt i artikkel 60 nr. 1.
+60 Kommisjonsforordning [(EU) nr. 284/2011](eu/32011r0284) av 22. mars 2011 om fastsettelse av særlige vilkår og nærmere regler for import av kjøkkenutstyr i plast av polyamid og melamin med opprinnelse i eller sendt fra Folkerepublikken Kina og Kinas spesielle administrative region Hongkong (EUT L 77 av 23.3.2011, s. 25).
 
-4. Medlemsstatene skal oppheve den midlertidige tilbakekallingen nevnt i nr. 1 så snartde vedkommende myndighetene finner det godtgjort at risikoen nevnt i nr. 1 har opphørt, ogde har underrettet Kommisjonen og de andre medlemsstatene om opplysningene som ligger til grunn for å oppheve den midlertidige tilbakekallingen.
+###### Artikkel 62
 
-5. Denne artikkel skal ikke berøre medlemsstatenes myndighet til å beslutte å midlertidig tilbakekalle utpekingen av grensekontrollstasjoner av andre årsaker enn dem som er nevnt i denne forordning.
+Tilbakekalling av utpekingen av grensekontrollstasjoner
 
-1. Grensekontrollstasjoner skal ligge i umiddelbar nærhet av innførselsstedet til Unionen og enten på et sted som er utpekt av tollmyndighetene i samsvar med artikkel 135 nr. 1 og 2 i forordning [(EU) nr. 952/2013](eu/32013r0952*), eller i en frisone.
+1\. Dersom grensekontrollstasjoner ikke lenger oppfyller kravene nevnt i artikkel 64, skal medlemsstatenetilbakekalle utpekingen fastsatt i artikkel 59 nr. 1 for alle eller visse kategorier av dyr og varer som utpekingen omfattet, ogslette disse grensekontrollstasjonene fra listene nevnt i artikkel 60 nr. 1 for de kategoriene av dyr og varer som utpekingen tilbakekalles for.
 
-2. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 144 for å utfylle denne forordning med hensyn til i hvilke tilfeller og på hvilke vilkår en grensekontrollstasjon kan ligge i en annen avstand enn i umiddelbar nærhet av innførselsstedet til Unionen ved særlige geografiske begrensninger.
+2\. Medlemsstatene skal informere Kommisjonen og de andre medlemsstatene om tilbakekallingen av utpekingen av en grensekontrollstasjon som fastsatt i nr. 1 og om årsakene til tilbakekallingen.
 
-3. Grensekontrollstasjonene skal haet tilstrekkelig stort personale med egnede kvalifikasjoner,lokaler eller andre anlegg som er tilpasset arten og omfanget av kategoriene av dyr og varer som håndteres,utstyr og lokaler eller andre anlegg som gjør det mulig å gjennomføre offentlig kontroll av hver av de kategoriene av dyr og varer som grensekontrollstasjonen er blitt utpekt for,ordninger som ved behov sikrer tilgang til eventuelt annet utstyr, andre lokaler og andre tjenester som er nødvendige for å iverksette de tiltakene som treffes i samsvar med artikkel 65, 66 og 67 ved mistanke om manglende overholdelse, manglende overholdelse i forbindelse med forsendelser og forsendelser som utgjør en risiko,beredskapsplaner som sikrer velfungerende offentlig kontroll og effektiv iverksetting av de tiltakene som treffes i samsvar med artikkel 65, 66 og 67, ved uforutsette og uventede forhold eller hendelser,teknologien og utstyret som er nødvendig for effektiv drift av IMSOC og, alt etter hva som er relevant, andre databaserte informasjonsstyringssystemer som er nødvendige for å håndtere og utveksle data og opplysninger,tilgang til tjenester fra offentlige laboratorier som innen rimelige frister kan levere analyse-, undersøkelses- og diagnostiseringsresultater, og som er utstyrt med de informasjonsteknologiske verktøyene som kreves for å sikre at resultatene av analyser, undersøkelser eller diagnostiseringer legges inn i IMSOC, alt etter hva som er relevant,egnede ordninger for korrekt håndtering av ulike kategorier av dyr og varer og for å forebygge risikoer som kan oppstå som følge av krysskontaminering, ogordninger for å overholde gjeldende standarder for biosikkerhet for å hindre spredning av sykdommer til Unionen.
+3\. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 144 for å utfylle denne forordning med hensyn til i hvilke tilfeller og etter hvilke framgangsmåter grensekontrollstasjoner som har fått utpekingen bare delvis tilbakekalt i samsvar med nr. 1 bokstav a) i denne artikkel, kan utpekes på nytt som unntak fra artikkel 59.
 
-4. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette nærmere regler for kravene i henhold til nr. 3 i denne artikkel for å ta hensyn til særtrekk og logistikkbehov knyttet til gjennomføringen av offentlig kontroll og bruken av de tiltakene som treffes i samsvar med artikkel 66 nr. 3 og 6 og artikkel 67, når det gjelder de ulike kategoriene av dyr og varer som er nevnt i artikkel 47 nr. 1. Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
+4\. Denne artikkel skal ikke berøre medlemsstatenes myndighet til å beslutte å tilbakekalle utpekingen av grensekontrollstasjoner av andre årsaker enn dem som er nevnt i denne forordning.
 
-5. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 144 for å utfylle denne forordning med hensyn til i hvilke tilfeller og på hvilke vilkår grensekontrollstasjoner som er utpekt for import av ubearbeidet tømmer, saget tre eller treflis, kan unntas fra én eller flere av forpliktelsene nevnt i nr. 3 i denne artikkel for å ta hensyn til behovene til vedkommende myndigheter med ansvar for offentlig kontroll som arbeider under særlige geografiske begrensninger, samtidig som det sikres at kontrollen gjennomføres på riktig måte.
+###### Artikkel 63
 
-1. Ved mistanke om manglende overholdelse av reglene nevnt i artikkel 1 nr. 2 i forbindelse med forsendelser av de kategoriene av dyr og varer som er nevnt i artikkel 44 nr. 1 og artikkel 47 nr. 1, skal de vedkommende myndighetene gjennomføre offentlig kontroll for å bekrefte eller avkrefte mistanken.
+Midlertidig tilbakekalling av utpekingen av grensekontrollstasjoner
 
-2. De vedkommende myndighetene skal gjennomføre offentlig kontroll av forsendelser av dyr og varer som ifølge den driftsansvarlige ikke består av de kategoriene av dyr og varer som er nevnt i artikkel 47 nr. 1, når det er grunn til å tro at slike kategorier av dyr eller varer finnes i forsendelsen.
+1\. En medlemsstat skal midlertidig tilbakekalle utpekingen av en grensekontrollstasjon og gi pålegg om at virksomheten stanses for alle eller visse kategorier av dyr og varer som utpekingen omfatter, i tilfeller der denne virksomheten kan føre til risiko for menneskers eller dyrs helse, for plantehelsen eller dyrevelferden eller, når det gjelder genmodifiserte organismer og plantevernmidler, for miljøet. Ved alvorlig risiko skal den midlertidige tilbakekallingen skje med umiddelbar virkning.
 
-3. De vedkommende myndighetene skal holde tilbake forsendelsene nevnt i nr. 1 og 2 i påvente av resultatet av den offentlige kontrollen fastsatt i nevnte numre.Dersom det er relevant, skal disse forsendelsene isoleres eller settes i karantene, og dyrene skal oppstalles, få fôr og vann samt behandling ved behov, i påvente av resultatet av den offentlige kontrollen.
+2\. Medlemsstatene skal umiddelbart informere Kommisjonen og de andre medlemsstatene om enhver midlertidig tilbakekalling av utpekingen av en grensekontrollstasjon og om årsakene til den midlertidige tilbakekallingen.
 
-4. Dersom de vedkommende myndighetene har grunn til å mistenke bedrageri eller villedende praksis hos en driftsansvarlig som er ansvarlig for forsendelsen, eller den offentlige kontrollen gir grunn til å tro at reglene nevnt i artikkel 1 nr. 2 i alvorlig grad eller gjentatte ganger har blitt overtrådt, skal de, når det er hensiktsmessig, og i tillegg til tiltakene fastsatt i artikkel 66 nr. 3, på egnet måte skjerpe den offentlige kontrollen av forsendelser med samme opprinnelse eller bruksområde.
+3\. Medlemsstatene skal opplyse om den midlertidige tilbakekallingen av utpekingen av en grensekontrollstasjon på listene nevnt i artikkel 60 nr. 1.
 
-5. De vedkommende myndighetene skal underrette Kommisjonen og medlemsstatene gjennom IMSOC om sin beslutning om å gjennomføre skjerpet offentlig kontroll i henhold til nr. 4 i denne artikkel, og begrunne beslutningen.
+4\. Medlemsstatene skal oppheve den midlertidige tilbakekallingen nevnt i nr. 1 så snartde vedkommende myndighetene finner det godtgjort at risikoen nevnt i nr. 1 har opphørt, ogde har underrettet Kommisjonen og de andre medlemsstatene om opplysningene som ligger til grunn for å oppheve den midlertidige tilbakekallingen.
 
-6. Kommisjonen skal ved hjelp av gjennomføringsrettsakter fastsette regler for hvordan de vedkommende myndighetene skal samordne gjennomføringen av den skjerpede offentlige kontrollen nevnt i nr. 4 og 5 i denne artikkel. Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
+5\. Denne artikkel skal ikke berøre medlemsstatenes myndighet til å beslutte å midlertidig tilbakekalle utpekingen av grensekontrollstasjoner av andre årsaker enn dem som er nevnt i denne forordning.
 
-1. De vedkommende myndighetene skal holde tilbake alle forsendelser av dyr eller varer som innføres til Unionen og ikke overholder reglene nevnt i artikkel 1 nr. 2, og skal nekte innførselen av dem til Unionen.Alt etter hva som er relevant, skal de vedkommende myndighetene isolere eller sette i karantene slike forsendelser, og dyrene som inngår i dem, skal oppstalles, stelles eller behandles under egnede forhold i påvente av videre beslutning. Dersom det er mulig, skal de vedkommende myndighetene også ta hensyn til behovet for å utvise særlig forsiktighet når det gjelder visse varetyper.
+###### Artikkel 64
 
-2. Kommisjonen skal ved hjelp av gjennomføringsrettsakter fastsette regler for de praktiske ordningene for isoleringen og karantenen fastsatt i nr. 1 annet ledd i denne artikkel. Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
+Minstekrav til grensekontrollstasjoner
 
-3. Når det gjelder forsendelsen nevnt i nr. 1, skal vedkommende myndighet umiddelbart pålegge den driftsansvarlige som er ansvarlig for forsendelsen, ådestruere forsendelsen,videresende forsendelsen til et sted utenfor Unionen i samsvar med artikkel 72 nr. 1 og 2, ellerunderlegge forsendelsen særbehandling i samsvar med artikkel 71 nr. 1 og 2 eller eventuelle andre tiltak som er nødvendige for å sikre overholdelsen av reglene nevnt i artikkel 1 nr. 2, og, dersom det er relevant, la forsendelsen brukes til andre formål enn dem den opprinnelig var beregnet på.Eventuelle tiltak nevnt i første ledd bokstav a), b) og c) skal gjennomføres i samsvar med reglene nevnt i artikkel 1 nr. 2, særlig, når det gjelder forsendelser av levende dyr, reglene for å skåne dyr mot all smerte, belastning og lidelse som kan unngås.Dersom forsendelsen består av planter, planteprodukter eller andre gjenstander, skal første ledd bokstav a), b) og c) gjelde enten på forsendelsen eller på partier av den.Før den driftsansvarlige pålegges å treffe tiltak i samsvar med første ledd bokstav a), b) og c), skal vedkommende myndighet høre den berørte driftsansvarlige, med mindre umiddelbare tiltak er nødvendig for å håndtere en risiko for menneskers eller dyrs helse, for plantehelsen eller dyrevelferden eller, når det gjelder genmodifiserte organismer og plantevernmidler, for miljøet.
+1\. Grensekontrollstasjoner skal ligge i umiddelbar nærhet av innførselsstedet til Unionen og enten på et sted som er utpekt av tollmyndighetene i samsvar med artikkel 135 nr. 1 og 2 i forordning [(EU) nr. 952/2013](eu/32013r0952*), eller i en frisone.
 
-4. Dersom den vedkommende myndigheten pålegger den driftsansvarlige å treffe ett eller flere av tiltakene fastsatt i nr. 3 første ledd bokstav a), b) eller c), kan denne myndigheten unntaksvis tillate at tiltaket treffes for bare en del av forsendelsen, forutsatt at den delvise destrueringen, videresendingen, særbehandlingen eller andre tiltaker av en slik art at det sikrer overholdelse,ikke utgjør en risiko for menneskers eller dyrs helse, for plantehelsen eller dyrevelferden eller, når det gjelder genmodifiserte organismer og plantevernmidler, for miljøet, ogikke forstyrrer gjennomføringen av den offentlige kontrollen.
+2\. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 144 for å utfylle denne forordning med hensyn til i hvilke tilfeller og på hvilke vilkår en grensekontrollstasjon kan ligge i en annen avstand enn i umiddelbar nærhet av innførselsstedet til Unionen ved særlige geografiske begrensninger.
 
-5. De vedkommende myndighetene skal umiddelbart underrette følgende parter om eventuelle beslutninger om å nekte innførsel av en forsendelse som fastsatt i nr. 1 i denne artikkel, og om eventuelle pålegg som er gitt i samsvar med nr. 3 og 6 i denne artikkel og artikkel 67:Kommisjonen.De vedkommende myndighetene i medlemsstatene.Tollmyndighetene.De vedkommende myndighetene i opprinnelsestredjestaten.Den driftsansvarlige som er ansvarlig for forsendelsen.Underretningen skal skje via IMSOC.
+3\. Grensekontrollstasjonene skal haet tilstrekkelig stort personale med egnede kvalifikasjoner,lokaler eller andre anlegg som er tilpasset arten og omfanget av kategoriene av dyr og varer som håndteres,utstyr og lokaler eller andre anlegg som gjør det mulig å gjennomføre offentlig kontroll av hver av de kategoriene av dyr og varer som grensekontrollstasjonen er blitt utpekt for,ordninger som ved behov sikrer tilgang til eventuelt annet utstyr, andre lokaler og andre tjenester som er nødvendige for å iverksette de tiltakene som treffes i samsvar med artikkel 65, 66 og 67 ved mistanke om manglende overholdelse, manglende overholdelse i forbindelse med forsendelser og forsendelser som utgjør en risiko,beredskapsplaner som sikrer velfungerende offentlig kontroll og effektiv iverksetting av de tiltakene som treffes i samsvar med artikkel 65, 66 og 67, ved uforutsette og uventede forhold eller hendelser,teknologien og utstyret som er nødvendig for effektiv drift av IMSOC og, alt etter hva som er relevant, andre databaserte informasjonsstyringssystemer som er nødvendige for å håndtere og utveksle data og opplysninger,tilgang til tjenester fra offentlige laboratorier som innen rimelige frister kan levere analyse-, undersøkelses- og diagnostiseringsresultater, og som er utstyrt med de informasjonsteknologiske verktøyene som kreves for å sikre at resultatene av analyser, undersøkelser eller diagnostiseringer legges inn i IMSOC, alt etter hva som er relevant,egnede ordninger for korrekt håndtering av ulike kategorier av dyr og varer og for å forebygge risikoer som kan oppstå som følge av krysskontaminering, ogordninger for å overholde gjeldende standarder for biosikkerhet for å hindre spredning av sykdommer til Unionen.
 
-6. Dersom en forsendelse av de kategoriene av dyr eller varer som er nevnt i artikkel 47 nr. 1, ikke framvises for den offentlige kontrollen omhandlet i nevnte artikkel, eller ikke framvises i samsvar med kravene fastsatt i artikkel 50 nr. 1 og 3, artikkel 56 nr. 1, 3 og 4 eller med reglene vedtatt etter artikkel 48, artikkel 49 nr. 4, artikkel 51, artikkel 53 nr. 1 og artikkel 58, skal de vedkommende myndighetene gi pålegg om at forsendelsen stanses eller tilbakekalles, og at den holdes tilbake med øyeblikkelig virkning.Nr. 1, 3 og 5 i denne artikkel gjelder for slike forsendelser.
+4\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette nærmere regler for kravene i henhold til nr. 3 i denne artikkel for å ta hensyn til særtrekk og logistikkbehov knyttet til gjennomføringen av offentlig kontroll og bruken av de tiltakene som treffes i samsvar med artikkel 66 nr. 3 og 6 og artikkel 67, når det gjelder de ulike kategoriene av dyr og varer som er nevnt i artikkel 47 nr. 1. Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
 
-7. Den driftsansvarlige som er ansvarlig for sendingen, skal bære kostnadene for tiltakene nevnt i denne artikkel.
+5\. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 144 for å utfylle denne forordning med hensyn til i hvilke tilfeller og på hvilke vilkår grensekontrollstasjoner som er utpekt for import av ubearbeidet tømmer, saget tre eller treflis, kan unntas fra én eller flere av forpliktelsene nevnt i nr. 3 i denne artikkel for å ta hensyn til behovene til vedkommende myndigheter med ansvar for offentlig kontroll som arbeider under særlige geografiske begrensninger, samtidig som det sikres at kontrollen gjennomføres på riktig måte.
+
+###### Avsnitt III
+
+Tiltak ved mistanke om manglende overholdelse og ved manglende overholdelse i forbindelse med dyr og varer som innføres til Unionen
+
+###### Artikkel 65
+
+Mistanke om manglende overholdelse og skjerpet offentlig kontroll
+
+1\. Ved mistanke om manglende overholdelse av reglene nevnt i artikkel 1 nr. 2 i forbindelse med forsendelser av de kategoriene av dyr og varer som er nevnt i artikkel 44 nr. 1 og artikkel 47 nr. 1, skal de vedkommende myndighetene gjennomføre offentlig kontroll for å bekrefte eller avkrefte mistanken.
+
+2\. De vedkommende myndighetene skal gjennomføre offentlig kontroll av forsendelser av dyr og varer som ifølge den driftsansvarlige ikke består av de kategoriene av dyr og varer som er nevnt i artikkel 47 nr. 1, når det er grunn til å tro at slike kategorier av dyr eller varer finnes i forsendelsen.
+
+3\. De vedkommende myndighetene skal holde tilbake forsendelsene nevnt i nr. 1 og 2 i påvente av resultatet av den offentlige kontrollen fastsatt i nevnte numre.Dersom det er relevant, skal disse forsendelsene isoleres eller settes i karantene, og dyrene skal oppstalles, få fôr og vann samt behandling ved behov, i påvente av resultatet av den offentlige kontrollen.
+
+4\. Dersom de vedkommende myndighetene har grunn til å mistenke bedrageri eller villedende praksis hos en driftsansvarlig som er ansvarlig for forsendelsen, eller den offentlige kontrollen gir grunn til å tro at reglene nevnt i artikkel 1 nr. 2 i alvorlig grad eller gjentatte ganger har blitt overtrådt, skal de, når det er hensiktsmessig, og i tillegg til tiltakene fastsatt i artikkel 66 nr. 3, på egnet måte skjerpe den offentlige kontrollen av forsendelser med samme opprinnelse eller bruksområde.
+
+5\. De vedkommende myndighetene skal underrette Kommisjonen og medlemsstatene gjennom IMSOC om sin beslutning om å gjennomføre skjerpet offentlig kontroll i henhold til nr. 4 i denne artikkel, og begrunne beslutningen.
+
+6\. Kommisjonen skal ved hjelp av gjennomføringsrettsakter fastsette regler for hvordan de vedkommende myndighetene skal samordne gjennomføringen av den skjerpede offentlige kontrollen nevnt i nr. 4 og 5 i denne artikkel. Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
+
+###### Artikkel 66
+
+Tiltak som skal treffes ved manglende overholdelse i forbindelse med forsendelser som innføres til Unionen
+
+1\. De vedkommende myndighetene skal holde tilbake alle forsendelser av dyr eller varer som innføres til Unionen og ikke overholder reglene nevnt i artikkel 1 nr. 2, og skal nekte innførselen av dem til Unionen.Alt etter hva som er relevant, skal de vedkommende myndighetene isolere eller sette i karantene slike forsendelser, og dyrene som inngår i dem, skal oppstalles, stelles eller behandles under egnede forhold i påvente av videre beslutning. Dersom det er mulig, skal de vedkommende myndighetene også ta hensyn til behovet for å utvise særlig forsiktighet når det gjelder visse varetyper.
+
+2\. Kommisjonen skal ved hjelp av gjennomføringsrettsakter fastsette regler for de praktiske ordningene for isoleringen og karantenen fastsatt i nr. 1 annet ledd i denne artikkel. Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
+
+3\. Når det gjelder forsendelsen nevnt i nr. 1, skal vedkommende myndighet umiddelbart pålegge den driftsansvarlige som er ansvarlig for forsendelsen, ådestruere forsendelsen,videresende forsendelsen til et sted utenfor Unionen i samsvar med artikkel 72 nr. 1 og 2, ellerunderlegge forsendelsen særbehandling i samsvar med artikkel 71 nr. 1 og 2 eller eventuelle andre tiltak som er nødvendige for å sikre overholdelsen av reglene nevnt i artikkel 1 nr. 2, og, dersom det er relevant, la forsendelsen brukes til andre formål enn dem den opprinnelig var beregnet på.Eventuelle tiltak nevnt i første ledd bokstav a), b) og c) skal gjennomføres i samsvar med reglene nevnt i artikkel 1 nr. 2, særlig, når det gjelder forsendelser av levende dyr, reglene for å skåne dyr mot all smerte, belastning og lidelse som kan unngås.Dersom forsendelsen består av planter, planteprodukter eller andre gjenstander, skal første ledd bokstav a), b) og c) gjelde enten på forsendelsen eller på partier av den.Før den driftsansvarlige pålegges å treffe tiltak i samsvar med første ledd bokstav a), b) og c), skal vedkommende myndighet høre den berørte driftsansvarlige, med mindre umiddelbare tiltak er nødvendig for å håndtere en risiko for menneskers eller dyrs helse, for plantehelsen eller dyrevelferden eller, når det gjelder genmodifiserte organismer og plantevernmidler, for miljøet.
+
+4\. Dersom den vedkommende myndigheten pålegger den driftsansvarlige å treffe ett eller flere av tiltakene fastsatt i nr. 3 første ledd bokstav a), b) eller c), kan denne myndigheten unntaksvis tillate at tiltaket treffes for bare en del av forsendelsen, forutsatt at den delvise destrueringen, videresendingen, særbehandlingen eller andre tiltaker av en slik art at det sikrer overholdelse,ikke utgjør en risiko for menneskers eller dyrs helse, for plantehelsen eller dyrevelferden eller, når det gjelder genmodifiserte organismer og plantevernmidler, for miljøet, ogikke forstyrrer gjennomføringen av den offentlige kontrollen.
+
+5\. De vedkommende myndighetene skal umiddelbart underrette følgende parter om eventuelle beslutninger om å nekte innførsel av en forsendelse som fastsatt i nr. 1 i denne artikkel, og om eventuelle pålegg som er gitt i samsvar med nr. 3 og 6 i denne artikkel og artikkel 67:Kommisjonen.De vedkommende myndighetene i medlemsstatene.Tollmyndighetene.De vedkommende myndighetene i opprinnelsestredjestaten.Den driftsansvarlige som er ansvarlig for forsendelsen.Underretningen skal skje via IMSOC.
+
+6\. Dersom en forsendelse av de kategoriene av dyr eller varer som er nevnt i artikkel 47 nr. 1, ikke framvises for den offentlige kontrollen omhandlet i nevnte artikkel, eller ikke framvises i samsvar med kravene fastsatt i artikkel 50 nr. 1 og 3, artikkel 56 nr. 1, 3 og 4 eller med reglene vedtatt etter artikkel 48, artikkel 49 nr. 4, artikkel 51, artikkel 53 nr. 1 og artikkel 58, skal de vedkommende myndighetene gi pålegg om at forsendelsen stanses eller tilbakekalles, og at den holdes tilbake med øyeblikkelig virkning.Nr. 1, 3 og 5 i denne artikkel gjelder for slike forsendelser.
+
+7\. Den driftsansvarlige som er ansvarlig for sendingen, skal bære kostnadene for tiltakene nevnt i denne artikkel.
+
+###### Artikkel 67
+
+Tiltak som skal treffes i forbindelse med innførsel til Unionen av dyr eller varer som utgjør en risiko
 
 Dersom offentlig kontroll viser at en forsendelse av dyr eller varer utgjør en risiko for menneskers eller dyrs helse, for plantehelsen eller dyrevelferden eller, når det gjelder genmodifiserte organismer og plantevernmidler, for miljøet, skal forsendelsen isoleres eller settes i karantene, og dyrene som inngår i den, skal oppstalles, stelles eller behandles under egnede forhold i påvente av videre beslutning.
 
@@ -674,184 +1088,294 @@ De vedkommende myndighetene skal holde tilbake den aktuelle forsendelsen og umid
 
 Den driftsansvarlige som er ansvarlig for sendingen, skal bære kostnadene for tiltakene nevnt i denne artikkel.
 
-1. De vedkommende myndighetene skalerklære for ugyldige de offisielle sertifikatene og eventuelle andre relevante dokumenter som ledsager forsendelser som har vært omfattet av tiltak i henhold til artikkel 66 nr. 3 og 6 og artikkel 67, ogsamarbeide i samsvar med artikkel 102–108 for å treffe eventuelle ytterligere nødvendige tiltak for å sikre at det ikke er mulig å gjeninnføre til Unionen forsendelser som er blitt nektet innførsel i samsvar med artikkel 66 nr. 1.
+###### Artikkel 68
 
-2. De vedkommende myndighetene i medlemsstaten der den offentlige kontrollen ble gjennomført, skal føre tilsyn med bruken av de tiltakene som pålegges etter artikkel 66 nr. 3 og 6 og artikkel 67, for å sikre at forsendelsen, under bruken av disse tiltakene eller i påvente av at de tas i bruk, ikke fører til skadevirkninger på menneskers eller dyrs helse, på plantehelsen, dyrevelferden eller miljøet.Dersom det er relevant, skal disse tiltakene brukes under tilsyn av de vedkommende myndighetene i en annen medlemsstat.
+Oppfølging av beslutninger som treffes i forbindelse med innførsel til Unionen fra tredjestater av forsendelser som viser manglende overholdelse
 
-1. Den driftsansvarlige som er ansvarlig for forsendelsen, skal gjennomføre alle de tiltakene som vedkommende myndigheter har pålagt i samsvar med artikkel 66 nr. 3 og 6 og artikkel 67, umiddelbart og senest 60 dager etter datoen da de vedkommende myndighetene underrettet den berørte driftsansvarlige om sin beslutning i samsvar med artikkel 66 nr. 5. De vedkommende myndighetene kan fastsette en kortere frist enn 60 dager.
+1\. De vedkommende myndighetene skalerklære for ugyldige de offisielle sertifikatene og eventuelle andre relevante dokumenter som ledsager forsendelser som har vært omfattet av tiltak i henhold til artikkel 66 nr. 3 og 6 og artikkel 67, ogsamarbeide i samsvar med artikkel 102–108 for å treffe eventuelle ytterligere nødvendige tiltak for å sikre at det ikke er mulig å gjeninnføre til Unionen forsendelser som er blitt nektet innførsel i samsvar med artikkel 66 nr. 1.
 
-2. Dersom den berørte driftsansvarlige ikke har truffet noen tiltak etter utløpet av den fristen som er nevnt i nr. 1, skal de vedkommende myndighetene gi pålegg omat forsendelsen destrueres eller underlegges andre hensiktsmessige tiltak,i tilfellene nevnt i artikkel 67, at forsendelsen destrueres i egnede anlegg som ligger nærmest mulig grensekontrollstasjonen, samtidig som alle nødvendige tiltak treffes for å verne menneskers eller dyrs helse, plantehelsen, dyrevelferden eller miljøet.
+2\. De vedkommende myndighetene i medlemsstaten der den offentlige kontrollen ble gjennomført, skal føre tilsyn med bruken av de tiltakene som pålegges etter artikkel 66 nr. 3 og 6 og artikkel 67, for å sikre at forsendelsen, under bruken av disse tiltakene eller i påvente av at de tas i bruk, ikke fører til skadevirkninger på menneskers eller dyrs helse, på plantehelsen, dyrevelferden eller miljøet.Dersom det er relevant, skal disse tiltakene brukes under tilsyn av de vedkommende myndighetene i en annen medlemsstat.
 
-3. Vedkommende myndigheter kan forlenge fristen nevnt i nr. 1 og 2 i denne artikkel med den tiden det tar å innhente resultatet av uttalelsen fra den andre sakkyndige som nevnt i artikkel 35, forutsatt at det er uten skadevirkninger for menneskers og dyrs helse, for plantehelsen eller dyrevelferden eller, når det gjelder genmodifiserte organismer og plantevernmidler, for miljøet.
+###### Artikkel 69
 
-4. Den driftsansvarlige som er ansvarlig for sendingen, skal bære kostnadene for tiltakene nevnt i denne artikkel.
+Den driftsansvarliges manglende bruk av tiltak pålagt av vedkommende myndigheter
+
+1\. Den driftsansvarlige som er ansvarlig for forsendelsen, skal gjennomføre alle de tiltakene som vedkommende myndigheter har pålagt i samsvar med artikkel 66 nr. 3 og 6 og artikkel 67, umiddelbart og senest 60 dager etter datoen da de vedkommende myndighetene underrettet den berørte driftsansvarlige om sin beslutning i samsvar med artikkel 66 nr. 5. De vedkommende myndighetene kan fastsette en kortere frist enn 60 dager.
+
+2\. Dersom den berørte driftsansvarlige ikke har truffet noen tiltak etter utløpet av den fristen som er nevnt i nr. 1, skal de vedkommende myndighetene gi pålegg omat forsendelsen destrueres eller underlegges andre hensiktsmessige tiltak,i tilfellene nevnt i artikkel 67, at forsendelsen destrueres i egnede anlegg som ligger nærmest mulig grensekontrollstasjonen, samtidig som alle nødvendige tiltak treffes for å verne menneskers eller dyrs helse, plantehelsen, dyrevelferden eller miljøet.
+
+3\. Vedkommende myndigheter kan forlenge fristen nevnt i nr. 1 og 2 i denne artikkel med den tiden det tar å innhente resultatet av uttalelsen fra den andre sakkyndige som nevnt i artikkel 35, forutsatt at det er uten skadevirkninger for menneskers og dyrs helse, for plantehelsen eller dyrevelferden eller, når det gjelder genmodifiserte organismer og plantevernmidler, for miljøet.
+
+4\. Den driftsansvarlige som er ansvarlig for sendingen, skal bære kostnadene for tiltakene nevnt i denne artikkel.
+
+###### Artikkel 70
+
+Ensartet anvendelse av artikkel 66, 67 og 68
 
 Kommisjonen skal ved hjelp av gjennomføringsrettsakter fastsette regler for å sikre at alle grensekontrollstasjonene nevnt i artikkel 59 nr. 1 og alle kontrollstedene nevnt i artikkel 53 nr. 1 bokstav a), på en ensartet måte anvender de beslutningene og tiltakene de vedkommende myndighetene har truffet og de påleggene de har gitt i samsvar med artikkel 66, 67 og 68, som de vedkommende myndighetene skal følge når de håndterer vanlige eller gjentatte tilfeller av manglende overholdelse eller risiko. Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
 
-1. Særbehandlingen av forsendelser fastsatt i artikkel 66 nr. 3 bokstav c) og artikkel 67 bokstav b) kan, alt etter hva som er relevant, omfattebehandling eller foredling, herunder eventuell dekontaminering, men ikke fortynning, slik at forsendelsen oppfyller kravene i reglene nevnt i artikkel 1 nr. 2 eller kravene i en tredjestat som produktene videresendes til, elleren annen form for behandling som gjør at forsendelsen trygt kan brukes til fôr eller konsum eller til andre formål enn fôr eller konsum.
+###### Artikkel 71
 
-2. Særbehandlingen fastsatt i nr. 1 skalutføres effektivt og sikre fjerning av enhver risiko for menneskers eller dyrs helse, for plantehelsen eller dyrevelferden eller, når det gjelder genmodifiserte organismer og plantevernmidler, for miljøet,dokumenteres og utføres under de vedkommende myndighetenes kontroll eller, dersom det er relevant, under kontroll av de vedkommende myndighetene i en annen medlemsstat etter gjensidig avtale, ogoppfylle kravene fastsatt i reglene nevnt i artikkel 1 nr. 2.
+Særbehandling av forsendelser
 
-3. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 144 for å utfylle denne forordning med hensyn til de kravene og vilkårene som gjelder for særbehandlingen fastsatt i nr. 1 i denne artikkel.I mangel av regler vedtatt ved delegerte rettsakter skal slik særbehandling finne sted i samsvar med nasjonal rett.
+1\. Særbehandlingen av forsendelser fastsatt i artikkel 66 nr. 3 bokstav c) og artikkel 67 bokstav b) kan, alt etter hva som er relevant, omfattebehandling eller foredling, herunder eventuell dekontaminering, men ikke fortynning, slik at forsendelsen oppfyller kravene i reglene nevnt i artikkel 1 nr. 2 eller kravene i en tredjestat som produktene videresendes til, elleren annen form for behandling som gjør at forsendelsen trygt kan brukes til fôr eller konsum eller til andre formål enn fôr eller konsum.
 
-1. De vedkommende myndighetene skal tillate videresending av forsendelser, forutsatt at følgende vilkår er oppfylt:Bestemmelsesstedet er avtalt med den driftsansvarlige som er ansvarlig for forsendelsen.Den driftsansvarlige som er ansvarlig for forsendelsen, har skriftlig informert de vedkommende myndighetene i medlemsstaten om at de vedkommende myndighetene i opprinnelsestredjestaten eller, dersom den ikke er den samme, i bestemmelsestredjestaten, er blitt informert om årsakene til at den aktuelle forsendelsen av dyr eller varer er blitt nektet innførsel til Unionen og omstendighetene rundt dette.Dersom bestemmelsestredjestaten ikke er opprinnelsestredjestaten, skal den driftsansvarlige ha innhentet samtykke fra de vedkommende myndighetene i den aktuelle bestemmelsestredjestaten, og disse vedkommende myndighetene skal ha underrettet de vedkommende myndighetene i medlemsstaten om at de er villige til å godta forsendelsen.Når det gjelder forsendelser av dyr, skal videresendingen oppfylle kravene til dyrevelferd.
+2\. Særbehandlingen fastsatt i nr. 1 skalutføres effektivt og sikre fjerning av enhver risiko for menneskers eller dyrs helse, for plantehelsen eller dyrevelferden eller, når det gjelder genmodifiserte organismer og plantevernmidler, for miljøet,dokumenteres og utføres under de vedkommende myndighetenes kontroll eller, dersom det er relevant, under kontroll av de vedkommende myndighetene i en annen medlemsstat etter gjensidig avtale, ogoppfylle kravene fastsatt i reglene nevnt i artikkel 1 nr. 2.
 
-2. Vilkårene fastsatt i nr. 1 bokstav b) og c) i denne artikkel gjelder ikke for forsendelser av de kategoriene av varer som er nevnt i artikkel 47 nr. 1 bokstav c).
+3\. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 144 for å utfylle denne forordning med hensyn til de kravene og vilkårene som gjelder for særbehandlingen fastsatt i nr. 1 i denne artikkel.I mangel av regler vedtatt ved delegerte rettsakter skal slik særbehandling finne sted i samsvar med nasjonal rett.
 
-1. Kommisjonen kan ved hjelp av gjennomføringsrettsakter, på anmodning fra en tredjestat, godkjenne særlig kontroll før eksport som en tredjestat foretar av forsendelser av dyr og varer før eksport til Unionen med sikte på å verifisere at de eksporterte forsendelsene oppfyller kravene i reglene nevnt i artikkel 1 nr. 2. Slik godkjenning gjelder bare for forsendelser som har sin opprinnelse i den berørte tredjestaten, og kan gis for én eller flere kategorier av dyr eller varer. Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
+###### Artikkel 72
 
-2. Godkjenningen fastsatt i nr. 1 skal angiden maksimale hyppigheten av offentlig kontroll som de vedkommende myndighetene i medlemsstatene skal gjennomføre ved innførsel av forsendelser til Unionen, når det ikke finnes noen grunn til å mistenke manglende overholdelse av reglene nevnt i artikkel 1 nr. 2 eller bedrageri eller villedende praksis,de offisielle sertifikatene som skal ledsage forsendelser som innføres til Unionen,en mal for sertifikatene nevnt i bokstav b),hvilke vedkommende myndigheter i tredjestaten som er ansvarlige for at det gjennomføres kontroll før eksport, ogdersom det er relevant, hvilke eventuelle organer med delegerte oppgaver som disse vedkommende myndighetene kan delegere visse oppgaver til. Slik delegering kan godkjennes bare dersom den oppfyller kriteriene fastsatt i artikkel 28–33 eller likeverdige vilkår.
+Videresending av forsendelser
 
-3. Godkjenningen fastsatt i nr. 1 i denne artikkel kan gis til en tredjestat bare dersom tilgjengelig dokumentasjon og, dersom det er relevant, en kontroll gjennomført av Kommisjonen i samsvar med artikkel 120, viser at ordningen for offentlig kontroll i den tredjestaten er i stand til å sikre atforsendelsene av de dyrene eller varene som eksporteres til Unionen, oppfyller kravene i reglene nevnt i artikkel 1 nr. 2 eller likeverdige krav, ogkontrollene som gjennomføres i tredjestaten før utsendelse til Unionen, er tilstrekkelig effektive til å erstatte eller redusere hyppigheten av dokumentkontrollen, identitetskontrollen og den fysiske kontrollen fastsatt i reglene nevnt i artikkel 1 nr. 2.
+1\. De vedkommende myndighetene skal tillate videresending av forsendelser, forutsatt at følgende vilkår er oppfylt:Bestemmelsesstedet er avtalt med den driftsansvarlige som er ansvarlig for forsendelsen.Den driftsansvarlige som er ansvarlig for forsendelsen, har skriftlig informert de vedkommende myndighetene i medlemsstaten om at de vedkommende myndighetene i opprinnelsestredjestaten eller, dersom den ikke er den samme, i bestemmelsestredjestaten, er blitt informert om årsakene til at den aktuelle forsendelsen av dyr eller varer er blitt nektet innførsel til Unionen og omstendighetene rundt dette.Dersom bestemmelsestredjestaten ikke er opprinnelsestredjestaten, skal den driftsansvarlige ha innhentet samtykke fra de vedkommende myndighetene i den aktuelle bestemmelsestredjestaten, og disse vedkommende myndighetene skal ha underrettet de vedkommende myndighetene i medlemsstaten om at de er villige til å godta forsendelsen.Når det gjelder forsendelser av dyr, skal videresendingen oppfylle kravene til dyrevelferd.
 
-4. De vedkommende myndighetene eller det organet med delegerte oppgaver som angis i godkjenningen, skalvære ansvarlige for kontakten med Unionen, ogsikre at de offisielle sertifikatene nevnt i nr. 2 bokstav b) ledsager hver forsendelse som kontrolleres.
+2\. Vilkårene fastsatt i nr. 1 bokstav b) og c) i denne artikkel gjelder ikke for forsendelser av de kategoriene av varer som er nevnt i artikkel 47 nr. 1 bokstav c).
 
-5. Kommisjonen skal ved hjelp av gjennomføringsrettsakter fastsette nærmere regler og kriterier for godkjenning av kontroll før eksport som tredjestater gjennomfører i samsvar med nr. 1 i denne artikkel, og for offentlig kontroll som de vedkommende myndighetene i medlemsstatene gjennomfører av dyr og varer som omfattes av godkjenningen i nevnte nummer. Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
+###### Avsnitt IV
 
-1. Når det ved offentlig kontroll av forsendelser av kategorier av dyr og varer som er godkjent ved særlig kontroll før eksport i samsvar med artikkel 73 nr. 1, avdekkes alvorlige og gjentatte tilfeller av manglende overholdelse av reglene nevnt i artikkel 1 nr. 2, skal medlemsstatene umiddelbartunderrette Kommisjonen og de andre medlemsstatene og berørte driftsansvarlige via IMSOC, og i tillegg be om administrativ bistand etter framgangsmåtene fastsatt i artikkel 102–108, ogøke antallet offentlige kontroller av forsendelser fra den relevante tredjestaten og oppbevare et passende antall prøver under hensiktsmessige lagringsforhold dersom dette er nødvendig for å kunne foreta en korrekt analytisk undersøkelse av situasjonen.
+Godkjenning av kontrollen før eksport
 
-2. Kommisjonen kan ved hjelp av gjennomføringsrettsakter tilbakekalle godkjenningen fastsatt i artikkel 73 nr. 1 dersom det etter den offentlige kontrollen nevnt i nr. 1 i denne artikkel, er grunn til å tro at kravene fastsatt i artikkel 73 nr. 3 og 4 ikke lenger er oppfylt. Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
+###### Artikkel 73
 
-1. Vedkommende myndigheter, tollmyndigheter og andre myndigheter i medlemsstatene som håndterer dyr og varer som innføres til Unionen, skal samarbeide tett for å sikre at den offentlige kontrollen av forsendelser av dyr og varer som innføres til Unionen, gjennomføres i samsvar med kravene i denne forordning.For dette formålet skal vedkommende myndigheter, tollmyndigheter og andre myndighetersikre gjensidig tilgang til opplysninger som er nødvendige for organiseringen og gjennomføringen av deres respektive virksomhet når det gjelder dyr og varer som innføres til Unionen, ogsikre rettidig utveksling av slike opplysninger, herunder elektronisk.
+Godkjenning av kontrollen som tredjestater gjennomfører før eksport
 
-2. Kommisjonen skal ved hjelp av gjennomføringsrettsakter fastsette regler for ensartede samarbeidsordninger som vedkommende myndigheter, tollmyndigheter og andre myndigheter nevnt i nr. 1 må innføre for å sikrevedkommende myndigheters tilgang til de opplysningene som er nødvendige for umiddelbar og fullstendig identifikasjon av de forsendelsene av dyr og varer som innføres til Unionen, og som omfattes av offentlig kontroll på en grensekontrollstasjon i samsvar med artikkel 47 nr. 1,gjensidig ajourføring, gjennom utveksling av opplysninger eller synkronisering av relevante datasett, av opplysninger som vedkommende myndigheter, tollmyndigheter og andre myndigheter har samlet inn om forsendelser av dyr og varer som innføres til Unionen, ogrask formidling av beslutninger som disse myndighetene treffer på grunnlag av opplysningene nevnt i bokstav a) og b).Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
+1\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter, på anmodning fra en tredjestat, godkjenne særlig kontroll før eksport som en tredjestat foretar av forsendelser av dyr og varer før eksport til Unionen med sikte på å verifisere at de eksporterte forsendelsene oppfyller kravene i reglene nevnt i artikkel 1 nr. 2. Slik godkjenning gjelder bare for forsendelser som har sin opprinnelse i den berørte tredjestaten, og kan gis for én eller flere kategorier av dyr eller varer. Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
 
-1. Nr. 2, 3 og 4 i denne artikkel gjelder for andre forsendelser av dyr og varer enn dem som omfattes av kontroll på innførselsstedet til Unionen etter artikkel 47 nr. 1 i denne forordning, og der det foreligger en tolldeklarasjon for frigivelse for fri omsetning i samsvar med artikkel 5 nr. 12 i forordning [(EU) nr. 952/2013](eu/32013r0952*) og nevnte forordnings artikkel 158–202.
+2\. Godkjenningen fastsatt i nr. 1 skal angiden maksimale hyppigheten av offentlig kontroll som de vedkommende myndighetene i medlemsstatene skal gjennomføre ved innførsel av forsendelser til Unionen, når det ikke finnes noen grunn til å mistenke manglende overholdelse av reglene nevnt i artikkel 1 nr. 2 eller bedrageri eller villedende praksis,de offisielle sertifikatene som skal ledsage forsendelser som innføres til Unionen,en mal for sertifikatene nevnt i bokstav b),hvilke vedkommende myndigheter i tredjestaten som er ansvarlige for at det gjennomføres kontroll før eksport, ogdersom det er relevant, hvilke eventuelle organer med delegerte oppgaver som disse vedkommende myndighetene kan delegere visse oppgaver til. Slik delegering kan godkjennes bare dersom den oppfyller kriteriene fastsatt i artikkel 28–33 eller likeverdige vilkår.
 
-2. Tollmyndighetene skal utsette frigivelsen for fri omsetning når de har grunn til å tro at forsendelsen kan utgjøre en risiko for menneskers eller dyrs helse, for plantehelsen eller dyrevelferden eller, når det gjelder genmodifiserte organismer og plantevernmidler, for miljøet, og umiddelbart underrette de vedkommende myndighetene om en slik utsettelse.
+3\. Godkjenningen fastsatt i nr. 1 i denne artikkel kan gis til en tredjestat bare dersom tilgjengelig dokumentasjon og, dersom det er relevant, en kontroll gjennomført av Kommisjonen i samsvar med artikkel 120, viser at ordningen for offentlig kontroll i den tredjestaten er i stand til å sikre atforsendelsene av de dyrene eller varene som eksporteres til Unionen, oppfyller kravene i reglene nevnt i artikkel 1 nr. 2 eller likeverdige krav, ogkontrollene som gjennomføres i tredjestaten før utsendelse til Unionen, er tilstrekkelig effektive til å erstatte eller redusere hyppigheten av dokumentkontrollen, identitetskontrollen og den fysiske kontrollen fastsatt i reglene nevnt i artikkel 1 nr. 2.
 
-3. En forsendelse som har fått utsatt frigivelsen for fri omsetning i henhold til nr. 2, skal frigis innen tre virkedager etter utsettelsen av frigivelsen dersom de vedkommende myndighetene ikke har bedt tollmyndighetene om å forlenge utsettelsen eller har informert tollmyndighetene om at det ikke foreligger noen risiko.
+4\. De vedkommende myndighetene eller det organet med delegerte oppgaver som angis i godkjenningen, skalvære ansvarlige for kontakten med Unionen, ogsikre at de offisielle sertifikatene nevnt i nr. 2 bokstav b) ledsager hver forsendelse som kontrolleres.
 
-4. Dersom de vedkommende myndighetene anser at det foreligger en risiko for menneskers eller dyrs helse, for plantehelsen eller dyrevelferden eller, når det gjelder genmodifiserte organismer og plantevernmidler, for miljøet,skal de be tollmyndighetene om ikke å frigi forsendelsen for fri omsetning og om å angi følgende erklæring på fakturaen som ledsager forsendelsen, og på alle andre relevante følgedokumenter eller i relevante elektroniske versjoner av dem:«Produktet utgjør en risiko – frigivelse for fri omsetning ikke tillatt – forordning [(EU) 2017/625](eu/32017r0625*)»,skal ingen annen tollprosedyre tillates uten samtykke fra de vedkommende myndighetene ogskal artikkel 66 nr. 1, 3, 5 og 6, artikkel 67, 68 og 69, artikkel 71 nr. 1 og 2 og artikkel 72 nr. 1 og 2 gjelde.
+5\. Kommisjonen skal ved hjelp av gjennomføringsrettsakter fastsette nærmere regler og kriterier for godkjenning av kontroll før eksport som tredjestater gjennomfører i samsvar med nr. 1 i denne artikkel, og for offentlig kontroll som de vedkommende myndighetene i medlemsstatene gjennomfører av dyr og varer som omfattes av godkjenningen i nevnte nummer. Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
 
-5. Når det gjelder andre forsendelser av dyr og varer enn dem som omfattes av kontroll på innførselsstedet til Unionen etter artikkel 47 nr. 1, og der det ikke foreligger en tolldeklarasjon for frigivelse for fri omsetning, skal tollmyndighetene, dersom de har grunn til å tro at forsendelsen kan utgjøre en risiko for menneskers eller dyrs helse, for plantehelsen eller dyrevelferden eller, når det gjelder genmodifiserte organismer og plantevernmidler, for miljøet, oversende alle relevante opplysninger til tollmyndighetene i den medlemsstaten som er det endelige bestemmelsesstedet.
+###### Artikkel 74
 
-1. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 144 for å utfylle denne forordning med hensyn til regler for gjennomføringen av særlig offentlig kontroll og for tiltak ved manglende overholdelse, for å ta hensyn til de særlige forholdene forbundet med følgende kategorier av dyr og varer eller ordningene og midlene for transport av dem:Forsendelser av ferske fiskerivarer som ilandføres direkte i havner som medlemsstatene har utpekt i samsvar med artikkel 5 nr. 1 i rådsforordning [(EF) nr. 1005/2008](eu/32008r1005*)61, fra et fiskefartøy som seiler under en tredjestats flagg.Forsendelser av uflådd viltlevende pelsvilt.Forsendelser av de kategoriene av varer som er nevnt i artikkel 47 nr. 1 bokstav b), som leveres, med eller uten lagring i særskilt godkjente tollagre eller i frisoner, til fartøyer som forlater Unionen og er beregnet på forsyning til skip eller forpleining av besetning og passasjerer.Emballasjemateriale av tre.Fôr som følger med dyr og er beregnet på fôring av disse dyrene.Dyr og varer bestilt gjennom fjernsalgsavtaler og levert fra en tredjestat til en adresse i Unionen, og de meldingskravene som er nødvendige for å kunne gjennomføre offentlig kontroll på riktig måte.Planteprodukter som på grunn av sitt senere bestemmelsessted kan føre til en risiko for spredning av infeksjonssykdommer eller smittsomme sykdommer hos dyr.Forsendelser av de kategoriene av dyr og varer som er nevnt i artikkel 47 nr. 1 bokstav a), b) og c), som har sin opprinnelse i og sendes tilbake til Unionen etter å ha blitt nektet innførsel til en tredjestat.Varer som innføres til Unionen i bulk fra en tredjestat, uansett om alle har sin opprinnelse i denne tredjestaten.Forsendelser av varer nevnt i artikkel 47 nr. 1 som kommer fra Kroatias territorium og sendes i transitt gjennom Bosnia-Hercegovinas territorium ved Neum («Neum-korridoren») før de gjeninnføres til Kroatias territorium via innførselsstedet i Klek eller Zaton Doli.Dyr og varer som er unntatt fra artikkel 47, i samsvar med artikkel 48.
+Manglende overholdelse og tilbakekalling av godkjenningen av kontroll før eksport som gjennomføres av tredjestater
 
-2. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 144 for å utfylle denne forordning med hensyn til vilkårene for overvåking av transport og ankomst av forsendelser av visse dyr og varer fra grensekontrollstasjonen på ankomststedet til virksomheten på bestemmelsesstedet i Unionen, til grensekontrollstasjonen på bestemmelsesstedet eller til grensekontrollstasjonen på utførselsstedet.
+1\. Når det ved offentlig kontroll av forsendelser av kategorier av dyr og varer som er godkjent ved særlig kontroll før eksport i samsvar med artikkel 73 nr. 1, avdekkes alvorlige og gjentatte tilfeller av manglende overholdelse av reglene nevnt i artikkel 1 nr. 2, skal medlemsstatene umiddelbartunderrette Kommisjonen og de andre medlemsstatene og berørte driftsansvarlige via IMSOC, og i tillegg be om administrativ bistand etter framgangsmåtene fastsatt i artikkel 102–108, ogøke antallet offentlige kontroller av forsendelser fra den relevante tredjestaten og oppbevare et passende antall prøver under hensiktsmessige lagringsforhold dersom dette er nødvendig for å kunne foreta en korrekt analytisk undersøkelse av situasjonen.
 
-3. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette regler formaler for offisielle sertifikater og regler for utstedelse av slike sertifikater, ogformatet til dokumentene som skal ledsage de kategoriene av dyr eller varer som er nevnt i nr. 1.Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
+2\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter tilbakekalle godkjenningen fastsatt i artikkel 73 nr. 1 dersom det etter den offentlige kontrollen nevnt i nr. 1 i denne artikkel, er grunn til å tro at kravene fastsatt i artikkel 73 nr. 3 og 4 ikke lenger er oppfylt. Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
+
+###### Avsnitt V
+
+Samarbeid mellom myndigheter i forbindelse med forsendelser fra tredjestater
+
+###### Artikkel 75
+
+Samarbeid mellom myndigheter i forbindelse med forsendelser som innføres til Unionen fra tredjestater
+
+1\. Vedkommende myndigheter, tollmyndigheter og andre myndigheter i medlemsstatene som håndterer dyr og varer som innføres til Unionen, skal samarbeide tett for å sikre at den offentlige kontrollen av forsendelser av dyr og varer som innføres til Unionen, gjennomføres i samsvar med kravene i denne forordning.For dette formålet skal vedkommende myndigheter, tollmyndigheter og andre myndighetersikre gjensidig tilgang til opplysninger som er nødvendige for organiseringen og gjennomføringen av deres respektive virksomhet når det gjelder dyr og varer som innføres til Unionen, ogsikre rettidig utveksling av slike opplysninger, herunder elektronisk.
+
+2\. Kommisjonen skal ved hjelp av gjennomføringsrettsakter fastsette regler for ensartede samarbeidsordninger som vedkommende myndigheter, tollmyndigheter og andre myndigheter nevnt i nr. 1 må innføre for å sikrevedkommende myndigheters tilgang til de opplysningene som er nødvendige for umiddelbar og fullstendig identifikasjon av de forsendelsene av dyr og varer som innføres til Unionen, og som omfattes av offentlig kontroll på en grensekontrollstasjon i samsvar med artikkel 47 nr. 1,gjensidig ajourføring, gjennom utveksling av opplysninger eller synkronisering av relevante datasett, av opplysninger som vedkommende myndigheter, tollmyndigheter og andre myndigheter har samlet inn om forsendelser av dyr og varer som innføres til Unionen, ogrask formidling av beslutninger som disse myndighetene treffer på grunnlag av opplysningene nevnt i bokstav a) og b).Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
+
+###### Artikkel 76
+
+Samarbeid mellom myndigheter i forbindelse med forsendelser som ikke omfattes av særlig kontroll ved grensene
+
+1\. Nr. 2, 3 og 4 i denne artikkel gjelder for andre forsendelser av dyr og varer enn dem som omfattes av kontroll på innførselsstedet til Unionen etter artikkel 47 nr. 1 i denne forordning, og der det foreligger en tolldeklarasjon for frigivelse for fri omsetning i samsvar med artikkel 5 nr. 12 i forordning [(EU) nr. 952/2013](eu/32013r0952*) og nevnte forordnings artikkel 158–202.
+
+2\. Tollmyndighetene skal utsette frigivelsen for fri omsetning når de har grunn til å tro at forsendelsen kan utgjøre en risiko for menneskers eller dyrs helse, for plantehelsen eller dyrevelferden eller, når det gjelder genmodifiserte organismer og plantevernmidler, for miljøet, og umiddelbart underrette de vedkommende myndighetene om en slik utsettelse.
+
+3\. En forsendelse som har fått utsatt frigivelsen for fri omsetning i henhold til nr. 2, skal frigis innen tre virkedager etter utsettelsen av frigivelsen dersom de vedkommende myndighetene ikke har bedt tollmyndighetene om å forlenge utsettelsen eller har informert tollmyndighetene om at det ikke foreligger noen risiko.
+
+4\. Dersom de vedkommende myndighetene anser at det foreligger en risiko for menneskers eller dyrs helse, for plantehelsen eller dyrevelferden eller, når det gjelder genmodifiserte organismer og plantevernmidler, for miljøet,skal de be tollmyndighetene om ikke å frigi forsendelsen for fri omsetning og om å angi følgende erklæring på fakturaen som ledsager forsendelsen, og på alle andre relevante følgedokumenter eller i relevante elektroniske versjoner av dem:«Produktet utgjør en risiko – frigivelse for fri omsetning ikke tillatt – forordning [(EU) 2017/625](eu/32017r0625*)»,skal ingen annen tollprosedyre tillates uten samtykke fra de vedkommende myndighetene ogskal artikkel 66 nr. 1, 3, 5 og 6, artikkel 67, 68 og 69, artikkel 71 nr. 1 og 2 og artikkel 72 nr. 1 og 2 gjelde.
+
+5\. Når det gjelder andre forsendelser av dyr og varer enn dem som omfattes av kontroll på innførselsstedet til Unionen etter artikkel 47 nr. 1, og der det ikke foreligger en tolldeklarasjon for frigivelse for fri omsetning, skal tollmyndighetene, dersom de har grunn til å tro at forsendelsen kan utgjøre en risiko for menneskers eller dyrs helse, for plantehelsen eller dyrevelferden eller, når det gjelder genmodifiserte organismer og plantevernmidler, for miljøet, oversende alle relevante opplysninger til tollmyndighetene i den medlemsstaten som er det endelige bestemmelsesstedet.
+
+###### Avsnitt VI
+
+Særlige tiltak
+
+###### Artikkel 77
+
+Regler for særlig offentlig kontroll og for tiltak som skal treffes etter slik kontroll
+
+1\. Kommisjonen skal vedta delegerte rettsakter i samsvar med artikkel 144 for å utfylle denne forordning med hensyn til regler for gjennomføringen av særlig offentlig kontroll og for tiltak ved manglende overholdelse, for å ta hensyn til de særlige forholdene forbundet med følgende kategorier av dyr og varer eller ordningene og midlene for transport av dem:Forsendelser av ferske fiskerivarer som ilandføres direkte i havner som medlemsstatene har utpekt i samsvar med artikkel 5 nr. 1 i rådsforordning [(EF) nr. 1005/2008](eu/32008r1005*)61, fra et fiskefartøy som seiler under en tredjestats flagg.Forsendelser av uflådd viltlevende pelsvilt.Forsendelser av de kategoriene av varer som er nevnt i artikkel 47 nr. 1 bokstav b), som leveres, med eller uten lagring i særskilt godkjente tollagre eller i frisoner, til fartøyer som forlater Unionen og er beregnet på forsyning til skip eller forpleining av besetning og passasjerer.Emballasjemateriale av tre.Fôr som følger med dyr og er beregnet på fôring av disse dyrene.Dyr og varer bestilt gjennom fjernsalgsavtaler og levert fra en tredjestat til en adresse i Unionen, og de meldingskravene som er nødvendige for å kunne gjennomføre offentlig kontroll på riktig måte.Planteprodukter som på grunn av sitt senere bestemmelsessted kan føre til en risiko for spredning av infeksjonssykdommer eller smittsomme sykdommer hos dyr.Forsendelser av de kategoriene av dyr og varer som er nevnt i artikkel 47 nr. 1 bokstav a), b) og c), som har sin opprinnelse i og sendes tilbake til Unionen etter å ha blitt nektet innførsel til en tredjestat.Varer som innføres til Unionen i bulk fra en tredjestat, uansett om alle har sin opprinnelse i denne tredjestaten.Forsendelser av varer nevnt i artikkel 47 nr. 1 som kommer fra Kroatias territorium og sendes i transitt gjennom Bosnia-Hercegovinas territorium ved Neum («Neum-korridoren») før de gjeninnføres til Kroatias territorium via innførselsstedet i Klek eller Zaton Doli.Dyr og varer som er unntatt fra artikkel 47, i samsvar med artikkel 48.
+
+2\. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 144 for å utfylle denne forordning med hensyn til vilkårene for overvåking av transport og ankomst av forsendelser av visse dyr og varer fra grensekontrollstasjonen på ankomststedet til virksomheten på bestemmelsesstedet i Unionen, til grensekontrollstasjonen på bestemmelsesstedet eller til grensekontrollstasjonen på utførselsstedet.
+
+3\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette regler formaler for offisielle sertifikater og regler for utstedelse av slike sertifikater, ogformatet til dokumentene som skal ledsage de kategoriene av dyr eller varer som er nevnt i nr. 1.Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
+
+61 Rådsforordning [(EF) nr. 1005/2008](eu/32008r1005*) av 29. september 2008 om opprettelse av en fellesskapsordning for å forebygge, avverge og stanse ulovlig, urapportert og uregulert fiske, om endring av forordning [(EØF) 2847/93](eu/31993r2847), (EF) [nr. 1936/2001](eu/32001r1936) og (EF) [nr. 601/2004](eu/32004r0601) og om oppheving av forordning [(EF) nr. 1093/94](eu/31994r1093) og (EF) [nr. 1447/1999](eu/31999r1447) (EUT L 286 av 29.10.2008, s. 1).
 
 ### KAPITTEL VI
 Finansiering av offentlig kontroll og annen offentlig virksomhet
 
-1. Medlemsstatene skal sikre at det finnes tilstrekkelige økonomiske midler til at de vedkommende myndighetene får det personalet og de ressursene de trenger for å gjennomføre offentlig kontroll og annen offentlig virksomhet.
+###### Artikkel 78
 
-2. Dette kapittel gjelder også delegering av visse offentlige kontrolloppgaver og annen offentlig virksomhet i samsvar med artikkel 28 og 31.
+Alminnelige regler
 
-1. De vedkommende myndighetene skal innkreve gebyrer eller avgifter i forbindelse med offentlig kontroll som gjennomføres i forbindelse med virksomheten nevnt i kapittel II i vedlegg IV, og av dyr og varer som nevnt i artikkel 47 nr. 1 bokstav a), b) og c), på grensekontrollstasjoner eller kontrollstedene nevnt i artikkel 53 nr. 1 bokstav a), ententilsvarende kostnaden som er beregnet i samsvar med artikkel 82 nr. 1, ellertilsvarende beløpene fastsatt i vedlegg IV.
+1\. Medlemsstatene skal sikre at det finnes tilstrekkelige økonomiske midler til at de vedkommende myndighetene får det personalet og de ressursene de trenger for å gjennomføre offentlig kontroll og annen offentlig virksomhet.
 
-2. De vedkommende myndighetene skal innkreve gebyrer eller avgifter for å dekke kostnadene som påløper i forbindelse medoffentlig kontroll av dyr og varer nevnt i artikkel 47 nr. 1 bokstav d), e) og f),offentlig kontroll på anmodning fra den driftsansvarlige for å oppnå godkjenningen fastsatt i artikkel 10 i forordning [(EF) nr. 183/2005](eu/32005r0183),offentlig kontroll som opprinnelig ikke var planlagt, ogsom har blitt nødvendig etter påvisning av et tilfelle av manglende overholdelse hos samme driftsansvarlige under en offentlig kontroll gjennomført i samsvar med denne forordning, ogsom gjennomføres for å vurdere omfanget og virkningen av den manglende overholdelsen, eller for å verifisere at den manglende overholdelsen er blitt rettet opp.
+2\. Dette kapittel gjelder også delegering av visse offentlige kontrolloppgaver og annen offentlig virksomhet i samsvar med artikkel 28 og 31.
 
-3. Uten hensyn til nr. 1 og 2 kan medlemsstatene, når det gjelder virksomheten nevnt i kapittel II i vedlegg IV, på et objektivt og ikke-diskriminerende grunnlag redusere størrelsen på gebyrene eller avgiftene, samtidig som det tas hensyn tilinteressene til driftsansvarlige med lav produksjon,tradisjonelle produksjons-, foredlings- og distribusjonsmetoder,behovene til driftsansvarlige i regioner med særlige geografiske begrensninger ogde driftsansvarliges tidligere overholdelse av de relevante reglene nevnt i artikkel 1 nr. 2, som fastslått ved offentlig kontroll.
+###### Artikkel 79
 
-4. Medlemsstatene kan beslutte at gebyrene og avgiftene som er beregnet i samsvar med artikkel 82 nr. 1 bokstav b), ikke skal innkreves dersom beløpet er så lavt at det med hensyn til kostnadene ved innkreving og de samlede inntektene som er forventet fra avgiftene og gebyrene, vil være ulønnsomt å innkreve gebyret eller avgiften.
+Obligatoriske gebyrer eller avgifter
 
-5. Denne artikkel gjelder ikke for offentlig kontroll som gjennomføres for å verifisere overholdelsen av reglene nevnt i artikkel 1 nr. 2 bokstav i) og j).
+1\. De vedkommende myndighetene skal innkreve gebyrer eller avgifter i forbindelse med offentlig kontroll som gjennomføres i forbindelse med virksomheten nevnt i kapittel II i vedlegg IV, og av dyr og varer som nevnt i artikkel 47 nr. 1 bokstav a), b) og c), på grensekontrollstasjoner eller kontrollstedene nevnt i artikkel 53 nr. 1 bokstav a), ententilsvarende kostnaden som er beregnet i samsvar med artikkel 82 nr. 1, ellertilsvarende beløpene fastsatt i vedlegg IV.
+
+2\. De vedkommende myndighetene skal innkreve gebyrer eller avgifter for å dekke kostnadene som påløper i forbindelse medoffentlig kontroll av dyr og varer nevnt i artikkel 47 nr. 1 bokstav d), e) og f),offentlig kontroll på anmodning fra den driftsansvarlige for å oppnå godkjenningen fastsatt i artikkel 10 i forordning [(EF) nr. 183/2005](eu/32005r0183),offentlig kontroll som opprinnelig ikke var planlagt, ogsom har blitt nødvendig etter påvisning av et tilfelle av manglende overholdelse hos samme driftsansvarlige under en offentlig kontroll gjennomført i samsvar med denne forordning, ogsom gjennomføres for å vurdere omfanget og virkningen av den manglende overholdelsen, eller for å verifisere at den manglende overholdelsen er blitt rettet opp.
+
+3\. Uten hensyn til nr. 1 og 2 kan medlemsstatene, når det gjelder virksomheten nevnt i kapittel II i vedlegg IV, på et objektivt og ikke-diskriminerende grunnlag redusere størrelsen på gebyrene eller avgiftene, samtidig som det tas hensyn tilinteressene til driftsansvarlige med lav produksjon,tradisjonelle produksjons-, foredlings- og distribusjonsmetoder,behovene til driftsansvarlige i regioner med særlige geografiske begrensninger ogde driftsansvarliges tidligere overholdelse av de relevante reglene nevnt i artikkel 1 nr. 2, som fastslått ved offentlig kontroll.
+
+4\. Medlemsstatene kan beslutte at gebyrene og avgiftene som er beregnet i samsvar med artikkel 82 nr. 1 bokstav b), ikke skal innkreves dersom beløpet er så lavt at det med hensyn til kostnadene ved innkreving og de samlede inntektene som er forventet fra avgiftene og gebyrene, vil være ulønnsomt å innkreve gebyret eller avgiften.
+
+5\. Denne artikkel gjelder ikke for offentlig kontroll som gjennomføres for å verifisere overholdelsen av reglene nevnt i artikkel 1 nr. 2 bokstav i) og j).
+
+###### Artikkel 80
+
+Andre gebyrer eller avgifter
 
 Medlemsstatene kan innkreve andre gebyrer eller avgifter for å dekke kostnadene ved offentlig kontroll og annen offentlig virksomhet enn de gebyrene eller avgiftene som er nevnt i artikkel 79, med mindre dette er forbudt etter de lovbestemmelsene som gjelder for de områdene som omfattes av reglene nevnt i artikkel 1 nr. 2.
 
+###### Artikkel 81
+
+Kostnader
+
 Gebyrene og avgiftene som skal innkreves i samsvar med artikkel 79 nr. 1 bokstav a) og artikkel 79 nr. 2, skal fastsettes på grunnlag av følgende kostnader, i den grad disse følger av den aktuelle offentlige kontrollen:Lønn til personale, herunder støttepersonale og administrativt personale, som deltar i gjennomføringen av offentlig kontroll, samt deres trygde-, pensjons- og forsikringskostnader.Kostnader forbundet med anlegg og utstyr, herunder vedlikeholds- og forsikringskostnader og andre tilhørende kostnader.Kostnader forbundet med forbruksvarer og verktøy.Kostnader til tjenester i forbindelse med delegert offentlig kontroll som organer med delegerte oppgaver fakturerer de vedkommende myndighetene.Kostnader forbundet med opplæring av personalet nevnt i bokstav a), med unntak av den opplæringen som er nødvendig for å bli kvalifisert til å arbeide for de vedkommende myndighetene.Kostnader forbundet med reiser og tilhørende oppholdskostnader for personalet nevnt i bokstav a).Kostnader som offentlige laboratorier fakturerer for prøvetaking og for laboratorieanalyser, -undersøkelser og -diagnostisering som de utfører.
 
-1. Gebyrer eller avgifter som innkreves i samsvar med artikkel 79 nr. 1 bokstav a) og artikkel 79 nr. 2, skal fastsettes i samsvar med én av følgende metoder for beregning eller en kombinasjon av dem:Som en fast sats på grunnlag av de samlede kostnadene ved offentlig kontroll som de vedkommende myndighetene har over et gitt tidsrom, som innkreves av alle driftsansvarlige uansett om de faktisk har vært gjenstand for offentlig kontroll i referanseperioden eller ikke; ved fastsettelsen av nivået for gebyrene som skal innkreves for hver sektor, virksomhet og kategori av driftsansvarlige, skal de vedkommende myndighetene ta hensyn til de virkningene som den berørte virksomhetens type og omfang samt relevante risikofaktorer har på fordelingen av de samlede kostnadene ved nevnte offentlig kontroll.På grunnlag av beregningen av de faktiske kostnadene ved hver enkelt offentlig kontroll, innkrevd fra de driftsansvarlige som er underlagt slik offentlig kontroll.
+###### Artikkel 82
 
-2. Reisekostnader som nevnt i artikkel 81 bokstav f) skal inngå i beregningen av gebyrene eller avgiftene nevnt i artikkel 79 nr. 1 bokstav a) og artikkel 79 nr. 2 på en måte som ikke innebærer forskjellsbehandling mellom driftsansvarlige på grunnlag av avstanden mellom lokalene deres og de vedkommende myndighetenes beliggenhet.
+Beregning av gebyrer eller avgifter
 
-3. Dersom gebyrer eller avgifter beregnes i samsvar med nr. 1 bokstav a), skal gebyrene eller avgiftene som innkreves av vedkommende myndigheter, ikke overstige de samlede kostnadene som påløper for den offentlige kontrollen i det tidsrommet som er omhandlet i nevnte nummer.
+1\. Gebyrer eller avgifter som innkreves i samsvar med artikkel 79 nr. 1 bokstav a) og artikkel 79 nr. 2, skal fastsettes i samsvar med én av følgende metoder for beregning eller en kombinasjon av dem:Som en fast sats på grunnlag av de samlede kostnadene ved offentlig kontroll som de vedkommende myndighetene har over et gitt tidsrom, som innkreves av alle driftsansvarlige uansett om de faktisk har vært gjenstand for offentlig kontroll i referanseperioden eller ikke; ved fastsettelsen av nivået for gebyrene som skal innkreves for hver sektor, virksomhet og kategori av driftsansvarlige, skal de vedkommende myndighetene ta hensyn til de virkningene som den berørte virksomhetens type og omfang samt relevante risikofaktorer har på fordelingen av de samlede kostnadene ved nevnte offentlig kontroll.På grunnlag av beregningen av de faktiske kostnadene ved hver enkelt offentlig kontroll, innkrevd fra de driftsansvarlige som er underlagt slik offentlig kontroll.
 
-4. Dersom gebyrer eller avgifter beregnes i samsvar med nr. 1 bokstav b), skal de ikke overstige de faktiske kostnadene ved den offentlige kontrollen som er gjennomført.
+2\. Reisekostnader som nevnt i artikkel 81 bokstav f) skal inngå i beregningen av gebyrene eller avgiftene nevnt i artikkel 79 nr. 1 bokstav a) og artikkel 79 nr. 2 på en måte som ikke innebærer forskjellsbehandling mellom driftsansvarlige på grunnlag av avstanden mellom lokalene deres og de vedkommende myndighetenes beliggenhet.
 
-1. En driftsansvarlig skal belastes et gebyr eller en avgift for offentlig kontroll eller annen offentlig virksomhet som gjennomføres på grunnlag av en klage, bare dersom kontrollen fører til en bekreftelse på manglende overholdelse.
+3\. Dersom gebyrer eller avgifter beregnes i samsvar med nr. 1 bokstav a), skal gebyrene eller avgiftene som innkreves av vedkommende myndigheter, ikke overstige de samlede kostnadene som påløper for den offentlige kontrollen i det tidsrommet som er omhandlet i nevnte nummer.
 
-2. Gebyrer eller avgifter som innkreves i samsvar med artikkel 79 og 80, skal ikke tilbakebetales verken direkte eller indirekte med mindre de er urettmessig innkrevd.
+4\. Dersom gebyrer eller avgifter beregnes i samsvar med nr. 1 bokstav b), skal de ikke overstige de faktiske kostnadene ved den offentlige kontrollen som er gjennomført.
 
-3. Medlemsstatene kan beslutte at gebyrene eller avgiftene skal innkreves av andre myndigheter enn de vedkommende myndighetene eller av organer med delegerte oppgaver.
+###### Artikkel 83
 
-1. De vedkommende myndighetene skal sikre at de driftsansvarlige på anmodning mottar dokumentasjon på innbetalte gebyrer eller avgifter i tilfeller der de driftsansvarlige ikke på annen måte har tilgang til slik dokumentasjon.
+Innkreving og bruk av avgifter og gebyrer
 
-2. Gebyrer eller avgifter som innkreves i samsvar med artikkel 79 nr. 1, skal betales av den driftsansvarlige som er ansvarlig for forsendelsen, eller av vedkommendes representant.
+1\. En driftsansvarlig skal belastes et gebyr eller en avgift for offentlig kontroll eller annen offentlig virksomhet som gjennomføres på grunnlag av en klage, bare dersom kontrollen fører til en bekreftelse på manglende overholdelse.
 
-1. Medlemsstatene skal sikre en høy grad av innsyn når det gjelderde gebyrene eller avgiftene som er fastsatt i artikkel 79 nr. 1 bokstav a), artikkel 79 nr. 2 og artikkel 80, nærmere bestemtmetoden og dataene som brukes til å fastsette disse gebyrene eller avgiftene,størrelsen på gebyrene og avgiftene som innkreves av hver kategori av driftsansvarlige og for hver kategori av offentlig kontroll eller annen offentlig virksomhet,spesifikasjonen av kostnadene, som nevnt i artikkel 81,identiteten til myndighetene eller organene med ansvar for å innkreve gebyrene eller avgiftene.
+2\. Gebyrer eller avgifter som innkreves i samsvar med artikkel 79 og 80, skal ikke tilbakebetales verken direkte eller indirekte med mindre de er urettmessig innkrevd.
 
-2. Hver vedkommende myndighet skal gjøre tilgjengelig for offentligheten opplysningene nevnt i nr. 1 i denne artikkel for hver referanseperiode, samt de vedkommende myndighetenes kostnader som det påløper et gebyr eller en avgift for i samsvar med artikkel 79 nr. 1 bokstav a), artikkel 79 nr. 2 og artikkel 80.
+3\. Medlemsstatene kan beslutte at gebyrene eller avgiftene skal innkreves av andre myndigheter enn de vedkommende myndighetene eller av organer med delegerte oppgaver.
 
-3. Medlemsstatene skal rådføre seg med berørte parter om de generelle metodene som brukes for å beregne gebyrene eller avgiftene fastsatt i artikkel 79 nr. 1 bokstav a), artikkel 79 nr. 2 og artikkel 80.
+###### Artikkel 84
+
+Betaling av avgifter og gebyrer
+
+1\. De vedkommende myndighetene skal sikre at de driftsansvarlige på anmodning mottar dokumentasjon på innbetalte gebyrer eller avgifter i tilfeller der de driftsansvarlige ikke på annen måte har tilgang til slik dokumentasjon.
+
+2\. Gebyrer eller avgifter som innkreves i samsvar med artikkel 79 nr. 1, skal betales av den driftsansvarlige som er ansvarlig for forsendelsen, eller av vedkommendes representant.
+
+###### Artikkel 85
+
+Innsyn
+
+1\. Medlemsstatene skal sikre en høy grad av innsyn når det gjelderde gebyrene eller avgiftene som er fastsatt i artikkel 79 nr. 1 bokstav a), artikkel 79 nr. 2 og artikkel 80, nærmere bestemtmetoden og dataene som brukes til å fastsette disse gebyrene eller avgiftene,størrelsen på gebyrene og avgiftene som innkreves av hver kategori av driftsansvarlige og for hver kategori av offentlig kontroll eller annen offentlig virksomhet,spesifikasjonen av kostnadene, som nevnt i artikkel 81,identiteten til myndighetene eller organene med ansvar for å innkreve gebyrene eller avgiftene.
+
+2\. Hver vedkommende myndighet skal gjøre tilgjengelig for offentligheten opplysningene nevnt i nr. 1 i denne artikkel for hver referanseperiode, samt de vedkommende myndighetenes kostnader som det påløper et gebyr eller en avgift for i samsvar med artikkel 79 nr. 1 bokstav a), artikkel 79 nr. 2 og artikkel 80.
+
+3\. Medlemsstatene skal rådføre seg med berørte parter om de generelle metodene som brukes for å beregne gebyrene eller avgiftene fastsatt i artikkel 79 nr. 1 bokstav a), artikkel 79 nr. 2 og artikkel 80.
 
 ### KAPITTEL VII
 Offentlig attestering
 
-1. Offentlig attestering skal føre til utstedelse avoffisielle sertifikater elleroffisielle attestasjoner i tilfellene fastsatt i reglene nevnt i artikkel 1 nr. 2.
+###### Artikkel 86
 
-2. Dersom de vedkommende myndighetene delegerer visse oppgaver i forbindelse med utstedelse av offisielle sertifikater eller offisielle attestasjoner, eller i forbindelse med det offentlige tilsynet nevnt i artikkel 91 nr. 1, skal denne delegeringen være i samsvar med artikkel 28–33.
+Alminnelige krav til offentlig attestering
+
+1\. Offentlig attestering skal føre til utstedelse avoffisielle sertifikater elleroffisielle attestasjoner i tilfellene fastsatt i reglene nevnt i artikkel 1 nr. 2.
+
+2\. Dersom de vedkommende myndighetene delegerer visse oppgaver i forbindelse med utstedelse av offisielle sertifikater eller offisielle attestasjoner, eller i forbindelse med det offentlige tilsynet nevnt i artikkel 91 nr. 1, skal denne delegeringen være i samsvar med artikkel 28–33.
+
+###### Artikkel 87
+
+Offisielle sertifikater
 
 Artikkel 88, 89 og 90 gjeldernår reglene nevnt i artikkel 1 nr. 2 krever utstedelse av et offisielt sertifikat, ogfor offisielle sertifikater som er nødvendige for å eksportere forsendelser av dyr og varer til tredjestater, eller som den vedkommende myndigheten i en bestemmelsesmedlemsstat ber den vedkommende myndigheten i en avsendermedlemsstat om, i forbindelse med forsendelser av dyr og varer som eksporteres til tredjestater.
 
-1. Offisielle sertifikater skal utstedes av de vedkommende myndighetene.
+###### Artikkel 88
 
-2. De vedkommende myndighetene skal utpeke sertifikatutstedere som har fullmakt til å underskrive offisielle sertifikater, og sikre at disseer upartiske og ikke har noen interessekonflikter, og fremfor alt ikke befinner seg i en situasjon som direkte eller indirekte kan påvirke yrkesmoralen deres med hensyn til det som attesteres,har fått hensiktsmessig opplæring i de reglene som det offisielle sertifikatet attesterer overholdelsen av, og i den tekniske vurderingen av overholdelsen av disse reglene og de relevante reglene fastsatt i denne forordning.
+Underskrift og utstedelse av offisielle sertifikater
 
-3. De offisielle sertifikatene skal underskrives av sertifikatutstederen og utstedes på grunnlag av ett av følgende:Sertifikatutstederens direkte kjennskap til aktuelle faktiske forhold og data som er relevante for attesteringen, oppnådd gjennomen offentlig kontroll ellertilgangen til et annet offisielt sertifikat utstedt av de vedkommende myndighetene.Faktiske forhold og data som er relevante for attesteringen, som fastslås av annen person som har fått fullmakt til dette av de vedkommende myndighetene, og som handler under deres kontroll, forutsatt at sertifikatutstederen kan verifisere at forholdene og dataene er riktige.Faktiske forhold og data som er relevante for attesteringen, som kommer fra den driftsansvarliges egne kontrollordninger, og som er utfylt og bekreftet av resultater fra regelmessig offentlig kontroll, dersom sertifikatutstederen anser at vilkårene for utstedelse av det offisielle sertifikatet er oppfylt.
+1\. Offisielle sertifikater skal utstedes av de vedkommende myndighetene.
 
-4. De offisielle sertifikatene skal underskrives av sertifikatutstederen og utstedes bare på grunnlag av nr. 3 bokstav a) i denne artikkel når reglene nevnt i artikkel 1 nr. 2 krever det.
+2\. De vedkommende myndighetene skal utpeke sertifikatutstedere som har fullmakt til å underskrive offisielle sertifikater, og sikre at disseer upartiske og ikke har noen interessekonflikter, og fremfor alt ikke befinner seg i en situasjon som direkte eller indirekte kan påvirke yrkesmoralen deres med hensyn til det som attesteres,har fått hensiktsmessig opplæring i de reglene som det offisielle sertifikatet attesterer overholdelsen av, og i den tekniske vurderingen av overholdelsen av disse reglene og de relevante reglene fastsatt i denne forordning.
 
-1. De offisielle sertifikatene skalha en entydig kode,ikke være underskrevet av sertifikatutstederen når de er tomme eller ufullstendige,være utarbeidet på ett eller flere av EU-institusjonenes offisielle språk som forstås av sertifikatutstederen og, dersom det er relevant, ett av de offisielle språkene i bestemmelsesmedlemsstaten,være ekte og nøyaktige,gjøre det mulig å identifisere personen som har underskrevet dem, og utstedelsesdatoen oggjøre det mulig å lette verifiseringen av forbindelsene mellom sertifikatet, den utstedende myndigheten og forsendelsen, partiet eller de enkelte dyrene eller varene som omfattes av sertifikatet.
+3\. De offisielle sertifikatene skal underskrives av sertifikatutstederen og utstedes på grunnlag av ett av følgende:Sertifikatutstederens direkte kjennskap til aktuelle faktiske forhold og data som er relevante for attesteringen, oppnådd gjennomen offentlig kontroll ellertilgangen til et annet offisielt sertifikat utstedt av de vedkommende myndighetene.Faktiske forhold og data som er relevante for attesteringen, som fastslås av annen person som har fått fullmakt til dette av de vedkommende myndighetene, og som handler under deres kontroll, forutsatt at sertifikatutstederen kan verifisere at forholdene og dataene er riktige.Faktiske forhold og data som er relevante for attesteringen, som kommer fra den driftsansvarliges egne kontrollordninger, og som er utfylt og bekreftet av resultater fra regelmessig offentlig kontroll, dersom sertifikatutstederen anser at vilkårene for utstedelse av det offisielle sertifikatet er oppfylt.
 
-2. De vedkommende myndighetene skal treffe alle nødvendige tiltak for å hindre utstedelse av falske eller villedende offisielle sertifikater eller misbruk av offisielle sertifikater.
+4\. De offisielle sertifikatene skal underskrives av sertifikatutstederen og utstedes bare på grunnlag av nr. 3 bokstav a) i denne artikkel når reglene nevnt i artikkel 1 nr. 2 krever det.
+
+###### Artikkel 89
+
+Garantier for offisielle sertifikaters pålitelighet
+
+1\. De offisielle sertifikatene skalha en entydig kode,ikke være underskrevet av sertifikatutstederen når de er tomme eller ufullstendige,være utarbeidet på ett eller flere av EU-institusjonenes offisielle språk som forstås av sertifikatutstederen og, dersom det er relevant, ett av de offisielle språkene i bestemmelsesmedlemsstaten,være ekte og nøyaktige,gjøre det mulig å identifisere personen som har underskrevet dem, og utstedelsesdatoen oggjøre det mulig å lette verifiseringen av forbindelsene mellom sertifikatet, den utstedende myndigheten og forsendelsen, partiet eller de enkelte dyrene eller varene som omfattes av sertifikatet.
+
+2\. De vedkommende myndighetene skal treffe alle nødvendige tiltak for å hindre utstedelse av falske eller villedende offisielle sertifikater eller misbruk av offisielle sertifikater.
+
+###### Artikkel 90
+
+Gjennomføringsmyndighet med hensyn til offisielle sertifikater
 
 Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette regler for en ensartet bruk av artikkel 88 og 89 med hensyn tilmaler for offisielle sertifikater og regler for utstedelse av slike sertifikater, dersom det ikke er fastsatt krav til dette i reglene nevnt i artikkel 1 nr. 2,ordningene og de tekniske tiltakene som skal sikre at det utstedes nøyaktige og pålitelige offisielle sertifikater, og at risikoen for bedrageri begrenses,framgangsmåtene som skal følges når offisielle sertifikater tilbakekalles og erstatningssertifikater utstedes,regler for framstilling av bekreftede kopier av de offisielle sertifikatene,formatet på dokumentene som skal ledsage dyr og varer etter at den offentlige kontrollen er gjennomført,regler for utstedelsen av elektroniske sertifikater og for bruk av elektroniske signaturer.
 
 Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
 
-1. Når denne forordning eller reglene nevnt i artikkel 1 nr. 2 krever at offisielle attestasjoner utstedes av de driftsansvarlige under vedkommende myndigheters offentlige tilsyn eller av de vedkommende myndighetene selv, gjelder nr. 2, 3 og 4 i denne artikkel.
+###### Artikkel 91
 
-2. Offisielle attestasjoner skalvære ekte og nøyaktige,være utarbeidet på ett eller flere av EU-institusjonenes offisielle språk og, dersom det er relevant, ett av de offisielle språkene i bestemmelsesmedlemsstaten, ogdersom de gjelder en forsendelse eller et parti, gjøre det mulig å verifisere forbindelsen mellom den offisielle attestasjonen og nevnte forsendelse eller parti.
+Offisielle attestasjoner
 
-3. De vedkommende myndighetene skal sikre at personalet som gjennomfører offentlig kontroll for å overvåke utstedelsen av offisielle attestasjoner, eller, dersom de offisielle attestasjonene utstedes av de vedkommende myndighetene, personalet som deltar i utstedelsen av disse offisielle attestasjonene,er upartiske og ikke har noen interessekonflikter, og fremfor alt ikke befinner seg i en situasjon som direkte eller indirekte kan påvirke yrkesmoralen deres med hensyn til det som attesteres i de offisielle attestasjonene,har fått hensiktsmessig opplæring ide reglene som den offisielle attestasjonen attesterer overholdelsen av, og i den tekniske vurderingen av overholdelsen av disse reglene,de relevante reglene fastsatt i denne forordning.
+1\. Når denne forordning eller reglene nevnt i artikkel 1 nr. 2 krever at offisielle attestasjoner utstedes av de driftsansvarlige under vedkommende myndigheters offentlige tilsyn eller av de vedkommende myndighetene selv, gjelder nr. 2, 3 og 4 i denne artikkel.
 
-4. De vedkommende myndighetene skal gjennomføre regelmessig offentlig kontroll for å verifisere atde driftsansvarlige som utsteder attestasjonene, oppfyller vilkårene fastsatt i reglene nevnt i artikkel 1 nr. 2, ogattestasjonen utstedes på grunnlag av relevante, korrekte og kontrollerbare forhold og data.
+2\. Offisielle attestasjoner skalvære ekte og nøyaktige,være utarbeidet på ett eller flere av EU-institusjonenes offisielle språk og, dersom det er relevant, ett av de offisielle språkene i bestemmelsesmedlemsstaten, ogdersom de gjelder en forsendelse eller et parti, gjøre det mulig å verifisere forbindelsen mellom den offisielle attestasjonen og nevnte forsendelse eller parti.
+
+3\. De vedkommende myndighetene skal sikre at personalet som gjennomfører offentlig kontroll for å overvåke utstedelsen av offisielle attestasjoner, eller, dersom de offisielle attestasjonene utstedes av de vedkommende myndighetene, personalet som deltar i utstedelsen av disse offisielle attestasjonene,er upartiske og ikke har noen interessekonflikter, og fremfor alt ikke befinner seg i en situasjon som direkte eller indirekte kan påvirke yrkesmoralen deres med hensyn til det som attesteres i de offisielle attestasjonene,har fått hensiktsmessig opplæring ide reglene som den offisielle attestasjonen attesterer overholdelsen av, og i den tekniske vurderingen av overholdelsen av disse reglene,de relevante reglene fastsatt i denne forordning.
+
+4\. De vedkommende myndighetene skal gjennomføre regelmessig offentlig kontroll for å verifisere atde driftsansvarlige som utsteder attestasjonene, oppfyller vilkårene fastsatt i reglene nevnt i artikkel 1 nr. 2, ogattestasjonen utstedes på grunnlag av relevante, korrekte og kontrollerbare forhold og data.
 
 ### AVDELING III
 REFERANSELABORATORIER OG REFERANSESENTRE
 
 ### Artikkel 92. Beslutning om å opprette et EU-referanselaboratorium
 
-1. På de områdene som omfattes av reglene nevnt i artikkel 1 nr. 2, skal det opprettes et EU-referanselaboratorium dersom virkningen av offentlig kontroll og annen offentlig virksomhet også avhenger av kvaliteten, ensartetheten og påliteligheten tilde analyse-, undersøkelses- eller diagnostiseringsmetodene som brukes av de offentlige laboratoriene utpekt i samsvar med artikkel 37 nr. 1, ogresultatene av de offentlige laboratorienes analyser, undersøkelser og diagnostiseringer.
+1\. På de områdene som omfattes av reglene nevnt i artikkel 1 nr. 2, skal det opprettes et EU-referanselaboratorium dersom virkningen av offentlig kontroll og annen offentlig virksomhet også avhenger av kvaliteten, ensartetheten og påliteligheten tilde analyse-, undersøkelses- eller diagnostiseringsmetodene som brukes av de offentlige laboratoriene utpekt i samsvar med artikkel 37 nr. 1, ogresultatene av de offentlige laboratorienes analyser, undersøkelser og diagnostiseringer.
 
-2. Det skal opprettes et EU-referanselaboratorium når det er et erkjent behov for å fremme en ensartet praksis i forbindelse med utviklingen eller bruken av metodene nevnt i nr. 1 bokstav a).
+2\. Det skal opprettes et EU-referanselaboratorium når det er et erkjent behov for å fremme en ensartet praksis i forbindelse med utviklingen eller bruken av metodene nevnt i nr. 1 bokstav a).
 
-3. Kommisjonen skal regelmessig gjennomgå mandatet og virksomheten til EU-referanselaboratoriene.
+3\. Kommisjonen skal regelmessig gjennomgå mandatet og virksomheten til EU-referanselaboratoriene.
 
-4. Kommisjonen skal utfylle denne forordning ved å treffe beslutningen om å opprette et EU-referanselaboratorium ved hjelp av en delegert rettsakt i samsvar med artikkel 144.
+4\. Kommisjonen skal utfylle denne forordning ved å treffe beslutningen om å opprette et EU-referanselaboratorium ved hjelp av en delegert rettsakt i samsvar med artikkel 144.
 
 ### Artikkel 93. Utpeking av EU-referanselaboratorier
 
-1. Kommisjonen skal ved hjelp av gjennomføringsrettsakter utpeke EU-referanselaboratorier i tilfeller der det er truffet en beslutning om å opprette et slikt laboratorium i samsvar med artikkel 92.
+1\. Kommisjonen skal ved hjelp av gjennomføringsrettsakter utpeke EU-referanselaboratorier i tilfeller der det er truffet en beslutning om å opprette et slikt laboratorium i samsvar med artikkel 92.
 
-2. Utpekingene fastsatt i nr. 1 skalfølge en offentlig utvelgingsprosess ogvære av begrenset varighet og gjelde i minst fem år, eller gjennomgås jevnlig.
+2\. Utpekingene fastsatt i nr. 1 skalfølge en offentlig utvelgingsprosess ogvære av begrenset varighet og gjelde i minst fem år, eller gjennomgås jevnlig.
 
-3. EU-referanselaboratorier skalarbeide i samsvar med standarden EN ISO/IEC 17025 og være akkreditert i samsvar med nevnte standard av et nasjonalt akkrediteringsorgan som utøver virksomheten sin i henhold til forordning [(EF) nr. 765/2008](eu/32008r0765). Akkrediteringsområdetskal omfatte alle de metodene for laboratorieanalyse, -undersøkelse eller -diagnostisering som laboratoriet er pålagt å bruke når det fungerer som EU-referanselaboratorium,kan omfatte én eller flere metoder for laboratorieanalyse, -undersøkelse eller -diagnostisering eller grupper av metoder,kan defineres på en fleksibel måte, slik at akkrediteringsområdet kan omfatte endrede versjoner av metodene som EU-referanselaboratoriet brukte da akkrediteringen ble gitt, eller nye metoder i tillegg til disse metodene, på grunnlag av laboratoriets egne valideringer og uten at det er behov for en særlig vurdering fra det nasjonale akkrediteringsorganet i medlemsstaten der EU-referanselaboratoriet ligger, før de endrede eller nye metodene tas i bruk,være upartiske og ikke ha noen interessekonflikter, og framfor alt ikke befinne seg i en situasjon som direkte eller indirekte kan påvirke yrkesmoralen deres når de utfører oppgaver som EU-referanselaboratorier,ha eller ha kontraktsfestet tilgang til personale med egnede kvalifikasjoner som har fått hensiktsmessig opplæring i de analyse-, undersøkelses- og diagnostiseringsmetodene som brukes innenfor laboratoriets kompetanseområde, samt støttepersonale ved behov,råde over eller ha tilgang til den infrastrukturen, det utstyret og de produktene som er nødvendige for å kunne utføre oppgavene de har fått tildelt,sikre at personalet deres og eventuelt personale som er ansatt på kontrakt, har god kjennskap til internasjonale standarder og internasjonal praksis, og at de i arbeidet sitt tar hensyn til den nyeste utviklingen innen forskning på nasjonalt plan, unionsplan og internasjonalt plan,være utstyrt med eller ha tilgang til nødvendig utstyr til å utføre oppgavene sine i nødssituasjoner, ogdersom det er relevant, være i stand til å oppfylle de relevante standardene for biosikkerhet.
+3\. EU-referanselaboratorier skalarbeide i samsvar med standarden EN ISO/IEC 17025 og være akkreditert i samsvar med nevnte standard av et nasjonalt akkrediteringsorgan som utøver virksomheten sin i henhold til forordning [(EF) nr. 765/2008](eu/32008r0765). Akkrediteringsområdetskal omfatte alle de metodene for laboratorieanalyse, -undersøkelse eller -diagnostisering som laboratoriet er pålagt å bruke når det fungerer som EU-referanselaboratorium,kan omfatte én eller flere metoder for laboratorieanalyse, -undersøkelse eller -diagnostisering eller grupper av metoder,kan defineres på en fleksibel måte, slik at akkrediteringsområdet kan omfatte endrede versjoner av metodene som EU-referanselaboratoriet brukte da akkrediteringen ble gitt, eller nye metoder i tillegg til disse metodene, på grunnlag av laboratoriets egne valideringer og uten at det er behov for en særlig vurdering fra det nasjonale akkrediteringsorganet i medlemsstaten der EU-referanselaboratoriet ligger, før de endrede eller nye metodene tas i bruk,være upartiske og ikke ha noen interessekonflikter, og framfor alt ikke befinne seg i en situasjon som direkte eller indirekte kan påvirke yrkesmoralen deres når de utfører oppgaver som EU-referanselaboratorier,ha eller ha kontraktsfestet tilgang til personale med egnede kvalifikasjoner som har fått hensiktsmessig opplæring i de analyse-, undersøkelses- og diagnostiseringsmetodene som brukes innenfor laboratoriets kompetanseområde, samt støttepersonale ved behov,råde over eller ha tilgang til den infrastrukturen, det utstyret og de produktene som er nødvendige for å kunne utføre oppgavene de har fått tildelt,sikre at personalet deres og eventuelt personale som er ansatt på kontrakt, har god kjennskap til internasjonale standarder og internasjonal praksis, og at de i arbeidet sitt tar hensyn til den nyeste utviklingen innen forskning på nasjonalt plan, unionsplan og internasjonalt plan,være utstyrt med eller ha tilgang til nødvendig utstyr til å utføre oppgavene sine i nødssituasjoner, ogdersom det er relevant, være i stand til å oppfylle de relevante standardene for biosikkerhet.
 
-4. Som unntak fra nr. 3 bokstav a) i denne artikkel kan Kommisjonen, for det området som omfattes av reglene nevnt i artikkel 1 nr. 2 bokstav g), utpeke offentlige laboratorier, som er utpekt til dette av de vedkommende myndighetene på grunnlag av et unntak vedtatt etter artikkel 41, til EU-referanselaboratorier uten hensyn til om de oppfyller vilkårene fastsatt i nr. 3 bokstav a) i denne artikkel.
+4\. Som unntak fra nr. 3 bokstav a) i denne artikkel kan Kommisjonen, for det området som omfattes av reglene nevnt i artikkel 1 nr. 2 bokstav g), utpeke offentlige laboratorier, som er utpekt til dette av de vedkommende myndighetene på grunnlag av et unntak vedtatt etter artikkel 41, til EU-referanselaboratorier uten hensyn til om de oppfyller vilkårene fastsatt i nr. 3 bokstav a) i denne artikkel.
 
-5. Som unntak fra nr. 1 og 2 i denne artikkel skal laboratoriene nevnt i artikkel 32 første ledd i forordning [(EF) nr. 1829/2003](eu/32003r1829) og i artikkel 21 første ledd i forordning [(EF) nr. 1831/2003](eu/32003r1831) være de EU-referanselaboratoriene som har ansvaret for og utfører oppgavene nevnt i artikkel 94 i denne forordning med hensyn til henholdsvisgenmodifiserte organismer, genmodifiserte næringsmidler og genmodifisert fôr, ogtilsetningsstoffer i fôrvarer.
+5\. Som unntak fra nr. 1 og 2 i denne artikkel skal laboratoriene nevnt i artikkel 32 første ledd i forordning [(EF) nr. 1829/2003](eu/32003r1829) og i artikkel 21 første ledd i forordning [(EF) nr. 1831/2003](eu/32003r1831) være de EU-referanselaboratoriene som har ansvaret for og utfører oppgavene nevnt i artikkel 94 i denne forordning med hensyn til henholdsvisgenmodifiserte organismer, genmodifiserte næringsmidler og genmodifisert fôr, ogtilsetningsstoffer i fôrvarer.
 
-6. Personalets taushetsplikt nevnt i artikkel 8 får tilsvarende anvendelse på personale ved EU-referanselaboratorier.
+6\. Personalets taushetsplikt nevnt i artikkel 8 får tilsvarende anvendelse på personale ved EU-referanselaboratorier.
 
 ### Artikkel 94. Ansvarsområder og oppgaver for EU-referanselaboratorier
 
-1. EU-referanselaboratoriene skal bidra til å forbedre og harmonisere de metodene for analyse, undersøkelse eller diagnostisering som skal brukes av offentlige laboratorier som utpekes i samsvar med artikkel 37 nr. 1, og de analyse-, undersøkelses- og diagnosedataene som de leverer.
+1\. EU-referanselaboratoriene skal bidra til å forbedre og harmonisere de metodene for analyse, undersøkelse eller diagnostisering som skal brukes av offentlige laboratorier som utpekes i samsvar med artikkel 37 nr. 1, og de analyse-, undersøkelses- og diagnosedataene som de leverer.
 
-2. EU-referanselaboratorier som er utpekt i samsvar med artikkel 93 nr. 1, skal være ansvarlige for følgende oppgaver, i den grad de inngår i referanselaboratorienes ettårige eller flerårige arbeidsprogrammer som er fastsatt i samsvar med målene og prioriteringene i de relevante arbeidsprogrammene vedtatt av Kommisjonen i samsvar med artikkel 36 i forordning [(EU) nr. 652/2014](eu/32014r0652):Gi de nasjonale referanselaboratoriene nærmere opplysninger og veiledning om metodene for laboratorieanalyse, -undersøkelse og -diagnostisering, herunder referansemetoder.Gi de nasjonale referanselaboratoriene referansematerialer.Samordne de nasjonale referanselaboratorienes og om nødvendig andre offentlige laboratoriers bruk av metodene nevnt i bokstav a), særlig ved å organisere regelmessige sammenlignende undersøkelser eller sammenlignende laboratorieprøvinger foretatt ved flere laboratorier, og ved å sikre relevant oppfølging av disse sammenlignende undersøkelsene eller sammenlignende laboratorieprøvingene i henhold til tilgjengelige internasjonalt anerkjente protokoller, og informere Kommisjonen og medlemsstatene om resultatene og oppfølgingen av slike sammenlignende undersøkelser eller sammenlignende laboratorieprøvinger foretatt ved flere laboratorier.Samordne de praktiske ordningene som er nødvendige for å bruke nye metoder for laboratorieanalyse, -undersøkelse eller -diagnostisering, og informere de nasjonale referanselaboratoriene om framskrittene som gjøres på dette området.Gjennomføre opplæringskurs for personale ved de nasjonale referanselaboratoriene og om nødvendig ved andre offentlige laboratorier, samt for sakkyndige fra tredjestater.Yte vitenskapelig og teknisk bistand til Kommisjonen innenfor rammen av oppdraget.Gi nasjonale referanselaboratorier informasjon om relevant forskningsvirksomhet på nasjonalt plan, unionsplan og internasjonalt plan.Innenfor rammen av oppdraget, samarbeide med laboratorier i tredjestater og med Den europeiske myndighet for næringsmiddeltrygghet (EFSA), Det europeiske legemiddelbyrå (EMA) og Det europeiske senter for forebygging av og kontroll med sykdommer (ECDC).Bistå aktivt med å stille diagnose ved utbrudd i medlemsstatene av næringsmiddeloverførte sykdommer, zoonoser eller dyresykdommer eller ved angrep av planteskadegjørere, ved å stille bekreftende diagnoser og foreta karakterisering og taksonomiske eller epizootiske undersøkelser av isolater av sykdomsframkallende stoffer eller prøver av skadegjørere.Samordne eller gjennomføre undersøkelser for å verifisere kvaliteten på de reagensene og reagenspartiene som brukes til å stille diagnose i forbindelse med næringsmiddeloverførte sykdommer, zoonoser, dyresykdommer og planteskadegjørere.Dersom det er relevant for deres kompetanseområde, opprette og opprettholdereferansesamlinger av planteskadegjørere og/eller referansestammer av sykdomsframkallende stoffer,referansesamlinger av materialer beregnet på å komme i kontakt med næringsmidler, som brukes til å kalibrere analyseutstyr og forsyne nasjonale referanselaboratorier med prøver,ajourførte lister over tilgjengelige referansestoffer og reagenser samt over produsenter og leverandører av slike stoffer og reagenser.Dersom det er relevant for deres kompetanseområde, samarbeide med hverandre og ved behov med Kommisjonen for å utvikle analyse-, undersøkelses- eller diagnostiseringsmetoder av høy kvalitet.Når det gjelder bokstav k) i), kan EU-referanselaboratoriet opprette og opprettholde disse referansesamlingene og referansestammene gjennom utkontraktering til andre offentlige laboratorier og til vitenskapelige organisasjoner.
+2\. EU-referanselaboratorier som er utpekt i samsvar med artikkel 93 nr. 1, skal være ansvarlige for følgende oppgaver, i den grad de inngår i referanselaboratorienes ettårige eller flerårige arbeidsprogrammer som er fastsatt i samsvar med målene og prioriteringene i de relevante arbeidsprogrammene vedtatt av Kommisjonen i samsvar med artikkel 36 i forordning [(EU) nr. 652/2014](eu/32014r0652):Gi de nasjonale referanselaboratoriene nærmere opplysninger og veiledning om metodene for laboratorieanalyse, -undersøkelse og -diagnostisering, herunder referansemetoder.Gi de nasjonale referanselaboratoriene referansematerialer.Samordne de nasjonale referanselaboratorienes og om nødvendig andre offentlige laboratoriers bruk av metodene nevnt i bokstav a), særlig ved å organisere regelmessige sammenlignende undersøkelser eller sammenlignende laboratorieprøvinger foretatt ved flere laboratorier, og ved å sikre relevant oppfølging av disse sammenlignende undersøkelsene eller sammenlignende laboratorieprøvingene i henhold til tilgjengelige internasjonalt anerkjente protokoller, og informere Kommisjonen og medlemsstatene om resultatene og oppfølgingen av slike sammenlignende undersøkelser eller sammenlignende laboratorieprøvinger foretatt ved flere laboratorier.Samordne de praktiske ordningene som er nødvendige for å bruke nye metoder for laboratorieanalyse, -undersøkelse eller -diagnostisering, og informere de nasjonale referanselaboratoriene om framskrittene som gjøres på dette området.Gjennomføre opplæringskurs for personale ved de nasjonale referanselaboratoriene og om nødvendig ved andre offentlige laboratorier, samt for sakkyndige fra tredjestater.Yte vitenskapelig og teknisk bistand til Kommisjonen innenfor rammen av oppdraget.Gi nasjonale referanselaboratorier informasjon om relevant forskningsvirksomhet på nasjonalt plan, unionsplan og internasjonalt plan.Innenfor rammen av oppdraget, samarbeide med laboratorier i tredjestater og med Den europeiske myndighet for næringsmiddeltrygghet (EFSA), Det europeiske legemiddelbyrå (EMA) og Det europeiske senter for forebygging av og kontroll med sykdommer (ECDC).Bistå aktivt med å stille diagnose ved utbrudd i medlemsstatene av næringsmiddeloverførte sykdommer, zoonoser eller dyresykdommer eller ved angrep av planteskadegjørere, ved å stille bekreftende diagnoser og foreta karakterisering og taksonomiske eller epizootiske undersøkelser av isolater av sykdomsframkallende stoffer eller prøver av skadegjørere.Samordne eller gjennomføre undersøkelser for å verifisere kvaliteten på de reagensene og reagenspartiene som brukes til å stille diagnose i forbindelse med næringsmiddeloverførte sykdommer, zoonoser, dyresykdommer og planteskadegjørere.Dersom det er relevant for deres kompetanseområde, opprette og opprettholdereferansesamlinger av planteskadegjørere og/eller referansestammer av sykdomsframkallende stoffer,referansesamlinger av materialer beregnet på å komme i kontakt med næringsmidler, som brukes til å kalibrere analyseutstyr og forsyne nasjonale referanselaboratorier med prøver,ajourførte lister over tilgjengelige referansestoffer og reagenser samt over produsenter og leverandører av slike stoffer og reagenser.Dersom det er relevant for deres kompetanseområde, samarbeide med hverandre og ved behov med Kommisjonen for å utvikle analyse-, undersøkelses- eller diagnostiseringsmetoder av høy kvalitet.Når det gjelder bokstav k) i), kan EU-referanselaboratoriet opprette og opprettholde disse referansesamlingene og referansestammene gjennom utkontraktering til andre offentlige laboratorier og til vitenskapelige organisasjoner.
 
-3. EU-referanselaboratoriene skal offentliggjøre listen over de nasjonale referanselaboratoriene som medlemsstatene har utpekt i samsvar med artikkel 100 nr. 1.
+3\. EU-referanselaboratoriene skal offentliggjøre listen over de nasjonale referanselaboratoriene som medlemsstatene har utpekt i samsvar med artikkel 100 nr. 1.
 
 ### Artikkel 95. Utpeking av EU-referansesentre for dyrevelferd
 
-1. Kommisjonen skal ved hjelp av gjennomføringsrettsakter utpeke EU-referansesentre for dyrevelferd som skal støtte opp om virksomheten til Kommisjonen og medlemsstatene i forbindelse med anvendelsen av reglene nevnt i artikkel 1 nr. 2 bokstav f).
+1\. Kommisjonen skal ved hjelp av gjennomføringsrettsakter utpeke EU-referansesentre for dyrevelferd som skal støtte opp om virksomheten til Kommisjonen og medlemsstatene i forbindelse med anvendelsen av reglene nevnt i artikkel 1 nr. 2 bokstav f).
 
-2. Utpekingene fastsatt i nr. 1 skalfølge en offentlig utvelgingsprosess ogvære begrenset i tid eller gjennomgås jevnlig.
+2\. Utpekingene fastsatt i nr. 1 skalfølge en offentlig utvelgingsprosess ogvære begrenset i tid eller gjennomgås jevnlig.
 
-3. EU-referansesentrene for dyrevelferd skalopptre upartisk når de utfører sine oppgaver som EU-referansesentre,ha et høyt nivå av vitenskapelig og teknisk sakkunnskap om forholdet mellom mennesker og dyr, om dyrs atferd, fysiologi, genetikk, helse og ernæring i forbindelse med dyrevelferd, samt om dyrevelferdsaspekter knyttet til kommersiell og vitenskapelig bruk av dyr,ha personale med egnede kvalifikasjoner og hensiktsmessig opplæring innenfor områdene nevnt i bokstav b) og i etiske spørsmål knyttet til dyr, samt støttepersonale ved behov,råde over eller ha tilgang til den infrastrukturen, det utstyret og de produktene som er nødvendige for å utføre oppgavene de har fått tildelt, ogsikre at personalet har god kjennskap til internasjonale standarder og internasjonal praksis på områdene nevnt i bokstav b), og at de i arbeidet sitt tar hensyn til den nyeste utviklingen innen forskning på disse områdene på nasjonalt plan, unionsplan og internasjonalt plan, herunder undersøkelser og tiltak som andre EU-referansesentre for dyrevelferd har gjennomført.
+3\. EU-referansesentrene for dyrevelferd skalopptre upartisk når de utfører sine oppgaver som EU-referansesentre,ha et høyt nivå av vitenskapelig og teknisk sakkunnskap om forholdet mellom mennesker og dyr, om dyrs atferd, fysiologi, genetikk, helse og ernæring i forbindelse med dyrevelferd, samt om dyrevelferdsaspekter knyttet til kommersiell og vitenskapelig bruk av dyr,ha personale med egnede kvalifikasjoner og hensiktsmessig opplæring innenfor områdene nevnt i bokstav b) og i etiske spørsmål knyttet til dyr, samt støttepersonale ved behov,råde over eller ha tilgang til den infrastrukturen, det utstyret og de produktene som er nødvendige for å utføre oppgavene de har fått tildelt, ogsikre at personalet har god kjennskap til internasjonale standarder og internasjonal praksis på områdene nevnt i bokstav b), og at de i arbeidet sitt tar hensyn til den nyeste utviklingen innen forskning på disse områdene på nasjonalt plan, unionsplan og internasjonalt plan, herunder undersøkelser og tiltak som andre EU-referansesentre for dyrevelferd har gjennomført.
 
 ### Artikkel 96. Ansvarsområder og oppgaver for EU-referansesentre for dyrevelferd
 
@@ -859,11 +1383,11 @@ EU-referansesentrene for dyrevelferd skal være ansvarlige for følgende støtte
 
 ### Artikkel 97. Utpeking av EU-referansesentre for ekthet og integritet i den landbruksbaserte næringsmiddelkjeden
 
-1. Kommisjonen kan ved hjelp av gjennomføringsrettsakter utpeke EU-referansesentre til støtte for Kommisjonens og medlemsstatenes arbeid for å forebygge, påvise og bekjempe overtredelser av reglene nevnt i artikkel 1 nr. 2 som følge av bedrageri eller villedende praksis.
+1\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter utpeke EU-referansesentre til støtte for Kommisjonens og medlemsstatenes arbeid for å forebygge, påvise og bekjempe overtredelser av reglene nevnt i artikkel 1 nr. 2 som følge av bedrageri eller villedende praksis.
 
-2. Utpekingene fastsatt i nr. 1 skalfølge en offentlig utvelgingsprosess ogvære begrenset i tid eller gjennomgås jevnlig.
+2\. Utpekingene fastsatt i nr. 1 skalfølge en offentlig utvelgingsprosess ogvære begrenset i tid eller gjennomgås jevnlig.
 
-3. EU-referansesentrene for ekthet og integritet i den landbruksbaserte næringsmiddelkjeden skalopptre upartisk når de utfører sine oppgaver som EU-referansesentre,ha et høyt nivå av vitenskapelig og teknisk sakkunnskap på de områdene som omfattes av reglene nevnt i artikkel 1 nr. 2 og innenfor anvendt kriminalteknikk på disse områdene, slik at de kan drive eller samordne forskning på høyeste nivå med hensyn til varers ekthet og integritet samt utvikle, anvende og validere metodene som skal brukes til å påvise overtredelser av reglene nevnt i artikkel 1 nr. 2 som følge av bedrageri eller villedende praksis,ha personale med egnede kvalifikasjoner og hensiktsmessig opplæring innenfor områdene nevnt i bokstav b), samt nødvendig støttepersonale,råde over eller ha tilgang til den infrastrukturen, det utstyret og de produktene som er nødvendige for å utføre oppgavene de har fått tildelt, ogsikre at personalet har god kjennskap til internasjonale standarder og internasjonal praksis på områdene nevnt i bokstav b), og at de i arbeidet sitt tar hensyn til den nyeste utviklingen innen forskning på disse områdene på nasjonalt plan, unionsplan og internasjonalt plan.
+3\. EU-referansesentrene for ekthet og integritet i den landbruksbaserte næringsmiddelkjeden skalopptre upartisk når de utfører sine oppgaver som EU-referansesentre,ha et høyt nivå av vitenskapelig og teknisk sakkunnskap på de områdene som omfattes av reglene nevnt i artikkel 1 nr. 2 og innenfor anvendt kriminalteknikk på disse områdene, slik at de kan drive eller samordne forskning på høyeste nivå med hensyn til varers ekthet og integritet samt utvikle, anvende og validere metodene som skal brukes til å påvise overtredelser av reglene nevnt i artikkel 1 nr. 2 som følge av bedrageri eller villedende praksis,ha personale med egnede kvalifikasjoner og hensiktsmessig opplæring innenfor områdene nevnt i bokstav b), samt nødvendig støttepersonale,råde over eller ha tilgang til den infrastrukturen, det utstyret og de produktene som er nødvendige for å utføre oppgavene de har fått tildelt, ogsikre at personalet har god kjennskap til internasjonale standarder og internasjonal praksis på områdene nevnt i bokstav b), og at de i arbeidet sitt tar hensyn til den nyeste utviklingen innen forskning på disse områdene på nasjonalt plan, unionsplan og internasjonalt plan.
 
 ### Artikkel 98. Ansvarsområder og oppgaver for EU-referansesentre for ekthet og integritet i den landbruksbaserte næringsmiddelkjeden
 
@@ -871,125 +1395,125 @@ EU-referansesentrene for ekthet og integritet i den landbruksbaserte næringsmid
 
 ### Artikkel 99. Kommisjonens plikter
 
-1. Kommisjonen skal offentliggjøre og ved behov ajourføre listen overEU-referanselaboratoriene fastsatt i artikkel 93,EU-referansesentrene for dyrevelferd fastsatt i artikkel 95,EU-referansesentrene for ekthet og integritet i den landbruksbaserte næringsmiddelkjeden fastsatt i artikkel 97.
+1\. Kommisjonen skal offentliggjøre og ved behov ajourføre listen overEU-referanselaboratoriene fastsatt i artikkel 93,EU-referansesentrene for dyrevelferd fastsatt i artikkel 95,EU-referansesentrene for ekthet og integritet i den landbruksbaserte næringsmiddelkjeden fastsatt i artikkel 97.
 
-2. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 144 for å utfylle denne forordning med hensyn til fastsettelse av krav, ansvarsområder og oppgaver for EU-referanselaboratoriene, EU-referansesentrene for dyrevelferd og EU-referansesentrene for ekthet og integritet i den landbruksbaserte næringsmiddelkjeden i tillegg til dem som er fastsatt i artikkel 93 nr. 3, artikkel 94, artikkel 95 nr. 3, artikkel 96, artikkel 97 nr. 3 og artikkel 98. Slike delegerte rettsakter skal begrenses til situasjoner med nye eller framvoksende risikoer, nye eller framvoksende dyresykdommer eller planteskadegjørere eller dersom nye lovfestede krav tilsier det.
+2\. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 144 for å utfylle denne forordning med hensyn til fastsettelse av krav, ansvarsområder og oppgaver for EU-referanselaboratoriene, EU-referansesentrene for dyrevelferd og EU-referansesentrene for ekthet og integritet i den landbruksbaserte næringsmiddelkjeden i tillegg til dem som er fastsatt i artikkel 93 nr. 3, artikkel 94, artikkel 95 nr. 3, artikkel 96, artikkel 97 nr. 3 og artikkel 98. Slike delegerte rettsakter skal begrenses til situasjoner med nye eller framvoksende risikoer, nye eller framvoksende dyresykdommer eller planteskadegjørere eller dersom nye lovfestede krav tilsier det.
 
-3. Kommisjonen skal kontrollere EU-referanselaboratoriene og EU-referansesentrene med henblikk på å verifisere overholdelsen av kravene i artikkel 93 nr. 3, artikkel 94, artikkel 95 nr. 3 og artikkel 97 nr. 3.
+3\. Kommisjonen skal kontrollere EU-referanselaboratoriene og EU-referansesentrene med henblikk på å verifisere overholdelsen av kravene i artikkel 93 nr. 3, artikkel 94, artikkel 95 nr. 3 og artikkel 97 nr. 3.
 
-4. Dersom Kommisjonens kontroll nevnt i nr. 3 i denne artikkel viser manglende overholdelse av kravene fastsatt i artikkel 93 nr. 3, artikkel 94, artikkel 95 nr. 3 og artikkel 97 nr. 3, skal Kommisjonen, etter å ha mottatt merknadene fra EU-referanselaboratoriet eller EU-referansesenteret,tilbakekalle utpekingen av det aktuelle laboratoriet eller senteret ved hjelp av en gjennomføringsrettsakt, ellertreffe andre tiltak som er hensiktsmessige.
+4\. Dersom Kommisjonens kontroll nevnt i nr. 3 i denne artikkel viser manglende overholdelse av kravene fastsatt i artikkel 93 nr. 3, artikkel 94, artikkel 95 nr. 3 og artikkel 97 nr. 3, skal Kommisjonen, etter å ha mottatt merknadene fra EU-referanselaboratoriet eller EU-referansesenteret,tilbakekalle utpekingen av det aktuelle laboratoriet eller senteret ved hjelp av en gjennomføringsrettsakt, ellertreffe andre tiltak som er hensiktsmessige.
 
 ### Artikkel 100. Utpeking av nasjonale referanselaboratorier
 
-1. Medlemsstatene skal utpeke ett eller flere nasjonale referanselaboratorier for hvert EU-referanselaboratorium som utpekes i samsvar med artikkel 93 nr. 1.Medlemsstatene kan utpeke et nasjonalt referanselaboratorium også i tilfeller der det ikke finnes et tilsvarende EU-referanselaboratorium.En medlemsstat kan utpeke et laboratorium som ligger i en annen medlemsstat, eller i en tredjestat som er part i avtalen om Det europeiske økonomiske samarbeidsområde.Ett enkelt laboratorium kan være utpekt som nasjonalt referanselaboratorium for mer enn én medlemsstat.
+1\. Medlemsstatene skal utpeke ett eller flere nasjonale referanselaboratorier for hvert EU-referanselaboratorium som utpekes i samsvar med artikkel 93 nr. 1.Medlemsstatene kan utpeke et nasjonalt referanselaboratorium også i tilfeller der det ikke finnes et tilsvarende EU-referanselaboratorium.En medlemsstat kan utpeke et laboratorium som ligger i en annen medlemsstat, eller i en tredjestat som er part i avtalen om Det europeiske økonomiske samarbeidsområde.Ett enkelt laboratorium kan være utpekt som nasjonalt referanselaboratorium for mer enn én medlemsstat.
 
-2. Kravene fastsatt i artikkel 37 nr. 4 bokstav e), artikkel 37 nr. 5, artikkel 39 og artikkel 42 nr. 1, artikkel 42 nr. 2 bokstav a) og b) og artikkel 42 nr. 3 gjelder for nasjonale referanselaboratorier.Som unntak fra artikkel 37 nr. 4 bokstav e) i denne artikkel kan vedkommende myndigheter, for det området som omfattes av reglene nevnt i artikkel 1 nr. 2 bokstav g), utpeke offentlige laboratorier, som er utpekt til dette av de vedkommende myndighetene på grunnlag av et unntak vedtatt etter artikkel 41, til nasjonale referanselaboratorier uten hensyn til om de oppfyller vilkåret fastsatt i artikkel 37 nr. 4 bokstav e).
+2\. Kravene fastsatt i artikkel 37 nr. 4 bokstav e), artikkel 37 nr. 5, artikkel 39 og artikkel 42 nr. 1, artikkel 42 nr. 2 bokstav a) og b) og artikkel 42 nr. 3 gjelder for nasjonale referanselaboratorier.Som unntak fra artikkel 37 nr. 4 bokstav e) i denne artikkel kan vedkommende myndigheter, for det området som omfattes av reglene nevnt i artikkel 1 nr. 2 bokstav g), utpeke offentlige laboratorier, som er utpekt til dette av de vedkommende myndighetene på grunnlag av et unntak vedtatt etter artikkel 41, til nasjonale referanselaboratorier uten hensyn til om de oppfyller vilkåret fastsatt i artikkel 37 nr. 4 bokstav e).
 
-3. Nasjonale referanselaboratorier skalvære upartiske og ikke ha noen interessekonflikter, og framfor alt ikke befinne seg i en situasjon som direkte eller indirekte kan påvirke yrkesmoralen deres når de utfører oppgaver som nasjonale referanselaboratorier,ha eller ha kontraktsfestet tilgang til personale med egnede kvalifikasjoner som har fått hensiktsmessig opplæring i analyse-, undersøkelses- og diagnostiseringsmetoder innenfor laboratoriets kompetanseområde, samt støttepersonale ved behov,råde over eller ha tilgang til den infrastrukturen, det utstyret og de produktene som er nødvendige for å kunne utføre oppgavene de har fått tildelt,sikre at personalet deres og eventuelt personale som er ansatt på kontrakt, har god kjennskap til internasjonale standarder og internasjonal praksis, og at de i arbeidet sitt tar hensyn til den nyeste utviklingen innen forskning på nasjonalt plan, unionsplan og internasjonalt plan,være utstyrt med eller ha tilgang til nødvendig utstyr til å utføre oppgavene sine i nødssituasjoner, ogdersom det er relevant, være i stand til å oppfylle de relevante standardene for biosikkerhet.
+3\. Nasjonale referanselaboratorier skalvære upartiske og ikke ha noen interessekonflikter, og framfor alt ikke befinne seg i en situasjon som direkte eller indirekte kan påvirke yrkesmoralen deres når de utfører oppgaver som nasjonale referanselaboratorier,ha eller ha kontraktsfestet tilgang til personale med egnede kvalifikasjoner som har fått hensiktsmessig opplæring i analyse-, undersøkelses- og diagnostiseringsmetoder innenfor laboratoriets kompetanseområde, samt støttepersonale ved behov,råde over eller ha tilgang til den infrastrukturen, det utstyret og de produktene som er nødvendige for å kunne utføre oppgavene de har fått tildelt,sikre at personalet deres og eventuelt personale som er ansatt på kontrakt, har god kjennskap til internasjonale standarder og internasjonal praksis, og at de i arbeidet sitt tar hensyn til den nyeste utviklingen innen forskning på nasjonalt plan, unionsplan og internasjonalt plan,være utstyrt med eller ha tilgang til nødvendig utstyr til å utføre oppgavene sine i nødssituasjoner, ogdersom det er relevant, være i stand til å oppfylle de relevante standardene for biosikkerhet.
 
-4. Medlemsstatene skalinformere Kommisjonen, det relevante EU-referanselaboratoriet og de andre medlemsstatene om navnet og adressen til de nasjonale referanselaboratoriene,gjøre opplysningene nevnt i bokstav a) tilgjengelige for offentligheten, ogajourføre opplysningene nevnt i bokstav a) ved behov.
+4\. Medlemsstatene skalinformere Kommisjonen, det relevante EU-referanselaboratoriet og de andre medlemsstatene om navnet og adressen til de nasjonale referanselaboratoriene,gjøre opplysningene nevnt i bokstav a) tilgjengelige for offentligheten, ogajourføre opplysningene nevnt i bokstav a) ved behov.
 
-5. Medlemsstater som har mer enn ett nasjonalt referanselaboratorium for hvert EU-referanselaboratorium, skal sikre at disse laboratoriene har et nært samarbeid som sikrer effektiv samordning dem imellom, med andre nasjonale laboratorier og med EU-referanselaboratoriet.
+5\. Medlemsstater som har mer enn ett nasjonalt referanselaboratorium for hvert EU-referanselaboratorium, skal sikre at disse laboratoriene har et nært samarbeid som sikrer effektiv samordning dem imellom, med andre nasjonale laboratorier og med EU-referanselaboratoriet.
 
-6. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 144 for å utfylle denne forordning med hensyn til fastsettelse av krav til nasjonale referanselaboratorier i tillegg til dem som er fastsatt i nr. 2 og 3 i denne artikkel. Slike delegerte rettsakter skal begrenses til å sikre sammenheng med eventuelle tilleggskrav vedtatt i samsvar med artikkel 99 nr. 2.
+6\. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 144 for å utfylle denne forordning med hensyn til fastsettelse av krav til nasjonale referanselaboratorier i tillegg til dem som er fastsatt i nr. 2 og 3 i denne artikkel. Slike delegerte rettsakter skal begrenses til å sikre sammenheng med eventuelle tilleggskrav vedtatt i samsvar med artikkel 99 nr. 2.
 
 ### Artikkel 101. Ansvarsområder og oppgaver for nasjonale referanselaboratorier
 
-1. Nasjonale referanselaboratorier skal innenfor sine respektive kompetanseområdersamarbeide med EU-referanselaboratoriene og delta i opplæringskurs og i sammenlignende undersøkelser ved flere laboratorier som disse organiserer,samordne virksomheten til de offentlige laboratoriene utpekt i samsvar med artikkel 37 nr. 1 med henblikk på å harmonisere og forbedre metodene for laboratorieanalyse, -undersøkelse og -diagnostisering og bruken av disse metodene,ved behov organisere sammenlignende undersøkelser eller laboratorieprøvinger foretatt ved flere offentlige laboratorier, sikre egnet oppfølging av slike undersøkelser og prøvinger og underrette de vedkommende myndighetene om resultatene og oppfølgingen av dem,sørge for at opplysningene fra EU-referanselaboratoriet formidles til de vedkommende myndighetene og de offentlige laboratoriene,innenfor rammen av oppdraget gi vitenskapelig og teknisk bistand til de vedkommende myndighetene i forbindelse med gjennomføringen av de flerårige nasjonale kontrollplanene nevnt i artikkel 109 og de samordnede kontrollprogrammene vedtatt i samsvar med artikkel 112,dersom det er relevant, validere reagenser og reagenspartier, opprette og opprettholde ajourførte lister over tilgjengelige referansestoffer og reagenser og over produsenter og leverandører av slike stoffer og reagenser,om nødvendig gjennomføre opplæringskurs for personalet ved de offentlige laboratoriene som er utpekt i henhold til artikkel 37 nr. 1, ogaktivt bistå medlemsstaten som har utpekt dem, med å stille diagnose ved utbrudd av næringsmiddeloverførte sykdommer, zoonoser eller dyresykdommer eller ved angrep av planteskadegjørere, ved å stille bekreftende diagnoser og foreta karakterisering og epizootiske eller taksonomiske undersøkelser av isolater av sykdomsframkallende stoffer eller prøver av skadegjørere.
+1\. Nasjonale referanselaboratorier skal innenfor sine respektive kompetanseområdersamarbeide med EU-referanselaboratoriene og delta i opplæringskurs og i sammenlignende undersøkelser ved flere laboratorier som disse organiserer,samordne virksomheten til de offentlige laboratoriene utpekt i samsvar med artikkel 37 nr. 1 med henblikk på å harmonisere og forbedre metodene for laboratorieanalyse, -undersøkelse og -diagnostisering og bruken av disse metodene,ved behov organisere sammenlignende undersøkelser eller laboratorieprøvinger foretatt ved flere offentlige laboratorier, sikre egnet oppfølging av slike undersøkelser og prøvinger og underrette de vedkommende myndighetene om resultatene og oppfølgingen av dem,sørge for at opplysningene fra EU-referanselaboratoriet formidles til de vedkommende myndighetene og de offentlige laboratoriene,innenfor rammen av oppdraget gi vitenskapelig og teknisk bistand til de vedkommende myndighetene i forbindelse med gjennomføringen av de flerårige nasjonale kontrollplanene nevnt i artikkel 109 og de samordnede kontrollprogrammene vedtatt i samsvar med artikkel 112,dersom det er relevant, validere reagenser og reagenspartier, opprette og opprettholde ajourførte lister over tilgjengelige referansestoffer og reagenser og over produsenter og leverandører av slike stoffer og reagenser,om nødvendig gjennomføre opplæringskurs for personalet ved de offentlige laboratoriene som er utpekt i henhold til artikkel 37 nr. 1, ogaktivt bistå medlemsstaten som har utpekt dem, med å stille diagnose ved utbrudd av næringsmiddeloverførte sykdommer, zoonoser eller dyresykdommer eller ved angrep av planteskadegjørere, ved å stille bekreftende diagnoser og foreta karakterisering og epizootiske eller taksonomiske undersøkelser av isolater av sykdomsframkallende stoffer eller prøver av skadegjørere.
 
-2. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 144 for å utfylle denne forordning med hensyn til fastsettelse av ansvarsområder og oppgaver for nasjonale referanselaboratorier i tillegg til dem som er fastsatt i nr. 1 i denne artikkel. Slike delegerte rettsakter skal begrenses til å sikre sammenheng med eventuelle ytterligere ansvarsområder og oppgaver vedtatt i samsvar med artikkel 99 nr. 2.
+2\. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 144 for å utfylle denne forordning med hensyn til fastsettelse av ansvarsområder og oppgaver for nasjonale referanselaboratorier i tillegg til dem som er fastsatt i nr. 1 i denne artikkel. Slike delegerte rettsakter skal begrenses til å sikre sammenheng med eventuelle ytterligere ansvarsområder og oppgaver vedtatt i samsvar med artikkel 99 nr. 2.
 
 ### AVDELING IV
 ADMINISTRATIV BISTAND OG SAMARBEID
 
 ### Artikkel 102. Alminnelige regler
 
-1. De vedkommende myndighetene i de berørte medlemsstatene skal gi hverandre administrativ bistand i samsvar med artikkel 104–107 for å sikre riktig anvendelse av reglene nevnt i artikkel 1 nr. 2 i saker som berører mer enn én medlemsstat.
+1\. De vedkommende myndighetene i de berørte medlemsstatene skal gi hverandre administrativ bistand i samsvar med artikkel 104–107 for å sikre riktig anvendelse av reglene nevnt i artikkel 1 nr. 2 i saker som berører mer enn én medlemsstat.
 
-2. Administrativ bistand skal, når det er relevant og etter avtale mellom de vedkommende myndighetene som er berørt, omfatte deltaking fra vedkommende myndigheter i en medlemsstat i offentlig kontroll på stedet som vedkommende myndigheter i en annen medlemsstat gjennomfører.
+2\. Administrativ bistand skal, når det er relevant og etter avtale mellom de vedkommende myndighetene som er berørt, omfatte deltaking fra vedkommende myndigheter i en medlemsstat i offentlig kontroll på stedet som vedkommende myndigheter i en annen medlemsstat gjennomfører.
 
-3. Denne avdeling berører ikke nasjonal rett somgjelder for frigivelse av dokumenter og opplysninger som er gjenstand for eller har tilknytning til rettslige undersøkelser og rettergang, herunder strafferettslig etterforskning, oghar som formål å verne fysiske eller juridiske personers forretningsinteresser.
+3\. Denne avdeling berører ikke nasjonal rett somgjelder for frigivelse av dokumenter og opplysninger som er gjenstand for eller har tilknytning til rettslige undersøkelser og rettergang, herunder strafferettslig etterforskning, oghar som formål å verne fysiske eller juridiske personers forretningsinteresser.
 
-4. Medlemsstatene skal treffe tiltak for å lette overføringen fra andre myndigheter med ansvar for håndheving av loven, påtalemyndigheter og rettsmyndigheter til de vedkommende myndighetene av opplysninger om mulig manglende overholdelse av reglene nevnt i artikkel 1 nr. 2 som er relevant for anvendelsen av denne avdeling, og som kan utgjøreen risiko for menneskers eller dyrs helse, for plantehelsen eller dyrevelferden eller, når det gjelder genmodifiserte organismer og plantevernmidler, for miljøet, elleren mulig overtredelse av reglene nevnt i artikkel 1 nr. 2 som følge av bedrageri eller villedende praksis.
+4\. Medlemsstatene skal treffe tiltak for å lette overføringen fra andre myndigheter med ansvar for håndheving av loven, påtalemyndigheter og rettsmyndigheter til de vedkommende myndighetene av opplysninger om mulig manglende overholdelse av reglene nevnt i artikkel 1 nr. 2 som er relevant for anvendelsen av denne avdeling, og som kan utgjøreen risiko for menneskers eller dyrs helse, for plantehelsen eller dyrevelferden eller, når det gjelder genmodifiserte organismer og plantevernmidler, for miljøet, elleren mulig overtredelse av reglene nevnt i artikkel 1 nr. 2 som følge av bedrageri eller villedende praksis.
 
-5. All kommunikasjon mellom vedkommende myndigheter i samsvar med artikkel 104–107, skal skje skriftlig, på papir eller i elektronisk form.
+5\. All kommunikasjon mellom vedkommende myndigheter i samsvar med artikkel 104–107, skal skje skriftlig, på papir eller i elektronisk form.
 
-6. For å effektivisere og forenkle utvekslingen av opplysninger skal Kommisjonen ved hjelp av gjennomføringsrettsakter fastsette et standardformat foranmodningene om bistand fastsatt i artikkel 104 nr. 1 ogformidling av vanlige og gjentakende meldinger og svar.Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
+6\. For å effektivisere og forenkle utvekslingen av opplysninger skal Kommisjonen ved hjelp av gjennomføringsrettsakter fastsette et standardformat foranmodningene om bistand fastsatt i artikkel 104 nr. 1 ogformidling av vanlige og gjentakende meldinger og svar.Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
 
 ### Artikkel 103. Kontaktorganer
 
-1. Hver medlemsstat skal utpeke ett eller flere kontaktorganer som fungerer som kontaktpunkter med ansvar for å lette utvekslingen av meldinger mellom vedkommende myndigheter i samsvar med artikkel 104–107.
+1\. Hver medlemsstat skal utpeke ett eller flere kontaktorganer som fungerer som kontaktpunkter med ansvar for å lette utvekslingen av meldinger mellom vedkommende myndigheter i samsvar med artikkel 104–107.
 
-2. Utpekingen av kontaktorganer skal ikke være til hinder for at personalet hos vedkommende myndigheter i de forskjellige medlemsstatene har direkte kontakt med hverandre, utveksler opplysninger eller samarbeider.
+2\. Utpekingen av kontaktorganer skal ikke være til hinder for at personalet hos vedkommende myndigheter i de forskjellige medlemsstatene har direkte kontakt med hverandre, utveksler opplysninger eller samarbeider.
 
-3. Medlemsstatene skal informere Kommisjonen og de andre medlemsstatene om kontaktopplysningene til de kontaktorganene de har utpekt i samsvar med nr. 1, og om eventuelle senere endringer av disse opplysningene.
+3\. Medlemsstatene skal informere Kommisjonen og de andre medlemsstatene om kontaktopplysningene til de kontaktorganene de har utpekt i samsvar med nr. 1, og om eventuelle senere endringer av disse opplysningene.
 
-4. Kommisjonen skal på nettstedet sitt offentliggjøre og ajourføre listen over kontaktorganer som medlemsstatene har informert om i samsvar med nr. 3.
+4\. Kommisjonen skal på nettstedet sitt offentliggjøre og ajourføre listen over kontaktorganer som medlemsstatene har informert om i samsvar med nr. 3.
 
-5. Alle anmodninger om bistand i henhold til artikkel 104 nr. 1 samt meldinger og meddelelser i henhold til artikkel 105, 106 og 107 skal sendes fra et kontaktorgan til det tilsvarende kontaktorganet i den medlemsstaten som anmodningen eller meldingen er rettet til.
+5\. Alle anmodninger om bistand i henhold til artikkel 104 nr. 1 samt meldinger og meddelelser i henhold til artikkel 105, 106 og 107 skal sendes fra et kontaktorgan til det tilsvarende kontaktorganet i den medlemsstaten som anmodningen eller meldingen er rettet til.
 
-6. Kommisjonen skal ved hjelp av gjennomføringsrettsakter fastsette spesifikasjoner for de tekniske verktøyene og framgangsmåtene for kommunikasjon mellom kontaktorganene utpekt i samsvar med nr. 1 i denne artikkel. Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
+6\. Kommisjonen skal ved hjelp av gjennomføringsrettsakter fastsette spesifikasjoner for de tekniske verktøyene og framgangsmåtene for kommunikasjon mellom kontaktorganene utpekt i samsvar med nr. 1 i denne artikkel. Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
 
 ### Artikkel 104. Bistand på anmodning
 
-1. Dersom de vedkommende myndighetene i en medlemsstat anser at de i forbindelse med gjennomføring av offentlig kontroll eller effektiv oppfølging av slik kontroll på territoriet sitt, har behov for data eller opplysninger fra vedkommende myndigheter i en annen medlemsstat, skal de rette en grunngitt anmodning om administrativ bistand til de vedkommende myndighetene i denne medlemsstaten. De anmodede vedkommende myndighetene skalstraks bekrefte at de har mottatt anmodningen,dersom den anmodende vedkommende myndigheten har bedt om det, innen ti virkedager etter mottak av anmodningen angi omtrent hvor lang tid det vil ta å gi et velbegrunnet svar på anmodningen, oggjennomføre den offentlige kontrollen og de undersøkelsene som er nødvendige for straks å gi de anmodende vedkommende myndighetene alle nødvendige opplysninger og dokumenter som gjør dem i stand til å treffe velbegrunnede beslutninger og verifisere overholdelsen av unionsreglene innenfor deres jurisdiksjon.
+1\. Dersom de vedkommende myndighetene i en medlemsstat anser at de i forbindelse med gjennomføring av offentlig kontroll eller effektiv oppfølging av slik kontroll på territoriet sitt, har behov for data eller opplysninger fra vedkommende myndigheter i en annen medlemsstat, skal de rette en grunngitt anmodning om administrativ bistand til de vedkommende myndighetene i denne medlemsstaten. De anmodede vedkommende myndighetene skalstraks bekrefte at de har mottatt anmodningen,dersom den anmodende vedkommende myndigheten har bedt om det, innen ti virkedager etter mottak av anmodningen angi omtrent hvor lang tid det vil ta å gi et velbegrunnet svar på anmodningen, oggjennomføre den offentlige kontrollen og de undersøkelsene som er nødvendige for straks å gi de anmodende vedkommende myndighetene alle nødvendige opplysninger og dokumenter som gjør dem i stand til å treffe velbegrunnede beslutninger og verifisere overholdelsen av unionsreglene innenfor deres jurisdiksjon.
 
-2. Det kan sendes originaldokumenter eller kopier.
+2\. Det kan sendes originaldokumenter eller kopier.
 
-3. Etter avtale mellom de anmodende vedkommende myndighetene og de anmodede vedkommende myndighetene kan personale som er utpekt av førstnevnte, være til stede under den offentlige kontrollen og undersøkelsene nevnt i nr. 1 bokstav c) som gjennomføres av de anmodede vedkommende myndighetene.I slike tilfeller skal personalet hos de anmodende vedkommende myndighetenetil enhver tid kunne framvise en skriftlig fullmakt med opplysninger om identitet og offisiell myndighet,gis tilgang av den driftsansvarlige til de samme lokalene og dokumentene som personalet hos de anmodede vedkommende myndighetene, formidlet gjennom disse myndighetene og utelukkende i forbindelse med den administrative undersøkelsen som foretas, ogikke på eget initiativ utøve den undersøkelsesmyndigheten som er tildelt tjenestemenn hos de anmodede vedkommende myndighetene.
+3\. Etter avtale mellom de anmodende vedkommende myndighetene og de anmodede vedkommende myndighetene kan personale som er utpekt av førstnevnte, være til stede under den offentlige kontrollen og undersøkelsene nevnt i nr. 1 bokstav c) som gjennomføres av de anmodede vedkommende myndighetene.I slike tilfeller skal personalet hos de anmodende vedkommende myndighetenetil enhver tid kunne framvise en skriftlig fullmakt med opplysninger om identitet og offisiell myndighet,gis tilgang av den driftsansvarlige til de samme lokalene og dokumentene som personalet hos de anmodede vedkommende myndighetene, formidlet gjennom disse myndighetene og utelukkende i forbindelse med den administrative undersøkelsen som foretas, ogikke på eget initiativ utøve den undersøkelsesmyndigheten som er tildelt tjenestemenn hos de anmodede vedkommende myndighetene.
 
 ### Artikkel 105. Bistand uten anmodning ved manglende overholdelse
 
-1. Når de vedkommende myndighetene i en medlemsstat får kjennskap til et tilfelle av manglende overholdelse, og dersom slik manglende overholdelse kan ha innvirkning på en annen medlemsstat, skal de uoppfordret og uten utilbørlig forsinkelse gi de vedkommende myndighetene i den andre medlemsstaten opplysninger om dette.
+1\. Når de vedkommende myndighetene i en medlemsstat får kjennskap til et tilfelle av manglende overholdelse, og dersom slik manglende overholdelse kan ha innvirkning på en annen medlemsstat, skal de uoppfordret og uten utilbørlig forsinkelse gi de vedkommende myndighetene i den andre medlemsstaten opplysninger om dette.
 
-2. De vedkommende myndighetene som mottar opplysninger i samsvar med nr. 1, skalbekrefte mottak av opplysningene uten utilbørlig forsinkelse,dersom de vedkommende myndighetene som har gitt opplysningene, har bedt om det, innen ti virkedager fra datoen da de mottok opplysningene, angihvilke undersøkelser de har til hensikt å gjennomføre, elleren begrunnelse for hvorfor de anser at undersøkelser er unødvendige, ognår undersøkelsene nevnt i bokstav b) anses som nødvendige, undersøke saken og umiddelbart informere de vedkommende myndighetene som har gitt opplysningene, om resultatene og eventuelt om hvilke tiltak som er truffet.
+2\. De vedkommende myndighetene som mottar opplysninger i samsvar med nr. 1, skalbekrefte mottak av opplysningene uten utilbørlig forsinkelse,dersom de vedkommende myndighetene som har gitt opplysningene, har bedt om det, innen ti virkedager fra datoen da de mottok opplysningene, angihvilke undersøkelser de har til hensikt å gjennomføre, elleren begrunnelse for hvorfor de anser at undersøkelser er unødvendige, ognår undersøkelsene nevnt i bokstav b) anses som nødvendige, undersøke saken og umiddelbart informere de vedkommende myndighetene som har gitt opplysningene, om resultatene og eventuelt om hvilke tiltak som er truffet.
 
 ### Artikkel 106. Bistand ved manglende overholdelse som innebærer en risiko eller en gjentatt eller potensielt alvorlig overtredelse
 
-1. Dersom de vedkommende myndighetene under offentlig kontroll av dyr eller varer med opprinnelse i en annen medlemsstat, fastslår at slike dyr eller varer ikke er i samsvar med reglene nevnt i artikkel 1 nr. 2, og dermed innebærer en risiko for menneskers eller dyrs helse, for plantehelsen eller dyrevelferden eller, når det gjelder genmodifiserte organismer og plantevernmidler, for miljøet, eller utgjør en potensielt alvorlig overtredelse av disse reglene, skal de umiddelbart underrette de vedkommende myndighetene i avsendermedlemsstaten og i alle andre berørte medlemsstater slik at disse vedkommende myndighetene kan iverksette egnede undersøkelser.
+1\. Dersom de vedkommende myndighetene under offentlig kontroll av dyr eller varer med opprinnelse i en annen medlemsstat, fastslår at slike dyr eller varer ikke er i samsvar med reglene nevnt i artikkel 1 nr. 2, og dermed innebærer en risiko for menneskers eller dyrs helse, for plantehelsen eller dyrevelferden eller, når det gjelder genmodifiserte organismer og plantevernmidler, for miljøet, eller utgjør en potensielt alvorlig overtredelse av disse reglene, skal de umiddelbart underrette de vedkommende myndighetene i avsendermedlemsstaten og i alle andre berørte medlemsstater slik at disse vedkommende myndighetene kan iverksette egnede undersøkelser.
 
-2. Vedkommende myndigheter som mottar opplysninger, skal umiddelbartbekrefte mottak av opplysningene,dersom de vedkommende myndighetene som har gitt opplysningene, har bedt om det, angi hvilke undersøkelser de har til hensikt å gjennomføre, ogundersøke saken, treffe alle nødvendige tiltak og informere de vedkommende myndighetene som har gitt opplysningene, om hvilke undersøkelser og hvilken offentlige kontroll som er gjennomført, hvilke beslutninger som er truffet og begrunnelsen for disse beslutningene.
+2\. Vedkommende myndigheter som mottar opplysninger, skal umiddelbartbekrefte mottak av opplysningene,dersom de vedkommende myndighetene som har gitt opplysningene, har bedt om det, angi hvilke undersøkelser de har til hensikt å gjennomføre, ogundersøke saken, treffe alle nødvendige tiltak og informere de vedkommende myndighetene som har gitt opplysningene, om hvilke undersøkelser og hvilken offentlige kontroll som er gjennomført, hvilke beslutninger som er truffet og begrunnelsen for disse beslutningene.
 
-3. Dersom de vedkommende myndighetene som har gitt opplysninger, har grunn til å tro at de undersøkelsene som er utført eller tiltakene som er truffet av de vedkommende myndighetene som har mottatt opplysninger, ikke er tilstrekkelige til å håndtere den påviste manglende overholdelsen, skal de be de vedkommende myndighetene som har mottatt opplysningene, om å utfylle den offentlige kontrollen som er gjennomført, eller de tiltakene som er truffet. I slike tilfeller skal de vedkommende myndighetene fra de to medlemsstateneforsøke å finne en felles framgangsmåte med henblikk på å håndtere den manglende overholdelsen på en hensiktsmessig måte, herunder gjennom felles offentlig kontroll og felles undersøkelser i samsvar med artikkel 104 nr. 3, oginformere Kommisjonen umiddelbart dersom de ikke blir enige om hensiktsmessige tiltak.
+3\. Dersom de vedkommende myndighetene som har gitt opplysninger, har grunn til å tro at de undersøkelsene som er utført eller tiltakene som er truffet av de vedkommende myndighetene som har mottatt opplysninger, ikke er tilstrekkelige til å håndtere den påviste manglende overholdelsen, skal de be de vedkommende myndighetene som har mottatt opplysningene, om å utfylle den offentlige kontrollen som er gjennomført, eller de tiltakene som er truffet. I slike tilfeller skal de vedkommende myndighetene fra de to medlemsstateneforsøke å finne en felles framgangsmåte med henblikk på å håndtere den manglende overholdelsen på en hensiktsmessig måte, herunder gjennom felles offentlig kontroll og felles undersøkelser i samsvar med artikkel 104 nr. 3, oginformere Kommisjonen umiddelbart dersom de ikke blir enige om hensiktsmessige tiltak.
 
-4. Dersom den offentlige kontrollen av dyr eller varer med opprinnelse i en annen medlemsstat i gjentatte tilfeller viser manglende overholdelse som nevnt i nr. 1, skal de vedkommende myndighetene i bestemmelsesmedlemsstaten umiddelbart informere Kommisjonen og de vedkommende myndighetene i de andre medlemsstatene.
+4\. Dersom den offentlige kontrollen av dyr eller varer med opprinnelse i en annen medlemsstat i gjentatte tilfeller viser manglende overholdelse som nevnt i nr. 1, skal de vedkommende myndighetene i bestemmelsesmedlemsstaten umiddelbart informere Kommisjonen og de vedkommende myndighetene i de andre medlemsstatene.
 
 ### Artikkel 107. Bistand på grunnlag av opplysninger fra tredjestater
 
-1. Når vedkommende myndigheter mottar opplysninger fra en tredjestat om manglende overholdelse av reglene nevnt i artikkel 1 nr. 2, eller om en risiko for menneskers eller dyrs helse, for plantehelsen eller dyrevelferden eller, når det gjelder genmodifiserte organismer og plantevernmidler, for miljøet, skal de umiddelbartgi de vedkommende myndighetene i andre berørte medlemsstater disse opplysningene, oggi Kommisjonen disse opplysningene dersom de er eller kan være relevante på unionsplan.
+1\. Når vedkommende myndigheter mottar opplysninger fra en tredjestat om manglende overholdelse av reglene nevnt i artikkel 1 nr. 2, eller om en risiko for menneskers eller dyrs helse, for plantehelsen eller dyrevelferden eller, når det gjelder genmodifiserte organismer og plantevernmidler, for miljøet, skal de umiddelbartgi de vedkommende myndighetene i andre berørte medlemsstater disse opplysningene, oggi Kommisjonen disse opplysningene dersom de er eller kan være relevante på unionsplan.
 
-2. Opplysninger som er kommet fram i forbindelse med offentlig kontroll og undersøkelser gjennomført i samsvar med denne forordning, kan formidles til tredjestaten nevnt i nr. 1, forutsatt atde vedkommende myndighetene som har skaffet opplysningene, har gitt sitt samtykke til det,tredjestaten har forpliktet seg til å yte den bistanden som er nødvendig for å samle inn bevis på praksis som ikke overholder eller ikke synes å overholde unionsreglene, eller som utgjør en risiko for mennesker, dyr, planter eller miljøet, ogrelevante unionsregler og nasjonale regler for utlevering av personopplysninger til tredjestater er overholdt.
+2\. Opplysninger som er kommet fram i forbindelse med offentlig kontroll og undersøkelser gjennomført i samsvar med denne forordning, kan formidles til tredjestaten nevnt i nr. 1, forutsatt atde vedkommende myndighetene som har skaffet opplysningene, har gitt sitt samtykke til det,tredjestaten har forpliktet seg til å yte den bistanden som er nødvendig for å samle inn bevis på praksis som ikke overholder eller ikke synes å overholde unionsreglene, eller som utgjør en risiko for mennesker, dyr, planter eller miljøet, ogrelevante unionsregler og nasjonale regler for utlevering av personopplysninger til tredjestater er overholdt.
 
 ### Artikkel 108. Samordnet bistand og oppfølging fra Kommisjonen
 
-1. Dersom vedkommende myndigheter i de berørte medlemsstatene ikke blir enige om hensiktsmessige tiltak for å håndtere den manglende overholdelsen av reglene nevnt i artikkel 1 nr. 2, skal Kommisjonen umiddelbart samordne de tiltakene som er truffet av de vedkommende myndighetene i samsvar med denne avdeling, når de opplysningene som Kommisjonen har tilgang til, entenomhandler virksomhet som ikke overholder eller ikke synes å overholde reglene nevnt i artikkel 1 nr. 2, og slik virksomhet har eller kan ha konsekvenser i mer enn én medlemsstat, ellerindikerer at samme eller lignende virksomhet som ikke overholder eller ikke synes å overholde reglene nevnt i artikkel 1 nr. 2, kanskje forekommer i mer enn én medlemsstat.
+1\. Dersom vedkommende myndigheter i de berørte medlemsstatene ikke blir enige om hensiktsmessige tiltak for å håndtere den manglende overholdelsen av reglene nevnt i artikkel 1 nr. 2, skal Kommisjonen umiddelbart samordne de tiltakene som er truffet av de vedkommende myndighetene i samsvar med denne avdeling, når de opplysningene som Kommisjonen har tilgang til, entenomhandler virksomhet som ikke overholder eller ikke synes å overholde reglene nevnt i artikkel 1 nr. 2, og slik virksomhet har eller kan ha konsekvenser i mer enn én medlemsstat, ellerindikerer at samme eller lignende virksomhet som ikke overholder eller ikke synes å overholde reglene nevnt i artikkel 1 nr. 2, kanskje forekommer i mer enn én medlemsstat.
 
-2. I tilfellene nevnt i nr. 1 kan Kommisjonen gjøre følgende:I samarbeid med den berørte medlemsstaten sende en inspeksjonsgruppe for å gjennomføre en offentlig kontroll på stedet.Ved hjelp av gjennomføringsrettsakter be om at de vedkommende myndighetene i avsendermedlemsstaten og, dersom det er relevant, i andre berørte medlemsstater skjerper den offentlige kontrollen på en hensiktsmessig måte og framlegger en rapport for Kommisjonen om tiltakene de har truffet.Treffe andre hensiktsmessige tiltak i samsvar med reglene nevnt i artikkel 1 nr. 2.
+2\. I tilfellene nevnt i nr. 1 kan Kommisjonen gjøre følgende:I samarbeid med den berørte medlemsstaten sende en inspeksjonsgruppe for å gjennomføre en offentlig kontroll på stedet.Ved hjelp av gjennomføringsrettsakter be om at de vedkommende myndighetene i avsendermedlemsstaten og, dersom det er relevant, i andre berørte medlemsstater skjerper den offentlige kontrollen på en hensiktsmessig måte og framlegger en rapport for Kommisjonen om tiltakene de har truffet.Treffe andre hensiktsmessige tiltak i samsvar med reglene nevnt i artikkel 1 nr. 2.
 
-3. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 144 for å utfylle denne forordning ved å fastsette regler for rask utveksling av opplysninger i tilfellene nevnt i nr. 1.
+3\. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 144 for å utfylle denne forordning ved å fastsette regler for rask utveksling av opplysninger i tilfellene nevnt i nr. 1.
 
 ### AVDELING V
 PLANLEGGING OG RAPPORTERING
 
 ### Artikkel 109. Flerårige nasjonale kontrollplaner (MANCP) og ett organ for flerårige nasjonale kontrollplaner
 
-1. Medlemsstatene skal sikre at offentlig kontroll som omfattes av denne forordning, gjennomføres av de vedkommende myndighetene på grunnlag av en flerårig nasjonal kontrollplan, hvis utarbeiding og gjennomføring skal samordnes i hele territoriet.
+1\. Medlemsstatene skal sikre at offentlig kontroll som omfattes av denne forordning, gjennomføres av de vedkommende myndighetene på grunnlag av en flerårig nasjonal kontrollplan, hvis utarbeiding og gjennomføring skal samordnes i hele territoriet.
 
-2. Medlemsstatene skal utpeke ett organ som har til oppgave åsamordne utarbeidingen av den flerårige nasjonale kontrollplanen mellom alle vedkommende myndigheter med ansvar for offentlig kontroll,sikre sammenheng i den flerårige nasjonale kontrollplanen,samle inn opplysninger om gjennomføringen av den flerårige nasjonale kontrollplanen med henblikk på framlegging av den årsrapporten som er nevnt i artikkel 113, og den eventuelle gjennomgåelsen og ajourføringen av den i samsvar med artikkel 111 nr. 2.
+2\. Medlemsstatene skal utpeke ett organ som har til oppgave åsamordne utarbeidingen av den flerårige nasjonale kontrollplanen mellom alle vedkommende myndigheter med ansvar for offentlig kontroll,sikre sammenheng i den flerårige nasjonale kontrollplanen,samle inn opplysninger om gjennomføringen av den flerårige nasjonale kontrollplanen med henblikk på framlegging av den årsrapporten som er nevnt i artikkel 113, og den eventuelle gjennomgåelsen og ajourføringen av den i samsvar med artikkel 111 nr. 2.
 
 ### Artikkel 110. Innhold i de flerårige nasjonale kontrollplanene
 
-1. Flerårige nasjonale kontrollplaner skal utarbeides for å sikre at det planlegges offentlig kontroll på alle områder som omfattes av reglene nevnt i artikkel 1 nr. 2, og i samsvar med kriteriene fastsatt i artikkel 9 og med reglene fastsatt i artikkel 18–27.
+1\. Flerårige nasjonale kontrollplaner skal utarbeides for å sikre at det planlegges offentlig kontroll på alle områder som omfattes av reglene nevnt i artikkel 1 nr. 2, og i samsvar med kriteriene fastsatt i artikkel 9 og med reglene fastsatt i artikkel 18–27.
 
-2. De flerårige nasjonale kontrollplanene skal inneholde generelle opplysninger om oppbygningen og organiseringen av den offentlige kontrollordningen i den berørte medlemsstaten på hvert av de aktuelle områdene, samt opplysninger om minst følgende:Den flerårige nasjonale kontrollplanens strategiske mål og hvordan prioriteringen av offentlig kontroll og tildelingen av ressurser gjenspeiler disse målene.Inndelingen av offentlig kontroll i risikokategorier.Utpekingen av vedkommende myndigheter og hvilke oppgaver de skal ha på sentralt, regionalt og lokalt plan, samt om ressursene som stilles til rådighet for disse myndighetene.Dersom det er relevant, delegeringen av oppgaver til organer med delegerte oppgaver.Den generelle organiseringen og ledelsen av offentlig kontroll på nasjonalt, regionalt og lokalt plan, herunder offentlig kontroll i de enkelte foretak.Kontrollordninger som benyttes i de forskjellige sektorene, og samordning av de forskjellige tjenestene hos vedkommende myndigheter som har ansvar for den offentlige kontrollen i disse sektorene.Framgangsmåter og ordninger som er innført for å sikre at de vedkommende myndighetene overholder forpliktelsene fastsatt i artikkel 5 nr. 1.Opplæring av de vedkommende myndighetenes personale.De dokumenterte prosedyrene fastsatt i artikkel 12 nr. 1.Den generelle organiseringen og gjennomføringen av beredskapsplaner i samsvar med reglene nevnt i artikkel 1 nr. 2.Den generelle organiseringen av samarbeid og gjensidig bistand mellom de vedkommende myndighetene i medlemsstatene.
+2\. De flerårige nasjonale kontrollplanene skal inneholde generelle opplysninger om oppbygningen og organiseringen av den offentlige kontrollordningen i den berørte medlemsstaten på hvert av de aktuelle områdene, samt opplysninger om minst følgende:Den flerårige nasjonale kontrollplanens strategiske mål og hvordan prioriteringen av offentlig kontroll og tildelingen av ressurser gjenspeiler disse målene.Inndelingen av offentlig kontroll i risikokategorier.Utpekingen av vedkommende myndigheter og hvilke oppgaver de skal ha på sentralt, regionalt og lokalt plan, samt om ressursene som stilles til rådighet for disse myndighetene.Dersom det er relevant, delegeringen av oppgaver til organer med delegerte oppgaver.Den generelle organiseringen og ledelsen av offentlig kontroll på nasjonalt, regionalt og lokalt plan, herunder offentlig kontroll i de enkelte foretak.Kontrollordninger som benyttes i de forskjellige sektorene, og samordning av de forskjellige tjenestene hos vedkommende myndigheter som har ansvar for den offentlige kontrollen i disse sektorene.Framgangsmåter og ordninger som er innført for å sikre at de vedkommende myndighetene overholder forpliktelsene fastsatt i artikkel 5 nr. 1.Opplæring av de vedkommende myndighetenes personale.De dokumenterte prosedyrene fastsatt i artikkel 12 nr. 1.Den generelle organiseringen og gjennomføringen av beredskapsplaner i samsvar med reglene nevnt i artikkel 1 nr. 2.Den generelle organiseringen av samarbeid og gjensidig bistand mellom de vedkommende myndighetene i medlemsstatene.
 
 ### Artikkel 111. Utarbeiding, ajourføring og gjennomgåelse av flerårige nasjonale kontrollplaner
 
-1. Medlemsstatene skal sikre at den flerårige nasjonale kontrollplanen fastsatt i artikkel 109 nr. 1 gjøres tilgjengelig for offentligheten, med unntak av de delene av planen som, dersom de offentliggjøres, kan undergrave virkningen av den offentlige kontrollen.
+1\. Medlemsstatene skal sikre at den flerårige nasjonale kontrollplanen fastsatt i artikkel 109 nr. 1 gjøres tilgjengelig for offentligheten, med unntak av de delene av planen som, dersom de offentliggjøres, kan undergrave virkningen av den offentlige kontrollen.
 
-2. Den flerårige nasjonale kontrollplanen skal ajourføres jevnlig for å tilpasse den til endringer i reglene nevnt i artikkel 1 nr. 2, og gjennomgås for å ta hensyn til minst følgende faktorer:Forekomsten av nye sykdommer, planteskadegjørere eller andre risikoer for menneskers eller dyrs helse, for plantehelsen eller dyrevelferden eller, når det gjelder genmodifiserte organismer og plantevernmidler, for miljøet.Vesentlige endringer i oppbygningen, ledelsen eller arbeidet til de vedkommende myndighetene i medlemsstaten.Resultatet av medlemsstatenes offentlige kontroll.Resultatet av Kommisjonens kontroll i medlemsstaten i samsvar med artikkel 116 nr. 1.Vitenskapelige funn.Resultatet av offentlig kontroll som de vedkommende myndighetene i en tredjestat har gjennomført i en medlemsstat.
+2\. Den flerårige nasjonale kontrollplanen skal ajourføres jevnlig for å tilpasse den til endringer i reglene nevnt i artikkel 1 nr. 2, og gjennomgås for å ta hensyn til minst følgende faktorer:Forekomsten av nye sykdommer, planteskadegjørere eller andre risikoer for menneskers eller dyrs helse, for plantehelsen eller dyrevelferden eller, når det gjelder genmodifiserte organismer og plantevernmidler, for miljøet.Vesentlige endringer i oppbygningen, ledelsen eller arbeidet til de vedkommende myndighetene i medlemsstaten.Resultatet av medlemsstatenes offentlige kontroll.Resultatet av Kommisjonens kontroll i medlemsstaten i samsvar med artikkel 116 nr. 1.Vitenskapelige funn.Resultatet av offentlig kontroll som de vedkommende myndighetene i en tredjestat har gjennomført i en medlemsstat.
 
-3. Dersom Kommisjonen ber om det, skal medlemsstatene framlegge den nyeste ajourførte versjonen av den flerårige nasjonale kontrollplanen sin.
+3\. Dersom Kommisjonen ber om det, skal medlemsstatene framlegge den nyeste ajourførte versjonen av den flerårige nasjonale kontrollplanen sin.
 
 ### Artikkel 112. Samordnede kontrollprogrammer og innsamling av opplysninger og data
 
@@ -999,25 +1523,25 @@ Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedy
 
 ### Artikkel 113. Medlemsstatenes årsrapporter
 
-1. Innen 31. august hvert år skal hver medlemsstat framlegge for Kommisjonen en rapport som inneholderalle endringer som er gjort i de flerårige nasjonale kontrollplanene for å ta hensyn til faktorene nevnt i artikkel 111 nr. 2,resultatene av offentlig kontroll gjennomført i løpet av det foregående året i henhold til den flerårige nasjonale kontrollplanen,typen og antallet tilfeller av manglende overholdelse av reglene nevnt i artikkel 1 nr. 2 per område, påvist av de vedkommende myndighetene i løpet av det foregående året,de tiltakene som er truffet for å sikre at den flerårige nasjonale kontrollplanen fungerer effektivt, herunder håndhevingstiltak og resultatene av slike tiltak, ogen lenke til den vedkommende myndighetens nettside, som inneholder offentlige opplysninger om de gebyrene eller avgiftene som er nevnt i artikkel 85 nr. 2.
+1\. Innen 31. august hvert år skal hver medlemsstat framlegge for Kommisjonen en rapport som inneholderalle endringer som er gjort i de flerårige nasjonale kontrollplanene for å ta hensyn til faktorene nevnt i artikkel 111 nr. 2,resultatene av offentlig kontroll gjennomført i løpet av det foregående året i henhold til den flerårige nasjonale kontrollplanen,typen og antallet tilfeller av manglende overholdelse av reglene nevnt i artikkel 1 nr. 2 per område, påvist av de vedkommende myndighetene i løpet av det foregående året,de tiltakene som er truffet for å sikre at den flerårige nasjonale kontrollplanen fungerer effektivt, herunder håndhevingstiltak og resultatene av slike tiltak, ogen lenke til den vedkommende myndighetens nettside, som inneholder offentlige opplysninger om de gebyrene eller avgiftene som er nevnt i artikkel 85 nr. 2.
 
-2. For å sikre at årsrapportene fastsatt i nr. 1 utformes på en ensartet måte, skal Kommisjonen ved hjelp av gjennomføringsrettsakter vedta og om nødvendig ajourføre standardskjemaer for framlegging av opplysningene og dataene i nevnte nummer.Disse gjennomføringsrettsaktene skal, når det er mulig, tillate bruk av de standardskjemaene som Kommisjonen har vedtatt, også til framlegging av andre rapporter om offentlig kontroll som de vedkommende myndighetene er pålagt å framlegge for Kommisjonen i samsvar med reglene nevnt i artikkel 1 nr. 2. Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
+2\. For å sikre at årsrapportene fastsatt i nr. 1 utformes på en ensartet måte, skal Kommisjonen ved hjelp av gjennomføringsrettsakter vedta og om nødvendig ajourføre standardskjemaer for framlegging av opplysningene og dataene i nevnte nummer.Disse gjennomføringsrettsaktene skal, når det er mulig, tillate bruk av de standardskjemaene som Kommisjonen har vedtatt, også til framlegging av andre rapporter om offentlig kontroll som de vedkommende myndighetene er pålagt å framlegge for Kommisjonen i samsvar med reglene nevnt i artikkel 1 nr. 2. Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
 
 ### Artikkel 114. Kommisjonens årsrapporter
 
-1. Innen 31. januar hvert år skal Kommisjonen gjøre tilgjengelig for offentligheten en årsrapport om gjennomføringen av offentlig kontroll i medlemsstatene, der det tas hensyn tilårsrapportene som medlemsstatene har framlagt i samsvar med artikkel 113, ogresultatene av kontroll som Kommisjonen har gjennomført i samsvar med artikkel 116 nr. 1.
+1\. Innen 31. januar hvert år skal Kommisjonen gjøre tilgjengelig for offentligheten en årsrapport om gjennomføringen av offentlig kontroll i medlemsstatene, der det tas hensyn tilårsrapportene som medlemsstatene har framlagt i samsvar med artikkel 113, ogresultatene av kontroll som Kommisjonen har gjennomført i samsvar med artikkel 116 nr. 1.
 
-2. Årsrapporten fastsatt i nr. 1 kan, dersom det er relevant, inneholde anbefalinger om mulige forbedringer av de offentlige kontrollordningene i medlemsstatene og av visse former for offentlig kontroll på visse områder.
+2\. Årsrapporten fastsatt i nr. 1 kan, dersom det er relevant, inneholde anbefalinger om mulige forbedringer av de offentlige kontrollordningene i medlemsstatene og av visse former for offentlig kontroll på visse områder.
 
 ### Artikkel 115. Beredskapsplaner for næringsmidler og fôr
 
-1. Ved gjennomføringen av den generelle planen for krisehåndtering fastsatt i artikkel 55 i forordning [(EF) nr. 178/2002](eu/32002r0178) skal medlemsstatene utarbeide beredskapsplaner for næringsmidler og fôr som fastsetter tiltak som skal iverksettes umiddelbart dersom det viser seg at næringsmidler eller fôr utgjør en alvorlig risiko for menneskers eller dyrs helse, enten direkte eller gjennom miljøet.
+1\. Ved gjennomføringen av den generelle planen for krisehåndtering fastsatt i artikkel 55 i forordning [(EF) nr. 178/2002](eu/32002r0178) skal medlemsstatene utarbeide beredskapsplaner for næringsmidler og fôr som fastsetter tiltak som skal iverksettes umiddelbart dersom det viser seg at næringsmidler eller fôr utgjør en alvorlig risiko for menneskers eller dyrs helse, enten direkte eller gjennom miljøet.
 
-2. Beredskapsplanene for næringsmidler og fôr fastsatt i nr. 1 skal angihvilke vedkommende myndigheter som skal delta,myndigheten og ansvarsområdene til myndighetene nevnt i bokstav a), ogkanaler og framgangsmåter for utveksling av opplysninger mellom vedkommende myndigheter og andre berørte parter, dersom det er relevant.
+2\. Beredskapsplanene for næringsmidler og fôr fastsatt i nr. 1 skal angihvilke vedkommende myndigheter som skal delta,myndigheten og ansvarsområdene til myndighetene nevnt i bokstav a), ogkanaler og framgangsmåter for utveksling av opplysninger mellom vedkommende myndigheter og andre berørte parter, dersom det er relevant.
 
-3. Medlemsstatene skal regelmessig gjennomgå sine beredskapsplaner for næringsmidler og fôr for å ta hensyn til endringer i de vedkommende myndighetenes oppbygning og erfaringene fra gjennomføringen av planen og fra simuleringsøvelser.
+3\. Medlemsstatene skal regelmessig gjennomgå sine beredskapsplaner for næringsmidler og fôr for å ta hensyn til endringer i de vedkommende myndighetenes oppbygning og erfaringene fra gjennomføringen av planen og fra simuleringsøvelser.
 
-4. Kommisjonen kan vedta gjennomføringsrettsakter omregler for utarbeidingen av beredskapsplanene fastsatt i nr. 1 i denne artikkel, i den grad det er nødvendig for å sikre enhetlig og effektiv bruk av den generelle planen for krisehåndtering fastsatt i artikkel 55 nr. 1 i forordning [(EF) nr. 178/2002](eu/32002r0178), oghvilken rolle de berørte partene skal ha i utarbeidingen og gjennomføringen av disse beredskapsplanene.Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
+4\. Kommisjonen kan vedta gjennomføringsrettsakter omregler for utarbeidingen av beredskapsplanene fastsatt i nr. 1 i denne artikkel, i den grad det er nødvendig for å sikre enhetlig og effektiv bruk av den generelle planen for krisehåndtering fastsatt i artikkel 55 nr. 1 i forordning [(EF) nr. 178/2002](eu/32002r0178), oghvilken rolle de berørte partene skal ha i utarbeidingen og gjennomføringen av disse beredskapsplanene.Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
 
 ### AVDELING VI
 UNIONENS VIRKSOMHET
@@ -1025,124 +1549,210 @@ UNIONENS VIRKSOMHET
 ### KAPITTEL I
 Kommisjonens kontroll
 
-1. Kommisjonens sakkyndige skal gjennomføre kontroll, herunder revisjoner, i hver medlemsstat for åverifisere anvendelsen av reglene nevnt i artikkel 1 nr. 2 og reglene i denne forordning,verifisere at nasjonale kontrollordninger på de områdene som omfattes av reglene nevnt i artikkel 1 nr. 2, og reglene fastsatt i denne forordning, fungerer som de skal, og at de vedkommende myndighetene som forvalter dem, fungerer,undersøke og samle inn opplysninger omoffentlig kontroll og håndhevingspraksis på de områdene som omfattes av reglene nevnt i artikkel 1 nr. 2, og reglene fastsatt i denne forordning,betydelige eller tilbakevendende problemer med anvendelsen eller håndhevingen av reglene nevnt i artikkel 1 nr. 2,nødssituasjoner, nye problemer eller ny utvikling i medlemsstatene på de områdene som omfattes av reglene nevnt i artikkel 1 nr. 2, og reglene fastsatt i denne forordning.
+###### Artikkel 116
 
-2. Kontrollen fastsatt i nr. 1 skal organiseres i samarbeid med de vedkommende myndighetene i medlemsstatene og gjennomføres regelmessig.
+Kommisjonens kontroll i medlemsstatene
 
-3. Kontrollen fastsatt i nr. 1 kan omfatte verifisering på stedet. Kommisjonens sakkyndige kan ledsage de vedkommende myndighetenes personale under gjennomføringen av offentlig kontroll.
+1\. Kommisjonens sakkyndige skal gjennomføre kontroll, herunder revisjoner, i hver medlemsstat for åverifisere anvendelsen av reglene nevnt i artikkel 1 nr. 2 og reglene i denne forordning,verifisere at nasjonale kontrollordninger på de områdene som omfattes av reglene nevnt i artikkel 1 nr. 2, og reglene fastsatt i denne forordning, fungerer som de skal, og at de vedkommende myndighetene som forvalter dem, fungerer,undersøke og samle inn opplysninger omoffentlig kontroll og håndhevingspraksis på de områdene som omfattes av reglene nevnt i artikkel 1 nr. 2, og reglene fastsatt i denne forordning,betydelige eller tilbakevendende problemer med anvendelsen eller håndhevingen av reglene nevnt i artikkel 1 nr. 2,nødssituasjoner, nye problemer eller ny utvikling i medlemsstatene på de områdene som omfattes av reglene nevnt i artikkel 1 nr. 2, og reglene fastsatt i denne forordning.
 
-4. Sakkyndige fra medlemsstatene kan bistå Kommisjonens sakkyndige. Nasjonale sakkyndige som ledsager Kommisjonens sakkyndige, skal ha samme tilgangsrettigheter som Kommisjonens sakkyndige.
+2\. Kontrollen fastsatt i nr. 1 skal organiseres i samarbeid med de vedkommende myndighetene i medlemsstatene og gjennomføres regelmessig.
+
+3\. Kontrollen fastsatt i nr. 1 kan omfatte verifisering på stedet. Kommisjonens sakkyndige kan ledsage de vedkommende myndighetenes personale under gjennomføringen av offentlig kontroll.
+
+4\. Sakkyndige fra medlemsstatene kan bistå Kommisjonens sakkyndige. Nasjonale sakkyndige som ledsager Kommisjonens sakkyndige, skal ha samme tilgangsrettigheter som Kommisjonens sakkyndige.
+
+###### Artikkel 117
+
+Kommisjonens rapporter om kontroll i medlemsstatene
 
 Kommisjonen skalutarbeide et utkast til rapport om resultatene og om anbefalingene for å utbedre de manglene som Kommisjonens sakkyndige har påvist under kontroll som er gjennomført i samsvar med artikkel 116 nr. 1,sende en kopi av utkastet til rapporten nevnt i bokstav a) til den medlemsstaten der kontrollen ble gjennomført, slik at medlemsstaten kan komme med sine merknader,ta hensyn til merknadene fra medlemsstaten nevnt i bokstav b) når den utarbeider sluttrapporten om resultatene av den kontrollen som Kommisjonens sakkyndige har gjennomført i medlemsstatene i henhold til artikkel 116 nr. 1, oggjøre sluttrapporten nevnt i bokstav c) og merknadene fra medlemsstaten nevnt i bokstav b) offentlig tilgjengelige.
 
-1. Kommisjonen skal ved hjelp av gjennomføringsrettsakterutarbeide et årlig eller flerårig kontrollprogram for den kontrollen som Kommisjonens sakkyndige skal gjennomføre i medlemsstatene i henhold til artikkel 116 nr. 1, oginnen utgangen av hvert år underrette medlemsstatene om det årlige kontrollprogrammet eller eventuelle ajourføringer av det flerårige kontrollprogrammet for det påfølgende året.
+###### Artikkel 118
 
-2. Kommisjonen kan ved hjelp av gjennomføringsrettsakter endre kontrollprogrammet sitt for å ta hensyn til utviklingen på de områdene som omfattes av reglene nevnt i artikkel 1 nr. 2. Medlemsstatene skal umiddelbart underrettes om alle slike endringer.
+Program for Kommisjonens kontroll i medlemsstatene
+
+1\. Kommisjonen skal ved hjelp av gjennomføringsrettsakterutarbeide et årlig eller flerårig kontrollprogram for den kontrollen som Kommisjonens sakkyndige skal gjennomføre i medlemsstatene i henhold til artikkel 116 nr. 1, oginnen utgangen av hvert år underrette medlemsstatene om det årlige kontrollprogrammet eller eventuelle ajourføringer av det flerårige kontrollprogrammet for det påfølgende året.
+
+2\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter endre kontrollprogrammet sitt for å ta hensyn til utviklingen på de områdene som omfattes av reglene nevnt i artikkel 1 nr. 2. Medlemsstatene skal umiddelbart underrettes om alle slike endringer.
+
+###### Artikkel 119
+
+Medlemsstatenes forpliktelser med hensyn til Kommisjonens kontroll
 
 Medlemsstatene skaltreffe egnede oppfølgingstiltak for å rette opp eventuelle spesifikke eller gjennomgripende mangler påvist ved kontrollen gjennomført av Kommisjonens sakkyndige i samsvar med artikkel 116 nr. 1,gi nødvendig faglig bistand og sørge for tilgjengelig dokumentasjon, herunder, etter begrunnet anmodning, resultatene av revisjonene nevnt i artikkel 6, samt annen teknisk støtte som Kommisjonens sakkyndige ber om, slik at de kan gjennomføre kontrollen effektivt, oggi nødvendig bistand for å sikre at Kommisjonens sakkyndige har tilgang til alle lokaler eller deler av lokaler samt dyr, varer og opplysninger, herunder IT-systemer, som er av betydning for at de skal kunne utføre oppgavene sine.
 
-1. Kommisjonens sakkyndige kan gjennomføre kontroll i tredjestater for åverifisere at tredjestatens lovgivning og ordninger, herunder offentlig attestering og utstedelse av offisielle sertifikater, offisielle etiketter, offisielle merker og andre offisielle attestasjoner, overholder eller er likeverdige med kravene fastsatt i reglene nevnt i artikkel 1 nr. 2,verifisere at tredjestatens kontrollordning har kapasitet til å sikre at forsendelser av dyr og varer som eksporteres til Unionen, oppfyller relevante krav som er fastsatt ved reglene nevnt i artikkel 1 nr. 2, eller krav som anses for å være minst likeverdige,samle inn opplysninger og data for å klarlegge årsakene til gjentatte eller nye problemer i forbindelse med eksport av dyr og varer fra en tredjestat.
+###### Artikkel 120
 
-2. Kontrollen nevnt i nr. 1 skal ta særlig hensyn tiltredjestatens lovgivning,hvordan tredjestatens vedkommende myndigheter er organisert, deres myndighet og uavhengighet, hva slags tilsyn de er underlagt og hvilken myndighet de har til å håndheve gjeldende lovgivning på en effektiv måte,den opplæringen som personalet hos den vedkommende myndigheten i tredjestaten har fått i å gjennomføre offentlig kontroll,hvilke ressurser, herunder analyse-, undersøkelses- og diagnostiseringsverktøy, som de vedkommende myndighetene har til rådighet,om det finnes dokumenterte kontrollprosedyrer samt kontrollordninger basert på prioriteringer, og hvordan disse fungerer,dersom det er relevant, situasjonen med hensyn til dyrehelse, dyrevelferd, zoonoser og plantehelse, og framgangsmåtene for å melde fra til Kommisjonen og relevante internasjonale organer om utbrudd av dyresykdommer og angrep av planteskadegjørere,omfanget og gjennomføringen av den kontrollen som tredjestatens vedkommende myndighet gjennomfører av dyr, planter og produkter av disse som kommer fra andre tredjestater, ogde forsikringene tredjestaten kan gi om at dens lovgivning overholder eller er likeverdig med de kravene som er fastsatt ved reglene nevnt i artikkel 1 nr. 2.
+Kommisjonens kontroll i tredjestater
 
-3. For å legge til rette for en hensiktsmessig og effektiv gjennomføring av kontrollen fastsatt i nr. 1 kan Kommisjonen, før den gjennomfører slik kontroll, be den berørte tredjestaten om å framleggede nødvendige opplysningene nevnt i artikkel 125 nr. 1,dersom det er relevant og nødvendig, den skriftlige dokumentasjonen på kontrollen som de vedkommende myndighetene gjennomfører.
+1\. Kommisjonens sakkyndige kan gjennomføre kontroll i tredjestater for åverifisere at tredjestatens lovgivning og ordninger, herunder offentlig attestering og utstedelse av offisielle sertifikater, offisielle etiketter, offisielle merker og andre offisielle attestasjoner, overholder eller er likeverdige med kravene fastsatt i reglene nevnt i artikkel 1 nr. 2,verifisere at tredjestatens kontrollordning har kapasitet til å sikre at forsendelser av dyr og varer som eksporteres til Unionen, oppfyller relevante krav som er fastsatt ved reglene nevnt i artikkel 1 nr. 2, eller krav som anses for å være minst likeverdige,samle inn opplysninger og data for å klarlegge årsakene til gjentatte eller nye problemer i forbindelse med eksport av dyr og varer fra en tredjestat.
 
-4. Kommisjonen kan utnevne sakkyndige fra medlemsstatene til å bistå Kommisjonens egne sakkyndige i forbindelse med kontrollen fastsatt i nr. 1.
+2\. Kontrollen nevnt i nr. 1 skal ta særlig hensyn tiltredjestatens lovgivning,hvordan tredjestatens vedkommende myndigheter er organisert, deres myndighet og uavhengighet, hva slags tilsyn de er underlagt og hvilken myndighet de har til å håndheve gjeldende lovgivning på en effektiv måte,den opplæringen som personalet hos den vedkommende myndigheten i tredjestaten har fått i å gjennomføre offentlig kontroll,hvilke ressurser, herunder analyse-, undersøkelses- og diagnostiseringsverktøy, som de vedkommende myndighetene har til rådighet,om det finnes dokumenterte kontrollprosedyrer samt kontrollordninger basert på prioriteringer, og hvordan disse fungerer,dersom det er relevant, situasjonen med hensyn til dyrehelse, dyrevelferd, zoonoser og plantehelse, og framgangsmåtene for å melde fra til Kommisjonen og relevante internasjonale organer om utbrudd av dyresykdommer og angrep av planteskadegjørere,omfanget og gjennomføringen av den kontrollen som tredjestatens vedkommende myndighet gjennomfører av dyr, planter og produkter av disse som kommer fra andre tredjestater, ogde forsikringene tredjestaten kan gi om at dens lovgivning overholder eller er likeverdig med de kravene som er fastsatt ved reglene nevnt i artikkel 1 nr. 2.
+
+3\. For å legge til rette for en hensiktsmessig og effektiv gjennomføring av kontrollen fastsatt i nr. 1 kan Kommisjonen, før den gjennomfører slik kontroll, be den berørte tredjestaten om å framleggede nødvendige opplysningene nevnt i artikkel 125 nr. 1,dersom det er relevant og nødvendig, den skriftlige dokumentasjonen på kontrollen som de vedkommende myndighetene gjennomfører.
+
+4\. Kommisjonen kan utnevne sakkyndige fra medlemsstatene til å bistå Kommisjonens egne sakkyndige i forbindelse med kontrollen fastsatt i nr. 1.
+
+###### Artikkel 121
+
+Hyppighet av Kommisjonens kontroll i tredjestater
 
 Hyppigheten av Kommisjonens kontroll i tredjestater nevnt i artikkel 120 skal bestemmes på grunnlag av følgende kriterier:En risikovurdering av dyrene og varene som eksporteres til Unionen fra den berørte tredjestaten.Reglene nevnt i artikkel 1 nr. 2.Mengden og arten av dyr og varer som innføres til Unionen fra den berørte tredjestaten.Resultatet av kontroll som allerede er gjennomført av Kommisjonens sakkyndige eller andre kontrollorganer.Resultatet av offentlig kontroll av dyr og varer som innføres til Unionen fra den berørte tredjestaten, og av eventuell annen offentlig kontroll som de vedkommende myndighetene i medlemsstatene har gjennomført.Opplysninger mottatt fra EFSA eller lignende organer.Opplysninger mottatt fra internasjonalt anerkjente organer, for eksempelVerdens helseorganisasjon,Codex Alimentarius-kommisjonen,Verdens dyrehelseorganisasjon (OIE),Plantevernorganisasjonen for Europa og Middelhavsområdet og eventuelle andre regionale plantevernorganisasjoner opprettet i henhold til den internasjonale [plantevernkonvensjonen (](traktat/1951-12-06-1)IPPC),sekretariatet for IPPC,Organisasjonen for økonomisk samarbeid og utvikling,De forente nasjoners økonomiske kommisjon for Europa,sekretariatet for [Cartagena-protokollen](traktat/2000-01-29-1) om genmodifiserte organismer til konvensjonen om biologisk mangfold.Dokumentasjon på situasjoner med nye sykdommer eller andre omstendigheter som kan føre til at dyr og varer som innføres til Unionen fra en tredjestat, kan innebære en helse- eller miljørisiko eller en risiko for bedrageri eller villedende praksis.Behovet for å undersøke eller reagere på nødssituasjoner i en enkelt tredjestat.
+
+###### Artikkel 122
+
+Kommisjonens rapporter om kontroll i tredjestater
 
 Kommisjonen skal utarbeide en rapport om resultatet av hver kontroll som er gjennomført i samsvar med artikkel 120 og 121. Rapporten skal eventuelt inneholde anbefalinger.
 
 Kommisjonen skal offentliggjøre sine rapporter.
 
+###### Artikkel 123
+
+Program for Kommisjonens kontroll i tredjestater
+
 Kommisjonen skal på forhånd underrette medlemsstatene om sitt program for kontroll i tredjestater og framlegge en rapport om resultatene av det. Kommisjonen kan endre programmet for å ta hensyn til utviklingen på områdene som omfattes av reglene nevnt i artikkel 1 nr. 2. Medlemsstatene skal underrettes om alle slike endringer på forhånd.
 
-1. Medlemsstatene skal underrette Kommisjonen om kontroll som tredjestaters vedkommende myndigheter planlegger å gjennomføre på deres territorium, innenfor de områdene som omfattes av reglene nevnt i artikkel 1 nr. 2.
+###### Artikkel 124
 
-2. Kommisjonens sakkyndige kan delta i kontrollen nevnt i nr. 1 på anmodning fra de vedkommende myndighetene i medlemsstatene der kontrollen gjennomføres.
+Tredjestaters kontroll i medlemsstatene
 
-3. Kommisjonens sakkyndige deltar i kontrollen nevnt i nr. 1 særlig for ågi råd om reglene nevnt i artikkel 1 nr. 2,formidle opplysninger og data som foreligger på unionsplan, som kan være til nytte ved den kontrollen som tredjestatens vedkommende myndigheter gjennomfører,tilrettelegge for sammenheng og ensartethet i den kontrollen som tredjestatens vedkommende myndigheter gjennomfører i forskjellige medlemsstater.
+1\. Medlemsstatene skal underrette Kommisjonen om kontroll som tredjestaters vedkommende myndigheter planlegger å gjennomføre på deres territorium, innenfor de områdene som omfattes av reglene nevnt i artikkel 1 nr. 2.
+
+2\. Kommisjonens sakkyndige kan delta i kontrollen nevnt i nr. 1 på anmodning fra de vedkommende myndighetene i medlemsstatene der kontrollen gjennomføres.
+
+3\. Kommisjonens sakkyndige deltar i kontrollen nevnt i nr. 1 særlig for ågi råd om reglene nevnt i artikkel 1 nr. 2,formidle opplysninger og data som foreligger på unionsplan, som kan være til nytte ved den kontrollen som tredjestatens vedkommende myndigheter gjennomfører,tilrettelegge for sammenheng og ensartethet i den kontrollen som tredjestatens vedkommende myndigheter gjennomfører i forskjellige medlemsstater.
 
 ### KAPITTEL II
 Vilkår for innførsel til Unionen av dyr og varer
 
-1. Kommisjonen skal be tredjestater som har til hensikt å eksportere dyr og varer til Unionen, om å framlegge følgende nøyaktige og ajourførte opplysninger om den generelle organiseringen og ledelsen av ordningene for helse- og plantehelsekontroll på deres territorium:Alle helse- eller plantehelseregler som er vedtatt eller foreslått på deres territorium.Framgangsmåter for risikovurdering og faktorer det er tatt hensyn til i risikovurderingen og ved fastsettelsen av et passende nivå for helse- eller plantehelsevern.Alle framgangsmåter og ordninger for kontroll og inspeksjon, herunder for dyr eller varer som ankommer fra andre tredjestater, dersom det er relevant.Ordninger for offentlig attestering.Dersom det er relevant, eventuelle tiltak truffet som følge av anbefalingene fastsatt i artikkel 122 første ledd.Dersom det er relevant, resultater av kontroll som er gjennomført av dyr og varer beregnet på eksport til Unionen.Dersom det er relevant, opplysninger om de endringene som er gjort i oppbygningen og virkemåten til kontrollordningene, for å oppfylle Unionens helse- eller plantehelsekrav eller de anbefalingene som er fastsatt i artikkel 122 første ledd.
+###### Artikkel 125
 
-2. Anmodningen om opplysninger nevnt i nr. 1 skal stå i forhold til typen dyr og varer som skal eksporteres til Unionen, og til tredjestatens spesifikke situasjon og oppbygning.
+Opplysninger om tredjestaters kontrollordninger
 
-1. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 144 for å utfylle denne forordning med hensyn til vilkårene som må oppfylles av dyr og varer som innføres til Unionen fra tredjestater, og som er nødvendige for å sikre at dyr og varer oppfyller de relevante kravene fastsatt ved reglene nevnt i artikkel 1 nr. 2, med unntak av artikkel 1 nr. 2 bokstav d), e), g) og h), eller krav som anses for å være minst likeverdige.
+1\. Kommisjonen skal be tredjestater som har til hensikt å eksportere dyr og varer til Unionen, om å framlegge følgende nøyaktige og ajourførte opplysninger om den generelle organiseringen og ledelsen av ordningene for helse- og plantehelsekontroll på deres territorium:Alle helse- eller plantehelseregler som er vedtatt eller foreslått på deres territorium.Framgangsmåter for risikovurdering og faktorer det er tatt hensyn til i risikovurderingen og ved fastsettelsen av et passende nivå for helse- eller plantehelsevern.Alle framgangsmåter og ordninger for kontroll og inspeksjon, herunder for dyr eller varer som ankommer fra andre tredjestater, dersom det er relevant.Ordninger for offentlig attestering.Dersom det er relevant, eventuelle tiltak truffet som følge av anbefalingene fastsatt i artikkel 122 første ledd.Dersom det er relevant, resultater av kontroll som er gjennomført av dyr og varer beregnet på eksport til Unionen.Dersom det er relevant, opplysninger om de endringene som er gjort i oppbygningen og virkemåten til kontrollordningene, for å oppfylle Unionens helse- eller plantehelsekrav eller de anbefalingene som er fastsatt i artikkel 122 første ledd.
 
-2. Vilkårene fastsatt i de delegerte rettsaktene nevnt i nr. 1 skal identifisere dyr og varer ved å henvise til kodene de har i Den kombinerte nomenklatur, og kan omfattekravet om at visse dyr og varer bare kan innføres til Unionen fra en tredjestat eller en region i en tredjestat som er oppført på en liste utarbeidet av Kommisjonen for det formålet,kravet om at forsendelser av visse dyr og varer fra tredjestater skal være sendt fra og framstilt eller tilberedt i virksomheter som oppfyller de relevante kravene nevnt i nr. 1, eller krav som anses for å være minst likeverdige,kravet om at forsendelser av visse dyr og varer skal ledsages av et offisielt sertifikat, en offisiell attestasjon eller annen dokumentasjon på at forsendelsene oppfyller de relevante kravene nevnt i nr. 1, eller krav som anses for å være minst likeverdige med dem, herunder resultatene av analysen utført av et akkreditert laboratorium,forpliktelsen til å framlegge dokumentasjonen nevnt i bokstav c) i et bestemt format,andre krav som er nødvendige for å sikre at visse dyr og varer innebærer et nivå for vern av helsen og, når det gjelder genmodifiserte organismer, også av miljøet, tilsvarende det som ivaretas av kravene nevnt i nr. 1.
+2\. Anmodningen om opplysninger nevnt i nr. 1 skal stå i forhold til typen dyr og varer som skal eksporteres til Unionen, og til tredjestatens spesifikke situasjon og oppbygning.
 
-3. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette regler for formatet til og arten av offisielle sertifikater, offisielle attestasjoner eller dokumentasjon som kreves i samsvar med reglene fastsatt i nr. 2 bokstav c) i denne artikkel. Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
+###### Artikkel 126
 
-1. Oppføring av en tredjestat eller en region i en tredjestat på listen nevnt i artikkel 126 nr. 2 bokstav a) skal gjøres i samsvar med nr. 2 og 3 i denne artikkel.
+Fastsettelse av ytterligere vilkår for innførsel til Unionen av dyr og varer
 
-2. Kommisjonen skal ved hjelp av gjennomføringsrettsakter godkjenne den anmodningen som den berørte medlemsstaten oversender for det formålet som er nevnt i nr. 1 i denne artikkel, ledsaget av hensiktsmessig dokumentasjon og garantier for at de aktuelle dyrene og varene i den nevnte tredjestaten oppfyller de relevante kravene nevnt i artikkel 126 nr. 1 eller likeverdige krav. Disse gjennomføringsrettsaktene skal vedtas og ajourføres etter undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
+1\. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 144 for å utfylle denne forordning med hensyn til vilkårene som må oppfylles av dyr og varer som innføres til Unionen fra tredjestater, og som er nødvendige for å sikre at dyr og varer oppfyller de relevante kravene fastsatt ved reglene nevnt i artikkel 1 nr. 2, med unntak av artikkel 1 nr. 2 bokstav d), e), g) og h), eller krav som anses for å være minst likeverdige.
 
-3. Kommisjonen skal treffe beslutning om anmodningen nevnt i nr. 2 samtidig som den tar hensyn til følgende, alt etter hva som er relevant:Tredjestatens lovgivning innenfor den aktuelle sektoren.Oppbygningen og organiseringen av de vedkommende myndighetene i tredjestaten og deres kontrollmyndigheter, den myndigheten de er gitt, de garantiene som kan gis om anvendelsen og håndhevingen av tredjestatens lovgivning innenfor den aktuelle sektoren, og påliteligheten til framgangsmåtene for offentlig attestering.Hvordan de vedkommende myndighetene i tredjestaten gjennomfører hensiktsmessig offentlig kontroll og annen virksomhet for å vurdere forekomsten av farer for menneskers eller dyrs helse, for plantehelsen, dyrevelferden eller, når det gjelder genmodifiserte organismer og plantevernmidler, for miljøet.Hvor regelmessig og raskt tredjestaten gir opplysninger om forekomst av farer for menneskers eller dyrs helse, for plantehelsen, dyrevelferden eller, når det gjelder genmodifiserte organismer og plantevernmidler, for miljøet.Garantiene tredjestaten gir om atde vilkårene som gjelder for virksomheter som eksporterer dyr eller varer til Unionen, oppfyller krav som er likeverdige med dem som er nevnt i artikkel 126 nr. 1,det utarbeides og ajourføres en liste over virksomhetene nevnt i punkt i),listen over virksomheter nevnt i punkt i) og ajourføringer av den oversendes Kommisjonen umiddelbart,virksomhetene nevnt i punkt i) kontrolleres regelmessig og effektivt av tredjestatens vedkommende myndigheter.Resultatene av kontroll gjennomført av Kommisjonen i en tredjestat i samsvar med artikkel 120 nr. 1.Eventuelle andre opplysninger eller data om tredjestatens evne til å sikre at bare dyr eller varer som gir samme eller et likeverdig nivå av vern som det som er fastsatt i de relevante kravene nevnt i artikkel 126 nr. 1, innføres til Unionen.
+2\. Vilkårene fastsatt i de delegerte rettsaktene nevnt i nr. 1 skal identifisere dyr og varer ved å henvise til kodene de har i Den kombinerte nomenklatur, og kan omfattekravet om at visse dyr og varer bare kan innføres til Unionen fra en tredjestat eller en region i en tredjestat som er oppført på en liste utarbeidet av Kommisjonen for det formålet,kravet om at forsendelser av visse dyr og varer fra tredjestater skal være sendt fra og framstilt eller tilberedt i virksomheter som oppfyller de relevante kravene nevnt i nr. 1, eller krav som anses for å være minst likeverdige,kravet om at forsendelser av visse dyr og varer skal ledsages av et offisielt sertifikat, en offisiell attestasjon eller annen dokumentasjon på at forsendelsene oppfyller de relevante kravene nevnt i nr. 1, eller krav som anses for å være minst likeverdige med dem, herunder resultatene av analysen utført av et akkreditert laboratorium,forpliktelsen til å framlegge dokumentasjonen nevnt i bokstav c) i et bestemt format,andre krav som er nødvendige for å sikre at visse dyr og varer innebærer et nivå for vern av helsen og, når det gjelder genmodifiserte organismer, også av miljøet, tilsvarende det som ivaretas av kravene nevnt i nr. 1.
 
-4. Kommisjonen skal fjerne henvisningen til en tredjestat eller en region i en tredjestat fra listen nevnt i artikkel 126 nr. 2 bokstav a) når vilkårene for oppføring på listen ikke lenger er oppfylt. Framgangsmåten nevnt i nr. 2 i denne artikkel gjelder.
+3\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette regler for formatet til og arten av offisielle sertifikater, offisielle attestasjoner eller dokumentasjon som kreves i samsvar med reglene fastsatt i nr. 2 bokstav c) i denne artikkel. Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
 
-1. Dersom det i andre tilfeller enn dem som er nevnt i artikkel 53 i forordning [(EF) nr. 178/2002](eu/32002r0178) og artikkel 249 i forordning [(EU) 2016/429](eu/32016r0429*), foreligger dokumentasjon på at innførsel til Unionen av visse dyr eller varer fra en tredjestat, en region i den eller en gruppe av tredjestater, utgjør en risiko for menneskers eller dyrs helse, for plantehelsen eller, når det gjelder genmodifiserte organismer, for miljøet, eller dersom det foreligger dokumentasjon på at det forekommer omfattende alvorlig manglende overholdelse av reglene nevnt i artikkel 1 nr. 2 i denne forordning, skal Kommisjonen ved hjelp av gjennomføringsrettsakter vedta nødvendige tiltak for å begrense slik risiko eller stanse den påviste manglende overholdelsen. Disse gjennomføringsrettsaktene skal vedtas etter undersøkelsesprosedyren nevnt i artikkel 145 nr. 2 i denne forordning.
+###### Artikkel 127
 
-2. Tiltakene nevnt i nr. 1 skal identifisere dyr og varer ved å henvise til kodene de har i Den kombinerte nomenklatur, og kan omfatteforbud mot innførsel til Unionen av dyr og varer nevnt i nr. 1 som har sin opprinnelse i eller er sendt fra de berørte tredjestatene eller regioner i disse,kravet om at dyr og varer nevnt i nr. 1 som har sin opprinnelse i eller er sendt fra visse tredjestater eller regioner i disse, før utsendelse skal være underlagt særlig behandling eller kontroll,kravet om at dyr og varer nevnt i nr. 1 som har sin opprinnelse i eller er sendt fra visse tredjestater eller regioner i disse, ved innførsel til Unionen skal være underlagt særlig behandling eller kontroll,kravet om at forsendelser av dyr og varer nevnt i nr. 1 i denne artikkel som har sin opprinnelse i eller er sendt fra visse tredjestater eller regioner i disse, skal ledsages av et offisielt sertifikat, en offisiell attestasjon eller annen dokumentasjon på at forsendelsen oppfyller kravene fastsatt ved reglene nevnt i artikkel 1 nr. 2, eller krav som anses for å være minst likeverdige,kravet om at dokumentasjonen nevnt i bokstav d) skal framlegges i et bestemt format,andre nødvendige tiltak for å begrense risikoen.
+Oppføring på listen over tredjestater nevnt i artikkel 126 nr. 2 bokstav a)
 
-3. Når tiltakene nevnt i nr. 2 vedtas, skal det tas hensyn tilopplysningene som er samlet inn i samsvar med artikkel 125,eventuelle andre opplysninger som de berørte tredjestatene har framlagt, ogom nødvendig, resultatene av Kommisjonens kontroll i henhold til artikkel 120 nr. 1.
+1\. Oppføring av en tredjestat eller en region i en tredjestat på listen nevnt i artikkel 126 nr. 2 bokstav a) skal gjøres i samsvar med nr. 2 og 3 i denne artikkel.
 
-4. Når det foreligger behørig begrunnede tvingende hasteårsaker knyttet til menneskers eller dyrs helse eller, med hensyn til genmodifiserte organismer og plantevernmidler, til vern av miljøet, skal Kommisjonen vedta gjennomføringsrettsakter med umiddelbar virkning i samsvar med prosedyren nevnt i artikkel 145 nr. 3.
+2\. Kommisjonen skal ved hjelp av gjennomføringsrettsakter godkjenne den anmodningen som den berørte medlemsstaten oversender for det formålet som er nevnt i nr. 1 i denne artikkel, ledsaget av hensiktsmessig dokumentasjon og garantier for at de aktuelle dyrene og varene i den nevnte tredjestaten oppfyller de relevante kravene nevnt i artikkel 126 nr. 1 eller likeverdige krav. Disse gjennomføringsrettsaktene skal vedtas og ajourføres etter undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
 
-1. På områder som omfattes av reglene nevnt i artikkel 1 nr. 2, med unntak av artikkel 1 nr. 2 bokstav d), e), g) og h), kan Kommisjonen ved hjelp av gjennomføringsrettsakter godkjenne at tiltak som brukes i en tredjestat eller i regioner i en tredjestat, er likeverdige med kravene fastsatt i nevnte regler, på grunnlag aven grundig undersøkelse av opplysninger og data framlagt av den berørte tredjestaten i henhold til artikkel 125 nr. 1, ogdersom det er relevant, et tilfredsstillende resultat av en kontroll gjennomført av Kommisjonen i samsvar med artikkel 120 nr. 1.Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
+3\. Kommisjonen skal treffe beslutning om anmodningen nevnt i nr. 2 samtidig som den tar hensyn til følgende, alt etter hva som er relevant:Tredjestatens lovgivning innenfor den aktuelle sektoren.Oppbygningen og organiseringen av de vedkommende myndighetene i tredjestaten og deres kontrollmyndigheter, den myndigheten de er gitt, de garantiene som kan gis om anvendelsen og håndhevingen av tredjestatens lovgivning innenfor den aktuelle sektoren, og påliteligheten til framgangsmåtene for offentlig attestering.Hvordan de vedkommende myndighetene i tredjestaten gjennomfører hensiktsmessig offentlig kontroll og annen virksomhet for å vurdere forekomsten av farer for menneskers eller dyrs helse, for plantehelsen, dyrevelferden eller, når det gjelder genmodifiserte organismer og plantevernmidler, for miljøet.Hvor regelmessig og raskt tredjestaten gir opplysninger om forekomst av farer for menneskers eller dyrs helse, for plantehelsen, dyrevelferden eller, når det gjelder genmodifiserte organismer og plantevernmidler, for miljøet.Garantiene tredjestaten gir om atde vilkårene som gjelder for virksomheter som eksporterer dyr eller varer til Unionen, oppfyller krav som er likeverdige med dem som er nevnt i artikkel 126 nr. 1,det utarbeides og ajourføres en liste over virksomhetene nevnt i punkt i),listen over virksomheter nevnt i punkt i) og ajourføringer av den oversendes Kommisjonen umiddelbart,virksomhetene nevnt i punkt i) kontrolleres regelmessig og effektivt av tredjestatens vedkommende myndigheter.Resultatene av kontroll gjennomført av Kommisjonen i en tredjestat i samsvar med artikkel 120 nr. 1.Eventuelle andre opplysninger eller data om tredjestatens evne til å sikre at bare dyr eller varer som gir samme eller et likeverdig nivå av vern som det som er fastsatt i de relevante kravene nevnt i artikkel 126 nr. 1, innføres til Unionen.
 
-2. Gjennomføringsrettsaktene nevnt i nr. 1 skal fastsette de praktiske ordningene for innførsel av dyr og varer til Unionen fra den berørte tredjestaten eller regioner i den, og kan omfattearten av og innholdet i de offisielle sertifikatene eller attestasjonene som må ledsage dyrene eller varene,særlige krav som gjelder for innførselen av dyrene eller varene til Unionen, og den offentlige kontrollen som skal gjennomføres ved innførsel til Unionen,om nødvendig framgangsmåter for å utarbeide og endre lister over regioner eller virksomheter i den berørte tredjestaten som det er tillatt å innføre dyr og varer fra til Unionen.
+4\. Kommisjonen skal fjerne henvisningen til en tredjestat eller en region i en tredjestat fra listen nevnt i artikkel 126 nr. 2 bokstav a) når vilkårene for oppføring på listen ikke lenger er oppfylt. Framgangsmåten nevnt i nr. 2 i denne artikkel gjelder.
 
-3. Kommisjonen skal ved hjelp av gjennomføringsrettsakter umiddelbart oppheve gjennomføringsrettsaktene fastsatt i nr. 1 i denne artikkel dersom noen av vilkårene for å anerkjenne likeverdighet ikke lenger er oppfylt. Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
+###### Artikkel 128
+
+Særlige vilkår for innførsel til Unionen av visse dyr og varer
+
+1\. Dersom det i andre tilfeller enn dem som er nevnt i artikkel 53 i forordning [(EF) nr. 178/2002](eu/32002r0178) og artikkel 249 i forordning [(EU) 2016/429](eu/32016r0429*), foreligger dokumentasjon på at innførsel til Unionen av visse dyr eller varer fra en tredjestat, en region i den eller en gruppe av tredjestater, utgjør en risiko for menneskers eller dyrs helse, for plantehelsen eller, når det gjelder genmodifiserte organismer, for miljøet, eller dersom det foreligger dokumentasjon på at det forekommer omfattende alvorlig manglende overholdelse av reglene nevnt i artikkel 1 nr. 2 i denne forordning, skal Kommisjonen ved hjelp av gjennomføringsrettsakter vedta nødvendige tiltak for å begrense slik risiko eller stanse den påviste manglende overholdelsen. Disse gjennomføringsrettsaktene skal vedtas etter undersøkelsesprosedyren nevnt i artikkel 145 nr. 2 i denne forordning.
+
+2\. Tiltakene nevnt i nr. 1 skal identifisere dyr og varer ved å henvise til kodene de har i Den kombinerte nomenklatur, og kan omfatteforbud mot innførsel til Unionen av dyr og varer nevnt i nr. 1 som har sin opprinnelse i eller er sendt fra de berørte tredjestatene eller regioner i disse,kravet om at dyr og varer nevnt i nr. 1 som har sin opprinnelse i eller er sendt fra visse tredjestater eller regioner i disse, før utsendelse skal være underlagt særlig behandling eller kontroll,kravet om at dyr og varer nevnt i nr. 1 som har sin opprinnelse i eller er sendt fra visse tredjestater eller regioner i disse, ved innførsel til Unionen skal være underlagt særlig behandling eller kontroll,kravet om at forsendelser av dyr og varer nevnt i nr. 1 i denne artikkel som har sin opprinnelse i eller er sendt fra visse tredjestater eller regioner i disse, skal ledsages av et offisielt sertifikat, en offisiell attestasjon eller annen dokumentasjon på at forsendelsen oppfyller kravene fastsatt ved reglene nevnt i artikkel 1 nr. 2, eller krav som anses for å være minst likeverdige,kravet om at dokumentasjonen nevnt i bokstav d) skal framlegges i et bestemt format,andre nødvendige tiltak for å begrense risikoen.
+
+3\. Når tiltakene nevnt i nr. 2 vedtas, skal det tas hensyn tilopplysningene som er samlet inn i samsvar med artikkel 125,eventuelle andre opplysninger som de berørte tredjestatene har framlagt, ogom nødvendig, resultatene av Kommisjonens kontroll i henhold til artikkel 120 nr. 1.
+
+4\. Når det foreligger behørig begrunnede tvingende hasteårsaker knyttet til menneskers eller dyrs helse eller, med hensyn til genmodifiserte organismer og plantevernmidler, til vern av miljøet, skal Kommisjonen vedta gjennomføringsrettsakter med umiddelbar virkning i samsvar med prosedyren nevnt i artikkel 145 nr. 3.
+
+###### Artikkel 129
+
+Likeverdighet
+
+1\. På områder som omfattes av reglene nevnt i artikkel 1 nr. 2, med unntak av artikkel 1 nr. 2 bokstav d), e), g) og h), kan Kommisjonen ved hjelp av gjennomføringsrettsakter godkjenne at tiltak som brukes i en tredjestat eller i regioner i en tredjestat, er likeverdige med kravene fastsatt i nevnte regler, på grunnlag aven grundig undersøkelse av opplysninger og data framlagt av den berørte tredjestaten i henhold til artikkel 125 nr. 1, ogdersom det er relevant, et tilfredsstillende resultat av en kontroll gjennomført av Kommisjonen i samsvar med artikkel 120 nr. 1.Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
+
+2\. Gjennomføringsrettsaktene nevnt i nr. 1 skal fastsette de praktiske ordningene for innførsel av dyr og varer til Unionen fra den berørte tredjestaten eller regioner i den, og kan omfattearten av og innholdet i de offisielle sertifikatene eller attestasjonene som må ledsage dyrene eller varene,særlige krav som gjelder for innførselen av dyrene eller varene til Unionen, og den offentlige kontrollen som skal gjennomføres ved innførsel til Unionen,om nødvendig framgangsmåter for å utarbeide og endre lister over regioner eller virksomheter i den berørte tredjestaten som det er tillatt å innføre dyr og varer fra til Unionen.
+
+3\. Kommisjonen skal ved hjelp av gjennomføringsrettsakter umiddelbart oppheve gjennomføringsrettsaktene fastsatt i nr. 1 i denne artikkel dersom noen av vilkårene for å anerkjenne likeverdighet ikke lenger er oppfylt. Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
 
 ### KAPITTEL III
 Opplæring av personale hos vedkommende myndigheter og hos andre myndigheter
 
-1. Kommisjonen kan organisere opplæring for de vedkommende myndighetenes personale og, dersom det er relevant, for personale hos andre myndigheter i de medlemsstatene som deltar i undersøkelser av mulige overtredelser av denne forordning, og av reglene nevnt i artikkel 1 nr. 2.Kommisjonen skal organisere opplæringen i samarbeid med de berørte medlemsstatene.
+###### Artikkel 130
 
-2. Opplæringen nevnt i nr. 1 skal legge til rette for utviklingen av en harmonisert metode for offentlig kontroll og annen offentlig virksomhet i medlemsstatene. Den skal etter behov omfatte opplæring idenne forordning og reglene nevnt i artikkel 1 nr. 2,kontrollmetoder og -teknikker som er relevante for offentlig kontroll og annen offentlig virksomhet som de vedkommende myndighetene utfører,metoder og teknikker for produksjon, foredling og markedsføring.
+Opplæring og utveksling av personale
 
-3. Opplæringen nevnt i nr. 1 kan være åpen for personale hos vedkommende myndigheter i tredjestater og kan gjennomføres utenfor Unionen.
+1\. Kommisjonen kan organisere opplæring for de vedkommende myndighetenes personale og, dersom det er relevant, for personale hos andre myndigheter i de medlemsstatene som deltar i undersøkelser av mulige overtredelser av denne forordning, og av reglene nevnt i artikkel 1 nr. 2.Kommisjonen skal organisere opplæringen i samarbeid med de berørte medlemsstatene.
 
-4. De vedkommende myndighetene skal sikre at kunnskap som er tilegnet gjennom opplæringen nevnt i nr. 1 i denne artikkel, spres etter behov og brukes på en hensiktsmessig måte i forbindelse med opplæringen av personale nevnt i artikkel 5 nr. 4.Opplæring med henblikk på å spre slik kunnskap skal inngå i opplæringsprogrammene nevnt i artikkel 5 nr. 4.
+2\. Opplæringen nevnt i nr. 1 skal legge til rette for utviklingen av en harmonisert metode for offentlig kontroll og annen offentlig virksomhet i medlemsstatene. Den skal etter behov omfatte opplæring idenne forordning og reglene nevnt i artikkel 1 nr. 2,kontrollmetoder og -teknikker som er relevante for offentlig kontroll og annen offentlig virksomhet som de vedkommende myndighetene utfører,metoder og teknikker for produksjon, foredling og markedsføring.
 
-5. Kommisjonen kan i samarbeid med medlemsstatene organisere programmer for utveksling mellom de vedkommende myndighetene i to eller flere medlemsstater av personale som gjennomfører offentlig kontroll eller annen offentlig virksomhet.Slik utveksling kan skje gjennom midlertidig utplassering av personale fra de vedkommende myndighetene i én medlemsstat til en annen, eller gjennom utveksling av personale mellom de berørte vedkommende myndighetene.
+3\. Opplæringen nevnt i nr. 1 kan være åpen for personale hos vedkommende myndigheter i tredjestater og kan gjennomføres utenfor Unionen.
 
-6. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette regler for organisering av opplæringen nevnt i nr. 1 og for programmene nevnt i nr. 5 i denne artikkel. Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
+4\. De vedkommende myndighetene skal sikre at kunnskap som er tilegnet gjennom opplæringen nevnt i nr. 1 i denne artikkel, spres etter behov og brukes på en hensiktsmessig måte i forbindelse med opplæringen av personale nevnt i artikkel 5 nr. 4.Opplæring med henblikk på å spre slik kunnskap skal inngå i opplæringsprogrammene nevnt i artikkel 5 nr. 4.
+
+5\. Kommisjonen kan i samarbeid med medlemsstatene organisere programmer for utveksling mellom de vedkommende myndighetene i to eller flere medlemsstater av personale som gjennomfører offentlig kontroll eller annen offentlig virksomhet.Slik utveksling kan skje gjennom midlertidig utplassering av personale fra de vedkommende myndighetene i én medlemsstat til en annen, eller gjennom utveksling av personale mellom de berørte vedkommende myndighetene.
+
+6\. Kommisjonen kan ved hjelp av gjennomføringsrettsakter fastsette regler for organisering av opplæringen nevnt i nr. 1 og for programmene nevnt i nr. 5 i denne artikkel. Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
 
 ### KAPITTEL IV
 Informasjonsstyringssystem
 
-1. Kommisjonen skal i samarbeid med medlemsstatene opprette og forvalte et databasert informasjonsstyringssystem for offentlig kontroll (IMSOC) med henblikk på integrert drift av de ordningene og verktøyene som skal brukes til å styre, håndtere og automatisk utveksle data, opplysninger og dokumenter som gjelder offentlig kontroll og annen offentlig virksomhet.
+###### Artikkel 131
 
-2. Medlemsstatene og Kommisjonen kan behandle personopplysninger gjennom IMSOC og systemets komponenter bare for det formål å gjennomføre offentlig kontroll og annen offentlig virksomhet i samsvar med denne forordning og med reglene nevnt i artikkel 1 nr. 2.
+Informasjonsstyringssystemet for offentlig kontroll (IMSOC)
+
+1\. Kommisjonen skal i samarbeid med medlemsstatene opprette og forvalte et databasert informasjonsstyringssystem for offentlig kontroll (IMSOC) med henblikk på integrert drift av de ordningene og verktøyene som skal brukes til å styre, håndtere og automatisk utveksle data, opplysninger og dokumenter som gjelder offentlig kontroll og annen offentlig virksomhet.
+
+2\. Medlemsstatene og Kommisjonen kan behandle personopplysninger gjennom IMSOC og systemets komponenter bare for det formål å gjennomføre offentlig kontroll og annen offentlig virksomhet i samsvar med denne forordning og med reglene nevnt i artikkel 1 nr. 2.
+
+###### Artikkel 132
+
+Alminnelige funksjoner i IMSOC
 
 IMSOC skalmuliggjøre databasert håndtering og utveksling av opplysninger, data og dokumenter som er nødvendige for å gjennomføre offentlig kontroll, eller som har framkommet ved offentlig kontroll eller ved registrering av gjennomføringen eller resultatet av den offentlige kontrollen, i alle de tilfellene der denne forordning, reglene nevnt i artikkel 1 nr. 2 eller de delegerte rettsaktene og gjennomføringsrettsaktene fastsatt i artikkel 16–27 fastsetter at slike opplysninger, data og dokumenter kan utveksles mellom vedkommende myndigheter, mellom vedkommende myndigheter og Kommisjonen og eventuelt med andre myndigheter og driftsansvarlige,innføre en ordning for utveksling av data, opplysninger og dokumenter i samsvar med artikkel 102–108,innføre et verktøy til å samle inn og forvalte de rapportene om offentlig kontroll som medlemsstatene framlegger for Kommisjonen,muliggjøre utarbeiding, håndtering og oversending, herunder i elektronisk form, av loggboken nevnt i artikkel 5 nr. 4 i forordning [(EF) nr. 1/2005](eu/32005r0001*), opplysningene fra navigasjonssystemet nevnt i artikkel 6 nr. 9 i nevnte forordning, offisielle sertifikater og det felles innførselsdokumentet om helse nevnt i artikkel 56 i denne forordning, ogintegrere eksisterende databaserte systemer som forvaltes av Kommisjonen og brukes til hurtig utveksling av data, opplysninger og dokumenter i forbindelse med risikoer for menneskers og dyrs helse, dyrevelferd og plantehelse, som fastsatt i artikkel 50 i forordning [(EF) nr. 178/2002](eu/32002r0178), artikkel 20 i forordning [(EU) 2016/429](eu/32016r0429*) og artikkel 103 i forordning [(EU) 2016/2031](eu/32016r2031), og sørge for egnede forbindelser mellom disse systemene og systemenes øvrige komponenter.
 
-1. Når det gjelder dyr eller varer hvis forflytning innenfor Unionen eller omsetning omfattes av særlige krav eller framgangsmåter fastsatt i reglene nevnt i artikkel 1 nr. 2, skal IMSOC gjøre det mulig for de vedkommende myndighetene på avsenderstedet og andre vedkommende myndigheter med ansvar for å gjennomføre offentlig kontroll av slike dyr eller varer, å utveksle data, opplysninger og dokumenter i sanntid om dyr eller varer som flyttes fra én medlemsstat til en annen, og om offentlig kontroll som er gjennomført.Første ledd i dette nummer gjelder ikke for varer som omfattes av reglene nevnt i artikkel 1 nr. 2 bokstav g) og h).
+###### Artikkel 133
 
-2. Når det gjelder eksporterte dyr og varer som er underlagt unionsregler i forbindelse med utstedelse av eksportsertifikatet, skal IMSOC gjøre det mulig for de vedkommende myndighetene på avsenderstedet og andre vedkommende myndigheter med ansvar for å gjennomføre offentlig kontroll, å utveksle data, opplysninger og dokumenter i sanntid om slike dyr og varer samt resultatet av kontroll av slike dyr og varer.
+Bruk av IMSOC med hensyn til dyr og varer som omfattes av en bestemt offentlig kontroll
 
-3. Når det gjelder dyr eller varer som omfattes av den offentlige kontrollen nevnt i artikkel 44–64, skal IMSOCgjøre det mulig for de vedkommende myndighetene på grensekontrollstasjonen og andre vedkommende myndigheter med ansvar for å gjennomføre offentlig kontroll av dyr eller varer, å utveksle data, opplysninger og dokumenter i sanntid om slike dyr og varer og om kontroll som er gjennomført av slike dyr eller varer,gjøre det mulig for de vedkommende myndighetene på grensekontrollstasjonen å dele og utveksle relevante data, opplysninger og dokumenter med tollmyndigheter og andre myndigheter med ansvar for å gjennomføre kontroll av dyr eller varer som innføres til Unionen fra tredjestater, og med driftsansvarlige som deltar i innførselsprosedyrer, i samsvar med reglene vedtatt i henhold til artikkel 15 nr. 4 og artikkel 75 nr. 2 og med andre relevante unionsregler, ogmedvirke til og iverksette framgangsmåtene nevnt i artikkel 54 nr. 3 bokstav a) og artikkel 65 nr. 6.
+1\. Når det gjelder dyr eller varer hvis forflytning innenfor Unionen eller omsetning omfattes av særlige krav eller framgangsmåter fastsatt i reglene nevnt i artikkel 1 nr. 2, skal IMSOC gjøre det mulig for de vedkommende myndighetene på avsenderstedet og andre vedkommende myndigheter med ansvar for å gjennomføre offentlig kontroll av slike dyr eller varer, å utveksle data, opplysninger og dokumenter i sanntid om dyr eller varer som flyttes fra én medlemsstat til en annen, og om offentlig kontroll som er gjennomført.Første ledd i dette nummer gjelder ikke for varer som omfattes av reglene nevnt i artikkel 1 nr. 2 bokstav g) og h).
 
-4. Med henblikk på denne artikkel skal IMSOC integrere det eksisterende TRACES-systemet.
+2\. Når det gjelder eksporterte dyr og varer som er underlagt unionsregler i forbindelse med utstedelse av eksportsertifikatet, skal IMSOC gjøre det mulig for de vedkommende myndighetene på avsenderstedet og andre vedkommende myndigheter med ansvar for å gjennomføre offentlig kontroll, å utveksle data, opplysninger og dokumenter i sanntid om slike dyr og varer samt resultatet av kontroll av slike dyr og varer.
+
+3\. Når det gjelder dyr eller varer som omfattes av den offentlige kontrollen nevnt i artikkel 44–64, skal IMSOCgjøre det mulig for de vedkommende myndighetene på grensekontrollstasjonen og andre vedkommende myndigheter med ansvar for å gjennomføre offentlig kontroll av dyr eller varer, å utveksle data, opplysninger og dokumenter i sanntid om slike dyr og varer og om kontroll som er gjennomført av slike dyr eller varer,gjøre det mulig for de vedkommende myndighetene på grensekontrollstasjonen å dele og utveksle relevante data, opplysninger og dokumenter med tollmyndigheter og andre myndigheter med ansvar for å gjennomføre kontroll av dyr eller varer som innføres til Unionen fra tredjestater, og med driftsansvarlige som deltar i innførselsprosedyrer, i samsvar med reglene vedtatt i henhold til artikkel 15 nr. 4 og artikkel 75 nr. 2 og med andre relevante unionsregler, ogmedvirke til og iverksette framgangsmåtene nevnt i artikkel 54 nr. 3 bokstav a) og artikkel 65 nr. 6.
+
+4\. Med henblikk på denne artikkel skal IMSOC integrere det eksisterende TRACES-systemet.
+
+###### Artikkel 134
+
+Driften av IMSOC
 
 Kommisjonen skal vedta gjennomføringsrettsakter for driften av IMSOC der følgende fastsettes:De tekniske spesifikasjonene for IMSOC og IMSOCs systemkomponenter, herunder den elektroniske datautvekslingsmetoden for utveksling med eksisterende nasjonale systemer, angivelse av gjeldende standarder, definisjon av meldingsstrukturer, datakataloger, utveksling av protokoller og prosedyrer.De særlige reglene for driften av IMSOC og IMSOCs systemkomponenter for å sikre vern av personopplysninger og sikker informasjonsutveksling.De særlige reglene for driften og bruken av IMSOC og IMSOCs komponenter, herunder reglene for å oppdatere og opprette de nødvendige forbindelsene mellom systemene nevnt i artikkel 132 bokstav e) og artikkel 133 nr. 4.De beredskapstiltakene som skal iverksettes dersom noen av funksjonene i IMSOC ikke er tilgjengelige.I hvilke tilfeller og på hvilke vilkår berørte tredjestater og internasjonale organisasjoner kan gis delvis tilgang til funksjonene i IMSOC og de praktiske ordningene for slik tilgang.I hvilke tilfeller og på hvilke vilkår data, opplysninger og dokumenter skal oversendes ved hjelp av IMSOC.Reglene for et elektronisk system som de vedkommende myndighetene skal bruke til å godkjenne elektroniske sertifikater utstedt av vedkommende myndigheter i tredjestater.I hvilke tilfeller og på hvilke vilkår tilfeldige brukere av IMSOC kan unntas fra å bruke IMSOC.
 
 Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
 
-1. Direktiv [95/46/EF](eu/31995l0046) og europaparlaments- og rådsforordning [(EF) nr. 45/2001](eu/32001r0045*)* skal gjelde i den grad opplysningene som behandles gjennom IMSOC, inneholder personopplysninger som definert i artikkel 2 bokstav a) i direktiv [95/46/EF](eu/31995l0046) og i artikkel 2 bokstav a) i forordning [(EF) nr. 45/2001](eu/32001r0045*).
+###### Artikkel 135
 
-2. Når det gjelder deres ansvar for å oversende relevante opplysninger til IMSOC-systemet og behandle personopplysninger som måtte bli generert i forbindelse med denne virksomheten, skal de vedkommende myndighetene i medlemsstatene anses som behandlingsansvarlige i henhold til artikkel 2 bokstav d) i direktiv [95/46/EF](eu/31995l0046).
+Vern av personopplysninger
 
-3. Når det gjelder Kommisjonens ansvar for å forvalte IMSOC-systemet og behandle personopplysninger som måtte bli generert i forbindelse med denne virksomheten, skal Kommisjonen anses som behandlingsansvarlig i henhold til artikkel 2 bokstav d) i forordning [(EF) nr. 45/2001](eu/32001r0045*).
+1\. Direktiv [95/46/EF](eu/31995l0046) og europaparlaments- og rådsforordning [(EF) nr. 45/2001](eu/32001r0045*)\* skal gjelde i den grad opplysningene som behandles gjennom IMSOC, inneholder personopplysninger som definert i artikkel 2 bokstav a) i direktiv [95/46/EF](eu/31995l0046) og i artikkel 2 bokstav a) i forordning [(EF) nr. 45/2001](eu/32001r0045*).
 
-4. Medlemsstatene kan begrense rettighetene og forpliktelsene nevnt i artikkel 6 nr. 1, artikkel 10, artikkel 11 nr. 1 og artikkel 12 i direktiv [95/46/EF](eu/31995l0046) dersom det er nødvendig for å verne interessene nevnt i artikkel 13 nr. 1 bokstav d) og f) i nevnte direktiv.
+2\. Når det gjelder deres ansvar for å oversende relevante opplysninger til IMSOC-systemet og behandle personopplysninger som måtte bli generert i forbindelse med denne virksomheten, skal de vedkommende myndighetene i medlemsstatene anses som behandlingsansvarlige i henhold til artikkel 2 bokstav d) i direktiv [95/46/EF](eu/31995l0046).
 
-5. Kommisjonen kan begrense rettighetene og forpliktelsene nevnt i artikkel 4 nr. 1, artikkel 11, artikkel 12 nr. 1 og artikkel 13–17 i forordning [(EF) nr. 45/2001](eu/32001r0045*) når en slik begrensning er et nødvendig tiltak for å verne interessene nevnt i artikkel 20 nr. 1 bokstav a) og e) i nevnte forordning i den perioden det planlegges eller gjennomføres tiltak for å verifisere at fôrvare- eller næringsmiddelregelverket overholdes, eller for å sikre at fôrvare- eller næringsmiddelregelverket gjennomføres i det særlige tilfellet som opplysningene gjelder.
+3\. Når det gjelder Kommisjonens ansvar for å forvalte IMSOC-systemet og behandle personopplysninger som måtte bli generert i forbindelse med denne virksomheten, skal Kommisjonen anses som behandlingsansvarlig i henhold til artikkel 2 bokstav d) i forordning [(EF) nr. 45/2001](eu/32001r0045*).
+
+4\. Medlemsstatene kan begrense rettighetene og forpliktelsene nevnt i artikkel 6 nr. 1, artikkel 10, artikkel 11 nr. 1 og artikkel 12 i direktiv [95/46/EF](eu/31995l0046) dersom det er nødvendig for å verne interessene nevnt i artikkel 13 nr. 1 bokstav d) og f) i nevnte direktiv.
+
+5\. Kommisjonen kan begrense rettighetene og forpliktelsene nevnt i artikkel 4 nr. 1, artikkel 11, artikkel 12 nr. 1 og artikkel 13–17 i forordning [(EF) nr. 45/2001](eu/32001r0045*) når en slik begrensning er et nødvendig tiltak for å verne interessene nevnt i artikkel 20 nr. 1 bokstav a) og e) i nevnte forordning i den perioden det planlegges eller gjennomføres tiltak for å verifisere at fôrvare- eller næringsmiddelregelverket overholdes, eller for å sikre at fôrvare- eller næringsmiddelregelverket gjennomføres i det særlige tilfellet som opplysningene gjelder.
+
+\* Europaparlaments- og rådsforordning [(EF) nr. 45/2001](eu/32001r0045*) av 18. desember 2000 om personvern i forbindelse med behandling av personopplysninger i Fellesskapets institusjoner og organer og om fri utveksling av slike opplysninger (EFT L 8 av 12.1.2001, s. 1).
+
+###### Artikkel 136
+
+Datasikkerhet
 
 Medlemsstatene og Kommisjonen skal sikre at IMSOC overholder reglene for datasikkerhet som er vedtatt av Kommisjonen i henhold til henholdsvis artikkel 17 i direktiv [95/46/EF](eu/31995l0046) og artikkel 22 i forordning [(EF) nr. 45/2001](eu/32001r0045*).
 
@@ -1152,38 +1762,58 @@ HÅNDHEVINGSTILTAK
 ### KAPITTEL I
 Tiltak fra vedkommende myndigheters side og sanksjoner
 
-1. Når de vedkommende myndighetene opptrer i samsvar med dette kapittel, skal de prioritere tiltak som skal treffes for å fjerne eller begrense risikoer for menneskers eller dyrs helse, for plantehelsen eller dyrevelferden eller, når det gjelder genmodifiserte organismer og plantevernmidler, for miljøet.
+###### Artikkel 137
 
-2. Ved mistanke om manglende overholdelse skal de vedkommende myndighetene gjøre en undersøkelse for å bekrefte eller utelukke mistanken.
+Vedkommende myndigheters alminnelige forpliktelser med hensyn til håndhevingstiltak
 
-3. Om nødvendig skal tiltak truffet i samsvar med nr. 2 omfattegjennomføring av skjerpet kontroll av dyr, varer og driftsansvarlige i et passende tidsrom,tilbakeholding av dyr og varer og av eventuelle ikke-tillatte stoffer eller produkter, avhengig av omstendighetene.
+1\. Når de vedkommende myndighetene opptrer i samsvar med dette kapittel, skal de prioritere tiltak som skal treffes for å fjerne eller begrense risikoer for menneskers eller dyrs helse, for plantehelsen eller dyrevelferden eller, når det gjelder genmodifiserte organismer og plantevernmidler, for miljøet.
 
-1. Dersom manglende overholdelse fastslås, skal de vedkommende myndighetenetreffe alle de tiltak som er nødvendige for å fastslå årsaken til og omfanget av den manglende overholdelsen og ansvaret til den driftsansvarlige,treffe de tiltak som er hensiktsmessige for å sikre at den berørte driftsansvarlige retter opp den manglende overholdelsen og forhindrer at den oppstår igjen.Når de vedkommende myndighetene skal beslutte hvilke tiltak som skal treffes, skal de ta hensyn til den manglende overholdelsens art og hvorvidt den driftsansvarlige tidligere har gjort seg skyldig i manglende overholdelse.
+2\. Ved mistanke om manglende overholdelse skal de vedkommende myndighetene gjøre en undersøkelse for å bekrefte eller utelukke mistanken.
 
-2. Når de vedkommende myndighetene opptrer i samsvar med nr. 1 i denne artikkel, skal de treffe alle tiltak de mener er nødvendige for å sikre overholdelsen av reglene nevnt i artikkel 1 nr. 2, herunder, men ikke begrenset til, følgende:Pålegge eller utføre behandling av dyr.Pålegge at dyr lesses av, flyttes til et annet transportmiddel, innkvarteres og stelles, plasseres i karantene eller at slaktingen utsettes og, om nødvendig, pålegge at det innhentes bistand fra veterinær.Pålegge behandling av varer, endring av etiketter eller formidling av korrigerte opplysninger til forbrukerne.Begrense eller forby at dyr og varer bringes i omsetning, forflyttes, innføres til Unionen eller eksporteres, og forby at de vender tilbake til avsendermedlemsstaten eller pålegge at de sendes tilbake til avsendermedlemsstaten.Pålegge den driftsansvarlige å øke hyppigheten av egne kontroller.Pålegge at visse deler av virksomheten til den berørte driftsansvarlige skal være underlagt hyppigere eller systematisk offentlig kontroll.Pålegge at varer tilbakekalles, trekkes tilbake, fjernes og tilintetgjøres og, dersom det er relevant, tillate at de brukes til andre formål enn dem de opprinnelig var beregnet på,Pålegge at hele eller deler av forretningsvirksomheten til den berørte driftsansvarlige, eller dennes foretak, driftsenheter eller andre lokaler, isoleres eller stenges i et passende tidsrom.Pålegge at hele eller deler av virksomheten til den berørte driftsansvarlige og, dersom det er relevant, de nettstedene som den driftsansvarlige driver eller bruker, innstilles i et passende tidsrom.Pålegge at registreringen eller godkjenningen av en transportørs tillatelse eller en førers kompetansebevis midlertidig oppheves eller tilbakekalles for den berørte virksomheten eller driftsenheten eller det berørte anlegget eller transportmiddelet.Pålegge at dyr slaktes eller avlives, forutsatt at dette er det mest hensiktsmessige tiltaket for å verne menneskers helse samt dyrs helse og velferd.
+3\. Om nødvendig skal tiltak truffet i samsvar med nr. 2 omfattegjennomføring av skjerpet kontroll av dyr, varer og driftsansvarlige i et passende tidsrom,tilbakeholding av dyr og varer og av eventuelle ikke-tillatte stoffer eller produkter, avhengig av omstendighetene.
 
-3. De vedkommende myndighetene skal gi den berørte driftsansvarlige eller dennes representantskriftlig underretning om sin beslutning vedrørende forholdsreglene eller tiltakene som skal treffes i samsvar med nr. 1 og 2, sammen med begrunnelsen for denne beslutningen, ogopplysninger om en eventuell klageadgang når det gjelder slike beslutninger, og om den framgangsmåten og de tidsfristene som gjelder for slik klageadgang.
+###### Artikkel 138
 
-4. Alle påløpte kostnader etter denne artikkel skal bæres av de driftsansvarlige.
+Tiltak ved fastslått manglende overholdelse
 
-5. Når det gjelder utstedelse av falske eller villedende offisielle sertifikater eller ved misbruk av offisielle sertifikater, skal de vedkommende myndighetene treffe egnede tiltak, herundersuspensjon av sertifikatutstederen,tilbakekalling av tillatelsen til å undertegne offisielle sertifikater,eventuelle andre tiltak for å forhindre at overtredelsene nevnt i artikkel 89 nr. 2 gjentas.
+1\. Dersom manglende overholdelse fastslås, skal de vedkommende myndighetenetreffe alle de tiltak som er nødvendige for å fastslå årsaken til og omfanget av den manglende overholdelsen og ansvaret til den driftsansvarlige,treffe de tiltak som er hensiktsmessige for å sikre at den berørte driftsansvarlige retter opp den manglende overholdelsen og forhindrer at den oppstår igjen.Når de vedkommende myndighetene skal beslutte hvilke tiltak som skal treffes, skal de ta hensyn til den manglende overholdelsens art og hvorvidt den driftsansvarlige tidligere har gjort seg skyldig i manglende overholdelse.
 
-1. Medlemsstatene skal fastsette regler for sanksjoner som skal brukes ved overtredelse av denne forordning, og treffe alle nødvendige tiltak for å sikre at sanksjonene gjennomføres. Sanksjonene skal være virkningsfulle, stå i forhold til overtredelsen og virke avskrekkende. Medlemsstatene skal senest 14. desember 2019 underrette Kommisjonen om disse bestemmelsene og umiddelbart underrette den om eventuelle senere endringer som påvirker disse bestemmelsene.
+2\. Når de vedkommende myndighetene opptrer i samsvar med nr. 1 i denne artikkel, skal de treffe alle tiltak de mener er nødvendige for å sikre overholdelsen av reglene nevnt i artikkel 1 nr. 2, herunder, men ikke begrenset til, følgende:Pålegge eller utføre behandling av dyr.Pålegge at dyr lesses av, flyttes til et annet transportmiddel, innkvarteres og stelles, plasseres i karantene eller at slaktingen utsettes og, om nødvendig, pålegge at det innhentes bistand fra veterinær.Pålegge behandling av varer, endring av etiketter eller formidling av korrigerte opplysninger til forbrukerne.Begrense eller forby at dyr og varer bringes i omsetning, forflyttes, innføres til Unionen eller eksporteres, og forby at de vender tilbake til avsendermedlemsstaten eller pålegge at de sendes tilbake til avsendermedlemsstaten.Pålegge den driftsansvarlige å øke hyppigheten av egne kontroller.Pålegge at visse deler av virksomheten til den berørte driftsansvarlige skal være underlagt hyppigere eller systematisk offentlig kontroll.Pålegge at varer tilbakekalles, trekkes tilbake, fjernes og tilintetgjøres og, dersom det er relevant, tillate at de brukes til andre formål enn dem de opprinnelig var beregnet på,Pålegge at hele eller deler av forretningsvirksomheten til den berørte driftsansvarlige, eller dennes foretak, driftsenheter eller andre lokaler, isoleres eller stenges i et passende tidsrom.Pålegge at hele eller deler av virksomheten til den berørte driftsansvarlige og, dersom det er relevant, de nettstedene som den driftsansvarlige driver eller bruker, innstilles i et passende tidsrom.Pålegge at registreringen eller godkjenningen av en transportørs tillatelse eller en førers kompetansebevis midlertidig oppheves eller tilbakekalles for den berørte virksomheten eller driftsenheten eller det berørte anlegget eller transportmiddelet.Pålegge at dyr slaktes eller avlives, forutsatt at dette er det mest hensiktsmessige tiltaket for å verne menneskers helse samt dyrs helse og velferd.
 
-2. Medlemsstatene skal sikre at økonomiske sanksjoner for overtredelser av denne forordning og reglene nevnt i artikkel 1 nr. 2 som følge av bedrageri eller villedende praksis, i samsvar med nasjonal rett minst gjenspeiler enten den økonomisk fordelen for den driftsansvarlige eller, avhengig av omstendighetene, en prosentandel av omsetningen til den driftsansvarlige.
+3\. De vedkommende myndighetene skal gi den berørte driftsansvarlige eller dennes representantskriftlig underretning om sin beslutning vedrørende forholdsreglene eller tiltakene som skal treffes i samsvar med nr. 1 og 2, sammen med begrunnelsen for denne beslutningen, ogopplysninger om en eventuell klageadgang når det gjelder slike beslutninger, og om den framgangsmåten og de tidsfristene som gjelder for slik klageadgang.
 
-1. Medlemsstatene skal sikre at de vedkommende myndighetene har effektive ordninger for rapportering av faktiske eller mulige overtredelser av denne forordning.
+4\. Alle påløpte kostnader etter denne artikkel skal bæres av de driftsansvarlige.
 
-2. Ordningene nevnt i nr. 1 skal minst omfatteframgangsmåter for mottak av rapporter om overtredelser og oppfølging av dem,passende vern av personer som rapporterer en overtredelse, mot gjengjeldelse, forskjellsbehandling eller andre typer urettferdig behandling, ogvern av personopplysninger om den personen som rapporterer en overtredelse i samsvar med unionsretten og nasjonal rett.
+5\. Når det gjelder utstedelse av falske eller villedende offisielle sertifikater eller ved misbruk av offisielle sertifikater, skal de vedkommende myndighetene treffe egnede tiltak, herundersuspensjon av sertifikatutstederen,tilbakekalling av tillatelsen til å undertegne offisielle sertifikater,eventuelle andre tiltak for å forhindre at overtredelsene nevnt i artikkel 89 nr. 2 gjentas.
+
+###### Artikkel 139
+
+Sanksjoner
+
+1\. Medlemsstatene skal fastsette regler for sanksjoner som skal brukes ved overtredelse av denne forordning, og treffe alle nødvendige tiltak for å sikre at sanksjonene gjennomføres. Sanksjonene skal være virkningsfulle, stå i forhold til overtredelsen og virke avskrekkende. Medlemsstatene skal senest 14. desember 2019 underrette Kommisjonen om disse bestemmelsene og umiddelbart underrette den om eventuelle senere endringer som påvirker disse bestemmelsene.
+
+2\. Medlemsstatene skal sikre at økonomiske sanksjoner for overtredelser av denne forordning og reglene nevnt i artikkel 1 nr. 2 som følge av bedrageri eller villedende praksis, i samsvar med nasjonal rett minst gjenspeiler enten den økonomisk fordelen for den driftsansvarlige eller, avhengig av omstendighetene, en prosentandel av omsetningen til den driftsansvarlige.
+
+###### Artikkel 140
+
+Rapportering av overtredelser
+
+1\. Medlemsstatene skal sikre at de vedkommende myndighetene har effektive ordninger for rapportering av faktiske eller mulige overtredelser av denne forordning.
+
+2\. Ordningene nevnt i nr. 1 skal minst omfatteframgangsmåter for mottak av rapporter om overtredelser og oppfølging av dem,passende vern av personer som rapporterer en overtredelse, mot gjengjeldelse, forskjellsbehandling eller andre typer urettferdig behandling, ogvern av personopplysninger om den personen som rapporterer en overtredelse i samsvar med unionsretten og nasjonal rett.
 
 ### KAPITTEL II
 Unionens håndhevingstiltak
 
-1. Dersom Kommisjonen har dokumentasjon på alvorlig uregelmessighet i en medlemsstats kontrollordning, og en slik uregelmessighet kan utgjøre en omfattende risiko for menneskers eller dyrs helse, for plantehelsen eller dyrevelferden eller, når det gjelder genmodifiserte organismer og plantevernmidler, for miljøet, eller føre til omfattende overtredelser av reglene nevnt i artikkel 1 nr. 2, skal den ved hjelp av gjennomføringsrettsakter vedta ett eller flere av følgende tiltak, som skal brukes inntil uregelmessigheten er utbedret:Forbud mot å gjøre tilgjengelig på markedet eller transportere, flytte eller på annen måte håndtere visse dyr eller varer som berøres av uregelmessigheten i kontrollordningen.Særlige vilkår for virksomhetene, dyrene eller varene nevnt i bokstav a).Midlertidig oppheving av offentlig kontroll på grensekontrollstasjoner eller andre kontrollsteder som berøres av uregelmessigheten i den offentlige kontrollordningen, eller tilbakekalling av utpekingen av slike grensekontrollstasjoner eller andre kontrollsteder.Andre egnede midlertidige tiltak som er nødvendige for å begrense risikoen inntil uregelmessigheten i kontrollordningen er utbedret.Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
+###### Artikkel 141
 
-2. Tiltakene nevnt i nr. 1 skal vedtas bare dersom den berørte medlemsstaten ikke har rettet opp i de forholdene Kommisjonen har anmodet om, innen den fristen Kommisjonen har fastsatt.
+Alvorlig uregelmessighet i en medlemsstats kontrollordning
 
-3. Når det foreligger behørig begrunnede tvingende hasteårsaker knyttet til menneskers eller dyrs helse eller, når det gjelder genmodifiserte organismer og plantevernmidler, til vern av miljøet, skal Kommisjonen vedta gjennomføringsrettsakter med umiddelbar virkning i samsvar med prosedyren nevnt i artikkel 145 nr. 3.
+1\. Dersom Kommisjonen har dokumentasjon på alvorlig uregelmessighet i en medlemsstats kontrollordning, og en slik uregelmessighet kan utgjøre en omfattende risiko for menneskers eller dyrs helse, for plantehelsen eller dyrevelferden eller, når det gjelder genmodifiserte organismer og plantevernmidler, for miljøet, eller føre til omfattende overtredelser av reglene nevnt i artikkel 1 nr. 2, skal den ved hjelp av gjennomføringsrettsakter vedta ett eller flere av følgende tiltak, som skal brukes inntil uregelmessigheten er utbedret:Forbud mot å gjøre tilgjengelig på markedet eller transportere, flytte eller på annen måte håndtere visse dyr eller varer som berøres av uregelmessigheten i kontrollordningen.Særlige vilkår for virksomhetene, dyrene eller varene nevnt i bokstav a).Midlertidig oppheving av offentlig kontroll på grensekontrollstasjoner eller andre kontrollsteder som berøres av uregelmessigheten i den offentlige kontrollordningen, eller tilbakekalling av utpekingen av slike grensekontrollstasjoner eller andre kontrollsteder.Andre egnede midlertidige tiltak som er nødvendige for å begrense risikoen inntil uregelmessigheten i kontrollordningen er utbedret.Disse gjennomføringsrettsaktene skal vedtas i samsvar med undersøkelsesprosedyren nevnt i artikkel 145 nr. 2.
+
+2\. Tiltakene nevnt i nr. 1 skal vedtas bare dersom den berørte medlemsstaten ikke har rettet opp i de forholdene Kommisjonen har anmodet om, innen den fristen Kommisjonen har fastsatt.
+
+3\. Når det foreligger behørig begrunnede tvingende hasteårsaker knyttet til menneskers eller dyrs helse eller, når det gjelder genmodifiserte organismer og plantevernmidler, til vern av miljøet, skal Kommisjonen vedta gjennomføringsrettsakter med umiddelbar virkning i samsvar med prosedyren nevnt i artikkel 145 nr. 3.
 
 ### AVDELING VIII
 FELLES BESTEMMELSER
@@ -1191,118 +1821,234 @@ FELLES BESTEMMELSER
 ### KAPITTEL I
 Saksbehandlingsbestemmelser
 
-1. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 144 for å endre denne forordning med hensyn til endringer av vedlegg II og III, for å ta hensyn til endringer av reglene nevnt i artikkel 1 nr. 2 og til den tekniske og vitenskapelige utviklingen.
+###### Artikkel 142
 
-2. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 144 for å endre denne forordning med hensyn til henvisningene til de europeiske standardene nevnt i artikkel 29 bokstav b) iv), artikkel 37 nr. 4 bokstav e) og artikkel 93 nr. 3 bokstav a), dersom CEN endrer disse standardene.
+Endring av vedlegg og henvisninger til europeiske standarder
 
-1. Medlemsstatene skal anvende direktiv [95/46/EF](eu/31995l0046) på behandling av personopplysninger som utføres i medlemsstatene i henhold til denne forordning.
+1\. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 144 for å endre denne forordning med hensyn til endringer av vedlegg II og III, for å ta hensyn til endringer av reglene nevnt i artikkel 1 nr. 2 og til den tekniske og vitenskapelige utviklingen.
 
-2. Forordning [(EF) nr. 45/2001](eu/32001r0045*) får anvendelse på behandling av personopplysninger som utføres av Kommisjonen i henhold til denne forordning.
+2\. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 144 for å endre denne forordning med hensyn til henvisningene til de europeiske standardene nevnt i artikkel 29 bokstav b) iv), artikkel 37 nr. 4 bokstav e) og artikkel 93 nr. 3 bokstav a), dersom CEN endrer disse standardene.
 
-1. Myndigheten til å vedta delegerte rettsakter gis Kommisjonen med forbehold for vilkårene fastsatt i denne artikkel.
+###### Artikkel 143
 
-2. Myndigheten til å vedta delegerte rettsaker nevnt i artikkel 18 nr. 7, artikkel 21 nr. 8, artikkel 41, artikkel 45 nr. 4, artikkel 47 nr. 3, artikkel 48, artikkel 50 nr. 4, artikkel 51, artikkel 53 nr. 1, artikkel 62 nr. 3, artikkel 64 nr. 2 og 5, artikkel 77 nr. 1 og 2, artikkel 92 nr. 4, artikkel 99 nr. 2, artikkel 100 nr. 6, artikkel 101 nr. 2, artikkel 126 nr. 1, artikkel 142 nr. 1 og 2, artikkel 149 nr. 2, artikkel 150 nr. 3, artikkel 154 nr. 3, artikkel 155 nr. 3 og artikkel 165 nr. 3 skal gis Kommisjonen for en periode på fem år fra 28. april 2017. Kommisjonen skal utarbeide en rapport om den delegerte myndigheten senest ni måneder før utløpet av femårsperioden. Den delegerte myndigheten skal stilltiende forlenges med perioder av samme varighet med mindre Europaparlamentet eller Rådet motsetter seg en slik forlengelse senest tre måneder før utløpet av hver periode.
+Vern av personopplysninger
 
-3. Den delegerte myndigheten nevnt i artikkel 18 nr. 7, artikkel 21 nr. 8, artikkel 41, artikkel 45 nr. 4, artikkel 47 nr. 3, artikkel 48, artikkel 50 nr. 4, artikkel 51, artikkel 53 nr. 1, artikkel 62 nr. 3, artikkel 64 nr. 2 og 5, artikkel 77 nr. 1 og 2, artikkel 92 nr. 4, artikkel 99 nr. 2, artikkel 100 nr. 6, artikkel 101 nr. 2, artikkel 126 nr. 1, artikkel 142 nr. 1 og 2, artikkel 149 nr. 2, artikkel 150 nr. 3, artikkel 154 nr. 3, artikkel 155 nr. 3 og artikkel 165 nr. 3 kan når som helst tilbakekalles av Europaparlamentet eller Rådet. En beslutning om tilbakekalling innebærer at den delegerte myndigheten som angis i beslutningen, opphører å gjelde. Den får anvendelse dagen etter at beslutningen er kunngjort i *Den europeiske unions tidende*, eller på et senere tidspunkt angitt i beslutningen. Den berører ikke gyldigheten av delegerte rettsakter som allerede er trådt i kraft.
+1\. Medlemsstatene skal anvende direktiv [95/46/EF](eu/31995l0046) på behandling av personopplysninger som utføres i medlemsstatene i henhold til denne forordning.
 
-4. Før Kommisjonen vedtar en delegert rettsakt, skal den rådføre seg med sakkyndige utpekt av hver medlemsstat i samsvar med prinsippene fastsatt i den tverrinstitusjonelle avtalen av 13. april 2016 om bedre regelverksutforming.
+2\. Forordning [(EF) nr. 45/2001](eu/32001r0045*) får anvendelse på behandling av personopplysninger som utføres av Kommisjonen i henhold til denne forordning.
 
-5. Så snart Kommisjonen vedtar en delegert rettsakt, skal den underrette Europaparlamentet og Rådet samtidig om dette.
+###### Artikkel 144
 
-6. En delegert rettsakt vedtatt i henhold til artikkel 18 nr. 7, artikkel 21 nr. 8, artikkel 41, artikkel 45 nr. 4, artikkel 47 nr. 3, artikkel 48, artikkel 50 nr. 4, artikkel 51, artikkel 53 nr. 1, artikkel 62 nr. 3, artikkel 64 nr. 2 og 5, artikkel 77 nr. 1 og 2, artikkel 92 nr. 4, artikkel 99 nr. 2, artikkel 100 nr. 6, artikkel 101 nr. 2, artikkel 126 nr. 1, artikkel 142 nr. 1 og 2, artikkel 149 nr. 2, artikkel 150 nr. 3, artikkel 154 nr. 3, artikkel 155 nr. 3 og artikkel 165 nr. 3 skal tre i kraft bare dersom verken Europaparlamentet eller Rådet har gjort innsigelse mot den innen en frist på to måneder etter at rettsakten ble meddelt Europaparlamentet og Rådet, eller dersom både Europaparlamentet og Rådet innen utløpet av denne fristen har underrettet Kommisjonen om at de ikke har til hensikt å gjøre innsigelse. På Europaparlamentets eller Rådets initiativ forlenges denne fristen med to måneder.
+Utøvelse av delegert myndighet
 
-1. Kommisjonen skal bistås av Den faste komité for planter, dyr, næringsmidler og fôr nedsatt ved artikkel 58 nr. 1 i forordning [(EF) nr. 178/2002](eu/32002r0178), unntatt når det gjelder artikkel 25 og 26 i denne forordning, der Kommisjonen skal bistås av komiteene nedsatt ved henholdsvis forordning [(EF) nr. 834/2007](eu/32007r0834) og forordning [(EU) nr. 1151/2012](eu/32012r1151*). Nevnte komiteer skal være komiteer i henhold til forordning [(EU) nr. 182/2011](eu/32011r0182).
+1\. Myndigheten til å vedta delegerte rettsakter gis Kommisjonen med forbehold for vilkårene fastsatt i denne artikkel.
 
-2. Når det vises til dette nummer, får artikkel 5 i forordning [(EU) nr. 182/2011](eu/32011r0182) anvendelse.Dersom komiteen ikke avgir uttalelse, skal Kommisjonen ikke vedta utkastet til gjennomføringsrettsakt, og artikkel 5 nr. 4 tredje ledd i forordning [(EU) nr. 182/2011](eu/32011r0182) får anvendelse.
+2\. Myndigheten til å vedta delegerte rettsaker nevnt i artikkel 18 nr. 7, artikkel 21 nr. 8, artikkel 41, artikkel 45 nr. 4, artikkel 47 nr. 3, artikkel 48, artikkel 50 nr. 4, artikkel 51, artikkel 53 nr. 1, artikkel 62 nr. 3, artikkel 64 nr. 2 og 5, artikkel 77 nr. 1 og 2, artikkel 92 nr. 4, artikkel 99 nr. 2, artikkel 100 nr. 6, artikkel 101 nr. 2, artikkel 126 nr. 1, artikkel 142 nr. 1 og 2, artikkel 149 nr. 2, artikkel 150 nr. 3, artikkel 154 nr. 3, artikkel 155 nr. 3 og artikkel 165 nr. 3 skal gis Kommisjonen for en periode på fem år fra 28. april 2017. Kommisjonen skal utarbeide en rapport om den delegerte myndigheten senest ni måneder før utløpet av femårsperioden. Den delegerte myndigheten skal stilltiende forlenges med perioder av samme varighet med mindre Europaparlamentet eller Rådet motsetter seg en slik forlengelse senest tre måneder før utløpet av hver periode.
 
-3. Når det vises til dette nummer, får artikkel 8 i forordning [(EU) nr. 182/2011](eu/32011r0182) sammenholdt med artikkel 5 i samme forordning anvendelse.
+3\. Den delegerte myndigheten nevnt i artikkel 18 nr. 7, artikkel 21 nr. 8, artikkel 41, artikkel 45 nr. 4, artikkel 47 nr. 3, artikkel 48, artikkel 50 nr. 4, artikkel 51, artikkel 53 nr. 1, artikkel 62 nr. 3, artikkel 64 nr. 2 og 5, artikkel 77 nr. 1 og 2, artikkel 92 nr. 4, artikkel 99 nr. 2, artikkel 100 nr. 6, artikkel 101 nr. 2, artikkel 126 nr. 1, artikkel 142 nr. 1 og 2, artikkel 149 nr. 2, artikkel 150 nr. 3, artikkel 154 nr. 3, artikkel 155 nr. 3 og artikkel 165 nr. 3 kan når som helst tilbakekalles av Europaparlamentet eller Rådet. En beslutning om tilbakekalling innebærer at den delegerte myndigheten som angis i beslutningen, opphører å gjelde. Den får anvendelse dagen etter at beslutningen er kunngjort i *Den europeiske unions tidende*, eller på et senere tidspunkt angitt i beslutningen. Den berører ikke gyldigheten av delegerte rettsakter som allerede er trådt i kraft.
+
+4\. Før Kommisjonen vedtar en delegert rettsakt, skal den rådføre seg med sakkyndige utpekt av hver medlemsstat i samsvar med prinsippene fastsatt i den tverrinstitusjonelle avtalen av 13. april 2016 om bedre regelverksutforming.
+
+5\. Så snart Kommisjonen vedtar en delegert rettsakt, skal den underrette Europaparlamentet og Rådet samtidig om dette.
+
+6\. En delegert rettsakt vedtatt i henhold til artikkel 18 nr. 7, artikkel 21 nr. 8, artikkel 41, artikkel 45 nr. 4, artikkel 47 nr. 3, artikkel 48, artikkel 50 nr. 4, artikkel 51, artikkel 53 nr. 1, artikkel 62 nr. 3, artikkel 64 nr. 2 og 5, artikkel 77 nr. 1 og 2, artikkel 92 nr. 4, artikkel 99 nr. 2, artikkel 100 nr. 6, artikkel 101 nr. 2, artikkel 126 nr. 1, artikkel 142 nr. 1 og 2, artikkel 149 nr. 2, artikkel 150 nr. 3, artikkel 154 nr. 3, artikkel 155 nr. 3 og artikkel 165 nr. 3 skal tre i kraft bare dersom verken Europaparlamentet eller Rådet har gjort innsigelse mot den innen en frist på to måneder etter at rettsakten ble meddelt Europaparlamentet og Rådet, eller dersom både Europaparlamentet og Rådet innen utløpet av denne fristen har underrettet Kommisjonen om at de ikke har til hensikt å gjøre innsigelse. På Europaparlamentets eller Rådets initiativ forlenges denne fristen med to måneder.
+
+###### Artikkel 145
+
+Komitéprosedyre
+
+1\. Kommisjonen skal bistås av Den faste komité for planter, dyr, næringsmidler og fôr nedsatt ved artikkel 58 nr. 1 i forordning [(EF) nr. 178/2002](eu/32002r0178), unntatt når det gjelder artikkel 25 og 26 i denne forordning, der Kommisjonen skal bistås av komiteene nedsatt ved henholdsvis forordning [(EF) nr. 834/2007](eu/32007r0834) og forordning [(EU) nr. 1151/2012](eu/32012r1151*). Nevnte komiteer skal være komiteer i henhold til forordning [(EU) nr. 182/2011](eu/32011r0182).
+
+2\. Når det vises til dette nummer, får artikkel 5 i forordning [(EU) nr. 182/2011](eu/32011r0182) anvendelse.Dersom komiteen ikke avgir uttalelse, skal Kommisjonen ikke vedta utkastet til gjennomføringsrettsakt, og artikkel 5 nr. 4 tredje ledd i forordning [(EU) nr. 182/2011](eu/32011r0182) får anvendelse.
+
+3\. Når det vises til dette nummer, får artikkel 8 i forordning [(EU) nr. 182/2011](eu/32011r0182) sammenholdt med artikkel 5 i samme forordning anvendelse.
 
 ### KAPITTEL II
 Overgangs- og sluttbestemmelser
 
-1. Forordning [(EF) nr. 854/2004](eu/32004r0854*) og (EF) [nr. 882/2004](eu/32004r0882*), direktiv [89/608/EØF](eu/31989l0608), [89/662/EØF](eu/31989l0662*), [90/425/EØF](eu/31990l0425), [91/496/EØF](eu/31991l0496*), [96/23/EF](eu/31996l0023), [96/93/EF](eu/31996*0093) og [97/78/EF](eu/31997l0078) samt vedtak [92/438/EØF](eu/31992d0438) oppheves med virkning fra 14. desember 2019.
+###### Artikkel 146
 
-2. Henvisninger til de opphevede rettsaktene skal forstås som henvisninger til denne forordning og leses som angitt i sammenligningstabellene i vedlegg V.
+Opphevinger
+
+1\. Forordning [(EF) nr. 854/2004](eu/32004r0854*) og (EF) [nr. 882/2004](eu/32004r0882*), direktiv [89/608/EØF](eu/31989l0608), [89/662/EØF](eu/31989l0662*), [90/425/EØF](eu/31990l0425), [91/496/EØF](eu/31991l0496*), [96/23/EF](eu/31996l0023), [96/93/EF](eu/31996*0093) og [97/78/EF](eu/31997l0078) samt vedtak [92/438/EØF](eu/31992d0438) oppheves med virkning fra 14. desember 2019.
+
+2\. Henvisninger til de opphevede rettsaktene skal forstås som henvisninger til denne forordning og leses som angitt i sammenligningstabellene i vedlegg V.
+
+###### Artikkel 147
+
+Forholdet til forordning [(EF) nr. 882/2004](eu/32004r0882*)
 
 Utpekingen av de enkelte EU-referanselaboratoriene nevnt i vedlegg VII til forordning [(EF) nr. 882/2004](eu/32004r0882*) skal fortsette å gjelde inntil det er utpekt et EU-referanselaboratorium på samme område i samsvar med artikkel 93 i denne forordning.
 
-1. Vedkommende myndigheter skal fastsette framgangsmåter som de driftsansvarlige for næringsmiddelforetak skal følge når de skal søke om godkjenning for sine virksomheter i samsvar med forordning [(EF) nr. 852/2004](eu/32004r0852*) og (EF) [nr. 853/2004](eu/32004r0853*).
+###### Artikkel 148
 
-2. Når den vedkommende myndigheten mottar en søknad om godkjenning fra en driftsansvarlig for et næringsmiddelforetak, skal den avlegge et besøk på stedet.
+Forholdet til forordning [(EF) nr. 852/2004](eu/32004r0852*) og forordning [(EF) nr. 853/2004](eu/32004r0853*) med hensyn til godkjenning av næringsmiddelvirksomheter
 
-3. Den vedkommende myndigheten skal godkjenne en virksomhet for de aktuelle formene for virksomhet bare dersom den driftsansvarlige for næringsmiddelforetaket har vist at foretaket oppfyller de relevante kravene i næringsmiddelregelverket.
+1\. Vedkommende myndigheter skal fastsette framgangsmåter som de driftsansvarlige for næringsmiddelforetak skal følge når de skal søke om godkjenning for sine virksomheter i samsvar med forordning [(EF) nr. 852/2004](eu/32004r0852*) og (EF) [nr. 853/2004](eu/32004r0853*).
 
-4. Den vedkommende myndigheten kan gi betinget godkjenning dersom det blir fastslått at virksomheten oppfyller alle krav til infrastruktur og utstyr. Den skal gi fullstendig godkjenning bare dersom det ved en ny offentlig kontroll av virksomheten, foretatt innen tre måneder etter at det ble gitt betinget godkjenning, blir fastslått at virksomheten oppfyller de andre relevante kravene i næringsmiddelregelverket. Dersom det er gjort tydelige framskritt, men virksomheten likevel ikke oppfyller alle relevante krav, kan den vedkommende myndigheten forlenge den betingede godkjenningen. En betinget godkjenning skal imidlertid ikke vare lenger enn i alt seks måneder, unntatt når det gjelder fabrikkskip og frysefartøyer som seiler under en medlemsstats flagg, som kan ha en slik betinget godkjenning som varer i høyst 12 måneder i alt.
+2\. Når den vedkommende myndigheten mottar en søknad om godkjenning fra en driftsansvarlig for et næringsmiddelforetak, skal den avlegge et besøk på stedet.
 
-5. Den vedkommende myndigheten skal gjennomgå godkjenningen av virksomhetene på nytt når den foretar offentlig kontroll.
+3\. Den vedkommende myndigheten skal godkjenne en virksomhet for de aktuelle formene for virksomhet bare dersom den driftsansvarlige for næringsmiddelforetaket har vist at foretaket oppfyller de relevante kravene i næringsmiddelregelverket.
 
-1. De relevante bestemmelsene i direktiv [91/496/EØF](eu/31991l0496*) og direktiv [97/78/EF](eu/31997l0078) som regulerer forhold nevnt i artikkel 47 nr. 2 bokstav b), artikkel 48, artikkel 51 nr. 1 bokstav b), c) og d), artikkel 53 nr. 1 bokstav a), artikkel 54 nr. 1 og 3 og artikkel 58 bokstav a) i denne forordning, skal gjelde i stedet for de tilsvarende bestemmelsene i denne forordning fram til 13. desember 2019.De relevante bestemmelsene i direktiv [97/78/EF](eu/31997l0078) som regulerer forhold nevnt i artikkel 47 nr. 2 bokstav a) i denne forordning i forbindelse med sammensatte produkter, skal fortsatt gjelde i stedet for den tilsvarende bestemmelsen fram til 20. april 2021.
+4\. Den vedkommende myndigheten kan gi betinget godkjenning dersom det blir fastslått at virksomheten oppfyller alle krav til infrastruktur og utstyr. Den skal gi fullstendig godkjenning bare dersom det ved en ny offentlig kontroll av virksomheten, foretatt innen tre måneder etter at det ble gitt betinget godkjenning, blir fastslått at virksomheten oppfyller de andre relevante kravene i næringsmiddelregelverket. Dersom det er gjort tydelige framskritt, men virksomheten likevel ikke oppfyller alle relevante krav, kan den vedkommende myndigheten forlenge den betingede godkjenningen. En betinget godkjenning skal imidlertid ikke vare lenger enn i alt seks måneder, unntatt når det gjelder fabrikkskip og frysefartøyer som seiler under en medlemsstats flagg, som kan ha en slik betinget godkjenning som varer i høyst 12 måneder i alt.
 
-2. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 144 for å endre denne forordning med hensyn til datoen nevnt i nr. 1 i denne artikkel. Den datoen skal være anvendelsesdatoen for de tilsvarende reglene som vedtas i henhold til de delegerte rettsaktene eller gjennomføringsrettsaktene omhandlet i artikkel 47 nr. 2, artikkel 48, artikkel 51 nr. 1 bokstav b), c) og d), artikkel 53 nr. 1 bokstav a), artikkel 54 nr. 1 og 3 samt artikkel 58 bokstav a).
+5\. Den vedkommende myndigheten skal gjennomgå godkjenningen av virksomhetene på nytt når den foretar offentlig kontroll.
 
-1. De vedkommende myndighetene skal fortsette å gjennomføre den offentlige kontrollen som er nødvendig for å påvise forekomst av de stoffene og gruppene av restmengder som er oppført i vedlegg I til direktiv [96/23/EF](eu/31996l0023), i samsvar med vedlegg II, III og IV til nevnte direktiv i stedet for de tilsvarende bestemmelsene i denne forordning fram til 14. desember 2022, eller en tidligere dato som skal fastsettes i den delegerte rettsakten som vedtas i samsvar med nr. 3 i denne artikkel.
+###### Artikkel 149
 
-2. Artikkel 29 nr. 1 og 2 i direktiv [96/23/EF](eu/31996l0023) skal fortsatt gjelde i stedet for de tilsvarende bestemmelsene i denne forordning, fram til 14. desember 2022 eller en tidligere dato som skal fastsettes i den delegerte rettsakten som vedtas i samsvar med nr. 3 i denne artikkel.
+Overgangsbestemmelser om opphevingen av direktiv [91/496/EØF](eu/31991l0496*) og [97/78/EF](eu/31997l0078)
 
-3. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 144 for å endre denne forordning med hensyn til den tidligere datoen nevnt i nr. 1 og 2 i denne artikkel. Den datoen skal være anvendelsesdatoen for de tilsvarende reglene som skal fastsettes i henhold til de delegerte rettsaktene eller gjennomføringsrettsaktene omhandlet i artikkel 19 og artikkel 112.
+►**M2**
 
-I direktiv [98/58/EF](eu/31998l0058) gjøres følgende endringer:Artikkel 2 nr. 3 skal lyde:«vedkommende myndigheter» vedkommende myndigheter som definert i artikkel 3 nr. 3 i europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*)*,* Europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*) av 15. mars 2017 om offentlig kontroll og annen offentlig virksomhet som gjennomføres for å sikre anvendelsen av næringsmiddel- og fôrvareregelverket samt regler for dyrs helse og velferd, plantehelse og plantevernmidler, om endring av europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999), (EF) [nr. 396/2005](eu/32005r0396), (EF) [nr. 1069/2009](eu/32009r1069), (EF) [nr. 1107/2009](eu/32009r1107), (EU) [nr. 1151/2012](eu/32012r1151*), (EU) [nr. 652/2014](eu/32014r0652), (EU) [2016/429](eu/32016r0429*) og (EU) [2016/2031](eu/32016r2031), rådsforordning [(EF) nr. 1/2005](eu/32005r0001*) og (EF) [nr. 1099/2009](eu/32009r1099) samt rådsdirektiv [98/58/EF](eu/31998l0058), [1999/74/EF](eu/31999l0074), [2007/43/EF](eu/32007l0043), [2008/119/EF](eu/32008l0119) og [2008/120/EF](eu/32008*0120) og om oppheving av europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854*) og (EF) [nr. 882/2004](eu/32004r0882*), rådsdirektiv [89/608/EØF](eu/31989l0608), [89/662/EØF](eu/31989l0662*), [90/425/EØF](eu/31990l0425), [91/496/EØF](eu/31991l0496*), [96/23/EF](eu/31996l0023), [96/93/EF](eu/31996*0093) og [97/78/EF](eu/31997l0078) og rådsbeslutning [92/438/EØF](eu/31992d0438) (forordningen om offentlig kontroll) (EUT L 95 av 7.4.2017, s. 1).»I artikkel 6 gjøres følgende endringer:Nr. 1 utgår.Nr. 2 skal lyde:Medlemsstatene skal innen 31. august hvert år framlegge for Kommisjonen en årsrapport for det foregående året om de inspeksjonene vedkommende myndighet har utført for å kontrollere at kravene i dette direktiv overholdes. Rapporten skal vedlegges en analyse av de alvorligste tilfellene av manglende overholdelse og en nasjonal handlingsplan med sikte på å forebygge eller redusere slike tilfeller de kommende årene. Kommisjonen skal framlegge sammendrag av disse rapportene for medlemsstatene.»I nr. 3 utgår bokstav a).Artikkel 7 utgår.
+1\. De relevante bestemmelsene i direktiv [91/496/EØF](eu/31991l0496*) og direktiv [97/78/EF](eu/31997l0078) som regulerer forhold nevnt i artikkel 47 nr. 2 bokstav b), artikkel 48, artikkel 51 nr. 1 bokstav b), c) og d), artikkel 53 nr. 1 bokstav a), artikkel 54 nr. 1 og 3 og artikkel 58 bokstav a) i denne forordning, skal gjelde i stedet for de tilsvarende bestemmelsene i denne forordning fram til 13. desember 2019.De relevante bestemmelsene i direktiv [97/78/EF](eu/31997l0078) som regulerer forhold nevnt i artikkel 47 nr. 2 bokstav a) i denne forordning i forbindelse med sammensatte produkter, skal fortsatt gjelde i stedet for den tilsvarende bestemmelsen fram til 20. april 2021.
+
+◄**M2**
+
+2\. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 144 for å endre denne forordning med hensyn til datoen nevnt i nr. 1 i denne artikkel. Den datoen skal være anvendelsesdatoen for de tilsvarende reglene som vedtas i henhold til de delegerte rettsaktene eller gjennomføringsrettsaktene omhandlet i artikkel 47 nr. 2, artikkel 48, artikkel 51 nr. 1 bokstav b), c) og d), artikkel 53 nr. 1 bokstav a), artikkel 54 nr. 1 og 3 samt artikkel 58 bokstav a).
+
+###### Artikkel 150
+
+Overgangsbestemmelser i forbindelse med opphevingen av direktiv [96/23/EF](eu/31996l0023)
+
+1\. De vedkommende myndighetene skal fortsette å gjennomføre den offentlige kontrollen som er nødvendig for å påvise forekomst av de stoffene og gruppene av restmengder som er oppført i vedlegg I til direktiv [96/23/EF](eu/31996l0023), i samsvar med vedlegg II, III og IV til nevnte direktiv i stedet for de tilsvarende bestemmelsene i denne forordning fram til 14. desember 2022, eller en tidligere dato som skal fastsettes i den delegerte rettsakten som vedtas i samsvar med nr. 3 i denne artikkel.
+
+2\. Artikkel 29 nr. 1 og 2 i direktiv [96/23/EF](eu/31996l0023) skal fortsatt gjelde i stedet for de tilsvarende bestemmelsene i denne forordning, fram til 14. desember 2022 eller en tidligere dato som skal fastsettes i den delegerte rettsakten som vedtas i samsvar med nr. 3 i denne artikkel.
+
+3\. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 144 for å endre denne forordning med hensyn til den tidligere datoen nevnt i nr. 1 og 2 i denne artikkel. Den datoen skal være anvendelsesdatoen for de tilsvarende reglene som skal fastsettes i henhold til de delegerte rettsaktene eller gjennomføringsrettsaktene omhandlet i artikkel 19 og artikkel 112.
+
+###### Artikkel 151
+
+Endringer av direktiv [98/58/EF](eu/31998l0058)
+
+I direktiv [98/58/EF](eu/31998l0058) gjøres følgende endringer:Artikkel 2 nr. 3 skal lyde:«vedkommende myndigheter» vedkommende myndigheter som definert i artikkel 3 nr. 3 i europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*)\*,\* Europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*) av 15. mars 2017 om offentlig kontroll og annen offentlig virksomhet som gjennomføres for å sikre anvendelsen av næringsmiddel- og fôrvareregelverket samt regler for dyrs helse og velferd, plantehelse og plantevernmidler, om endring av europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999), (EF) [nr. 396/2005](eu/32005r0396), (EF) [nr. 1069/2009](eu/32009r1069), (EF) [nr. 1107/2009](eu/32009r1107), (EU) [nr. 1151/2012](eu/32012r1151*), (EU) [nr. 652/2014](eu/32014r0652), (EU) [2016/429](eu/32016r0429*) og (EU) [2016/2031](eu/32016r2031), rådsforordning [(EF) nr. 1/2005](eu/32005r0001*) og (EF) [nr. 1099/2009](eu/32009r1099) samt rådsdirektiv [98/58/EF](eu/31998l0058), [1999/74/EF](eu/31999l0074), [2007/43/EF](eu/32007l0043), [2008/119/EF](eu/32008l0119) og [2008/120/EF](eu/32008*0120) og om oppheving av europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854*) og (EF) [nr. 882/2004](eu/32004r0882*), rådsdirektiv [89/608/EØF](eu/31989l0608), [89/662/EØF](eu/31989l0662*), [90/425/EØF](eu/31990l0425), [91/496/EØF](eu/31991l0496*), [96/23/EF](eu/31996l0023), [96/93/EF](eu/31996*0093) og [97/78/EF](eu/31997l0078) og rådsbeslutning [92/438/EØF](eu/31992d0438) (forordningen om offentlig kontroll) (EUT L 95 av 7.4.2017, s. 1).»I artikkel 6 gjøres følgende endringer:Nr. 1 utgår.Nr. 2 skal lyde:Medlemsstatene skal innen 31. august hvert år framlegge for Kommisjonen en årsrapport for det foregående året om de inspeksjonene vedkommende myndighet har utført for å kontrollere at kravene i dette direktiv overholdes. Rapporten skal vedlegges en analyse av de alvorligste tilfellene av manglende overholdelse og en nasjonal handlingsplan med sikte på å forebygge eller redusere slike tilfeller de kommende årene. Kommisjonen skal framlegge sammendrag av disse rapportene for medlemsstatene.»I nr. 3 utgår bokstav a).Artikkel 7 utgår.
+
+###### Artikkel 152
+
+Endringer av direktiv [1999/74/EF](eu/31999l0074)
 
 I direktiv [1999/74/EF](eu/31999l0074) gjøres følgende endringer:I artikkel 8 gjøres følgende endringer:Nr. 1 utgår.Nr. 2 skal lyde:Medlemsstatene skal innen 31. august hvert år framlegge for Kommisjonen en årsrapport for det foregående året om de inspeksjonene vedkommende myndighet har utført for å kontrollere at kravene i dette direktiv overholdes. Rapporten skal vedlegges en analyse av de alvorligste tilfellene av manglende overholdelse og en nasjonal handlingsplan med sikte på å forebygge eller redusere slike tilfeller de kommende årene. Kommisjonen skal framlegge sammendrag av disse rapportene for medlemsstatene.»I nr. 3 utgår bokstav a).Artikkel 9 utgår.
 
+###### Artikkel 153
+
+Endringer av forordning [(EF) nr. 999/2001](eu/32001r0999)
+
 I forordning [(EF) nr. 999/2001](eu/32001r0999) gjøres følgende endringer:Artikkel 19 og 21 utgår.I vedlegg X utgår kapittel A og B.
 
-1. I forordning [(EF) nr. 1/2005](eu/32005r0001*) gjøres følgende endringer:I artikkel 2 gjøres følgende endringer:Bokstav d) skal lyde:«grensekontrollstasjon» en grensekontrollstasjon som definert i artikkel 3 nr. 38 i europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*)*,* Europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*) av 15. mars 2017 om offentlig kontroll og annen offentlig virksomhet som gjennomføres for å sikre anvendelsen av næringsmiddel- og fôrvareregelverket samt regler for dyrs helse og velferd, plantehelse og plantevernmidler, om endring av europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999), (EF) [nr. 396/2005](eu/32005r0396), (EF) [nr. 1069/2009](eu/32009r1069), (EF) [nr. 1107/2009](eu/32009r1107), (EU) [nr. 1151/2012](eu/32012r1151*), (EU) [nr. 652/2014](eu/32014r0652), (EU) [2016/429](eu/32016r0429*) og (EU) [2016/2031](eu/32016r2031), rådsforordning [(EF) nr. 1/2005](eu/32005r0001*) og (EF) [nr. 1099/2009](eu/32009r1099) samt rådsdirektiv [98/58/EF](eu/31998l0058), [1999/74/EF](eu/31999l0074), [2007/43/EF](eu/32007l0043), [2008/119/EF](eu/32008l0119) og [2008/120/EF](eu/32008*0120) og om oppheving av europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854*) og (EF) [nr. 882/2004](eu/32004r0882*), rådsdirektiv [89/608/EØF](eu/31989l0608), [89/662/EØF](eu/31989l0662*), [90/425/EØF](eu/31990l0425), [91/496/EØF](eu/31991l0496*), [96/23/EF](eu/31996l0023), [96/93/EF](eu/31996*0093) og [97/78/EF](eu/31997l0078) og rådsbeslutning [92/438/EØF](eu/31992d0438) (forordningen om offentlig kontroll) (EUT L 95 av 7.4.2017, s. 1).»Bokstav f) skal lyde:«vedkommende myndighet» vedkommende myndigheter som definert i artikkel 3 nr. 3 i forordning [(EU) 2017/625](eu/32017r0625*)».Bokstav i) skal lyde:«utførselssted» et utførselssted som definert i artikkel 3 nr. 39 i forordning [(EU) 2017/625](eu/32017r0625*)».Bokstav p) skal lyde:«offentlig veterinær» en offentlig veterinær som definert i artikkel 3 nr. 32 i forordning [(EU) 2017/625](eu/32017r0625*)».Artikkel 14, 15, 16 og 21, artikkel 22 nr. 2 og artikkel 23, 24 og 26 utgår.I artikkel 27 gjøres følgende endringer:Nr. 1 utgår.Nr. 2 skal lyde:Medlemsstatene skal innen 31. august hvert år framlegge for Kommisjonen en årsrapport for det foregående året om de inspeksjonene vedkommende myndighet har utført for å verifisere at kravene i denne forordning overholdes. Rapporten skal vedlegges en analyse av de alvorligste manglene som er påvist, og en handlingsplan for å avhjelpe disse manglene.»Artikkel 28 utgår.
+###### Artikkel 154
 
-2. Artikkel 14, 15, 16 og 21, artikkel 22 nr. 2 og artikkel 23, 24 og 26 i forordning [(EF) nr. 1/2005](eu/32005r0001*) skal fortsatt gjelde i stedet for de tilsvarende bestemmelsene i denne forordning fram til 14. desember 2022, eller en tidligere dato som skal fastsettes i den delegerte rettsakten som vedtas i samsvar med nr. 3 i denne artikkel.
+Endringer av forordning [(EF) nr. 1/2005](eu/32005r0001*) og tilhørende overgangsbestemmelser
 
-3. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 144 for å endre denne forordning med hensyn til datoen nevnt i nr. 2 i denne artikkel. Den datoen skal være anvendelsesdatoen for de tilsvarende reglene, som skal fastsettes i henhold til de delegerte rettsaktene eller gjennomføringsrettsaktene omhandlet i artikkel 21.
+1\. I forordning [(EF) nr. 1/2005](eu/32005r0001*) gjøres følgende endringer:I artikkel 2 gjøres følgende endringer:Bokstav d) skal lyde:«grensekontrollstasjon» en grensekontrollstasjon som definert i artikkel 3 nr. 38 i europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*)\*,\* Europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*) av 15. mars 2017 om offentlig kontroll og annen offentlig virksomhet som gjennomføres for å sikre anvendelsen av næringsmiddel- og fôrvareregelverket samt regler for dyrs helse og velferd, plantehelse og plantevernmidler, om endring av europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999), (EF) [nr. 396/2005](eu/32005r0396), (EF) [nr. 1069/2009](eu/32009r1069), (EF) [nr. 1107/2009](eu/32009r1107), (EU) [nr. 1151/2012](eu/32012r1151*), (EU) [nr. 652/2014](eu/32014r0652), (EU) [2016/429](eu/32016r0429*) og (EU) [2016/2031](eu/32016r2031), rådsforordning [(EF) nr. 1/2005](eu/32005r0001*) og (EF) [nr. 1099/2009](eu/32009r1099) samt rådsdirektiv [98/58/EF](eu/31998l0058), [1999/74/EF](eu/31999l0074), [2007/43/EF](eu/32007l0043), [2008/119/EF](eu/32008l0119) og [2008/120/EF](eu/32008*0120) og om oppheving av europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854*) og (EF) [nr. 882/2004](eu/32004r0882*), rådsdirektiv [89/608/EØF](eu/31989l0608), [89/662/EØF](eu/31989l0662*), [90/425/EØF](eu/31990l0425), [91/496/EØF](eu/31991l0496*), [96/23/EF](eu/31996l0023), [96/93/EF](eu/31996*0093) og [97/78/EF](eu/31997l0078) og rådsbeslutning [92/438/EØF](eu/31992d0438) (forordningen om offentlig kontroll) (EUT L 95 av 7.4.2017, s. 1).»Bokstav f) skal lyde:«vedkommende myndighet» vedkommende myndigheter som definert i artikkel 3 nr. 3 i forordning [(EU) 2017/625](eu/32017r0625*)».Bokstav i) skal lyde:«utførselssted» et utførselssted som definert i artikkel 3 nr. 39 i forordning [(EU) 2017/625](eu/32017r0625*)».Bokstav p) skal lyde:«offentlig veterinær» en offentlig veterinær som definert i artikkel 3 nr. 32 i forordning [(EU) 2017/625](eu/32017r0625*)».Artikkel 14, 15, 16 og 21, artikkel 22 nr. 2 og artikkel 23, 24 og 26 utgår.I artikkel 27 gjøres følgende endringer:Nr. 1 utgår.Nr. 2 skal lyde:Medlemsstatene skal innen 31. august hvert år framlegge for Kommisjonen en årsrapport for det foregående året om de inspeksjonene vedkommende myndighet har utført for å verifisere at kravene i denne forordning overholdes. Rapporten skal vedlegges en analyse av de alvorligste manglene som er påvist, og en handlingsplan for å avhjelpe disse manglene.»Artikkel 28 utgår.
 
-1. Artikkel 26 og 27, artikkel 28 nr. 1 og 2 og artikkel 30 i forordning [(EF) nr. 396/2005](eu/32005r0396) utgår.
+2\. Artikkel 14, 15, 16 og 21, artikkel 22 nr. 2 og artikkel 23, 24 og 26 i forordning [(EF) nr. 1/2005](eu/32005r0001*) skal fortsatt gjelde i stedet for de tilsvarende bestemmelsene i denne forordning fram til 14. desember 2022, eller en tidligere dato som skal fastsettes i den delegerte rettsakten som vedtas i samsvar med nr. 3 i denne artikkel.
 
-2. Artikkel 26, artikkel 27 nr. 1 og artikkel 30 i forordning [(EF) nr. 396/2005](eu/32005r0396) skal fortsatt gjelde i stedet for de tilsvarende bestemmelsene i denne forordning fram til 14. desember 2022, eller en tidligere dato som skal fastsettes i den delegerte rettsakten som vedtas i samsvar med nr. 3 i denne artikkel.
+3\. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 144 for å endre denne forordning med hensyn til datoen nevnt i nr. 2 i denne artikkel. Den datoen skal være anvendelsesdatoen for de tilsvarende reglene, som skal fastsettes i henhold til de delegerte rettsaktene eller gjennomføringsrettsaktene omhandlet i artikkel 21.
 
-3. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 144 for å endre denne forordning med hensyn til datoen nevnt i nr. 2 i denne artikkel. Den datoen skal være anvendelsesdatoen for de tilsvarende reglene, som skal fastsettes i henhold til de delegerte rettsaktene eller gjennomføringsrettsaktene omhandlet i artikkel 19.
+###### Artikkel 155
 
-I direktiv [2007/43/EF](eu/32007l0043) gjøres følgende endringer:I artikkel 2 nr. 1 skal bokstav c) og d) lyde:«vedkommende myndigheter» vedkommende myndigheter som definert i artikkel 3 nr. 3 i europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*)*,«offentlig veterinær» en offentlig veterinær som definert i artikkel 3 nr. 32 i forordning [(EU) 2017/625](eu/32017r0625*),* Europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*) av 15. mars 2017 om offentlig kontroll og annen offentlig virksomhet som gjennomføres for å sikre anvendelsen av næringsmiddel- og fôrvareregelverket samt regler for dyrs helse og velferd, plantehelse og plantevernmidler, om endring av europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999), (EF) [nr. 396/2005](eu/32005r0396), (EF) [nr. 1069/2009](eu/32009r1069), (EF) [nr. 1107/2009](eu/32009r1107), (EU) [nr. 1151/2012](eu/32012r1151*), (EU) [nr. 652/2014](eu/32014r0652), (EU) [2016/429](eu/32016r0429*) og (EU) [2016/2031](eu/32016r2031), rådsforordning [(EF) nr. 1/2005](eu/32005r0001*) og (EF) [nr. 1099/2009](eu/32009r1099) samt rådsdirektiv [98/58/EF](eu/31998l0058), [1999/74/EF](eu/31999l0074), [2007/43/EF](eu/32007l0043), [2008/119/EF](eu/32008l0119) og [2008/120/EF](eu/32008*0120) og om oppheving av europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854*) og (EF) [nr. 882/2004](eu/32004r0882*), rådsdirektiv [89/608/EØF](eu/31989l0608), [89/662/EØF](eu/31989l0662*), [90/425/EØF](eu/31990l0425), [91/496/EØF](eu/31991l0496*), [96/23/EF](eu/31996l0023), [96/93/EF](eu/31996*0093) og [97/78/EF](eu/31997l0078) og rådsbeslutning [92/438/EØF](eu/31992d0438) (forordningen om offentlig kontroll) (EUT L 95 av 7.4.2017, s. 1).»I artikkel 7 gjøres følgende endringer:Nr. 1 utgår.Nr. 2 skal lyde:Medlemsstatene skal innen 31. august hvert år framlegge for Kommisjonen en årsrapport for det foregående året om de inspeksjonene vedkommende myndighet har utført for å kontrollere at kravene i dette direktiv overholdes. Rapporten skal vedlegges en analyse av de alvorligste tilfellene av manglende overholdelse og en nasjonal handlingsplan med sikte på å forebygge eller redusere slike tilfeller de kommende årene. Kommisjonen skal framlegge sammendrag av disse rapportene for medlemsstatene.»
+Endringer av forordning [(EF) nr. 396/2005](eu/32005r0396) og tilhørende overgangsbestemmelser
 
-I direktiv [2008/119/EF](eu/32008l0119) gjøres følgende endringer:I artikkel 2 skal nr. 2 lyde:«vedkommende myndigheter» vedkommende myndigheter som definert i artikkel 3 nr. 3 i europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*)*.* Europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*) av 15. mars 2017 om offentlig kontroll og annen offentlig virksomhet som gjennomføres for å sikre anvendelsen av næringsmiddel- og fôrvareregelverket samt regler for dyrs helse og velferd, plantehelse og plantevernmidler, om endring av europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999), (EF) [nr. 396/2005](eu/32005r0396), (EF) [nr. 1069/2009](eu/32009r1069), (EF) [nr. 1107/2009](eu/32009r1107), (EU) [nr. 1151/2012](eu/32012r1151*), (EU) [nr. 652/2014](eu/32014r0652), (EU) [2016/429](eu/32016r0429*) og (EU) [2016/2031](eu/32016r2031), rådsforordning [(EF) nr. 1/2005](eu/32005r0001*) og (EF) [nr. 1099/2009](eu/32009r1099) samt rådsdirektiv [98/58/EF](eu/31998l0058), [1999/74/EF](eu/31999l0074), [2007/43/EF](eu/32007l0043), [2008/119/EF](eu/32008l0119) og [2008/120/EF](eu/32008*0120) og om oppheving av europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854*) og (EF) [nr. 882/2004](eu/32004r0882*), rådsdirektiv [89/608/EØF](eu/31989l0608), [89/662/EØF](eu/31989l0662*), [90/425/EØF](eu/31990l0425), [91/496/EØF](eu/31991l0496*), [96/23/EF](eu/31996l0023), [96/93/EF](eu/31996*0093) og [97/78/EF](eu/31997l0078) og rådsbeslutning [92/438/EØF](eu/31992d0438) (forordningen om offentlig kontroll) (EUT L 95 av 7.4.2017, s. 1).»I artikkel 7 gjøres følgende endringer:Nr. 1 og 2 utgår.Nr. 3 skal lyde:Medlemsstatene skal innen 31. august hvert år framlegge for Kommisjonen en årsrapport for det foregående året om de inspeksjonene vedkommende myndighet har utført for å kontrollere at kravene i dette direktiv overholdes. Rapporten skal vedlegges en analyse av de alvorligste tilfellene av manglende overholdelse og en nasjonal handlingsplan med sikte på å forebygge eller redusere slike tilfeller de kommende årene. Kommisjonen skal framlegge sammendrag av disse rapportene for medlemsstatene.»Artikkel 9 utgår.
+1\. Artikkel 26 og 27, artikkel 28 nr. 1 og 2 og artikkel 30 i forordning [(EF) nr. 396/2005](eu/32005r0396) utgår.
 
-I direktiv [2008/120/EF](eu/32008l0120) gjøres følgende endringer:I artikkel 2 skal nr. 10 lyde:«vedkommende myndigheter» vedkommende myndigheter som definert i artikkel 3 nr. 3 i europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*)*.* Europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*) av 15. mars 2017 om offentlig kontroll og annen offentlig virksomhet som gjennomføres for å sikre anvendelsen av næringsmiddel- og fôrvareregelverket samt regler for dyrs helse og velferd, plantehelse og plantevernmidler, om endring av europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999), (EF) [nr. 396/2005](eu/32005r0396), (EF) [nr. 1069/2009](eu/32009r1069), (EF) [nr. 1107/2009](eu/32009r1107), (EU) [nr. 1151/2012](eu/32012r1151*), (EU) [nr. 652/2014](eu/32014r0652), (EU) [2016/429](eu/32016r0429*) og (EU) [2016/2031](eu/32016r2031), rådsforordning [(EF) nr. 1/2005](eu/32005r0001*) og (EF) [nr. 1099/2009](eu/32009r1099) samt rådsdirektiv [98/58/EF](eu/31998l0058), [1999/74/EF](eu/31999l0074), [2007/43/EF](eu/32007l0043), [2008/119/EF](eu/32008l0119) og [2008/120/EF](eu/32008*0120) og om oppheving av europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854*) og (EF) [nr. 882/2004](eu/32004r0882*), rådsdirektiv [89/608/EØF](eu/31989l0608), [89/662/EØF](eu/31989l0662*), [90/425/EØF](eu/31990l0425), [91/496/EØF](eu/31991l0496*), [96/23/EF](eu/31996l0023), [96/93/EF](eu/31996*0093) og [97/78/EF](eu/31997l0078) og rådsbeslutning [92/438/EØF](eu/31992d0438) (forordningen om offentlig kontroll) (EUT L 95 av 7.4.2017, s. 1).»I artikkel 8 gjøres følgende endringer:Nr. 1 og 2 utgår.Nr. 3 skal lyde:Medlemsstatene skal innen 31. august hvert år framlegge for Kommisjonen en årsrapport for det foregående året om de inspeksjonene vedkommende myndighet har utført for å kontrollere at kravene i dette direktiv overholdes. Rapporten skal vedlegges en analyse av de alvorligste tilfellene av manglende overholdelse og en nasjonal handlingsplan med sikte på å forebygge eller redusere slike tilfeller de kommende årene. Kommisjonen skal framlegge sammendrag av disse rapportene for medlemsstatene.»Artikkel 10 utgår.
+2\. Artikkel 26, artikkel 27 nr. 1 og artikkel 30 i forordning [(EF) nr. 396/2005](eu/32005r0396) skal fortsatt gjelde i stedet for de tilsvarende bestemmelsene i denne forordning fram til 14. desember 2022, eller en tidligere dato som skal fastsettes i den delegerte rettsakten som vedtas i samsvar med nr. 3 i denne artikkel.
 
-I forordning [(EF) nr. 1099/2009](eu/32009r1099) gjøres følgende endringer:I artikkel 2 skal bokstav q) lyde:«vedkommende myndigheter» vedkommende myndigheter som definert i artikkel 3 nr. 3 i europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*)*.* Europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*) av 15. mars 2017 om offentlig kontroll og annen offentlig virksomhet som gjennomføres for å sikre anvendelsen av næringsmiddel- og fôrvareregelverket samt regler for dyrs helse og velferd, plantehelse og plantevernmidler, om endring av europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999), (EF) [nr. 396/2005](eu/32005r0396), (EF) [nr. 1069/2009](eu/32009r1069), (EF) [nr. 1107/2009](eu/32009r1107), (EU) [nr. 1151/2012](eu/32012r1151*), (EU) [nr. 652/2014](eu/32014r0652), (EU) [2016/429](eu/32016r0429*) og (EU) [2016/2031](eu/32016r2031), rådsforordning [(EF) nr. 1/2005](eu/32005r0001*) og (EF) [nr. 1099/2009](eu/32009r1099) samt rådsdirektiv [98/58/EF](eu/31998l0058), [1999/74/EF](eu/31999l0074), [2007/43/EF](eu/32007l0043), [2008/119/EF](eu/32008l0119) og [2008/120/EF](eu/32008*0120) og om oppheving av europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854*) og (EF) [nr. 882/2004](eu/32004r0882*), rådsdirektiv [89/608/EØF](eu/31989l0608), [89/662/EØF](eu/31989l0662*), [90/425/EØF](eu/31990l0425), [91/496/EØF](eu/31991l0496*), [96/23/EF](eu/31996l0023), [96/93/EF](eu/31996*0093) og [97/78/EF](eu/31997l0078) og rådsbeslutning [92/438/EØF](eu/31992d0438) (forordningen om offentlig kontroll) (EUT L 95 av 7.4.2017, s. 1).»Artikkel 22 utgår.
+3\. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 144 for å endre denne forordning med hensyn til datoen nevnt i nr. 2 i denne artikkel. Den datoen skal være anvendelsesdatoen for de tilsvarende reglene, som skal fastsettes i henhold til de delegerte rettsaktene eller gjennomføringsrettsaktene omhandlet i artikkel 19.
 
-I forordning [(EF) nr. 1069/2009](eu/32009r1069) gjøres følgende endringer:I artikkel 3 gjøres følgende endringer:Nr. 10 skal lyde:«vedkommende myndighet» vedkommende myndigheter som definert i artikkel 3 nr. 3 i europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*)*.* Europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*) av 15. mars 2017 om offentlig kontroll og annen offentlig virksomhet som gjennomføres for å sikre anvendelsen av næringsmiddel- og fôrvareregelverket samt regler for dyrs helse og velferd, plantehelse og plantevernmidler, om endring av europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999), (EF) [nr. 396/2005](eu/32005r0396), (EF) [nr. 1069/2009](eu/32009r1069), (EF) [nr. 1107/2009](eu/32009r1107), (EU) [nr. 1151/2012](eu/32012r1151*), (EU) [nr. 652/2014](eu/32014r0652), (EU) [2016/429](eu/32016r0429*) og (EU) [2016/2031](eu/32016r2031), rådsforordning [(EF) nr. 1/2005](eu/32005r0001*) og (EF) [nr. 1099/2009](eu/32009r1099) samt rådsdirektiv [98/58/EF](eu/31998l0058), [1999/74/EF](eu/31999l0074), [2007/43/EF](eu/32007l0043), [2008/119/EF](eu/32008l0119) og [2008/120/EF](eu/32008*0120) og om oppheving av europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854*) og (EF) [nr. 882/2004](eu/32004r0882*), rådsdirektiv [89/608/EØF](eu/31989l0608), [89/662/EØF](eu/31989l0662*), [90/425/EØF](eu/31990l0425), [91/496/EØF](eu/31991l0496*), [96/23/EF](eu/31996l0023), [96/93/EF](eu/31996*0093) og [97/78/EF](eu/31997l0078) og rådsbeslutning [92/438/EØF](eu/31992d0438) (forordningen om offentlig kontroll) (EUT L 95 av 7.4.2017, s. 1).»Nr. 15 skal lyde:«transitt» transitt som definert i artikkel 3 nr. 44 i forordning [(EU) 2017/625](eu/32017r0625*).»Artikkel 45, 49 og 50 utgår.
+###### Artikkel 156
+
+Endringer av direktiv [2007/43/EF](eu/32007l0043)
+
+I direktiv [2007/43/EF](eu/32007l0043) gjøres følgende endringer:I artikkel 2 nr. 1 skal bokstav c) og d) lyde:«vedkommende myndigheter» vedkommende myndigheter som definert i artikkel 3 nr. 3 i europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*)\*,«offentlig veterinær» en offentlig veterinær som definert i artikkel 3 nr. 32 i forordning [(EU) 2017/625](eu/32017r0625*),\* Europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*) av 15. mars 2017 om offentlig kontroll og annen offentlig virksomhet som gjennomføres for å sikre anvendelsen av næringsmiddel- og fôrvareregelverket samt regler for dyrs helse og velferd, plantehelse og plantevernmidler, om endring av europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999), (EF) [nr. 396/2005](eu/32005r0396), (EF) [nr. 1069/2009](eu/32009r1069), (EF) [nr. 1107/2009](eu/32009r1107), (EU) [nr. 1151/2012](eu/32012r1151*), (EU) [nr. 652/2014](eu/32014r0652), (EU) [2016/429](eu/32016r0429*) og (EU) [2016/2031](eu/32016r2031), rådsforordning [(EF) nr. 1/2005](eu/32005r0001*) og (EF) [nr. 1099/2009](eu/32009r1099) samt rådsdirektiv [98/58/EF](eu/31998l0058), [1999/74/EF](eu/31999l0074), [2007/43/EF](eu/32007l0043), [2008/119/EF](eu/32008l0119) og [2008/120/EF](eu/32008*0120) og om oppheving av europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854*) og (EF) [nr. 882/2004](eu/32004r0882*), rådsdirektiv [89/608/EØF](eu/31989l0608), [89/662/EØF](eu/31989l0662*), [90/425/EØF](eu/31990l0425), [91/496/EØF](eu/31991l0496*), [96/23/EF](eu/31996l0023), [96/93/EF](eu/31996*0093) og [97/78/EF](eu/31997l0078) og rådsbeslutning [92/438/EØF](eu/31992d0438) (forordningen om offentlig kontroll) (EUT L 95 av 7.4.2017, s. 1).»I artikkel 7 gjøres følgende endringer:Nr. 1 utgår.Nr. 2 skal lyde:Medlemsstatene skal innen 31. august hvert år framlegge for Kommisjonen en årsrapport for det foregående året om de inspeksjonene vedkommende myndighet har utført for å kontrollere at kravene i dette direktiv overholdes. Rapporten skal vedlegges en analyse av de alvorligste tilfellene av manglende overholdelse og en nasjonal handlingsplan med sikte på å forebygge eller redusere slike tilfeller de kommende årene. Kommisjonen skal framlegge sammendrag av disse rapportene for medlemsstatene.»
+
+###### Artikkel 157
+
+Endringer av direktiv [2008/119/EF](eu/32008l0119)
+
+I direktiv [2008/119/EF](eu/32008l0119) gjøres følgende endringer:I artikkel 2 skal nr. 2 lyde:«vedkommende myndigheter» vedkommende myndigheter som definert i artikkel 3 nr. 3 i europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*)\*.\* Europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*) av 15. mars 2017 om offentlig kontroll og annen offentlig virksomhet som gjennomføres for å sikre anvendelsen av næringsmiddel- og fôrvareregelverket samt regler for dyrs helse og velferd, plantehelse og plantevernmidler, om endring av europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999), (EF) [nr. 396/2005](eu/32005r0396), (EF) [nr. 1069/2009](eu/32009r1069), (EF) [nr. 1107/2009](eu/32009r1107), (EU) [nr. 1151/2012](eu/32012r1151*), (EU) [nr. 652/2014](eu/32014r0652), (EU) [2016/429](eu/32016r0429*) og (EU) [2016/2031](eu/32016r2031), rådsforordning [(EF) nr. 1/2005](eu/32005r0001*) og (EF) [nr. 1099/2009](eu/32009r1099) samt rådsdirektiv [98/58/EF](eu/31998l0058), [1999/74/EF](eu/31999l0074), [2007/43/EF](eu/32007l0043), [2008/119/EF](eu/32008l0119) og [2008/120/EF](eu/32008*0120) og om oppheving av europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854*) og (EF) [nr. 882/2004](eu/32004r0882*), rådsdirektiv [89/608/EØF](eu/31989l0608), [89/662/EØF](eu/31989l0662*), [90/425/EØF](eu/31990l0425), [91/496/EØF](eu/31991l0496*), [96/23/EF](eu/31996l0023), [96/93/EF](eu/31996*0093) og [97/78/EF](eu/31997l0078) og rådsbeslutning [92/438/EØF](eu/31992d0438) (forordningen om offentlig kontroll) (EUT L 95 av 7.4.2017, s. 1).»I artikkel 7 gjøres følgende endringer:Nr. 1 og 2 utgår.Nr. 3 skal lyde:Medlemsstatene skal innen 31. august hvert år framlegge for Kommisjonen en årsrapport for det foregående året om de inspeksjonene vedkommende myndighet har utført for å kontrollere at kravene i dette direktiv overholdes. Rapporten skal vedlegges en analyse av de alvorligste tilfellene av manglende overholdelse og en nasjonal handlingsplan med sikte på å forebygge eller redusere slike tilfeller de kommende årene. Kommisjonen skal framlegge sammendrag av disse rapportene for medlemsstatene.»Artikkel 9 utgår.
+
+###### Artikkel 158
+
+Endringer av direktiv [2008/120/EF](eu/32008l0120)
+
+I direktiv [2008/120/EF](eu/32008l0120) gjøres følgende endringer:I artikkel 2 skal nr. 10 lyde:«vedkommende myndigheter» vedkommende myndigheter som definert i artikkel 3 nr. 3 i europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*)\*.\* Europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*) av 15. mars 2017 om offentlig kontroll og annen offentlig virksomhet som gjennomføres for å sikre anvendelsen av næringsmiddel- og fôrvareregelverket samt regler for dyrs helse og velferd, plantehelse og plantevernmidler, om endring av europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999), (EF) [nr. 396/2005](eu/32005r0396), (EF) [nr. 1069/2009](eu/32009r1069), (EF) [nr. 1107/2009](eu/32009r1107), (EU) [nr. 1151/2012](eu/32012r1151*), (EU) [nr. 652/2014](eu/32014r0652), (EU) [2016/429](eu/32016r0429*) og (EU) [2016/2031](eu/32016r2031), rådsforordning [(EF) nr. 1/2005](eu/32005r0001*) og (EF) [nr. 1099/2009](eu/32009r1099) samt rådsdirektiv [98/58/EF](eu/31998l0058), [1999/74/EF](eu/31999l0074), [2007/43/EF](eu/32007l0043), [2008/119/EF](eu/32008l0119) og [2008/120/EF](eu/32008*0120) og om oppheving av europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854*) og (EF) [nr. 882/2004](eu/32004r0882*), rådsdirektiv [89/608/EØF](eu/31989l0608), [89/662/EØF](eu/31989l0662*), [90/425/EØF](eu/31990l0425), [91/496/EØF](eu/31991l0496*), [96/23/EF](eu/31996l0023), [96/93/EF](eu/31996*0093) og [97/78/EF](eu/31997l0078) og rådsbeslutning [92/438/EØF](eu/31992d0438) (forordningen om offentlig kontroll) (EUT L 95 av 7.4.2017, s. 1).»I artikkel 8 gjøres følgende endringer:Nr. 1 og 2 utgår.Nr. 3 skal lyde:Medlemsstatene skal innen 31. august hvert år framlegge for Kommisjonen en årsrapport for det foregående året om de inspeksjonene vedkommende myndighet har utført for å kontrollere at kravene i dette direktiv overholdes. Rapporten skal vedlegges en analyse av de alvorligste tilfellene av manglende overholdelse og en nasjonal handlingsplan med sikte på å forebygge eller redusere slike tilfeller de kommende årene. Kommisjonen skal framlegge sammendrag av disse rapportene for medlemsstatene.»Artikkel 10 utgår.
+
+###### Artikkel 159
+
+Endringer av forordning [(EF) nr. 1099/2009](eu/32009r1099)
+
+I forordning [(EF) nr. 1099/2009](eu/32009r1099) gjøres følgende endringer:I artikkel 2 skal bokstav q) lyde:«vedkommende myndigheter» vedkommende myndigheter som definert i artikkel 3 nr. 3 i europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*)\*.\* Europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*) av 15. mars 2017 om offentlig kontroll og annen offentlig virksomhet som gjennomføres for å sikre anvendelsen av næringsmiddel- og fôrvareregelverket samt regler for dyrs helse og velferd, plantehelse og plantevernmidler, om endring av europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999), (EF) [nr. 396/2005](eu/32005r0396), (EF) [nr. 1069/2009](eu/32009r1069), (EF) [nr. 1107/2009](eu/32009r1107), (EU) [nr. 1151/2012](eu/32012r1151*), (EU) [nr. 652/2014](eu/32014r0652), (EU) [2016/429](eu/32016r0429*) og (EU) [2016/2031](eu/32016r2031), rådsforordning [(EF) nr. 1/2005](eu/32005r0001*) og (EF) [nr. 1099/2009](eu/32009r1099) samt rådsdirektiv [98/58/EF](eu/31998l0058), [1999/74/EF](eu/31999l0074), [2007/43/EF](eu/32007l0043), [2008/119/EF](eu/32008l0119) og [2008/120/EF](eu/32008*0120) og om oppheving av europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854*) og (EF) [nr. 882/2004](eu/32004r0882*), rådsdirektiv [89/608/EØF](eu/31989l0608), [89/662/EØF](eu/31989l0662*), [90/425/EØF](eu/31990l0425), [91/496/EØF](eu/31991l0496*), [96/23/EF](eu/31996l0023), [96/93/EF](eu/31996*0093) og [97/78/EF](eu/31997l0078) og rådsbeslutning [92/438/EØF](eu/31992d0438) (forordningen om offentlig kontroll) (EUT L 95 av 7.4.2017, s. 1).»Artikkel 22 utgår.
+
+###### Artikkel 160
+
+Endringer av forordning [(EF) nr. 1069/2009](eu/32009r1069)
+
+I forordning [(EF) nr. 1069/2009](eu/32009r1069) gjøres følgende endringer:I artikkel 3 gjøres følgende endringer:Nr. 10 skal lyde:«vedkommende myndighet» vedkommende myndigheter som definert i artikkel 3 nr. 3 i europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*)\*.\* Europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*) av 15. mars 2017 om offentlig kontroll og annen offentlig virksomhet som gjennomføres for å sikre anvendelsen av næringsmiddel- og fôrvareregelverket samt regler for dyrs helse og velferd, plantehelse og plantevernmidler, om endring av europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999), (EF) [nr. 396/2005](eu/32005r0396), (EF) [nr. 1069/2009](eu/32009r1069), (EF) [nr. 1107/2009](eu/32009r1107), (EU) [nr. 1151/2012](eu/32012r1151*), (EU) [nr. 652/2014](eu/32014r0652), (EU) [2016/429](eu/32016r0429*) og (EU) [2016/2031](eu/32016r2031), rådsforordning [(EF) nr. 1/2005](eu/32005r0001*) og (EF) [nr. 1099/2009](eu/32009r1099) samt rådsdirektiv [98/58/EF](eu/31998l0058), [1999/74/EF](eu/31999l0074), [2007/43/EF](eu/32007l0043), [2008/119/EF](eu/32008l0119) og [2008/120/EF](eu/32008*0120) og om oppheving av europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854*) og (EF) [nr. 882/2004](eu/32004r0882*), rådsdirektiv [89/608/EØF](eu/31989l0608), [89/662/EØF](eu/31989l0662*), [90/425/EØF](eu/31990l0425), [91/496/EØF](eu/31991l0496*), [96/23/EF](eu/31996l0023), [96/93/EF](eu/31996*0093) og [97/78/EF](eu/31997l0078) og rådsbeslutning [92/438/EØF](eu/31992d0438) (forordningen om offentlig kontroll) (EUT L 95 av 7.4.2017, s. 1).»Nr. 15 skal lyde:«transitt» transitt som definert i artikkel 3 nr. 44 i forordning [(EU) 2017/625](eu/32017r0625*).»Artikkel 45, 49 og 50 utgår.
+
+###### Artikkel 161
+
+Endringer av forordning [(EF) nr. 1107/2009](eu/32009r1107)
 
 I forordning [(EF) nr. 1107/2009](eu/32009r1107) gjøres følgende endringer:I artikkel 68 gjøres følgende endringer:Første ledd skal lyde:«Medlemsstatene skal innen 31. august hvert år framlegge for Kommisjonen en rapport for det foregående året om omfanget og resultatet av den offentlige kontrollen som er gjennomført for å verifisere at denne forordning overholdes.»Annet og tredje ledd utgår.Artikkel 78 nr. 1 bokstav n) utgår.
 
-I forordning [(EU) nr. 1151/2012](eu/32012r1151*) gjøres følgende endringer:I artikkel 36 gjøres følgende endringer:Overskriften skal lyde: «Den offentlige kontrollens innhold».Nr. 1 og 2 utgår.I nr. 3 skal den innledende teksten lyde:Offentlig kontroll som gjennomføres i samsvar med europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*)*, skal omfatte følgende:* Europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*) av 15. mars 2017 om offentlig kontroll og annen offentlig virksomhet som gjennomføres for å sikre anvendelsen av næringsmiddel- og fôrvareregelverket samt regler for dyrs helse og velferd, plantehelse og plantevernmidler, om endring av europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999), (EF) [nr. 396/2005](eu/32005r0396), (EF) [nr. 1069/2009](eu/32009r1069), (EF) [nr. 1107/2009](eu/32009r1107), (EU) [nr. 1151/2012](eu/32012r1151*), (EU) [nr. 652/2014](eu/32014r0652), (EU) [2016/429](eu/32016r0429*) og (EU) [2016/2031](eu/32016r2031), rådsforordning [(EF) nr. 1/2005](eu/32005r0001*) og (EF) [nr. 1099/2009](eu/32009r1099) samt rådsdirektiv [98/58/EF](eu/31998l0058), [1999/74/EF](eu/31999l0074), [2007/43/EF](eu/32007l0043), [2008/119/EF](eu/32008l0119) og [2008/120/EF](eu/32008*0120) og om oppheving av europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854*) og (EF) [nr. 882/2004](eu/32004r0882*), rådsdirektiv [89/608/EØF](eu/31989l0608), [89/662/EØF](eu/31989l0662*), [90/425/EØF](eu/31990l0425), [91/496/EØF](eu/31991l0496*), [96/23/EF](eu/31996l0023), [96/93/EF](eu/31996*0093) og [97/78/EF](eu/31997l0078) og rådsbeslutning [92/438/EØF](eu/31992d0438) (forordningen om offentlig kontroll) (EUT L 95 av 7.4.2017, s. 1).»I artikkel 37 gjøres følgende endringer:I nr. 1 skal første ledd lyde:Med hensyn til beskyttede opprinnelsesbetegnelser, beskyttede geografiske betegnelser og garanterte tradisjonelle spesialiteter som gjelder produkter med opprinnelse i Unionen, skal verifiseringen av samsvar med produktspesifikasjonen før produktet bringes i omsetning, utføres avde vedkommende myndighetene som er utpekt i samsvar med artikkel 4 i forordning [(EU) 2017/625](eu/32017r0625*), ellerorganer med delegerte oppgaver som definert i artikkel 3 nr. 5 i forordning [(EU) 2017/625](eu/32017r0625*).»I artikkel 3 utgår første ledd.I nr. 4 erstattes «nr. 1 og 2» med «nr. 2».Artikkel 38 utgår.Artikkel 39 skal lyde:«*Artikkel 39***Organer med delegerte oppgaver som gjennomfører kontroll i tredjestater**De organene med delegerte oppgaver som gjennomfører kontroll i tredjestater som nevnt i artikkel 37 nr. 2 bokstav b), skal være akkreditert i henhold til den relevante harmoniserte standarden «Samsvarsvurdering – Krav til sertifiseringsorganer for produkter, prosesser og tjenester». Disse organene med delegerte oppgaver kan akkrediteres enten av et nasjonalt akkrediteringsorgan utenfor Unionen i samsvar med forordning [(EF) nr. 765/2008](eu/32008r0765), eller av et akkrediteringsorgan utenfor Unionen som har underskrevet en multilateral avtale om anerkjennelse i regi av Internasjonalt akkrediteringsforum (IAF).»
+###### Artikkel 162
 
-I forordning [(EU) nr. 652/2014](eu/32014r0652) gjøres følgende endringer:Artikkel 30 nr. 1 skal lyde:Tilskudd for å dekke kostnader som påløper i forbindelse med gjennomføring av arbeidsprogrammene som er godkjent av Kommisjonen, kan tildelesEU-referanselaboratoriene nevnt i artikkel 93 i europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*)* og EU-referansesentrene nevnt i artikkel 29 i europaparlaments- og rådsforordning [(EU) 2016/2012](eu/32016*2012)**,EU-referansesentrene for dyrevelferd nevnt i artikkel 95 i forordning [(EU) 2017/625](eu/32017r0625*),EU-referansesentrene for ekthet og integritet i den landbruksbaserte næringsmiddelkjeden nevnt i artikkel 97 i forordning [(EU) 2017/625](eu/32017r0625*).* Europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*) av 15. mars 2017 om offentlig kontroll og annen offentlig virksomhet som gjennomføres for å sikre anvendelsen av næringsmiddel- og fôrvareregelverket samt regler for dyrs helse og velferd, plantehelse og plantevernmidler, om endring av europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999), (EF) [nr. 396/2005](eu/32005r0396), (EF) [nr. 1069/2009](eu/32009r1069), (EF) [nr. 1107/2009](eu/32009r1107), (EU) [nr. 1151/2012](eu/32012r1151*), (EU) [nr. 652/2014](eu/32014r0652), (EU) [2016/429](eu/32016r0429*) og (EU) [2016/2031](eu/32016r2031), rådsforordning [(EF) nr. 1/2005](eu/32005r0001*) og (EF) [nr. 1099/2009](eu/32009r1099) samt rådsdirektiv [98/58/EF](eu/31998l0058), [1999/74/EF](eu/31999l0074), [2007/43/EF](eu/32007l0043), [2008/119/EF](eu/32008l0119) og [2008/120/EF](eu/32008*0120) og om oppheving av europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854*) og (EF) [nr. 882/2004](eu/32004r0882*), rådsdirektiv [89/608/EØF](eu/31989l0608), [89/662/EØF](eu/31989l0662*), [90/425/EØF](eu/31990l0425), [91/496/EØF](eu/31991l0496*), [96/23/EF](eu/31996l0023), [96/93/EF](eu/31996*0093) og [97/78/EF](eu/31997l0078) og rådsbeslutning [92/438/EØF](eu/31992d0438) (forordningen om offentlig kontroll) (EUT L 95 av 7.4.2017, s. 1).** Europaparlaments- og rådsforordning [(EU) 2016/1012](eu/32016r1012) om avlstekniske vilkår og avstamningsvilkår for avl, handel med og innførsel til Unionen av renrasede avlsdyr, hybridavlsdyr av svin og formeringsmateriale fra dem og om endring av forordning [(EU) nr. 652/2014](eu/32014r0652), rådsdirektiv [89/608/EØF](eu/31989l0608) og [90/425/EØF](eu/31990l0425) og om oppheving av visse rettsakter med hensyn til dyreavl («dyreavlsforordningen») (EUT L 171 av 29.6.2016, s. 66).»Ny artikkel skal lyde:«*Artikkel 30a***Akkreditering av nasjonale referanselaboratorier for plantehelse**1. Tilskudd kan tildeles de nasjonale referanselaboratoriene nevnt i artikkel 100 i forordning [(EU) 2017/625](eu/32017r0625*) for påløpte kostnader for å oppnå akkreditering i samsvar med standarden EN ISO/IEC 17025 «Generelle krav til prøvings- og kalibreringslaboratoriers kompetanse» med hensyn til bruk av metoder for laboratorieanalyse, -undersøkelse og -diagnostisering for å verifisere at reglene for vernetiltak mot planteskadegjørere overholdes.2. Tilskudd kan tildeles ett nasjonalt referanselaboratorium i hver medlemsstat for hvert EU-referanselaboratorium for plantehelse, inntil tre år etter utpekingen av nevnte EU-referanselaboratorium.»
+Endringer av forordning [(EU) nr. 1151/2012](eu/32012r1151*)
 
-1. I forordning [(EU) 2016/429](eu/32016r0429*) gjøres følgende endringer:I artikkel 4 gjøres følgende endringer:Nr. 33) skal lyde:«offentlig kontroll» enhver form for kontroll som gjennomføres i samsvar med europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*)*,* Europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*) av 15. mars 2017 om offentlig kontroll og annen offentlig virksomhet som gjennomføres for å sikre anvendelsen av næringsmiddel- og fôrvareregelverket samt regler for dyrs helse og velferd, plantehelse og plantevernmidler, om endring av europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999), (EF) [nr. 396/2005](eu/32005r0396), (EF) [nr. 1069/2009](eu/32009r1069), (EF) [nr. 1107/2009](eu/32009r1107), (EU) [nr. 1151/2012](eu/32012r1151*), (EU) [nr. 652/2014](eu/32014r0652), (EU) [2016/429](eu/32016r0429*) og (EU) [2016/2031](eu/32016r2031), rådsforordning [(EF) nr. 1/2005](eu/32005r0001*) og (EF) [nr. 1099/2009](eu/32009r1099) samt rådsdirektiv [98/58/EF](eu/31998l0058), [1999/74/EF](eu/31999l0074), [2007/43/EF](eu/32007l0043), [2008/119/EF](eu/32008l0119) og [2008/120/EF](eu/32008*0120) og om oppheving av europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854*) og (EF) [nr. 882/2004](eu/32004r0882*), rådsdirektiv [89/608/EØF](eu/31989l0608), [89/662/EØF](eu/31989l0662*), [90/425/EØF](eu/31990l0425), [91/496/EØF](eu/31991l0496*), [96/23/EF](eu/31996l0023), [96/93/EF](eu/31996*0093) og [97/78/EF](eu/31997l0078) og rådsbeslutning [92/438/EØF](eu/31992d0438) (forordningen om offentlig kontroll) (EUT L 95 av 7.4.2017, s. 1).»Nr. 51) skal lyde:«TRACES» en systemkomponent som integreres i IMSOC som nevnt i artikkel 131–136 i forordning [(EU) 2017/625](eu/32017r0625*),»Nr. 53) skal lyde:«offentlig veterinær» en offentlig veterinær som definert i artikkel 3 nr. 32 i forordning [(EU) 2017/625](eu/32017r0625*),»Nr. 55) skal lyde:«vedkommende myndighet» en medlemsstats sentrale veterinærmyndighet som har ansvar for å organisere offentlig kontroll og all annen offentlig virksomhet i samsvar med denne forordning og forordning [(EU) 2017/625](eu/32017r0625*), eller enhver annen myndighet som dette ansvaret er delegert til,»I artikkel 229 skal nr. 2 lyde:Driftsansvarlige som har ansvar for den aktuelle forsendelsen, skal forevise forsendelser av dyr, formeringsmateriale og produkter av animalsk opprinnelse fra tredjestater eller territorier for offentlig kontroll i henhold til artikkel 47 i forordning [(EU) 2017/625](eu/32017r0625*).»Artikkel 281 utgår.
+I forordning [(EU) nr. 1151/2012](eu/32012r1151*) gjøres følgende endringer:I artikkel 36 gjøres følgende endringer:Overskriften skal lyde: «Den offentlige kontrollens innhold».Nr. 1 og 2 utgår.I nr. 3 skal den innledende teksten lyde:Offentlig kontroll som gjennomføres i samsvar med europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*)\*, skal omfatte følgende:\* Europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*) av 15. mars 2017 om offentlig kontroll og annen offentlig virksomhet som gjennomføres for å sikre anvendelsen av næringsmiddel- og fôrvareregelverket samt regler for dyrs helse og velferd, plantehelse og plantevernmidler, om endring av europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999), (EF) [nr. 396/2005](eu/32005r0396), (EF) [nr. 1069/2009](eu/32009r1069), (EF) [nr. 1107/2009](eu/32009r1107), (EU) [nr. 1151/2012](eu/32012r1151*), (EU) [nr. 652/2014](eu/32014r0652), (EU) [2016/429](eu/32016r0429*) og (EU) [2016/2031](eu/32016r2031), rådsforordning [(EF) nr. 1/2005](eu/32005r0001*) og (EF) [nr. 1099/2009](eu/32009r1099) samt rådsdirektiv [98/58/EF](eu/31998l0058), [1999/74/EF](eu/31999l0074), [2007/43/EF](eu/32007l0043), [2008/119/EF](eu/32008l0119) og [2008/120/EF](eu/32008*0120) og om oppheving av europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854*) og (EF) [nr. 882/2004](eu/32004r0882*), rådsdirektiv [89/608/EØF](eu/31989l0608), [89/662/EØF](eu/31989l0662*), [90/425/EØF](eu/31990l0425), [91/496/EØF](eu/31991l0496*), [96/23/EF](eu/31996l0023), [96/93/EF](eu/31996*0093) og [97/78/EF](eu/31997l0078) og rådsbeslutning [92/438/EØF](eu/31992d0438) (forordningen om offentlig kontroll) (EUT L 95 av 7.4.2017, s. 1).»I artikkel 37 gjøres følgende endringer:I nr. 1 skal første ledd lyde:Med hensyn til beskyttede opprinnelsesbetegnelser, beskyttede geografiske betegnelser og garanterte tradisjonelle spesialiteter som gjelder produkter med opprinnelse i Unionen, skal verifiseringen av samsvar med produktspesifikasjonen før produktet bringes i omsetning, utføres avde vedkommende myndighetene som er utpekt i samsvar med artikkel 4 i forordning [(EU) 2017/625](eu/32017r0625*), ellerorganer med delegerte oppgaver som definert i artikkel 3 nr. 5 i forordning [(EU) 2017/625](eu/32017r0625*).»I artikkel 3 utgår første ledd.I nr. 4 erstattes «nr. 1 og 2» med «nr. 2».Artikkel 38 utgår.Artikkel 39 skal lyde:«*Artikkel 39***Organer med delegerte oppgaver som gjennomfører kontroll i tredjestater**De organene med delegerte oppgaver som gjennomfører kontroll i tredjestater som nevnt i artikkel 37 nr. 2 bokstav b), skal være akkreditert i henhold til den relevante harmoniserte standarden «Samsvarsvurdering – Krav til sertifiseringsorganer for produkter, prosesser og tjenester». Disse organene med delegerte oppgaver kan akkrediteres enten av et nasjonalt akkrediteringsorgan utenfor Unionen i samsvar med forordning [(EF) nr. 765/2008](eu/32008r0765), eller av et akkrediteringsorgan utenfor Unionen som har underskrevet en multilateral avtale om anerkjennelse i regi av Internasjonalt akkrediteringsforum (IAF).»
 
-2. Følgende bestemmelser skal fortsatt gjelde med hensyn til forhold som omfattes av forordning [(EU) 2016/429](eu/32016r0429*), fram til anvendelsesdatoen for nevnte forordning:Artikkel 9 i direktiv [89/662/EØF](eu/31989l0662*).Artikkel 10 i direktiv [90/425/EØF](eu/31990l0425).Artikkel 18 nr. 1, 3, 4, 5, 6, 7 og 8 i direktiv [91/496/EØF](eu/31991l0496*).Artikkel 22 nr. 1, 3, 4, 5, 6 og 7 i direktiv [97/78/EF](eu/31997l0078).
+###### Artikkel 163
 
-3. Under henvisning til artikkel 14 i forordning [(EU) 2016/429](eu/32016r0429*) og uavhengig av anvendelsesdatoen fastsatt i nevnte forordning, skal vilkåret for anvendelse av artikkel 31 nr. 2 i denne forordning anses å være oppfylt allerede fra 14. desember 2019.
+Endringer av forordning [(EU) nr. 652/2014](eu/32014r0652)
 
-1. I forordning [(EU) 2016/2031](eu/32016r2031) gjøres følgende endringer:Artikkel 2 nr. 6 skal lyde:«vedkommende myndighet» vedkommende myndigheter som definert i artikkel 3 nr. 3 i europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*)*,* Europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*) av 15. mars 2017 om offentlig kontroll og annen offentlig virksomhet som gjennomføres for å sikre anvendelsen av næringsmiddel- og fôrvareregelverket samt regler for dyrs helse og velferd, plantehelse og plantevernmidler, om endring av europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999), (EF) [nr. 396/2005](eu/32005r0396), (EF) [nr. 1069/2009](eu/32009r1069), (EF) [nr. 1107/2009](eu/32009r1107), (EU) [nr. 1151/2012](eu/32012r1151*), (EU) [nr. 652/2014](eu/32014r0652), (EU) [2016/429](eu/32016r0429*) og (EU) [2016/2031](eu/32016r2031), rådsforordning [(EF) nr. 1/2005](eu/32005r0001*) og (EF) [nr. 1099/2009](eu/32009r1099) samt rådsdirektiv [98/58/EF](eu/31998l0058), [1999/74/EF](eu/31999l0074), [2007/43/EF](eu/32007l0043), [2008/119/EF](eu/32008l0119) og [2008/120/EF](eu/32008*0120) og om oppheving av europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854*) og (EF) [nr. 882/2004](eu/32004r0882*), rådsdirektiv [89/608/EØF](eu/31989l0608), [89/662/EØF](eu/31989l0662*), [90/425/EØF](eu/31990l0425), [91/496/EØF](eu/31991l0496*), [96/23/EF](eu/31996l0023), [96/93/EF](eu/31996*0093) og [97/78/EF](eu/31997l0078) og rådsbeslutning [92/438/EØF](eu/31992d0438) (forordningen om offentlig kontroll) (EUT L 95 av 7.4.2017, s. 1).»Artikkel 10 skal lyde:«*Artikkel 10***Offisiell bekreftelse fra vedkommende myndigheter på forekomst i Unionen av skadegjørere som utløser karantene**Dersom en vedkommende myndighet har mistanke om eller har fått dokumentasjon på at det forekommer en skadegjører i Unionen som utløser karantene, eller en skadegjører som omfattes av tiltak vedtatt i henhold til artikkel 30 nr. 1, på en del av territoriet til den berørte medlemsstaten der forekomst av skadegjøreren tidligere ikke var kjent, eller i en forsendelse av planter, planteprodukter eller andre gjenstander som innføres til, skal innføres til eller forflyttes innenfor Unionens territorium, skal den umiddelbart treffe alle nødvendige tiltak for å bekrefte, på grunnlag av en diagnose stilt av et offentlig laboratorium som nevnt i artikkel 37 i forordning [(EU) 2017/625](eu/32017r0625*) («offisiell bekreftelse»), om skadegjøreren forekommer eller ikke.I påvente av en offisiell bekreftelse på at skadegjøreren forekommer, skal de berørte medlemsstatene, dersom det er relevant, treffe plantehelsetiltak for å fjerne risikoen for spredning av skadegjøreren.Mistanken eller dokumentasjonen nevnt i første ledd i denne artikkel kan bygge på enhver opplysning som er mottatt i henhold til artikkel 14 og 15, eller fra andre kilder.»I artikkel 11 skal annet ledd lyde:«Meldinger i henhold til første ledd skal sendes inn av den berørte medlemsstatens sentrale myndighet jf. artikkel 4 nr. 2 i forordning [(EU) nr. 2017/625](eu/32017r0625*), gjennom det elektroniske meldingssystemet nevnt i artikkel 103.»I artikkel 25 nr. 2 skal bokstav a) lyde:roller og ansvarsområder for organene som deltar i gjennomføringen av planen, ved bekreftet eller mistenkt forekomst av den aktuelle prioriterte skadegjøreren, samt tjenesteveien og framgangsmåtene for samordning av tiltak som skal treffes av vedkommende myndigheter, andre offentlige myndigheter jf. artikkel 4 nr. 2 i forordning [(EU) 2017/625](eu/32017r0625*), organer med delegerte oppgaver eller fysiske personer jf. artikkel 28 nr. 1 i nevnte forordning, laboratorier og profesjonelle driftsansvarlige, herunder samordning med nabomedlemsstater og nabotredjestater, dersom det er relevant,»I artikkel 41 skal nr. 4 lyde:Dersom planter, planteprodukter eller andre gjenstander er innført til eller flyttet innenfor Unionens territorium i strid med nr. 1 i denne artikkel, skal medlemsstatene treffe de nødvendige tiltakene som er nevnt i artikkel 66 nr. 3 i forordning [(EU) 2017/625](eu/32017r0625*), og underrette Kommisjonen og de andre medlemsstatene gjennom det elektroniske meldingssystemet nevnt i artikkel 103.Denne meldingen skal eventuelt også formidles til den tredjestaten som plantene, planteproduktene eller de andre gjenstandene ble innført til Unionens territorium fra.»I artikkel 44 skal nr. 2 lyde:Når det er hensiktsmessig, skal Kommisjonen foreta undersøkelser i den berørte tredjestaten i samsvar med artikkel 120 i forordning [(EU) 2017/625](eu/32017r0625*) for å kontrollere om vilkårene nevnt i nr. 1 første ledd bokstav a) og b) i denne artikkel er oppfylt.»I artikkel 49 nr. 6 skal tredje ledd lyde:«Medlemsstatene skal underrette Kommisjonen og de andre medlemsstatene gjennom det elektroniske meldingssystemet nevnt i artikkel 103 i denne forordning om ethvert tilfelle der innførsel av en plante, et planteprodukt eller en annen gjenstand til Unionens territorium er blitt avvist eller der det er nedlagt forbud mot forflytning av disse innenfor Unionens territorium som følge av at den berørte medlemsstaten mener at det har skjedd en overtredelse av forbudet nevnt i nr. 2 annet ledd bokstav c) i denne artikkel. Dersom det er relevant, skal meldingen omfatte de tiltakene som medlemsstaten har truffet om planter, planteprodukter eller andre gjenstander i henhold til artikkel 66 nr. 3 i forordning [(EU) 2017/625](eu/32017r0625*).»I artikkel 76 skal nr. 4 og 5 lyde:Når det gjelder en tredjestat som ikke er avtalepart i IPPC, skal den vedkommende myndigheten bare godta plantehelsesertifikater utstedt av myndigheter som er vedkommende myndigheter i samsvar med nasjonale regler i den berørte tredjestaten, og som er meldt til Kommisjonen. Kommisjonen skal underrette medlemsstatene og de driftsansvarlige om meldingene den har mottatt gjennom det elektroniske meldingssystemet nevnt i artikkel 103, i samsvar med artikkel 132 bokstav a) i forordning [(EU) 2017/625](eu/32017r0625*).Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 105 for å utfylle denne forordning med hensyn til vilkårene for godtakelse som nevnt i første ledd i dette nummer, for å sikre at disse sertifikatene er pålitelige.Elektroniske plantehelsesertifikater skal bare godtas når de framvises ved hjelp av eller innenfor rammen av en elektronisk utveksling gjennom IMSOC som nevnt i artikkel 131 nr. 1 i forordning [(EU) 2017/625](eu/32017r0625*).»I artikkel 77 nr. 1 skal første ledd lyde:Dersom et plantehelsesertifikat er utstedt i samsvar med artikkel 71 nr. 1, 2 og 3, og den berørte vedkommende myndigheten fastslår at vilkårene nevnt i artikkel 76 ikke er oppfylt, skal den erklære plantehelsesertifikatet for ugyldig og sikre at det ikke lenger ledsager disse plantene, planteproduktene eller andre gjenstandene. I så fall skal de vedkommende myndighetene, med hensyn til disse plantene, planteproduktene eller andre gjenstandene, treffe ett av tiltakene fastsatt i artikkel 66 nr. 3 i forordning [(EU) 2017/625](eu/32017r0625*).»I artikkel 91 nr. 1 skal annet ledd lyde:«Godkjente driftsansvarlige som gjennomfører en risikohåndteringsplan for skadegjørere, kan bli underlagt mindre hyppig kontroll som nevnt i artikkel 22 nr. 3 bokstav b) i forordning [(EU) 2017/625](eu/32017r0625*).»I artikkel 94 nr. 1 skal første ledd lyde:Når en plante, et planteprodukt eller en annen gjenstand som er innført til Unionens territorium fra en tredjestat, er underlagt krav om plantepass i henhold til artikkel 79 nr. 1 og artikkel 80 nr. 1 i denne forordning ved forflytning innenfor Unionen, skal passet, som unntak fra artikkel 87 i denne forordning, utstedes dersom kontrollen i henhold til artikkel 49 nr. 1 i forordning [(EU) 2017/625](eu/32017r0625*) med hensyn til innførsel er gjennomført på en tilfredsstillende måte og har ført til konklusjonen at planten, planteproduktet eller den andre gjenstanden oppfyller de grunnleggende kravene til utstedelse av et plantepass i samsvar med artikkel 85 i denne forordning og eventuelt artikkel 86 i denne forordning.»I artikkel 100 skal nr. 5 lyde:Elektroniske plantehelsesertifikater for eksport skal gis ved hjelp av eller innenfor rammen av en elektronisk utveksling gjennom IMSOC.»I artikkel 101 skal nr. 6 lyde:Elektroniske plantehelsesertifikater for reeksport skal gis ved hjelp av eller innenfor rammen av en elektronisk utveksling gjennom IMSOC.»I artikkel 102 skal nr. 4 lyde:Sertifikatet før eksport skal ledsage de aktuelle plantene, planteproduktene og andre gjenstandene når de forflyttes innenfor Unionens territorium, med mindre opplysningene i sertifikatet utveksles mellom de berørte medlemsstatene ved hjelp av eller innenfor rammen av en elektronisk utveksling gjennom IMSOC.»Artikkel 103 skal lyde:«Artikkel 103Opprettelse av et elektronisk meldingssystemKommisjonen skal opprette et elektronisk system for innlevering av meldinger fra medlemsstatene.Dette systemet skal koples til og være forenlig med IMSOC.»I artikkel 109 skal nr. 1 lyde:«Direktiv [2000/29/EF](eu/32000l0029*) oppheves uten at det berører artikkel 165 nr. 2, 3 og 4 i forordning [(EU) 2017/625](eu/32017r0625*).»
+I forordning [(EU) nr. 652/2014](eu/32014r0652) gjøres følgende endringer:Artikkel 30 nr. 1 skal lyde:Tilskudd for å dekke kostnader som påløper i forbindelse med gjennomføring av arbeidsprogrammene som er godkjent av Kommisjonen, kan tildelesEU-referanselaboratoriene nevnt i artikkel 93 i europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*)\* og EU-referansesentrene nevnt i artikkel 29 i europaparlaments- og rådsforordning [(EU) 2016/2012](eu/32016*2012)\*\*,EU-referansesentrene for dyrevelferd nevnt i artikkel 95 i forordning [(EU) 2017/625](eu/32017r0625*),EU-referansesentrene for ekthet og integritet i den landbruksbaserte næringsmiddelkjeden nevnt i artikkel 97 i forordning [(EU) 2017/625](eu/32017r0625*).\* Europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*) av 15. mars 2017 om offentlig kontroll og annen offentlig virksomhet som gjennomføres for å sikre anvendelsen av næringsmiddel- og fôrvareregelverket samt regler for dyrs helse og velferd, plantehelse og plantevernmidler, om endring av europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999), (EF) [nr. 396/2005](eu/32005r0396), (EF) [nr. 1069/2009](eu/32009r1069), (EF) [nr. 1107/2009](eu/32009r1107), (EU) [nr. 1151/2012](eu/32012r1151*), (EU) [nr. 652/2014](eu/32014r0652), (EU) [2016/429](eu/32016r0429*) og (EU) [2016/2031](eu/32016r2031), rådsforordning [(EF) nr. 1/2005](eu/32005r0001*) og (EF) [nr. 1099/2009](eu/32009r1099) samt rådsdirektiv [98/58/EF](eu/31998l0058), [1999/74/EF](eu/31999l0074), [2007/43/EF](eu/32007l0043), [2008/119/EF](eu/32008l0119) og [2008/120/EF](eu/32008*0120) og om oppheving av europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854*) og (EF) [nr. 882/2004](eu/32004r0882*), rådsdirektiv [89/608/EØF](eu/31989l0608), [89/662/EØF](eu/31989l0662*), [90/425/EØF](eu/31990l0425), [91/496/EØF](eu/31991l0496*), [96/23/EF](eu/31996l0023), [96/93/EF](eu/31996*0093) og [97/78/EF](eu/31997l0078) og rådsbeslutning [92/438/EØF](eu/31992d0438) (forordningen om offentlig kontroll) (EUT L 95 av 7.4.2017, s. 1).\*\* Europaparlaments- og rådsforordning [(EU) 2016/1012](eu/32016r1012) om avlstekniske vilkår og avstamningsvilkår for avl, handel med og innførsel til Unionen av renrasede avlsdyr, hybridavlsdyr av svin og formeringsmateriale fra dem og om endring av forordning [(EU) nr. 652/2014](eu/32014r0652), rådsdirektiv [89/608/EØF](eu/31989l0608) og [90/425/EØF](eu/31990l0425) og om oppheving av visse rettsakter med hensyn til dyreavl («dyreavlsforordningen») (EUT L 171 av 29.6.2016, s. 66).»Ny artikkel skal lyde:«*Artikkel 30a***Akkreditering av nasjonale referanselaboratorier for plantehelse**1. Tilskudd kan tildeles de nasjonale referanselaboratoriene nevnt i artikkel 100 i forordning [(EU) 2017/625](eu/32017r0625*) for påløpte kostnader for å oppnå akkreditering i samsvar med standarden EN ISO/IEC 17025 «Generelle krav til prøvings- og kalibreringslaboratoriers kompetanse» med hensyn til bruk av metoder for laboratorieanalyse, -undersøkelse og -diagnostisering for å verifisere at reglene for vernetiltak mot planteskadegjørere overholdes.2. Tilskudd kan tildeles ett nasjonalt referanselaboratorium i hver medlemsstat for hvert EU-referanselaboratorium for plantehelse, inntil tre år etter utpekingen av nevnte EU-referanselaboratorium.»
 
-2. De relevante artiklene i direktiv [2000/29/EF](eu/32000l0029*) skal fortsatt gjelde i forbindelse med forhold som omfattes av artikkel 47 nr. 2, artikkel 48, artikkel 51 nr. 1 bokstav b), c) og d), artikkel 53 nr. 1 bokstav a), artikkel 54 nr. 1 og 3 og artikkel 58 bokstav a) i denne forordning i stedet for disse sistnevnte bestemmelsene, fram til 14. desember 2022 eller en tidligere dato etter anvendelsesdatoen for denne forordning, som skal fastsettes i den delegerte rettsakten som vedtas i samsvar med nr. 3 i denne artikkel.
+###### Artikkel 164
 
-3. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 144 for å endre denne forordning med hensyn til datoen nevnt i nr. 2 i denne artikkel.
+Endringer av forordning [(EU) 2016/429](eu/32016r0429*) og tilhørende overgangsbestemmelser
 
-4. Uten at det berører nr. 2 og 3 i denne artikkel og anvendelsesdatoen fastsatt i artikkel 167 nr. 1, skal Kommisjonen vedta de delegerte rettsaktene nevnt i artikkel 53 nr. 1 bokstav a) og e) med hensyn til varene nevnt i artikkel 47 nr. 1 bokstav c), senest 12 måneder før de får anvendelse.
+1\. I forordning [(EU) 2016/429](eu/32016r0429*) gjøres følgende endringer:I artikkel 4 gjøres følgende endringer:Nr. 33) skal lyde:«offentlig kontroll» enhver form for kontroll som gjennomføres i samsvar med europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*)\*,\* Europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*) av 15. mars 2017 om offentlig kontroll og annen offentlig virksomhet som gjennomføres for å sikre anvendelsen av næringsmiddel- og fôrvareregelverket samt regler for dyrs helse og velferd, plantehelse og plantevernmidler, om endring av europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999), (EF) [nr. 396/2005](eu/32005r0396), (EF) [nr. 1069/2009](eu/32009r1069), (EF) [nr. 1107/2009](eu/32009r1107), (EU) [nr. 1151/2012](eu/32012r1151*), (EU) [nr. 652/2014](eu/32014r0652), (EU) [2016/429](eu/32016r0429*) og (EU) [2016/2031](eu/32016r2031), rådsforordning [(EF) nr. 1/2005](eu/32005r0001*) og (EF) [nr. 1099/2009](eu/32009r1099) samt rådsdirektiv [98/58/EF](eu/31998l0058), [1999/74/EF](eu/31999l0074), [2007/43/EF](eu/32007l0043), [2008/119/EF](eu/32008l0119) og [2008/120/EF](eu/32008*0120) og om oppheving av europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854*) og (EF) [nr. 882/2004](eu/32004r0882*), rådsdirektiv [89/608/EØF](eu/31989l0608), [89/662/EØF](eu/31989l0662*), [90/425/EØF](eu/31990l0425), [91/496/EØF](eu/31991l0496*), [96/23/EF](eu/31996l0023), [96/93/EF](eu/31996*0093) og [97/78/EF](eu/31997l0078) og rådsbeslutning [92/438/EØF](eu/31992d0438) (forordningen om offentlig kontroll) (EUT L 95 av 7.4.2017, s. 1).»Nr. 51) skal lyde:«TRACES» en systemkomponent som integreres i IMSOC som nevnt i artikkel 131–136 i forordning [(EU) 2017/625](eu/32017r0625*),»Nr. 53) skal lyde:«offentlig veterinær» en offentlig veterinær som definert i artikkel 3 nr. 32 i forordning [(EU) 2017/625](eu/32017r0625*),»Nr. 55) skal lyde:«vedkommende myndighet» en medlemsstats sentrale veterinærmyndighet som har ansvar for å organisere offentlig kontroll og all annen offentlig virksomhet i samsvar med denne forordning og forordning [(EU) 2017/625](eu/32017r0625*), eller enhver annen myndighet som dette ansvaret er delegert til,»I artikkel 229 skal nr. 2 lyde:Driftsansvarlige som har ansvar for den aktuelle forsendelsen, skal forevise forsendelser av dyr, formeringsmateriale og produkter av animalsk opprinnelse fra tredjestater eller territorier for offentlig kontroll i henhold til artikkel 47 i forordning [(EU) 2017/625](eu/32017r0625*).»Artikkel 281 utgår.
+
+2\. Følgende bestemmelser skal fortsatt gjelde med hensyn til forhold som omfattes av forordning [(EU) 2016/429](eu/32016r0429*), fram til anvendelsesdatoen for nevnte forordning:Artikkel 9 i direktiv [89/662/EØF](eu/31989l0662*).Artikkel 10 i direktiv [90/425/EØF](eu/31990l0425).Artikkel 18 nr. 1, 3, 4, 5, 6, 7 og 8 i direktiv [91/496/EØF](eu/31991l0496*).Artikkel 22 nr. 1, 3, 4, 5, 6 og 7 i direktiv [97/78/EF](eu/31997l0078).
+
+3\. Under henvisning til artikkel 14 i forordning [(EU) 2016/429](eu/32016r0429*) og uavhengig av anvendelsesdatoen fastsatt i nevnte forordning, skal vilkåret for anvendelse av artikkel 31 nr. 2 i denne forordning anses å være oppfylt allerede fra 14. desember 2019.
+
+###### Artikkel 165
+
+Endringer av forordning [(EU) 2016/2031](eu/32016r2031) og tilhørende overgangsbestemmelser
+
+1\. I forordning [(EU) 2016/2031](eu/32016r2031) gjøres følgende endringer:Artikkel 2 nr. 6 skal lyde:«vedkommende myndighet» vedkommende myndigheter som definert i artikkel 3 nr. 3 i europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*)\*,\* Europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625*) av 15. mars 2017 om offentlig kontroll og annen offentlig virksomhet som gjennomføres for å sikre anvendelsen av næringsmiddel- og fôrvareregelverket samt regler for dyrs helse og velferd, plantehelse og plantevernmidler, om endring av europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999), (EF) [nr. 396/2005](eu/32005r0396), (EF) [nr. 1069/2009](eu/32009r1069), (EF) [nr. 1107/2009](eu/32009r1107), (EU) [nr. 1151/2012](eu/32012r1151*), (EU) [nr. 652/2014](eu/32014r0652), (EU) [2016/429](eu/32016r0429*) og (EU) [2016/2031](eu/32016r2031), rådsforordning [(EF) nr. 1/2005](eu/32005r0001*) og (EF) [nr. 1099/2009](eu/32009r1099) samt rådsdirektiv [98/58/EF](eu/31998l0058), [1999/74/EF](eu/31999l0074), [2007/43/EF](eu/32007l0043), [2008/119/EF](eu/32008l0119) og [2008/120/EF](eu/32008*0120) og om oppheving av europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854*) og (EF) [nr. 882/2004](eu/32004r0882*), rådsdirektiv [89/608/EØF](eu/31989l0608), [89/662/EØF](eu/31989l0662*), [90/425/EØF](eu/31990l0425), [91/496/EØF](eu/31991l0496*), [96/23/EF](eu/31996l0023), [96/93/EF](eu/31996*0093) og [97/78/EF](eu/31997l0078) og rådsbeslutning [92/438/EØF](eu/31992d0438) (forordningen om offentlig kontroll) (EUT L 95 av 7.4.2017, s. 1).»Artikkel 10 skal lyde:«*Artikkel 10***Offisiell bekreftelse fra vedkommende myndigheter på forekomst i Unionen av skadegjørere som utløser karantene**Dersom en vedkommende myndighet har mistanke om eller har fått dokumentasjon på at det forekommer en skadegjører i Unionen som utløser karantene, eller en skadegjører som omfattes av tiltak vedtatt i henhold til artikkel 30 nr. 1, på en del av territoriet til den berørte medlemsstaten der forekomst av skadegjøreren tidligere ikke var kjent, eller i en forsendelse av planter, planteprodukter eller andre gjenstander som innføres til, skal innføres til eller forflyttes innenfor Unionens territorium, skal den umiddelbart treffe alle nødvendige tiltak for å bekrefte, på grunnlag av en diagnose stilt av et offentlig laboratorium som nevnt i artikkel 37 i forordning [(EU) 2017/625](eu/32017r0625*) («offisiell bekreftelse»), om skadegjøreren forekommer eller ikke.I påvente av en offisiell bekreftelse på at skadegjøreren forekommer, skal de berørte medlemsstatene, dersom det er relevant, treffe plantehelsetiltak for å fjerne risikoen for spredning av skadegjøreren.Mistanken eller dokumentasjonen nevnt i første ledd i denne artikkel kan bygge på enhver opplysning som er mottatt i henhold til artikkel 14 og 15, eller fra andre kilder.»I artikkel 11 skal annet ledd lyde:«Meldinger i henhold til første ledd skal sendes inn av den berørte medlemsstatens sentrale myndighet jf. artikkel 4 nr. 2 i forordning [(EU) nr. 2017/625](eu/32017r0625*), gjennom det elektroniske meldingssystemet nevnt i artikkel 103.»I artikkel 25 nr. 2 skal bokstav a) lyde:roller og ansvarsområder for organene som deltar i gjennomføringen av planen, ved bekreftet eller mistenkt forekomst av den aktuelle prioriterte skadegjøreren, samt tjenesteveien og framgangsmåtene for samordning av tiltak som skal treffes av vedkommende myndigheter, andre offentlige myndigheter jf. artikkel 4 nr. 2 i forordning [(EU) 2017/625](eu/32017r0625*), organer med delegerte oppgaver eller fysiske personer jf. artikkel 28 nr. 1 i nevnte forordning, laboratorier og profesjonelle driftsansvarlige, herunder samordning med nabomedlemsstater og nabotredjestater, dersom det er relevant,»I artikkel 41 skal nr. 4 lyde:Dersom planter, planteprodukter eller andre gjenstander er innført til eller flyttet innenfor Unionens territorium i strid med nr. 1 i denne artikkel, skal medlemsstatene treffe de nødvendige tiltakene som er nevnt i artikkel 66 nr. 3 i forordning [(EU) 2017/625](eu/32017r0625*), og underrette Kommisjonen og de andre medlemsstatene gjennom det elektroniske meldingssystemet nevnt i artikkel 103.Denne meldingen skal eventuelt også formidles til den tredjestaten som plantene, planteproduktene eller de andre gjenstandene ble innført til Unionens territorium fra.»I artikkel 44 skal nr. 2 lyde:Når det er hensiktsmessig, skal Kommisjonen foreta undersøkelser i den berørte tredjestaten i samsvar med artikkel 120 i forordning [(EU) 2017/625](eu/32017r0625*) for å kontrollere om vilkårene nevnt i nr. 1 første ledd bokstav a) og b) i denne artikkel er oppfylt.»I artikkel 49 nr. 6 skal tredje ledd lyde:«Medlemsstatene skal underrette Kommisjonen og de andre medlemsstatene gjennom det elektroniske meldingssystemet nevnt i artikkel 103 i denne forordning om ethvert tilfelle der innførsel av en plante, et planteprodukt eller en annen gjenstand til Unionens territorium er blitt avvist eller der det er nedlagt forbud mot forflytning av disse innenfor Unionens territorium som følge av at den berørte medlemsstaten mener at det har skjedd en overtredelse av forbudet nevnt i nr. 2 annet ledd bokstav c) i denne artikkel. Dersom det er relevant, skal meldingen omfatte de tiltakene som medlemsstaten har truffet om planter, planteprodukter eller andre gjenstander i henhold til artikkel 66 nr. 3 i forordning [(EU) 2017/625](eu/32017r0625*).»I artikkel 76 skal nr. 4 og 5 lyde:Når det gjelder en tredjestat som ikke er avtalepart i IPPC, skal den vedkommende myndigheten bare godta plantehelsesertifikater utstedt av myndigheter som er vedkommende myndigheter i samsvar med nasjonale regler i den berørte tredjestaten, og som er meldt til Kommisjonen. Kommisjonen skal underrette medlemsstatene og de driftsansvarlige om meldingene den har mottatt gjennom det elektroniske meldingssystemet nevnt i artikkel 103, i samsvar med artikkel 132 bokstav a) i forordning [(EU) 2017/625](eu/32017r0625*).Kommisjonen skal gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 105 for å utfylle denne forordning med hensyn til vilkårene for godtakelse som nevnt i første ledd i dette nummer, for å sikre at disse sertifikatene er pålitelige.Elektroniske plantehelsesertifikater skal bare godtas når de framvises ved hjelp av eller innenfor rammen av en elektronisk utveksling gjennom IMSOC som nevnt i artikkel 131 nr. 1 i forordning [(EU) 2017/625](eu/32017r0625*).»I artikkel 77 nr. 1 skal første ledd lyde:Dersom et plantehelsesertifikat er utstedt i samsvar med artikkel 71 nr. 1, 2 og 3, og den berørte vedkommende myndigheten fastslår at vilkårene nevnt i artikkel 76 ikke er oppfylt, skal den erklære plantehelsesertifikatet for ugyldig og sikre at det ikke lenger ledsager disse plantene, planteproduktene eller andre gjenstandene. I så fall skal de vedkommende myndighetene, med hensyn til disse plantene, planteproduktene eller andre gjenstandene, treffe ett av tiltakene fastsatt i artikkel 66 nr. 3 i forordning [(EU) 2017/625](eu/32017r0625*).»I artikkel 91 nr. 1 skal annet ledd lyde:«Godkjente driftsansvarlige som gjennomfører en risikohåndteringsplan for skadegjørere, kan bli underlagt mindre hyppig kontroll som nevnt i artikkel 22 nr. 3 bokstav b) i forordning [(EU) 2017/625](eu/32017r0625*).»I artikkel 94 nr. 1 skal første ledd lyde:Når en plante, et planteprodukt eller en annen gjenstand som er innført til Unionens territorium fra en tredjestat, er underlagt krav om plantepass i henhold til artikkel 79 nr. 1 og artikkel 80 nr. 1 i denne forordning ved forflytning innenfor Unionen, skal passet, som unntak fra artikkel 87 i denne forordning, utstedes dersom kontrollen i henhold til artikkel 49 nr. 1 i forordning [(EU) 2017/625](eu/32017r0625*) med hensyn til innførsel er gjennomført på en tilfredsstillende måte og har ført til konklusjonen at planten, planteproduktet eller den andre gjenstanden oppfyller de grunnleggende kravene til utstedelse av et plantepass i samsvar med artikkel 85 i denne forordning og eventuelt artikkel 86 i denne forordning.»I artikkel 100 skal nr. 5 lyde:Elektroniske plantehelsesertifikater for eksport skal gis ved hjelp av eller innenfor rammen av en elektronisk utveksling gjennom IMSOC.»I artikkel 101 skal nr. 6 lyde:Elektroniske plantehelsesertifikater for reeksport skal gis ved hjelp av eller innenfor rammen av en elektronisk utveksling gjennom IMSOC.»I artikkel 102 skal nr. 4 lyde:Sertifikatet før eksport skal ledsage de aktuelle plantene, planteproduktene og andre gjenstandene når de forflyttes innenfor Unionens territorium, med mindre opplysningene i sertifikatet utveksles mellom de berørte medlemsstatene ved hjelp av eller innenfor rammen av en elektronisk utveksling gjennom IMSOC.»Artikkel 103 skal lyde:«Artikkel 103Opprettelse av et elektronisk meldingssystemKommisjonen skal opprette et elektronisk system for innlevering av meldinger fra medlemsstatene.Dette systemet skal koples til og være forenlig med IMSOC.»I artikkel 109 skal nr. 1 lyde:«Direktiv [2000/29/EF](eu/32000l0029*) oppheves uten at det berører artikkel 165 nr. 2, 3 og 4 i forordning [(EU) 2017/625](eu/32017r0625*).»
+
+2\. De relevante artiklene i direktiv [2000/29/EF](eu/32000l0029*) skal fortsatt gjelde i forbindelse med forhold som omfattes av artikkel 47 nr. 2, artikkel 48, artikkel 51 nr. 1 bokstav b), c) og d), artikkel 53 nr. 1 bokstav a), artikkel 54 nr. 1 og 3 og artikkel 58 bokstav a) i denne forordning i stedet for disse sistnevnte bestemmelsene, fram til 14. desember 2022 eller en tidligere dato etter anvendelsesdatoen for denne forordning, som skal fastsettes i den delegerte rettsakten som vedtas i samsvar med nr. 3 i denne artikkel.
+
+3\. Kommisjonen gis myndighet til å vedta delegerte rettsakter i samsvar med artikkel 144 for å endre denne forordning med hensyn til datoen nevnt i nr. 2 i denne artikkel.
+
+4\. Uten at det berører nr. 2 og 3 i denne artikkel og anvendelsesdatoen fastsatt i artikkel 167 nr. 1, skal Kommisjonen vedta de delegerte rettsaktene nevnt i artikkel 53 nr. 1 bokstav a) og e) med hensyn til varene nevnt i artikkel 47 nr. 1 bokstav c), senest 12 måneder før de får anvendelse.
+
+###### Artikkel 166
+
+Overgangsbestemmelser i forbindelse med vedtakelse av delegerte rettsakter og gjennomføringsrettsakter
 
 Med forbehold for anvendelsesdatoene nevnt i artikkel 167 og overgangsbestemmelsene fastsatt i dette kapittel skal Kommisjonen gis myndighet til å vedta delegerte rettsakter og gjennomføringsrettsakter i henhold til denne forordning fra 28. april 2017. Slike rettsakter får anvendelse fra anvendelsesdatoen i samsvar med artikkel 167, uten at det berører eventuelle overgangsbestemmelser fastsatt i dette kapittel.
 
-1. Denne forordning trer i kraft den 20. dagen etter at den er kunngjort i *Den europeiske unions tidende*.Med mindre noe annet er fastsatt i nr. 2–4, får den anvendelse fra 14. desember 2019.
+###### Artikkel 167
 
-2. På området som omfattes av reglene nevnt i artikkel 1 nr. 2 bokstav g), artikkel 34 nr. 1, 2 og 3, artikkel 37 nr. 4 bokstav e) og artikkel 37 nr. 5, får den anvendelse fra 29. april 2022.
+Ikrafttredelse og anvendelse
 
-3. Artikkel 92–101 i denne forordning får anvendelse fra 29. april 2018 i stedet for artikkel 32 og 33 i forordning [(EF) nr. 882/2004](eu/32004r0882*), som oppheves ved denne forordning.
+1\. Denne forordning trer i kraft den 20. dagen etter at den er kunngjort i *Den europeiske unions tidende*.Med mindre noe annet er fastsatt i nr. 2–4, får den anvendelse fra 14. desember 2019.
 
-4. Artikkel 163 får anvendelse fra 28. april 2017.Denne forordning er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.Utferdiget i Strasbourg 15. mars 2017.
+2\. På området som omfattes av reglene nevnt i artikkel 1 nr. 2 bokstav g), artikkel 34 nr. 1, 2 og 3, artikkel 37 nr. 4 bokstav e) og artikkel 37 nr. 5, får den anvendelse fra 29. april 2022.
+
+3\. Artikkel 92–101 i denne forordning får anvendelse fra 29. april 2018 i stedet for artikkel 32 og 33 i forordning [(EF) nr. 882/2004](eu/32004r0882*), som oppheves ved denne forordning.
+
+4\. Artikkel 163 får anvendelse fra 28. april 2017.Denne forordning er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.Utferdiget i Strasbourg 15. mars 2017.
+
+|  |  |  |
+| --- | --- | --- |
+|  | *For Rådet* | *For Europaparlamentet* |
+|  |  |  |
+|  | *Formann* | *President* |
+|  |  |  |
+|  | I. BORG | A. TAJANI |
 
 ### VEDLEGG I
 TERRITORIER NEVNT I ARTIKKEL 3 NR. 40, UNNTATT I FORBINDELSE MED ANVENDELSEN AV ARTIKKEL 1 NR. 2 BOKSTAV G)
@@ -1407,28 +2153,826 @@ Gebyrer eller avgifter for offentlig kontroll på slakterier, nedskjæringsanleg
 ### VEDLEGG V
 SAMMENLIGNINGSTABELLENE NEVNT I ARTIKKEL 146 NR. 2
 
+1\. Forordning [(EF) nr. 882/2004](eu/32004r0882*)
+
+| *Forordning [(EF) nr. 882/2004](eu/32004r0882*)* | *Denne forordning* |
+| --- | --- |
+| Artikkel 1 nr. 1 første ledd | Artikkel 1 nr. 1 |
+| Artikkel 1 nr. 1 annet ledd | Artikkel 1 nr. 2 |
+| Artikkel 1 nr. 2 | Artikkel 1 nr. 4 |
+| Artikkel 1 nr. 3 | – |
+| Artikkel 1 nr. 4 | – |
+| Artikkel 2 | Artikkel 3 |
+| Artikkel 3 nr. 1 | Artikkel 9 nr. 1 |
+| Artikkel 3 nr. 2 | Artikkel 9 nr. 4 |
+| Artikkel 3 nr. 3 | Artikkel 10 |
+| Artikkel 3 nr. 4 | Artikkel 9 nr. 6 |
+| Artikkel 3 nr. 5 | Artikkel 9 nr. 6 |
+| Artikkel 3 nr. 6 | Artikkel 9 nr. 7 |
+| Artikkel 3 nr. 7 | – |
+| Artikkel 4 nr. 1 | Artikkel 4 nr. 1 |
+| Artikkel 4 nr. 2 | Artikkel 5 nr. 1 bokstav a), c), d), e), f), g) og i) |
+| Artikkel 4 nr. 3 | Artikkel 4 nr. 2 |
+| Artikkel 4 nr. 4 | Artikkel 5 nr. 1 bokstav b) |
+| Artikkel 4 nr. 5 | Artikkel 5 nr. 5 |
+| Artikkel 4 nr. 6 | Artikkel 6 nr. 1 |
+| Artikkel 4 nr. 7 | – |
+| Artikkel 5 nr. 1 første ledd | Artikkel 28 nr. 1 |
+| Artikkel 5 nr. 1 annet ledd | – |
+| Artikkel 5 nr. 1 tredje ledd | Artikkel 31 nr. 3 |
+| Artikkel 5 nr. 2 bokstav a), b), c) og f) | Artikkel 29 |
+| Artikkel 5 nr. 2 bokstav d) | – |
+| Artikkel 5 nr. 2 bokstav e) | Artikkel 32 |
+| Artikkel 5 nr. 3 | Artikkel 33 |
+| Artikkel 5 nr. 4 | – |
+| Artikkel 6 | Artikkel 5 nr. 4 |
+| Artikkel 7 nr. 1 første ledd | Artikkel 11 nr. 1 første ledd |
+| Artikkel 7 nr. 1 annet ledd bokstav a) | Artikkel 11 nr. 1 annet ledd |
+| Artikkel 7 nr. 1 annet ledd bokstav b) | – |
+| Artikkel 7 nr. 2 første punktum | Artikkel 8 nr. 1 |
+| Artikkel 7 nr. 2 annet punktum | – |
+| Artikkel 7 nr. 2 tredje punktum | – |
+| Artikkel 7 nr. 3 | Artikkel 8 nr. 3 |
+| Artikkel 8 nr. 1 | Artikkel 12 nr. 1 |
+| Artikkel 8 nr. 2 | Artikkel 5 nr. 1 bokstav h) |
+| Artikkel 8 nr. 3 bokstav a) | Artikkel 12 nr. 2 |
+| Artikkel 8 nr. 3 bokstav b) | Artikkel 12 nr. 3 |
+| Artikkel 8 nr. 4 | – |
+| Artikkel 9 nr. 1 | Artikkel 13 nr. 1 første ledd |
+| Artikkel 9 nr. 2 | Artikkel 13 nr. 1 annet ledd |
+| Artikkel 9 nr. 3 | Artikkel 13 nr. 2 |
+| Artikkel 10 | Artikkel 14 |
+| Artikkel 11 nr. 1 | Artikkel 34 nr. 1 og 2 |
+| Artikkel 11 nr. 2 | – |
+| Artikkel 11 nr. 3 | Artikkel 34 nr. 4 |
+| Artikkel 11 nr. 4 | Artikkel 34 nr. 6 |
+| Artikkel 11 nr. 5 | Artikkel 35 nr. 1 |
+| Artikkel 11 nr. 6 | Artikkel 35 nr. 2 |
+| Artikkel 11 nr. 7 | Artikkel 34 nr. 5 |
+| Artikkel 12 nr. 1 | Artikkel 37 nr. 1 |
+| Artikkel 12 nr. 2 | Artikkel 37 nr. 4 bokstav e) |
+| Artikkel 12 nr. 3 | Artikkel 37 nr. 5 bokstav c) |
+| Artikkel 12 nr. 4 | Artikkel 39 nr. 2 |
+| Artikkel 13 | Artikkel 115 |
+| Artikkel 14 nr. 1 | – |
+| Artikkel 14 nr. 2 | Artikkel 45 nr. 3 |
+| Artikkel 14 nr. 3 | – |
+| Artikkel 15 nr. 1 | Artikkel 44 nr. 1 første punktum |
+| Artikkel 15 nr. 2 | Artikkel 44 nr. 3 og 5 |
+| Artikkel 15 nr. 3 | Artikkel 44 nr. 3 og 5 |
+| Artikkel 15 nr. 4 | – |
+| Artikkel 15 nr. 5 | Artikkel 47 nr. 1 bokstav d) og nr. 2 bokstav b) og artikkel 54 nr. 4 første punktum |
+| Artikkel 16 nr. 1 | Artikkel 45 nr. 1 |
+| Artikkel 16 nr. 2 | Artikkel 44 nr. 2 |
+| Artikkel 16 nr. 3 første punktum | Artikkel 45 nr. 2 |
+| Artikkel 16 nr. 3 annet punktum | Artikkel 34 nr. 5 |
+| Artikkel 17 nr. 1 første strekpunkt | Artikkel 59 nr. 1 |
+| Artikkel 17 nr. 1 annet strekpunkt | Artikkel 56 nr. 1, nr. 3 bokstav a) og nr. 4 og artikkel 58 |
+| Artikkel 17 nr. 2 | – |
+| Artikkel 18 | Artikkel 65 nr. 1, 2 og 3 |
+| Artikkel 19 nr. 1 | Artikkel 66 nr. 1 og 3 |
+| Artikkel 19 nr. 2 bokstav a) | Artikkel 67 |
+| Artikkel 19 nr. 2 bokstav b) | Artikkel 66 nr. 6 |
+| Artikkel 19 nr. 3 | Artikkel 66 nr. 5 |
+| Artikkel 19 nr. 4 | Artikkel 7 |
+| Artikkel 20 | Artikkel 71 |
+| Artikkel 21 nr. 1 | Artikkel 72 nr. 1 |
+| Artikkel 21 nr. 2 | Artikkel 69 |
+| Artikkel 21 nr. 3 | Artikkel 66 nr. 1 |
+| Artikkel 21 nr. 4 | Artikkel 66 nr. 5 |
+| Artikkel 22 | Artikkel 66 nr. 7 siste punktum og artikkel 69 nr. 4 |
+| Artikkel 23 nr. 1 | Artikkel 73 nr. 1 |
+| Artikkel 23 nr. 2 | Artikkel 73 nr. 2 og artikkel 74 |
+| Artikkel 23 nr. 3 | Artikkel 73 nr. 3 |
+| Artikkel 23 nr. 4 | Artikkel 73 nr. 2 |
+| Artikkel 23 nr. 5 | Artikkel 73 nr. 4 bokstav a) |
+| Artikkel 23 nr. 6 | Artikkel 73 nr. 2 bokstav c) og nr. 4 bokstav b) |
+| Artikkel 23 nr. 7 | Artikkel 74 |
+| Artikkel 23 nr. 8 | Artikkel 74 |
+| Artikkel 24 nr. 1 | Artikkel 75 nr. 1 |
+| Artikkel 24 nr. 2 | Artikkel 57 |
+| Artikkel 24 nr. 3 | Artikkel 46 |
+| Artikkel 24 nr. 4 | Artikkel 76 |
+| Artikkel 25 nr. 1 | – |
+| Artikkel 25 nr. 2 bokstav a) | – |
+| Artikkel 25 nr. 2 bokstav b) | Artikkel 77 nr. 1 bokstav c) |
+| Artikkel 25 nr. 2 bokstav c) | Artikkel 77 nr. 1 bokstav f) |
+| Artikkel 25 nr. 2 bokstav d) | Artikkel 48 bokstav c) og d) og artikkel 77 nr. 1 bokstav e) og k) |
+| Artikkel 25 nr. 2 bokstav e) | – |
+| Artikkel 25 nr. 2 bokstav f) | Artikkel 70 |
+| Artikkel 25 nr.2 bokstav g) | Artikkel 77 nr. 1 bokstav h) |
+| Artikkel 25 nr. 2 bokstav h) | Artikkel 46 nr. 2 bokstav b) |
+| Artikkel 26 | Artikkel 78 nr. 1 |
+| Artikkel 27 nr. 1 | Artikkel 80 |
+| Artikkel 27 nr. 2 | Artikkel 79 |
+| Artikkel 27 nr. 3 | – |
+| Artikkel 27 nr. 4 | Artikkel 79 nr. 1 |
+| Artikkel 27 nr. 5 | – |
+| Artikkel 27 nr. 6 | – |
+| Artikkel 27 nr. 7 | – |
+| Artikkel 27 nr. 8 | Artikkel 84 nr. 2 |
+| Artikkel 27 nr. 9 | Artikkel 83 nr. 2 |
+| Artikkel 27 nr. 10 | – |
+| Artikkel 27 nr. 11 | Artikkel 84 nr. 1 |
+| Artikkel 27 nr. 12 første punktum | Artikkel 85 |
+| Artikkel 27 nr. 12 annet punktum | – |
+| Artikkel 28 | – |
+| Artikkel 29 | – |
+| Artikkel 30 nr. 1 bokstav a) | Artikkel 87 |
+| Artikkel 30 nr. 1 bokstav b) | Artikkel 90 bokstav a) |
+| Artikkel 30 nr. 1 bokstav c) | Artikkel 88 nr. 2 |
+| Artikkel 30 nr. 1 bokstav d) | Artikkel 90 bokstav b) og f) |
+| Artikkel 30 nr. 1 bokstav e) | Artikkel 90 bokstav c) |
+| Artikkel 30 nr. 1 bokstav f) | Artikkel 90 bokstav d) |
+| Artikkel 30 nr. 1 bokstav g) | Artikkel 90 bokstav e) |
+| Artikkel 30 nr. 2 bokstav a) | Artikkel 89 nr. 1 bokstav f) |
+| Artikkel 30 nr. 2 bokstav b) | Artikkel 89 nr. 1 bokstav d) |
+| Artikkel 30 nr. 3 | – |
+| Artikkel 31 | – |
+| Artikkel 32 nr. 1 bokstav a) | Artikkel 94 nr. 2 bokstav a) |
+| Artikkel 32 nr. 1 bokstav b) | Artikkel 94 nr. 2 bokstav c) |
+| Artikkel 32 nr. 1 bokstav c) | Artikkel 94 nr. 2 bokstav d) |
+| Artikkel 32 nr. 1 bokstav d) | Artikkel 94 nr. 2 bokstav e) |
+| Artikkel 32 nr. 1 bokstav e) | Artikkel 94 nr. 2 bokstav f) |
+| Artikkel 32 nr. 1 bokstav f) | Artikkel 94 nr. 2 bokstav h) |
+| Artikkel 32 nr. 2 bokstav a) | Artikkel 94 nr. 2 bokstav a), c) og d) |
+| Artikkel 32 nr. 2 bokstav b) | Artikkel 94 nr. 2 bokstav i) |
+| Artikkel 32 nr. 2 bokstav c) | Artikkel 94 nr. 2 bokstav e) |
+| Artikkel 32 nr. 2 bokstav d) | Artikkel 94 nr. 2 bokstav h) |
+| Artikkel 32 nr. 2 bokstav e) | Artikkel 94 nr. 2 bokstav e) |
+| Artikkel 32 nr. 3 | Artikkel 93 nr. 3 bokstav a) |
+| Artikkel 32 nr. 4 bokstav a) | Artikkel 93 nr. 3 bokstav c) |
+| Artikkel 32 nr. 4 bokstav b) | Artikkel 93 nr. 3 bokstav d) |
+| Artikkel 32 nr. 4 bokstav c) | Artikkel 93 nr. 3 bokstav d) |
+| Artikkel 32 nr. 4 bokstav d) | Artikkel 8 |
+| Artikkel 32 nr. 4 bokstav e) | Artikkel 93 nr. 3 bokstav e) |
+| Artikkel 32 nr. 4 bokstav f) | Artikkel 94 nr. 2 bokstav k) iii) |
+| Artikkel 32 nr. 4 bokstav g) | Artikkel 93 nr. 3 bokstav e) |
+| Artikkel 32 nr. 4 bokstav h) | Artikkel 93 nr. 3 bokstav f) |
+| Artikkel 32 nr. 5 | Artikkel 99 nr. 1 |
+| Artikkel 32 nr. 6 | Artikkel 99 nr. 2 |
+| Artikkel 32 nr. 7 | – |
+| Artikkel 32 nr. 8 første punktum | Artikkel 99 nr. 3 |
+| Artikkel 32 nr. 8 annet punktum | Artikkel 99 nr. 4 |
+| Artikkel 32 nr. 9 | – |
+| Artikkel 33 nr. 1 | Artikkel 100 nr. 1 |
+| Artikkel 33 nr. 2 | Artikkel 101 nr. 1 |
+| Artikkel 33 nr. 3 | Artikkel 100 nr. 2 |
+| Artikkel 33 nr. 4 | Artikkel 100 nr. 4 |
+| Artikkel 33 nr. 5 | Artikkel 100 nr. 5 |
+| Artikkel 33 nr. 6 | Artikkel 101 nr. 2 |
+| Artikkel 33 nr. 7 | – |
+| Artikkel 34 nr. 1 | Artikkel 102 nr. 1 |
+| Artikkel 34 nr. 2 | Artikkel 102 nr. 1 og 2 |
+| Artikkel 34 nr. 3 | Artikkel 102 nr. 3 |
+| Artikkel 35 nr. 1 | Artikkel 103 nr. 1 |
+| Artikkel 35 nr. 2 | Artikkel 103 nr. 3 |
+| Artikkel 35 nr. 3 | Artikkel 103 nr. 2 |
+| Artikkel 35 nr. 4 | – |
+| Artikkel 36 nr. 1 | Artikkel 104 nr. 1 bokstav c) |
+| Artikkel 36 nr. 2 første punktum | – |
+| Artikkel 36 nr. 2 annet punktum | Artikkel 104 nr. 2 |
+| Artikkel 36 nr. 3 første ledd | Artikkel 104 nr. 3 første punktum |
+| Artikkel 36 nr. 3 annet ledd | – |
+| Artikkel 36 nr. 3 tredje ledd første punktum | Artikkel 104 nr. 3 bokstav c) |
+| Artikkel 36 nr. 3 tredje ledd annet punktum | Artikkel 104 nr. 3 bokstav b) |
+| Artikkel 36 nr. 4 | Artikkel 104 nr. 3 bokstav a) |
+| Artikkel 37 nr. 1 | Artikkel 105 nr. 1 |
+| Artikkel 37 nr. 2 | Artikkel 105 nr. 2 |
+| Artikkel 38 nr. 1 | Artikkel 106 nr. 1 |
+| Artikkel 38 nr. 2 | Artikkel 106 nr. 2 bokstav c) |
+| Artikkel 38 nr. 3 | Artikkel 106 nr. 3 |
+| Artikkel 39 nr. 1 | Artikkel 107 nr. 1 |
+| Artikkel 39 nr. 2 | Artikkel 107 nr. 2 |
+| Artikkel 40 nr. 1 | Artikkel 108 nr. 1 |
+| Artikkel 40 nr. 2 | – |
+| Artikkel 40 nr. 3 | Artikkel 108 nr. 2 |
+| Artikkel 40 nr. 4 | – |
+| Artikkel 41 | Artikkel 109 nr. 1 |
+| Artikkel 42 nr. 1 bokstav a) | – |
+| Artikkel 42 nr. 1 bokstav b) | Artikkel 111 nr. 2 |
+| Artikkel 42 nr. 1 bokstav c) | Artikkel 111 nr. 3 |
+| Artikkel 42 nr. 2 | Artikkel 110 nr. 2 |
+| Artikkel 42 nr. 3 | Artikkel 111 nr. 2 |
+| Artikkel 43 nr. 1 første punktum | – |
+| Artikkel 43 nr. 1 annet punktum | – |
+| Artikkel 43 nr. 1 bokstav a) | – |
+| Artikkel 43 nr. 1 bokstav b) | – |
+| Artikkel 43 nr. 1 bokstav c) | – |
+| Artikkel 43 nr. 1 bokstav d)–j) | – |
+| Artikkel 43 nr. 1 bokstav k) | – |
+| Artikkel 43 nr. 2 | – |
+| Artikkel 44 nr. 1 | Artikkel 113 nr. 1 |
+| Artikkel 44 nr. 2 | – |
+| Artikkel 44 nr. 3 | Artikkel 113 nr. 1 |
+| Artikkel 44 nr. 4 første ledd første punktum | Artikkel 114 nr. 1 |
+| Artikkel 44 nr. 4 første ledd annet punktum | Artikkel 114 nr. 2 |
+| Artikkel 44 nr. 5 | – |
+| Artikkel 44 nr. 6 | Artikkel 114 nr. 1 |
+| Artikkel 45 nr. 1 | Artikkel 116 nr. 1, 2 og 4 |
+| Artikkel 45 nr. 2 | Artikkel 116 nr. 3 |
+| Artikkel 45 nr. 3 | Artikkel 117 |
+| Artikkel 45 nr. 4 | Artikkel 118 |
+| Artikkel 45 nr. 5 | Artikkel 119 |
+| Artikkel 45 nr. 6 | – |
+| Artikkel 46 nr. 1 første punktum | Artikkel 120 nr. 1 |
+| Artikkel 46 nr. 1 annet punktum | Artikkel 120 nr. 4 |
+| Artikkel 46 nr. 1 tredje punktum | Artikkel 120 nr. 2 |
+| Artikkel 46 nr. 2 | Artikkel 120 nr. 3 |
+| Artikkel 46 nr. 3 | Artikkel 121 |
+| Artikkel 46 nr. 4 | – |
+| Artikkel 46 nr. 5 | – |
+| Artikkel 46 nr. 6 | Artikkel 122 |
+| Artikkel 46 nr. 7 | Artikkel 123 |
+| Artikkel 47 nr. 1 | Artikkel 125 nr. 1 bokstav a)–e) |
+| Artikkel 47 nr. 2 | Artikkel 125 nr. 2 |
+| Artikkel 47 nr. 3 | Artikkel 125 nr. 1 bokstav f) og g) |
+| Artikkel 47 nr. 4 | – |
+| Artikkel 47 nr. 5 | – |
+| Artikkel 48 nr. 1 | Artikkel 126 nr. 1 |
+| Artikkel 48 nr. 2 | Artikkel 126 nr. 2 |
+| Artikkel 48 nr. 3 | Artikkel 127 nr. 1 og 2 |
+| Artikkel 48 nr. 4 | Artikkel 127 nr. 3 |
+| Artikkel 48 nr. 5 første punktum | Artikkel 127 nr. 3 bokstav f) |
+| Artikkel 48 nr. 5 annet og tredje punktum | – |
+| Artikkel 49 | Artikkel 129 |
+| Artikkel 50 | – |
+| Artikkel 51 nr. 1 | Artikkel 130 nr. 1 og 2 |
+| Artikkel 51 nr. 2 | Artikkel 130 nr. 3 |
+| Artikkel 51 nr. 3 | – |
+| Artikkel 52 | Artikkel 124 |
+| Artikkel 53 | Artikkel 112 |
+| Artikkel 54 nr. 1 | Artikkel 138 nr. 1 |
+| Artikkel 54 nr. 2 | Artikkel 138 nr. 2 |
+| Artikkel 54 nr. 3 | Artikkel 138 nr. 3 |
+| Artikkel 54 nr. 4 | Artikkel 105 nr. 1 |
+| Artikkel 54 nr. 5 | Artikkel 138 nr. 4 |
+| Artikkel 55 nr. 1 | Artikkel 139 nr. 1 |
+| Artikkel 55 nr. 2 | Artikkel 139 nr. 1 |
+| Artikkel 56 nr. 1 | Artikkel 141 nr. 1 |
+| Artikkel 56 nr. 2 bokstav a) | – |
+| Artikkel 56 nr. 2 bokstav b) | Artikkel 141 nr. 2 |
+| Artikkel 57–61 | – |
+| Artikkel 62 | Artikkel 145 |
+| Artikkel 63 nr. 1 | – |
+| Artikkel 63 nr. 2 | Artikkel 25 |
+| Artikkel 64 første ledd | Artikkel 142 nr. 1 |
+| Artikkel 64 nr. 1 | Artikkel 142 nr. 1 |
+| Artikkel 64 nr. 2 | Artikkel 142 nr. 2 |
+| Artikkel 65 | – |
+| Artikkel 66 | – |
+| Artikkel 67 | – |
+| Vedlegg I | Vedlegg I |
+| Vedlegg II | Vedlegg II |
+| Vedlegg III | Vedlegg III |
+| Vedlegg IV | – |
+| Vedlegg V | – |
+| Vedlegg VI | Artikkel 81 og artikkel 82 nr. 2 |
+| Vedlegg VII | – |
+| Vedlegg VIII | – |
+
+2\. Direktiv [96/23/EF](eu/31996l0023)
+
+| *Direktiv [96/23/EF](eu/31996l0023)* | *Denne forordning* |
+| --- | --- |
+| Artikkel 1 | – |
+| Artikkel 2 bokstav a) | Artikkel 19 |
+| Artikkel 2 bokstav b) | – |
+| Artikkel 2 bokstav c) | Artikkel 19 |
+| Artikkel 2 bokstav d) | Artikkel 3 nr. 3 |
+| Artikkel 2 bokstav e) | Artikkel 19 |
+| Artikkel 2 bokstav f) | Artikkel 37 nr. 1 |
+| Artikkel 2 bokstav g) | – |
+| Artikkel 2 bokstav h) | Artikkel 19 |
+| Artikkel 2 bokstav i) | – |
+| Artikkel 3 | Artikkel 9 nr. 1 og 2, artikkel 19, artikkel 109 nr. 1 og artikkel 112 |
+| Artikkel 4 nr. 1 | Artikkel 4 nr. 1 |
+| Artikkel 4 nr. 2 | Artikkel 4 nr. 2 bokstav a), artikkel 109 nr. 2 og artikkel 113 |
+| Artikkel 4 nr. 3 | – |
+| Artikkel 5 | Artikkel 111 nr. 2 og 3, artikkel 113 nr. 1 bokstav a) og artikkel 110 nr. 2 |
+| Artikkel 6 | Artikkel 19 nr. 2 bokstav a) og b) |
+| Artikkel 7 | Artikkel 110 nr. 2 |
+| Artikkel 8 nr. 1 | – |
+| Artikkel 8 nr. 2 | – |
+| Artikkel 8 nr. 3, 4 og 5 | Artikkel 11, 113 og 114 |
+| Artikkel 9 bokstav A) | – |
+| Artikkel 9 bokstav B) | – |
+| Artikkel 10 | Artikkel 15 |
+| Artikkel 11 nr. 1 og 2 | Artikkel 9 og 10 |
+| Artikkel 11 nr. 3 | Artikkel 19 nr. 2 bokstav c) og artikkel 137 og 138 |
+| Artikkel 12 første ledd | Artikkel 9 nr. 4 |
+| Artikkel 12 annet ledd | Artikkel 15 |
+| Artikkel 13 | Artikkel 19 nr. 2 bokstav c) og artikkel 137 og 138 |
+| Artikkel 14 nr. 1 | Artikkel 100 og 101 |
+| Artikkel 14 nr. 2 | Artikkel 93 |
+| Artikkel 15 nr. 1 første ledd | Artikkel 19 nr. 2 bokstav a) og b) |
+| Artikkel 15 nr. 1 annet ledd | Artikkel 34 nr. 6 |
+| Artikkel 15 nr. 1 tredje ledd | – |
+| Artikkel 15 nr. 2 første ledd | Artikkel 34 nr. 6 |
+| Artikkel 15 nr. 2 annet ledd | Artikkel 35 nr. 3 |
+| Artikkel 15 nr. 3 første, annet og tredje ledd | Artikkel 19 nr. 2 bokstav c) og artikkel 138 |
+| Artikkel 15 nr. 3 fjerde ledd | Artikkel 65–72 |
+| Artikkel 16 nr. 1 | Artikkel 105 nr. 1, artikkel 108 nr. 1 og artikkel 138 |
+| Artikkel 16 nr. 2 og 3 | Artikkel 19 nr. 2 bokstav c) og artikkel 138 |
+| Artikkel 17 | Artikkel 19 nr. 2 bokstav c) og artikkel 138 |
+| Artikkel 18 | Artikkel 19 nr. 2 bokstav c) og artikkel 138 |
+| Artikkel 19 | Artikkel 138 nr. 4 |
+| Artikkel 20 nr. 1 | Artikkel 102–108 |
+| Artikkel 20 nr. 2 første ledd | Artikkel 106 nr. 1 og 2 |
+| Artikkel 20 nr. 2 annet ledd | Artikkel 106 nr. 3 |
+| Artikkel 20 nr. 2 tredje og fjerde ledd | Artikkel 108 nr. 1 |
+| Artikkel 20 nr. 2 femte og sjette ledd | Artikkel 108 nr. 2 |
+| Artikkel 21 | Artikkel 116, 117 og 119 |
+| Artikkel 22 | Artikkel 137 |
+| Artikkel 23 | Artikkel 19 nr. 2 bokstav c) og artikkel 138 |
+| Artikkel 24 nr. 1 og 2 | Artikkel 18 nr. 2 bokstav d), artikkel 19 nr. 2 bokstav c), artikkel 137 og 138 |
+| Artikkel 24 nr. 3 | Artikkel 18 nr. 2 bokstav d), artikkel 19 nr. 2 bokstav c) og artikkel 138 |
+| Artikkel 25 | Artikkel 19 nr. 2 bokstav c) og artikkel 138 nr. 2 |
+| Artikkel 26 | Artikkel 7 |
+| Artikkel 27 | Artikkel 139 |
+| Artikkel 28 | Artikkel 139 |
+| Artikkel 29 nr. 1 og 2 | Artikkel 125, 126, 127 og 129 |
+| Artikkel 29 nr. 3 | Artikkel 47–64 |
+| Artikkel 29 nr. 4 | Artikkel 113 nr. 1 |
+| Artikkel 30 nr. 1 og 2 | Artikkel 65–72 |
+| Artikkel 30 nr. 3 | Artikkel 129 nr. 3 |
+| Artikkel 31 | Artikkel 78–85 |
+| Artikkel 33 | Artikkel 145 |
+| Artikkel 34 | Artikkel 19 nr. 2 bokstav a) og b) |
+| Artikkel 35 | – |
+| Artikkel 36 | – |
+| Artikkel 37 | – |
+| Artikkel 38 | – |
+| Artikkel 39 | – |
+| Vedlegg I | Artikkel 19 nr. 2 bokstav a) og b) |
+| Vedlegg II | Artikkel 19 nr. 2 bokstav a) og b) |
+| Vedlegg III | Artikkel 19 nr. 2 bokstav a) og b) |
+| Vedlegg IV | Artikkel 19 nr. 2 bokstav a) og b) |
+
+3\. Direktiv [89/662/EØF](eu/31989l0662*) og [90/425/EØF](eu/31990l0425)
+
+| *Direktiv [89/662/EØF](eu/31989l0662*)* | *Denne forordning* |
+| --- | --- |
+| Artikkel 1 | – |
+| Artikkel 2 nr. 1, 2 og 3 | – |
+| Artikkel 2 nr. 4 | Artikkel 3 nr. 3 |
+| Artikkel 2 nr. 5 | Artikkel 3 nr. 32 |
+| Artikkel 3 nr. 1 første og annet ledd | – |
+| Artikkel 3 nr. 1 tredje ledd | Artikkel 9 nr. 1 |
+| Artikkel 3 nr. 1 fjerde ledd | Artikkel 137 nr. 2 og 3 og artikkel 138 |
+| Artikkel 3 nr. 2 | – |
+| Artikkel 3 nr. 3 | – |
+| Artikkel 4 nr. 1 første punktum | Artikkel 9 nr. 1, artikkel 10, 137 og 138 |
+| Artikkel 4 nr. 1 første strekpunkt | Artikkel 9 nr. 6 bokstav a) |
+| Artikkel 4 nr. 1 annet strekpunkt | – |
+| Artikkel 4 nr. 2 | Artikkel 139 |
+| Artikkel 5 nr. 1 bokstav a) første ledd | Artikkel 9 |
+| Artikkel 5 nr. 1 bokstav a) annet ledd | Artikkel 137 nr. 2 og 3 |
+| Artikkel 5 nr. 1 bokstav b) | – |
+| Artikkel 5 nr. 2 | – |
+| Artikkel 5 nr. 3 bokstav a), b) og d) | – |
+| Artikkel 5 nr. 3 bokstav c) | Artikkel 9 nr. 7 |
+| Artikkel 5 nr. 4 og 5 | – |
+| Artikkel 6 nr. 1 | Artikkel 49 |
+| Artikkel 6 nr. 2 | – |
+| Artikkel 7 nr. 1 | Artikkel 102–108 og artikkel 138 |
+| Artikkel 7 nr. 2 | – |
+| Artikkel 8 nr. 1 | Artikkel 102–108 |
+| Artikkel 8 nr. 2 | Artikkel 7 og artikkel 138 nr. 3 |
+| Artikkel 8 nr. 3 | Artikkel 138 nr. 4 |
+| Artikkel 9 | – |
+| Artikkel 10 | Artikkel 4 nr. 1 |
+| Artikkel 11 | Artikkel 10, 14 og 15 |
+| Artikkel 12 | – |
+| Artikkel 13 | – |
+| Artikkel 14 | – |
+| Artikkel 15 | – |
+| Artikkel 16 nr. 1 | Artikkel 113 nr. 1 |
+| Artikkel 16 nr. 2 | – |
+| Artikkel 16 nr. 3 | Artikkel 113 nr. 2 |
+| Artikkel 17 | Artikkel 145 |
+| Artikkel 18 | Artikkel 145 |
+| Artikkel 19 | – |
+| Artikkel 20 | – |
+| Artikkel 22 | – |
+| Artikkel 23 | – |
+| Vedlegg A | – |
+| Vedlegg B | – |
+
+| *Direktiv [90/425/EØF](eu/31990l0425)* | *Denne forordning* |
+| --- | --- |
+| Artikkel 1 | – |
+| Artikkel 2 nr. 1–5 | – |
+| Artikkel 2 nr. 6 | Artikkel 3 nr. 3 |
+| Artikkel 2 nr. 7 | Artikkel 3 nr. 32 |
+| Artikkel 3 nr. 1 og 2 | – |
+| Artikkel 3 nr. 3 | Artikkel 9, artikkel 137 nr. 2 og 3 og artikkel 138 |
+| Artikkel 3 nr. 4 | – |
+| Artikkel 4 nr. 1 | Artikkel 9 |
+| Artikkel 4 nr. 2 | – |
+| Artikkel 4 nr. 3 | Artikkel 139 |
+| Artikkel 5 nr. 1 bokstav a) første ledd | Artikkel 9 |
+| Artikkel 5 nr. 1 bokstav a) annet ledd | Artikkel 137 nr. 2 og 3 |
+| Artikkel 5 nr. 1 bokstav b) i) første ledd | – |
+| Artikkel 5 nr. 1 bokstav b) i) annet ledd | Artikkel 9 |
+| Artikkel 5 nr. 1 bokstav b) ii), iii) og iv) | – |
+| Artikkel 5 nr. 2 bokstav a) første ledd | Artikkel 9 nr. 7 |
+| Artikkel 5 nr. 2 bokstav a) annet og tredje ledd | – |
+| Artikkel 5 nr. 2 bokstav b) | – |
+| Artikkel 5 nr. 3 | – |
+| Artikkel 6 | – |
+| Artikkel 7 nr. 1 | Artikkel 49 |
+| Artikkel 7 nr. 2 | – |
+| Artikkel 8 nr. 1 | Artikkel 102–108 og artikkel 138 |
+| Artikkel 8 nr. 2 | – |
+| Artikkel 9 nr. 1 | Artikkel 102–108 |
+| Artikkel 9 nr. 2 | Artikkel 7 og artikkel 138 nr. 3 |
+| Artikkel 9 nr. 3 | Artikkel 138 nr. 4 |
+| Artikkel 9 nr. 4 | – |
+| Artikkel 10 | – |
+| Artikkel 11 | Artikkel 4 nr. 1 |
+| Artikkel 12 | – |
+| Artikkel 13 | Artikkel 10, 14 og 15 |
+| Artikkel 14 | – |
+| Artikkel 15 | – |
+| Artikkel 16 | – |
+| Artikkel 17 | Artikkel 145 |
+| Artikkel 18 | Artikkel 145 |
+| Artikkel 19 | Artikkel 145 |
+| Artikkel 20 | Artikkel 131, 132, 133 og 134 |
+| Artikkel 21 | – |
+| Artikkel 22 nr. 1 | Artikkel 113 nr. 1 |
+| Artikkel 22 nr. 2 | – |
+| Artikkel 22 nr. 3 | Artikkel 113 nr. 2 |
+| Artikkel 23 | – |
+| Artikkel 24 | – |
+| Artikkel 26 | – |
+| Artikkel 27 | – |
+| Vedlegg A | – |
+| Vedlegg B | – |
+| Vedlegg C | – |
+
+4\. Direktiv [97/78/EF](eu/31997l0078) og [91/496/EØF](eu/31991l0496*)
+
+| *Direktiv [97/78/EF](eu/31997l0078)* | *Denne forordning* |
+| --- | --- |
+| Artikkel 1 | – |
+| Artikkel 2 | Artikkel 3 |
+| Artikkel 2 nr. 2 bokstav a) | Artikkel 3 nr. 19 |
+| Artikkel 2 nr. 2 bokstav b) | Artikkel 3 nr. 41 |
+| Artikkel 2 nr. 2 bokstav c) | Artikkel 3 nr. 42 |
+| Artikkel 2 nr. 2 bokstav d) | Artikkel 3 nr. 43 |
+| Artikkel 2 nr. 2 bokstav e) | – |
+| Artikkel 2 nr. 2 bokstav f) | Artikkel 3 nr. 37 |
+| Artikkel 2 nr. 2 bokstav g) | Artikkel 3 nr. 38 |
+| Artikkel 2 nr. 2 bokstav h) | – |
+| Artikkel 2 nr. 2 bokstav i) | – |
+| Artikkel 2 nr. 2 bokstav j) | – |
+| Artikkel 2 nr. 2 bokstav k) | Artikkel 3 nr. 3 |
+| Artikkel 3 nr. 1 og 2 | Artikkel 47 nr. 1 |
+| Artikkel 3 nr. 3 | Artikkel 15 og artikkel 56 nr. 1 og 3 |
+| Artikkel 3 nr. 4 | Artikkel 57 |
+| Artikkel 3 nr. 5 | Artikkel 47 nr. 2 og 3 og artikkel 58 |
+| Artikkel 4 nr. 1 | Artikkel 49 nr. 2 |
+| Artikkel 4 nr. 2 | – |
+| Artikkel 4 nr. 3 og 4 | Artikkel 49 nr. 1, 2 og 3 og artikkel 52 |
+| Artikkel 4 nr. 5 | Artikkel 52 |
+| Artikkel 5 nr. 1 | Artikkel 56 nr. 3 bokstav b) og nr. 4 |
+| Artikkel 5 nr. 2 | Artikkel 50 nr. 4 |
+| Artikkel 5 nr. 3 | Artikkel 50 nr. 2 og 3 |
+| Artikkel 5 nr. 4 | Artikkel 58 |
+| Artikkel 6 nr. 1 bokstav a) første ledd | Artikkel 64 nr. 1 |
+| Artikkel 6 nr. 1 bokstav a) annet ledd | Artikkel 64 nr. 2 |
+| Artikkel 6 nr. 1 bokstav b) | – |
+| Artikkel 6 nr. 2 | Artikkel 59 og 62 |
+| Artikkel 6 nr. 3 | Artikkel 63 |
+| Artikkel 6 nr. 4 | Artikkel 60 nr. 1 og artikkel 63 nr. 3 |
+| Artikkel 6 nr. 5 | – |
+| Artikkel 6 nr. 6 | Artikkel 60 nr. 2, artikkel 62 nr. 3, artikkel 63 nr. 5 og artikkel 64 nr. 2 og 4 |
+| Artikkel 7 nr. 1 | Artikkel 50 nr. 1 |
+| Artikkel 7 nr. 2 | Artikkel 49 nr. 1, 2 og 3 og artikkel 52 |
+| Artikkel 7 nr. 3 | Artikkel 57 |
+| Artikkel 7 nr. 4 | Artikkel 50 nr. 2, artikkel 55 og artikkel 56 nr. 4 |
+| Artikkel 7 nr. 5 | – |
+| Artikkel 7 nr. 6 | Artikkel 52 og 58 |
+| Artikkel 8 nr. 1 | – |
+| Artikkel 8 nr. 2 | Artikkel 77 nr. 1 bokstav b) |
+| Artikkel 8 nr. 3, 4, 5, 6 og 7 | Artikkel 77 nr. 2 |
+| Artikkel 9 | Artikkel 51 nr. 1 bokstav b) og c) |
+| Artikkel 10 nr. 1, 2 og 4 | Artikkel 54 nr. 2 |
+| Artikkel 10 nr. 3 | – |
+| Artikkel 11 | Artikkel 51 nr. 1 bokstav d) |
+| Artikkel 12 | Artikkel 48 bokstav h) og artikkel 77 nr. 1 bokstav k) |
+| Artikkel 13 | Artikkel 77 nr. 1 bokstav c) |
+| Artikkel 14 | – |
+| Artikkel 15 | Artikkel 77 nr. 1 bokstav h) |
+| Artikkel 16 nr. 1 bokstav a) | Artikkel 48 bokstav d) |
+| Artikkel 16 nr. 1 bokstav b) | Artikkel 48 bokstav e) |
+| Artikkel 16 nr. 1 bokstav c) | Artikkel 48 bokstav c) |
+| Artikkel 16 nr. 1 bokstav d) | Artikkel 48 bokstav g) |
+| Artikkel 16 nr. 1 bokstav e) | Artikkel 48 bokstav a) |
+| Artikkel 16 nr. 1 bokstav f) | Artikkel 48 bokstav b) |
+| Artikkel 16 nr. 2 | – |
+| Artikkel 16 nr. 3 | – |
+| Artikkel 16 nr. 4 | Artikkel 77 nr. 1 bokstav c) og f) |
+| Artikkel 17 nr. 1 | Artikkel 66 nr. 3 |
+| Artikkel 17 nr. 2 | Artikkel 66 nr. 1, 2 og 3 |
+| Artikkel 17 nr. 2 bokstav a) | Artikkel 66 nr. 3 bokstav b) og artikkel 69 og 72 |
+| Artikkel 17 nr. 2 bokstav a) første strekpunkt | – |
+| Artikkel 17 nr. 2 bokstav a) annet strekpunkt | Artikkel 68 nr. 1 bokstav a) |
+| Artikkel 17 nr. 2 bokstav b) | Artikkel 69 |
+| Artikkel 17 nr. 3 | Artikkel 65 nr. 4, 5 og 6 |
+| Artikkel 17 nr. 4 | – |
+| Artikkel 17 nr. 5 | Artikkel 66 nr. 7 og artikkel 69 nr. 4 |
+| Artikkel 17 nr. 6 | – |
+| Artikkel 17 nr. 7 | Artikkel 65 nr. 6, artikkel 70 og artikkel 71 nr. 3 |
+| Artikkel 18 | Artikkel 64 nr. 2 |
+| Artikkel 19 nr. 1 | Artikkel 77 nr. 1 bokstav g) |
+| Artikkel 19 nr. 2 | Artikkel 77 nr. 1 bokstav a) |
+| Artikkel 19 nr. 3 | Artikkel 64 nr. 3 bokstav a) og nr. 4 |
+| Artikkel 20 nr. 1 | Artikkel 65 |
+| Artikkel 20 nr. 2 | – |
+| Artikkel 22 nr. 1 | – |
+| Artikkel 22 nr. 2 | Artikkel 67 |
+| Artikkel 22 nr. 3 | – |
+| Artikkel 22 nr. 4 | – |
+| Artikkel 22 nr. 5 | – |
+| Artikkel 22 nr. 6 | – |
+| Artikkel 22 nr. 7 | – |
+| Artikkel 24 | Artikkel 65 nr. 4, 5 og 6 |
+| Artikkel 24 nr. 3 | Artikkel 73 og 129 |
+| Artikkel 25 nr. 1 | Artikkel 102–108 |
+| Artikkel 25 nr. 2 | Artikkel 7 |
+| Artikkel 25 nr. 3 | – |
+| Artikkel 26 | Artikkel 130 nr. 5 og 6 |
+| Artikkel 27 | Artikkel 5 nr. 4 og artikkel 130 nr. 1 og 6 |
+| Artikkel 28 | – |
+| Artikkel 29 | – |
+| Artikkel 30 | – |
+| Artikkel 31 | – |
+| Artikkel 32 | – |
+| Artikkel 33 | – |
+| Artikkel 34 | – |
+| Artikkel 35 | – |
+| Artikkel 36 | – |
+| Vedlegg I | Vedlegg I |
+| Vedlegg II | Artikkel 64 |
+| Vedlegg III | Artikkel 52 |
+
+| *Direktiv [91/496/EØF](eu/31991l0496*)* | *Denne forordning* |
+| --- | --- |
+| Artikkel 1 | – |
+| Artikkel 2 nr. 1 | – |
+| Artikkel 2 nr. 2 bokstav a) | Artikkel 3 nr. 41 |
+| Artikkel 2 nr. 2 bokstav b) | Artikkel 3 nr. 42 |
+| Artikkel 2 nr. 2 bokstav c) | Artikkel 3 nr. 43 |
+| Artikkel 2 nr. 2 bokstav d) | – |
+| Artikkel 2 nr. 2 bokstav e) | Artikkel 3 nr. 37 |
+| Artikkel 2 nr. 2 bokstav f) | Artikkel 3 nr. 38 |
+| Artikkel 3 nr. 1 bokstav a) | Artikkel 56 nr. 1 og nr. 3 bokstav a) og artikkel 58 bokstav b) |
+| Artikkel 3 nr. 1 bokstav b) | Artikkel 47 nr. 1 og artikkel 66 nr. 2 |
+| Artikkel 3 nr. 1 bokstav c) i) | Artikkel 56 nr. 3 bokstav b) og nr. 5 og artikkel 57 |
+| Artikkel 3 nr. 1 bokstav c) ii) | Artikkel 79 nr. 1 |
+| Artikkel 3 nr. 1 bokstav d) | Artikkel 57 |
+| Artikkel 3 nr. 2 | – |
+| Artikkel 4 nr. 1 | Artikkel 49 nr. 1 og artikkel 52 |
+| Artikkel 4 nr. 2 | Artikkel 49 nr. 1, 2 og 3 og artikkel 52 |
+| Artikkel 4 nr. 3 | Artikkel 51 nr. 1 bokstav c) |
+| Artikkel 4 nr. 4 | Artikkel 79 nr. 1 |
+| Artikkel 4 nr. 5 | Artikkel 5 nr. 4, artikkel 51 nr. 1 bokstav c) og artikkel 52 |
+| Artikkel 5 | Artikkel 55, artikkel 56 nr. 3 bokstav b) og nr. 5, artikkel 57, artikkel 58 bokstav a) og artikkel 66 nr. 1 |
+| Artikkel 6 nr. 1 | – |
+| Artikkel 6 nr. 2 bokstav a) | Artikkel 64 nr. 1 og 2 |
+| Artikkel 6 nr. 2 bokstav b) | Artikkel 64 nr. 1 |
+| Artikkel 6 nr. 2 bokstav c) | Artikkel 59 |
+| Artikkel 6 nr. 2 bokstav d) | Artikkel 64 nr. 3 bokstav a) og nr. 4 |
+| Artikkel 6 nr. 3 | Artikkel 60 |
+| Artikkel 6 nr. 3 bokstav a) | Artikkel 60 nr. 1 bokstav c) |
+| Artikkel 6 nr. 3 bokstav b) | Artikkel 60 nr. 1 bokstav c) |
+| Artikkel 6 nr. 3 bokstav c) | Artikkel 59 nr. 2 og artikkel 64 nr. 3 |
+| Artikkel 6 nr. 3 bokstav d) | – |
+| Artikkel 6 nr. 3 bokstav e) | Artikkel 59 nr. 2 og artikkel 64 nr. 3 |
+| Artikkel 6 nr. 3 bokstav f) | Artikkel 59 nr. 2 og artikkel 64 nr. 3 |
+| Artikkel 6 nr. 3 bokstav g) | – |
+| Artikkel 6 nr. 4 | Artikkel 59 og artikkel 60 nr. 1 |
+| Artikkel 6 nr. 5 | Artikkel 60 nr. 2 |
+| Artikkel 7 nr. 1 første strekpunkt | Artikkel 50 nr. 2 |
+| Artikkel 7 nr. 1 annet strekpunkt | Artikkel 56 nr. 3 bokstav b) og nr. 5 og artikkel 58 |
+| Artikkel 7 nr. 1 tredje strekpunkt | Artikkel 50 nr. 1 |
+| Artikkel 7 nr. 2 | Artikkel 58 |
+| Artikkel 7 nr. 3 | – |
+| Artikkel 8 | Artikkel 53 nr. 1 bokstav b) |
+| Artikkel 9 | Artikkel 51 nr. 1 bokstav d) |
+| Artikkel 10 | Artikkel 66 nr. 2 |
+| Artikkel 11 nr. 1 | Artikkel 65 |
+| Artikkel 11 nr. 2 | – |
+| Artikkel 12 nr. 1 | Artikkel 66, 68 og 69 |
+| Artikkel 12 nr. 2 | Artikkel 66 nr. 3 og artikkel 9 |
+| Artikkel 12 nr. 3 | Artikkel 70, artikkel 71 nr. 3 og artikkel 72 nr. 3 |
+| Artikkel 12 nr. 4 | – |
+| Artikkel 12 nr. 5 | – |
+| Artikkel 13 | Artikkel 64 nr. 2 |
+| Artikkel 14 | – |
+| Artikkel 15 | Artikkel 79 nr. 1 |
+| Artikkel 16 | Artikkel 54 |
+| Artikkel 17 | Artikkel 7 |
+| Artikkel 17a | – |
+| Artikkel 18 nr. 1 | – |
+| Artikkel 18 nr. 2 | Artikkel 67 |
+| Artikkel 18 nr. 3 | – |
+| Artikkel 18 nr. 4 | – |
+| Artikkel 18 nr. 5 | – |
+| Artikkel 18 nr. 6 | – |
+| Artikkel 18 nr. 7 | – |
+| Artikkel 18 nr. 8 | – |
+| Artikkel 19 | Artikkel 116 og 117 |
+| Artikkel 20 | Artikkel 102–108 |
+| Artikkel 21 | Artikkel 130 nr. 5 og 6 |
+| Artikkel 22 | – |
+| Artikkel 23 | – |
+| Artikkel 24 | – |
+| Artikkel 25 | – |
+| Artikkel 26 | – |
+| Artikkel 27 | – |
+| Artikkel 28 | – |
+| Artikkel 29 | – |
+| Artikkel 30 | – |
+| Artikkel 31 | – |
+| Vedlegg A | Artikkel 64 |
+| Vedlegg B | Artikkel 66 nr. 2 |
+
+5\. Direktiv [96/93/EF](eu/31996l0093)
+
+| *Direktiv [96/93/EF](eu/31996l0093)* | *Denne forordning* |
+| --- | --- |
+| Artikkel 1 | – |
+| Artikkel 2 nr. 1 første ledd | – |
+| Artikkel 2 nr. 1 annet ledd | Artikkel 3 nr. 26 |
+| Artikkel 2 nr. 2 | Artikkel 3 |
+| Artikkel 3 nr. 1 | Artikkel 88 nr. 2 bokstav b) |
+| Artikkel 3 nr. 2 | Artikkel 88 nr. 3 bokstav a) og b) |
+| Artikkel 3 nr. 3 | Artikkel 89 nr. 1 bokstav b) |
+| Artikkel 3 nr. 4 | Artikkel 88 nr. 3 bokstav b) |
+| Artikkel 3 nr. 5 | Artikkel 90 |
+| Artikkel 4 nr. 1 | Artikkel 88 nr. 2 bokstav a) og artikkel 89 nr. 2 |
+| Artikkel 4 nr. 2 | Artikkel 89 nr. 1 bokstav c) |
+| Artikkel 4 nr. 3 | Artikkel 89 nr. 1 bokstav e) |
+| Artikkel 5 | Artikkel 89 nr. 2 |
+| Artikkel 6 | Artikkel 129 |
+| Artikkel 7 | Artikkel 145 |
+| Artikkel 8 | – |
+| Artikkel 9 | – |
+| Artikkel 10 | – |
+
+6\. Direktiv [89/608/EØF](eu/31989l0608)
+
+| *Direktiv [89/608/EØF](eu/31989l0608)* | *Denne forordning* |
+| --- | --- |
+| Artikkel 1 | – |
+| Artikkel 2 | – |
+| Artikkel 3 | Artikkel 102–108 |
+| Artikkel 4 | Artikkel 102–108 |
+| Artikkel 5 | Artikkel 102–108 |
+| Artikkel 6 | Artikkel 102–108 |
+| Artikkel 7 | Artikkel 102–108 |
+| Artikkel 8 | Artikkel 102–108 |
+| Artikkel 9 | Artikkel 102–108 |
+| Artikkel 10 | Artikkel 8 og artikkel 102–108 |
+| Artikkel 11 | – |
+| Artikkel 12 | Artikkel 102–108 |
+| Artikkel 13 | – |
+| Artikkel 14 | – |
+| Artikkel 15 | Artikkel 8 og artikkel 102–108 |
+| Artikkel 16 | – |
+| Artikkel 17 | – |
+| Artikkel 18 | – |
+| Artikkel 19 | – |
+| Artikkel 20 | – |
+
+7\. Vedtak [92/438/EØF](eu/31992d0438)
+
+| *Vedtak [92/438/EØF](eu/31992d0438)* | *Denne forordning* |
+| --- | --- |
+| Artikkel 1 | Artikkel 131–136 |
+| Artikkel 2 | – |
+| Artikkel 3 | Artikkel 131–136 |
+| Artikkel 4 | Artikkel 131–136 |
+| Artikkel 5 | Artikkel 131–136 |
+| Artikkel 6 | Artikkel 64 nr. 3 bokstav f) |
+| Artikkel 7 | – |
+| Artikkel 8 | – |
+| Artikkel 9 | – |
+| Artikkel 10 | – |
+| Artikkel 11 | – |
+| Artikkel 12 | – |
+| Artikkel 13 | – |
+| Artikkel 14 | – |
+| Artikkel 15 | – |
+| Vedlegg I | Artikkel 131–136 |
+| Vedlegg II | Artikkel 131–136 |
+| Vedlegg III | Artikkel 131–136 |
+
+8\. Forordning [(EF) nr. 854/2004](eu/32004r0854*)
+
+| *Forordning [(EF) nr. 854/2004](eu/32004r0854*)* | *Denne forordning* |
+| --- | --- |
+| Artikkel 1 nr. 1 | Artikkel 1 nr. 2 bokstav a) |
+| Artikkel 1 nr. 1a | – |
+| Artikkel 1 nr. 2 | – |
+| Artikkel 1 nr. 3 | – |
+| Artikkel 2 nr. 1 bokstav c) | Artikkel 3 nr. 3 |
+| Artikkel 2 nr. 1 bokstav f) | Artikkel 3 nr. 32 |
+| Artikkel 2 nr. 1 bokstav g) | – |
+| Artikkel 2 nr. 1 bokstav h) | Artikkel 3 nr. 49 |
+| Artikkel 2 nr. 1 bokstav i) | – |
+| Artikkel 2 nr. 2 | – |
+| Artikkel 3 | Artikkel 148 |
+| Artikkel 4 nr. 1 | Artikkel 15 nr. 1 og 2 |
+| Artikkel 4 nr. 2 | Artikkel 18 nr. 1 |
+| Artikkel 4 nr. 3 | Artikkel 18 |
+| Artikkel 4 nr. 4 | Artikkel 18 nr. 2 bokstav d) og nr. 8 bokstav a) |
+| Artikkel 4 nr. 5 | Artikkel 18 nr. 2 bokstav d) og nr. 8 bokstav a) |
+| Artikkel 4 nr. 6 | – |
+| Artikkel 4 nr. 7 | Artikkel 17 bokstav a) og b) og artikkel 18 nr. 2 bokstav d) og nr. 5 |
+| Artikkel 4 nr. 8 | Artikkel 9 nr. 1 og artikkel 18 nr. 8 bokstav a) |
+| Artikkel 4 nr. 9 | Artikkel 9 nr. 1 og artikkel 18 nr. 8 bokstav a) |
+| Artikkel 5 nr. 1 | Artikkel 17, artikkel 18 nr. 1 og 2, artikkel 18 nr. 7 bokstav a) og b) og artikkel 18 nr. 8 bokstav a) og d) |
+| Artikkel 5 nr. 2 | Artikkel 17 bokstav a) og b) og artikkel 18 nr. 4 og 5 og nr. 8 bokstav e) |
+| Artikkel 5 nr. 3 | Artikkel 18 nr. 8 bokstav c) og artikkel 138 |
+| Artikkel 5 nr. 4 | Artikkel 17 bokstav a) og b) og artikkel 18 nr. 5, nr. 7 bokstav a), b), e) og j) og nr. 8 bokstav a) og d) |
+| Artikkel 5 nr. 5 | Artikkel 5 nr. 1 bokstav e), g) og h) |
+| Artikkel 5 nr. 6 | Artikkel 18 nr. 3 og 4 og nr. 7 bokstav k) |
+| Artikkel 5 nr. 7 | Artikkel 18 nr. 7 bokstav j) |
+| Artikkel 6 | Artikkel 18 nr. 6, nr. 7 bokstav g) og nr. 8 bokstav b) |
+| Artikkel 7 | Artikkel 18 nr. 8 bokstav a) |
+| Artikkel 8 | Artikkel 18 nr. 8 bokstav a) |
+| Artikkel 10 | – |
+| Artikkel 11 | Artikkel 126 og 127 |
+| Artikkel 12 | Artikkel 126 |
+| Artikkel 13 | Artikkel 126 og 127 |
+| Artikkel 14 | Artikkel 126 |
+| Artikkel 15 nr. 1 | Artikkel 18 nr. 1 og nr. 8 bokstav a) |
+| Artikkel 15 nr. 2 | Artikkel 126 |
+| Artikkel 15 nr. 3 | Artikkel 18 nr. 8 bokstav a) |
+| Artikkel 15 nr. 4 | Artikkel 18 nr. 8 bokstav a) |
+| Artikkel 16 første ledd | Artikkel 18 nr. 7 |
+| Artikkel 16 annet ledd | Artikkel 18 nr. 8 |
+| Artikkel 17 nr. 1 | Artikkel 18 nr. 7 og 8 |
+| Artikkel 17 nr. 2 | Artikkel 18 nr. 7 |
+| Artikkel 17 nr. 3–7, med unntak av tilfellene nevnt i nr. 4 bokstav a) iii) | – |
+| Artikkel 17 nr. 3–8 gjelder for tilfellene nevnt i nr. 4 bokstav a) iii) | Artikkel 18 nr. 9 |
+| Artikkel 18 | Artikkel 18 nr. 7 og 8 |
+| Artikkel 19 | Artikkel 145 |
+| Artikkel 20 | – |
+| Artikkel 21 nr. 1 | Artikkel 114 |
+| Artikkel 22 | Artikkel 167 |
+| Vedlegg I | Artikkel 17, artikkel 18 nr. 1–4, nr. 7 bokstav a), b), c), d), f), k) og j), nr. 8 bokstav a), c), d) og e) |
+| Vedlegg II | Artikkel 18 nr. 1 og 6, nr. 7 bokstav g), nr. 8 bokstav a) og b) |
+| Vedlegg III | Artikkel 18 nr. 1 og nr. 8 bokstav a) |
+| Vedlegg IV | Artikkel 18 nr. 1 og nr. 8 bokstav a) og f) |
+| Vedlegg V | Artikkel 126 |
+| Vedlegg VI | Artikkel 126 |
+
 ### Forordning [(EU) 2024/2463](eu/32024r2463)
 
 > Tilføyd ved forskrift [18 juni 2025 nr. 1071](forskrift/2025-06-18-1071).
 
 Nedenfor gjengis til informasjon [EØS-avtalen vedlegg II kapittel XII](avtale/avt-1992-05-02-1-v2/kapXII) nr. 54zzzja (forordning [(EU) 2024/2463](eu/32024r2463)) med endringer og tillegg som følger av EØS-tilpasningen av rettsakten i [vedlegg I](avtale/avt-1992-05-02-1-v1) og [II](avtale/avt-1992-05-02-1-v2) til EØS-avtalen.
 
+►**B** Kommisjonens gjennomføringsforordning [(EU) 2024/2463](eu/32024r2463) av 12. september 2024
+
 ### KOMMISJONENS GJENNOMFØRINGSFORORDNING [(EU) 2024/2463](eu/32024r2463)
 av 12. september 2024
 om fastsettelse av analysemetoder for offentlig kontroll som gjennomføres for å verifisere at driftsansvarlige for næringsmiddelforetak overholder forordning [(EF) nr. 2073/2005](eu/32005r2073)
+
+EUROPAKOMMISJONEN HAR
+
+under henvisning til [traktaten om Den europeiske unions virkemåte](eu/12016e),
+
+under henvisning til europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) av 15. mars 2017 om offentlig kontroll og annen offentlig virksomhet som gjennomføres for å sikre anvendelsen av næringsmiddel- og fôrvareregelverket samt regler for dyrs helse og velferd, plantehelse og plantevernmidler, om endring av europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999), [(EF) nr. 396/2005](eu/32005r0396), [(EF) nr. 1069/2009](eu/32009r1069), [(EF) nr. 1107/2009](eu/32009r1107), [(EU) nr. 1151/2012](eu/32012r1151), [(EU) nr. 652/2014](eu/32014r0652), [(EU) 2016/429](eu/32016r0429) og [(EU) 2016/2031](eu/32016r2031), rådsforordning (EF) nr. 1/2005 og [(EF) nr. 1099/2009](eu/32009r1099) samt rådsdirektiv [98/58/EF](eu/31998l0058), [1999/74/EF](eu/31999l0074), [2007/43/EF](eu/32007l0043), [2008/119/EF](eu/32008d0119) og [2008/120/EF](eu/32008r0120) og om oppheving av europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854) og [(EF) nr. 882/2004](eu/32004r0882), rådsdirektiv [89/608/EØF](eu/31989l0608), [89/662/EØF](eu/31989l0662), [90/425/EØF](eu/31990l0425), [91/496/EØF](eu/31991l0496), [96/23/EF](eu/31996l0023), [96/93/EF](eu/31996l0093) og [97/78/EF](eu/31997l0078) og rådsvedtak [92/438/EØF](eu/31992d0438) (forordningen om offentlig kontroll)1, særlig artikkel 34 nr. 6 første ledd bokstav a),
+
+og ut fra følgende betraktninger:
 
 1. I forordning [(EU) 2017/625](eu/32017r0625) er det fastsatt regler for gjennomføring av offentlig kontroll og annen offentlig virksomhet som vedkommende myndigheter i medlemsstatene gjennomfører for å verifisere at Unionens regelverk overholdes, blant annet på området næringsmiddeltrygghet i alle ledd i produksjon, bearbeiding og distribusjon. I henhold til artikkel 37 i nevnte forordning skal vedkommende myndigheter utpeke offisielle laboratorier til å utføre laboratorieanalyser, -undersøkelser og -diagnostisering i forbindelse med prøver som er tatt ved offentlig kontroll og annen offentlig virksomhet.
 2. Kommisjonsforordning [(EF) nr. 2073/2005](eu/32005r2073)2 fastsetter mikrobiologiske kriterier for visse mikroorganismer samt de gjennomføringsreglene som driftsansvarlige for næringsmiddelforetak skal overholde når det gjelder de allmenne og særlige hygienekravene nevnt i artikkel 4 i europaparlaments- og rådsforordning [(EF) nr. 852/2004](eu/32004r0852)3. Medlemsstatenes vedkommende myndigheter verifiserer at driftsansvarlige for næringsmiddelforetak overholder reglene og kriteriene fastsatt i forordning [(EF) nr. 2073/2005](eu/32005r2073), blant annet ved å ta prøver under offentlige kontroller og annen offentlig virksomhet («offisielle prøver») i lokalene til den driftsansvarlige for næringsmiddelforetak og sende dem til utpekte offisielle laboratorier for analyse.
 3. Det er ingen EU-regler for de spesifikke metodene for laboratorieanalyser som skal brukes ved offentlig kontroller som gjennomføres for å verifisere at reglene og kriteriene fastsatt i forordning [(EF) nr. 2073/2005](eu/32005r2073), overholdes. Dette kan være skadelig for kvaliteten på offentlige kontroller av næringsmidler som bringes i omsetning, og skape konkurransevridning. For å sikre større ensartethet, pålitelighet og konsekvens i de offentlige kontrollene bør det derfor fastsettes EU-krav til de analysemetodene som skal brukes av offisielle laboratorier når de analyserer offisielle prøver mot kriteriene fastsatt i forordning [(EF) nr. 2073/2005](eu/32005r2073).
 4. Tiltakene fastsatt i denne forordningen er i samsvar med uttalelse fra Den faste komité for planter, dyr, næringsmidler og fôr.
 
+1 EUT L 95 av 7.4.2017, s. 1, ELI: http://data.europa.eu/eli/reg/2017/625/oj.
+
+2 Kommisjonsforordning [(EF) nr. 2073/2005](eu/32005r2073) av 15. november 2005 om mikrobiologiske kriterier for næringsmidler (EUT L 338 av 22.12.2005, s. 1, ELI: http://data.europa.eu/eli/reg/2005/2073/oj).
+
+3 Europaparlaments- og rådsforordning [(EF) nr. 852/2004](eu/32004r0852) av 29. april 2004 om næringsmiddelhygiene (EUT L 139 av 30.4.2004, s. 1, ELI: http://data.europa.eu/eli/reg/2004/852/oj).
+
+VEDTATT DENNE FORORDNINGEN:
+
 ### Artikkel 1
 
-1. Offisielle laboratorier som er utpekt av vedkommende myndigheter i samsvar med artikkel 37 i forordning [(EU) 2017/625](eu/32017r0625), skal bruke de referansemetodene for analyse som er nevnt i vedlegg I til forordning [(EF) nr. 2073/2005](eu/32005r2073), når de analyserer prøver som er tatt under offentlig kontroller som er gjennomført for å verifisere at reglene og kriteriene fastsatt i forordning [(EF) nr. 2073/2005](eu/32005r2073), overholdes.
+1\. Offisielle laboratorier som er utpekt av vedkommende myndigheter i samsvar med artikkel 37 i forordning [(EU) 2017/625](eu/32017r0625), skal bruke de referansemetodene for analyse som er nevnt i vedlegg I til forordning [(EF) nr. 2073/2005](eu/32005r2073), når de analyserer prøver som er tatt under offentlig kontroller som er gjennomført for å verifisere at reglene og kriteriene fastsatt i forordning [(EF) nr. 2073/2005](eu/32005r2073), overholdes.
 
-2. Som unntak fra nr. 1 kan vedkommende myndigheter gi utpekte offisielle laboratorier tillatelse til å bruke alternative analysemetoder, herunder opphavsrettslige beskyttede metoder, forutsatt at disse alternative analysemetodene er validert mot de referansemetodene for analyse som er nevnt i vedlegg I til forordning [(EF) nr. 2073/2005](eu/32005r2073) i samsvar med protokollen fastsatt i standarden EN ISO 16140-2, og er validert enten for den næringsmiddelkategorien som er angitt i det relevante mikrobiologiske kriteriet fastsatt i vedlegg I til forordning [(EF) nr. 2073/2005](eu/32005r2073), eller for en lang rekke næringsmidler nevnt i standarden EN ISO 16140-2. Vedkommende myndigheter kan også gi utpekte offisielle laboratorier tillatelse til å bruke alternative analysemetoder dersom disse alternative analysemetodene er validert i samsvar med andre internasjonalt anerkjente vitenskapelige protokoller.
+2\. Som unntak fra nr. 1 kan vedkommende myndigheter gi utpekte offisielle laboratorier tillatelse til å bruke alternative analysemetoder, herunder opphavsrettslige beskyttede metoder, forutsatt at disse alternative analysemetodene er validert mot de referansemetodene for analyse som er nevnt i vedlegg I til forordning [(EF) nr. 2073/2005](eu/32005r2073) i samsvar med protokollen fastsatt i standarden EN ISO 16140-2, og er validert enten for den næringsmiddelkategorien som er angitt i det relevante mikrobiologiske kriteriet fastsatt i vedlegg I til forordning [(EF) nr. 2073/2005](eu/32005r2073), eller for en lang rekke næringsmidler nevnt i standarden EN ISO 16140-2. Vedkommende myndigheter kan også gi utpekte offisielle laboratorier tillatelse til å bruke alternative analysemetoder dersom disse alternative analysemetodene er validert i samsvar med andre internasjonalt anerkjente vitenskapelige protokoller.
 
-3. Når alternative metoder nevnt i nr. 2 er opphavsrettslige beskyttede metoder, skal de sertifiseres av et uavhengig sertifiseringsorgan. Sertifiseringen skal inneholde et sammendrag av eller en henvisning til resultatene av valideringen av den opphavsrettslig beskyttede metoden og en erklæring om kvalitetsstyringen av metodens produksjonsprosess. Sertifiseringen skal vise at produsentens sikring av produksjonsprosessen er evaluert, og at den tas opp til ny vurdering gjennom fornyelsesprosedyrer minst hvert femte år.
+3\. Når alternative metoder nevnt i nr. 2 er opphavsrettslige beskyttede metoder, skal de sertifiseres av et uavhengig sertifiseringsorgan. Sertifiseringen skal inneholde et sammendrag av eller en henvisning til resultatene av valideringen av den opphavsrettslig beskyttede metoden og en erklæring om kvalitetsstyringen av metodens produksjonsprosess. Sertifiseringen skal vise at produsentens sikring av produksjonsprosessen er evaluert, og at den tas opp til ny vurdering gjennom fornyelsesprosedyrer minst hvert femte år.
 
 ### Artikkel 2
 
@@ -1436,4 +2980,6 @@ Denne forordningen trer i kraft den 20. dagen etter at den er kunngjort i *Den e
 
 Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.
 
-Utferdiget i Brussel 12. september 2024.
+4 Ikrafttredelse for EFTA-statene vil skje i henhold til EØS-komiteens beslutning [nr. 124/2025](eu/22025d0124) av 13. juni 2025.Utferdiget i Brussel 12. september 2024.*For Kommisjonen*
+Ursula VON DER LEYEN
+*President*

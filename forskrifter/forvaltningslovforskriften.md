@@ -15,7 +15,7 @@ xml_hash: "bcac7efd3eaa82ee0046938a6c3ceb827de04de6832b9df8d60ee1a51a32d6cd"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-10T17:52:49.841668+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -346,7 +346,9 @@ Justis- og beredskapsdepartementet kan vedta endringer i denne forskriften i sam
 
 Fra den tid forskriften trer i kraft, gjøres følgende endringer i andre forskrifter:
 
-1\. I [forskrift 28. juni 1985 nr. 1679](forskrift/1985-06-28-1679) om ordningen av påtalemyndigheten (Påtaleinstruksen) skal [§ 3-5](forskrift/1985-06-28-1679/§3-5) første ledd annet punktum lyde: – – –2. I [forskrift 25. januar 1988 nr. 111](forskrift/1988-01-25-111) om forskottserstatning ved skade på fiskeredskaper forårsaket av utenlandske tråler eller marinefartøy fra Nato land skal [§ 7](forskrift/1988-01-25-111/§7) lyde: – – –
+1\. I [forskrift 28. juni 1985 nr. 1679](forskrift/1985-06-28-1679) om ordningen av påtalemyndigheten (Påtaleinstruksen) skal [§ 3-5](forskrift/1985-06-28-1679/§3-5) første ledd annet punktum lyde: – – –
+
+2\. I [forskrift 25. januar 1988 nr. 111](forskrift/1988-01-25-111) om forskottserstatning ved skade på fiskeredskaper forårsaket av utenlandske tråler eller marinefartøy fra Nato land skal [§ 7](forskrift/1988-01-25-111/§7) lyde: – – –
 
 ### § 49. Opphevelse av eldre forskrifter
 

@@ -15,7 +15,7 @@ xml_hash: "df695c2392923a7134a4574acbff59e6f6024520c5cedc51c52e82469c96e422"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-05-08T05:54:50.775222+00:00"
+retrieved_at: "2026-07-10T17:52:49.841668+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -641,7 +641,11 @@ For å gjøre det lett å finne frem til ordlyden i de forordningene som er gjen
 
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EF) nr. 1935/2004](eu/32004r1935) som endret ved forordning [(EU) 2019/1381](eu/32019r1381) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakter i samsvar med vedlegg II kapittel XII nr. 54zzt.
 
-►**B** Europaparlaments- og rådsforordning (EF) nr. 1935/2004 av 27. oktober 2004som endret ved:►**M1** Europaparlaments- og rådsforordning (EU) 2019/1381 av 20. juni 2019
+►**B** Europaparlaments- og rådsforordning (EF) nr. 1935/2004 av 27. oktober 2004
+
+som endret ved:
+
+►**M1** Europaparlaments- og rådsforordning (EU) 2019/1381 av 20. juni 2019
 
 ### EUROPAPARLAMENTS- OG RÅDSFORORDNING [(EF) nr. 1935/2004](eu/32004r1935)
 av 27. oktober 2004
@@ -1180,7 +1184,9 @@ Sammenligningstabell
 
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EF) nr. 2023/2006](eu/32006r2023). Dette er grunnrettsakten. Grunnrettsakten er endret av forordning [(EF) nr. 282/2008](eu/32008r0282) og forordning [(EU) 2025/351](eu/32025r0351). Alle endringer av grunnrettsakten og de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med [vedlegg II kapittel XII](avtale/avt-1992-05-02-1-v2/kapXII) nr. 54zzzb er innarbeidet nedenfor.
 
-► **B** Forordning [(EF) nr. 2023/2006](eu/32006r2023)som endret ved
+► **B** Forordning [(EF) nr. 2023/2006](eu/32006r2023)
+
+som endret ved
 
 - ►**M1** Forordning [(EF) nr. 282/2008](eu/32008r0282)
 - **►M2** Forordning [(EU) 2025/351](eu/32025r0351)
@@ -1375,7 +1381,8 @@ SAMMENSETNING
 ### AVSNITT 1
 Fellesskapsliste over godkjente stoffer
 
-Artikkel 5
+###### Artikkel 5
+
 Fellesskapsliste over stoffer som kan benyttes i aktive og intelligente bestanddeler
 
 1. Bare stoffer som er oppført på «fellesskapslisten» over godkjente stoffer (heretter kalt «fellesskapslisten»), kan benyttes i bestanddeler i aktive og intelligente materialer og gjenstander.
@@ -1383,17 +1390,20 @@ Fellesskapsliste over stoffer som kan benyttes i aktive og intelligente bestandd
 
 1 EUT L 353 av 31.12.2008, s. 1.
 
-Artikkel 6
+###### Artikkel 6
+
 Vilkår for oppføring av stoffer på fellesskapslisten
 
 For å kunne bli oppført på fellesskapslisten må stoffer som utgjør bestanddelene i aktive og intelligente materialer og gjenstander, oppfylle kravene i artikkel 3 og, der de kommer til anvendelse, artikkel 4 i forordning [(EF) nr. 1935/2004](eu/32004r1935) for tiltenkte bruksvilkår for aktive eller intelligente materialer eller gjenstander.
 
-Artikkel 7
+###### Artikkel 7
+
 Innholdet i fellesskapslisten
 
 Fellesskapslisten skal angistoffet/stoffenes identitet,stoffets/stoffenes funksjon,referansenummer,om nødvendig, bruksvilkår for stoffet/stoffene eller bestanddelen,om nødvendig, begrensninger og/eller spesifikasjoner for bruk av stoffet/stoffene,om nødvendig, vilkår for bruk av det materialet eller den gjenstanden som stoffet eller bestanddelen tilsettes eller inngår i.
 
-Artikkel 8
+###### Artikkel 8
+
 Vilkår for opprettelse av fellesskapslisten
 
 1. Fellesskapslisten skal utarbeides på grunnlag av søknader framlagt i henhold til artikkel 9 i forordning [(EF) nr. 1935/2004](eu/32004r1935).
@@ -1407,14 +1417,16 @@ Vilkår for opprettelse av fellesskapslisten
 ### AVSNITT 2
 Vilkår for bruk av stoffer som ikke skal oppføres på fellesskapslisten
 
-Artikkel 9
+###### Artikkel 9
+
 Stoffer nevnt i artikkel 5 nr. 2 bokstav a) og b)
 
 1. Avgitte aktive stoffer som omhandlet i artikkel 5 nr. 2 bokstav a) i denne forordning, og stoffer tilsatt eller inkorporert ved bruk av teknikker som poding eller fiksering som omhandlet i artikkel 5 nr. 2 bokstav b) i denne forordning, skal brukes i fullt samsvar med relevante fellesskapsbestemmelser og nasjonale bestemmelser som gjelder for næringsmidler, og skal være i samsvar med bestemmelsene i forordning [(EF) nr. 1935/2004](eu/32004r1935) og, om relevant, dens gjennomføringsregler.
 2. Mengden avgitte aktive stoffer skal ikke medtas i måleverdien for samlet migrasjon i de tilfeller et fellesskapstiltak har fastsatt en samlet migrasjonsgrense for det materialet som er beregnet på å komme i kontakt med næringsmidler som bestanddelen inngår i.
 3. Med forbehold for artikkel 4 nr. 1 og 3 i forordning [(EF) nr. 1935/2004](eu/32004r1935) kan mengden avgitte aktive stoffer overstige de særlige begrensningene som er fastsatt for vedkommende stoff i et særlig fellesskapstiltak eller nasjonalt tiltak om materialer beregnet på å komme i kontakt med næringsmidler som bestanddelen inngår i, forutsatt at det er i samsvar med de fellesskapsbestemmelser som gjelder for næringsmidler eller, om slike bestemmelser ikke finnes, med nasjonale bestemmelser som gjelder for næringsmidler.
 
-Artikkel 10
+###### Artikkel 10
+
 Stoffer nevnt i artikkel 5 nr. 2 bokstav c)
 
 1. Migrasjonen til næringsmidler av stoffer fra bestanddeler som ikke er i direkte kontakt med et næringsmiddel eller miljøet rundt næringsmiddelet som omhandlet i artikkel 5 nr. 2 bokstav c) i denne forordning, skal ikke overstige 0,01 mg/kg, målt med statistisk sikkerhet ved bruk av en analysemetode som er i samsvar med artikkel 11 i europaparlaments- og rådsforordning [(EF) nr. 882/2004](eu/32004r0882*).1
@@ -1633,7 +1645,8 @@ KRAV TIL SAMMENSETNING
 ### AVSNITT 1
 Godkjente stoffer
 
-Artikkel 5
+###### Artikkel 5
+
 Unionsliste over godkjente stoffer
 
 ►**M19**
@@ -1648,7 +1661,8 @@ Unionsliste over godkjente stoffer
 
 4\. Dersom det råder tvil om et stoffs angitte identitet, kan en medlemsstat eller Kommisjonen rådføre seg med myndigheten. ◄**M19**
 
-Artikkel 6
+###### Artikkel 6
+
 Unntak for stoffer som ikke er oppført på unionslisten
 
 ►**M19**
@@ -1690,14 +1704,16 @@ Allmenne krav, restriksjoner og spesifikasjoner
 
 ►**M19**
 
-Artikkel 8
+###### Artikkel 8
+
 Allmenne krav til stoffer
 
 1\. Stoffer som brukes ved framstillingen av plastmaterialer og plastgjenstander, som kan være til stede i det ferdige plastmaterialet, herunder dem som er framstilt av avfall, skal ha en høy grad av renhet og skal være av en teknisk kvalitet som er egnet for den beregnede og forutsigbare bruken av materialer og gjenstander.Sammensetningen skal være kjent for produsenten av stoffet.
 
 2\. Som unntak fra nr. 1, når det gjelder renhet, kan UVCB-stoffer som er identifisert med et navn i denne forordningen, og som viser til et naturlig materiale med flere bestanddeler hvis kilde er biologisk eller mineralsk, brukes slik de er framkommet fra sin naturlige opprinnelse, forutsatt at de ikke inneholder stoffer eller materialer som ikke samsvarer med deres identitet som angitt ved dette navnet. Eventuelle ytterligere spesifikasjoner eller krav som gjelder for et stoff eller materiale av naturlig opprinnelse fastsatt i tabell 1 i vedlegg I, og som gjelder for stoffet eller materialet, får anvendelse. ◄**M19**
 
-Artikkel 9
+###### Artikkel 9
+
 Særlige krav til stoffer
 
 1\. Stoffer som brukes ved framstillingen av ►**M19** ◄**M19** plastmaterialer og plastgjenstander, skal være underlagt følgende restriksjoner og spesifikasjoner:den spesifikke migrasjonsgrensen fastsatt i artikkel 11,den samlede migrasjonsgrensen fastsatt i artikkel 12,restriksjonene og spesifikasjonene fastsatt i kolonne 10 i tabell 1 i nr. 1 i vedlegg I,de detaljerte spesifikasjonene fastsatt i nr. 4 i vedlegg I.
@@ -1706,7 +1722,8 @@ Særlige krav til stoffer
 
 ►**M19**
 
-Artikkel 10
+###### Artikkel 10
+
 Allmenne restriksjoner og krav til sammensetningen av plastmaterialer og plastgjenstander
 
 1\. Plastmaterialer og plastgjenstander skal overholde restriksjonene for plastmaterialer og plastgjenstander fastsatt i vedlegg II.
@@ -1715,7 +1732,8 @@ Allmenne restriksjoner og krav til sammensetningen av plastmaterialer og plastgj
 
 3\. Dersom ferdige gjenstander beregnet på å komme i kontakt med næringsmidler er beregnet på gjentatt bruk i kontakt med næringsmidler, skal sammensetningen og utformingen av disse gjenstandene garantere at migrasjonen av materialets eller gjenstandens bestanddeler til næringsmiddelet ikke øker når de gjennomgår etterfølgende brukssykluser i samsvar med bruksanvisningen for tiltenkt bruk som er beskrevet i dokumentasjonen eller merkingen. ◄**M19**
 
-Artikkel 11
+###### Artikkel 11
+
 Spesifikke migrasjonsgrenser
 
 1\. Plastmaterialer og plastgjenstander skal ikke avgi bestanddeler til næringsmidler i mengder som overstiger den spesifikke migrasjonsgrensen (SMG) fastsatt i vedlegg I. Disse spesifikke migrasjonsgrensene (SMG) uttrykkes i mg stoff per kg næringsmiddel (mg/kg).
@@ -1730,7 +1748,8 @@ Spesifikke migrasjonsgrenser
 
 ◄**M6**
 
-Artikkel 12
+###### Artikkel 12
+
 Samlet migrasjonsgrense
 
 1\. Plastmaterialer og plastgjenstander skal ikke avgi bestanddeler til næringsmiddelsimulanter i mengder som overstiger 10 milligram av samlet avgitte bestanddeler per dm2 overflate som er i kontakt med næringsmiddelet (mg/dm2 ).
@@ -2324,7 +2343,9 @@ Materialer og gjenstander som er beregnet å komme i kontakt med alle typer nær
 
 Materialer og gjenstander som er beregnet bare på særlige typer næringsmidler, skal prøves med de næringsmiddelsimulantene som er angitt for næringsmiddeltypene i vedlegg III.
 
-2.1.3.*Vilkår for kontakt ved bruk av næringsmiddelsimulanter*►**M6**
+2.1.3.*Vilkår for kontakt ved bruk av næringsmiddelsimulanter*
+
+►**M6**
 
 Prøven skal bringes i kontakt med næringsmiddelsimulanten på en måte som representerer de verst tenkelige bruksforholdene med hensyn til kontaktvarighet i tabell 1 og kontakttemperatur i tabell 2.
 
@@ -2383,7 +2404,9 @@ T1 er kontakttemperatur i Kelvin. For lagring i romtemperatur er den satt til 29
 T2 er prøvingstemperatur i Kelvin.\* Ved prøving under disse akselererte prøvingsforholdene skal prøven ikke undergå fysiske eller andre endringer i forhold til de faktiske bruksforholdene, herunder en tilstandsendring av materialet.
 ◄**M6**
 
-2.1.5.*Særlige vilkår for kombinasjoner av kontaktvarighet og kontakttemperatur*►**M6**
+2.1.5.*Særlige vilkår for kombinasjoner av kontaktvarighet og kontakttemperatur*
+
+►**M6**
 
 Dersom et materiale eller en gjenstand er beregnet på forskjellig bruk, med forskjellige kombinasjoner av kontaktvarighet og kontakttemperatur, skal prøvingen begrenses til de prøvingsforhold som på grunnlag av vitenskapelig dokumentasjon anses som de mest krevende.
 ◄**M6**
@@ -2416,7 +2439,9 @@ Etter utløpet av den foreskrevne kontaktvarigheten analyseres den spesifikke mi
 
 For stoffer som er ustabile i en næringsmiddelsimulant eller et næringsmiddel, eller som det ikke foreligger noen egnet analysemetode for, angis det i vedlegg I at samsvarskontroll skal foretas ved kontroll av restinnhold per 6 dm2 overflate som er i kontakt med næringsmiddelet. For materialer og gjenstander med et rominnhold på mellom 500 ml og 10 l, anvendes den faktiske kontaktflaten. For materialer og gjenstander med et rominnhold på mindre enn 500 ml og mer enn 10 l, samt for gjenstander som det ikke er praktisk mulig å beregne den faktiske kontaktflaten for, antas kontaktflaten å være 6 dm2 per kg næringsmiddel.
 
-2.2.*Screening-metoder*►**M6**
+2.2.*Screening-metoder*
+
+►**M6**
 
 Til å kontrollere om et materiale eller en gjenstand er innenfor migrasjonsgrensene, er det mulig å benytte en av følgende metoder, som anses å være minst like krevende som kontrollmetoden i nr. 2.1.
 ◄**M6**
@@ -2478,7 +2503,9 @@ Prøving OM5 omfatter også de vilkårene for kontakt med næringsmidler som er 
 **◄M14**
 ►**M6**
 
-3.2.*Erstatningsprøving for samlet migrasjon med næringsmiddelsimulant D2***►M14**
+3.2.*Erstatningsprøving for samlet migrasjon med næringsmiddelsimulant D2*
+
+**►M14**
 
 Dersom det ikke er teknisk mulig å gjennomføre en eller flere av prøvingene OM0-OM6 med næringsmiddelsimulant D2, skal migrasjonsprøvingene gjennomføres med etanol 95 % og isooktan. Dessuten skal det utføres en prøving med næringsmiddelsimulant E dersom de verst tenkelige bruksvilkårene overstiger 100 °C. Den prøvingen som gir høyest samlet migrasjon, skal benyttes til å fastslå samsvar med forordningen.
 
@@ -2511,7 +2538,9 @@ Dersom det foreligger vitenskapelige bevis for at migrasjonen, som beskrevet i v
 **◄M14**
 ◄**M6**
 
-3.4.*Screening-metoder*►**M6**
+3.4.*Screening-metoder*
+
+►**M6**
 
 Til å kontrollere om et materiale eller en gjenstand er innenfor migrasjonsgrensene, er det mulig å benytte en av følgende metoder, som anses å være minst like krevende som kontrollmetoden i nr. 3.1 og 3.2.
 ◄**M6**

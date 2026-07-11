@@ -15,7 +15,7 @@ xml_hash: "a1a700220b320a2c56c623924cea1a3159509b4d58d899e635a93aff02ca07f7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-10T17:52:49.841668+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -8306,7 +8306,9 @@ De relevante kravene SOLAS konsolidert utgave 2020, i kapittel II-1 del B, med u
 | N < 1 000 | R = 0,000088 \* N +0,7488 |
 | 1 000 ≤ N ≤ 1 350 | R = 0,0369 \* ln (N +89,048) +0,579 |
 
-derN = samlet antall personer om bord.
+der
+
+N = samlet antall personer om bord.
 
 ## Vedlegg V. Opplysninger i underretningen
 

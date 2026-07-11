@@ -15,7 +15,7 @@ xml_hash: "d9f3eb38afee07075c05dba7a7e38cbe097b098490946082c400852ced36f50b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-10T17:52:49.841668+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -96,7 +96,9 @@ Avtalen inntas som Tilleggsavtale X til denne hovedavtale.
 
 Merknaden og Protokolltilførselen i kap. XIV beholdes.
 
-IITilleggsavtale X
+II
+
+Tilleggsavtale X
 
 [§ 1](forskrift/2000-07-28-797/§1). *Formål*
 

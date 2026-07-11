@@ -15,7 +15,7 @@ xml_hash: "ec26c8ee41abe9b125f8e2a26f4bc3a407331057c5a7c213433e313304fea8c5"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-10T17:52:49.841668+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -143,7 +143,14 @@ Markeringsskilt med trekant form skal ha to like lange sider og høyde like lang
 
 *Figur 2. Skilt med trekantet form*
 
-*Tabell 3. Mål for skilt med trekant form* *Størrelse**Grunnlinje / høyde A (mm)**Hjørneradius r (mm)*LS 0600A x 3/100LS 11000MS1500SS2000
+*Tabell 3. Mål for skilt med trekant form*
+
+| *Størrelse* | *Grunnlinje / høyde A (mm)* | *Hjørneradius r (mm)* |
+| --- | --- | --- |
+| LS 0 | 600 | A x 3/100 |
+| LS 1 | 1000 |  |
+| MS | 1500 |  |
+| SS | 2000 |  |
 
 ### 3.2 Sirkel form
 
@@ -151,7 +158,14 @@ Markeringsskilt med sirkel form skal ha mål som i tabellen under.
 
 *Figur 3. Skilt med sirkel form*
 
-*Tabell 4. Mål for skilt med sirkel form* *Størrelse**Diameter D (mm)*LS 0600LS 11000MS1500SS2000
+*Tabell 4. Mål for skilt med sirkel form*
+
+| *Størrelse* | *Diameter D (mm)* |
+| --- | --- |
+| LS 0 | 600 |
+| LS 1 | 1000 |
+| MS | 1500 |
+| SS | 2000 |
 
 ### 4. Utførelse av farvannsskilt
 

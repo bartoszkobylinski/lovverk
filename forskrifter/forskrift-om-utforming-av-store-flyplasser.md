@@ -15,7 +15,7 @@ xml_hash: "cfe0b3a2e631c52033c6e3077afd2849e9003d03c4680c6e3fc8f1a0d8ecb87b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-10T17:52:49.841668+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -307,7 +307,14 @@ En rullebane og eventuell stoppbane skal omsluttes symmetrisk av et sikkerhetsom
 | 1 og 2 | 180 m |
 | 3 og 4 | 300 m |
 
-På en presisjonsrullebane skal sikkerhetsområdet begynne minst 60 m foran terskelen.På øvrige rullebaner skal sikkerhetsområdet begynne minst følgende lengde foran terskelen:*Kodetall**Lengde foran terskelen*1 og 2180 m3 og 4300 m
+På en presisjonsrullebane skal sikkerhetsområdet begynne minst 60 m foran terskelen.
+
+På øvrige rullebaner skal sikkerhetsområdet begynne minst følgende lengde foran terskelen:
+
+| *Kodetall* | *Lengde foran terskelen* |
+| --- | --- |
+| 1 og 2 | 180 m |
+| 3 og 4 | 300 m |
 
 (2) Et sikkerhetsområde skal strekke seg ut til minst følgende bredde på hver side av rullebanens senterlinje og forlengede senterlinje:
 
@@ -1400,7 +1407,11 @@ Rullebane som skal ha rullebanekantlys, skal også ha baneendelys.
 | 5 m inntil 8 m | 9 m | 5 m |
 | 8 m inntil 14 m | 9 m | 6 m |
 
-Med «øye-hjulhøyde» menes vertikalhøyden mellom flygerens øye og luftfartøyets hovedhjul når luftfartøyet er under innflyging.«Øye-hjulhøyden» skal relateres til det luftfartøy som har størst slik høyde av de luftfartøy som normalt skal bruke rullebanen.Kravene til minimum hjulhøyde kan bare legges til grunn når anlegget er innstilt for bratt innflyging.
+Med «øye-hjulhøyde» menes vertikalhøyden mellom flygerens øye og luftfartøyets hovedhjul når luftfartøyet er under innflyging.
+
+«Øye-hjulhøyden» skal relateres til det luftfartøy som har størst slik høyde av de luftfartøy som normalt skal bruke rullebanen.
+
+Kravene til minimum hjulhøyde kan bare legges til grunn når anlegget er innstilt for bratt innflyging.
 
 *Tabell 13-B – Hinderflate for visuelt glidebaneanlegg*
 

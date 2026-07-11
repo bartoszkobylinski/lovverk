@@ -15,7 +15,7 @@ xml_hash: "a967b6097f8e2f5ecef2eff9af21406829f361beaad17448df7a716d1203170a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-10T17:52:49.841668+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -223,7 +223,9 @@ Det fastsettes følgende konsesjonsområder for lokalradio:
 - 19-12. Alta og Loppa
 - 19-13. Hasvik.
 
-*Svalbard:*20-01. Svalbard.
+*Svalbard:*
+
+20-01. Svalbard.
 
 > Endret ved [forskrifter 10 juli 2002 nr. 872](forskrift/2002-07-10-872), [21 juli 2004 nr. 1135](forskrift/2004-07-21-1135), [12 nov 2007 nr. 1238](forskrift/2007-11-12-1238).
 

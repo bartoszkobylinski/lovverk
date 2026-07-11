@@ -15,7 +15,7 @@ xml_hash: "81b1970943c32b521bbb97d6be1231f9c20745deca6629095f9880587f96ca81"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-10T17:52:49.841668+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -60,7 +60,11 @@ For å gjøre det lettere å finne frem til ordlyden i de forordningene som blir
 
 Nedenfor gjengis til informasjon norsk oversettelse av forordning [(EF) nr. 1331/2008](eu/32008r1331) som endret ved forordning [(EU) 2019/1381](eu/32019r1381)) med de endringer og tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med vedlegg II kapittel XII.
 
-►**B** Europaparlaments- og Rådsforordning (EF) nr. 1331/2008 av 16. desember 2008som endret ved:►**M1** Europaparlaments- og rådsforordning (EU) 2019/1381 av 20. juni 2019
+►**B** Europaparlaments- og Rådsforordning (EF) nr. 1331/2008 av 16. desember 2008
+
+som endret ved:
+
+►**M1** Europaparlaments- og rådsforordning (EU) 2019/1381 av 20. juni 2019
 
 ### EUROPAPARLAMENTS- OG RÅDSFORORDNING [(EF) nr. 1331/2008](eu/32008r1331)
 av 16. desember 2008
@@ -256,7 +260,11 @@ Utferdiget i Strasbourg, 16. desember 2008.
 
 Nedenfor gjengis til informasjon en uoffisiell norsk oversettelse av forordning [(EU) nr. 234/2011](eu/32011r0234). Dette er grunnrettsakten. Grunnrettsakten er endret av forordning [(EU) nr. 562/2012](eu/32012r0562) og forordning [(EU) 2020/1823](eu/32020r1823).
 
-► **B** Forordning [(EU) nr. 234/2011](eu/32011r0234)► **M1** Forordning [(EU) nr. 562/2012](eu/32012r0562)► **M2** Forordning [(EU) 2020/1823](eu/32020r1823)
+► **B** Forordning [(EU) nr. 234/2011](eu/32011r0234)
+
+► **M1** Forordning [(EU) nr. 562/2012](eu/32012r0562)
+
+► **M2** Forordning [(EU) 2020/1823](eu/32020r1823)
 
 ### KOMMISJONSFORORDNING [(EU) nr. 234/2011](eu/32011r0234)
 av 10. mars 2011
@@ -305,7 +313,9 @@ Denne forordning får anvendelse på søknader omhandlet i artikkel 3 nr. 1 i fo
 
 I denne forordning menes med:«QPS-status» (velbegrunnet formodning om sikkerhet) den sikkerhetsstatus Myndigheten har tildelt utvalgte grupper av mikroorganismer på bakgrunn av en vurdering som har vist at det ikke foreligger noe sikkerhetsproblem,«SCFs retningslinjer fra 1992» de retningslinjer for framlegging av opplysninger om næringsmiddelenzymer som er fastsatt i uttalelse fra Vitenskapskomiteen for næringsmidler av 11. april 1991.1
 
-1 [http://ec.europa.eu/food/fs/sc/scf/reports/scf_reports_27.pdf](https://ec.europa.eu/food/fs/sc/scf/reports/scf_reports_27.pdf).◄ **M1**
+1 [http://ec.europa.eu/food/fs/sc/scf/reports/scf_reports_27.pdf](https://ec.europa.eu/food/fs/sc/scf/reports/scf_reports_27.pdf).
+
+◄ **M1**
 
 ### Kapittel II
 Søknadens innhold, utarbeiding og framleggelse
@@ -336,7 +346,9 @@ Søknadens innhold, utarbeiding og framleggelse
 
 1\. Inntil det er vedtatt standardiserte dataformater i henhold til artikkel 39f i forordning [(EF) nr. 178/2002](eu/32002r0178), skal søknaden sendes inn via Kommisjonens elektroniske innsendingssystem i et elektronisk format som gjør det mulig å laste ned, skrive ut og søke i dokumenter. Etter at det er vedtatt standardiserte dataformater i henhold til artikkel 39 f i forordning [(EF) nr. 178/2002](eu/32002r0178), skal søknaden inngis via Kommisjonens elektroniske innsendingssystem i samsvar med disse standardiserte dataformatene. Søkeren skal ta hensyn til Kommisjonens praktiske retningslinjer for inngivelse av søknader (se nettstedet til Generaldirektoratet for helse og næringsmiddeltrygghet)\*.
 
-\* [https://ec.europa.eu/food/safety_en](https://ec.europa.eu/food/safety_en).◄**M2**
+\* [https://ec.europa.eu/food/safety_en](https://ec.europa.eu/food/safety_en).
+
+◄**M2**
 
 2\. For opprettelsen av en unionsliste over næringsmiddelenzymer, nevnt i artikkel 17 i forordning [(EF) nr. 1332/2008](eu/32008r1332), skal fristen for framlegging av søknader være 24 måneder etter anvendelsesdatoen for gjennomføringstiltakene fastsatt i denne forordning.
 
@@ -469,10 +481,16 @@ Utferdiget i Brussel, 10. mars 2011.
 
 Nedenfor gjengis forordning [(EU) nr. 1331/2008](eu/32008r1331), forordning [(EU) nr. 234/2011](eu/32011r0234) og forordning [(EU) nr. 562/2012](eu/32012r0562).
 
-Forordning [(EF) nr. 1331/2008](eu/32008r1331)Trykk her for å lese norsk oversettelse av forordningen: [(pdf)](static/SF/32008r1331u.pdf)
+Forordning [(EF) nr. 1331/2008](eu/32008r1331)
 
-Forordning [(EU) nr. 234/2011](eu/32011r0234)Trykk her for å lese norsk oversettelse av forordningen: [(pdf)](static/SF/32011r0234u.pdf)
+Trykk her for å lese norsk oversettelse av forordningen: [(pdf)](static/SF/32008r1331u.pdf)
 
-Forordning [(EU) nr. 562/2012](eu/32012r0562)Trykker her for å lese norsk oversettelse av forordningen: [(pdf)](static/SF/32012r0562u.pdf)
+Forordning [(EU) nr. 234/2011](eu/32011r0234)
+
+Trykk her for å lese norsk oversettelse av forordningen: [(pdf)](static/SF/32011r0234u.pdf)
+
+Forordning [(EU) nr. 562/2012](eu/32012r0562)
+
+Trykker her for å lese norsk oversettelse av forordningen: [(pdf)](static/SF/32012r0562u.pdf)
 
 > Endret ved [forskrifter 18 juni 2012 nr. 547](forskrift/2012-06-18-547), [19 mars 2013 nr. 293](forskrift/2013-03-19-293) med rettelse 13. juni 2013.

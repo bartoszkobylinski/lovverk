@@ -15,7 +15,7 @@ xml_hash: "99b779240e3b8e0e6bbaa4735e7ec6d887608e1327a7edd3c34f2556a2309af3"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-10T17:52:49.841668+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -24,13 +24,23 @@ eu_basis: []
 
 ## Normalvedtekt til ymsesidige sjøtrygdelag etter lov 3. juli 1953.
 
-Namn...............................................Vedteki på lagsmøte den............................og med nyare brigde frå.................................Godkjent av.....................den..................og brigde godkjende den...............................
+Namn...............................................
+
+Vedteki på lagsmøte den............................
+
+og med nyare brigde frå.................................
+
+Godkjent av.....................den..................
+
+og brigde godkjende den...............................
 
 ## Namn og sæte.
 
 ### § 1
 
-Namnet på laget er:Laget har sæte i ................herad/by.
+Namnet på laget er:
+
+Laget har sæte i ................herad/by.
 
 ## Føremål og kva som kan trygdast.
 
@@ -186,4 +196,6 @@ Kvar som vert teken opp i laget, skal få eit avprent av denne vedtekta.
 
 ### § 20
 
-...................................................................................................
+.................................................
+
+..................................................

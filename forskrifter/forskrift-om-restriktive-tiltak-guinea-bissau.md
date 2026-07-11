@@ -15,7 +15,7 @@ xml_hash: "d6ca5be797aaf6dfd2612804da7f6cf4ccc939eb2b717e598d32011e925c8981"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-10T17:52:49.841668+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -172,62 +172,134 @@ Nettsider for informasjon om de kompetente myndigheter i EUs medlemsstater nevnt
 
 *A. Competent authorities in each Member State:*
 
-BELGIUM[http://www.diplomatie.be/eusanctions](https://www.diplomatie.be/eusanctions)
+BELGIUM
 
-BULGARIA[http://www.mfa.bg/en/pages/view/5519](https://www.mfa.bg/en/pages/view/5519)
+[http://www.diplomatie.be/eusanctions](https://www.diplomatie.be/eusanctions)
 
-CZECH REPUBLIC[http://www.mfcr.cz/mezinarodnisankce](https://www.mfcr.cz/mezinarodnisankce)
+BULGARIA
 
-DENMARK[http://um.dk/da/politik-og-diplomati/retsorden/sanktioner/](https://um.dk/da/politik-og-diplomati/retsorden/sanktioner/)
+[http://www.mfa.bg/en/pages/view/5519](https://www.mfa.bg/en/pages/view/5519)
 
-GERMANY[http://www.bmwi.de/BMWi/Navigation/Aussenwirtschaft/Aussenwirtschaftsrecht/embargos.html](https://www.bmwi.de/BMWi/Navigation/Aussenwirtschaft/Aussenwirtschaftsrecht/embargos.html)
+CZECH REPUBLIC
 
-ESTONIA[http://www.vm.ee/est/kat_622/](https://www.vm.ee/est/kat_622/)
+[http://www.mfcr.cz/mezinarodnisankce](https://www.mfcr.cz/mezinarodnisankce)
 
-IRELAND[http://www.dfa.ie/home/index.aspx?id=28519](https://www.dfa.ie/home/index.aspx?id=28519)
+DENMARK
 
-GREECE[http://www1.mfa.gr/en/foreign-policy/global-issues/international-sanctions.html](https://www1.mfa.gr/en/foreign-policy/global-issues/international-sanctions.html)
+[http://um.dk/da/politik-og-diplomati/retsorden/sanktioner/](https://um.dk/da/politik-og-diplomati/retsorden/sanktioner/)
 
-SPAIN[http://www.maec.es/es/MenuPpal/Asuntos/Sanciones%20Internacionales/Paginas/Sanciones_%20Internacionales.aspx/](https://www.maec.es/es/MenuPpal/Asuntos/Sanciones%20Internacionales/Paginas/Sanciones_%20Internacionales.aspx)
+GERMANY
 
-FRANCE[http://www.diplomatie.gouv.fr/autorites-sanctions/](https://www.diplomatie.gouv.fr/autorites-sanctions/)
+[http://www.bmwi.de/BMWi/Navigation/Aussenwirtschaft/Aussenwirtschaftsrecht/embargos.html](https://www.bmwi.de/BMWi/Navigation/Aussenwirtschaft/Aussenwirtschaftsrecht/embargos.html)
 
-CROATIA[http://www.mvep.hr/sankcije](https://www.mvep.hr/sankcije)
+ESTONIA
 
-ITALY[http://www.esteri.it/MAE/IT/Politica_Europea/Deroghe.htm](https://www.esteri.it/MAE/IT/Politica_Europea/Deroghe.htm)
+[http://www.vm.ee/est/kat_622/](https://www.vm.ee/est/kat_622/)
 
-CYPRUS[http://www.mfa.gov.cy/sanctions](https://www.mfa.gov.cy/sanctions)LATVIA
+IRELAND
+
+[http://www.dfa.ie/home/index.aspx?id=28519](https://www.dfa.ie/home/index.aspx?id=28519)
+
+GREECE
+
+[http://www1.mfa.gr/en/foreign-policy/global-issues/international-sanctions.html](https://www1.mfa.gr/en/foreign-policy/global-issues/international-sanctions.html)
+
+SPAIN
+
+[http://www.maec.es/es/MenuPpal/Asuntos/Sanciones%20Internacionales/Paginas/Sanciones_%20Internacionales.aspx/](https://www.maec.es/es/MenuPpal/Asuntos/Sanciones%20Internacionales/Paginas/Sanciones_%20Internacionales.aspx)
+
+FRANCE
+
+[http://www.diplomatie.gouv.fr/autorites-sanctions/](https://www.diplomatie.gouv.fr/autorites-sanctions/)
+
+CROATIA
+
+[http://www.mvep.hr/sankcije](https://www.mvep.hr/sankcije)
+
+ITALY
+
+[http://www.esteri.it/MAE/IT/Politica_Europea/Deroghe.htm](https://www.esteri.it/MAE/IT/Politica_Europea/Deroghe.htm)
+
+CYPRUS
+
+[http://www.mfa.gov.cy/sanctions](https://www.mfa.gov.cy/sanctions)
+
+LATVIA
 
 [http://www.mfa.gov.lv/en/security/4539](https://www.mfa.gov.lv/en/security/4539)
 
-LITHUANIA[http://www.urm.lt/sanctions](https://www.urm.lt/sanctions)
+LITHUANIA
 
-LUXEMBOURG[http://www.mae.lu/sanctions](https://www.mae.lu/sanctions)
+[http://www.urm.lt/sanctions](https://www.urm.lt/sanctions)
 
-HUNGARY[http://www.kulugyminiszterium.hu/kum/hu/bal/Kulpolitikank/nemzetkozi_szankciok/](https://www.kulugyminiszterium.hu/kum/hu/bal/Kulpolitikank/nemzetkozi_szankciok/)
+LUXEMBOURG
 
-MALTA[http://www.doi.gov.mt/EN/bodies/boards/sanctions_monitoring.asp](https://www.doi.gov.mt/EN/bodies/boards/sanctions_monitoring.asp)
+[http://www.mae.lu/sanctions](https://www.mae.lu/sanctions)
 
-NETHERLANDS[http://www.rijksoverheid.nl/onderwerpen/internationale-vrede-en-veiligheid/sancties](https://www.rijksoverheid.nl/onderwerpen/internationale-vrede-en-veiligheid/sancties)
+HUNGARY
 
-AUSTRIA[http://www.bmeia.gv.at/view.php3?f_id=12750&LNG=en&version=](https://www.bmeia.gv.at/view.php3?f_id=12750&LNG=en&version=)
+[http://www.kulugyminiszterium.hu/kum/hu/bal/Kulpolitikank/nemzetkozi_szankciok/](https://www.kulugyminiszterium.hu/kum/hu/bal/Kulpolitikank/nemzetkozi_szankciok/)
 
-POLAND[http://www.msz.gov.pl](https://www.msz.gov.pl)
+MALTA
 
-PORTUGAL[http://www.min-nestrangeiros.pt](https://www.min-nestrangeiros.pt)
+[http://www.doi.gov.mt/EN/bodies/boards/sanctions_monitoring.asp](https://www.doi.gov.mt/EN/bodies/boards/sanctions_monitoring.asp)
 
-ROMANIA[http://www.mae.ro/node/1548](https://www.mae.ro/node/1548)
+NETHERLANDS
 
-SLOVENIA[http://www.mzz.gov.si/si/zunanja_politika_in_mednarodno_pravo/zunanja_politika/mednarodna_varnost/omejevalni_ukrepi/](https://www.mzz.gov.si/si/zunanja_politika_in_mednarodno_pravo/zunanja_politika/mednarodna_varnost/omejevalni_ukrepi/)
+[http://www.rijksoverheid.nl/onderwerpen/internationale-vrede-en-veiligheid/sancties](https://www.rijksoverheid.nl/onderwerpen/internationale-vrede-en-veiligheid/sancties)
 
-SLOVAKIA[http://www.foreign.gov.sk](https://www.foreign.gov.sk)
+AUSTRIA
 
-FINLAND[http://formin.finland.fi/kvyhteistyo/pakotteet](https://formin.finland.fi/kvyhteistyo/pakotteet)
+[http://www.bmeia.gv.at/view.php3?f_id=12750&LNG=en&version=](https://www.bmeia.gv.at/view.php3?f_id=12750&LNG=en&version=)
 
-SWEDEN[http://www.ud.se/sanktioner](https://www.ud.se/sanktioner)
+POLAND
 
-UNITED KINGDOM[www.fco.gov.uk/competentauthorities](www.fco.gov.uk/competentauthorities)
+[http://www.msz.gov.pl](https://www.msz.gov.pl)
+
+PORTUGAL
+
+[http://www.min-nestrangeiros.pt](https://www.min-nestrangeiros.pt)
+
+ROMANIA
+
+[http://www.mae.ro/node/1548](https://www.mae.ro/node/1548)
+
+SLOVENIA
+
+[http://www.mzz.gov.si/si/zunanja_politika_in_mednarodno_pravo/zunanja_politika/mednarodna_varnost/omejevalni_ukrepi/](https://www.mzz.gov.si/si/zunanja_politika_in_mednarodno_pravo/zunanja_politika/mednarodna_varnost/omejevalni_ukrepi/)
+
+SLOVAKIA
+
+[http://www.foreign.gov.sk](https://www.foreign.gov.sk)
+
+FINLAND
+
+[http://formin.finland.fi/kvyhteistyo/pakotteet](https://formin.finland.fi/kvyhteistyo/pakotteet)
+
+SWEDEN
+
+[http://www.ud.se/sanktioner](https://www.ud.se/sanktioner)
+
+UNITED KINGDOM
+
+[www.fco.gov.uk/competentauthorities](www.fco.gov.uk/competentauthorities)
 
 *B. Address for notifications to, or other communication with, the European Commission:*
 
-European CommissionForeign Policy Instruments ServiceUnit FPIS.2CHAR 12/106B-1049 Bruxelles/BrusselBelgiumE-mail: relex-sanctions@ec.europa.euTel. (32 2) 295 55 85Fax (32 2) 299 08 73
+European Commission
+
+Foreign Policy Instruments Service
+
+Unit FPIS.2
+
+CHAR 12/106
+
+B-1049 Bruxelles/Brussel
+
+Belgium
+
+E-mail: relex-sanctions@ec.europa.eu
+
+Tel. (32 2) 295 55 85
+
+Fax (32 2) 299 08 73

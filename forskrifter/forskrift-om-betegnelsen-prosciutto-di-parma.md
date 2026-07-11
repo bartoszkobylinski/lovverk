@@ -15,7 +15,7 @@ xml_hash: "9738be5ff26e591a5d779d4bfe43fb71c27fe37c0c8017ba13292a5864c1dfa0"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-10T17:52:49.841668+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -54,7 +54,13 @@ Nedenfor følger til informasjon og som et hjelpemiddel ved lesing av § 3 i pro
 
 SINGLE DOCUMENT
 
-Council Regulation [(EC) No 510/2006](eu/32006r0510) on the protection of geographical indications and designations of origin«PROSCIUTTO DI PARMA»EC No: IT-PDO-0217-0067- 30.01.2009PGI ( ) PDO (X)
+Council Regulation [(EC) No 510/2006](eu/32006r0510) on the protection of geographical indications and designations of origin
+
+«PROSCIUTTO DI PARMA»
+
+EC No: IT-PDO-0217-0067- 30.01.2009
+
+PGI ( ) PDO (X)
 
 1\. NAME
 

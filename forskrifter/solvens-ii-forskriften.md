@@ -15,7 +15,7 @@ xml_hash: "1da156cdbaebd8f1c20a4322645d9b249ee2933c0c2af9c44830b6335011dbb2"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-19T09:04:23.952275+00:00"
+retrieved_at: "2026-07-10T17:52:49.841668+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -618,15 +618,37 @@ Ved anvendelse av standardmetoden skal solvenskapitalkravet beregnes på følgen
 
 \\(SCR=BSCR+SCR_{OR}+Adj_{\\text{TA_US}}\\),
 
-derSCR = solvenskapitalkravet beregnet etter standardmetoden,BSCR = basiskravet til solvenskapital beregnet etter standardmetoden,SCROR = bidraget til solvenskapitalkravet fra operasjonell risiko beregnet etter standardmetoden ogAdjTA_US = justeringen for den tapsabsorberende evnen til forsikringstekniske avsetninger (herunder fremtidig overskuddstildeling) og utsatt skatt.
+der
+
+SCR = solvenskapitalkravet beregnet etter standardmetoden,
+
+BSCR = basiskravet til solvenskapital beregnet etter standardmetoden,
+
+SCROR = bidraget til solvenskapitalkravet fra operasjonell risiko beregnet etter standardmetoden og
+
+AdjTA_US = justeringen for den tapsabsorberende evnen til forsikringstekniske avsetninger (herunder fremtidig overskuddstildeling) og utsatt skatt.
 
 Basiskravet til solvenskapital skal beregnes på følgende måte:
 
 \\(BSCR={\\sqrt{\\displaystyle\\sum\\limits_{i}\\displaystyle\\sum\\limits_{j}Korr_{i,j}\\times{SCR_{i}}\\times{SCR_{j}}}+SCR_{IR}}\\),
 der indeksene i og j har en av følgende verdier: MR, KR, LR, HR eller SR.
 
-Videre erKorri,j = korrelasjonen mellom risikomodul i og risikomodul j,SCRMR = bidraget til basiskravet til solvenskapital (BSCR) fra risikomodulen for markedsrisiko,SCRKR = bidraget til basiskravet til solvenskapital (BSCR) fra risikomodulen for motpartsrisiko (kredittrisiko),SCRLR = bidraget til basiskravet til solvenskapital (BSCR) fra risikomodulen for livsforsikringsrisiko,SCRHR = bidraget til basiskravet til solvenskapital (BSCR) fra risikomodulen for helseforsikringsrisiko,SCRSR = bidraget til basiskravet til solvenskapital (BSCR) fra risikomodulen for skadeforsikringsrisiko
+Videre er
 
-ogSCRIR = bidraget til basiskravet til solvenskapital (BSCR) fra risikomodulen for immaterielle eiendeler.
+Korri,j = korrelasjonen mellom risikomodul i og risikomodul j,
+
+SCRMR = bidraget til basiskravet til solvenskapital (BSCR) fra risikomodulen for markedsrisiko,
+
+SCRKR = bidraget til basiskravet til solvenskapital (BSCR) fra risikomodulen for motpartsrisiko (kredittrisiko),
+
+SCRLR = bidraget til basiskravet til solvenskapital (BSCR) fra risikomodulen for livsforsikringsrisiko,
+
+SCRHR = bidraget til basiskravet til solvenskapital (BSCR) fra risikomodulen for helseforsikringsrisiko,
+
+SCRSR = bidraget til basiskravet til solvenskapital (BSCR) fra risikomodulen for skadeforsikringsrisiko
+
+og
+
+SCRIR = bidraget til basiskravet til solvenskapital (BSCR) fra risikomodulen for immaterielle eiendeler.
 
 Korrelasjonen mellom risikomodul i og risikomodul j er gitt ved cellen i rad i og kolonne j i følgende korrelasjonsmatrise:
