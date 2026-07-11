@@ -2,6 +2,16 @@
   "doc_id": "sf-20070702-0877",
   "events": [
     {
+      "commit": "d5622a8",
+      "date": "2026-07-11",
+      "from_path": null,
+      "lines_added": 5,
+      "lines_removed": 5,
+      "subject": "update(forskrift): forskrift-om-kjøre-og-hviletid-og-fartsskriver-for-vegtransport-i-eøs",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "2607556",
       "date": "2026-07-03",
       "from_path": null,
@@ -19,7 +29,7 @@
       "lines_removed": 1,
       "subject": "migration: backfill eu_basis for 4523 documents",
       "to_path": null,
-      "type": "renamed"
+      "type": "updated"
     },
     {
       "commit": "3dddeca",
@@ -28,7 +38,7 @@
       "lines_added": 2,
       "lines_removed": 1,
       "subject": "migration: rename 4522 documents to slug-based filenames",
-      "to_path": "\"forskrifter/forskrift-om-kj\\303\\270re-og-hviletid-og-fartsskriver-for-vegtransport-i-e\\303\\270s.md\"",
+      "to_path": "forskrifter/forskrift-om-kjøre-og-hviletid-og-fartsskriver-for-vegtransport-i-eøs.md",
       "type": "renamed"
     },
     {
