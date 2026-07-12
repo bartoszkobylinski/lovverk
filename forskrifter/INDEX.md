@@ -7,7 +7,7 @@ source_license: "NLOD 2.0"
 
 # Sentrale forskrifter
 
-_5148 current documents_
+_5147 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -2916,7 +2916,6 @@ _5148 current documents_
 - [forskrift-om-obligatorisk-opplæring-i-sykmeldingsarbeid-for-leger](forskrift-om-obligatorisk-opplæring-i-sykmeldingsarbeid-for-leger.md) — Forskrift om obligatorisk opplæring i sykmeldingsarbeid for leger
 - [forskrift-om-offentlig-godkjenning-av-bemanningsforetak](forskrift-om-offentlig-godkjenning-av-bemanningsforetak.md) — Forskrift om offentlig godkjenning av bemanningsforetak
 - [forskrift-om-offentlig-godkjenning-av-virksomheter-som-tilbyr-bilpleie-hjulskift-og-hjullagring-og-om-kjøp-av-slike-tjenester](forskrift-om-offentlig-godkjenning-av-virksomheter-som-tilbyr-bilpleie-hjulskift-og-hjullagring-og-om-kjøp-av-slike-tjenester.md) — Forskrift om offentlig godkjenning av virksomheter som tilbyr bilpleie, hjulskift og hjullagring, og om kjøp av slike tjenester
-- [forskrift-om-offentlig-kontroll-animalsk-produksjon-forordning-2019-624-og-forordning-2019-627](forskrift-om-offentlig-kontroll-animalsk-produksjon-forordning-2019-624-og-forordning-2019-627.md) — Forskrift om offentlig kontroll – animalsk produksjon, forordning (EU) 2019/624 og forordning (EU) 2019/627
 - [forskrift-om-offentlig-kontroll-dokumentasjonskrav-ved-import-forordning-eu-2019-1013-og-forordning-eu-2019-1602](forskrift-om-offentlig-kontroll-dokumentasjonskrav-ved-import-forordning-eu-2019-1013-og-forordning-eu-2019-1602.md) — Forskrift om offentlig kontroll – dokumentasjonskrav ved import, forordning (EU) 2019/1013 og forordning (EU) 2019/1602
 - [forskrift-om-offentlig-kontroll-dyrehelse-forordning-2022-160-og-forordning-2022-671](forskrift-om-offentlig-kontroll-dyrehelse-forordning-2022-160-og-forordning-2022-671.md) — Forskrift om offentlig kontroll – dyrehelse, forordning (EU) 2022/160 og forordning (EU) 2022/671
 - [forskrift-om-offentlig-kontroll-dyrevelferd-ved-transport-av-levende-dyr-i-dyretransportfartøyer-forordning-2023-372-og-forordning-2023-842](forskrift-om-offentlig-kontroll-dyrevelferd-ved-transport-av-levende-dyr-i-dyretransportfartøyer-forordning-2023-372-og-forordning-2023-842.md) — Forskrift om offentlig kontroll – dyrevelferd ved transport av levende dyr i dyretransportfartøyer forordning (EU) 2023/372 og forordning (EU) 2023/842
