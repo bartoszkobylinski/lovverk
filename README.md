@@ -10,17 +10,19 @@ lovverk is a Git-versioned Markdown corpus of current Norwegian laws and central
 
 ## Status
 
-**Production.** Auto-synced daily at 04:00 UTC by the [`lovspor`](https://github.com/bartoszkobylinski/lovspor) engine. The corpus mirrors **781 lover** + **3 741 sentrale forskrifter** = **4 522 acts** total, with per-act change history under `<dataset>/history/<slug>.json` and EU/EEA cross-references in each act's frontmatter `eu_basis` field.
+**Production.** Auto-synced daily at 04:00 UTC by the [`lovspor`](https://github.com/bartoszkobylinski/lovspor) engine. The corpus mirrors close to **6 000 acts** — every current Norwegian *lov* and *sentral forskrift* — with per-act change history under `<dataset>/history/<slug>.json` and EU/EEA cross-references in each act's frontmatter `eu_basis` field.
+
+The corpus changes daily, so this README does not hard-code a total. Each dataset's `INDEX.md` carries its live count (764 *lover* + 5 147 *sentrale forskrifter* = 5 911 as of the 2026-07-12 sync), and the `corpus_status` MCP tool reports it on demand.
 
 ## Structure
 
 ```
 lovverk/
-├── lover/                          # current Norwegian laws (781 acts)
-│   ├── INDEX.md                    # generated index of all current acts in this dataset
+├── lover/                          # current Norwegian laws
+│   ├── INDEX.md                    # generated index of all current acts in this dataset (with live count)
 │   ├── <slug>.md                   # one Markdown file per act, named after Lovdata's kortform
 │   └── history/<slug>.json         # per-act change history (date, commit, type, lines added/removed)
-├── forskrifter/                    # current central regulations (3 741 acts)
+├── forskrifter/                    # current central regulations
 │   ├── INDEX.md
 │   ├── <slug>.md
 │   └── history/<slug>.json
