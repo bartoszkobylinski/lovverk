@@ -1,53 +1,79 @@
 ---
-id: "sf-20090520-0534"
+id: "sf-20260710-1545"
 slug: "forskrift-om-omregningsfaktorer"
 type: "forskrift"
-ref_id: "forskrift/2009-05-20-534"
-title: "Forskrift om omregningsfaktorer fra produktvekt og antall til rund vekt"
+ref_id: "forskrift/2026-07-10-1545"
+title: "Forskrift om bruk av omregningsfaktorer for omregning fra produktvekt og antall til rund vekt (forskrift om omregningsfaktorer)"
 short_title: "Forskrift om omregningsfaktorer"
-language: "no"
+language: "nb"
 ministry:
   - "Nærings- og fiskeridepartementet"
-date_in_force: "2009-05-20"
-last_change_in_force: "2023-02-01"
-last_updated: "2013-06-20"
-xml_hash: "ee08cd1d3fb1943c1d4019a4cb50651e2bf5c09fc2c9c02fc60fcf8a7ae10976"
+date_in_force: "2026-07-10"
+last_change_in_force: null
+last_updated: null
+xml_hash: "c57bc657012081e47f2acc170433bc457bfca9235de07c4c62af1e9962da00ea"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-14T06:08:36.087114+00:00"
 status: "current"
 eu_basis: []
 ---
 
-# Forskrift om omregningsfaktorer fra produktvekt og antall til rund vekt
+# Forskrift om bruk av omregningsfaktorer for omregning fra produktvekt og antall til rund vekt (forskrift om omregningsfaktorer)
 
-## § 1. Virkeområde
+## § 1. Formål
 
-Denne forskrift gjelder for norske fartøy. For utenlandske fartøy gjelder forskriften når de fisker i Norges økonomiske sone, fiskerisonen ved Jan Mayen og i fiskevernsonen rundt Svalbard og Svalbards territorialfarvann og indre farvann.
+Formålet med forskriften er å fremme bærekraftig forvaltning av de viltlevende marine ressursene ved å legge til rette for korrekt fangstrapportering på havet, samt registrering og kvoteavregning av ressursuttaket ved landing.
 
-## § 2. Omregningsfaktorer
+## § 2. Virkeområde
 
-Fartøy som nevnt i [§ 1](forskrift/2009-05-20-534/§1) skal angi fangster i rund vekt. Ved beregning av kvantum rund vekt ved kvoteavregning og kontroll av de beskrevne produkttilstander, skal omregningsfaktorer angitt i Fiskeridirektoratets tabeller «Omregningsfaktorer for produkter av ulike arter fra produktvekt til rund vekt» og «Omregningsfaktorer fra antall individ til rund vekt», benyttes.
+Forskriften gjelder for norske fiske- og fangstfartøy som er pålagt rapportering etter [forskrift 21. desember 2009 nr. 1743 om posisjonsrapportering og elektronisk rapportering for norske fiske- og fangstfartøy](forskrift/2009-12-21-1743). Forskriften gjelder for norske og utenlandske fiske- og fangstfartøy som er pålagt rapportering etter[Forskrift 31. august 2010 nr. 1231 om elektronisk rapportering for utenlandske fiske- og fangstfartøy i Norges økonomiske sone, territorialfarvann, fiskerisonen ved Jan Mayen og fiskevernsonen ved Svalbard](forskrift/2010-08-31-1231).[Forskrift 30. august 2010 nr. 1230 om rapportering (posisjon, fangst og aktivitet) og kontroll mv. ved fiske og fangst i Svalbards territorialfarvann](forskrift/2010-08-30-1230).[Forskrift 30. august 2010 nr. 1229 om rapportering (posisjon, fangst og aktivitet) og kontroll mv. ved fiske og fangst i fiskevernsonen ved Svalbard](forskrift/2010-08-30-1229).[Forskrift 21. desember 1999 nr. 1396 om utlendingers fiske og fangst mv. i fiskerisonen ved Jan Mayen](forskrift/1999-12-21-1396).[Forskrift 13. mai 1977 nr. 2 om utlendingers fiske og fangst mv. i Norges økonomiske sone og landinger til eller annen bruk av norsk havn](forskrift/1977-05-13-2).
 
-Dersom produktet ikke er beskrevet i Fiskeridirektoratets tabell over omregningsfaktorer for produkter av ulike arter fra produktvekt til rund vekt, eller i tabellen for omregningsfaktorer fra antall individ til rund vekt, må fisker i detalj dokumentere og beskrive produktet. I tillegg kan Fiskeridirektoratet pålegge fisker å sende inn opplysninger som nevnt i første setning, samt legge til rette for kontroll om bord i fartøyet.
+Forskriften gjelder også for fiskesalgslagene.
 
-> Endret ved [forskrifter 30 april 2010 nr. 639](forskrift/2010-04-30-639), [30 juni 2018 nr. 1105](forskrift/2018-06-30-1105), [15 jan 2021 nr. 91](forskrift/2021-01-15-91), [1 des 2021 nr. 3356](forskrift/2021-12-01-3356) (i kraft 1 jan 2022), [6 juli 2022 nr. 1325](forskrift/2022-07-06-1325), [23 jan 2023 nr. 74](forskrift/2023-01-23-74) (i kraft 1 feb 2023).
+## § 3. Definisjoner
 
-## § 3. Delegering
+I denne forskriften menes med*fiske- og fangstfartøy:* ethvert fartøy som er utstyrt for eller driver høstingsaktivitet i ervervsøyemed, og fartøy som bistår fiske- og fangstfartøy, herunder transportfartøy som mottar fangst, lete- og forsøksfartøy og fartøy som utfører enhver form for bistand og forsyning,*fisk:* viltlevende marine ressurser samt produkter herav, med unntak av anadrome laksefisk,*rund fisk:* fisken slik den tas opp av havet,*bearbeidet fangst:* at fisken er produsert eller på annen måte behandlet slik at den er et annet produkt enn rund. Bløgging av fisk regnes etter denne forskriften ikke som bearbeiding,*produkttilstandskode:* Fiskeridirektoratets kode for fiskens tilstand på landings-/leveringstidspunktet, angitt i Fiskeridirektoratets kodeliste for landing og omsetning av fisk,*ansvarshavende om bord:* skipper (skipsfører) om bord på fartøyet som leder av besetningen og med ansvaret for driften av fartøyet.
 
-Fiskeridirektoratet kan endre de fastsatte omregningsfaktorer og fastsette nye omregningsfaktorer.
+## § 4. Bruk av omregningsfaktorer for fiske- og fangstfartøy
 
-> Endret ved [forskrifter 30 april 2010 nr. 639](forskrift/2010-04-30-639), [30 juni 2018 nr. 1105](forskrift/2018-06-30-1105) (tidligere § 4).
+Fiske- og fangstfartøy som nevnt i [§ 2 første](forskrift/2026-07-10-1545/§2/ledd/1) og [andre ledd](forskrift/2026-07-10-1545/§2/ledd/2) og som bearbeider fangst om bord, eller har fangst om bord som skal omregnes fra antall individ til rund vekt, skal bruke omregningsfaktorer angitt i Fiskeridirektoratets tabeller «Omregningsfaktorer for produkter av ulike arter fra produktvekt til rund vekt» og «Omregningsfaktorer fra antall individ til rund vekt» ved omregning fra produktvekt og antall individ til rund vekt. Beregnet rund vekt ved bruk av omregningsfaktorer skal oppgis ved rapportering i henhold til forskriftene nevnt i [§ 2 første](forskrift/2026-07-10-1545/§2/ledd/1) og [andre ledd](forskrift/2026-07-10-1545/§2/ledd/2).
 
-## § 4. Straff
+Ved høsting utført av norske fiske- og fangstfartøy innenfor en annen stats jurisdiksjon, skal de offisielle omregningsfaktorene som fastsettes av den aktuelle stat brukes ved rapportering av fangst.
 
-Den som forsettlig eller uaktsomt overtrer bestemmelser i denne forskriften straffes etter [§ 62 i lov 6. juni 2008 nr. 37 om forvaltning av viltlevande marine ressursar (havressurslova)](lov/2008-06-06-37/§62). På samme måte straffes medvirkning og forsøk.
+## § 5. Bruk av omregningsfaktorer for fiskesalgslagene
 
-> Endret ved [forskrift 30 juni 2018 nr. 1105](forskrift/2018-06-30-1105) (tidligere § 5).
+For avregning av kvoter tildelt et fartøy, gruppekvoter og nasjonale kvoter, skal fiskesalgslagene ved landings- og sluttseddelført bearbeidet fangst bruke omregningsfaktorer angitt i Fiskeridirektoratets tabell «Omregningsfaktorer for produkter av ulike arter fra produktvekt til rund vekt». Dette gjelder uavhengig av hvor fangsten er høstet.
 
-## § 5. Ikrafttredelse
+## § 6. Krav til dokumentasjon ved manglende omregningsfaktorer
 
-Denne forskrift trer i kraft straks.
+Dersom et fartøy skal produsere et nytt produkt om bord eller høste en art som ikke er angitt i Fiskeridirektoratets tabeller over omregningsfaktorer for produkter av ulike arter fra produktvekt til rund vekt, eller fra antall individ til rund vekt, skal den ansvarshavende om bord på fartøyet dokumentere og beskrive produktet eller den bestemte arten.
 
-> Endret ved [forskrifter 30 april 2010 nr. 639](forskrift/2010-04-30-639), [30 juni 2018 nr. 1105](forskrift/2018-06-30-1105) (tidligere § 6).
+For fisk som skal bearbeides om bord, skal dokumentasjonen inneholde art, produkttilstand, inkludert skisse eller bilde av produktet. Målinger av produktets vekt i de ulike trinnene i produksjonen skal angis. Det skal i tillegg gis en beskrivelse av prosess og maskiner som benyttes for å produsere det nye produktet om bord.
+
+For de tilfeller der nødvendig omregningsfaktor ikke er gitt i Fiskeridirektoratets tabell over omregningsfaktorer fra antall individ til rund vekt, skal den ansvarshavende om bord på fartøyet angi art, kjønn og vekt av et representativt antall individer.
+
+Dokumentasjonen skal sendes til Fiskeridirektoratet senest 14 dager før turen starter.
+
+Fiskeridirektoratet kan kreve ytterligere dokumentasjon ved behov. Fartøyet skal bruke den omregningsfaktoren Fiskeridirektoratet fastsetter på bakgrunn av innsendt dokumentasjon.
+
+## § 7. Delegering
+
+Fiskeridirektoratet kan endre denne forskriften og de fastsatte omregningsfaktorene, og fastsette nye bestemmelser og omregningsfaktorer som er nødvendige for å fremme bærekraftig forvaltning av de viltlevende marine ressursene.
+
+## § 8. Overtredelsesgebyr
+
+Foretak og den som forsettlig eller uaktsomt overtrer bestemmelser gitt i forskriften kan ilegges overtredelsesgebyr etter [havressurslova § 59](lov/2008-06-06-37/§59), [økonomiske soneloven § 7a](lov/1976-12-17-91/§7a) og [forskrift 20. desember 2011 nr. 1437 om bruk av tvangsmulkt og overtredelsesgebyr ved brudd på havressurslova og deltakerloven](forskrift/2011-12-20-1437).
+
+## § 9. Straff og inndragning
+
+Den som forsettlig eller uaktsomt overtrer bestemmelser gitt i forskriften, straffes etter [havressurslova §§ 62](lov/2008-06-06-37/§62) og [64](lov/2008-06-06-37/§64), og [økonomiske soneloven § 8](lov/1976-12-17-91/§8).
+
+Inndragning kan skje etter [havressurslova § 65](lov/2008-06-06-37/§65) og [økonomiske soneloven § 9](lov/1976-12-17-91/§9).
+
+## § 10. Ikrafttredelse
+
+Forskriften trer i kraft straks.
+
+Fra samme tid oppheves [forskrift 20. mai 2009 nr. 534 om omregningsfaktorer fra produktvekt og antall til rund vekt](forskrift/2009-05-20-534).
