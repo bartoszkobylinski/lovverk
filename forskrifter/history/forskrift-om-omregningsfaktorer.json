@@ -1,6 +1,26 @@
 {
-  "doc_id": "sf-20090520-0534",
+  "doc_id": "sf-20260710-1545",
   "events": [
+    {
+      "commit": "ce3df5a",
+      "date": "2026-07-14",
+      "from_path": null,
+      "lines_added": 51,
+      "lines_removed": 25,
+      "subject": "add(forskrift): forskrift-om-omregningsfaktorer",
+      "to_path": null,
+      "type": "added"
+    },
+    {
+      "commit": "3d499af",
+      "date": "2026-04-29",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 1,
+      "subject": "migration: backfill eu_basis for 4523 documents",
+      "to_path": null,
+      "type": "updated"
+    },
     {
       "commit": "3dddeca",
       "date": "2026-04-27",

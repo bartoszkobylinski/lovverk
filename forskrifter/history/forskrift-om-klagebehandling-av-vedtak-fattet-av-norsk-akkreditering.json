@@ -2,6 +2,36 @@
   "doc_id": "sf-20191218-2175",
   "events": [
     {
+      "commit": "aab65c9",
+      "date": "2026-07-14",
+      "from_path": null,
+      "lines_added": 41,
+      "lines_removed": 0,
+      "subject": "add(forskrift): forskrift-om-klagebehandling-av-vedtak-fattet-av-norsk-akkreditering",
+      "to_path": null,
+      "type": "added"
+    },
+    {
+      "commit": "9c768b0",
+      "date": "2026-05-06",
+      "from_path": null,
+      "lines_added": 0,
+      "lines_removed": 41,
+      "subject": "remove(forskrift): forskrift-om-klagebehandling-av-vedtak-fattet-av-norsk-akkreditering",
+      "to_path": null,
+      "type": "removed"
+    },
+    {
+      "commit": "3d499af",
+      "date": "2026-04-29",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 1,
+      "subject": "migration: backfill eu_basis for 4523 documents",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "3dddeca",
       "date": "2026-04-27",
       "from_path": "forskrifter/sf-20191218-2175.md",

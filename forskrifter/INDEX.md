@@ -7,7 +7,7 @@ source_license: "NLOD 2.0"
 
 # Sentrale forskrifter
 
-_5147 current documents_
+_5149 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -1894,6 +1894,7 @@ _5147 current documents_
 - [forskrift-om-eksport-av-fisk-fiskevarer-og-marine-produkter](forskrift-om-eksport-av-fisk-fiskevarer-og-marine-produkter.md) — Forskrift om regulering av eksporten av fisk, fiskevarer og marine produkter
 - [forskrift-om-eksport-av-forsvarsmateriell-mv](forskrift-om-eksport-av-forsvarsmateriell-mv.md) — Forskrift om eksport av forsvarsmateriell, flerbruksvarer, teknologi og tjenester
 - [forskrift-om-eksport-av-luftfartøy-mv](forskrift-om-eksport-av-luftfartøy-mv.md) — Forskrift om eksport av luftfartøy, flymotor og flypropell
+- [forskrift-om-ekstraordinære-tiltak-i-fisket-etter-anadrome-laksefisk-i-vassdrag-og-sjøområder-i-2026](forskrift-om-ekstraordinære-tiltak-i-fisket-etter-anadrome-laksefisk-i-vassdrag-og-sjøområder-i-2026.md) — Forskrift om ekstraordinære tiltak i fisket etter anadrome laksefisk i vassdrag og sjøområder i 2026
 - [forskrift-om-ekstrautbetaling-av-produksjonstilskudd-i-2022](forskrift-om-ekstrautbetaling-av-produksjonstilskudd-i-2022.md) — Forskrift om ekstrautbetaling av produksjonstilskudd i 2022
 - [forskrift-om-elektrisk-kraft-over-landegrensene](forskrift-om-elektrisk-kraft-over-landegrensene.md) — Forskrift om vilkår for tilgang til nett for utveksling av elektrisk kraft over landegrensene
 - [forskrift-om-elektrisk-utstyr](forskrift-om-elektrisk-utstyr.md) — Forskrift om elektrisk utstyr
@@ -2518,6 +2519,7 @@ _5147 current documents_
 - [forskrift-om-kjøring-med-motorvogn-i-terreng-mv](forskrift-om-kjøring-med-motorvogn-i-terreng-mv.md) — Forskrift om kjøring med motorvogn i terrenget og på veg ikke åpen for alminnelig ferdsel.
 - [forskrift-om-kjøring-på-lukket-bane-eller-annet-avsperret-område-og-om-annen-bruk-av-gokart](forskrift-om-kjøring-på-lukket-bane-eller-annet-avsperret-område-og-om-annen-bruk-av-gokart.md) — Forskrift om kjøring på lukket bane eller annet avsperret område og om annen bruk av gokart
 - [forskrift-om-klage-ved-vedtak-i-n-kulturråd-mv](forskrift-om-klage-ved-vedtak-i-n-kulturråd-mv.md) — Forskrift om unntak fra adgangen til å klage over vedtak i Norsk kulturråd, Norsk kassettavgiftsfond og Utvalget for statens stipend og garantiinntekter for kunstnere.
+- [forskrift-om-klagebehandling-av-vedtak-fattet-av-norsk-akkreditering](forskrift-om-klagebehandling-av-vedtak-fattet-av-norsk-akkreditering.md) — Forskrift om klagebehandling av vedtak fattet av Norsk akkreditering
 - [forskrift-om-klagenemnd-for-husbanken](forskrift-om-klagenemnd-for-husbanken.md) — Forskrift om klagenemnd for Husbanken
 - [forskrift-om-klagenemnd-for-offentlige-anskaffelser](forskrift-om-klagenemnd-for-offentlige-anskaffelser.md) — Forskrift om klagenemnd for offentlige anskaffelser
 - [forskrift-om-klagenemnd-psyk-skader-int-operasjoner](forskrift-om-klagenemnd-psyk-skader-int-operasjoner.md) — Forskrift om klagenemnda for krav om erstatning og kompensasjon for psykiske belastningsskader som følge av deltakelse i internasjonale operasjoner
@@ -2944,7 +2946,7 @@ _5147 current documents_
 - [forskrift-om-omregistreringsavgift](forskrift-om-omregistreringsavgift.md) — Forskrift om omregistreringsavgift
 - [forskrift-om-omregning-av-afp](forskrift-om-omregning-av-afp.md) — Forskrift om omregning av avtalefestet pensjon for medlemmer av Statens pensjonskasse ved endringer i sivilstand mv.
 - [forskrift-om-omregning-av-uførepensjon-til-uføretrygd](forskrift-om-omregning-av-uførepensjon-til-uføretrygd.md) — Forskrift om omregning av uførepensjon til uføretrygd
-- [forskrift-om-omregningsfaktorer](forskrift-om-omregningsfaktorer.md) — Forskrift om omregningsfaktorer fra produktvekt og antall til rund vekt
+- [forskrift-om-omregningsfaktorer](forskrift-om-omregningsfaktorer.md) — Forskrift om bruk av omregningsfaktorer for omregning fra produktvekt og antall til rund vekt (forskrift om omregningsfaktorer)
 - [forskrift-om-omregningsfaktorer-for-råvarer](forskrift-om-omregningsfaktorer-for-råvarer.md) — Forskrift om omregningsfaktorer for råvarer til matmel og kraftfôrproduksjon ved fastsettelse av tollavgiftssatser og prisutjevningsbeløp
 - [forskrift-om-områdestenging-i-barentshavet](forskrift-om-områdestenging-i-barentshavet.md) — Forskrift om stenging av områder i Barentshavet og på kysten av Finnmark utenfor 4 nautiske mil for fiske med torsketrål og snurrevad
 - [forskrift-om-omsetning-av-tømmer-mv-opprinnelse-i-norge](forskrift-om-omsetning-av-tømmer-mv-opprinnelse-i-norge.md) — Forskrift om omsetning av tømmer og treprodukter med opprinnelse i Norge

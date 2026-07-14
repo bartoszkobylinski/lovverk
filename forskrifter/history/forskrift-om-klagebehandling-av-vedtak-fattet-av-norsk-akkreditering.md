@@ -1,6 +1,28 @@
+---
+type: "history"
+slug: "forskrift-om-klagebehandling-av-vedtak-fattet-av-norsk-akkreditering"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-klagebehandling-av-vedtak-fattet-av-norsk-akkreditering — Change history
 
-_2 events; doc_id `sf-20191218-2175`._
+_5 events; doc_id `sf-20191218-2175`._
+
+## 2026-07-14 — Added to corpus
+Lines: +41 -0.
+Subject: `add(forskrift): forskrift-om-klagebehandling-av-vedtak-fattet-av-norsk-akkreditering`
+Commit: `aab65c9`.
+
+## 2026-05-06 — Removed from corpus
+Lines: +0 -41.
+Subject: `remove(forskrift): forskrift-om-klagebehandling-av-vedtak-fattet-av-norsk-akkreditering`
+Commit: `9c768b0`.
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20191218-2175.md` → `forskrifter/forskrift-om-klagebehandling-av-vedtak-fattet-av-norsk-akkreditering.md`.
