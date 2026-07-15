@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Samferdselsdepartementet"
 date_in_force: "2016-01-01"
-last_change_in_force: "2024-11-01"
+last_change_in_force: "2026-07-15"
 last_updated: null
-xml_hash: "ade086fa7898ad3ca392a75d5c201bdcc9b8491698f0ca09d536f1f3204f2191"
+xml_hash: "ff1e7bb5ec85c67a28bbe3974c77b1710960c3e15accf7bb4d4d2132393a4fdf"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-04-29T11:20:30.048320+00:00"
+retrieved_at: "2026-07-15T06:11:59.231506+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -34,7 +34,9 @@ Forskriften gjelder for all flyging med modellfly eller luftfartøy som ikke har
 
 Forskriften gjelder ikke for luftfart som er regulert i [forskrift 1. november 2024 nr. 2777 om ubemannede luftfartøyer (BSL A 7-2)](forskrift/2024-11-01-2777).
 
-> Endret ved forskrifter [25 nov 2020 nr. 2460](forskrift/2020-11-25-2460) (i kraft 1 jan 2021), [1 nov 2024 nr. 2777](forskrift/2024-11-01-2777). **Endres** ved forskrift [15 jan 2026 nr. 48](forskrift/2026-01-15-48) (i kraft 15 juli 2026).
+Forskriften gjelder ikke for luftfart som er regulert i [forskrift 15. januar 2026 nr. 48 om sivil statsluftfart med ubemannet luftfartøy mv.](forskrift/2026-01-15-48)
+
+> Endret ved forskrifter [25 nov 2020 nr. 2460](forskrift/2020-11-25-2460) (i kraft 1 jan 2021), [1 nov 2024 nr. 2777](forskrift/2024-11-01-2777), [15 jan 2026 nr. 48](forskrift/2026-01-15-48) (i kraft 15 juli 2026).
 
 ### § 3. Militær luftfart
 
@@ -138,11 +140,9 @@ Operatøren er ansvarlig for at det foreligger forsikring som dekker erstatnings
 
 Ingen må fly luftfartøy som ikke har fører om bord påvirket av alkohol eller annet berusende eller bedøvende middel. [Luftfartsloven § 6-11](lov/1993-06-11-101/§6-11) og [§ 6-13](lov/1993-06-11-101/§6-13) gjelder tilsvarende.
 
-### § 20. Våpen mv.
+### § 20. (Opphevet)
 
-Det er ikke tillatt å fly luftfartøy som ikke har fører om bord påmontert våpen eller våpensystemer. Det er ikke tillatt å fly luftfartøy som ikke har fører om bord påmontert raketter, fyrverkeri eller annet farlig utstyr uten tillatelse.
-
-> **Oppheves** ved forskrift [15 jan 2026 nr. 48](forskrift/2026-01-15-48) (i kraft 15 juli 2026).
+> Opphevet ved forskrift [15 jan 2026 nr. 48](forskrift/2026-01-15-48) (i kraft 15 juli 2026).
 
 ### § 21. Meldeplikt
 
@@ -448,17 +448,13 @@ Ved flyging i mørke skal luftfartøyet ha belysning i samsvar med kravene i for
 
 ## Kapittel 10. Statsluftfart
 
-### § 69. Statsluftfart
+### § 69. (Opphevet)
 
-Denne forskriftens bestemmelser, med unntak av [§ 18](forskrift/2015-11-30-1404/§18), gjelder tilsvarende for sivil statsluftfart med offentligrettslig formål i forbindelse med politivirksomhet, tollvirksomhet, offentlig søk- og redningstjeneste, brannslukking, kyst- og grensevakt eller lignende aktiviteter og tjenester.
+> Opphevet ved forskrift [15 jan 2026 nr. 48](forskrift/2026-01-15-48) (i kraft 15 juli 2026).
 
-> **Oppheves** ved forskrift [15 jan 2026 nr. 48](forskrift/2026-01-15-48) (i kraft 15 juli 2026).
+### § 70. (Opphevet)
 
-### § 70. Områder med forbud mot flyging
-
-Flyging i restriksjonsområder og andre områder hvor forskriften fastsetter forbud mot flyging, er tillatt for sivilt statsluftfartøy som ikke har fører om bord i forbindelse med politivirksomhet, tollvirksomhet, offentlig søk- og redningstjeneste og brannslukking.
-
-> **Oppheves** ved forskrift [15 jan 2026 nr. 48](forskrift/2026-01-15-48) (i kraft 15 juli 2026).
+> Opphevet ved forskrift [15 jan 2026 nr. 48](forskrift/2026-01-15-48) (i kraft 15 juli 2026).
 
 ## Kapittel 11. Sluttbestemmelser
 
