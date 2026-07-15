@@ -7,7 +7,7 @@ source_license: "NLOD 2.0"
 
 # Sentrale forskrifter
 
-_5149 current documents_
+_5151 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -869,6 +869,7 @@ _5149 current documents_
 - [delegering-av-myndighet-etter-vegtrafikkloven-29a-til-vegdirektoratet](delegering-av-myndighet-etter-vegtrafikkloven-29a-til-vegdirektoratet.md) — Delegering av myndighet etter vegtrafikkloven § 29a til Vegdirektoratet
 - [delegering-av-myndighet-etter-vegtrafikkloven-7b-til-statens-vegvesen](delegering-av-myndighet-etter-vegtrafikkloven-7b-til-statens-vegvesen.md) — Delegering av myndighet etter vegtrafikkloven § 7b til Statens vegvesen
 - [delegering-av-myndighet-etter-viltressursloven-45-46-47-og-49-fra-klima-og-miljødepartementet-til-miljødirektoratet](delegering-av-myndighet-etter-viltressursloven-45-46-47-og-49-fra-klima-og-miljødepartementet-til-miljødirektoratet.md) — Delegering av myndighet etter viltressursloven §§ 45, 46, 47 og 49 fra Klima- og miljødepartementet til Miljødirektoratet
+- [delegering-av-myndighet-etter-viltressursloven-fra-klima-og-miljødepartementet-til-miljødirektoratet](delegering-av-myndighet-etter-viltressursloven-fra-klima-og-miljødepartementet-til-miljødirektoratet.md) — Delegering av myndighet etter viltressursloven fra Klima- og miljødepartementet til Miljødirektoratet
 - [delegering-av-myndighet-fiskerideltagelsesloven](delegering-av-myndighet-fiskerideltagelsesloven.md) — Delegering av Kongens myndighet etter lov av 16. juni 1972 nr. 57 om deltagelsen i fisket § 6.
 - [delegering-av-myndighet-fra-helse-og-omsorgsdepartementet-til-helsedirektoratet](delegering-av-myndighet-fra-helse-og-omsorgsdepartementet-til-helsedirektoratet.md) — Delegering av myndighet fra Helse- og omsorgsdepartementet til Helsedirektoratet
 - [delegering-av-myndighet-fra-justis-og-beredskapsdepartementet-til-politidirektoratet-etter-tvisteloven-2-5-og-hundeloven-26](delegering-av-myndighet-fra-justis-og-beredskapsdepartementet-til-politidirektoratet-etter-tvisteloven-2-5-og-hundeloven-26.md) — Delegering av myndighet fra Justis- og beredskapsdepartementet til Politidirektoratet etter tvisteloven § 2-5 og hundeloven § 26
@@ -1952,6 +1953,7 @@ _5149 current documents_
 - [forskrift-om-endring-i-forskrift-om-studier-ved-dronning-mauds-minne-høgskole-for-barnehagelærerutdanning](forskrift-om-endring-i-forskrift-om-studier-ved-dronning-mauds-minne-høgskole-for-barnehagelærerutdanning.md) — Forskrift om endring i forskrift om studier ved Dronning Mauds Minne Høgskole for barnehagelærerutdanning
 - [forskrift-om-endring-i-forskrift-om-studier-ved-norges-miljø-og-biovitenskapelige-universitet](forskrift-om-endring-i-forskrift-om-studier-ved-norges-miljø-og-biovitenskapelige-universitet.md) — Forskrift om endring i forskrift om studier ved Norges miljø- og biovitenskapelige universitet (NMBU)
 - [forskrift-om-endring-i-forskrift-om-terskelverdier-for-beslutning-om-å-unnlate-revisjon-etter-aksjeloven-7-6](forskrift-om-endring-i-forskrift-om-terskelverdier-for-beslutning-om-å-unnlate-revisjon-etter-aksjeloven-7-6.md) — Forskrift om endring i forskrift om terskelverdier for beslutning om å unnlate revisjon etter aksjeloven § 7-6
+- [forskrift-om-endring-i-forskrift-om-tilskudd-til-frivillig-aktivitet-på-forsvars-og-sikkerhetsområdet-kapittel-3-og-4-med-tilhørende-tekst](forskrift-om-endring-i-forskrift-om-tilskudd-til-frivillig-aktivitet-på-forsvars-og-sikkerhetsområdet-kapittel-3-og-4-med-tilhørende-tekst.md) — Forskrift om endring i forskrift om tilskudd til frivillig aktivitet på forsvars- og sikkerhetsområdet – kapittel 3 og 4, med tilhørende tekst
 - [forskrift-om-endring-i-forskrifter-om-fritak-for-egenandeler-for-barn-under-18-år-under-egenandelstakordningen](forskrift-om-endring-i-forskrifter-om-fritak-for-egenandeler-for-barn-under-18-år-under-egenandelstakordningen.md) — Forskrift om endring i forskrifter om fritak for egenandeler for barn under 18 år under egenandelstakordningen
 - [forskrift-om-endring-i-spesialistforskriften](forskrift-om-endring-i-spesialistforskriften.md) — Forskrift om endring i spesialistforskriften
 - [forskrift-om-endringer-i-forskrift-om-fiske-etter-anadrome-laksefisk-i-vassdrag](forskrift-om-endringer-i-forskrift-om-fiske-etter-anadrome-laksefisk-i-vassdrag.md) — Forskrift om endringer i forskrift om fiske etter anadrome laksefisk i vassdrag

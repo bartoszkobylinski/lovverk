@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260709-1547",
+  "events": [
+    {
+      "commit": "61c5a3b",
+      "date": "2026-07-15",
+      "from_path": null,
+      "lines_added": 57,
+      "lines_removed": 0,
+      "subject": "add(forskrift): forskrift-om-endring-i-forskrift-om-tilskudd-til-frivillig-aktivitet-på-forsvars-og-sikkerhetsområdet-kapittel-3-og-4-med-tilhørende-tekst",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-endring-i-forskrift-om-tilskudd-til-frivillig-aktivitet-på-forsvars-og-sikkerhetsområdet-kapittel-3-og-4-med-tilhørende-tekst"
+}

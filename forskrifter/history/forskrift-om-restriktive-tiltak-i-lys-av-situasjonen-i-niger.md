@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-restriktive-tiltak-i-lys-av-situasjonen-i-niger — Change history
 
-_3 events; doc_id `sf-20250815-1655`._
+_4 events; doc_id `sf-20250815-1655`._
+
+## 2026-07-15 — Content updated
+Lines: +6 -4.
+Subject: `update(forskrift): forskrift-om-restriktive-tiltak-i-lys-av-situasjonen-i-niger`
+Commit: `1712bc4`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

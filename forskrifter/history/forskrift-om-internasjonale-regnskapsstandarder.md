@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-internasjonale-regnskapsstandarder — Change history
 
-_3 events; doc_id `sf-20041217-1852`._
+_4 events; doc_id `sf-20041217-1852`._
+
+## 2026-07-15 — Content updated
+Lines: +5 -5.
+Subject: `update(forskrift): forskrift-om-internasjonale-regnskapsstandarder`
+Commit: `05ee4c1`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.

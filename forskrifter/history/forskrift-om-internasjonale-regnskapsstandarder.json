@@ -2,6 +2,16 @@
   "doc_id": "sf-20041217-1852",
   "events": [
     {
+      "commit": "05ee4c1",
+      "date": "2026-07-15",
+      "from_path": null,
+      "lines_added": 5,
+      "lines_removed": 5,
+      "subject": "update(forskrift): forskrift-om-internasjonale-regnskapsstandarder",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "3d499af",
       "date": "2026-04-29",
       "from_path": null,

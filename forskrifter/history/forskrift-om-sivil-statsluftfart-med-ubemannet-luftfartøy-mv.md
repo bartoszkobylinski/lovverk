@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-sivil-statsluftfart-med-ubemannet-luftfartøy-mv — Change history
 
-_3 events; doc_id `sf-20260115-0048`._
+_4 events; doc_id `sf-20260115-0048`._
+
+## 2026-07-15 — Content updated
+Lines: +3 -9.
+Subject: `update(forskrift): forskrift-om-sivil-statsluftfart-med-ubemannet-luftfartøy-mv`
+Commit: `f0de461`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.
