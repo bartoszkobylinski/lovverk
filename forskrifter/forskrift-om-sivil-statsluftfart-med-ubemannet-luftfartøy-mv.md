@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2026-07-15"
 last_change_in_force: null
 last_updated: null
-xml_hash: "351ac05bff17a2e26b55f718cc56b0a152645a159682024708c465193bd27fd7"
+xml_hash: "013fff6009710bfb0f45a81ab2ff4621976509a16847c96328f0a7310558091b"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-15T06:11:59.231506+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -232,13 +232,7 @@ Ved brudd på bestemmelser etter denne forskriften kan Luftfartstilsynet pålegg
 
 ### § 39. Endring i annen forskrift
 
-I [forskrift 30. november 2015 nr. 1404 om luftfartøy som ikke har fører om bord mv.](forskrift/2015-11-30-1404) gjøres følgende endringer:
-
-[§ 2](forskrift/2015-11-30-1404/§2) nytt tredje ledd skal lyde
-
-Forskriften gjelder ikke for luftfart som er regulert i [forskrift 15. januar 2026 nr. 48 om sivil statsluftfart med ubemannet luftfartøy mv.](forskrift/2026-01-15-48)
-
-[§ 20](forskrift/2015-11-30-1404/§20), [§ 69](forskrift/2015-11-30-1404/§69) og [§ 70](forskrift/2015-11-30-1404/§70) oppheves.
+I [forskrift 30. november 2015 nr. 1404 om luftfartøy som ikke har fører om bord mv.](forskrift/2015-11-30-1404) gjøres følgende endringer: – – –
 
 ### § 40. Ikrafttredelse
 
