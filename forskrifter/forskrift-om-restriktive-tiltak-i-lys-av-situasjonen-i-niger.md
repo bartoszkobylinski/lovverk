@@ -10,12 +10,12 @@ ministry:
   - "Utenriksdepartementet"
 date_in_force: "2025-08-15"
 last_change_in_force: null
-last_updated: null
-xml_hash: "5c826797ff179129a5839cf6f70e3837247a94c41ddbc94a1d47d3fa1219a861"
+last_updated: "2026-07-14"
+xml_hash: "b74fde7792510f0779de98871e84a3bd8dd98d13782d689160e29d62852ef336"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-15T06:11:59.231506+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -129,7 +129,9 @@ I denne forordning menes med«krav»: ethvert omtvistet eller uomtvistet krav so
 
 1\. Dersom penger og formuesgoder fryses eller ikke stilles til rådighet og dette gjøres i god tro på det grunnlag at slike tiltak er i samsvar med denne forordningen, skal dette ikke medføre noen form for ansvar for den fysiske eller juridiske personen, enheten eller organet som gjennomfører tiltaket, eller for deres ledere eller ansatte, med mindre det kan bevises at pengene eller formuesgodene ble frosset eller tilbakeholdt som følge av uaktsomhet.
 
-2\. Handlinger utført av fysiske eller juridiske personer, enheter eller organer skal ikke medføre noen form for ansvar for disse personene, enhetene eller organene dersom de ikke hadde kjennskap til eller rimelig grunn til å anta at deres handlinger ville være i strid med tiltakene fastsatt i denne forordningen.Artikkel 11
+2\. Handlinger utført av fysiske eller juridiske personer, enheter eller organer skal ikke medføre noen form for ansvar for disse personene, enhetene eller organene dersom de ikke hadde kjennskap til eller rimelig grunn til å anta at deres handlinger ville være i strid med tiltakene fastsatt i denne forordningen.
+
+### Artikkel 11
 
 1\. Ingen krav i tilknytning til kontrakter eller transaksjoner der gjennomføringen er påvirket, direkte eller indirekte, helt eller delvis, av tiltakene som pålegges gjennom denne forordning, herunder erstatningskrav eller andre krav av denne typen, som krav om kompensasjon eller krav i henhold til en garanti, særlig krav om forlengelse eller innfrielse av en obligasjon, en garanti eller motgaranti, særlig finansielle garantier eller motgarantier, uansett form, skal imøtekommes dersom de framsettes avfysiske eller juridiske personer, enheter eller organer som er oppført i vedlegg I,fysiske eller juridiske personer, enheter eller organer som handler gjennom eller på vegne av en fysisk eller juridisk person, en enhet eller et organ omtalt i bokstav a.
 
