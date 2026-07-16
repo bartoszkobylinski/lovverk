@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Utenriksdepartementet"
 date_in_force: "2013-06-19"
-last_change_in_force: "2026-01-08"
+last_change_in_force: "2026-07-13"
 last_updated: "2021-05-18"
-xml_hash: "4ceae28902783fcf5672b455748702658faef02861b4650b616f43bf05f6cf2a"
+xml_hash: "0f43959abc6e5f0b28a912346a48ce6bc31b7dbd17af88052ccbc0562c828e5c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-16T06:14:47.366289+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -231,11 +231,11 @@ Lisenser som ikke er benyttet eller ikke kan benyttes som forutsatt, returneres 
 Forskriften trer i kraft straks. Fra samme tidspunkt oppheves [forskrift 10. januar 1989 nr. 51](forskrift/1989-01-10-51) til gjennomføring av utførselsreguleringen for strategiske varer, tjenester og teknologi.
 
 ## Vedlegg I
-Liste I – forsvarsrelaterte varer (2025)
+Liste I – forsvarsrelaterte varer (2026)
 
-For å lese vedlegg I se her: [pdf-fil](static/SF/sf-20130619-0718-01-14.pdf)
+For å lese vedlegg I se her: [pdf-fil](static/SF/sf-20130619-0718-01-15.pdf)
 
-> Endret ved forskrifter [30 juni 2014 nr. 898](forskrift/2014-06-30-898), [13 feb 2015 nr. 124](forskrift/2015-02-13-124), [21 des 2016 nr. 1831](forskrift/2016-12-21-1831), [6 juni 2017 nr. 740](forskrift/2017-06-06-740), [26 jan 2018 nr. 136](forskrift/2018-01-26-136), [9 april 2019 nr. 494](forskrift/2019-04-09-494), [9 april 2019 nr. 622](forskrift/2019-04-09-622), [11 mai 2020 nr. 994](forskrift/2020-05-11-994), [26 jan 2022 nr. 304](forskrift/2022-01-26-304), [9 mars 2023 nr. 635](forskrift/2023-03-09-635), [18 april 2024 nr. 686](forskrift/2024-04-18-686), [20 aug 2025 nr. 1674](forskrift/2025-08-20-1674), [19 sep 2025 nr. 1883](forskrift/2025-09-19-1883).
+> Endret ved forskrifter [30 juni 2014 nr. 898](forskrift/2014-06-30-898), [13 feb 2015 nr. 124](forskrift/2015-02-13-124), [21 des 2016 nr. 1831](forskrift/2016-12-21-1831), [6 juni 2017 nr. 740](forskrift/2017-06-06-740), [26 jan 2018 nr. 136](forskrift/2018-01-26-136), [9 april 2019 nr. 494](forskrift/2019-04-09-494), [9 april 2019 nr. 622](forskrift/2019-04-09-622), [11 mai 2020 nr. 994](forskrift/2020-05-11-994), [26 jan 2022 nr. 304](forskrift/2022-01-26-304), [9 mars 2023 nr. 635](forskrift/2023-03-09-635), [18 april 2024 nr. 686](forskrift/2024-04-18-686), [20 aug 2025 nr. 1674](forskrift/2025-08-20-1674), [19 sep 2025 nr. 1883](forskrift/2025-09-19-1883), [13 juli 2026 nr. 1553](forskrift/2026-07-13-1553).
 
 ## Vedlegg II
 Liste II – nasjonal liste over flerbruksvarer (2025)
