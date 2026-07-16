@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-eksport-av-forsvarsmateriell-mv — Change history
 
-_3 events; doc_id `sf-20130619-0718`._
+_4 events; doc_id `sf-20130619-0718`._
+
+## 2026-07-16 — Content updated
+Lines: +6 -6.
+Subject: `update(forskrift): forskrift-om-eksport-av-forsvarsmateriell-mv`
+Commit: `c988301`.
 
 ## 2026-04-29 — Content updated
 Lines: +2 -1.
