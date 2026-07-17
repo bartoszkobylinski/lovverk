@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "2022-05-19"
-last_change_in_force: "2026-06-09"
+last_change_in_force: "2026-07-13"
 last_updated: null
-xml_hash: "00d4cf2d51703f6e546b6372b542ea212ef5ad60d048a93c73d72c98085c25e4"
+xml_hash: "a0305f3941cc7e9bf974a72aab736140a5e7d0c03f8abe64aa97a8101e1f7c79"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-17T06:13:33.672616+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,13 +38,19 @@ eu_basis: []
 
 > Tilføyd ved forskrift [11 juli 2022 nr. 1347](forskrift/2022-07-11-1347).
 
+## § 2b. Metoder for prøvetaking og analyser og om tolkning av resultater ved offentlig kontroll
+
+[EØS-avtalen vedlegg I kap. II](avtale/avt-1992-05-02-1-v1/kapII) nr. 31y og [vedlegg II kap. XII](avtale/avt-1992-05-02-1-v2/kapXII) nr. 54zzzzzu (forordning [(EU) 2026/765](eu/32026r0765)) om metoder for prøvetaking og analyser og om tolking av resultater ved offentlig kontroll av plantevernmiddelrester i og på næringsmidler og fôrvarer av vegetabilsk og animalsk opprinnelse, og om oppheving av direktiv [2002/63/EF](eu/32002l0063) gjelder som forskrift med de tilpasninger som følger av vedlegg I og II, protokoll 1 til avtalen og avtalen for øvrig.
+
+> Tilføyd ved forskrift [13 juli 2026 nr. 1558](forskrift/2026-07-13-1558).
+
 ## § 3. Ikrafttredelse
 
 Forskriften trer i kraft straks. Fra samme tidspunkt oppheves [forskrift 16. desember 2021 nr. 3644 om et felles koordinert overvåkningsprogram for 2022, 2023 og 2024 for rester av plantevernmidler i næringsmidler](forskrift/2021-12-16-3644).
 
 ## Forordninger
 
-> Endret ved forskrifter [11 juli 2022 nr. 1347](forskrift/2022-07-11-1347), [12 des 2022 nr. 2280](forskrift/2022-12-12-2280) (i kraft 1 jan 2023), [5 feb 2024 nr. 192](forskrift/2024-02-05-192), [11 feb 2025 nr. 211](forskrift/2025-02-11-211), [9 juni 2026 nr. 1051](forskrift/2026-06-09-1051).
+> Endret ved forskrifter [11 juli 2022 nr. 1347](forskrift/2022-07-11-1347), [12 des 2022 nr. 2280](forskrift/2022-12-12-2280) (i kraft 1 jan 2023), [5 feb 2024 nr. 192](forskrift/2024-02-05-192), [11 feb 2025 nr. 211](forskrift/2025-02-11-211), [9 juni 2026 nr. 1051](forskrift/2026-06-09-1051), [13 juli 2026 nr. 1558](forskrift/2026-07-13-1558).
 
 Se her for å lese forordning [(EU) 2021/1355](eu/32021r1355) (uoffisiell oversettelse):
 
@@ -57,3 +63,5 @@ Se her for å lese forordning [(EU) 2025/854](eu/32025r0854) (uoffisiell overset
 Se her for å lese forordning [(EU) 2021/2244](eu/32021r2244) (uoffisiell oversettelse):
 
 - [pdf-fil](static/SF/32021r2244u-01.pdf)
+
+Se her for å lese forordning [(EU) 2026/765](eu/32026r0765) (uoffisiell norsk oversettelse, forordningen gjelder/må følges fra 1. januar 2027):[pdf-fil](static/SF/32026r0765u-01.pdf).
