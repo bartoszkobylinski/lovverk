@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Landbruks- og matdepartementet"
 date_in_force: "2022-09-07"
-last_change_in_force: "2026-05-07"
+last_change_in_force: "2026-07-14"
 last_updated: null
-xml_hash: "2b83be80335034d2f454c89a2ba25f04fb3f1184ba3e338fdf66284bdf47badc"
+xml_hash: "62cf50455b59861de3ba2dc091ecb7356e414241daf624db6e35b27d2cbad8d7"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-07T08:02:32.100170+00:00"
+retrieved_at: "2026-07-17T06:13:33.672616+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -38,13 +38,17 @@ Forordning [(EU) 2022/2304](eu/32022r2304) om utpeking av EUs referanselaborator
 
 Forordning [(EU) 2024/1004](eu/32024r1004) om opprettelse av EUs referanselaboratorium for næringsmiddelforbedringsmidler, som inntatt i [EØS-avtalen vedlegg II kapittel XII](avtale/avt-1992-05-02-1-v2/kapXII) nr. 164zj, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av [vedlegg II](avtale/avt-1992-05-02-1-v2), protokoll 1 til avtalen og avtalen for øvrig.
 
-> Tilføyd ved forskrift [7 mai 2026 nr. 751](forskrift/2026-05-07-751).
+Beslutning [(EU) 2024/1941](eu/32024d1941) om utpeking av EUs referanselaboratorium for næringsmiddelforbedringsmidler, som inntatt i [EØS-avtalen vedlegg II kapittel XII](avtale/avt-1992-05-02-1-v2/kapXII) nr. 164zk, gjelder som forskrift. Beslutningen gjelder med tilpasningene som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig**.**
+
+> Tilføyd ved forskrift [7 mai 2026 nr. 751](forskrift/2026-05-07-751), endret ved forskrift [14 juli 2026 nr. 1560](forskrift/2026-07-14-1560).
 
 ## § 3. Ikrafttredelse
 
 Denne forskrift trer i kraft straks.
 
-## Forordninger
+## Forordninger og beslutninger
+
+> Endret ved forskrift [14 juli 2026 nr. 1560](forskrift/2026-07-14-1560).
 
 ### Forordning (EU) 2021/2156
 
@@ -203,3 +207,50 @@ Denne forordningen trer i kraft den 20. dagen etter at den er kunngjort i *Den e
 Denne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.Utferdiget i Brussel 22. januar 2024.*For Kommisjonen*
 Ursula VON DER LEYEN
 *President*
+
+### Beslutning [(EU) 2024/1941](eu/32024d1941)
+
+> Tilføyd ved forskrift [14 juli 2026 nr. 1560](forskrift/2026-07-14-1560).
+
+Nedenfor gjengis til informasjon en uoffisiell norsk oversettelse av beslutning [(EU) 2024/1941](eu/32024d1941).
+
+### KOMMISJONENS GJENNOMFØRINGSBESLUTNING [(EU) 2024/1941](eu/32024d1941)
+av 22. juli 2024
+om utpeking av et EU-referanselaboratorium for næringsmiddelforbedringsmidler i samsvar med europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625)
+
+EUROPAKOMMISJONEN HAR
+
+under henvisning til [traktaten om Den europeiske unions virkemåte](eu/12016e),
+
+under henvisning til europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) av 15. mars 2017 om offentlig kontroll og annen offentlig virksomhet som gjennomføres for å sikre anvendelsen av næringsmiddel- og fôrvareregelverket samt regler for dyrs helse og velferd, plantehelse og plantevernmidler, om endring av europaparlaments- og rådsforordning [(EF) nr. 999/2001](eu/32001r0999), [(EF) nr. 396/2005](eu/32005r0396), [(EF) nr. 1069/2009](eu/32009r1069), [(EF) nr. 1107/2009](eu/32009r1107), [(EU) nr. 1151/2012](eu/32012r1151), [(EU) nr. 652/2014](eu/32014r0652), [(EU) 2016/429](eu/32016r0429) og [(EU) 2016/2031](eu/32016r2031), rådsforordning (EF) nr. 1/2005 og [(EF) nr. 1099/2009](eu/32009r1099) samt rådsdirektiv [98/58/EF](eu/31998l0058), [1999/74/EF](eu/31999r0074), [2007/43/EF](eu/32007r0043), [2008/119/EF](eu/32008d0119) og [2008/120/EF](eu/32008r0120) og om oppheving av europaparlaments- og rådsforordning [(EF) nr. 854/2004](eu/32004r0854) og [(EF) nr. 882/2004](eu/32004r0882), rådsdirektiv [89/608/EØF](eu/31989l0608), [89/662/EØF](eu/31989r0662), [90/425/EØF](eu/31990r0425), [91/496/EØF](eu/31991r0496), [96/23/EF](eu/31996r0023), [96/93/EF](eu/31996l0093) og [97/78/EF](eu/31997r0078) og rådsvedtak [92/438/EØF](eu/31992d0438) (forordningen om offentlig kontroll)1, særlig artikkel 93 nr. 1, og
+
+ut fra følgende betraktninger:
+
+1. EU-referanselaboratoriet for næringsmiddelforbedringsmidler er opprettet ved delegert kommisjonsforordning [(EU) 2024/1004](eu/32024r1004)2.
+2. I samsvar med artikkel 93 nr. 2 bokstav a) i forordning [(EU) 2017/625](eu/32017r0625) har Kommisjonen gjennomført en offentlig utvelgingsprosess for å utpeke EU-referanselaboratoriet for næringsmiddelforbedringsmidler. Evalueringen av de mottatte søknadene ble gjennomført på grunnlag av kravene og oppgavene som er fastsatt i artikkel 93 nr. 3 og artikkel 94 i forordning [(EU) 2017/625](eu/32017r0625), og på grunnlag av kriteriene som er fastsatt i utlysningen.
+3. På grunnlag av resultatene av evalueringen bør det belgiske laboratoriet Sciensano utpekes til EU-referanselaboratorium for næringsmiddelforbedringsmidler. Laboratoriets arbeidsprogram skal fastsettes i samsvar med målene og prioriteringene i de relevante arbeidsprogrammene vedtatt av Kommisjonen i samsvar med europaparlaments- og rådsforordning [(EU) nr. 2021/690](eu/32021r0690)3.
+4. For å sikre at det opprettholdes et hensiktsmessig nivå på analyse-, test- og diagnosemetodene, utarbeidingen av validerte metoder og den samordnede bistanden fra det offisielle laboratoriet, og i samsvar med artikkel 93 nr. 2 bokstav b) i forordning [(EU) 2017/625](eu/32017r0625), bør utpekingen som EU-referanselaboratorium gjennomgås regelmessig.
+5. Det utpekte EU-referanselaboratoriet for næringsmiddelforbedringsmidler bør gis tid til å utarbeide sitt arbeidsprogram for neste budsjettperiode. Denne beslutningen bør derfor få anvendelse fra 1. august 2024.
+
+1 EUT L 95 av 7.4.2017, s. 1, ELI: [http://data.europa.eu/eli/reg/2017/625/oj](https://data.europa.eu/eli/reg/2017/625/oj).
+
+2 Delegert kommisjonsforordning [(EU) 2024/1004](eu/32024r1004) av 22. januar 2024 om utfylling av europaparlaments- og rådsforordning [(EU) 2017/625](eu/32017r0625) ved å opprette Den europeiske unions referanselaboratorium for næringsmiddelforbedringsmidler (EUT L, 2024/1004, 3.4.2024, ELI: [http://data.europa.eu/eli/reg_del/2024/1004/oj](https://data.europa.eu/eli/reg_del/2024/1004/oj)).
+
+3 Europaparlaments- og rådsforordning [(EU) 2021/690](eu/32021r0690) av 28. april 2021 om opprettelse av et program for det indre marked, foretaks konkurranseevne, herunder små og mellomstore bedrifter, området planter, dyr, næringsmidler og fôr, og europeisk statistikk (programmet for det indre marked) og om oppheving av forordning [(EU) nr. 99/2013](eu/32013r0099), [(EU) nr. 1287/2013](eu/32013r1287), [(EU) nr. 254/2014](eu/32014d0254) og [(EU) nr. 652/2014](eu/32014r0652) (EUT L 153 av 3.5.2021, s. 1, ELI: [http://data.europa.eu/eli/reg/2021/690/oj](https://data.europa.eu/eli/reg/2021/690/oj)).
+
+TRUFFET DENNE BESLUTNINGEN:
+
+### Artikkel 1
+
+1. Følgende laboratorium utpekes til Den europeiske unions referanselaboratorium for næringsmiddelforbedringsmidler: Sciensano, Rue Juliette Wytsmanstraat 14, BE-1050 Brussel, Belgia.
+2. Utpekingen det vises til i nr. 1 skal gjennomgås regelmessig.
+
+### Artikkel 2
+
+Denne beslutningen får anvendelse fra 1. august 2024.
+
+### Artikkel 3
+
+Denne beslutningen er rettet til medlemsstatene.Utferdiget i Brussel 22. juli 2024.*For Kommisjonen*
+Stella KYRIAKIDES
+*Medlem av Kommisjonen*
