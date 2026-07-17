@@ -7,7 +7,7 @@ source_license: "NLOD 2.0"
 
 # Sentrale forskrifter
 
-_5151 current documents_
+_5152 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -1940,6 +1940,7 @@ _5151 current documents_
 - [forskrift-om-endring-i-forskrift-om-nasjonal-retningslinje-for-sykepleierutdanning-2](forskrift-om-endring-i-forskrift-om-nasjonal-retningslinje-for-sykepleierutdanning-2.md) — Forskrift om endring i forskrift om nasjonal retningslinje for sykepleierutdanning
 - [forskrift-om-endring-i-forskrift-om-nasjonal-retningslinje-for-sykepleierutdanning-3](forskrift-om-endring-i-forskrift-om-nasjonal-retningslinje-for-sykepleierutdanning-3.md) — Forskrift om endring i forskrift om nasjonal retningslinje for sykepleierutdanning
 - [forskrift-om-endring-i-forskrift-om-nedsettelse-av-pensjonsgivende-inntekt-pensjonsopptjening-og-avgift-når-fastsatt-skatt-og-avgift-helt-eller-delvis-ikke-er-betalt](forskrift-om-endring-i-forskrift-om-nedsettelse-av-pensjonsgivende-inntekt-pensjonsopptjening-og-avgift-når-fastsatt-skatt-og-avgift-helt-eller-delvis-ikke-er-betalt.md) — Forskrift om endring i forskrift om nedsettelse av pensjonsgivende inntekt, pensjonsopptjening og avgift når fastsatt skatt og avgift helt eller delvis ikke er betalt
+- [forskrift-om-endring-i-forskrift-om-offentlige-kontrollprogrammer-for-rester-av-plantevernmidler-i-næringsmidler-og-f-rvarer-og-forskrift-om-rester-av-plantevernmidler-i-næringsmidler-og-f-rvarer](forskrift-om-endring-i-forskrift-om-offentlige-kontrollprogrammer-for-rester-av-plantevernmidler-i-næringsmidler-og-f-rvarer-og-forskrift-om-rester-av-plantevernmidler-i-næringsmidler-og-f-rvarer.md) — Forskrift om endring i forskrift om offentlige kontrollprogrammer for rester av plantevernmidler i næringsmidler og fôrvarer og forskrift om rester av plantevernmidler i næringsmidler og fôrvarer
 - [forskrift-om-endring-i-forskrift-om-opptak-eksamen-og-sensur-for-fagskolen-møre-og-romsdal](forskrift-om-endring-i-forskrift-om-opptak-eksamen-og-sensur-for-fagskolen-møre-og-romsdal.md) — Forskrift om endring i forskrift om opptak, eksamen og sensur for Fagskolen Møre og Romsdal
 - [forskrift-om-endring-i-forskrift-om-opptak-studier-og-eksamen-ved-fagskolen-viken](forskrift-om-endring-i-forskrift-om-opptak-studier-og-eksamen-ved-fagskolen-viken.md) — Forskrift om endring i forskrift om opptak, studier og eksamen ved Fagskolen Viken
 - [forskrift-om-endring-i-forskrift-om-opptak-studier-og-eksamen-ved-handelshøyskolen-bi](forskrift-om-endring-i-forskrift-om-opptak-studier-og-eksamen-ved-handelshøyskolen-bi.md) — Forskrift om endring i forskrift om opptak, studier og eksamen ved Handelshøyskolen BI

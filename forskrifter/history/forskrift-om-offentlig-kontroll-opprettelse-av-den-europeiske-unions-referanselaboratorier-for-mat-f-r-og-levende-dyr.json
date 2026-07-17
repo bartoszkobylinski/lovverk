@@ -2,6 +2,16 @@
   "doc_id": "sf-20220907-1558",
   "events": [
     {
+      "commit": "86a1ed9",
+      "date": "2026-07-17",
+      "from_path": null,
+      "lines_added": 56,
+      "lines_removed": 5,
+      "subject": "update(forskrift): forskrift-om-offentlig-kontroll-opprettelse-av-den-europeiske-unions-referanselaboratorier-for-mat-f-r-og-levende-dyr",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "d672b6c",
       "date": "2026-07-07",
       "from_path": null,

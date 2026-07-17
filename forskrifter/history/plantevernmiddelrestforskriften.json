@@ -2,6 +2,16 @@
   "doc_id": "sf-20090818-1117",
   "events": [
     {
+      "commit": "70e6074",
+      "date": "2026-07-17",
+      "from_path": null,
+      "lines_added": 4,
+      "lines_removed": 2,
+      "subject": "update(forskrift): plantevernmiddelrestforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "baa4a9c",
       "date": "2026-06-11",
       "from_path": null,

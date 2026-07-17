@@ -2,6 +2,16 @@
   "doc_id": "sf-20220519-0902",
   "events": [
     {
+      "commit": "78a8a84",
+      "date": "2026-07-17",
+      "from_path": null,
+      "lines_added": 12,
+      "lines_removed": 4,
+      "subject": "update(forskrift): forskrift-om-offentlige-kontrollprogrammer-for-rester-av-plantevernmidler-i-næringsmidler-og-f-rvarer",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "af1d019",
       "date": "2026-06-16",
       "from_path": null,

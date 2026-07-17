@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # forskrift-om-offentlig-kontroll-opprettelse-av-den-europeiske-unions-referanselaboratorier-for-mat-f-r-og-levende-dyr — Change history
 
-_5 events; doc_id `sf-20220907-1558`._
+_6 events; doc_id `sf-20220907-1558`._
+
+## 2026-07-17 — Content updated
+Lines: +56 -5.
+Subject: `update(forskrift): forskrift-om-offentlig-kontroll-opprettelse-av-den-europeiske-unions-referanselaboratorier-for-mat-f-r-og-levende-dyr`
+Commit: `86a1ed9`.
 
 ## 2026-07-07 — Content updated
 Lines: +73 -13.
