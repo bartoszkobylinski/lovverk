@@ -13,11 +13,11 @@ ministry:
 date_in_force: "2009-08-18"
 last_change_in_force: "2026-06-08"
 last_updated: "2013-07-25"
-xml_hash: "e75ebebf12060fd17c22b0e34767f4096bcbdfa34e250410c0739c946be8a7d9"
+xml_hash: "0079298a98e18bfc6395b0945152ca0f920dd7a792bd89c02d303738664f996f"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-17T06:13:33.672616+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -37,6 +37,8 @@ EØS-avtalen vedlegg II kapittel XII nr. 54zzd (forordning [(EF) nr. 645/2000](e
 ## § 3. Direktiv 2002/63/EF
 
 EØS-avtalen vedlegg II kapittel XII nr. 54zz (direktiv [2002/63/EF](eu/32002l0063)) om fastsettelse av fellesskapsmetoder for prøvetaking ved offentlig kontroll av rester av plantevernmidler i og på produkter av vegetabilsk og animalsk opprinnelse og om oppheving av direktiv [79/700/EØF](eu/31979l0700) gjelder som forskrift med de tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.
+
+> Oppheves ved forskrift [13 juli 2026 nr. 1558](forskrift/2026-07-13-1558) (i kraft 1 jan 2027).
 
 ## § 4. Innhold av rester av plantevernmidler i barnemat mv.
 
