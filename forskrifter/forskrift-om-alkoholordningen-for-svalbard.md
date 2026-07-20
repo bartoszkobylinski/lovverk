@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "1999-01-01"
-last_change_in_force: "2026-06-03"
+last_change_in_force: "2026-07-20"
 last_updated: null
-xml_hash: "8fc33501bae85bd80439d3e7f110ba2ff8dfa417e20319b28c71dda460b81340"
+xml_hash: "a6a513148aaa8310e801e614a64873a91db973a372b98e4dd286722ee5491918"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-06-09T07:43:36.516087+00:00"
+retrieved_at: "2026-07-20T06:43:18.748413+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -182,9 +182,7 @@ Konsum av utskjenket alkoholholdig drikk må opphøre senest 30 minutter etter s
 
 På overnattingssteder kan det skjenkes øl og vin til overnattingsgjester uten hensyn til begrensningene i denne paragraf.
 
-Bevillingsmyndigheten kan for perioden 11. juni til 19. juli 2026 fastsette skjenketider for vin og øl som avviker fra fjerde ledd. Avvikende skjenketider kan bare fastsettes for skjenkesteder som viser direktesendte kamper i fotball-VM for herrer 2026 for stedets gjester.
-
-> Endret ved forskrift [3 juni 2026 nr. 1008](forskrift/2026-06-03-1008). **Endres** ved forskrift [3 juni 2026 nr. 1008](forskrift/2026-06-03-1008) (i kraft 20 juli 2026).
+> Endret ved forskrifter [3 juni 2026 nr. 1008](forskrift/2026-06-03-1008), [3 juni 2026 nr. 1008](forskrift/2026-06-03-1008) (i kraft 20 juli 2026).
 
 ### § 3-4. Inndragning av skjenkebevillinger
 
