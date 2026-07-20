@@ -7,7 +7,7 @@ source_license: "NLOD 2.0"
 
 # Lover
 
-_764 current documents_
+_763 current documents_
 
 - [a-opplysningsloven](a-opplysningsloven.md) — Lov om arbeidsgivers innrapportering av ansettelses- og inntektsforhold m.m. (a-opplysningsloven)
 - [abortloven](abortloven.md) — Lov om abort (abortloven)
@@ -111,7 +111,6 @@ _764 current documents_
 - [endringslov-angående-allmenninger-m-v](endringslov-angående-allmenninger-m-v.md) — Lov om opphevelse av og endringer i gjeldende lovgivning om allmenninger m.v.
 - [endringslov-om-datalagringsdirektivet](endringslov-om-datalagringsdirektivet.md) — Lov om endringer i ekomloven og straffeprosessloven mv. (gjennomføring av EUs datalagringsdirektiv i norsk rett)
 - [endringslov-til-aksjelovgivningen-mv](endringslov-til-aksjelovgivningen-mv.md) — Lov om endringer i aksjelovgivningen mv. (åpenhet om eierskap og deltakelse på generalforsamlingen)
-- [endringslov-til-alkoholloven](endringslov-til-alkoholloven.md) — Lov om midlertidig endring av alkoholloven (unntak fra maksimaltiden for skjenking under fotball-VM for herrer 2026)
 - [endringslov-til-allmenngjøringsloven](endringslov-til-allmenngjøringsloven.md) — Lov om endringer i allmenngjøringsloven (anvendelse på Svalbard)
 - [endringslov-til-anskaffelsesloven](endringslov-til-anskaffelsesloven.md) — Lov om endringer i anskaffelsesloven (samfunnshensyn mv.)
 - [endringslov-til-arbeidsmiljøloven-og-folketrygdloven](endringslov-til-arbeidsmiljøloven-og-folketrygdloven.md) — Lov om endringer i arbeidsmiljøloven og folketrygdloven (hjemmel for oppdragsgiveransvar for å sikre overholdelse av krav om HMS-kort og trekk av fagforeningskontingent i ytelser)

@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # alkoholloven-alkhl — Change history
 
-_4 events; doc_id `nl-19890602-027`._
+_5 events; doc_id `nl-19890602-027`._
+
+## 2026-07-20 — Content updated
+Lines: +5 -7.
+Subject: `update(lov): alkoholloven-alkhl`
+Commit: `40ebbe7`.
 
 ## 2026-05-30 — Content updated
 Lines: +6 -4.

@@ -2,6 +2,16 @@
   "doc_id": "nl-19890602-027",
   "events": [
     {
+      "commit": "40ebbe7",
+      "date": "2026-07-20",
+      "from_path": null,
+      "lines_added": 5,
+      "lines_removed": 7,
+      "subject": "update(lov): alkoholloven-alkhl",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "9f5af61",
       "date": "2026-05-30",
       "from_path": null,
