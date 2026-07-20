@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Helse- og omsorgsdepartementet"
 date_in_force: "1990-01-01"
-last_change_in_force: "2026-05-29"
+last_change_in_force: "2026-07-20"
 last_updated: "2023-03-15"
-xml_hash: "9ef625cbcb492d644da49b2e144f5c2c98b943c2551ca1c5ab7b23afadbab55a"
+xml_hash: "634548ba2fd44260724758fb38ebf3cf88526261476c72798b85a9d0d2bc9d5e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-lover"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-20T06:43:18.748413+00:00"
 status: "current"
 eu_basis:
   - "32017R2394"
@@ -522,9 +522,7 @@ På overnattingssteder kan det skjenkes alkoholholdig drikk gruppe 1 og 2 til ov
 
 Ved bransjeintern prøvesmaking kan det skjenkes alkoholholdig drikk gruppe 1, 2 og 3 fra kl. 06.00 til 03.00 uten hensyn til begrensningene i denne paragrafen. Departementet kan gi forskrifter om hvilke krav som må være oppfylt for at en aktivitet skal anses som bransjeintern prøvesmaking, herunder om plikt til å gi melding om prøvesmakingen til bevillingsmyndigheten.
 
-Kommunestyret kan for perioden 11. juni til 19. juli 2026 fastsette skjenketider for alkoholholdig drikk gruppe 1 og 2 som avviker fra fjerde ledd annet punktum. Dette kan fastsettes generelt for kommunen eller for det enkelte skjenkested. Avvikende skjenketider kan bare fastsettes for skjenkesteder som viser direktesendte kamper i fotball-VM for herrer 2026 for stedets gjester.
-
-> Endret ved [lover 16 mai 1997 nr. 28](lov/1997-05-16-28) (ikr. 1 jan 1998), [17 des 2004 nr. 86](lov/2004-12-17-86) (ikr. 1 juli 2005 iflg. [res. 17 juni 2005 nr. 599](forskrift/2005-06-17-599)), [6 mai 2011 nr. 13](lov/2011-05-06-13) (ikr. 1 jan 2012 iflg. [res. 6 mai 2011 nr. 466](forskrift/2011-05-06-466)), [22 juni 2018 nr. 76](lov/2018-06-22-76) (ikr. 1 nov 2018 iflg. [res. 28 sep 2018 nr. 1482](forskrift/2018-09-28-1482)), [29 mai 2026 nr. 21](lov/2026-05-29-21). **Endres** ved lov [29 mai 2026 nr. 21](lov/2026-05-29-21) (i kraft 20 juli 2026, niende ledd oppheves).
+> Endret ved lover [16 mai 1997 nr. 28](lov/1997-05-16-28) (ikr. 1 jan 1998), [17 des 2004 nr. 86](lov/2004-12-17-86) (ikr. 1 juli 2005 iflg. [res. 17 juni 2005 nr. 599](forskrift/2005-06-17-599)), [6 mai 2011 nr. 13](lov/2011-05-06-13) (ikr. 1 jan 2012 iflg. [res. 6 mai 2011 nr. 466](forskrift/2011-05-06-466)), [22 juni 2018 nr. 76](lov/2018-06-22-76) (ikr. 1 nov 2018 iflg. [res. 28 sep 2018 nr. 1482](forskrift/2018-09-28-1482)), [29 mai 2026 nr. 21](lov/2026-05-29-21), [29 mai 2026 nr. 21](lov/2026-05-29-21) (i kraft 20 juli 2026).
 
 ### § 4-5. Ambulerende skjenkebevilling.
 
@@ -684,7 +682,7 @@ Gebyret tilfaller kommunen, med unntak av gebyr for bevilling etter [§§ 5-2](l
 
 I forbindelse med statsbudsjettet fastsetter Stortinget hvert år en andel av AS Vinmonopolets netto-overskudd som overføres til statskassen.
 
-> Endret ved [lover 17 des 2004 nr. 86](lov/2004-12-17-86) (ikr. 1 juli 2005 iflg. [res. 17 juni 2005 nr. 599](forskrift/2005-06-17-599)), [9 des 2011 nr. 50](lov/2011-12-09-50) (ikr. 1 jan 2012), tidligere § 7-3.
+> Endret ved [lover 17 des 2004 nr. 86](lov/2004-12-17-86) (ikr. 1 juli 2005 iflg. [res. 17 juni 2005 nr. 599](forskrift/2005-06-17-599)), [9 des 2011 nr. 50](lov/2011-12-09-50) (ikr. 1 jan 2012, tidligere § 7-3).
 
 ## Kapittel 8. Spesielle påbud og forbud.
 
