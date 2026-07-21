@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Samferdselsdepartementet"
 date_in_force: "2004-03-01"
-last_change_in_force: "2026-06-01"
+last_change_in_force: "2026-07-17"
 last_updated: "2024-01-09"
-xml_hash: "0394b02f9ef9049d9f3182d4a4856e30c0cfc2b46d3fc8745124d65dc82e2a61"
+xml_hash: "62cb49289fcd8a6e6271a425be004f831bfce7fc1cedc9f4adb7030bfa816dc9"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-07T08:02:32.100170+00:00"
+retrieved_at: "2026-07-21T06:25:58.312978+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1714,7 +1714,7 @@ I de tilfeller det fastsettes utvidelse eller begrensninger i føreretten etter 
 | 90.05 | hånd (denne koden skal ikke benyttes etter 1. januar 2017) |
 | 90.06 | fot (denne koden skal ikke benyttes etter 1. januar 2017) |
 | 90.07 | anvendelig (denne koden skal ikke benyttes etter 1. januar 2017) |
-| 95 | Fører som oppfyller kravene til yrkessjåførkompetanse etter direktiv [2003/59/EF](eu/32003l0059) artikkel 3, inntil ... |
+| 95 | Fører som oppfyller kravene til yrkessjåførkompetanse etter direktiv [(EU) 2022/2561](eu/32022l2561) artikkel 3, inntil ... |
 | 96 | Rett til å føre motorvogn i klasse B med tilhenger med tillatt totalvekt over 750 kg og hvor vogntogets samlede tillatte totalvekt er over 3500 kg, men ikke over 4250 kg. |
 | 97 | Ikke godkjent for føring av motorvogn klasse C1 som faller innenfor [forskrift 2. juli 2007 nr. 877](forskrift/2007-07-02-877) om kjøre- og hviletid for vegtransport i EØS |
 
@@ -1743,7 +1743,7 @@ Nasjonale koder – gjelder bare kjøring i Norge:
 | 152 | Rett til å kjøre motorredskap opptil 7500 kg tillatt totalvekt og motorredskap over 7500 kg tillatt totalvekt, med maksimal konstruktiv hastighet 50 km/t |
 | 160 | Rett til å kjøre utrykning (dato for utløp av kompetansens gyldighet) |
 
-> Endret ved [forskrifter 12 mai 2004 nr. 740](forskrift/2004-05-12-740), [5 nov 2004 nr. 1448](forskrift/2004-11-05-1448) (i kraft 1 jan 2005), [7 okt 2005 nr. 1220](forskrift/2005-10-07-1220) (i kraft 1 juni 2006), [31 mars 2006 nr. 395](forskrift/2006-03-31-395) (i kraft 1 juli 2006), [5 nov 2007 nr. 1210](forskrift/2007-11-05-1210), [2 sep 2008 nr. 985](forskrift/2008-09-02-985) (i kraft 10 sep 2008), [9 mars 2009 nr. 270](forskrift/2009-03-09-270), [16 juni 2010 nr. 894](forskrift/2010-06-16-894) (i kraft 1 juli 2010), [8 mars 2011 nr. 259](forskrift/2011-03-08-259) (i kraft 19 jan 2013), [21 juni 2012 nr. 632](forskrift/2012-06-21-632) (i kraft 19 jan 2013), [11 jan 2013 nr. 27](forskrift/2013-01-11-27) (i kraft 19 jan 2013), [20 des 2013 nr. 1666](forskrift/2013-12-20-1666) (i kraft 31 des 2013), [26 aug 2014 nr. 1116](forskrift/2014-08-26-1116) (i kraft 1 sep 2014), [19 des 2014 nr. 1824](forskrift/2014-12-19-1824) (i kraft 1 jan 2015), [8 nov 2016 nr. 1305](forskrift/2016-11-08-1305) (i kraft 5 des 2016), [16 aug 2018 nr. 1249](forskrift/2018-08-16-1249) (i kraft 1 sep 2018), [23 aug 2019 nr. 1084](forskrift/2019-08-23-1084) (i kraft 30 aug 2019), [19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020).
+> Endret ved [forskrifter 12 mai 2004 nr. 740](forskrift/2004-05-12-740), [5 nov 2004 nr. 1448](forskrift/2004-11-05-1448) (i kraft 1 jan 2005), [7 okt 2005 nr. 1220](forskrift/2005-10-07-1220) (i kraft 1 juni 2006), [31 mars 2006 nr. 395](forskrift/2006-03-31-395) (i kraft 1 juli 2006), [5 nov 2007 nr. 1210](forskrift/2007-11-05-1210), [2 sep 2008 nr. 985](forskrift/2008-09-02-985) (i kraft 10 sep 2008), [9 mars 2009 nr. 270](forskrift/2009-03-09-270), [16 juni 2010 nr. 894](forskrift/2010-06-16-894) (i kraft 1 juli 2010), [8 mars 2011 nr. 259](forskrift/2011-03-08-259) (i kraft 19 jan 2013), [21 juni 2012 nr. 632](forskrift/2012-06-21-632) (i kraft 19 jan 2013), [11 jan 2013 nr. 27](forskrift/2013-01-11-27) (i kraft 19 jan 2013), [20 des 2013 nr. 1666](forskrift/2013-12-20-1666) (i kraft 31 des 2013), [26 aug 2014 nr. 1116](forskrift/2014-08-26-1116) (i kraft 1 sep 2014), [19 des 2014 nr. 1824](forskrift/2014-12-19-1824) (i kraft 1 jan 2015), [8 nov 2016 nr. 1305](forskrift/2016-11-08-1305) (i kraft 5 des 2016), [16 aug 2018 nr. 1249](forskrift/2018-08-16-1249) (i kraft 1 sep 2018), [23 aug 2019 nr. 1084](forskrift/2019-08-23-1084) (i kraft 30 aug 2019), [19 des 2019 nr. 2054](forskrift/2019-12-19-2054) (i kraft 1 jan 2020), [17 juli 2026 nr. 1570](forskrift/2026-07-17-1570).
 
 ## Vedlegg 5 – Overgangsregler – førerkort utstedt i henhold til førerkortforskriften av 28. mars 1967
 
