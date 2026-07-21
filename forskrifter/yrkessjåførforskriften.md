@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Samferdselsdepartementet"
 date_in_force: "2008-04-16"
-last_change_in_force: "2026-03-01"
+last_change_in_force: "2026-07-17"
 last_updated: "2010-08-10"
-xml_hash: "9d15ccab0481aa3c962028c8b411ca950b9219f7192276a7dc4b3222cd627385"
+xml_hash: "bf65194319fa13870ad2c009e34698accd8e9e56803bac8256c5dad5d37dd954"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-21T06:25:58.312978+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -638,4 +638,4 @@ Side 2:
 | *Feltnr.* | *Beskrivelse* | *Format* |
 | 10. | Fellesskapskode og utløpsdato | 95 (DD.MM.YY) |
 
-> Vedlegg 1 endret ved [forskrifter 23 juni 2010 nr. 1024](forskrift/2010-06-23-1024) (i kraft 1 juli 2010), [1 juli 2013 nr. 808](forskrift/2013-07-01-808) (i kraft 1 sep 2013), [20 sep 2022 nr. 1604](forskrift/2022-09-20-1604), [20 feb 2023 nr. 234](forskrift/2023-02-20-234) (i kraft 1 mars 2023).
+> Vedlegg 1 endret ved [forskrifter 23 juni 2010 nr. 1024](forskrift/2010-06-23-1024) (i kraft 1 juli 2010), [1 juli 2013 nr. 808](forskrift/2013-07-01-808) (i kraft 1 sep 2013), [20 sep 2022 nr. 1604](forskrift/2022-09-20-1604), [20 feb 2023 nr. 234](forskrift/2023-02-20-234) (i kraft 1 mars 2023), [17 juli 2026 nr. 1569](forskrift/2026-07-17-1569).
