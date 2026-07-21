@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Barne- og familiedepartementet"
 date_in_force: "2024-01-01"
-last_change_in_force: "2026-07-01"
+last_change_in_force: "2026-07-16"
 last_updated: null
-xml_hash: "fe5f389b4e558bf20a7758bcbb0c0657b73c35e0c946e80dda940e03f3aab52a"
+xml_hash: "19b2984cb2b391421b9c82d021abf639a39461e2c76bff52cf4f9540213f3b1e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-02T07:28:16.500138+00:00"
+retrieved_at: "2026-07-21T06:25:58.312978+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -116,9 +116,11 @@ Dersom barnevernstjenesten vurderer forholdene i fosterhjemmet som gode, og barn
 
 Bestemmelsen gjelder tilsvarende for Barne-, ungdoms- og familieetaten for å ivareta sitt ansvar etter [§ 9](forskrift/2023-10-13-1632/§9/ledd/4) fjerde ledd.
 
+Når det som følge av et høyt antall ankomster til Norge av personer fordrevet fra Ukraina er nødvendig for at barnevernstjenesten skal kunne prioritere sine oppgaver på en formålstjenlig og forsvarlig måte, kan antall oppfølgingsbesøk jf. første og tredje ledd, reduseres til minimum to ganger i året selv om barnet har bodd i fosterhjemmet i mindre enn to år. Det er en forutsetning at barnevernstjenesten vurderer forholdene i fosterhjemmet som gode. Barnevernstjenesten skal orientere statsforvalteren når unntaksadgangen benyttes.
+
 Omfanget av oppfølgingen av varige fosterhjem avtales mellom barnevernstjenesten og fosterforeldrene etter [barnevernsloven § 5-12](lov/2021-06-18-97/§5-12).
 
-> Endret ved forskrifter [5 jan 2026 nr. 1](forskrift/2026-01-05-1), [5 mars 2026 nr. 336](forskrift/2026-03-05-336), [forskrift 13 okt 2023 nr. 1632](forskrift/2023-10-13-1632) (i kraft 1 juli 2026, se § 20 tredje ledd).
+> Endret ved forskrifter [5 jan 2026 nr. 1](forskrift/2026-01-05-1), [5 mars 2026 nr. 336](forskrift/2026-03-05-336), [forskrift 13 okt 2023 nr. 1632](forskrift/2023-10-13-1632) (i kraft 1 juli 2026, se § 20 tredje ledd), [16 juli 2026 nr. 1566](forskrift/2026-07-16-1566). **Endres** ved forskrift [13 okt 2023 nr. 1632](forskrift/2023-10-13-1632) (i kraft 1 juli 2028, se § 20 tredje ledd).
 
 ### § 11. Informasjon til barnet og fosterhjemmet
 
@@ -190,7 +192,9 @@ Tilsynspersonen skal ta kontakt med barnet. Barn som er i stand til å danne seg
 
 Tilsynspersonen skal føre tilsyn med barnet så ofte som nødvendig, og minimum fire ganger i året. Tilsyn skal skje ved stedlige besøk. Er forholdene i fosterhjemmet gode, og barnet samtykker, kan fosterhjemskommunen vedta å redusere tilsynet til minimum to ganger i året for barn som er fylt 15 år og som har bodd i fosterhjemmet i mer enn to år. Barnevernstjenesten i omsorgskommunen skal samtykke til redusering av antall tilsyn. Ved vedtak om varig opphold i fosterhjem etter [barnevernsloven § 5-12](lov/2021-06-18-97/§5-12), skal det føres tilsyn med barnet minimum to ganger i året.
 
-> Endret ved forskrifter [5 jan 2026 nr. 1](forskrift/2026-01-05-1), [13 okt 2023 nr. 1632](forskrift/2023-10-13-1632) (i kraft 1 juli 2026, se § 20 tredje ledd).
+Når det som følge av et høyt antall ankomster til Norge av personer fordrevet fra Ukraina er nødvendig for at fosterhjemskommunen skal kunne prioritere sine oppgaver etter barnevernsloven på en formålstjenlig og forsvarlig måte, kan antall tilsynsbesøk jf. første og tredje ledd, reduseres til minimum to ganger i året selv om barnet har bodd i fosterhjemmet i mindre enn to år og barnet er under 15 år. Det er en forutsetning at fosterhjemskommunen vurderer forholdene i fosterhjemmet som gode og at barnevernstjenesten i omsorgskommunen samtykker. Barn som er fylt 15 år må samtykke. Fosterhjemskommunen skal orientere statsforvalteren når unntaksadgangen benyttes.
+
+> Endret ved forskrifter [5 jan 2026 nr. 1](forskrift/2026-01-05-1), [13 okt 2023 nr. 1632](forskrift/2023-10-13-1632) (i kraft 1 juli 2026, se § 20 tredje ledd), [16 juli 2026 nr. 1566](forskrift/2026-07-16-1566). **Endres** ved forskrift [13 okt 2023 nr. 1632](forskrift/2023-10-13-1632) (i kraft 1 juli 2028, se § 20 tredje ledd).
 
 ### § 19. Rapportering
 
@@ -208,6 +212,6 @@ Denne forskriften trer i kraft 1. januar 2024.
 
 Fra samme tidspunkt oppheves [forskrift 18. desember 2003 nr. 1659 om fosterhjem](forskrift/2003-12-18-1659).
 
-[§ 10](forskrift/2003-12-18-1659/§10/ledd/5) femte ledd og [§ 18](forskrift/2023-10-13-1632/§18/ledd/4) fjerde ledd oppheves 1. juli 2026.
+[§ 10](forskrift/2023-10-13-1632/§10/ledd/5) femte ledd og [§ 18](forskrift/2023-10-13-1632/§18/ledd/4) fjerde ledd oppheves 1. juli 2028.
 
-> Endret ved forskrift [21 juni 2024 nr. 1308](forskrift/2024-06-21-1308).
+> Endret ved forskrifter [21 juni 2024 nr. 1308](forskrift/2024-06-21-1308), [16 juli 2026 nr. 1566](forskrift/2026-07-16-1566).
