@@ -1,0 +1,17 @@
+{
+  "doc_id": "sf-20260716-1567",
+  "events": [
+    {
+      "commit": "6c1e1e4",
+      "date": "2026-07-21",
+      "from_path": null,
+      "lines_added": 41,
+      "lines_removed": 0,
+      "subject": "add(forskrift): forskrift-om-endring-i-forskrift-om-tiltak-i-fisket-etter-anadrome-laksefiske-i-vassdrag-og-sjøområder-i-2026",
+      "to_path": null,
+      "type": "added"
+    }
+  ],
+  "schema_version": 1,
+  "slug": "forskrift-om-endring-i-forskrift-om-tiltak-i-fisket-etter-anadrome-laksefiske-i-vassdrag-og-sjøområder-i-2026"
+}

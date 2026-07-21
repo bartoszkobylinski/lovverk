@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "forskrift-om-fosterhjem"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-fosterhjem — Change history
 
-_5 events; doc_id `sf-20231013-1632`._
+_6 events; doc_id `sf-20231013-1632`._
+
+## 2026-07-21 — Content updated
+Lines: +11 -7.
+Subject: `update(forskrift): forskrift-om-fosterhjem`
+Commit: `5df1c04`.
 
 ## 2026-07-02 — Content updated
 Lines: +3 -3.
@@ -12,7 +24,7 @@ Lines: +5 -9.
 Subject: `sync: 8 new, 220 changed, 3 renamed, 77 removed`
 Commit: `2032c09`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

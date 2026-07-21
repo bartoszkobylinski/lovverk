@@ -7,7 +7,7 @@ source_license: "NLOD 2.0"
 
 # Sentrale forskrifter
 
-_5152 current documents_
+_5153 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -1955,6 +1955,7 @@ _5152 current documents_
 - [forskrift-om-endring-i-forskrift-om-studier-ved-norges-miljø-og-biovitenskapelige-universitet](forskrift-om-endring-i-forskrift-om-studier-ved-norges-miljø-og-biovitenskapelige-universitet.md) — Forskrift om endring i forskrift om studier ved Norges miljø- og biovitenskapelige universitet (NMBU)
 - [forskrift-om-endring-i-forskrift-om-terskelverdier-for-beslutning-om-å-unnlate-revisjon-etter-aksjeloven-7-6](forskrift-om-endring-i-forskrift-om-terskelverdier-for-beslutning-om-å-unnlate-revisjon-etter-aksjeloven-7-6.md) — Forskrift om endring i forskrift om terskelverdier for beslutning om å unnlate revisjon etter aksjeloven § 7-6
 - [forskrift-om-endring-i-forskrift-om-tilskudd-til-frivillig-aktivitet-på-forsvars-og-sikkerhetsområdet-kapittel-3-og-4-med-tilhørende-tekst](forskrift-om-endring-i-forskrift-om-tilskudd-til-frivillig-aktivitet-på-forsvars-og-sikkerhetsområdet-kapittel-3-og-4-med-tilhørende-tekst.md) — Forskrift om endring i forskrift om tilskudd til frivillig aktivitet på forsvars- og sikkerhetsområdet – kapittel 3 og 4, med tilhørende tekst
+- [forskrift-om-endring-i-forskrift-om-tiltak-i-fisket-etter-anadrome-laksefiske-i-vassdrag-og-sjøområder-i-2026](forskrift-om-endring-i-forskrift-om-tiltak-i-fisket-etter-anadrome-laksefiske-i-vassdrag-og-sjøområder-i-2026.md) — Forskrift om endring i forskrift om tiltak i fisket etter anadrome laksefiske i vassdrag og sjøområder i 2026
 - [forskrift-om-endring-i-forskrifter-om-fritak-for-egenandeler-for-barn-under-18-år-under-egenandelstakordningen](forskrift-om-endring-i-forskrifter-om-fritak-for-egenandeler-for-barn-under-18-år-under-egenandelstakordningen.md) — Forskrift om endring i forskrifter om fritak for egenandeler for barn under 18 år under egenandelstakordningen
 - [forskrift-om-endring-i-spesialistforskriften](forskrift-om-endring-i-spesialistforskriften.md) — Forskrift om endring i spesialistforskriften
 - [forskrift-om-endringer-i-forskrift-om-fiske-etter-anadrome-laksefisk-i-vassdrag](forskrift-om-endringer-i-forskrift-om-fiske-etter-anadrome-laksefisk-i-vassdrag.md) — Forskrift om endringer i forskrift om fiske etter anadrome laksefisk i vassdrag

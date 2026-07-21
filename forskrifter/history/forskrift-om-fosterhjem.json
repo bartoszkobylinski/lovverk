@@ -2,6 +2,16 @@
   "doc_id": "sf-20231013-1632",
   "events": [
     {
+      "commit": "5df1c04",
+      "date": "2026-07-21",
+      "from_path": null,
+      "lines_added": 11,
+      "lines_removed": 7,
+      "subject": "update(forskrift): forskrift-om-fosterhjem",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "84958f2",
       "date": "2026-07-02",
       "from_path": null,
@@ -29,7 +39,7 @@
       "lines_removed": 1,
       "subject": "migration: backfill eu_basis for 4523 documents",
       "to_path": null,
-      "type": "renamed"
+      "type": "updated"
     },
     {
       "commit": "3dddeca",

@@ -7,7 +7,12 @@ source_license: "NLOD 2.0"
 
 # førerkortforskriften — Change history
 
-_6 events; doc_id `sf-20040119-0298`._
+_7 events; doc_id `sf-20040119-0298`._
+
+## 2026-07-21 — Content updated
+Lines: +5 -5.
+Subject: `update(forskrift): førerkortforskriften`
+Commit: `8169985`.
 
 ## 2026-07-07 — Content updated
 Lines: +311 -84.

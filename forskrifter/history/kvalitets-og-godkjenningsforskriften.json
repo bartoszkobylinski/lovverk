@@ -2,6 +2,16 @@
   "doc_id": "sf-20221222-2474",
   "events": [
     {
+      "commit": "4888926",
+      "date": "2026-07-21",
+      "from_path": null,
+      "lines_added": 7,
+      "lines_removed": 7,
+      "subject": "update(forskrift): kvalitets-og-godkjenningsforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "2032c09",
       "date": "2026-07-01",
       "from_path": null,
@@ -19,7 +29,7 @@
       "lines_removed": 1,
       "subject": "migration: backfill eu_basis for 4523 documents",
       "to_path": null,
-      "type": "renamed"
+      "type": "updated"
     },
     {
       "commit": "3dddeca",
