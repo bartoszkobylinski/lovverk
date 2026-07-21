@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Barne- og familiedepartementet"
 date_in_force: "2023-01-01"
-last_change_in_force: "2026-07-01"
+last_change_in_force: "2026-07-16"
 last_updated: null
-xml_hash: "57a4d868270e281c79b1b9dede3117f71edfc1787338ee37a9281738d9b39de8"
+xml_hash: "67f71c43a72c682d6d213be6e66e270a685ba26bd1291e1de2c93053b450607d"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-01T08:08:55.828874+00:00"
+retrieved_at: "2026-07-21T06:25:58.312978+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -44,13 +44,13 @@ Institusjonen kan bare godkjennes dersom den viloppfylle krav i [barnevernsloven
 
 Tett geografisk konsentrasjon av institusjoner kan inngå som et moment i vurderingen av om institusjonen kan gi barn forsvarlig omsorg og behandling.
 
-Dersom særlige hensyn tilsier det kan institusjoner som ikke oppfyller alle krav i [barnevernsloven](lov/2021-06-18-97) og forskrifter til loven, samt vilkår stilt i eller med hjemmel i annen lovgivning, gis midlertidig godkjenning. Slik godkjenning kan bare gis dersom det er forsvarlig ut fra hensynet til barna og institusjonen ellers kan drives på forsvarlig måte. Midlertidig godkjenning kan bare gis én gang for en periode inntil seks måneder.
+Dersom særlige hensyn tilsier det kan institusjoner som ikke oppfyller alle krav i [barnevernsloven](lov/2021-06-18-97) og forskrifter til loven, samt vilkår stilt i eller med hjemmel i annen lovgivning, gis midlertidig godkjenning. Slik godkjenning kan bare gis dersom det er forsvarlig ut fra hensynet til barna og institusjonen ellers kan drives på forsvarlig måte. Midlertidig godkjenning kan bare gis én gang for en periode inntil seks måneder. Når det som følge av et høyt antall ankomster til Norge av personer fordrevet fra Ukraina er nødvendig for å ivareta ansvaret for omsorgssentre for enslige mindreårige asylsøkere etter [barnevernsloven § 11-1](lov/2021-06-18-97/§11-1), kan midlertidig godkjenning gis for en periode på inntil tolv måneder.
 
 Institusjonen kan bestå av flere avdelinger. Dersom en institusjonsavdeling utfører selvstendige faglige og administrative oppgaver, må den ha egen godkjenning.
 
 Ny godkjenning kreves ved omlegging og utvidelse av institusjonens virksomhet og ved flytting av institusjonen.
 
-> Endret ved forskrifter [22 des 2025 nr. 2866](forskrift/2025-12-22-2866) (i kraft 1 jan 2026), 22 des 2022 nr. 2474 (i kraft 1 juli 2026, se § 16 annet ledd).
+> Endret ved forskrifter [22 des 2025 nr. 2866](forskrift/2025-12-22-2866) (i kraft 1 jan 2026), 22 des 2022 nr. 2474 (i kraft 1 juli 2026, se § 16 annet ledd), [16 juli 2026 nr. 1566](forskrift/2026-07-16-1566). **Endres** ved forskrift [22 des 2022 nr. 2474](forskrift/2022-12-22-2474) (i kraft 1 juli 2028, se [§ 16 annet ledd](forskrift/2022-12-22-2474/§16/ledd/2)).
 
 ### § 4. Godkjenningsmyndighet og klageinstans
 
@@ -146,6 +146,6 @@ Det skal fremgå av søknaden hvilke krav i forskriften det søkes unntak fra. D
 
 Forskriften trer i kraft 1. januar 2023. Fra samme tidspunkt oppheves [forskrift 27. oktober 2003 nr. 1283 om godkjenning av private og kommunale institusjoner som skal benyttes for barn som plasseres utenfor hjemmet med hjemmel i barnevernloven](forskrift/2003-10-27-1283), og [forskrift 10. juni 2008 nr. 580 om krav til kvalitet og internkontroll i barneverninstitusjoner](forskrift/2008-06-10-580).
 
-Bestemmelsen i [§ 3](forskrift/2022-12-22-2474/§3) fjerde ledd fjerde punktum oppheves 1. juli 2026.
+Bestemmelsen i [§ 3](forskrift/2022-12-22-2474/§3) fjerde ledd fjerde punktum oppheves 1. juli 2028.
 
-> Endret ved forskrifter [20 juni 2023 nr. 990](forskrift/2023-06-20-990), [21 juni 2024 nr. 1308](forskrift/2024-06-21-1308).
+> Endret ved forskrifter [20 juni 2023 nr. 990](forskrift/2023-06-20-990), [21 juni 2024 nr. 1308](forskrift/2024-06-21-1308), [16 juli 2026 nr. 1566](forskrift/2026-07-16-1566).
