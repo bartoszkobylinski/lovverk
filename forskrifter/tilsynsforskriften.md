@@ -9,13 +9,13 @@ language: "nb"
 ministry:
   - "Barne- og familiedepartementet"
 date_in_force: "2023-01-01"
-last_change_in_force: "2026-07-01"
+last_change_in_force: "2026-07-16"
 last_updated: "2025-05-01"
-xml_hash: "e18f78234de9fa6770fbd8ff044ba7d1e00a0f04e1a19a0754dc9593c6af87d6"
+xml_hash: "d7cc4e89c40b7d5cdc8840b9c7a7618d2c33b199aaef6d090c9ed2072588809c"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-01T08:08:55.828874+00:00"
+retrieved_at: "2026-07-21T06:25:58.312978+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -68,7 +68,9 @@ Tilsynet skal legges til et tidspunkt der det kan forventes at barna er til sted
 
 Statsforvalteren skal sørge for at det enkelte barn gis tilstrekkelig og tilpasset informasjon om tilsynet, herunder om at barnet kan ta kontakt med statsforvalteren også utenom det regelmessige stedlige tilsynet.
 
-> Endret ved forskrift [16 des 2022 nr. 2272](forskrift/2022-12-16-2272) (i kraft 1 juli 2026, se § 8 annet ledd).
+Når det som følge av et høyt antall ankomster til Norge av personer fordrevet fra Ukraina er nødvendig for at statsforvalteren skal kunne prioritere sine tilsynsoppgaver på en formålstjenlig og forsvarlig måte, kan statsforvalteren uten hinder av minstekravene i første ledd, vurdere hvor mange årlige tilsyn som skal føres ved besøk i det enkelte omsorgssenteret eller familiebaserte botilbudet.
+
+> Endret ved forskrifter [16 des 2022 nr. 2272](forskrift/2022-12-16-2272) (i kraft 1 juli 2026, se § 8 annet ledd), [16 juli 2026 nr. 1566](forskrift/2026-07-16-1566). **Endres** ved forskrift [16 des 2022 nr. 2272](forskrift/2022-12-16-2272) (i kraft 1 juli 2028, se § 8 annet ledd).
 
 ## § 6. Tilsynssamtaler
 
@@ -94,6 +96,6 @@ Rapporten skal sendes til Statens helsetilsyn og til Barne-, ungdoms- og familie
 
 Forskriften trer i kraft 1. januar 2023. Fra samme tidspunkt oppheves [forskrift av 11. desember 2003 nr. 1564](forskrift/2003-12-11-1564) om tilsyn med barn i barneverninstitusjoner for omsorg og behandling.
 
-Bestemmelsen i [§ 5](forskrift/2022-12-16-2272/§5) fjerde ledd oppheves 1. juli 2026.
+Bestemmelsen i [§ 5](forskrift/2022-12-16-2272/§5) fjerde ledd oppheves 1. juli 2028.
 
-> Endret ved forskrifter [20 juni 2023 nr. 990](forskrift/2023-06-20-990), [21 juni 2024 nr. 1308](forskrift/2024-06-21-1308).
+> Endret ved forskrifter [20 juni 2023 nr. 990](forskrift/2023-06-20-990), [21 juni 2024 nr. 1308](forskrift/2024-06-21-1308), [16 juli 2026 nr. 1566](forskrift/2026-07-16-1566).
