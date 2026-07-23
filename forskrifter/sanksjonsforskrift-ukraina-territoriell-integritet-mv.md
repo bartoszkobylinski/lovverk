@@ -11,11 +11,11 @@ ministry:
 date_in_force: "2014-08-15"
 last_change_in_force: "2026-07-14"
 last_updated: "2026-04-09"
-xml_hash: "9c00226433a9d23837c7641964add2c8f876c05887dd053718c24cceb5e485f5"
+xml_hash: "f39fd26a1f0c321abfbbc874df01b00101f4d35e8b4591713afc1d44138bfa1e"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-21T06:25:58.312978+00:00"
+retrieved_at: "2026-07-23T06:28:35.687988+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -1143,7 +1143,7 @@ Det er forbudtdirekte eller indirekte å yte faglig bistand, formidlingstjeneste
 
 Med hensyn til varer som hører inn under KN-kode 6902 og KN-kode 6909 19, gjelder forbudene i første og tredje ledd ikke oppfyllelse innen 27. september 2026 av kontrakter inngått før 28. mars 2026 eller tilknyttede kontrakter som er nødvendige for oppfyllelsen av slike kontrakter.
 
-Med hensyn til varer som hører inn under KN-kodene som er oppført i vedlegg XXIIIH, gjelder forbudene i første og fjerde ledd ikke oppfyllelse innen 15. oktober 2026 av kontrakter inngått før 14. juli 2026 eller av tilknyttede kontrakter som er nødvendige for å oppfylle slike kontrakter.
+Med hensyn til varer som hører inn under KN-kodene som er oppført i [vedlegg XXIIIH](forskrift/2014-08-15-1076/vedleggXXIIIH), gjelder forbudene i første og fjerde ledd ikke oppfyllelse innen 15. oktober 2026 av kontrakter inngått før 14. juli 2026 eller av tilknyttede kontrakter som er nødvendige for å oppfylle slike kontrakter.
 
 Forbudene nevnt i første og fjerde ledd gjelder ikke varer som er nødvendige for offisielle formål på Norges eller EU-medlemsstatenes utenriksstasjoner i Russland eller i internasjonale organisasjoner som har immunitet i henhold til folkeretten, og heller ikke deres personells personlige eiendeler.
 
@@ -1593,11 +1593,11 @@ Denne paragrafen gjelder fra 27. mars 2026.
 
 ### § 19l. Forbud mot eksport mv. til spesifiserte tredjeland
 
-Det er forbudt direkte eller indirekte å selge, levere, overføre eller eksportere varer og teknologi som er oppført i vedlegg XXXIV, uavhengig om de har opprinnelse i Norge eller EU eller ikke, til fysiske eller juridiske personer spesifisert i tredjelandet i nevnte vedlegg.
+Det er forbudt direkte eller indirekte å selge, levere, overføre eller eksportere varer og teknologi som er oppført i [vedlegg XXXIV](forskrift/2014-08-15-1076/vedleggXXXIV), uavhengig om de har opprinnelse i Norge eller EU eller ikke, til fysiske eller juridiske personer spesifisert i tredjelandet i nevnte vedlegg.
 
 Det er forbudtdirekte eller indirekte å yte faglig bistand, formidlingstjenester eller andre tjenester knyttet til varer og teknologi nevnt i første ledd og til levering, produksjon, vedlikehold og bruk av nevnte varer og teknologi, til fysiske eller juridiske personer i det spesifiserte tredjelandet,direkte eller indirekte å yte finansiering eller finansiell bistand knyttet til varer og teknologi nevnt i første ledd i forbindelse med salg, levering, overføring eller eksport av nevnte varer og teknologi, eller i forbindelse med yting av tilknyttet faglig bistand, formidlingstjenester eller andre tjenester, til fysiske eller juridiske personer i det spesifiserte tredjelandet,direkte eller indirekte å selge, lisensiere eller på annen måte overføre immaterialrettigheter eller forretningshemmeligheter samt gi rett til å få tilgang til eller gjenbruke materiale eller opplysninger som er beskyttet av immaterialrettigheter eller som består av forretningshemmeligheter knyttet til varer og teknologi nevnt i første ledd og til levering, produksjon, vedlikehold og bruk av nevnte varer og teknologi, til fysiske eller juridiske personer i det spesifiserte tredjelandet.
 
-Vedlegg XXXIV skal kun omfatte sensitive flerbruksvarer og flerbruksteknologi, eller varer og teknologi som kan bidra til å øke Russlands militære, teknologiske eller industrielle styrke, eller til å utvikle Russlands forsvars- og sikkerhetssektor, på en måte som styrker landets evne til krigføring, og som det er forbudt å eksportere til Russland i henhold til denne forskriften, og som det er stor og kontinuerlig fare for at vil bli solgt, levert, overført eller eksportert fra tredjeland til Russland etter å ha blitt solgt, levert, overført eller eksportert fra Norge eller EU. Vedlegg XXXIV skal for hver enkelt oppført vare eller teknologi spesifisere til hvilke tredjeland det er forbudt med salg, levering, overføring eller eksport. Vedlegg XXXIV skal kun omfatte tredjeland som har blitt identifisert av Rådet for Den europeiske union som land som systematisk og vedvarende har unnlatt å forhindre salg, levering, overføring eller eksport til Russland av varer og teknologi, som oppført i vedlegget, eksportert fra EU, til tross for EUs tidligere oppsøkende tiltak og bistand til det aktuelle landet.
+[Vedlegg XXXIV](forskrift/2014-08-15-1076/vedleggXXXIV) skal kun omfatte sensitive flerbruksvarer og flerbruksteknologi, eller varer og teknologi som kan bidra til å øke Russlands militære, teknologiske eller industrielle styrke, eller til å utvikle Russlands forsvars- og sikkerhetssektor, på en måte som styrker landets evne til krigføring, og som det er forbudt å eksportere til Russland i henhold til denne forskriften, og som det er stor og kontinuerlig fare for at vil bli solgt, levert, overført eller eksportert fra tredjeland til Russland etter å ha blitt solgt, levert, overført eller eksportert fra Norge eller EU. Vedlegg XXXIV skal for hver enkelt oppført vare eller teknologi spesifisere til hvilke tredjeland det er forbudt med salg, levering, overføring eller eksport. Vedlegg XXXIV skal kun omfatte tredjeland som har blitt identifisert av Rådet for Den europeiske union som land som systematisk og vedvarende har unnlatt å forhindre salg, levering, overføring eller eksport til Russland av varer og teknologi, som oppført i vedlegget, eksportert fra EU, til tross for EUs tidligere oppsøkende tiltak og bistand til det aktuelle landet.
 
 Dersom det ikke er forbudt å selge, levere, overføre eller eksportere varer og teknologi oppført i vedlegg XXXIV til en fysisk eller juridisk person i Russland, eller til bruk i Russland i henhold til visse unntak fastsatt i denne forskriften, skal det ikke være forbudt å selge, levere, overføre eller eksportere til en fysisk eller juridisk person i det spesifiserte tredjelandet, forutsatt at de samme vilkårene som gjelder i henhold til denne forskriften for eksport til eller bruk i Russland, er oppfylt.
 
@@ -1607,7 +1607,7 @@ Dersom Direktoratet for eksportkontroll og sanksjoner kan gi tillatelse til å s
 
 ### § 19m. Forbud mot å delta i transaksjoner ved ulovlig bruk av immaterialrettigheter
 
-Det er forbudt direkte eller indirekte å delta i transaksjoner med juridiske personer som oppført i vedlegg LVI som i henhold til Den russiske føderasjons presidents dekret nr. 122 av 15. februar 2024, Den russiske føderasjons regjerings dekret nr. 1767 av 18. oktober 2021, endret ved regjeringens resolusjon nr. 380 av 27. mars 2024, eller i henhold til beslektet eller tilsvarende russisk lovgivning eller i henhold til rettslig pålegg, en kjennelse, et fritak, en dom eller en annen rettsavgjørelse truffet av en russisk domstol, har brukt eller bruker immaterialrettigheter eller forretningshemmeligheter som eies av eller er lisensiert til en juridisk person i Russland, som eies eller kontrolleres av en fysisk person i Norge eller en EU-medlemsstat eller av en juridisk person som er stiftet i henhold til Norges eller en EU- medlemsstats lovgivning, uten rettighetshaverens samtykke.
+Det er forbudt direkte eller indirekte å delta i transaksjoner med juridiske personer som oppført i [vedlegg LVI](forskrift/2014-08-15-1076/vedleggLVI) som i henhold til Den russiske føderasjons presidents dekret nr. 122 av 15. februar 2024, Den russiske føderasjons regjerings dekret nr. 1767 av 18. oktober 2021, endret ved regjeringens resolusjon nr. 380 av 27. mars 2024, eller i henhold til beslektet eller tilsvarende russisk lovgivning eller i henhold til rettslig pålegg, en kjennelse, et fritak, en dom eller en annen rettsavgjørelse truffet av en russisk domstol, har brukt eller bruker immaterialrettigheter eller forretningshemmeligheter som eies av eller er lisensiert til en juridisk person i Russland, som eies eller kontrolleres av en fysisk person i Norge eller en EU-medlemsstat eller av en juridisk person som er stiftet i henhold til Norges eller en EU- medlemsstats lovgivning, uten rettighetshaverens samtykke.
 
 Uten at det berører § 6b i denne forskriften, skal fysiske personer i Norge eller en EU-medlemsstat, eller juridiske personer som er stiftet i henhold til Norges eller en EU-medlemsstats lovgivning som nevnt i første ledd, underrette Direktoratet for eksportkontroll og sanksjoner om enhver bruk i henhold til russisk lovgivning som er nevnt i første ledd, og uten rettighetshaverens samtykke, av immaterialrettighetene eller forretningshemmelighetene som eies av eller er lisensiert til de juridiske personene som de eier eller kontrollerer i Russland.
 
