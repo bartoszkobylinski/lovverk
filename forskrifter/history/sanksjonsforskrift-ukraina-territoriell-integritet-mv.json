@@ -2,6 +2,16 @@
   "doc_id": "sf-20140815-1076",
   "events": [
     {
+      "commit": "6c3c7b4",
+      "date": "2026-07-23",
+      "from_path": null,
+      "lines_added": 6,
+      "lines_removed": 6,
+      "subject": "update(forskrift): sanksjonsforskrift-ukraina-territoriell-integritet-mv",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "6f1f923",
       "date": "2026-07-21",
       "from_path": null,

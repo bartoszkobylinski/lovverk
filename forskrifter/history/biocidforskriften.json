@@ -2,6 +2,16 @@
   "doc_id": "sf-20170418-0480",
   "events": [
     {
+      "commit": "ef02009",
+      "date": "2026-07-23",
+      "from_path": null,
+      "lines_added": 11,
+      "lines_removed": 9,
+      "subject": "update(forskrift): biocidforskriften",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "dffe3ce",
       "date": "2026-07-02",
       "from_path": null,
