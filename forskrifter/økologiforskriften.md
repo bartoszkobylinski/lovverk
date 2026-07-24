@@ -10,13 +10,13 @@ ministry:
   - "Landbruks- og matdepartementet"
   - "Nærings- og fiskeridepartementet"
 date_in_force: "2022-06-25"
-last_change_in_force: "2026-05-15"
+last_change_in_force: "2026-07-13"
 last_updated: null
-xml_hash: "96f1f5df905fa9d8ed27011db689a263325c235abf6626905a7dc3c717cb1b93"
+xml_hash: "52646624966a4008f81342f51b954b5871ea616f2dd625dfe736d4bdb3c11270"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-07T08:02:32.100170+00:00"
+retrieved_at: "2026-07-24T06:23:42.727491+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -41,9 +41,9 @@ Ved konflikt mellom denne forskriften og forordningene angitt i [§ 2](forskrift
 
 ## § 3. Forordninger om økologisk produksjon, merking og kontroll
 
-[EØS-avtalens vedlegg II kapittel XII](avtale/avt-1992-05-02-1-v2/kapXII) nr. 54bd, be, bf, bi, bj, bk, bm, bq og br med følgende forordninger gjelder som forskrift med de tilpasninger som følger av vedlegg II kapittel XII, protokoll 1 til avtalen og avtalen for øvrig(forordning [(EU) 2020/2146](eu/32020r2146)) om unntaksregler med begrunnelse i uforutsette særlige hendelser,(forordning [(EU) 2020/464](eu/32020r0464), som endret ved forordning [(EU) 2020/2042](eu/32020r2042)) om produksjonsregler for husdyr, akvakulturproduksjon, foredling av mat og fôr og krav til rapportering,(forordning [(EU) 2021/771](eu/32021r0771)) om offentlig dokumentkontroll i økologisk virksomheter og grupper av virksomheter,(forordning [(EU) 2021/1189](eu/32021r1189)) om produksjon og markedsføring av økologisk heterogent planteformeringsmateriale,(forordning [(EU) 2021/279](eu/32021r0279)) om kontroll av økologiske virksomheter, oppfølgning av avvik og funn av ikke-tillatte stoffer i økologiske produkter,(forordning [(EU) 2021/1165](eu/32021r1165), som er endret ved forordning [(EU) 2023/121](eu/32023r0121), forordning [(EU) 2023/2229](eu/32023r2229) og forordning [(EU) 2025/973](eu/32025r0973)) om lister over tillatte produkter og stoffer i økologisk produksjon,(forordning [(EU) 2021/2119](eu/32021r2119), som endret ved forordning [(EU) 2022/2240](eu/32022r2240)) om krav til virksomheter om oppbevaring av dokumentasjon og krav til at økologisertifikat skal være elektronisk tilgjengelig i Traces.(forordning [(EU) 2023/1195](eu/32023r1195)), om utforming av et rapporteringsskjema for å dokumentere resultatene av undersøkelse av overtredelsessaker.(forordning [(EU) 2025/1470](eu/32025r1470)) om offentlig informasjon i økologisertifikater og krav til informasjonsutveksling.
+[EØS-avtalens vedlegg II kapittel XII](avtale/avt-1992-05-02-1-v2/kapXII) nr. 54bd, be, bf, bi, bj, bk, bm, bq og br med følgende forordninger gjelder som forskrift med de tilpasninger som følger av vedlegg II kapittel XII, protokoll 1 til avtalen og avtalen for øvrig(forordning [(EU) 2020/2146](eu/32020r2146)) om unntaksregler med begrunnelse i uforutsette særlige hendelser,(forordning [(EU) 2020/464](eu/32020r0464), som endret ved forordning [(EU) 2020/2042](eu/32020r2042)) om produksjonsregler for husdyr, akvakulturproduksjon, foredling av mat og fôr og krav til rapportering,(forordning [(EU) 2021/771](eu/32021r0771)) om offentlig dokumentkontroll i økologisk virksomheter og grupper av virksomheter,(forordning [(EU) 2021/1189](eu/32021r1189)) om produksjon og markedsføring av økologisk heterogent planteformeringsmateriale,(forordning [(EU) 2021/279](eu/32021r0279)) om kontroll av økologiske virksomheter, oppfølgning av avvik og funn av ikke-tillatte stoffer i økologiske produkter,forordning [(EU) 2021/1165](eu/32021r1165), som er endret ved forordning [(EU) 2023/121](eu/32023r0121), forordning [(EU) 2023/2229](eu/32023r2229), forordning [(EU) 2025/973](eu/32025r0973)) og forordning [(EU) 2025/2501](eu/32025r2501) om lister over tillatte produkter og stoffer i økologisk produksjon,(forordning [(EU) 2021/2119](eu/32021r2119), som endret ved forordning [(EU) 2022/2240](eu/32022r2240)) om krav til virksomheter om oppbevaring av dokumentasjon og krav til at økologisertifikat skal være elektronisk tilgjengelig i Traces.(forordning [(EU) 2023/1195](eu/32023r1195)), om utforming av et rapporteringsskjema for å dokumentere resultatene av undersøkelse av overtredelsessaker.(forordning [(EU) 2025/1470](eu/32025r1470)) om offentlig informasjon i økologisertifikater og krav til informasjonsutveksling.
 
-> Endret ved forskrifter [25 sep 2023 nr. 1513](forskrift/2023-09-25-1513), [11 des 2023 nr. 2001](forskrift/2023-12-11-2001), [24 juni 2024 nr. 1310](forskrift/2024-06-24-1310). [8 des 2025 nr. 2451](forskrift/2025-12-08-2451), [23 mars 2026 nr. 457](forskrift/2026-03-23-457), [4 mai 2026 nr. 714](forskrift/2026-05-04-714).
+> Endret ved forskrifter [25 sep 2023 nr. 1513](forskrift/2023-09-25-1513), [11 des 2023 nr. 2001](forskrift/2023-12-11-2001), [24 juni 2024 nr. 1310](forskrift/2024-06-24-1310). [8 des 2025 nr. 2451](forskrift/2025-12-08-2451), [23 mars 2026 nr. 457](forskrift/2026-03-23-457), [4 mai 2026 nr. 714](forskrift/2026-05-04-714), [13 juli 2026 nr. 1576](forskrift/2026-07-13-1576).
 
 ## § 3a. Forordning (EU) 2023/2419 om merking av økologisk fôr til kjæledyr
 
@@ -173,9 +173,11 @@ I økologisk produksjon er det ikke tillatt å bruke konvensjonell gjødsel fra 
 
 ## § 19. Import
 
-Importøren skal melde fra til Mattilsynet om import av produkter omfattet av denne forskriften fra land utenfor EØS-området senest en arbeidsdag før ankomst, jf. [§ 4](forskrift/2022-06-11-1171/§4) jf. forordning [(EU) 2021/2306](eu/32021r2306) artikkel 3.3.
+Importøren skal melde fra til Mattilsynet om import av produkter omfattet av denne forskriften fra land utenfor EØS-området senest en arbeidsdag før ankomst, jf. [§ 4](forskrift/2022-06-11-1171/§4) jf. forordning [(EU) 2021/2307](eu/32021r2307) artikkel 3.3.
 
 Import av produkter omfattet av denne forskriften fra land utenfor EØS-området skal skje i samsvar med [§ 4](forskrift/2022-06-11-1171/§4) jf. forordning [(EU) 2021/2325](eu/32021r2325), forordning [(EU) 2021/1378](eu/32021r1378) og med de bestemmelsene som følger av vedlegg 1 til forskriften.
+
+> Endret ved forskrift [13 juli 2026 nr. 1576](forskrift/2026-07-13-1576).
 
 ## § 20. Gebyr
 
@@ -413,9 +415,9 @@ som er endret ved
 
 ### Forordninger gjennomført i forskriftens § 3
 
-> Endret ved forskrifter [25 sep 2023 nr. 1513](forskrift/2023-09-25-1513), [11 des 2023 nr. 2001](forskrift/2023-12-11-2001), [24 juni 2024 nr. 1310](forskrift/2024-06-24-1310), [8 des 2025 nr. 2451](forskrift/2025-12-08-2451).
+> Endret ved forskrifter [25 sep 2023 nr. 1513](forskrift/2023-09-25-1513), [11 des 2023 nr. 2001](forskrift/2023-12-11-2001), [24 juni 2024 nr. 1310](forskrift/2024-06-24-1310), [8 des 2025 nr. 2451](forskrift/2025-12-08-2451), [13 juli 2026 nr. 1576](forskrift/2026-07-13-1576).
 
-Nedenfor gjengis til informasjon uoffisielle norske oversettelser av forordninger om økologisk produksjon, merking og kontroll. Dette omfatter følgende forordninger som gir utfyllende regler til grunnrettsakten: Forordning [(EU) 2020/2146](eu/32020r2146), forordning [(EU) 2020/464](eu/32020r0464) som er endret ved forordning [(EU) 2020/2042](eu/32020r2042), forordning [(EU) 2021/771](eu/32021r0771), forordning [(EU) 2021/1189](eu/32021r1189), forordning [(EU) 2021/279](eu/32021r0279), forordning [(EU) 2021/1165](eu/32021r1165) som er endret ved forordning [(EU) 2023/121](eu/32023r0121), forordning [(EU) 2023/2229](eu/32023r2229) og forordning [(EU) 2025/973](eu/32025r0973), forordning [(EU) 2021/2119](eu/32021r2119) som er endret forordning [(EU) 2022/2240](eu/32022r2240), og forordning [(EU) 2023/1195](eu/32023r1195). Alle endringer i rettsaktene, samt de endringer og tillegg som følger av EØS- tilpasninger i samsvar med [EØS-avtalen vedlegg II kapittel XII](avtale/avt-1992-05-02-1-v2/kapXII), er innarbeidet.
+Nedenfor gjengis til informasjon uoffisielle norske oversettelser av forordninger om økologisk produksjon, merking og kontroll. Dette omfatter følgende forordninger som gir utfyllende regler til grunnrettsakten: Forordning [(EU) 2020/2146](eu/32020r2146), forordning [(EU) 2020/464](eu/32020r0464) som er endret ved forordning [(EU) 2020/2042](eu/32020r2042), forordning [(EU) 2021/771](eu/32021r0771), forordning [(EU) 2021/1189](eu/32021r1189), forordning [(EU) 2021/279](eu/32021r0279), forordning [(EU) 2021/1165](eu/32021r1165) som er endret ved forordning [(EU) 2023/121](eu/32023r0121), forordning [(EU) 2023/2229](eu/32023r2229), forordning [(EU) 2025/973](eu/32025r0973) og forordning [(EU) 2025/2501](eu/32025r2501), forordning [(EU) 2021/2119](eu/32021r2119) som er endret forordning [(EU) 2022/2240](eu/32022r2240), og forordning [(EU) 2023/1195](eu/32023r1195). Alle endringer i rettsaktene, samt de endringer og tillegg som følger av EØS- tilpasninger i samsvar med [EØS-avtalen vedlegg II kapittel XII](avtale/avt-1992-05-02-1-v2/kapXII), er innarbeidet.
 
 ### Forordning (EU) 2020/2146
 
@@ -446,7 +448,7 @@ som er endret ved
 
 ### Konsolidert forordning [(EU) 2021/1165](eu/32021r1165)
 
-Nedenfor gjengis til informasjon norsk uoffisiell oversettelse av forordning [(EU) 2021/1165](eu/32021r1165). Den er endret ved forordning [(EU) 2023/121](eu/32023r0121) og forordning [(EU) 2025/973](eu/32025r0973). Alle endringer av rettsakten er innarbeidet.
+Nedenfor gjengis til informasjon norsk uoffisiell oversettelse av forordning [(EU) 2021/1165](eu/32021r1165). Den er endret ved forordning [(EU) 2023/121](eu/32023r0121), forordning [(EU) 2023/2229](eu/32023r2229), forordning [(EU) 2025/973](eu/32025r0973) og forordning [(EU) 2025/2501](eu/32025r2501). Alle endringer av rettsakten er innarbeidet.
 
 ►**B** Forordning [(EU) 2021/1165](eu/32021r1165) av 15. juli 2021
 
@@ -455,8 +457,9 @@ som er endret ved
 - ►**M1** Forordning [(EU) 2023/121](eu/32023r0121) av 17. januar 2023
 - ►**M2** Forordning [(EU) 2023/2229](eu/32023r2229) av 25. oktober 2023
 - ►**M3** Forordning [(EU) 2025/973](eu/32025r0973) av 23. mai 2025
+- ►**M4** Forordning [(EU) 2025/2501](eu/32025r2501) av 11. desember 2025
 
-[pdf-fil](static/SF/32021r1165k-04.pdf)
+[pdf-fil](static/SF/32021r1165k-05.pdf).
 
 ### Konsolidert forordning (EU) 2021/2119
 
