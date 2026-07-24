@@ -10,12 +10,12 @@ ministry:
   - "Utenriksdepartementet"
 date_in_force: "2007-02-09"
 last_change_in_force: "2026-05-11"
-last_updated: "2022-11-21"
-xml_hash: "3098fabbe7cef4e5409475d9ee30e48aeff2ac16c33f6c59efbf95d2b9565b90"
+last_updated: "2026-07-22"
+xml_hash: "cbf2ad0207cf2042ab03ff60a378c78939c78516220433a3a6c6d816ea35cd05"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-24T06:23:42.727491+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -744,7 +744,7 @@ Transportrestriksjoner
 
 ### Artikkel 37
 
-1\. Det er forbudt å yte bunkrings- eller skipsforsyningstjenester eller andre fartøysrelaterte tjenester til fartøyer som direkte eller indirekte eies eller kontrolleres av iranske personer, enheter eller organer dersom tjenestetilbyderen har opplysninger, herunder fra tollmyndighetene på grunnlag av opplysningenei forkant av ankomst eller avreise omtalt i artikkel 36, som gir rimelig grunn til å fastslå at de aktuelle fartøyene transporterer varer som omfattes av EUs felles liste over militært materiell, eller varer som det er forbudt å levere, selge, overføre eller eksportere i henhold til denne forordningen, med mindre ytelse av slike tjenester er nødvendig for humanitære formål og sikkerhetsmessige formål.
+1\. Det er forbudt å yte bunkrings- eller skipsforsyningstjenester eller andre fartøysrelaterte tjenester til fartøyer som direkte eller indirekte eies eller kontrolleres av iranske personer, enheter eller organer dersom tjenestetilbyderen har opplysninger, herunder fra tollmyndighetene på grunnlag av opplysningene i forkant av ankomst eller avreise omtalt i artikkel 36, som gir rimelig grunn til å fastslå at de aktuelle fartøyene transporterer varer som omfattes av EUs felles liste over militært materiell, eller varer som det er forbudt å levere, selge, overføre eller eksportere i henhold til denne forordningen, med mindre ytelse av slike tjenester er nødvendig for humanitære formål og sikkerhetsmessige formål.
 
 2\. Det er forbudt å yte tekniske service- og vedlikeholdstjenester til lastefly som direkte eller indirekte eies eller kontrolleres av iranske personer, enheter eller organer dersom tjenestetilbyderen har opplysninger, herunder fra tollmyndighetene på grunnlag av opplysningenei forkant av ankomst eller avreise omtalt i artikkel 36, som gir rimelig grunn til å fastslå at det aktuelle lasteflyet transporterer varer som omfattes av EUs felles liste over militært materiell, eller varer som det er forbudt å levere, selge, overføre eller eksportere i henhold til denne forordningen, med mindre ytelse av slike tjenester er nødvendig for humanitære formål og sikkerhetsmessige formål.
 
