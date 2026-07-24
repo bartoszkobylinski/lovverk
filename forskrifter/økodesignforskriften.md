@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Klima- og miljødepartementet"
 date_in_force: "2011-03-01"
-last_change_in_force: "2026-01-01"
+last_change_in_force: "2026-07-24"
 last_updated: "2018-05-09"
-xml_hash: "2cb58690c3843f084405e6172e4cfee1c4cf9320507234b250df8e504ab57bce"
+xml_hash: "6e493ea966c5c08c0a066cbbf3a7434d859512601289638220ee56a58f65ec4a"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-24T06:23:42.727491+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -166,11 +166,11 @@ EØS-avtalen vedlegg IV nr. 26b (forordning [(EU) nr. 206/2012](eu/32012r0206), 
 
 > Tilføyd ved [forskrift 7 feb 2013 nr. 152](forskrift/2013-02-07-152) (i kraft 11 feb 2013), endret ved [forskrifter 5 sep 2013 nr. 1061](forskrift/2013-09-05-1061) (tidligere § 21), [2 nov 2017 nr. 1710](forskrift/2017-11-02-1710), [12 feb 2025 nr. 231](forskrift/2025-02-12-231).
 
-### § 23. Vifter
+### § 23. Vifter som drives av motorer med en elektrisk inngangseffekt på mellom 125 W og 500 kW
 
-EØS-avtalen vedlegg IV nr. 26e (forordning [(EU) nr. 327/2011](eu/32011r0327), som endret ved forordning [(EU) nr. 666/2013](eu/32013r0666) og forordning [(EU) 2016/2282](eu/32016r2282)) om gjennomføring av europaparlaments- og rådsdirektiv [2009/125/EF](eu/32009l0125) når det gjelder krav til miljøvennlig utforming av vifter som drives av motorer med en elektrisk inngangseffekt på mellom 125 W og 500 kW gjelder som forskrift med de tilpasninger som følger av vedlegg IV, protokoll 1 til avtalen og avtalen for øvrig.
+Forordning [(EU) 2024/1834](eu/32024r1834) om vifter som drives av motorer med en elektrisk inngangseffekt på mellom 125 W og 500 kW, som inntatt i [EØS-avtalen vedlegg II kapittel IV](avtale/avt-1992-05-02-1-v2/kapIV) nr. 6z og vedlegg IV nr. 26za, gjelder som forskrift. Forordningen gjelder med tilpasningene som følger av [vedlegg II, vedlegg IV](avtale/avt-1992-05-02-1-v2/kapIV), protokoll 1 til avtalen og avtalen for øvrig.
 
-> Tilføyd ved [forskrift 7 feb 2013 nr. 152](forskrift/2013-02-07-152) (i kraft 11 feb 2013), endret ved [forskrifter 5 sep 2013 nr. 1061](forskrift/2013-09-05-1061) (tidligere § 22), [18 des 2015 nr. 1781](forskrift/2015-12-18-1781), [2 nov 2017 nr. 1710](forskrift/2017-11-02-1710). **Endres** ved forskrift [5 mars 2026 nr. 354](forskrift/2026-03-05-354) (i kraft 24 juli 2026).
+> Tilføyd ved [forskrift 7 feb 2013 nr. 152](forskrift/2013-02-07-152) (i kraft 11 feb 2013), endret ved [forskrifter 5 sep 2013 nr. 1061](forskrift/2013-09-05-1061) (tidligere § 22), [18 des 2015 nr. 1781](forskrift/2015-12-18-1781), [2 nov 2017 nr. 1710](forskrift/2017-11-02-1710), [5 mars 2026 nr. 354](forskrift/2026-03-05-354) (i kraft 24 juli 2026).
 
 ### § 24. Vannpumper
 
@@ -454,4 +454,8 @@ For å lese forordning [(EU) 2024/1103](eu/32024r1103) se her: [pdf-fil](static/
 
 Uoffisiell norsk oversettelse.
 
-> Forordninger tilføyd uten kunngjøring 1 april 2013, 10 okt 2013, 1 sept 2015, 11 feb 2016, tilføyd eller erstattet 23 mars 2016, tilføyd 1 juli 2016, forklarende overskrifter til forordninger fjernet 1 okt 2016, oppdatert med to off. versjoner 25 aug 2017, forordninger tilføyd uten kunngjøring 8 mai 2018. Endret ved forskrift [19 des 2025 nr. 2799](forskrift/2025-12-19-2799) (i kraft 1 jan 2026). **Endres** ved forskrift [5 mars 2026 nr. 354](forskrift/2026-03-05-354) (i kraft 24 juli 2026).
+For å lese forordning [(EU) 2024/1834](eu/32024r1834) se her: [pdf-fil](static/SF/32024r1834u-01.pdf)
+
+Uoffisiell norsk oversettelse.
+
+> Forordninger tilføyd uten kunngjøring 1 april 2013, 10 okt 2013, 1 sept 2015, 11 feb 2016, tilføyd eller erstattet 23 mars 2016, tilføyd 1 juli 2016, forklarende overskrifter til forordninger fjernet 1 okt 2016, oppdatert med to off. versjoner 25 aug 2017, forordninger tilføyd uten kunngjøring 8 mai 2018. Endret ved forskrifter [19 des 2025 nr. 2799](forskrift/2025-12-19-2799) (i kraft 1 jan 2026), [5 mars 2026 nr. 354](forskrift/2026-03-05-354) (i kraft 24 juli 2026).
