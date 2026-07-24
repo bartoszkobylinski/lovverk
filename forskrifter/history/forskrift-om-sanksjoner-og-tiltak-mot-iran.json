@@ -2,6 +2,16 @@
   "doc_id": "sf-20070209-0149",
   "events": [
     {
+      "commit": "bc6b71b",
+      "date": "2026-07-24",
+      "from_path": null,
+      "lines_added": 4,
+      "lines_removed": 4,
+      "subject": "update(forskrift): forskrift-om-sanksjoner-og-tiltak-mot-iran",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "8be38ca",
       "date": "2026-05-19",
       "from_path": null,

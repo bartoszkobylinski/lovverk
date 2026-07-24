@@ -7,7 +7,7 @@ source_license: "NLOD 2.0"
 
 # Sentrale forskrifter
 
-_5153 current documents_
+_5152 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -1312,7 +1312,6 @@ _5153 current documents_
 - [endr-i-vareførselsforskriften-5](endr-i-vareførselsforskriften-5.md) — Forskrift om endring i forskrift om inn- og utførsel av varer (vareførselsforskriften)
 - [endr-i-yrkestransportforskriften](endr-i-yrkestransportforskriften.md) — Forskrift om endring i forskrift om yrkestransport med motorvogn og fartøy (yrkestransportforskriften)
 - [endr-i-yrkestransportforskriften-overgangsbestemmelser](endr-i-yrkestransportforskriften-overgangsbestemmelser.md) — Forskrift om endring i forskrift om yrkestransport med motorvogn og fartøy (yrkestransportforskriften)
-- [endr-i-økodesignforskriften](endr-i-økodesignforskriften.md) — Forskrift om endring i forskrift om miljøvennlig utforming av energirelaterte produkter
 - [endr-i-økonomiforskrift-til-barnehageloven](endr-i-økonomiforskrift-til-barnehageloven.md) — Forskrift om endring i forskrift om regnskapsplikt mv. for private barnehager (økonomiforskrift til barnehageloven)
 - [endr-regulering-av-fiskeeksport-delegering](endr-regulering-av-fiskeeksport-delegering.md) — Forskrift om endring i forskrift om regulering av eksporten av fisk og fiskevarer.
 - [endring-av-forvaltningsansvar-for-høstbare-fremmede-viltarter-og-opphør-av-landbruks-og-matdepartementets-ansvar-for-etatsstyring-av-miljødirektoratet](endring-av-forvaltningsansvar-for-høstbare-fremmede-viltarter-og-opphør-av-landbruks-og-matdepartementets-ansvar-for-etatsstyring-av-miljødirektoratet.md) — Endring av forvaltningsansvar for høstbare, fremmede viltarter og opphør av Landbruks- og matdepartementets ansvar for etatsstyring av Miljødirektoratet
