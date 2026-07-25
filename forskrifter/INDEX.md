@@ -7,7 +7,7 @@ source_license: "NLOD 2.0"
 
 # Sentrale forskrifter
 
-_5152 current documents_
+_5151 current documents_
 
 - [12-pax-forskriften](12-pax-forskriften.md) — Forskrift om fartøy under 24 meter som fører 12 eller færre passasjerer
 - [a-kriminformasjonsforskriften](a-kriminformasjonsforskriften.md) — Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)
@@ -1922,7 +1922,6 @@ _5152 current documents_
 - [forskrift-om-endring-av-rettskriving-m-v](forskrift-om-endring-av-rettskriving-m-v.md) — Forskrift om endring av rettskriving og læreboknormal
 - [forskrift-om-endring-i-ers-forskriften-og-opphevelse-av-forskrift-om-kystfiskeappen](forskrift-om-endring-i-ers-forskriften-og-opphevelse-av-forskrift-om-kystfiskeappen.md) — Forskrift om endring i ERS-forskriften og opphevelse av forskrift om kystfiskeappen
 - [forskrift-om-endring-i-forskrift-25-april-2025-nr-684-om-forbud-mot-markedsføring-av-visse-næringsmidler-særlig-rettet-mot-barn](forskrift-om-endring-i-forskrift-25-april-2025-nr-684-om-forbud-mot-markedsføring-av-visse-næringsmidler-særlig-rettet-mot-barn.md) — Forskrift om endring i forskrift 25. april 2025 nr. 684 om forbud mot markedsføring av visse næringsmidler særlig rettet mot barn
-- [forskrift-om-endring-i-forskrift-4-oktober-2013-nr-1185-om-forsvars-og-sikkerhetsanskaffelser](forskrift-om-endring-i-forskrift-4-oktober-2013-nr-1185-om-forsvars-og-sikkerhetsanskaffelser.md) — Forskrift om endring i forskrift 4. oktober 2013 nr. 1185 om forsvars- og sikkerhetsanskaffelser (FOSA)
 - [forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy](forskrift-om-endring-i-forskrift-om-bruk-av-kjøretøy.md) — Forskrift om endring i forskrift om bruk av kjøretøy
 - [forskrift-om-endring-i-forskrift-om-bustøtte](forskrift-om-endring-i-forskrift-om-bustøtte.md) — Forskrift om endring i forskrift om bustøtte
 - [forskrift-om-endring-i-forskrift-om-delegering-av-myndighet-etter-lov-om-elektronisk-kommunikasjon](forskrift-om-endring-i-forskrift-om-delegering-av-myndighet-etter-lov-om-elektronisk-kommunikasjon.md) — Forskrift om endring i forskrift om delegering av myndighet etter lov om elektronisk kommunikasjon

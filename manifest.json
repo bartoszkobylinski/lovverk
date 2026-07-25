@@ -56849,10 +56849,10 @@
     },
     "sf-20131004-1185": {
       "doc_type": "forskrift",
-      "embedding_hash": "27e9560f1abff7089ba3a248e2892a2ea608e9b98234820c45690f0541c04bb6",
+      "embedding_hash": "b472f5569f9ca63875b80eaf5f8edba22f68661b954c7425c53a7b09f5c20bbe",
       "eu_basis": [],
-      "last_changed": "2026-06-26",
-      "last_seen": "2026-07-11T14:44:44.915821Z",
+      "last_changed": "2026-07-25",
+      "last_seen": "2026-07-25T06:15:14.243403Z",
       "markdown_path": "forskrifter/forskrift-om-forsvars-og-sikkerhetsanskaffelser-fosa.md",
       "removed_reason": null,
       "renderer_version": 3,
@@ -56860,8 +56860,8 @@
       "source_dataset": "gjeldende-sentrale-forskrifter",
       "status": "current",
       "title": "Forskrift om forsvars- og sikkerhetsanskaffelser",
-      "total_changes": 4,
-      "xml_hash": "27e9560f1abff7089ba3a248e2892a2ea608e9b98234820c45690f0541c04bb6"
+      "total_changes": 5,
+      "xml_hash": "b472f5569f9ca63875b80eaf5f8edba22f68661b954c7425c53a7b09f5c20bbe"
     },
     "sf-20131004-1186": {
       "doc_type": "forskrift",
@@ -94689,18 +94689,18 @@
     },
     "sf-20260623-1254": {
       "doc_type": "forskrift",
-      "embedding_hash": "0713b83bad60641d98990ce3d9aa07defe247dbf8140512ed8bad06ea8d4cb35",
-      "eu_basis": [],
-      "last_changed": "2026-06-26",
+      "embedding_hash": null,
+      "eu_basis": null,
+      "last_changed": null,
       "last_seen": "2026-07-11T14:44:44.915821Z",
       "markdown_path": "forskrifter/forskrift-om-endring-i-forskrift-4-oktober-2013-nr-1185-om-forsvars-og-sikkerhetsanskaffelser.md",
       "removed_reason": null,
-      "renderer_version": 3,
+      "renderer_version": null,
       "slug": "forskrift-om-endring-i-forskrift-4-oktober-2013-nr-1185-om-forsvars-og-sikkerhetsanskaffelser",
       "source_dataset": "gjeldende-sentrale-forskrifter",
-      "status": "current",
+      "status": "removed",
       "title": "Forskrift om endring i forskrift 4. oktober 2013 nr. 1185 om forsvars- og sikkerhetsanskaffelser (FOSA)",
-      "total_changes": 1,
+      "total_changes": null,
       "xml_hash": "0713b83bad60641d98990ce3d9aa07defe247dbf8140512ed8bad06ea8d4cb35"
     },
     "sf-20260623-1322": {
@@ -95200,6 +95200,6 @@
       "xml_hash": "97aecc162ceb9b757ad63b2b5839322a41eadef1ccabe7f140aaad46f943fb0d"
     }
   },
-  "generated_at": "2026-07-24T06:23:42.727491Z",
+  "generated_at": "2026-07-25T06:15:14.243403Z",
   "version": 1
 }

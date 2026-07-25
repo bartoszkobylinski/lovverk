@@ -2,6 +2,16 @@
   "doc_id": "sf-20131004-1185",
   "events": [
     {
+      "commit": "4a1b148",
+      "date": "2026-07-25",
+      "from_path": null,
+      "lines_added": 15,
+      "lines_removed": 15,
+      "subject": "update(forskrift): forskrift-om-forsvars-og-sikkerhetsanskaffelser-fosa",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "8bbc5ea",
       "date": "2026-06-26",
       "from_path": null,
