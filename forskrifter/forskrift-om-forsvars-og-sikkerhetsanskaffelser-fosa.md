@@ -9,13 +9,13 @@ language: "no"
 ministry:
   - "Forsvarsdepartementet"
 date_in_force: "2014-01-01"
-last_change_in_force: "2026-04-21"
+last_change_in_force: "2026-07-25"
 last_updated: "2022-03-24"
-xml_hash: "27e9560f1abff7089ba3a248e2892a2ea608e9b98234820c45690f0541c04bb6"
+xml_hash: "b472f5569f9ca63875b80eaf5f8edba22f68661b954c7425c53a7b09f5c20bbe"
 source_provider: "Lovdata"
 source_dataset: "gjeldende-sentrale-forskrifter"
 source_license: "NLOD 2.0"
-retrieved_at: "2026-07-10T17:52:49.841668+00:00"
+retrieved_at: "2026-07-25T06:15:14.243403+00:00"
 status: "current"
 eu_basis: []
 ---
@@ -54,13 +54,13 @@ Denne forskrift kommer til anvendelse for oppdragsgivere som:er offentlig myndig
 
 ### § 2-1. Anvendelsesområde for forskriftens ulike deler
 
-(1) Forskriftens del I gjelder for alle anskaffelser som omfattes av denne forskrift, uavhengig av anskaffelsens art og verdi.
+(1) Forskriftens del I gjelder for alle anskaffelser som omfattes av denne forskrift med en anslått verdi som er lik eller overstiger 500 000 kroner eksklusive merverdiavgift.
 
 (2) Forskriftens del I og del II gjelder for kontrakter hvor den anslåtte verdi overstiger terskelverdiene angitt i [§ 2-2](forskrift/2013-10-04-1185/§2-2).
 
 (3) Kontrakter som gjelder uprioriterte tjenester, jf. vedlegg 6, følger reglene i del I selv om den anslåtte verdi overstiger terskelverdiene angitt i [§ 2-2](forskrift/2013-10-04-1185/§2-2). Dersom anskaffelsen overstiger terskelverdiene angitt i [§ 2-2](forskrift/2013-10-04-1185/§2-2) gjelder også [§ 8-3](forskrift/2013-10-04-1185/§8-3) og [§ 9-5](forskrift/2013-10-04-1185/§9-5). Tilsvarende unntak gjelder for kontrakter om utførelse av opptrenings- og rehabiliteringstjenester som ytes utenfor sykehus og som omfattes av de regionale helseforetakenes ansvar for spesialisthelsetjenester etter [lov 2. juli 1999 nr. 61](lov/1999-07-02-61) om spesialisthelsetjenesten m.m. [§ 2-1a](lov/1999-07-02-61/§2-1a), selv om tjenesten ikke leveres av en ideell organisasjon.
 
-> **Endres** ved forskrift [23 juni 2026 nr. 1254](forskrift/2026-06-23-1254) (i kraft 25 juli 2026).
+> Endret ved forskrift [23 juni 2026 nr. 1254](forskrift/2026-06-23-1254) (i kraft 25 juli 2026).
 
 ### § 2-2. Terskelverdier og CPV-koder
 
@@ -178,23 +178,23 @@ Oppdragsgiver kan kjøpe varer, tjenester og bygge- og anleggsarbeid fra eller g
 
 ### § 3-11. Protokollføring
 
-(1) Oppdragsgiver skal føre protokoll for anskaffelser som overstiger 100 000 kroner eksl. mva.
+(1) Oppdragsgiver skal føre protokoll for anskaffelser som overstiger 500 000 kroner eksl. mva.
 
 (2) Protokollen skal beskrive alle vesentlige forhold og viktige beslutninger gjennom hele anskaffelsesprosessen. Protokollen skal minst omfatte opplysningene som fremgår av forskriftens vedlegg 3 eller 4.
 
-> **Endres** ved forskrift [23 juni 2026 nr. 1254](forskrift/2026-06-23-1254) (i kraft 25 juli 2026).
+> Endret ved forskrift [23 juni 2026 nr. 1254](forskrift/2026-06-23-1254) (i kraft 25 juli 2026).
 
 ### § 3-12. Skatteattest
 
-(1) Oppdragsgiver skal for anskaffelser som overstiger 100 000 kroner eksl. mva. kreve at samtlige norske leverandører som leverer tilbud fremlegger skatteattest for merverdiavgift og skatteattest for skatt.
+(1) Oppdragsgiver skal for anskaffelser som overstiger 500 000 kroner eksl. mva. kreve at samtlige norske leverandører som leverer tilbud fremlegger skatteattest for merverdiavgift og skatteattest for skatt.
 
 (2) Oppdragsgiver skal angi innleveringsmåte og tidspunktet for innlevering.
 
 (3) Skatteattestene skal ikke være eldre enn seks måneder regnet fra fristen i annet ledd.
 
-(4) Ved bygge- og anleggskontrakter skal entreprenøren tilsvarende kreve skatteattest i alle underliggende entrepriseforhold ved inngåelse av kontrakter i tilknytning til oppdraget, som overstiger en verdi på 100 000 kroner eksl. mva. Brudd på entreprenørens plikt til å kreve skatteattest gir oppdragsgiver rett til å kreve at entreprenøren erstatter vedkommende firma med underentreprenør som kan fremlegge skatteattest. Oppdragsgiver kan tilsvarende kreve at entreprenøren erstatter en underentreprenør som ikke har oppfylt sine forpliktelser vedrørende innbetaling av skatter og avgifter. Eventuelle økonomiske krav fra underentreprenører eller omkostninger for øvrig som følge av heving av avtaler med underentreprenører i denne forbindelse, skal bæres av entreprenøren.
+(4) Ved bygge- og anleggskontrakter skal entreprenøren tilsvarende kreve skatteattest i alle underliggende entrepriseforhold ved inngåelse av kontrakter i tilknytning til oppdraget, som overstiger en verdi på 500 000 kroner eksl. mva. Brudd på entreprenørens plikt til å kreve skatteattest gir oppdragsgiver rett til å kreve at entreprenøren erstatter vedkommende firma med underentreprenør som kan fremlegge skatteattest. Oppdragsgiver kan tilsvarende kreve at entreprenøren erstatter en underentreprenør som ikke har oppfylt sine forpliktelser vedrørende innbetaling av skatter og avgifter. Eventuelle økonomiske krav fra underentreprenører eller omkostninger for øvrig som følge av heving av avtaler med underentreprenører i denne forbindelse, skal bæres av entreprenøren.
 
-> **Endres** ved forskrift [23 juni 2026 nr. 1254](forskrift/2026-06-23-1254) (i kraft 25 juli 2026).
+> Endret ved forskrift [23 juni 2026 nr. 1254](forskrift/2026-06-23-1254) (i kraft 25 juli 2026).
 
 ### § 3-13. (Opphevet)
 
@@ -464,9 +464,9 @@ Oppdragsgiver kan kreve at leverandøren skal opplyse om:hvilken del eller deler
 
 (3) Skatteattestene skal ikke være eldre enn seks måneder regnet fra fristen i annet ledd.
 
-(4) Ved bygge- og anleggskontrakter skal entreprenøren tilsvarende kreve skatteattest i alle underliggende entrepriseforhold ved inngåelse av kontrakter i tilknytning til oppdraget som overstiger en verdi på 100 000 kroner eksl. mva. Brudd på entreprenørens plikt til å kreve skatteattest gir oppdragsgiver rett til å kreve at entreprenøren erstatter vedkommende firma med underentreprenør som kan fremlegge skatteattest. Oppdragsgiver kan tilsvarende kreve at entreprenøren erstatter en underentreprenør som ikke har oppfylt sine forpliktelser vedrørende innbetaling av skatter og avgifter. Eventuelle økonomiske krav fra underentreprenører eller omkostninger for øvrig som følge av heving av avtaler med underentreprenører i denne forbindelse skal bæres av entreprenøren.
+(4) Ved bygge- og anleggskontrakter skal entreprenøren tilsvarende kreve skatteattest i alle underliggende entrepriseforhold ved inngåelse av kontrakter i tilknytning til oppdraget som overstiger en verdi på 500 000 kroner eksl. mva. Brudd på entreprenørens plikt til å kreve skatteattest gir oppdragsgiver rett til å kreve at entreprenøren erstatter vedkommende firma med underentreprenør som kan fremlegge skatteattest. Oppdragsgiver kan tilsvarende kreve at entreprenøren erstatter en underentreprenør som ikke har oppfylt sine forpliktelser vedrørende innbetaling av skatter og avgifter. Eventuelle økonomiske krav fra underentreprenører eller omkostninger for øvrig som følge av heving av avtaler med underentreprenører i denne forbindelse skal bæres av entreprenøren.
 
-> **Endres** ved forskrift [23 juni 2026 nr. 1254](forskrift/2026-06-23-1254) (i kraft 25 juli 2026).
+> Endret ved forskrift [23 juni 2026 nr. 1254](forskrift/2026-06-23-1254) (i kraft 25 juli 2026).
 
 ### § 8-18. (Opphevet)
 
@@ -880,13 +880,13 @@ Ved motstrid mellom CPV og NACE gjelder CPV-klassifikasjonen.
 
 > Opphevet ved forskrift [11 des 2020 nr. 2727](forskrift/2020-12-11-2727).
 
-## Vedlegg 3. Protokoll for forsvars- og sikkerhetsanskaffelser mellom 100 000 og 5 millioner ekskl. mva.
+## Vedlegg 3 Protokoll for forsvars- og sikkerhetsanskaffelser mellom 500 000 og 5 millioner ekskl. mva.
 
 > Overskriften endret ved [forskrifter 31 aug 2016 nr. 1027](forskrift/2016-08-31-1027) (i kraft 1 sep 2016), [4 april 2018 nr. 533](forskrift/2018-04-04-533) (i kraft 6 april 2018), [18 mars 2022 nr. 442](forskrift/2022-03-18-442), [14 mars 2024 nr. 449](forskrift/2024-03-14-449), [21 april 2026 nr. 623](forskrift/2026-04-21-623).
 
-For å lese vedlegg 3 se her: [](static/SF/sf-20131004-1185-v3-01-02.doc)
+For å lese vedlegg 3 se her: [word-fil](static/SF/sf-20131004-1185-v3-01-03.doc).
 
-> Endret ved [forskrift 19 mars 2014 nr. 298](forskrift/2014-03-19-298). **Endres** ved forskrift [23 juni 2026 nr. 1254](forskrift/2026-06-23-1254) (i kraft 25 juli 2026).
+> Endret ved [forskrifter 19 mars 2014 nr. 298](forskrift/2014-03-19-298), [23 juni 2026 nr. 1254](forskrift/2026-06-23-1254) (i kraft 25 juli 2026).
 
 ## Vedlegg 4. Protokoll for forsvars- og sikkerhetsanskaffelser som overstiger 5 millioner kroner ekskl. mva.
 
