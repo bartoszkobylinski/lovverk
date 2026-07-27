@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-sykepengeforsikring-næringsdr"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-sykepengeforsikring-næringsdr — Change history
 
-_2 events; doc_id `sf-19970325-0261`._
+_3 events; doc_id `sf-19970325-0261`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-19970325-0261.md` → `"forskrifter/forskrift-om-sykepengeforsikring-n\303\246ringsdr.md"`.
+Renamed: `forskrifter/sf-19970325-0261.md` → `forskrifter/forskrift-om-sykepengeforsikring-næringsdr.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

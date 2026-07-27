@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-forsøk-med-fireårig-lønnstilskudd-for-unge"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-forsøk-med-fireårig-lønnstilskudd-for-unge — Change history
 
-_2 events; doc_id `sf-20260204-0163`._
+_3 events; doc_id `sf-20260204-0163`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20260204-0163.md` → `"forskrifter/forskrift-om-fors\303\270k-med-fire\303\245rig-l\303\270nnstilskudd-for-unge.md"`.
+Renamed: `forskrifter/sf-20260204-0163.md` → `forskrifter/forskrift-om-forsøk-med-fireårig-lønnstilskudd-for-unge.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

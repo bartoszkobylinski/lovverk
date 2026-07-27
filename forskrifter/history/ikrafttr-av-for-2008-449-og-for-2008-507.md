@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ikrafttr-av-for-2008-449-og-for-2008-507"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ikrafttr-av-for-2008-449-og-for-2008-507 — Change history
 
 _1 events; doc_id `sf-20080922-1108`._

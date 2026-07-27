@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-sorteringsrist-i-øyepål-og-kolmulefisket"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-sorteringsrist-i-øyepål-og-kolmulefisket — Change history
 
-_2 events; doc_id `sf-20090430-0471`._
+_3 events; doc_id `sf-20090430-0471`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20090430-0471.md` → `"forskrifter/forskrift-om-sorteringsrist-i-\303\270yep\303\245l-og-kolmulefisket.md"`.
+Renamed: `forskrifter/sf-20090430-0471.md` → `forskrifter/forskrift-om-sorteringsrist-i-øyepål-og-kolmulefisket.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

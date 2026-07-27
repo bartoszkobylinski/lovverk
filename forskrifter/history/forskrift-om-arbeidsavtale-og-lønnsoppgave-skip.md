@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-arbeidsavtale-og-lønnsoppgave-skip"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-arbeidsavtale-og-lønnsoppgave-skip — Change history
 
 _4 events; doc_id `sf-20130819-1000`._
@@ -7,13 +14,13 @@ Lines: +22 -8.
 Subject: `update(forskrift): forskrift-om-arbeidsavtale-og-lønnsoppgave-skip`
 Commit: `ea327ee`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20130819-1000.md` → `"forskrifter/forskrift-om-arbeidsavtale-og-l\303\270nnsoppgave-skip.md"`.
+Renamed: `forskrifter/sf-20130819-1000.md` → `forskrifter/forskrift-om-arbeidsavtale-og-lønnsoppgave-skip.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

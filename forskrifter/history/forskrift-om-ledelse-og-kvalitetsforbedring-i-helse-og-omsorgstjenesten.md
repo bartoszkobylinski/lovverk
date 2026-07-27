@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "forskrift-om-ledelse-og-kvalitetsforbedring-i-helse-og-omsorgstjenesten"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-ledelse-og-kvalitetsforbedring-i-helse-og-omsorgstjenesten — Change history
 
-_2 events; doc_id `sf-20161028-1250`._
+_3 events; doc_id `sf-20161028-1250`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20161028-1250.md` → `forskrifter/forskrift-om-ledelse-og-kvalitetsforbedring-i-helse-og-omsorgstjenesten.md`.

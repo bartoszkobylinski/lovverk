@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-skattebetalingsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-skattebetalingsloven — Change history
 
 _1 events; doc_id `sf-19580313-0001`._

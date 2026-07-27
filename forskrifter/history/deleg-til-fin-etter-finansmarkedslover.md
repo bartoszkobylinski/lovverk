@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-fin-etter-finansmarkedslover"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-fin-etter-finansmarkedslover — Change history
 
 _1 events; doc_id `sf-20040625-0984`._

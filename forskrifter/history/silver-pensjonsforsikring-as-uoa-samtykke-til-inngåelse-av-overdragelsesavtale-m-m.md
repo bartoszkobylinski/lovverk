@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "silver-pensjonsforsikring-as-uoa-samtykke-til-inngåelse-av-overdragelsesavtale-m-m"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # silver-pensjonsforsikring-as-uoa-samtykke-til-inngåelse-av-overdragelsesavtale-m-m — Change history
 
 _1 events; doc_id `sf-20171219-2237`._

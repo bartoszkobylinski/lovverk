@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "grenseforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # grenseforskriften — Change history
 
 _4 events; doc_id `sf-20220429-0665`._
@@ -7,7 +14,7 @@ Lines: +17 -9.
 Subject: `update(forskrift): grenseforskriften`
 Commit: `0ad5000`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

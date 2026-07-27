@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "utredningsinstruksen"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # utredningsinstruksen — Change history
 
 _1 events; doc_id `sf-20160219-0184`._

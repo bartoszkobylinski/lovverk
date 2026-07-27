@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "mandat-for-forvaltningen-av-statens-fond-i-tromsø"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # mandat-for-forvaltningen-av-statens-fond-i-tromsø — Change history
 
 _1 events; doc_id `sf-20240812-2096`._

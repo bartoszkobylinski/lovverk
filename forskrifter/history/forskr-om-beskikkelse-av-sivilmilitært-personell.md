@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskr-om-beskikkelse-av-sivilmilitært-personell"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskr-om-beskikkelse-av-sivilmilitært-personell — Change history
 
-_2 events; doc_id `sf-19460830-0001`._
+_3 events; doc_id `sf-19460830-0001`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-19460830-0001.md` → `"forskrifter/forskr-om-beskikkelse-av-sivilmilit\303\246rt-personell.md"`.
+Renamed: `forskrifter/sf-19460830-0001.md` → `forskrifter/forskr-om-beskikkelse-av-sivilmilitært-personell.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

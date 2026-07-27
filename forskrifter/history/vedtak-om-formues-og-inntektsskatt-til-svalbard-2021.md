@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtak-om-formues-og-inntektsskatt-til-svalbard-2021"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtak-om-formues-og-inntektsskatt-til-svalbard-2021 — Change history
 
 _1 events; doc_id `sf-20201216-2799`._

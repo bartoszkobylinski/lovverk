@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-tilskudd-for-slakte-og-produksjonskrav-i-bruksreglene"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-tilskudd-for-slakte-og-produksjonskrav-i-bruksreglene — Change history
 
 _1 events; doc_id `sf-20260622-1182`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "utfyllande-instruks-om-overføring-av-domfelte"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # utfyllande-instruks-om-overføring-av-domfelte — Change history
 
 _1 events; doc_id `sf-19950217-0129`._

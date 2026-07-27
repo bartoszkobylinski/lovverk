@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-fra-kommunal-og-moderniseringsdepartementet-til-nasjonal-kommunikasjonsmyndighet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-fra-kommunal-og-moderniseringsdepartementet-til-nasjonal-kommunikasjonsmyndighet — Change history
 
 _1 events; doc_id `sf-20210127-0243`._

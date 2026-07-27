@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "forskrift-om-sikringsordningar-i-burettslag"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-sikringsordningar-i-burettslag — Change history
 
-_2 events; doc_id `sf-20101215-1694`._
+_3 events; doc_id `sf-20101215-1694`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20101215-1694.md` → `forskrifter/forskrift-om-sikringsordningar-i-burettslag.md`.

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-shd-etter-næringsmiddelloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-shd-etter-næringsmiddelloven — Change history
 
 _1 events; doc_id `sf-19831111-1611`._

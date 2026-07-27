@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "lov-om-utleie-av-små-elektriske-kjøretøy-på-offentlig-grunn"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # lov-om-utleie-av-små-elektriske-kjøretøy-på-offentlig-grunn — Change history
 
-_2 events; doc_id `nl-20210618-139`._
+_3 events; doc_id `nl-20210618-139`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `lover/nl-20210618-139.md` → `"lover/lov-om-utleie-av-sm\303\245-elektriske-kj\303\270ret\303\270y-p\303\245-offentlig-grunn.md"`.
+Renamed: `lover/nl-20210618-139.md` → `lover/lov-om-utleie-av-små-elektriske-kjøretøy-på-offentlig-grunn.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

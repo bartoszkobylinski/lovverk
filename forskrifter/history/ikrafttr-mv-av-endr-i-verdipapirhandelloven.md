@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ikrafttr-mv-av-endr-i-verdipapirhandelloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ikrafttr-mv-av-endr-i-verdipapirhandelloven — Change history
 
 _1 events; doc_id `sf-19960626-0586`._

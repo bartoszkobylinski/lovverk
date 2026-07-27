@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-avskrivning-på-driftsmidler"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-avskrivning-på-driftsmidler — Change history
 
-_2 events; doc_id `sf-19821012-1449`._
+_3 events; doc_id `sf-19821012-1449`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-19821012-1449.md` → `"forskrifter/forskrift-om-avskrivning-p\303\245-driftsmidler.md"`.
+Renamed: `forskrifter/sf-19821012-1449.md` → `forskrifter/forskrift-om-avskrivning-på-driftsmidler.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

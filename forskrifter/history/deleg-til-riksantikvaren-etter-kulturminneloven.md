@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-riksantikvaren-etter-kulturminneloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-riksantikvaren-etter-kulturminneloven — Change history
 
 _1 events; doc_id `sf-20050701-0751`._

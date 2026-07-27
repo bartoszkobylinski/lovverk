@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "forskrift-om-immunitet-mv-for-osse"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-immunitet-mv-for-osse — Change history
 
-_2 events; doc_id `sf-20000107-0014`._
+_3 events; doc_id `sf-20000107-0014`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20000107-0014.md` → `forskrifter/forskrift-om-immunitet-mv-for-osse.md`.

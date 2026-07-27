@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "forskrift-om-bruk-av-politiarrest"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-bruk-av-politiarrest — Change history
 
-_2 events; doc_id `sf-20060630-0749`._
+_3 events; doc_id `sf-20060630-0749`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20060630-0749.md` → `forskrifter/forskrift-om-bruk-av-politiarrest.md`.

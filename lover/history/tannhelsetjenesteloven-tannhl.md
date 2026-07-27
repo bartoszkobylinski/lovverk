@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "tannhelsetjenesteloven-tannhl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # tannhelsetjenesteloven-tannhl — Change history
 
 _5 events; doc_id `nl-19830603-054`._
@@ -12,7 +19,7 @@ Lines: +3 -3.
 Subject: `update(lov): tannhelsetjenesteloven-tannhl`
 Commit: `04bbc72`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

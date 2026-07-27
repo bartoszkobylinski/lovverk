@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-stenging-av-område-i-barentshavet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-stenging-av-område-i-barentshavet — Change history
 
-_2 events; doc_id `sf-19930820-0822`._
+_3 events; doc_id `sf-19930820-0822`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-19930820-0822.md` → `"forskrifter/forskrift-om-stenging-av-omr\303\245de-i-barentshavet.md"`.
+Renamed: `forskrifter/sf-19930820-0822.md` → `forskrifter/forskrift-om-stenging-av-område-i-barentshavet.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

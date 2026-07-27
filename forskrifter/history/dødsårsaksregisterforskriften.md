@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "dødsårsaksregisterforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # dødsårsaksregisterforskriften — Change history
 
-_2 events; doc_id `sf-20011221-1476`._
+_3 events; doc_id `sf-20011221-1476`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20011221-1476.md` → `"forskrifter/d\303\270ds\303\245rsaksregisterforskriften.md"`.
+Renamed: `forskrifter/sf-20011221-1476.md` → `forskrifter/dødsårsaksregisterforskriften.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

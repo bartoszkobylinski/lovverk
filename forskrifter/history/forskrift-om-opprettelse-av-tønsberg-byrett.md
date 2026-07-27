@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-opprettelse-av-tønsberg-byrett"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-opprettelse-av-tønsberg-byrett — Change history
 
 _1 events; doc_id `sf-19810123-8984`._

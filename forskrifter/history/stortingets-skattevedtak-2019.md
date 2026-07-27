@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "stortingets-skattevedtak-2019"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # stortingets-skattevedtak-2019 — Change history
 
 _1 events; doc_id `sf-20181212-1992`._

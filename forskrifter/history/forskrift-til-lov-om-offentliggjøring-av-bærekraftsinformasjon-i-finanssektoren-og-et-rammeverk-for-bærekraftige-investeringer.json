@@ -19,7 +19,7 @@
       "lines_removed": 1,
       "subject": "migration: backfill eu_basis for 4523 documents",
       "to_path": null,
-      "type": "renamed"
+      "type": "updated"
     },
     {
       "commit": "3dddeca",
@@ -28,7 +28,7 @@
       "lines_added": 2,
       "lines_removed": 1,
       "subject": "migration: rename 4522 documents to slug-based filenames",
-      "to_path": "\"forskrifter/forskrift-til-lov-om-offentliggj\\303\\270ring-av-b\\303\\246rekraftsinformasjon-i-finanssektoren-og-et-rammeverk-for-b\\303\\246rekraftige-investeringer.md\"",
+      "to_path": "forskrifter/forskrift-til-lov-om-offentliggjøring-av-bærekraftsinformasjon-i-finanssektoren-og-et-rammeverk-for-bærekraftige-investeringer.md",
       "type": "renamed"
     },
     {

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-til-fd-lov-2001-95"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-til-fd-lov-2001-95 — Change history
 
 _1 events; doc_id `sf-20011214-1460`._

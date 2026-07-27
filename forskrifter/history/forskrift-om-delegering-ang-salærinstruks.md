@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-delegering-ang-salærinstruks"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-delegering-ang-salærinstruks — Change history
 
 _1 events; doc_id `sf-19821008-1445`._

@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-opprettelse-av-permanente-restriksjonsområder-over-åtte-fengsler"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-opprettelse-av-permanente-restriksjonsområder-over-åtte-fengsler — Change history
 
-_2 events; doc_id `sf-20181205-1807`._
+_3 events; doc_id `sf-20181205-1807`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20181205-1807.md` → `"forskrifter/forskrift-om-opprettelse-av-permanente-restriksjonsomr\303\245der-over-\303\245tte-fengsler.md"`.
+Renamed: `forskrifter/sf-20181205-1807.md` → `forskrifter/forskrift-om-opprettelse-av-permanente-restriksjonsområder-over-åtte-fengsler.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

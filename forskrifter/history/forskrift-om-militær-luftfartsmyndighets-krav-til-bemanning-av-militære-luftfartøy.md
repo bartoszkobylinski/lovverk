@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-militær-luftfartsmyndighets-krav-til-bemanning-av-militære-luftfartøy"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-militær-luftfartsmyndighets-krav-til-bemanning-av-militære-luftfartøy — Change history
 
-_2 events; doc_id `sf-20251125-2329`._
+_3 events; doc_id `sf-20251125-2329`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20251125-2329.md` → `"forskrifter/forskrift-om-milit\303\246r-luftfartsmyndighets-krav-til-bemanning-av-milit\303\246re-luftfart\303\270y.md"`.
+Renamed: `forskrifter/sf-20251125-2329.md` → `forskrifter/forskrift-om-militær-luftfartsmyndighets-krav-til-bemanning-av-militære-luftfartøy.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

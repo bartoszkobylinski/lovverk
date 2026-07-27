@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-fordeling-av-norsk-tippings-overskudd-til-kulturformål"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-fordeling-av-norsk-tippings-overskudd-til-kulturformål — Change history
 
-_2 events; doc_id `sf-20260417-0615`._
+_3 events; doc_id `sf-20260417-0615`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20260417-0615.md` → `"forskrifter/forskrift-om-fordeling-av-norsk-tippings-overskudd-til-kulturform\303\245l.md"`.
+Renamed: `forskrifter/sf-20260417-0615.md` → `forskrifter/forskrift-om-fordeling-av-norsk-tippings-overskudd-til-kulturformål.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

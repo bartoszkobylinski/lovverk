@@ -2,13 +2,23 @@
   "doc_id": "sf-20091221-1739",
   "events": [
     {
+      "commit": "3d499af",
+      "date": "2026-04-29",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 1,
+      "subject": "migration: backfill eu_basis for 4523 documents",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "3dddeca",
       "date": "2026-04-27",
       "from_path": "forskrifter/sf-20091221-1739.md",
       "lines_added": 2,
       "lines_removed": 1,
       "subject": "migration: rename 4522 documents to slug-based filenames",
-      "to_path": "\"forskrifter/forskrift-om-gebyr-for-utstedelse-av-sertifikater-og-p\\303\\245tegninger-til-maritimt-personell-og-for-utstedelse-av-b\\303\\245tf\\303\\270rerbevis-til-b\\303\\245tf\\303\\270rere-mv.md\"",
+      "to_path": "forskrifter/forskrift-om-gebyr-for-utstedelse-av-sertifikater-og-påtegninger-til-maritimt-personell-og-for-utstedelse-av-båtførerbevis-til-båtførere-mv.md",
       "type": "renamed"
     },
     {

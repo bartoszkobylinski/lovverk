@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "mandat-for-forvaltningen-av-statens-obligasjonsfond"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # mandat-for-forvaltningen-av-statens-obligasjonsfond — Change history
 
 _1 events; doc_id `sf-20200327-0488`._

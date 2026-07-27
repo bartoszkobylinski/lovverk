@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-beskyttelse-av-mindreårige-mot-skadelige-bildeprogram"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-beskyttelse-av-mindreårige-mot-skadelige-bildeprogram — Change history
 
-_2 events; doc_id `sf-20150626-0800`._
+_3 events; doc_id `sf-20150626-0800`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20150626-0800.md` → `"forskrifter/forskrift-om-beskyttelse-av-mindre\303\245rige-mot-skadelige-bildeprogram.md"`.
+Renamed: `forskrifter/sf-20150626-0800.md` → `forskrifter/forskrift-om-beskyttelse-av-mindreårige-mot-skadelige-bildeprogram.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

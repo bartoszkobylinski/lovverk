@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ikrafts-av-lov-2018-24-sikkerhetsloven-med-overgangsregler-fordeling-av-myndighet-videreføring-av-forskrifter-m-m"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ikrafts-av-lov-2018-24-sikkerhetsloven-med-overgangsregler-fordeling-av-myndighet-videreføring-av-forskrifter-m-m — Change history
 
 _1 events; doc_id `sf-20181220-2052`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-ytelser-til-gjenlevende-ektefelle-og-tidligere-familiepleier-etter-folketrygdloven-kapittel-17"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-ytelser-til-gjenlevende-ektefelle-og-tidligere-familiepleier-etter-folketrygdloven-kapittel-17 — Change history
 
 _4 events; doc_id `sf-20230621-1007`._
@@ -7,7 +14,7 @@ Lines: +37 -9.
 Subject: `sync: 8 new, 220 changed, 3 renamed, 77 removed`
 Commit: `2032c09`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

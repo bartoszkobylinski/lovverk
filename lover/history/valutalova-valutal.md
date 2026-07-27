@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "valutalova-valutal"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # valutalova-valutal — Change history
 
-_2 events; doc_id `nl-19500714-010`._
+_3 events; doc_id `nl-19500714-010`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `lover/nl-19500714-010.md` → `lover/valutalova-valutal.md`.

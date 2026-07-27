@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "forskrift-om-register-for-frivillig-virksomhet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-register-for-frivillig-virksomhet — Change history
 
-_2 events; doc_id `sf-20081015-1214`._
+_3 events; doc_id `sf-20081015-1214`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20081015-1214.md` → `forskrifter/forskrift-om-register-for-frivillig-virksomhet.md`.

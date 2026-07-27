@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-utøvelse-av-fangst-av-vågehval"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-utøvelse-av-fangst-av-vågehval — Change history
 
-_2 events; doc_id `sf-20220401-0511`._
+_3 events; doc_id `sf-20220401-0511`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20220401-0511.md` → `"forskrifter/forskrift-om-ut\303\270velse-av-fangst-av-v\303\245gehval.md"`.
+Renamed: `forskrifter/sf-20220401-0511.md` → `forskrifter/forskrift-om-utøvelse-av-fangst-av-vågehval.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-tilskudd-til-tiltak-i-statlig-sikrede-friluftslivsområder-og-områder-vernet-som-friluftslivsområder-etter-markaloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-tilskudd-til-tiltak-i-statlig-sikrede-friluftslivsområder-og-områder-vernet-som-friluftslivsområder-etter-markaloven — Change history
 
-_2 events; doc_id `sf-20231115-1848`._
+_3 events; doc_id `sf-20231115-1848`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20231115-1848.md` → `"forskrifter/forskrift-om-tilskudd-til-tiltak-i-statlig-sikrede-friluftslivsomr\303\245der-og-omr\303\245der-vernet-som-friluftslivsomr\303\245der-etter-markaloven.md"`.
+Renamed: `forskrifter/sf-20231115-1848.md` → `forskrifter/forskrift-om-tilskudd-til-tiltak-i-statlig-sikrede-friluftslivsområder-og-områder-vernet-som-friluftslivsområder-etter-markaloven.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-eøs-krav-til-sikkerhet-for-utstyr-til-elektronisk-kommunikasjon"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-eøs-krav-til-sikkerhet-for-utstyr-til-elektronisk-kommunikasjon — Change history
 
-_2 events; doc_id `sf-20160415-0379`._
+_3 events; doc_id `sf-20160415-0379`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20160415-0379.md` → `"forskrifter/forskrift-om-e\303\270s-krav-til-sikkerhet-for-utstyr-til-elektronisk-kommunikasjon.md"`.
+Renamed: `forskrifter/sf-20160415-0379.md` → `forskrifter/forskrift-om-eøs-krav-til-sikkerhet-for-utstyr-til-elektronisk-kommunikasjon.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

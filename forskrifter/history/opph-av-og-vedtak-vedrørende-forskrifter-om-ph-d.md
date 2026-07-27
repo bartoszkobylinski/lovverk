@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "opph-av-og-vedtak-vedrørende-forskrifter-om-ph-d"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # opph-av-og-vedtak-vedrørende-forskrifter-om-ph-d — Change history
 
 _1 events; doc_id `sf-20151208-1451`._

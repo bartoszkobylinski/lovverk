@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-klinisk-utprøving-av-legemidler-til-mennesker"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-klinisk-utprøving-av-legemidler-til-mennesker — Change history
 
-_2 events; doc_id `sf-20091030-1321`._
+_3 events; doc_id `sf-20091030-1321`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20091030-1321.md` → `"forskrifter/forskrift-om-klinisk-utpr\303\270ving-av-legemidler-til-mennesker.md"`.
+Renamed: `forskrifter/sf-20091030-1321.md` → `forskrifter/forskrift-om-klinisk-utprøving-av-legemidler-til-mennesker.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "forskrift-om-sektoravgift-for-dekning-av-kostnader-til-norges-vassdrags-og-energidirektorats-tilsyns-og-kontrollarbeid"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-sektoravgift-for-dekning-av-kostnader-til-norges-vassdrags-og-energidirektorats-tilsyns-og-kontrollarbeid — Change history
 
-_2 events; doc_id `sf-20230927-1518`._
+_3 events; doc_id `sf-20230927-1518`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20230927-1518.md` → `forskrifter/forskrift-om-sektoravgift-for-dekning-av-kostnader-til-norges-vassdrags-og-energidirektorats-tilsyns-og-kontrollarbeid.md`.

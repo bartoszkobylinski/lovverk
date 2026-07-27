@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ansvaret-for-arbeidsmiljø-og-sikkerhetsavd"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ansvaret-for-arbeidsmiljø-og-sikkerhetsavd — Change history
 
 _1 events; doc_id `sf-20010330-0291`._

@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "registrerings-og-bevillingsordning-for-tobakksvarer-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # registrerings-og-bevillingsordning-for-tobakksvarer-mv — Change history
 
-_2 events; doc_id `sf-20170921-1446`._
+_3 events; doc_id `sf-20170921-1446`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20170921-1446.md` → `forskrifter/registrerings-og-bevillingsordning-for-tobakksvarer-mv.md`.

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "instruks-om-samarbeidet-mellom-e-og-pst"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # instruks-om-samarbeidet-mellom-e-og-pst — Change history
 
 _1 events; doc_id `sf-20061013-1151`._

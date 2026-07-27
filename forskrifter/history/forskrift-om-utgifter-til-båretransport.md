@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-utgifter-til-båretransport"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-utgifter-til-båretransport — Change history
 
-_2 events; doc_id `sf-19970311-0216`._
+_3 events; doc_id `sf-19970311-0216`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-19970311-0216.md` → `"forskrifter/forskrift-om-utgifter-til-b\303\245retransport.md"`.
+Renamed: `forskrifter/sf-19970311-0216.md` → `forskrifter/forskrift-om-utgifter-til-båretransport.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

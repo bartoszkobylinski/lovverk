@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-naturvernloven-fredningsvedtak"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-naturvernloven-fredningsvedtak — Change history
 
 _1 events; doc_id `sf-19870703-0572`._

@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "forskrift-om-eigedomsinngrep-etter-veglova"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-eigedomsinngrep-etter-veglova — Change history
 
-_2 events; doc_id `sf-19810911-8603`._
+_3 events; doc_id `sf-19810911-8603`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-19810911-8603.md` → `forskrifter/forskrift-om-eigedomsinngrep-etter-veglova.md`.

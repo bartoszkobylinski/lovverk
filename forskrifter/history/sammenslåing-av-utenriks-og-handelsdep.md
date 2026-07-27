@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "sammenslåing-av-utenriks-og-handelsdep"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # sammenslåing-av-utenriks-og-handelsdep — Change history
 
 _1 events; doc_id `sf-19871218-0970`._

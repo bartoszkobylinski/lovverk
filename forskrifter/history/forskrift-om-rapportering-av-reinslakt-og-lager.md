@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-rapportering-av-reinslakt-og-lager"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-rapportering-av-reinslakt-og-lager — Change history
 
 _5 events; doc_id `sf-20110621-0617`._
@@ -12,7 +19,7 @@ Lines: +3 -3.
 Subject: `update(forskrift): forskrift-om-rapportering-av-reinslakt-og-lager`
 Commit: `e71d2f8`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

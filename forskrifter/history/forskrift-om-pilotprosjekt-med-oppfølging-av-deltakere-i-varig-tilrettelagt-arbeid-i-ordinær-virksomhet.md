@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-pilotprosjekt-med-oppfølging-av-deltakere-i-varig-tilrettelagt-arbeid-i-ordinær-virksomhet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-pilotprosjekt-med-oppfølging-av-deltakere-i-varig-tilrettelagt-arbeid-i-ordinær-virksomhet — Change history
 
-_2 events; doc_id `sf-20240702-1800`._
+_3 events; doc_id `sf-20240702-1800`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20240702-1800.md` → `"forskrifter/forskrift-om-pilotprosjekt-med-oppf\303\270lging-av-deltakere-i-varig-tilrettelagt-arbeid-i-ordin\303\246r-virksomhet.md"`.
+Renamed: `forskrifter/sf-20240702-1800.md` → `forskrifter/forskrift-om-pilotprosjekt-med-oppfølging-av-deltakere-i-varig-tilrettelagt-arbeid-i-ordinær-virksomhet.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

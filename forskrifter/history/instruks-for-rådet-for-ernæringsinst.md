@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "instruks-for-rådet-for-ernæringsinst"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # instruks-for-rådet-for-ernæringsinst — Change history
 
 _1 events; doc_id `sf-19820108-8713`._

@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-gjennomføring-av-rusmiddeltesting-og-forbud-mot-å-tjenestegjøre-i-ruspåvirket-tilstand-for-flyteknisk-personell-personell-i-flysikringstjenesten-og-i-bakketjenesten"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-gjennomføring-av-rusmiddeltesting-og-forbud-mot-å-tjenestegjøre-i-ruspåvirket-tilstand-for-flyteknisk-personell-personell-i-flysikringstjenesten-og-i-bakketjenesten — Change history
 
-_2 events; doc_id `sf-20190116-0025`._
+_3 events; doc_id `sf-20190116-0025`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20190116-0025.md` → `"forskrifter/forskrift-om-gjennomf\303\270ring-av-rusmiddeltesting-og-forbud-mot-\303\245-tjenestegj\303\270re-i-rusp\303\245virket-tilstand-for-flyteknisk-personell-personell-i-flysikringstjenesten-og-i-bakketjenesten.md"`.
+Renamed: `forskrifter/sf-20190116-0025.md` → `forskrifter/forskrift-om-gjennomføring-av-rusmiddeltesting-og-forbud-mot-å-tjenestegjøre-i-ruspåvirket-tilstand-for-flyteknisk-personell-personell-i-flysikringstjenesten-og-i-bakketjenesten.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

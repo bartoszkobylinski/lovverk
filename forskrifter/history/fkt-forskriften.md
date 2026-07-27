@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "fkt-forskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # fkt-forskriften — Change history
 
-_2 events; doc_id `sf-20241212-3074`._
+_3 events; doc_id `sf-20241212-3074`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20241212-3074.md` → `forskrifter/fkt-forskriften.md`.

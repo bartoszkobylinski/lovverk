@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overføring-av-forvaltningsansvaret-for-forskotteringsloven-og-lov-6-juni-2014-nr-19-om-stans-i-utbetalinga-av-offentlege-ytingar-og-barnebidrag-når-ein-av-foreldra-har-bortført-eit-barn-til"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overføring-av-forvaltningsansvaret-for-forskotteringsloven-og-lov-6-juni-2014-nr-19-om-stans-i-utbetalinga-av-offentlege-ytingar-og-barnebidrag-når-ein-av-foreldra-har-bortført-eit-barn-til — Change history
 
 _1 events; doc_id `sf-20221220-2296`._

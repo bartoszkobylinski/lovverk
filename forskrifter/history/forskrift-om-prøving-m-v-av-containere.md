@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-prøving-m-v-av-containere"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-prøving-m-v-av-containere — Change history
 
-_2 events; doc_id `sf-19840402-0827`._
+_3 events; doc_id `sf-19840402-0827`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-19840402-0827.md` → `"forskrifter/forskrift-om-pr\303\270ving-m-v-av-containere.md"`.
+Renamed: `forskrifter/sf-19840402-0827.md` → `forskrifter/forskrift-om-prøving-m-v-av-containere.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

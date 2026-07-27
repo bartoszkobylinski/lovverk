@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-arbeids-og-inkluderingsdepartementets-myndighet-til-å-avgjøre-anmodninger-om-unntak-fra-lovvalgsbestemmelsene-i-forordning-883-2004-om-koordinering-av-trygdeordninger-nordisk"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-arbeids-og-inkluderingsdepartementets-myndighet-til-å-avgjøre-anmodninger-om-unntak-fra-lovvalgsbestemmelsene-i-forordning-883-2004-om-koordinering-av-trygdeordninger-nordisk — Change history
 
 _1 events; doc_id `sf-20240916-2154`._

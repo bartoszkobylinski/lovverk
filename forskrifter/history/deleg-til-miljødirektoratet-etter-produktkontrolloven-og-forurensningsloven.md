@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-miljødirektoratet-etter-produktkontrolloven-og-forurensningsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-miljødirektoratet-etter-produktkontrolloven-og-forurensningsloven — Change history
 
 _1 events; doc_id `sf-20170630-1126`._

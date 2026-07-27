@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndighet-etter-naturmangfoldloven-til-klima-og-miljødepartementet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndighet-etter-naturmangfoldloven-til-klima-og-miljødepartementet — Change history
 
 _1 events; doc_id `sf-20250228-0320`._

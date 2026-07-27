@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-trygderefusjon-for-leger-m-v"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-trygderefusjon-for-leger-m-v — Change history
 
 _4 events; doc_id `sf-19980618-0590`._
@@ -7,7 +14,7 @@ Lines: +14 -6.
 Subject: `update(forskrift): forskrift-om-trygderefusjon-for-leger-m-v`
 Commit: `90bd24f`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-dispasjører"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-dispasjører — Change history
 
-_2 events; doc_id `sf-20240203-0172`._
+_3 events; doc_id `sf-20240203-0172`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20240203-0172.md` → `"forskrifter/forskrift-om-dispasj\303\270rer.md"`.
+Renamed: `forskrifter/sf-20240203-0172.md` → `forskrifter/forskrift-om-dispasjører.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

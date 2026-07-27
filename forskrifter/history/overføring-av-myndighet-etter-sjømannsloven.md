@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overføring-av-myndighet-etter-sjømannsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overføring-av-myndighet-etter-sjømannsloven — Change history
 
 _1 events; doc_id `sf-19881223-1081`._

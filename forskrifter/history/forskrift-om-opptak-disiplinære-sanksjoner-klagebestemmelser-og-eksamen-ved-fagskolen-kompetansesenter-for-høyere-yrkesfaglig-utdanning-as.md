@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-opptak-disiplinære-sanksjoner-klagebestemmelser-og-eksamen-ved-fagskolen-kompetansesenter-for-høyere-yrkesfaglig-utdanning-as"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-opptak-disiplinære-sanksjoner-klagebestemmelser-og-eksamen-ved-fagskolen-kompetansesenter-for-høyere-yrkesfaglig-utdanning-as — Change history
 
-_2 events; doc_id `sf-20210801-4016`._
+_3 events; doc_id `sf-20210801-4016`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20210801-4016.md` → `"forskrifter/forskrift-om-opptak-disiplin\303\246re-sanksjoner-klagebestemmelser-og-eksamen-ved-fagskolen-kompetansesenter-for-h\303\270yere-yrkesfaglig-utdanning-as.md"`.
+Renamed: `forskrifter/sf-20210801-4016.md` → `forskrifter/forskrift-om-opptak-disiplinære-sanksjoner-klagebestemmelser-og-eksamen-ved-fagskolen-kompetansesenter-for-høyere-yrkesfaglig-utdanning-as.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

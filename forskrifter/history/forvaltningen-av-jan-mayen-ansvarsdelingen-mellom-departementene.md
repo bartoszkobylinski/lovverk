@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forvaltningen-av-jan-mayen-ansvarsdelingen-mellom-departementene"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forvaltningen-av-jan-mayen-ansvarsdelingen-mellom-departementene — Change history
 
 _1 events; doc_id `sf-20231124-1902`._

@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskr-om-faglig-utvalg-for-førerhundspørsmål"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskr-om-faglig-utvalg-for-førerhundspørsmål — Change history
 
-_2 events; doc_id `sf-19970415-0322`._
+_3 events; doc_id `sf-19970415-0322`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-19970415-0322.md` → `"forskrifter/forskr-om-faglig-utvalg-for-f\303\270rerhundsp\303\270rsm\303\245l.md"`.
+Renamed: `forskrifter/sf-19970415-0322.md` → `forskrifter/forskr-om-faglig-utvalg-for-førerhundspørsmål.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

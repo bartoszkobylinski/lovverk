@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "forskrift-om-erstatning-for-sterkt-skadde-eller-bortkomne-sedler-og-mynter"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-erstatning-for-sterkt-skadde-eller-bortkomne-sedler-og-mynter — Change history
 
-_2 events; doc_id `sf-20211217-3772`._
+_3 events; doc_id `sf-20211217-3772`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20211217-3772.md` → `forskrifter/forskrift-om-erstatning-for-sterkt-skadde-eller-bortkomne-sedler-og-mynter.md`.

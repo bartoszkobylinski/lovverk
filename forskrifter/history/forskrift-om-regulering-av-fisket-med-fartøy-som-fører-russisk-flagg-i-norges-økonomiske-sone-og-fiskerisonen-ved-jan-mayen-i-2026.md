@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-regulering-av-fisket-med-fartøy-som-fører-russisk-flagg-i-norges-økonomiske-sone-og-fiskerisonen-ved-jan-mayen-i-2026"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-regulering-av-fisket-med-fartøy-som-fører-russisk-flagg-i-norges-økonomiske-sone-og-fiskerisonen-ved-jan-mayen-i-2026 — Change history
 
-_2 events; doc_id `sf-20260114-0044`._
+_3 events; doc_id `sf-20260114-0044`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20260114-0044.md` → `"forskrifter/forskrift-om-regulering-av-fisket-med-fart\303\270y-som-f\303\270rer-russisk-flagg-i-norges-\303\270konomiske-sone-og-fiskerisonen-ved-jan-mayen-i-2026.md"`.
+Renamed: `forskrifter/sf-20260114-0044.md` → `forskrifter/forskrift-om-regulering-av-fisket-med-fartøy-som-fører-russisk-flagg-i-norges-økonomiske-sone-og-fiskerisonen-ved-jan-mayen-i-2026.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

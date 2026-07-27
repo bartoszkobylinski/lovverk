@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-utforming-av-løyvepliktig-motorvogn"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-utforming-av-løyvepliktig-motorvogn — Change history
 
-_2 events; doc_id `sf-20091203-1438`._
+_3 events; doc_id `sf-20091203-1438`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20091203-1438.md` → `"forskrifter/forskrift-om-utforming-av-l\303\270yvepliktig-motorvogn.md"`.
+Renamed: `forskrifter/sf-20091203-1438.md` → `forskrifter/forskrift-om-utforming-av-løyvepliktig-motorvogn.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

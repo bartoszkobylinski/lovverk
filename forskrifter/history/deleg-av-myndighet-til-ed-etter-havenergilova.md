@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-til-ed-etter-havenergilova"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-til-ed-etter-havenergilova — Change history
 
 _1 events; doc_id `sf-20200228-0198`._

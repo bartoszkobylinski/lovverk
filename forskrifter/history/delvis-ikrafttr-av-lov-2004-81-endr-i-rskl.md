@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delvis-ikrafttr-av-lov-2004-81-endr-i-rskl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delvis-ikrafttr-av-lov-2004-81-endr-i-rskl — Change history
 
 _1 events; doc_id `sf-20041210-1610`._

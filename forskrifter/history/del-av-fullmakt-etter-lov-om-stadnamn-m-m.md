@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "del-av-fullmakt-etter-lov-om-stadnamn-m-m"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # del-av-fullmakt-etter-lov-om-stadnamn-m-m — Change history
 
 _1 events; doc_id `sf-19910704-0448`._

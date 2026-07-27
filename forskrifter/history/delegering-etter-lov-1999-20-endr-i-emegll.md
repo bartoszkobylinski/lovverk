@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-lov-1999-20-endr-i-emegll"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-lov-1999-20-endr-i-emegll — Change history
 
 _1 events; doc_id `sf-19990423-0426`._

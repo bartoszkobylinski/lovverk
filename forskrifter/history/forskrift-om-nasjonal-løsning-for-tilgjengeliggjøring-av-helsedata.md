@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-nasjonal-løsning-for-tilgjengeliggjøring-av-helsedata"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-nasjonal-løsning-for-tilgjengeliggjøring-av-helsedata — Change history
 
 _5 events; doc_id `sf-20230111-0048`._
@@ -12,13 +19,13 @@ Lines: +3 -3.
 Subject: `update(forskrift): forskrift-om-nasjonal-løsning-for-tilgjengeliggjøring-av-helsedata`
 Commit: `fce34c7`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20230111-0048.md` → `"forskrifter/forskrift-om-nasjonal-l\303\270sning-for-tilgjengeliggj\303\270ring-av-helsedata.md"`.
+Renamed: `forskrifter/sf-20230111-0048.md` → `forskrifter/forskrift-om-nasjonal-løsning-for-tilgjengeliggjøring-av-helsedata.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

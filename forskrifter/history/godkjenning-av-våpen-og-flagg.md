@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "godkjenning-av-våpen-og-flagg"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # godkjenning-av-våpen-og-flagg — Change history
 
 _1 events; doc_id `sf-19900928-0866`._

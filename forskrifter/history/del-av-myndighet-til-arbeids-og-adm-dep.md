@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "del-av-myndighet-til-arbeids-og-adm-dep"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # del-av-myndighet-til-arbeids-og-adm-dep — Change history
 
 _1 events; doc_id `sf-19900323-0179`._

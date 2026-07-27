@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-grunnbeløp-reguleringsfaktorer-satser-for-minste-pensjonsnivå-og-satser-for-garantipensjon-i-folketrygden-fra-1-mai-2026-og-virknings-tidspunkt-for-regulering-av-kravet-til"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-grunnbeløp-reguleringsfaktorer-satser-for-minste-pensjonsnivå-og-satser-for-garantipensjon-i-folketrygden-fra-1-mai-2026-og-virknings-tidspunkt-for-regulering-av-kravet-til — Change history
 
 _5 events; doc_id `sf-20260522-0869`._
@@ -12,13 +19,13 @@ Lines: +15 -15.
 Subject: `add(forskrift): forskrift-om-grunnbeløp-reguleringsfaktorer-satser-for-minste-pensjonsnivå-og-satser-for-garantipensjon-i-folketrygden-fra-1-mai-2026-og-virknings-tidspunkt-for-regulering-av-kravet-til`
 Commit: `c3065a3`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20250523-0837.md` → `"forskrifter/forskrift-om-grunnbel\303\270p-reguleringsfaktorer-satser-for-minste-pensjonsniv\303\245-og-satser-for-garantipensjon-i-folketrygden-fra-1-mai-2025-og-virknings-tidspunkt-for-regulering-av-kravet-til.md"`.
+Renamed: `forskrifter/sf-20250523-0837.md` → `forskrifter/forskrift-om-grunnbeløp-reguleringsfaktorer-satser-for-minste-pensjonsnivå-og-satser-for-garantipensjon-i-folketrygden-fra-1-mai-2025-og-virknings-tidspunkt-for-regulering-av-kravet-til.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

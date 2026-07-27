@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtak-om-disp-for-nøkkelpersonell-med-kritiske-samfunnsfunksjoner-for-nkom-m-m-korornavirus"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtak-om-disp-for-nøkkelpersonell-med-kritiske-samfunnsfunksjoner-for-nkom-m-m-korornavirus — Change history
 
 _1 events; doc_id `sf-20200313-0362`._

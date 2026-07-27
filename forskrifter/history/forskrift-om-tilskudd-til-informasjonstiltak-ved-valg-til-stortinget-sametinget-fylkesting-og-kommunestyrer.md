@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "forskrift-om-tilskudd-til-informasjonstiltak-ved-valg-til-stortinget-sametinget-fylkesting-og-kommunestyrer"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-tilskudd-til-informasjonstiltak-ved-valg-til-stortinget-sametinget-fylkesting-og-kommunestyrer — Change history
 
-_2 events; doc_id `sf-20201013-2034`._
+_3 events; doc_id `sf-20201013-2034`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20201013-2034.md` → `forskrifter/forskrift-om-tilskudd-til-informasjonstiltak-ved-valg-til-stortinget-sametinget-fylkesting-og-kommunestyrer.md`.

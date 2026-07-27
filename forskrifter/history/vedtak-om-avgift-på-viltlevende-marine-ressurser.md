@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtak-om-avgift-på-viltlevende-marine-ressurser"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtak-om-avgift-på-viltlevende-marine-ressurser — Change history
 
 _1 events; doc_id `sf-20210618-2049`._

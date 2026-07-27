@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-gjennomføring-av-forordning-2020-2155-og-forordning-2020-2156"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-gjennomføring-av-forordning-2020-2155-og-forordning-2020-2156 — Change history
 
 _1 events; doc_id `sf-20260609-1032`._

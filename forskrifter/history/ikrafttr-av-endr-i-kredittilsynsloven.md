@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ikrafttr-av-endr-i-kredittilsynsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ikrafttr-av-endr-i-kredittilsynsloven — Change history
 
 _1 events; doc_id `sf-19961220-1154`._

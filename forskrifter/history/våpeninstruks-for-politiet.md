@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "våpeninstruks-for-politiet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # våpeninstruks-for-politiet — Change history
 
 _1 events; doc_id `sf-20150702-1088`._

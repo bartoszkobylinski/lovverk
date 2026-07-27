@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-tildeling-av-myndighet-til-nye-veier-as-etter-plan-og-bygningsloven-3-7-tredje-ledd"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-tildeling-av-myndighet-til-nye-veier-as-etter-plan-og-bygningsloven-3-7-tredje-ledd — Change history
 
 _1 events; doc_id `sf-20190308-0203`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overføring-av-det-overordnede-ansvaret-for-drivstofforsyningen"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overføring-av-det-overordnede-ansvaret-for-drivstofforsyningen — Change history
 
 _1 events; doc_id `sf-20161216-1644`._

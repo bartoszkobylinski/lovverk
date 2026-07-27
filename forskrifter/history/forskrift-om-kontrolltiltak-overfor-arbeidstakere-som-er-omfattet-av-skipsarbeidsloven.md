@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "forskrift-om-kontrolltiltak-overfor-arbeidstakere-som-er-omfattet-av-skipsarbeidsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-kontrolltiltak-overfor-arbeidstakere-som-er-omfattet-av-skipsarbeidsloven — Change history
 
-_2 events; doc_id `sf-20190125-0053`._
+_3 events; doc_id `sf-20190125-0053`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20190125-0053.md` → `forskrifter/forskrift-om-kontrolltiltak-overfor-arbeidstakere-som-er-omfattet-av-skipsarbeidsloven.md`.

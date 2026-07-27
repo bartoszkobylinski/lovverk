@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "instruks-om-kystvaktrådet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # instruks-om-kystvaktrådet — Change history
 
 _1 events; doc_id `sf-19991105-1146`._

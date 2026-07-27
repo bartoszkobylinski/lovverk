@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "omorganisering-av-departementsstrukturen-4"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # omorganisering-av-departementsstrukturen-4 — Change history
 
 _1 events; doc_id `sf-20040618-0916`._

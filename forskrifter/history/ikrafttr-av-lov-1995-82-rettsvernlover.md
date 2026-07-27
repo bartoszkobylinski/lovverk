@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ikrafttr-av-lov-1995-82-rettsvernlover"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ikrafttr-av-lov-1995-82-rettsvernlover — Change history
 
 _1 events; doc_id `sf-19961220-1153`._

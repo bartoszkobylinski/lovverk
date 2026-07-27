@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "instruks-om-fjørfebesetninger"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # instruks-om-fjørfebesetninger — Change history
 
 _1 events; doc_id `sf-20030331-0503`._

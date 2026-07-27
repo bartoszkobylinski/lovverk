@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-for-reindriftens-utviklingsfond"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-for-reindriftens-utviklingsfond — Change history
 
 _5 events; doc_id `sf-20190620-0864`._
@@ -12,7 +19,7 @@ Lines: +17 -13.
 Subject: `update(forskrift): forskrift-for-reindriftens-utviklingsfond`
 Commit: `4313d07`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

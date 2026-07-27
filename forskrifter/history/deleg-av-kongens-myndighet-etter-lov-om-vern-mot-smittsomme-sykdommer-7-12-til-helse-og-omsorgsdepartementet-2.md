@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-kongens-myndighet-etter-lov-om-vern-mot-smittsomme-sykdommer-7-12-til-helse-og-omsorgsdepartementet-2"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-kongens-myndighet-etter-lov-om-vern-mot-smittsomme-sykdommer-7-12-til-helse-og-omsorgsdepartementet-2 — Change history
 
 _1 events; doc_id `sf-20200408-0767`._

@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-adgang-til-lån-og-innskudd-i-norges-bank"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-adgang-til-lån-og-innskudd-i-norges-bank — Change history
 
-_2 events; doc_id `sf-20191218-2025`._
+_3 events; doc_id `sf-20191218-2025`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20191218-2025.md` → `"forskrifter/forskrift-om-adgang-til-l\303\245n-og-innskudd-i-norges-bank.md"`.
+Renamed: `forskrifter/sf-20191218-2025.md` → `forskrifter/forskrift-om-adgang-til-lån-og-innskudd-i-norges-bank.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

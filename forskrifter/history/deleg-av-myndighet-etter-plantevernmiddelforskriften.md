@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-etter-plantevernmiddelforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-etter-plantevernmiddelforskriften — Change history
 
 _1 events; doc_id `sf-20150528-0555`._

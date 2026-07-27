@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-jakt-og-fangst-mv-på-statsgrunn"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-jakt-og-fangst-mv-på-statsgrunn — Change history
 
 _4 events; doc_id `sf-20070820-0987`._
@@ -7,13 +14,13 @@ Lines: +10 -8.
 Subject: `sync: 8 new, 220 changed, 3 renamed, 77 removed`
 Commit: `2032c09`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20070820-0987.md` → `"forskrifter/forskrift-om-jakt-og-fangst-mv-p\303\245-statsgrunn.md"`.
+Renamed: `forskrifter/sf-20070820-0987.md` → `forskrifter/forskrift-om-jakt-og-fangst-mv-på-statsgrunn.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

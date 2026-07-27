@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endringer-i-departementsstrukturen-og-i-ansvarsdelingen-mellom-departementene"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endringer-i-departementsstrukturen-og-i-ansvarsdelingen-mellom-departementene — Change history
 
 _1 events; doc_id `sf-20211222-3828`._

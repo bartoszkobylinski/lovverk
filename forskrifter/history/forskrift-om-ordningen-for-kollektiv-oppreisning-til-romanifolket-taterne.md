@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "forskrift-om-ordningen-for-kollektiv-oppreisning-til-romanifolket-taterne"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-ordningen-for-kollektiv-oppreisning-til-romanifolket-taterne — Change history
 
-_2 events; doc_id `sf-20190927-1277`._
+_3 events; doc_id `sf-20190927-1277`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20190927-1277.md` → `forskrifter/forskrift-om-ordningen-for-kollektiv-oppreisning-til-romanifolket-taterne.md`.

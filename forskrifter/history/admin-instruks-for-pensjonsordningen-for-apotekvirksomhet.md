@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "admin-instruks-for-pensjonsordningen-for-apotekvirksomhet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # admin-instruks-for-pensjonsordningen-for-apotekvirksomhet — Change history
 
 _1 events; doc_id `sf-20171219-2239`._

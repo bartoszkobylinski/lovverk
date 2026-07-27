@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-straffegjennomføring"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-straffegjennomføring — Change history
 
 _4 events; doc_id `sf-20020222-0183`._
@@ -7,13 +14,13 @@ Lines: +6 -6.
 Subject: `update(forskrift): forskrift-om-straffegjennomføring`
 Commit: `59369df`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20020222-0183.md` → `"forskrifter/forskrift-om-straffegjennomf\303\270ring.md"`.
+Renamed: `forskrifter/sf-20020222-0183.md` → `forskrifter/forskrift-om-straffegjennomføring.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

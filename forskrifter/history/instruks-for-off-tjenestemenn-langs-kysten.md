@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "instruks-for-off-tjenestemenn-langs-kysten"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # instruks-for-off-tjenestemenn-langs-kysten — Change history
 
 _1 events; doc_id `sf-19971219-1545`._

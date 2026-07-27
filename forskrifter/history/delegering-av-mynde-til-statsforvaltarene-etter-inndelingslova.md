@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-mynde-til-statsforvaltarene-etter-inndelingslova"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-mynde-til-statsforvaltarene-etter-inndelingslova — Change history
 
 _1 events; doc_id `sf-20170310-0313`._

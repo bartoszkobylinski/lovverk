@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-undersøkelse-og-utvinning-av-skjellsand-sand-og-grus-i-kystnære-områder"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-undersøkelse-og-utvinning-av-skjellsand-sand-og-grus-i-kystnære-områder — Change history
 
-_2 events; doc_id `sf-20231220-2167`._
+_3 events; doc_id `sf-20231220-2167`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20231220-2167.md` → `"forskrifter/forskrift-om-unders\303\270kelse-og-utvinning-av-skjellsand-sand-og-grus-i-kystn\303\246re-omr\303\245der.md"`.
+Renamed: `forskrifter/sf-20231220-2167.md` → `forskrifter/forskrift-om-undersøkelse-og-utvinning-av-skjellsand-sand-og-grus-i-kystnære-områder.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

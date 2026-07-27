@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "rundskriv-om-rettledning-til-domfelte"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # rundskriv-om-rettledning-til-domfelte — Change history
 
 _1 events; doc_id `sf-19640910-0001`._

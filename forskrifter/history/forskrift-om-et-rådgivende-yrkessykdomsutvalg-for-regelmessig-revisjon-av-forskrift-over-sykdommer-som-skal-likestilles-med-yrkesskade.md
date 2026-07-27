@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-et-rådgivende-yrkessykdomsutvalg-for-regelmessig-revisjon-av-forskrift-over-sykdommer-som-skal-likestilles-med-yrkesskade"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-et-rådgivende-yrkessykdomsutvalg-for-regelmessig-revisjon-av-forskrift-over-sykdommer-som-skal-likestilles-med-yrkesskade — Change history
 
 _1 events; doc_id `sf-20260623-1356`._

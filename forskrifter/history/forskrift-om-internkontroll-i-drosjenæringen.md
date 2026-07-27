@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-internkontroll-i-drosjenæringen"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-internkontroll-i-drosjenæringen — Change history
 
 _1 events; doc_id `sf-20260504-0715`._

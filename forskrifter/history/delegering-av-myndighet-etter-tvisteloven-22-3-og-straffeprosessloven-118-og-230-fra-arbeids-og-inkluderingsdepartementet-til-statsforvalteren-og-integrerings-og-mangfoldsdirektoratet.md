@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndighet-etter-tvisteloven-22-3-og-straffeprosessloven-118-og-230-fra-arbeids-og-inkluderingsdepartementet-til-statsforvalteren-og-integrerings-og-mangfoldsdirektoratet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndighet-etter-tvisteloven-22-3-og-straffeprosessloven-118-og-230-fra-arbeids-og-inkluderingsdepartementet-til-statsforvalteren-og-integrerings-og-mangfoldsdirektoratet — Change history
 
 _1 events; doc_id `sf-20240619-1377`._

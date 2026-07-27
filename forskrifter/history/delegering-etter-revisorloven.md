@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-revisorloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-revisorloven — Change history
 
 _1 events; doc_id `sf-19990115-0021`._

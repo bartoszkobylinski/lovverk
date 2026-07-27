@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-gjennomføring-av-eøs-rettsakter-om-europeisk-statistikk"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-gjennomføring-av-eøs-rettsakter-om-europeisk-statistikk — Change history
 
-_2 events; doc_id `sf-20201211-2745`._
+_3 events; doc_id `sf-20201211-2745`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20201211-2745.md` → `"forskrifter/forskrift-om-gjennomf\303\270ring-av-e\303\270s-rettsakter-om-europeisk-statistikk.md"`.
+Renamed: `forskrifter/sf-20201211-2745.md` → `forskrifter/forskrift-om-gjennomføring-av-eøs-rettsakter-om-europeisk-statistikk.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

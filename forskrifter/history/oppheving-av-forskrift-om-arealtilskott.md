@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "oppheving-av-forskrift-om-arealtilskott"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # oppheving-av-forskrift-om-arealtilskott — Change history
 
-_2 events; doc_id `sf-19870206-0071`._
+_3 events; doc_id `sf-19870206-0071`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-19870206-0071.md` → `forskrifter/oppheving-av-forskrift-om-arealtilskott.md`.

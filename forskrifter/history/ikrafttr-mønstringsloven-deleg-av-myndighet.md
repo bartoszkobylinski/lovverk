@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ikrafttr-mønstringsloven-deleg-av-myndighet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ikrafttr-mønstringsloven-deleg-av-myndighet — Change history
 
 _1 events; doc_id `sf-19711001-0006`._

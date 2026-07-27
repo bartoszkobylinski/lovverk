@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "forskrift-til-avhendingslova-tryggere-bolighandel"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-til-avhendingslova-tryggere-bolighandel — Change history
 
-_2 events; doc_id `sf-20210608-1850`._
+_3 events; doc_id `sf-20210608-1850`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20210608-1850.md` → `forskrifter/forskrift-til-avhendingslova-tryggere-bolighandel.md`.

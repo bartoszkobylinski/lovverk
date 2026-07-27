@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-utøvelse-av-jakt-felling-og-fangst"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-utøvelse-av-jakt-felling-og-fangst — Change history
 
 _4 events; doc_id `sf-20020322-0313`._
@@ -7,13 +14,13 @@ Lines: +73 -35.
 Subject: `sync: 8 new, 220 changed, 3 renamed, 77 removed`
 Commit: `2032c09`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20020322-0313.md` → `"forskrifter/forskrift-om-ut\303\270velse-av-jakt-felling-og-fangst.md"`.
+Renamed: `forskrifter/sf-20020322-0313.md` → `forskrifter/forskrift-om-utøvelse-av-jakt-felling-og-fangst.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

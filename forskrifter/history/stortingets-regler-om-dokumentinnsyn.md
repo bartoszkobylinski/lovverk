@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "stortingets-regler-om-dokumentinnsyn"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # stortingets-regler-om-dokumentinnsyn — Change history
 
 _1 events; doc_id `sf-20250619-1640`._

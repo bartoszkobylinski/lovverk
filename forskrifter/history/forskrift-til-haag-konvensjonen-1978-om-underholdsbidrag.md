@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "forskrift-til-haag-konvensjonen-1978-om-underholdsbidrag"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-til-haag-konvensjonen-1978-om-underholdsbidrag — Change history
 
-_2 events; doc_id `sf-19780602-0007`._
+_3 events; doc_id `sf-19780602-0007`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-19780602-0007.md` → `forskrifter/forskrift-til-haag-konvensjonen-1978-om-underholdsbidrag.md`.

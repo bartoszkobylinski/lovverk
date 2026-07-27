@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "forskrift-om-den-rettsmedisinske-kommisjon"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-den-rettsmedisinske-kommisjon — Change history
 
-_2 events; doc_id `sf-20180213-0240`._
+_3 events; doc_id `sf-20180213-0240`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20180213-0240.md` → `forskrifter/forskrift-om-den-rettsmedisinske-kommisjon.md`.

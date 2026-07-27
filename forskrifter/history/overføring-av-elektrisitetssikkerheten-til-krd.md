@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overføring-av-elektrisitetssikkerheten-til-krd"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overføring-av-elektrisitetssikkerheten-til-krd — Change history
 
 _1 events; doc_id `sf-19901214-0991`._

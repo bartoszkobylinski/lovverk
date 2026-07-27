@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "del-til-jd-om-personundersøkelse-og-tilsyn"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # del-til-jd-om-personundersøkelse-og-tilsyn — Change history
 
 _1 events; doc_id `sf-19651210-0002`._

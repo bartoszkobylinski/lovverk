@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-turnustjeneste-for-å-få-autorisasjon-som-ortopediingeniør-og-kiropraktor"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-turnustjeneste-for-å-få-autorisasjon-som-ortopediingeniør-og-kiropraktor — Change history
 
-_2 events; doc_id `sf-20001221-1382`._
+_3 events; doc_id `sf-20001221-1382`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20001221-1382.md` → `"forskrifter/forskrift-om-turnustjeneste-for-\303\245-f\303\245-autorisasjon-som-ortopediingeni\303\270r-og-kiropraktor.md"`.
+Renamed: `forskrifter/sf-20001221-1382.md` → `forskrifter/forskrift-om-turnustjeneste-for-å-få-autorisasjon-som-ortopediingeniør-og-kiropraktor.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

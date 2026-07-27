@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-sfd-etter-skipssikkerhetsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-sfd-etter-skipssikkerhetsloven — Change history
 
 _1 events; doc_id `sf-20070531-0590`._

@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-strømstønad"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-strømstønad — Change history
 
-_2 events; doc_id `sf-20250908-1791`._
+_3 events; doc_id `sf-20250908-1791`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20250908-1791.md` → `"forskrifter/forskrift-om-str\303\270mst\303\270nad.md"`.
+Renamed: `forskrifter/sf-20250908-1791.md` → `forskrifter/forskrift-om-strømstønad.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

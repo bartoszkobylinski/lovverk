@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-tilskudd-ved-frakt-av-rein-i-forbindelse-med-slakting"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-tilskudd-ved-frakt-av-rein-i-forbindelse-med-slakting — Change history
 
 _5 events; doc_id `sf-20090617-0657`._
@@ -12,7 +19,7 @@ Lines: +4 -4.
 Subject: `update(forskrift): forskrift-om-tilskudd-ved-frakt-av-rein-i-forbindelse-med-slakting`
 Commit: `85147f9`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

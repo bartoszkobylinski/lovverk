@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overføring-av-myndighet-fra-aad-og-bfd-til-jd"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overføring-av-myndighet-fra-aad-og-bfd-til-jd — Change history
 
 _1 events; doc_id `sf-20030627-0793`._

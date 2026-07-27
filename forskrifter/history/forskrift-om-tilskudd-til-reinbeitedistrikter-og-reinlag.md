@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-tilskudd-til-reinbeitedistrikter-og-reinlag"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-tilskudd-til-reinbeitedistrikter-og-reinlag — Change history
 
 _7 events; doc_id `sf-20221221-2468`._
@@ -22,7 +29,7 @@ Lines: +9 -3.
 Subject: `update(forskrift): forskrift-om-tilskudd-til-reinbeitedistrikter-og-reinlag`
 Commit: `8549a48`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

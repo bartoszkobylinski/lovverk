@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ikrafttr-av-fjellova-delegering-av-myndighet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ikrafttr-av-fjellova-delegering-av-myndighet — Change history
 
 _1 events; doc_id `sf-19751121-0004`._

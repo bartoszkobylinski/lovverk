@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-fkd-etter-havneloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-fkd-etter-havneloven — Change history
 
 _1 events; doc_id `sf-20080411-0337`._

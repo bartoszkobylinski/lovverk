@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "forskrift-om-gruvekart"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-gruvekart — Change history
 
-_2 events; doc_id `sf-20101220-1784`._
+_3 events; doc_id `sf-20101220-1784`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20101220-1784.md` → `forskrifter/forskrift-om-gruvekart.md`.

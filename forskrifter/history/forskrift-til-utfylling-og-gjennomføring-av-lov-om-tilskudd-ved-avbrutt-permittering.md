@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-til-utfylling-og-gjennomføring-av-lov-om-tilskudd-ved-avbrutt-permittering"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-til-utfylling-og-gjennomføring-av-lov-om-tilskudd-ved-avbrutt-permittering — Change history
 
-_2 events; doc_id `sf-20200629-1420`._
+_3 events; doc_id `sf-20200629-1420`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20200629-1420.md` → `"forskrifter/forskrift-til-utfylling-og-gjennomf\303\270ring-av-lov-om-tilskudd-ved-avbrutt-permittering.md"`.
+Renamed: `forskrifter/sf-20200629-1420.md` → `forskrifter/forskrift-til-utfylling-og-gjennomføring-av-lov-om-tilskudd-ved-avbrutt-permittering.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

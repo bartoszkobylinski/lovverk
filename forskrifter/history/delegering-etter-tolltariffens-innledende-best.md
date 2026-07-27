@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-tolltariffens-innledende-best"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-tolltariffens-innledende-best — Change history
 
 _1 events; doc_id `sf-19661216-0001`._

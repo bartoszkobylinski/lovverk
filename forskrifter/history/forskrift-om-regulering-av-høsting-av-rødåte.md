@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-regulering-av-høsting-av-rødåte"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-regulering-av-høsting-av-rødåte — Change history
 
-_2 events; doc_id `sf-20241205-2943`._
+_3 events; doc_id `sf-20241205-2943`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20241205-2943.md` → `"forskrifter/forskrift-om-regulering-av-h\303\270sting-av-r\303\270d\303\245te.md"`.
+Renamed: `forskrifter/sf-20241205-2943.md` → `forskrifter/forskrift-om-regulering-av-høsting-av-rødåte.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "sjøfartskortforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # sjøfartskortforskriften — Change history
 
 _1 events; doc_id `sf-20260513-0827`._

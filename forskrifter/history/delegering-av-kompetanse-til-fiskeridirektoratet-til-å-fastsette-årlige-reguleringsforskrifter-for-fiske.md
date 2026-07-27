@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-kompetanse-til-fiskeridirektoratet-til-å-fastsette-årlige-reguleringsforskrifter-for-fiske"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-kompetanse-til-fiskeridirektoratet-til-å-fastsette-årlige-reguleringsforskrifter-for-fiske — Change history
 
 _1 events; doc_id `sf-20011016-4686`._

@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-lufttransporttjenester-i-eøs"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-lufttransporttjenester-i-eøs — Change history
 
-_2 events; doc_id `sf-20110812-0833`._
+_3 events; doc_id `sf-20110812-0833`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20110812-0833.md` → `"forskrifter/forskrift-om-lufttransporttjenester-i-e\303\270s.md"`.
+Renamed: `forskrifter/sf-20110812-0833.md` → `forskrifter/forskrift-om-lufttransporttjenester-i-eøs.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

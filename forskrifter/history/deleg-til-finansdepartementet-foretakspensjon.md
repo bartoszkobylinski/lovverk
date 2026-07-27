@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-finansdepartementet-foretakspensjon"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-finansdepartementet-foretakspensjon — Change history
 
 _1 events; doc_id `sf-20020607-0528`._

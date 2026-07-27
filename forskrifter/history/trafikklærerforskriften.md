@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "trafikklærerforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # trafikklærerforskriften — Change history
 
 _5 events; doc_id `sf-20241015-2556`._
@@ -12,13 +19,13 @@ Lines: +3 -3.
 Subject: `update(forskrift): trafikklærerforskriften`
 Commit: `c9dbf50`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20241015-2556.md` → `"forskrifter/trafikkl\303\246rerforskriften.md"`.
+Renamed: `forskrifter/sf-20241015-2556.md` → `forskrifter/trafikklærerforskriften.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

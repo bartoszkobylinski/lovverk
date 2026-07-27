@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-til-kystverket-etter-havne-og-farvannsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-til-kystverket-etter-havne-og-farvannsloven — Change history
 
 _1 events; doc_id `sf-20210326-1180`._

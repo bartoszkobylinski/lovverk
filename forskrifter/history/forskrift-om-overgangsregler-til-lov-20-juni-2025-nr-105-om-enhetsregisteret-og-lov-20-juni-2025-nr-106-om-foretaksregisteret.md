@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "forskrift-om-overgangsregler-til-lov-20-juni-2025-nr-105-om-enhetsregisteret-og-lov-20-juni-2025-nr-106-om-foretaksregisteret"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-overgangsregler-til-lov-20-juni-2025-nr-105-om-enhetsregisteret-og-lov-20-juni-2025-nr-106-om-foretaksregisteret — Change history
 
-_2 events; doc_id `sf-20251001-1974`._
+_3 events; doc_id `sf-20251001-1974`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20251001-1974.md` → `forskrifter/forskrift-om-overgangsregler-til-lov-20-juni-2025-nr-105-om-enhetsregisteret-og-lov-20-juni-2025-nr-106-om-foretaksregisteret.md`.

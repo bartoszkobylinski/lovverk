@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-nasjonal-sertifisering-av-luftfartøy"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-nasjonal-sertifisering-av-luftfartøy — Change history
 
-_2 events; doc_id `sf-20210625-2246`._
+_3 events; doc_id `sf-20210625-2246`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20210625-2246.md` → `"forskrifter/forskrift-om-nasjonal-sertifisering-av-luftfart\303\270y.md"`.
+Renamed: `forskrifter/sf-20210625-2246.md` → `forskrifter/forskrift-om-nasjonal-sertifisering-av-luftfartøy.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

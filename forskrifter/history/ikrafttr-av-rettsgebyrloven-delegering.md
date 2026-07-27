@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ikrafttr-av-rettsgebyrloven-delegering"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ikrafttr-av-rettsgebyrloven-delegering — Change history
 
 _1 events; doc_id `sf-19830211-0084`._

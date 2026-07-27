@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-et-råd-for-drivstoffberedskap-og-drivstoffnæringens-beredskapsplikter"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-et-råd-for-drivstoffberedskap-og-drivstoffnæringens-beredskapsplikter — Change history
 
-_2 events; doc_id `sf-20180629-1104`._
+_3 events; doc_id `sf-20180629-1104`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20180629-1104.md` → `"forskrifter/forskrift-om-et-r\303\245d-for-drivstoffberedskap-og-drivstoffn\303\246ringens-beredskapsplikter.md"`.
+Renamed: `forskrifter/sf-20180629-1104.md` → `forskrifter/forskrift-om-et-råd-for-drivstoffberedskap-og-drivstoffnæringens-beredskapsplikter.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-behandling-av-personopplysninger-på-det-boligsosiale-feltet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-behandling-av-personopplysninger-på-det-boligsosiale-feltet — Change history
 
-_2 events; doc_id `sf-20230817-1330`._
+_3 events; doc_id `sf-20230817-1330`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20230817-1330.md` → `"forskrifter/forskrift-om-behandling-av-personopplysninger-p\303\245-det-boligsosiale-feltet.md"`.
+Renamed: `forskrifter/sf-20230817-1330.md` → `forskrifter/forskrift-om-behandling-av-personopplysninger-på-det-boligsosiale-feltet.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

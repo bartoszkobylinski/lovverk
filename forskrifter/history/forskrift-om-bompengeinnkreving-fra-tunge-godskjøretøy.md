@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-bompengeinnkreving-fra-tunge-godskjøretøy"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-bompengeinnkreving-fra-tunge-godskjøretøy — Change history
 
-_2 events; doc_id `sf-20130614-0614`._
+_3 events; doc_id `sf-20130614-0614`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20130614-0614.md` → `"forskrifter/forskrift-om-bompengeinnkreving-fra-tunge-godskj\303\270ret\303\270y.md"`.
+Renamed: `forskrifter/sf-20130614-0614.md` → `forskrifter/forskrift-om-bompengeinnkreving-fra-tunge-godskjøretøy.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

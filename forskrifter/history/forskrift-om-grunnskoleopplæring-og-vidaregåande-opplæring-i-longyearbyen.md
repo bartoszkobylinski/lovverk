@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-grunnskoleopplæring-og-vidaregåande-opplæring-i-longyearbyen"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-grunnskoleopplæring-og-vidaregåande-opplæring-i-longyearbyen — Change history
 
-_2 events; doc_id `sf-20240621-1103`._
+_3 events; doc_id `sf-20240621-1103`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20240621-1103.md` → `"forskrifter/forskrift-om-grunnskoleoppl\303\246ring-og-vidareg\303\245ande-oppl\303\246ring-i-longyearbyen.md"`.
+Renamed: `forskrifter/sf-20240621-1103.md` → `forskrifter/forskrift-om-grunnskoleopplæring-og-vidaregåande-opplæring-i-longyearbyen.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

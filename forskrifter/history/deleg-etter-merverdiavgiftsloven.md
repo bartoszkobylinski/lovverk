@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-etter-merverdiavgiftsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-etter-merverdiavgiftsloven — Change history
 
 _1 events; doc_id `sf-20130225-0218`._

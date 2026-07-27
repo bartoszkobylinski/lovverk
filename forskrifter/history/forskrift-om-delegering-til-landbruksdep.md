@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-delegering-til-landbruksdep"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-delegering-til-landbruksdep — Change history
 
 _1 events; doc_id `sf-19841123-1945`._

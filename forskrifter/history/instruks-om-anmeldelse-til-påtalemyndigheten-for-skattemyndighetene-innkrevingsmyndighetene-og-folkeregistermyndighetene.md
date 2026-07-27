@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "instruks-om-anmeldelse-til-påtalemyndigheten-for-skattemyndighetene-innkrevingsmyndighetene-og-folkeregistermyndighetene"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # instruks-om-anmeldelse-til-påtalemyndigheten-for-skattemyndighetene-innkrevingsmyndighetene-og-folkeregistermyndighetene — Change history
 
 _1 events; doc_id `sf-20240911-2185`._

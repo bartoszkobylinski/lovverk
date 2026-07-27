@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-avtalefestet-pensjon-for-medlemmer-av-statens-pensjonskasse-født-i-1963-eller-senere"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-avtalefestet-pensjon-for-medlemmer-av-statens-pensjonskasse-født-i-1963-eller-senere — Change history
 
-_2 events; doc_id `sf-20241213-3109`._
+_3 events; doc_id `sf-20241213-3109`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20241213-3109.md` → `"forskrifter/forskrift-om-avtalefestet-pensjon-for-medlemmer-av-statens-pensjonskasse-f\303\270dt-i-1963-eller-senere.md"`.
+Renamed: `forskrifter/sf-20241213-3109.md` → `forskrifter/forskrift-om-avtalefestet-pensjon-for-medlemmer-av-statens-pensjonskasse-født-i-1963-eller-senere.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

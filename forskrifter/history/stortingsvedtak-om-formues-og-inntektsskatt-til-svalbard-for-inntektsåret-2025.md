@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "stortingsvedtak-om-formues-og-inntektsskatt-til-svalbard-for-inntektsåret-2025"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # stortingsvedtak-om-formues-og-inntektsskatt-til-svalbard-for-inntektsåret-2025 — Change history
 
 _1 events; doc_id `sf-20241218-3358`._

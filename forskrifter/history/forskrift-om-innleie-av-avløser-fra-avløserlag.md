@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-innleie-av-avløser-fra-avløserlag"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-innleie-av-avløser-fra-avløserlag — Change history
 
-_2 events; doc_id `sf-20250701-1377`._
+_3 events; doc_id `sf-20250701-1377`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20250701-1377.md` → `"forskrifter/forskrift-om-innleie-av-avl\303\270ser-fra-avl\303\270serlag.md"`.
+Renamed: `forskrifter/sf-20250701-1377.md` → `forskrifter/forskrift-om-innleie-av-avløser-fra-avløserlag.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

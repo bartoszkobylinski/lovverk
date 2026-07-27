@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deltakerforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deltakerforskriften — Change history
 
 _4 events; doc_id `sf-20251219-2811`._
@@ -7,7 +14,7 @@ Lines: +16 -4.
 Subject: `update(forskrift): deltakerforskriften`
 Commit: `021d3e8`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-fin-etter-regnskapsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-fin-etter-regnskapsloven — Change history
 
 _1 events; doc_id `sf-19980717-1555`._

@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "forskrift-for-statens-banksikringsfond"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-for-statens-banksikringsfond — Change history
 
-_2 events; doc_id `sf-19911129-0763`._
+_3 events; doc_id `sf-19911129-0763`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-19911129-0763.md` → `forskrifter/forskrift-for-statens-banksikringsfond.md`.

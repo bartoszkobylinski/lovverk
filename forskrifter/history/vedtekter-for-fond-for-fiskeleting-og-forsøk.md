@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtekter-for-fond-for-fiskeleting-og-forsøk"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtekter-for-fond-for-fiskeleting-og-forsøk — Change history
 
 _1 events; doc_id `sf-19760223-8724`._

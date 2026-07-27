@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-bemyndigelser-til-fiskeridep"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-bemyndigelser-til-fiskeridep — Change history
 
 _1 events; doc_id `sf-19640117-9176`._

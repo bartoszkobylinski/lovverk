@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-ikke-samarbeidsvillige-jurisdiksjoner-for-skatteformål"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-ikke-samarbeidsvillige-jurisdiksjoner-for-skatteformål — Change history
 
 _5 events; doc_id `sf-20250701-1379`._
@@ -12,13 +19,13 @@ Lines: +6 -2.
 Subject: `update(forskrift): forskrift-om-ikke-samarbeidsvillige-jurisdiksjoner-for-skatteformål`
 Commit: `22c30a8`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20250701-1379.md` → `"forskrifter/forskrift-om-ikke-samarbeidsvillige-jurisdiksjoner-for-skatteform\303\245l.md"`.
+Renamed: `forskrifter/sf-20250701-1379.md` → `forskrifter/forskrift-om-ikke-samarbeidsvillige-jurisdiksjoner-for-skatteformål.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

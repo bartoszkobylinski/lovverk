@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtekter-for-krigsskadeskipn-varelagertrygd"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtekter-for-krigsskadeskipn-varelagertrygd — Change history
 
 _1 events; doc_id `sf-19561123-0004`._

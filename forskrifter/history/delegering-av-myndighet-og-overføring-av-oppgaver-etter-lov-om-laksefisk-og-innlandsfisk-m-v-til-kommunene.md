@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndighet-og-overføring-av-oppgaver-etter-lov-om-laksefisk-og-innlandsfisk-m-v-til-kommunene"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndighet-og-overføring-av-oppgaver-etter-lov-om-laksefisk-og-innlandsfisk-m-v-til-kommunene — Change history
 
 _1 events; doc_id `sf-19960119-1480`._

@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "forskrift-om-utbetaling-av-uredusert-ytelse"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-utbetaling-av-uredusert-ytelse — Change history
 
-_2 events; doc_id `sf-20141031-1375`._
+_3 events; doc_id `sf-20141031-1375`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20141031-1375.md` → `forskrifter/forskrift-om-utbetaling-av-uredusert-ytelse.md`.

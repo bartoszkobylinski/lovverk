@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "fastsettelse-av-prinsipper-for-petoro-as-sin-forvaltning-av-statens-eierskap-i-sentral-gassinfrastruktur-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # fastsettelse-av-prinsipper-for-petoro-as-sin-forvaltning-av-statens-eierskap-i-sentral-gassinfrastruktur-mv — Change history
 
 _1 events; doc_id `sf-20241220-3328`._

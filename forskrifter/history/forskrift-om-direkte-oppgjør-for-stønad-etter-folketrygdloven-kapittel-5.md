@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-direkte-oppgjør-for-stønad-etter-folketrygdloven-kapittel-5"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-direkte-oppgjør-for-stønad-etter-folketrygdloven-kapittel-5 — Change history
 
-_2 events; doc_id `sf-20201215-2816`._
+_3 events; doc_id `sf-20201215-2816`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20201215-2816.md` → `"forskrifter/forskrift-om-direkte-oppgj\303\270r-for-st\303\270nad-etter-folketrygdloven-kapittel-5.md"`.
+Renamed: `forskrifter/sf-20201215-2816.md` → `forskrifter/forskrift-om-direkte-oppgjør-for-stønad-etter-folketrygdloven-kapittel-5.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

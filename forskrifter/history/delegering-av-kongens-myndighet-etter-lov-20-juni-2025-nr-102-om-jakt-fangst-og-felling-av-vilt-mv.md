@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-kongens-myndighet-etter-lov-20-juni-2025-nr-102-om-jakt-fangst-og-felling-av-vilt-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-kongens-myndighet-etter-lov-20-juni-2025-nr-102-om-jakt-fangst-og-felling-av-vilt-mv — Change history
 
 _1 events; doc_id `sf-20260619-1153`._

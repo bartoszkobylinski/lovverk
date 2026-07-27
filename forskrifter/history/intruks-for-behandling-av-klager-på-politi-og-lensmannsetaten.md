@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "intruks-for-behandling-av-klager-på-politi-og-lensmannsetaten"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # intruks-for-behandling-av-klager-på-politi-og-lensmannsetaten — Change history
 
 _1 events; doc_id `sf-20051121-5026`._

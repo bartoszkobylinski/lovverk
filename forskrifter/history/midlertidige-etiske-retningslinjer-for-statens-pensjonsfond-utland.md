@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "midlertidige-etiske-retningslinjer-for-statens-pensjonsfond-utland"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # midlertidige-etiske-retningslinjer-for-statens-pensjonsfond-utland — Change history
 
 _1 events; doc_id `sf-20251107-2231`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndighet-etter-tvangsfullbyrdelsesloven-og-dekningsloven-som-følge-av-endringer-ved-innkrevingsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndighet-etter-tvangsfullbyrdelsesloven-og-dekningsloven-som-følge-av-endringer-ved-innkrevingsloven — Change history
 
 _1 events; doc_id `sf-20250620-1130`._

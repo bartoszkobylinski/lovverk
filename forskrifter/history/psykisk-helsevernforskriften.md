@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "psykisk-helsevernforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # psykisk-helsevernforskriften — Change history
 
 _4 events; doc_id `sf-20260529-0941`._
@@ -7,7 +14,7 @@ Lines: +225 -359.
 Subject: `add(forskrift): psykisk-helsevernforskriften`
 Commit: `b2087ef`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

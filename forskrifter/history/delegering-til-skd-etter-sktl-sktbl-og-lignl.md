@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-skd-etter-sktl-sktbl-og-lignl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-skd-etter-sktl-sktbl-og-lignl — Change history
 
 _1 events; doc_id `sf-19820122-1998`._

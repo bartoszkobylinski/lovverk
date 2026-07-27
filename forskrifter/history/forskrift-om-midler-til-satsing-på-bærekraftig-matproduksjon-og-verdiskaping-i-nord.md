@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-midler-til-satsing-på-bærekraftig-matproduksjon-og-verdiskaping-i-nord"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-midler-til-satsing-på-bærekraftig-matproduksjon-og-verdiskaping-i-nord — Change history
 
-_2 events; doc_id `sf-20230808-1312`._
+_3 events; doc_id `sf-20230808-1312`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20230808-1312.md` → `"forskrifter/forskrift-om-midler-til-satsing-p\303\245-b\303\246rekraftig-matproduksjon-og-verdiskaping-i-nord.md"`.
+Renamed: `forskrifter/sf-20230808-1312.md` → `forskrifter/forskrift-om-midler-til-satsing-på-bærekraftig-matproduksjon-og-verdiskaping-i-nord.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

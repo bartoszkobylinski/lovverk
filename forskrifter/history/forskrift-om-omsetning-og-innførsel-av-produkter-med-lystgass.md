@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-omsetning-og-innførsel-av-produkter-med-lystgass"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-omsetning-og-innførsel-av-produkter-med-lystgass — Change history
 
-_2 events; doc_id `sf-20260305-0340`._
+_3 events; doc_id `sf-20260305-0340`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20260305-0340.md` → `"forskrifter/forskrift-om-omsetning-og-innf\303\270rsel-av-produkter-med-lystgass.md"`.
+Renamed: `forskrifter/sf-20260305-0340.md` → `forskrifter/forskrift-om-omsetning-og-innførsel-av-produkter-med-lystgass.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

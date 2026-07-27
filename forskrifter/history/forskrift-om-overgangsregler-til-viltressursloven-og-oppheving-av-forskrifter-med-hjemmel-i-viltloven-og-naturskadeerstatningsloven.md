@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-overgangsregler-til-viltressursloven-og-oppheving-av-forskrifter-med-hjemmel-i-viltloven-og-naturskadeerstatningsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-overgangsregler-til-viltressursloven-og-oppheving-av-forskrifter-med-hjemmel-i-viltloven-og-naturskadeerstatningsloven — Change history
 
 _1 events; doc_id `sf-20260622-1158`._

@@ -19,7 +19,7 @@
       "lines_removed": 1,
       "subject": "migration: backfill eu_basis for 4523 documents",
       "to_path": null,
-      "type": "renamed"
+      "type": "updated"
     },
     {
       "commit": "3dddeca",
@@ -28,7 +28,7 @@
       "lines_added": 2,
       "lines_removed": 1,
       "subject": "migration: rename 4522 documents to slug-based filenames",
-      "to_path": "\"forskrifter/forskrift-om-regulering-av-fisket-for-fart\\303\\270y-som-f\\303\\270rer-f\\303\\246r\\303\\270ysk-flagg-i-norges-\\303\\270konomiske-sone-og-i-fiskerisonen-ved-jan-mayen-i-2026.md\"",
+      "to_path": "forskrifter/forskrift-om-regulering-av-fisket-for-fartøy-som-fører-færøysk-flagg-i-norges-økonomiske-sone-og-i-fiskerisonen-ved-jan-mayen-i-2026.md",
       "type": "renamed"
     },
     {

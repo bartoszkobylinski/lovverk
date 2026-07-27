@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-interesseoverføring-etter-petrsktl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-interesseoverføring-etter-petrsktl — Change history
 
-_2 events; doc_id `sf-20090701-0956`._
+_3 events; doc_id `sf-20090701-0956`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20090701-0956.md` → `"forskrifter/forskrift-om-interesseoverf\303\270ring-etter-petrsktl.md"`.
+Renamed: `forskrifter/sf-20090701-0956.md` → `forskrifter/forskrift-om-interesseoverføring-etter-petrsktl.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-fri-rørsle-av-arbeidstakarar-innanfor-eøs-området-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-fri-rørsle-av-arbeidstakarar-innanfor-eøs-området-mv — Change history
 
-_2 events; doc_id `sf-20210219-0475`._
+_3 events; doc_id `sf-20210219-0475`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20210219-0475.md` → `"forskrifter/forskrift-om-fri-r\303\270rsle-av-arbeidstakarar-innanfor-e\303\270s-omr\303\245det-mv.md"`.
+Renamed: `forskrifter/sf-20210219-0475.md` → `forskrifter/forskrift-om-fri-rørsle-av-arbeidstakarar-innanfor-eøs-området-mv.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

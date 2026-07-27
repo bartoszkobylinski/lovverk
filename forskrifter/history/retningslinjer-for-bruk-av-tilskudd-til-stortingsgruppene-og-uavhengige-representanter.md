@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "retningslinjer-for-bruk-av-tilskudd-til-stortingsgruppene-og-uavhengige-representanter"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # retningslinjer-for-bruk-av-tilskudd-til-stortingsgruppene-og-uavhengige-representanter — Change history
 
 _1 events; doc_id `sf-20201124-3379`._

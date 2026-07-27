@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "forskrift-om-samordning-av-alderspensjon-fra-offentlig-tjenestepensjonsordning-med-alderspensjon-etter-folketrygdloven-kapittel-20"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-samordning-av-alderspensjon-fra-offentlig-tjenestepensjonsordning-med-alderspensjon-etter-folketrygdloven-kapittel-20 — Change history
 
-_2 events; doc_id `sf-20200528-1084`._
+_3 events; doc_id `sf-20200528-1084`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20200528-1084.md` → `forskrifter/forskrift-om-samordning-av-alderspensjon-fra-offentlig-tjenestepensjonsordning-med-alderspensjon-etter-folketrygdloven-kapittel-20.md`.

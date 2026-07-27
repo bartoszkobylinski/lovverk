@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-velferd-for-småfe"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-velferd-for-småfe — Change history
 
-_2 events; doc_id `sf-20050218-0160`._
+_3 events; doc_id `sf-20050218-0160`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20050218-0160.md` → `"forskrifter/forskrift-om-velferd-for-sm\303\245fe.md"`.
+Renamed: `forskrifter/sf-20050218-0160.md` → `forskrifter/forskrift-om-velferd-for-småfe.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

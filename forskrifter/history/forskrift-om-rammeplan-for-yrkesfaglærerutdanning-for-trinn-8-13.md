@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-rammeplan-for-yrkesfaglærerutdanning-for-trinn-8-13"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-rammeplan-for-yrkesfaglærerutdanning-for-trinn-8-13 — Change history
 
-_2 events; doc_id `sf-20250704-1453`._
+_3 events; doc_id `sf-20250704-1453`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20250704-1453.md` → `"forskrifter/forskrift-om-rammeplan-for-yrkesfagl\303\246rerutdanning-for-trinn-8-13.md"`.
+Renamed: `forskrifter/sf-20250704-1453.md` → `forskrifter/forskrift-om-rammeplan-for-yrkesfaglærerutdanning-for-trinn-8-13.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtak-om-formues-og-inntektsskatt-til-svalbard-for-inntektsåret-2018"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtak-om-formues-og-inntektsskatt-til-svalbard-for-inntektsåret-2018 — Change history
 
 _1 events; doc_id `sf-20171214-2282`._

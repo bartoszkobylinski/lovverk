@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-fiskeridir"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-fiskeridir — Change history
 
 _1 events; doc_id `sf-20020118-0036`._

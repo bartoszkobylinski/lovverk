@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "forskrift-om-samordning-av-enke-eller-enkemannspensjon"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-samordning-av-enke-eller-enkemannspensjon — Change history
 
-_2 events; doc_id `sf-19920904-0663`._
+_3 events; doc_id `sf-19920904-0663`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-19920904-0663.md` → `forskrifter/forskrift-om-samordning-av-enke-eller-enkemannspensjon.md`.

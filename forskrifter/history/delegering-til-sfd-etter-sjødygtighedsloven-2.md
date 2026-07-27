@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-sfd-etter-sjødygtighedsloven-2"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-sfd-etter-sjødygtighedsloven-2 — Change history
 
 _1 events; doc_id `sf-19630405-0009`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtak-om-svalbardskatt-2026"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtak-om-svalbardskatt-2026 — Change history
 
 _1 events; doc_id `sf-20251219-2780`._

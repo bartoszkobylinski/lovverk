@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "forskrift-om-arbeid-i-arbeidsgivers-hjem-og-husholdning"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-arbeid-i-arbeidsgivers-hjem-og-husholdning — Change history
 
-_2 events; doc_id `sf-20220603-0969`._
+_3 events; doc_id `sf-20220603-0969`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20220603-0969.md` → `forskrifter/forskrift-om-arbeid-i-arbeidsgivers-hjem-og-husholdning.md`.

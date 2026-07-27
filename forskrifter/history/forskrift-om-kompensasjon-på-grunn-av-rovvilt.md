@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-kompensasjon-på-grunn-av-rovvilt"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-kompensasjon-på-grunn-av-rovvilt — Change history
 
-_2 events; doc_id `sf-20100709-1087`._
+_3 events; doc_id `sf-20100709-1087`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20100709-1087.md` → `"forskrifter/forskrift-om-kompensasjon-p\303\245-grunn-av-rovvilt.md"`.
+Renamed: `forskrifter/sf-20100709-1087.md` → `forskrifter/forskrift-om-kompensasjon-på-grunn-av-rovvilt.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

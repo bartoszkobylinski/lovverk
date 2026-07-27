@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "retningslinjer-for-avsetning-og-disponering-av-norges-banks-overskudd"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # retningslinjer-for-avsetning-og-disponering-av-norges-banks-overskudd — Change history
 
 _1 events; doc_id `sf-20191213-1777`._

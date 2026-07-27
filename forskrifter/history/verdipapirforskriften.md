@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "verdipapirforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # verdipapirforskriften — Change history
 
 _4 events; doc_id `sf-20070629-0876`._
@@ -7,7 +14,7 @@ Lines: +5 -5.
 Subject: `update(forskrift): verdipapirforskriften`
 Commit: `e79f0d6`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-kongens-myndighet-etter-lov-om-behandling-av-opplysninger-i-kredittopplysningsvirksomhet-til-barne-og-familiedepartementet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-kongens-myndighet-etter-lov-om-behandling-av-opplysninger-i-kredittopplysningsvirksomhet-til-barne-og-familiedepartementet — Change history
 
 _1 events; doc_id `sf-20220520-0884`._

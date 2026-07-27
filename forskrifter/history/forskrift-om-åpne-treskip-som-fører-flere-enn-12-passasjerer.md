@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-åpne-treskip-som-fører-flere-enn-12-passasjerer"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-åpne-treskip-som-fører-flere-enn-12-passasjerer — Change history
 
-_2 events; doc_id `sf-20200123-0069`._
+_3 events; doc_id `sf-20200123-0069`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20200123-0069.md` → `"forskrifter/forskrift-om-\303\245pne-treskip-som-f\303\270rer-flere-enn-12-passasjerer.md"`.
+Renamed: `forskrifter/sf-20200123-0069.md` → `forskrifter/forskrift-om-åpne-treskip-som-fører-flere-enn-12-passasjerer.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

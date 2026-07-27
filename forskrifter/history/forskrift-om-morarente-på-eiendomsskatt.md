@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-morarente-på-eiendomsskatt"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-morarente-på-eiendomsskatt — Change history
 
-_2 events; doc_id `sf-19871218-0977`._
+_3 events; doc_id `sf-19871218-0977`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-19871218-0977.md` → `"forskrifter/forskrift-om-morarente-p\303\245-eiendomsskatt.md"`.
+Renamed: `forskrifter/sf-19871218-0977.md` → `forskrifter/forskrift-om-morarente-på-eiendomsskatt.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

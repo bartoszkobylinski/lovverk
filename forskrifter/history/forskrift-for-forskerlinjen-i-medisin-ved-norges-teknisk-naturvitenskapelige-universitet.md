@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "forskrift-for-forskerlinjen-i-medisin-ved-norges-teknisk-naturvitenskapelige-universitet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-for-forskerlinjen-i-medisin-ved-norges-teknisk-naturvitenskapelige-universitet — Change history
 
-_2 events; doc_id `sf-20231129-1935`._
+_3 events; doc_id `sf-20231129-1935`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20231129-1935.md` → `forskrifter/forskrift-for-forskerlinjen-i-medisin-ved-norges-teknisk-naturvitenskapelige-universitet.md`.

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-lmd-og-fkd-etter-dyrevelferdsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-lmd-og-fkd-etter-dyrevelferdsloven — Change history
 
 _1 events; doc_id `sf-20100611-0814`._

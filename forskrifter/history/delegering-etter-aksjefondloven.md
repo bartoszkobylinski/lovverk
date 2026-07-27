@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-aksjefondloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-aksjefondloven — Change history
 
 _1 events; doc_id `sf-19931220-1163`._

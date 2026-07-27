@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-omorganisering-av-departementene"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-omorganisering-av-departementene — Change history
 
 _1 events; doc_id `sf-19891222-1273`._

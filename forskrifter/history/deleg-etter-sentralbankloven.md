@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-etter-sentralbankloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-etter-sentralbankloven — Change history
 
 _1 events; doc_id `sf-19850621-1180`._

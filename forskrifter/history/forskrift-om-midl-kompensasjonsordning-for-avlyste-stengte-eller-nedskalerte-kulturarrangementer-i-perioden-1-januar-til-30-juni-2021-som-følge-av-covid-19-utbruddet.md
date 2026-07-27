@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-midl-kompensasjonsordning-for-avlyste-stengte-eller-nedskalerte-kulturarrangementer-i-perioden-1-januar-til-30-juni-2021-som-følge-av-covid-19-utbruddet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-midl-kompensasjonsordning-for-avlyste-stengte-eller-nedskalerte-kulturarrangementer-i-perioden-1-januar-til-30-juni-2021-som-følge-av-covid-19-utbruddet — Change history
 
-_2 events; doc_id `sf-20210526-1642`._
+_3 events; doc_id `sf-20210526-1642`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20210526-1642.md` → `"forskrifter/forskrift-om-midl-kompensasjonsordning-for-avlyste-stengte-eller-nedskalerte-kulturarrangementer-i-perioden-1-januar-til-30-juni-2021-som-f\303\270lge-av-covid-19-utbruddet.md"`.
+Renamed: `forskrifter/sf-20210526-1642.md` → `forskrifter/forskrift-om-midl-kompensasjonsordning-for-avlyste-stengte-eller-nedskalerte-kulturarrangementer-i-perioden-1-januar-til-30-juni-2021-som-følge-av-covid-19-utbruddet.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ikrafttr-av-lov-av-15-mai-1992-nr-47-delegering-av-myndighet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ikrafttr-av-lov-av-15-mai-1992-nr-47-delegering-av-myndighet — Change history
 
 _1 events; doc_id `sf-19921127-0864`._

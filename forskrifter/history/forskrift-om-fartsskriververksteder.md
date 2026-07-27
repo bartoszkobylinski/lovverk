@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-fartsskriververksteder"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-fartsskriververksteder — Change history
 
 _5 events; doc_id `sf-20180926-1467`._
@@ -12,7 +19,7 @@ Lines: +5 -5.
 Subject: `update(forskrift): forskrift-om-fartsskriververksteder`
 Commit: `59f6833`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-lese-og-sekretærhjelp-for-blinde-og-svaksynte"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-lese-og-sekretærhjelp-for-blinde-og-svaksynte — Change history
 
-_2 events; doc_id `sf-19970415-0319`._
+_3 events; doc_id `sf-19970415-0319`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-19970415-0319.md` → `"forskrifter/forskrift-om-lese-og-sekret\303\246rhjelp-for-blinde-og-svaksynte.md"`.
+Renamed: `forskrifter/sf-19970415-0319.md` → `forskrifter/forskrift-om-lese-og-sekretærhjelp-for-blinde-og-svaksynte.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

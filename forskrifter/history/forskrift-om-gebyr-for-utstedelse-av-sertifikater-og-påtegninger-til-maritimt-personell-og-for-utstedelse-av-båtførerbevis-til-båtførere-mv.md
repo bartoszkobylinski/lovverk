@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-gebyr-for-utstedelse-av-sertifikater-og-påtegninger-til-maritimt-personell-og-for-utstedelse-av-båtførerbevis-til-båtførere-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-gebyr-for-utstedelse-av-sertifikater-og-påtegninger-til-maritimt-personell-og-for-utstedelse-av-båtførerbevis-til-båtførere-mv — Change history
 
-_2 events; doc_id `sf-20091221-1739`._
+_3 events; doc_id `sf-20091221-1739`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20091221-1739.md` → `"forskrifter/forskrift-om-gebyr-for-utstedelse-av-sertifikater-og-p\303\245tegninger-til-maritimt-personell-og-for-utstedelse-av-b\303\245tf\303\270rerbevis-til-b\303\245tf\303\270rere-mv.md"`.
+Renamed: `forskrifter/sf-20091221-1739.md` → `forskrifter/forskrift-om-gebyr-for-utstedelse-av-sertifikater-og-påtegninger-til-maritimt-personell-og-for-utstedelse-av-båtførerbevis-til-båtførere-mv.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

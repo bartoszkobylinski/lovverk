@@ -2,13 +2,23 @@
   "doc_id": "sf-20060207-0123",
   "events": [
     {
+      "commit": "3d499af",
+      "date": "2026-04-29",
+      "from_path": null,
+      "lines_added": 2,
+      "lines_removed": 1,
+      "subject": "migration: backfill eu_basis for 4523 documents",
+      "to_path": null,
+      "type": "updated"
+    },
+    {
       "commit": "3dddeca",
       "date": "2026-04-27",
       "from_path": "forskrifter/sf-20060207-0123.md",
       "lines_added": 2,
       "lines_removed": 1,
       "subject": "migration: rename 4522 documents to slug-based filenames",
-      "to_path": "\"forskrifter/f\\303\\270resegn-om-ul\\303\\270nt-arbeid-i-skattefunn.md\"",
+      "to_path": "forskrifter/føresegn-om-ulønt-arbeid-i-skattefunn.md",
       "type": "renamed"
     },
     {

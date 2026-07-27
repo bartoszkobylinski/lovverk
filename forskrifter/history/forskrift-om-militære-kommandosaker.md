@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-militære-kommandosaker"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-militære-kommandosaker — Change history
 
-_2 events; doc_id `sf-19630308-0008`._
+_3 events; doc_id `sf-19630308-0008`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-19630308-0008.md` → `"forskrifter/forskrift-om-milit\303\246re-kommandosaker.md"`.
+Renamed: `forskrifter/sf-19630308-0008.md` → `forskrifter/forskrift-om-militære-kommandosaker.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

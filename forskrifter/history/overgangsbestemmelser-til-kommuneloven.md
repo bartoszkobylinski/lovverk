@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overgangsbestemmelser-til-kommuneloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overgangsbestemmelser-til-kommuneloven — Change history
 
 _1 events; doc_id `sf-19921127-0865`._

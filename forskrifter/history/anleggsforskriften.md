@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "anleggsforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # anleggsforskriften — Change history
 
 _1 events; doc_id `sf-20260605-1024`._

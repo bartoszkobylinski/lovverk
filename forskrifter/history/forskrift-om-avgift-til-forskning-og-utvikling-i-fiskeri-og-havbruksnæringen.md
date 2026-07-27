@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-avgift-til-forskning-og-utvikling-i-fiskeri-og-havbruksnæringen"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-avgift-til-forskning-og-utvikling-i-fiskeri-og-havbruksnæringen — Change history
 
-_2 events; doc_id `sf-20180905-1320`._
+_3 events; doc_id `sf-20180905-1320`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20180905-1320.md` → `"forskrifter/forskrift-om-avgift-til-forskning-og-utvikling-i-fiskeri-og-havbruksn\303\246ringen.md"`.
+Renamed: `forskrifter/sf-20180905-1320.md` → `forskrifter/forskrift-om-avgift-til-forskning-og-utvikling-i-fiskeri-og-havbruksnæringen.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

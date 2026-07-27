@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-midlertidig-tilskudd-for-fiskerinæringen-i-oslofjorden"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-midlertidig-tilskudd-for-fiskerinæringen-i-oslofjorden — Change history
 
 _2 events; doc_id `sf-20260512-0780`._

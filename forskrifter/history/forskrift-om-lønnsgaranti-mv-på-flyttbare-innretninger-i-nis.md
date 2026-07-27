@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-lønnsgaranti-mv-på-flyttbare-innretninger-i-nis"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-lønnsgaranti-mv-på-flyttbare-innretninger-i-nis — Change history
 
-_2 events; doc_id `sf-20050218-0146`._
+_3 events; doc_id `sf-20050218-0146`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20050218-0146.md` → `"forskrifter/forskrift-om-l\303\270nnsgaranti-mv-p\303\245-flyttbare-innretninger-i-nis.md"`.
+Renamed: `forskrifter/sf-20050218-0146.md` → `forskrifter/forskrift-om-lønnsgaranti-mv-på-flyttbare-innretninger-i-nis.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

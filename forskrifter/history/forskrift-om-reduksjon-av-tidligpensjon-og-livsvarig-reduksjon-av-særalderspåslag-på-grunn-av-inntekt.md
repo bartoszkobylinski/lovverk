@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-reduksjon-av-tidligpensjon-og-livsvarig-reduksjon-av-særalderspåslag-på-grunn-av-inntekt"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-reduksjon-av-tidligpensjon-og-livsvarig-reduksjon-av-særalderspåslag-på-grunn-av-inntekt — Change history
 
-_2 events; doc_id `sf-20251023-2080`._
+_3 events; doc_id `sf-20251023-2080`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20251023-2080.md` → `"forskrifter/forskrift-om-reduksjon-av-tidligpensjon-og-livsvarig-reduksjon-av-s\303\246raldersp\303\245slag-p\303\245-grunn-av-inntekt.md"`.
+Renamed: `forskrifter/sf-20251023-2080.md` → `forskrifter/forskrift-om-reduksjon-av-tidligpensjon-og-livsvarig-reduksjon-av-særalderspåslag-på-grunn-av-inntekt.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

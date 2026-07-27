@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-flyværtjeneste-på-norsk-kontinentalsokkel"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-flyværtjeneste-på-norsk-kontinentalsokkel — Change history
 
-_2 events; doc_id `sf-20210223-0526`._
+_3 events; doc_id `sf-20210223-0526`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20210223-0526.md` → `"forskrifter/forskrift-om-flyv\303\246rtjeneste-p\303\245-norsk-kontinentalsokkel.md"`.
+Renamed: `forskrifter/sf-20210223-0526.md` → `forskrifter/forskrift-om-flyværtjeneste-på-norsk-kontinentalsokkel.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

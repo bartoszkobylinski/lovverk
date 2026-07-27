@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "instruks-for-utrangering-av-statseiendom"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # instruks-for-utrangering-av-statseiendom — Change history
 
 _1 events; doc_id `sf-19780317-0009`._

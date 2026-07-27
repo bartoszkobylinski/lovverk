@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndighet-til-fiskeridirektoratet-etter-deltakerloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndighet-til-fiskeridirektoratet-etter-deltakerloven — Change history
 
 _1 events; doc_id `sf-20050617-0607`._

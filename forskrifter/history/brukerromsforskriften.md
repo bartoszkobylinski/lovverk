@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "brukerromsforskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # brukerromsforskriften — Change history
 
 _5 events; doc_id `sf-20041217-1661`._
@@ -12,7 +19,7 @@ Lines: +7 -7.
 Subject: `update(forskrift): brukerromsforskriften`
 Commit: `cda4d11`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

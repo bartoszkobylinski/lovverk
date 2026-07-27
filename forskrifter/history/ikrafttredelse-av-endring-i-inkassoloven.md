@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ikrafttredelse-av-endring-i-inkassoloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ikrafttredelse-av-endring-i-inkassoloven — Change history
 
 _1 events; doc_id `sf-19931119-1034`._

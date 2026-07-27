@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "omorg-av-departementsstrukturen-fra-1-januar-2006"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # omorg-av-departementsstrukturen-fra-1-januar-2006 — Change history
 
 _1 events; doc_id `sf-20051216-1479`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-datasenter"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-datasenter — Change history
 
 _6 events; doc_id `sf-20241218-3313`._
@@ -17,7 +24,7 @@ Lines: +24 -2.
 Subject: `update(forskrift): forskrift-om-datasenter`
 Commit: `0d87bb6`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

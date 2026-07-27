@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ikrafttr-av-forurensningsloven-delegering"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ikrafttr-av-forurensningsloven-delegering — Change history
 
 _1 events; doc_id `sf-19830708-1245`._

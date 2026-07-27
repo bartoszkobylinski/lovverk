@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-tiltak-for-å-begrense-spredningen-av-blåtunge-hos-drøvtyggere"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-tiltak-for-å-begrense-spredningen-av-blåtunge-hos-drøvtyggere — Change history
 
-_2 events; doc_id `sf-20240927-2374`._
+_3 events; doc_id `sf-20240927-2374`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20240927-2374.md` → `"forskrifter/forskrift-om-tiltak-for-\303\245-begrense-spredningen-av-bl\303\245tunge-hos-dr\303\270vtyggere.md"`.
+Renamed: `forskrifter/sf-20240927-2374.md` → `forskrifter/forskrift-om-tiltak-for-å-begrense-spredningen-av-blåtunge-hos-drøvtyggere.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

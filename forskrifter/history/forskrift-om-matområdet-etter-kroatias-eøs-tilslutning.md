@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-matområdet-etter-kroatias-eøs-tilslutning"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-matområdet-etter-kroatias-eøs-tilslutning — Change history
 
-_2 events; doc_id `sf-20140822-1121`._
+_3 events; doc_id `sf-20140822-1121`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20140822-1121.md` → `"forskrifter/forskrift-om-matomr\303\245det-etter-kroatias-e\303\270s-tilslutning.md"`.
+Renamed: `forskrifter/sf-20140822-1121.md` → `forskrifter/forskrift-om-matområdet-etter-kroatias-eøs-tilslutning.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

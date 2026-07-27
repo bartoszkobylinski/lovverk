@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ikrafttr-og-overg-regler-til-betalingssysteml"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ikrafttr-og-overg-regler-til-betalingssysteml — Change history
 
 _1 events; doc_id `sf-20000413-0324`._

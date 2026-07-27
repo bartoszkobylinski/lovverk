@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ikrafts-av-lov-2005-90-tvisteloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ikrafts-av-lov-2005-90-tvisteloven — Change history
 
 _1 events; doc_id `sf-20070126-0088`._

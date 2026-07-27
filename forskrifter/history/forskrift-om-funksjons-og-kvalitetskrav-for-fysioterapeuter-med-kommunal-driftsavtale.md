@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-funksjons-og-kvalitetskrav-for-fysioterapeuter-med-kommunal-driftsavtale"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-funksjons-og-kvalitetskrav-for-fysioterapeuter-med-kommunal-driftsavtale — Change history
 
 _5 events; doc_id `sf-20170901-1334`._
@@ -12,7 +19,7 @@ Lines: +4 -2.
 Subject: `update(forskrift): forskrift-om-funksjons-og-kvalitetskrav-for-fysioterapeuter-med-kommunal-driftsavtale`
 Commit: `de0ae04`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

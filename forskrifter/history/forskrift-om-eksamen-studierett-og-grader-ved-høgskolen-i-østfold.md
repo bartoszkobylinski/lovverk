@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-eksamen-studierett-og-grader-ved-høgskolen-i-østfold"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-eksamen-studierett-og-grader-ved-høgskolen-i-østfold — Change history
 
-_2 events; doc_id `sf-20240917-2231`._
+_3 events; doc_id `sf-20240917-2231`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20240917-2231.md` → `"forskrifter/forskrift-om-eksamen-studierett-og-grader-ved-h\303\270gskolen-i-\303\270stfold.md"`.
+Renamed: `forskrifter/sf-20240917-2231.md` → `forskrifter/forskrift-om-eksamen-studierett-og-grader-ved-høgskolen-i-østfold.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

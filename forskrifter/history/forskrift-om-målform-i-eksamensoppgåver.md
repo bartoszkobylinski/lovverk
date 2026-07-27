@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-målform-i-eksamensoppgåver"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-målform-i-eksamensoppgåver — Change history
 
-_2 events; doc_id `sf-19870707-4148`._
+_3 events; doc_id `sf-19870707-4148`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-19870707-4148.md` → `"forskrifter/forskrift-om-m\303\245lform-i-eksamensoppg\303\245ver.md"`.
+Renamed: `forskrifter/sf-19870707-4148.md` → `forskrifter/forskrift-om-målform-i-eksamensoppgåver.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "forskrift-om-hvilke-domstoler-forskrift-om-opptak-i-retten-6-gjelder-for"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-hvilke-domstoler-forskrift-om-opptak-i-retten-6-gjelder-for — Change history
 
-_2 events; doc_id `sf-20181017-1577`._
+_3 events; doc_id `sf-20181017-1577`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20181017-1577.md` → `forskrifter/forskrift-om-hvilke-domstoler-forskrift-om-opptak-i-retten-6-gjelder-for.md`.

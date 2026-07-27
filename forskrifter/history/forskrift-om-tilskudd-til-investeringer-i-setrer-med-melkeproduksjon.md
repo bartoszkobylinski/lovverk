@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-tilskudd-til-investeringer-i-setrer-med-melkeproduksjon"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-tilskudd-til-investeringer-i-setrer-med-melkeproduksjon — Change history
 
 _1 events; doc_id `sf-20260429-0683`._

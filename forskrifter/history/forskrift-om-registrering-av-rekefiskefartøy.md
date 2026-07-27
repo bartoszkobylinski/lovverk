@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-registrering-av-rekefiskefartøy"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-registrering-av-rekefiskefartøy — Change history
 
-_2 events; doc_id `sf-19970711-0784`._
+_3 events; doc_id `sf-19970711-0784`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-19970711-0784.md` → `"forskrifter/forskrift-om-registrering-av-rekefiskefart\303\270y.md"`.
+Renamed: `forskrifter/sf-19970711-0784.md` → `forskrifter/forskrift-om-registrering-av-rekefiskefartøy.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

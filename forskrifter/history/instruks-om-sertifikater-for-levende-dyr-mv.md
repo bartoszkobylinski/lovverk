@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "instruks-om-sertifikater-for-levende-dyr-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # instruks-om-sertifikater-for-levende-dyr-mv — Change history
 
 _1 events; doc_id `sf-20010329-0423`._

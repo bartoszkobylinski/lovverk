@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "godkjennelse-av-ny-forskrift-om-skikkethetsvurdering-utvisning-bortvisning-og-utestenging-av-studenter-ved-politihøgskolen-og-delegering-av-myndighet-etter-politiloven-24a-og-24c-for-fastsettelse-av"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # godkjennelse-av-ny-forskrift-om-skikkethetsvurdering-utvisning-bortvisning-og-utestenging-av-studenter-ved-politihøgskolen-og-delegering-av-myndighet-etter-politiloven-24a-og-24c-for-fastsettelse-av — Change history
 
 _1 events; doc_id `sf-20240731-2337`._

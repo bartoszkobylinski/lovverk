@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "tsi-tel-forskriften"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # tsi-tel-forskriften — Change history
 
 _1 events; doc_id `sf-20260504-0697`._

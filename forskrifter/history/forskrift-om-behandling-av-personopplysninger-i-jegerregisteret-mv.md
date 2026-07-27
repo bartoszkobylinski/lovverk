@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-behandling-av-personopplysninger-i-jegerregisteret-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-behandling-av-personopplysninger-i-jegerregisteret-mv — Change history
 
 _1 events; doc_id `sf-20260626-1373`._

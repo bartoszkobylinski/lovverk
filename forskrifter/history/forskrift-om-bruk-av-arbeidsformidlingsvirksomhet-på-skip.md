@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-bruk-av-arbeidsformidlingsvirksomhet-på-skip"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-bruk-av-arbeidsformidlingsvirksomhet-på-skip — Change history
 
-_2 events; doc_id `sf-20130819-0999`._
+_3 events; doc_id `sf-20130819-0999`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20130819-0999.md` → `"forskrifter/forskrift-om-bruk-av-arbeidsformidlingsvirksomhet-p\303\245-skip.md"`.
+Renamed: `forskrifter/sf-20130819-0999.md` → `forskrifter/forskrift-om-bruk-av-arbeidsformidlingsvirksomhet-på-skip.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

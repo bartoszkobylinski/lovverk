@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-program-mot-ruspåvirket-kjøring"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-program-mot-ruspåvirket-kjøring — Change history
 
-_2 events; doc_id `sf-20081010-1100`._
+_3 events; doc_id `sf-20081010-1100`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20081010-1100.md` → `"forskrifter/forskrift-om-program-mot-rusp\303\245virket-kj\303\270ring.md"`.
+Renamed: `forskrifter/sf-20081010-1100.md` → `forskrifter/forskrift-om-program-mot-ruspåvirket-kjøring.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

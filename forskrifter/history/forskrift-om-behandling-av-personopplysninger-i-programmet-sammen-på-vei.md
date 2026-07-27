@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-behandling-av-personopplysninger-i-programmet-sammen-på-vei"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-behandling-av-personopplysninger-i-programmet-sammen-på-vei — Change history
 
-_2 events; doc_id `sf-20240613-1053`._
+_3 events; doc_id `sf-20240613-1053`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20240613-1053.md` → `"forskrifter/forskrift-om-behandling-av-personopplysninger-i-programmet-sammen-p\303\245-vei.md"`.
+Renamed: `forskrifter/sf-20240613-1053.md` → `forskrifter/forskrift-om-behandling-av-personopplysninger-i-programmet-sammen-på-vei.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

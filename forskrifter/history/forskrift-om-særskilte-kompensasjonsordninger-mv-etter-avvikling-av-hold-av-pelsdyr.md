@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-særskilte-kompensasjonsordninger-mv-etter-avvikling-av-hold-av-pelsdyr"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-særskilte-kompensasjonsordninger-mv-etter-avvikling-av-hold-av-pelsdyr — Change history
 
-_2 events; doc_id `sf-20220708-1335`._
+_3 events; doc_id `sf-20220708-1335`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20220708-1335.md` → `"forskrifter/forskrift-om-s\303\246rskilte-kompensasjonsordninger-mv-etter-avvikling-av-hold-av-pelsdyr.md"`.
+Renamed: `forskrifter/sf-20220708-1335.md` → `forskrifter/forskrift-om-særskilte-kompensasjonsordninger-mv-etter-avvikling-av-hold-av-pelsdyr.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndighet-til-statsforvalteren-for-oppfølging-av-saker-etter-vannressursloven-11-om-kantvegetasjon"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndighet-til-statsforvalteren-for-oppfølging-av-saker-etter-vannressursloven-11-om-kantvegetasjon — Change history
 
 _1 events; doc_id `sf-20251205-2429`._

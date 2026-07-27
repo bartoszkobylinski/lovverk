@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-regulering-av-fisket-etter-brisling-i-2026-2027"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-regulering-av-fisket-etter-brisling-i-2026-2027 — Change history
 
 _4 events; doc_id `sf-20260622-1211`._
@@ -7,7 +14,7 @@ Lines: +25 -27.
 Subject: `add(forskrift): forskrift-om-regulering-av-fisket-etter-brisling-i-2026-2027`
 Commit: `7a8a223`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

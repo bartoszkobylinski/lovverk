@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-kommunale-viltfond-m-m"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-kommunale-viltfond-m-m — Change history
 
 _4 events; doc_id `sf-20110515-0537`._
@@ -7,7 +14,7 @@ Lines: +6 -4.
 Subject: `sync: 8 new, 220 changed, 3 renamed, 77 removed`
 Commit: `2032c09`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

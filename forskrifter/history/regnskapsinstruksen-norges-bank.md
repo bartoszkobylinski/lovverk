@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "regnskapsinstruksen-norges-bank"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # regnskapsinstruksen-norges-bank — Change history
 
 _1 events; doc_id `sf-20191219-2032`._

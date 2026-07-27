@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-trygd-for-lotter-og-flysøstre"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-trygd-for-lotter-og-flysøstre — Change history
 
-_2 events; doc_id `sf-19640904-8677`._
+_3 events; doc_id `sf-19640904-8677`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-19640904-8677.md` → `"forskrifter/forskrift-om-trygd-for-lotter-og-flys\303\270stre.md"`.
+Renamed: `forskrifter/sf-19640904-8677.md` → `forskrifter/forskrift-om-trygd-for-lotter-og-flysøstre.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

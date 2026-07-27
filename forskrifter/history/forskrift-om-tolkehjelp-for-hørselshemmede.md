@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-tolkehjelp-for-hørselshemmede"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-tolkehjelp-for-hørselshemmede — Change history
 
-_2 events; doc_id `sf-19970415-0320`._
+_3 events; doc_id `sf-19970415-0320`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-19970415-0320.md` → `"forskrifter/forskrift-om-tolkehjelp-for-h\303\270rselshemmede.md"`.
+Renamed: `forskrifter/sf-19970415-0320.md` → `forskrifter/forskrift-om-tolkehjelp-for-hørselshemmede.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "res-om-ikrafttr-av-arveloven-delegering"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # res-om-ikrafttr-av-arveloven-delegering — Change history
 
 _1 events; doc_id `sf-19720623-0002`._

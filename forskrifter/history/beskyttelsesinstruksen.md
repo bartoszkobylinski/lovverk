@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "beskyttelsesinstruksen"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # beskyttelsesinstruksen — Change history
 
 _1 events; doc_id `sf-19720317-3352`._

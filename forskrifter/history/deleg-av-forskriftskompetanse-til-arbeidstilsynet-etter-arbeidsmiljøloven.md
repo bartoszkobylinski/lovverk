@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-forskriftskompetanse-til-arbeidstilsynet-etter-arbeidsmiljøloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-forskriftskompetanse-til-arbeidstilsynet-etter-arbeidsmiljøloven — Change history
 
 _1 events; doc_id `sf-20171130-1863`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "register-for-stortingsrepresentantenes-verv-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # register-for-stortingsrepresentantenes-verv-mv — Change history
 
 _1 events; doc_id `sf-20081218-1617`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "kystvaktinstruksen"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # kystvaktinstruksen — Change history
 
 _1 events; doc_id `sf-19991105-1145`._

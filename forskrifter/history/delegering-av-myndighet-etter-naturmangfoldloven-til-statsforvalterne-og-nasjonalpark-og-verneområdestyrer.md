@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndighet-etter-naturmangfoldloven-til-statsforvalterne-og-nasjonalpark-og-verneområdestyrer"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndighet-etter-naturmangfoldloven-til-statsforvalterne-og-nasjonalpark-og-verneområdestyrer — Change history
 
 _1 events; doc_id `sf-20250310-0399`._

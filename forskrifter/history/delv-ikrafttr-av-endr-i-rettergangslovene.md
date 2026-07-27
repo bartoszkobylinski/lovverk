@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delv-ikrafttr-av-endr-i-rettergangslovene"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delv-ikrafttr-av-endr-i-rettergangslovene — Change history
 
 _1 events; doc_id `sf-19930723-0764`._

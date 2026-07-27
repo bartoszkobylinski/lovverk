@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-statens-kunstnarstipend"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-statens-kunstnarstipend — Change history
 
 _1 events; doc_id `sf-20260526-0897`._

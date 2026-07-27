@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskr-om-delegering-helserådsvedtak"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskr-om-delegering-helserådsvedtak — Change history
 
 _1 events; doc_id `sf-19820111-0216`._

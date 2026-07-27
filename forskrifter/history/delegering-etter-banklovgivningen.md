@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-banklovgivningen"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-banklovgivningen — Change history
 
 _1 events; doc_id `sf-19610922-8559`._

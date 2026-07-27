@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-etter-finansieringsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-etter-finansieringsloven — Change history
 
 _1 events; doc_id `sf-19880610-0457`._

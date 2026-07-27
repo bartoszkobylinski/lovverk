@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "ikrafttredelse-av-bilansvarsloven-delegering"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # ikrafttredelse-av-bilansvarsloven-delegering — Change history
 
 _1 events; doc_id `sf-19610414-3000`._

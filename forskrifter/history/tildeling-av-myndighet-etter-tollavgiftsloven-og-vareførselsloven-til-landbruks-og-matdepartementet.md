@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "tildeling-av-myndighet-etter-tollavgiftsloven-og-vareførselsloven-til-landbruks-og-matdepartementet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # tildeling-av-myndighet-etter-tollavgiftsloven-og-vareførselsloven-til-landbruks-og-matdepartementet — Change history
 
 _1 events; doc_id `sf-20221021-1778`._

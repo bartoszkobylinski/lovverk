@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-norsk-kulturfonds-midler"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-norsk-kulturfonds-midler — Change history
 
 _1 events; doc_id `sf-19650619-3582`._

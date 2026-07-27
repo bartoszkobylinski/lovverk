@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endringer-i-departementsstrukturen-fra-1-jan-2008"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endringer-i-departementsstrukturen-fra-1-jan-2008 — Change history
 
 _1 events; doc_id `sf-20071221-1609`._

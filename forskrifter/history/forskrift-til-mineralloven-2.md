@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-til-mineralloven-2"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-til-mineralloven-2 — Change history
 
 _1 events; doc_id `sf-20260612-1092`._

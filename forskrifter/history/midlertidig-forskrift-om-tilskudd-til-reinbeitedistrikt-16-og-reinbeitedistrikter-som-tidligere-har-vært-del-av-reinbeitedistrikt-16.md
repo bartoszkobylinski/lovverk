@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "midlertidig-forskrift-om-tilskudd-til-reinbeitedistrikt-16-og-reinbeitedistrikter-som-tidligere-har-vært-del-av-reinbeitedistrikt-16"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # midlertidig-forskrift-om-tilskudd-til-reinbeitedistrikt-16-og-reinbeitedistrikter-som-tidligere-har-vært-del-av-reinbeitedistrikt-16 — Change history
 
 _2 events; doc_id `sf-20260508-0769`._

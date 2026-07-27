@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskr-om-overgangsregler-rettergangslovgjevinga"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskr-om-overgangsregler-rettergangslovgjevinga — Change history
 
 _1 events; doc_id `sf-20000428-0367`._

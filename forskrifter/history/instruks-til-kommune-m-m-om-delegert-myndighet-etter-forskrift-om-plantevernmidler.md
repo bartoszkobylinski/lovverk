@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "instruks-til-kommune-m-m-om-delegert-myndighet-etter-forskrift-om-plantevernmidler"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # instruks-til-kommune-m-m-om-delegert-myndighet-etter-forskrift-om-plantevernmidler — Change history
 
 _1 events; doc_id `sf-20150528-0556`._

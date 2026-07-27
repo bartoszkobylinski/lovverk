@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-omsorgen-for-enslige-mindreårige-som-bor-i-asylmottak"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-omsorgen-for-enslige-mindreårige-som-bor-i-asylmottak — Change history
 
-_2 events; doc_id `sf-20210512-1520`._
+_3 events; doc_id `sf-20210512-1520`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20210512-1520.md` → `"forskrifter/forskrift-om-omsorgen-for-enslige-mindre\303\245rige-som-bor-i-asylmottak.md"`.
+Renamed: `forskrifter/sf-20210512-1520.md` → `forskrifter/forskrift-om-omsorgen-for-enslige-mindreårige-som-bor-i-asylmottak.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

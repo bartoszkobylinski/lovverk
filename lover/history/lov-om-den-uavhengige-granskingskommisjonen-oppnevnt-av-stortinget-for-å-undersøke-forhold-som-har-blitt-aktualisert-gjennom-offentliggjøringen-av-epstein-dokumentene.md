@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "lov-om-den-uavhengige-granskingskommisjonen-oppnevnt-av-stortinget-for-å-undersøke-forhold-som-har-blitt-aktualisert-gjennom-offentliggjøringen-av-epstein-dokumentene"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # lov-om-den-uavhengige-granskingskommisjonen-oppnevnt-av-stortinget-for-å-undersøke-forhold-som-har-blitt-aktualisert-gjennom-offentliggjøringen-av-epstein-dokumentene — Change history
 
 _1 events; doc_id `nl-20260623-075`._

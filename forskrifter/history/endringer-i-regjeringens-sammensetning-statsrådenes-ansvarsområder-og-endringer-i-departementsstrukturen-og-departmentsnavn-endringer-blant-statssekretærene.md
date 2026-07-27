@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "endringer-i-regjeringens-sammensetning-statsrådenes-ansvarsområder-og-endringer-i-departementsstrukturen-og-departmentsnavn-endringer-blant-statssekretærene"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # endringer-i-regjeringens-sammensetning-statsrådenes-ansvarsområder-og-endringer-i-departementsstrukturen-og-departmentsnavn-endringer-blant-statssekretærene — Change history
 
 _1 events; doc_id `sf-20231016-1668`._

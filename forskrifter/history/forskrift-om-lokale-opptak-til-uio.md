@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "forskrift-om-lokale-opptak-til-uio"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-lokale-opptak-til-uio — Change history
 
-_2 events; doc_id `sf-20140212-0130`._
+_3 events; doc_id `sf-20140212-0130`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20140212-0130.md` → `forskrifter/forskrift-om-lokale-opptak-til-uio.md`.

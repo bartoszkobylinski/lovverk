@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "regnskapsinstruksen-folketrygdfondet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # regnskapsinstruksen-folketrygdfondet — Change history
 
 _1 events; doc_id `sf-20191213-1795`._

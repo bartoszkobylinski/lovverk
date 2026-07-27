@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-lagring-og-transport-av-co2-på-sokkelen"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-lagring-og-transport-av-co2-på-sokkelen — Change history
 
-_2 events; doc_id `sf-20141205-1517`._
+_3 events; doc_id `sf-20141205-1517`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20141205-1517.md` → `"forskrifter/forskrift-om-lagring-og-transport-av-co2-p\303\245-sokkelen.md"`.
+Renamed: `forskrifter/sf-20141205-1517.md` → `forskrifter/forskrift-om-lagring-og-transport-av-co2-på-sokkelen.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

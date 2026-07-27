@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-ais-for-utenlandske-fiskefartøy"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-ais-for-utenlandske-fiskefartøy — Change history
 
-_2 events; doc_id `sf-20120430-0375`._
+_3 events; doc_id `sf-20120430-0375`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20120430-0375.md` → `"forskrifter/forskrift-om-ais-for-utenlandske-fiskefart\303\270y.md"`.
+Renamed: `forskrifter/sf-20120430-0375.md` → `forskrifter/forskrift-om-ais-for-utenlandske-fiskefartøy.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

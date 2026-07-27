@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "overføring-av-forskriftskompetanse-etter-lov-21-desember-2007-nr-119-om-toll-og-vareførsel-6-4-tredje-ledd-fra-finansdepartementet-til-landbruks-og-matdepartementet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # overføring-av-forskriftskompetanse-etter-lov-21-desember-2007-nr-119-om-toll-og-vareførsel-6-4-tredje-ledd-fra-finansdepartementet-til-landbruks-og-matdepartementet — Change history
 
 _1 events; doc_id `sf-20191220-1923`._

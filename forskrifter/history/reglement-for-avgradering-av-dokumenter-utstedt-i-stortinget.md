@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "reglement-for-avgradering-av-dokumenter-utstedt-i-stortinget"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # reglement-for-avgradering-av-dokumenter-utstedt-i-stortinget — Change history
 
 _1 events; doc_id `sf-20190620-2325`._

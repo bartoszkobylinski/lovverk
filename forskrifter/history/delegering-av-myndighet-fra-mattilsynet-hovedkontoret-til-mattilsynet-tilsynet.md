@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndighet-fra-mattilsynet-hovedkontoret-til-mattilsynet-tilsynet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndighet-fra-mattilsynet-hovedkontoret-til-mattilsynet-tilsynet — Change history
 
 _1 events; doc_id `sf-20250429-0743`._

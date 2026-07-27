@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "føresegn-om-ulønt-arbeid-i-skattefunn"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # føresegn-om-ulønt-arbeid-i-skattefunn — Change history
 
-_2 events; doc_id `sf-20060207-0123`._
+_3 events; doc_id `sf-20060207-0123`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20060207-0123.md` → `"forskrifter/f\303\270resegn-om-ul\303\270nt-arbeid-i-skattefunn.md"`.
+Renamed: `forskrifter/sf-20060207-0123.md` → `forskrifter/føresegn-om-ulønt-arbeid-i-skattefunn.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

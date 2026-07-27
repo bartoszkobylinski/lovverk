@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-definisjon-av-marin-gassolje-i-svalbardmiljøloven-82a"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-definisjon-av-marin-gassolje-i-svalbardmiljøloven-82a — Change history
 
-_2 events; doc_id `sf-20211213-3514`._
+_3 events; doc_id `sf-20211213-3514`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20211213-3514.md` → `"forskrifter/forskrift-om-definisjon-av-marin-gassolje-i-svalbardmilj\303\270loven-82a.md"`.
+Renamed: `forskrifter/sf-20211213-3514.md` → `forskrifter/forskrift-om-definisjon-av-marin-gassolje-i-svalbardmiljøloven-82a.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-avfallshåndtering-og-avfalls-og-avløpsgebyrer-i-longyearbyen-planområde"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-avfallshåndtering-og-avfalls-og-avløpsgebyrer-i-longyearbyen-planområde — Change history
 
-_2 events; doc_id `sf-20230301-0435`._
+_3 events; doc_id `sf-20230301-0435`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20230301-0435.md` → `"forskrifter/forskrift-om-avfallsh\303\245ndtering-og-avfalls-og-avl\303\270psgebyrer-i-longyearbyen-planomr\303\245de.md"`.
+Renamed: `forskrifter/sf-20230301-0435.md` → `forskrifter/forskrift-om-avfallshåndtering-og-avfalls-og-avløpsgebyrer-i-longyearbyen-planområde.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

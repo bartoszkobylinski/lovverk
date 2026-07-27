@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-flyteutstyr-på-fritidsfartøy"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-flyteutstyr-på-fritidsfartøy — Change history
 
-_2 events; doc_id `sf-19950508-0409`._
+_3 events; doc_id `sf-19950508-0409`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-19950508-0409.md` → `"forskrifter/forskrift-om-flyteutstyr-p\303\245-fritidsfart\303\270y.md"`.
+Renamed: `forskrifter/sf-19950508-0409.md` → `forskrifter/forskrift-om-flyteutstyr-på-fritidsfartøy.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-tilpasninger-på-matområdet-eøs"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-tilpasninger-på-matområdet-eøs — Change history
 
-_2 events; doc_id `sf-20071029-1199`._
+_3 events; doc_id `sf-20071029-1199`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20071029-1199.md` → `"forskrifter/forskrift-om-tilpasninger-p\303\245-matomr\303\245det-e\303\270s.md"`.
+Renamed: `forskrifter/sf-20071029-1199.md` → `forskrifter/forskrift-om-tilpasninger-på-matområdet-eøs.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

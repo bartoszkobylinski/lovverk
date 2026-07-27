@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-godkjenning-for-utdanningsstøtte-i-norge"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-godkjenning-for-utdanningsstøtte-i-norge — Change history
 
-_2 events; doc_id `sf-20200327-0562`._
+_3 events; doc_id `sf-20200327-0562`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20200327-0562.md` → `"forskrifter/forskrift-om-godkjenning-for-utdanningsst\303\270tte-i-norge.md"`.
+Renamed: `forskrifter/sf-20200327-0562.md` → `forskrifter/forskrift-om-godkjenning-for-utdanningsstøtte-i-norge.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

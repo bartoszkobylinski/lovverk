@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "instruks-for-dsbs-koordinerende-roller"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # instruks-for-dsbs-koordinerende-roller — Change history
 
 _1 events; doc_id `sf-20050624-0688`._

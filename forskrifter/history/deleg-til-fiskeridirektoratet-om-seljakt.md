@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-til-fiskeridirektoratet-om-seljakt"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-til-fiskeridirektoratet-om-seljakt — Change history
 
 _1 events; doc_id `sf-20001101-1701`._

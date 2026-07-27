@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "oppr-av-næringsdep-og-nedl-av-industridep"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # oppr-av-næringsdep-og-nedl-av-industridep — Change history
 
 _1 events; doc_id `sf-19871218-0971`._

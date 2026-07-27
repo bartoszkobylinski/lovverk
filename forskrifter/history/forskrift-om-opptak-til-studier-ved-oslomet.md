@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-opptak-til-studier-ved-oslomet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-opptak-til-studier-ved-oslomet — Change history
 
 _4 events; doc_id `sf-20151215-1681`._
@@ -7,7 +14,7 @@ Lines: +2 -2.
 Subject: `update(forskrift): forskrift-om-opptak-til-studier-ved-oslomet`
 Commit: `0108532`.
 
-## 2026-04-29 — Filename renamed
+## 2026-04-29 — Content updated
 Lines: +2 -1.
 Subject: `migration: backfill eu_basis for 4523 documents`
 Commit: `3d499af`.

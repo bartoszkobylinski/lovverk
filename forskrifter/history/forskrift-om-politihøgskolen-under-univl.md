@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-politihøgskolen-under-univl"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-politihøgskolen-under-univl — Change history
 
-_2 events; doc_id `sf-20051216-1576`._
+_3 events; doc_id `sf-20051216-1576`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20051216-1576.md` → `"forskrifter/forskrift-om-politih\303\270gskolen-under-univl.md"`.
+Renamed: `forskrifter/sf-20051216-1576.md` → `forskrifter/forskrift-om-politihøgskolen-under-univl.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

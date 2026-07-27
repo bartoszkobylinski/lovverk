@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "omorganisering-av-departementene-1997"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # omorganisering-av-departementene-1997 — Change history
 
 _1 events; doc_id `sf-19961220-1156`._

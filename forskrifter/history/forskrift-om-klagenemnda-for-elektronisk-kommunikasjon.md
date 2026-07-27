@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "forskrift-om-klagenemnda-for-elektronisk-kommunikasjon"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-klagenemnda-for-elektronisk-kommunikasjon — Change history
 
-_2 events; doc_id `sf-20251223-2895`._
+_3 events; doc_id `sf-20251223-2895`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20251223-2895.md` → `forskrifter/forskrift-om-klagenemnda-for-elektronisk-kommunikasjon.md`.

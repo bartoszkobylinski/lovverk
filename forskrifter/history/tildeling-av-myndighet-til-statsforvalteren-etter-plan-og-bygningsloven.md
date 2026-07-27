@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "tildeling-av-myndighet-til-statsforvalteren-etter-plan-og-bygningsloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # tildeling-av-myndighet-til-statsforvalteren-etter-plan-og-bygningsloven — Change history
 
 _1 events; doc_id `sf-20260601-0976`._

@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-krav-til-fartøy-som-skal-fiske-og-føre-fangsten-levende"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-krav-til-fartøy-som-skal-fiske-og-føre-fangsten-levende — Change history
 
-_2 events; doc_id `sf-20051222-1682`._
+_3 events; doc_id `sf-20051222-1682`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20051222-1682.md` → `"forskrifter/forskrift-om-krav-til-fart\303\270y-som-skal-fiske-og-f\303\270re-fangsten-levende.md"`.
+Renamed: `forskrifter/sf-20051222-1682.md` → `forskrifter/forskrift-om-krav-til-fartøy-som-skal-fiske-og-føre-fangsten-levende.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

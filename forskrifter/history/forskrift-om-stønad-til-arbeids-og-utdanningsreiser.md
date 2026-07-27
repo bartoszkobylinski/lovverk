@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-stønad-til-arbeids-og-utdanningsreiser"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-stønad-til-arbeids-og-utdanningsreiser — Change history
 
-_2 events; doc_id `sf-20140516-0648`._
+_3 events; doc_id `sf-20140516-0648`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20140516-0648.md` → `"forskrifter/forskrift-om-st\303\270nad-til-arbeids-og-utdanningsreiser.md"`.
+Renamed: `forskrifter/sf-20140516-0648.md` → `forskrifter/forskrift-om-stønad-til-arbeids-og-utdanningsreiser.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

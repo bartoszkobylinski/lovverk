@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-til-hod-etter-genteknologiloven"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-til-hod-etter-genteknologiloven — Change history
 
 _1 events; doc_id `sf-20020301-0218`._

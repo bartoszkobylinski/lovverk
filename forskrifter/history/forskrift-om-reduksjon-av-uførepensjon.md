@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-reduksjon-av-uførepensjon"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-reduksjon-av-uførepensjon — Change history
 
-_2 events; doc_id `sf-20141126-1467`._
+_3 events; doc_id `sf-20141126-1467`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20141126-1467.md` → `"forskrifter/forskrift-om-reduksjon-av-uf\303\270repensjon.md"`.
+Renamed: `forskrifter/sf-20141126-1467.md` → `forskrifter/forskrift-om-reduksjon-av-uførepensjon.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

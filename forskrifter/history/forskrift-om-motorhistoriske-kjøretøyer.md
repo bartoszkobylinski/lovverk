@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-motorhistoriske-kjøretøyer"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-motorhistoriske-kjøretøyer — Change history
 
-_2 events; doc_id `sf-19910510-0300`._
+_3 events; doc_id `sf-19910510-0300`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-19910510-0300.md` → `"forskrifter/forskrift-om-motorhistoriske-kj\303\270ret\303\270yer.md"`.
+Renamed: `forskrifter/sf-19910510-0300.md` → `forskrifter/forskrift-om-motorhistoriske-kjøretøyer.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

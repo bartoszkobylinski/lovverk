@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-generell-godkjenning-av-utenlandsk-høyere-utdanning"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-generell-godkjenning-av-utenlandsk-høyere-utdanning — Change history
 
-_2 events; doc_id `sf-20240521-0789`._
+_3 events; doc_id `sf-20240521-0789`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20240521-0789.md` → `"forskrifter/forskrift-om-generell-godkjenning-av-utenlandsk-h\303\270yere-utdanning.md"`.
+Renamed: `forskrifter/sf-20240521-0789.md` → `forskrifter/forskrift-om-generell-godkjenning-av-utenlandsk-høyere-utdanning.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

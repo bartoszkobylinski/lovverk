@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtekter-for-norsk-tipping-as"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtekter-for-norsk-tipping-as — Change history
 
 _1 events; doc_id `sf-19921211-1266`._

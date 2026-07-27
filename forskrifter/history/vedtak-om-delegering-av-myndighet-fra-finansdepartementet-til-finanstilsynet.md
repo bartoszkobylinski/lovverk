@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "vedtak-om-delegering-av-myndighet-fra-finansdepartementet-til-finanstilsynet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # vedtak-om-delegering-av-myndighet-fra-finansdepartementet-til-finanstilsynet — Change history
 
 _1 events; doc_id `sf-20220329-0484`._

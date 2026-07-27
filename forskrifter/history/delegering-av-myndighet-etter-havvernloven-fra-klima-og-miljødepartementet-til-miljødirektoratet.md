@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "delegering-av-myndighet-etter-havvernloven-fra-klima-og-miljødepartementet-til-miljødirektoratet"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # delegering-av-myndighet-etter-havvernloven-fra-klima-og-miljødepartementet-til-miljødirektoratet — Change history
 
 _1 events; doc_id `sf-20260121-0064`._

@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "deleg-av-myndighet-til-å-oppheve-forskrifter"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # deleg-av-myndighet-til-å-oppheve-forskrifter — Change history
 
 _1 events; doc_id `sf-20010205-0116`._

@@ -1,9 +1,21 @@
+---
+type: "history"
+slug: "forskrift-om-tilskuddsordning-tilknyttet-nasjonalt-senter-for-jordobservasjon-i-tromsø"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-tilskuddsordning-tilknyttet-nasjonalt-senter-for-jordobservasjon-i-tromsø — Change history
 
-_2 events; doc_id `sf-20250620-1136`._
+_3 events; doc_id `sf-20250620-1136`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
-Renamed: `forskrifter/sf-20250620-1136.md` → `"forskrifter/forskrift-om-tilskuddsordning-tilknyttet-nasjonalt-senter-for-jordobservasjon-i-troms\303\270.md"`.
+Renamed: `forskrifter/sf-20250620-1136.md` → `forskrifter/forskrift-om-tilskuddsordning-tilknyttet-nasjonalt-senter-for-jordobservasjon-i-tromsø.md`.
 Lines: +2 -1.
 Subject: `migration: rename 4522 documents to slug-based filenames`
 Commit: `3dddeca`.

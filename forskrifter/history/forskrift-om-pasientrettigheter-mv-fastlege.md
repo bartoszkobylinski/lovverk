@@ -1,6 +1,18 @@
+---
+type: "history"
+slug: "forskrift-om-pasientrettigheter-mv-fastlege"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-pasientrettigheter-mv-fastlege — Change history
 
-_2 events; doc_id `sf-20120829-0843`._
+_3 events; doc_id `sf-20120829-0843`._
+
+## 2026-04-29 — Content updated
+Lines: +2 -1.
+Subject: `migration: backfill eu_basis for 4523 documents`
+Commit: `3d499af`.
 
 ## 2026-04-27 — Filename renamed
 Renamed: `forskrifter/sf-20120829-0843.md` → `forskrifter/forskrift-om-pasientrettigheter-mv-fastlege.md`.

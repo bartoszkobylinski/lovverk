@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskrift-om-rakettoppskyting-i-luftrommet-mv"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskrift-om-rakettoppskyting-i-luftrommet-mv — Change history
 
 _2 events; doc_id `sf-20260624-1327`._

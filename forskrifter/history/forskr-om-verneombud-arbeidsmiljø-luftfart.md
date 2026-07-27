@@ -1,3 +1,10 @@
+---
+type: "history"
+slug: "forskr-om-verneombud-arbeidsmiljø-luftfart"
+source_provider: "Lovdata"
+source_license: "NLOD 2.0"
+---
+
 # forskr-om-verneombud-arbeidsmiljø-luftfart — Change history
 
 _1 events; doc_id `sf-19860221-0539`._
